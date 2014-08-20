@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="traffic_uints">
+        <item>M</item>
+        <item>G</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>Jučer\u0020</item>
+        <item>Danas\u0020</item>
+        <item>Ovaj mjesec\u0020</item>
+    </string-array>
+	<string-array name="date_of_traffic_prefix">
+        <item>Jučer\u0020</item>
+        <item>Danas\u0020</item>
+        <item>Ovaj mjesec\u0020</item>
+	</string-array>
+    <string-array name="date_of_app_all">
+        <item>Jučer na 2G/3G\u0020</item>
+        <item>Danas na 2G/3G\u0020</item>
+        <item>Ovaj mjesec na 2G/3G\u0020</item>
+        <item>Jučer na WLAN-u\u0020</item>
+        <item>Danas na WLAN-u\u0020</item>
+        <item>Ovaj mjesec na WLAN-u\u0020</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Jučer 2G/3G</item>
+        <item>Danas 2G/3G</item>
+        <item>Ovaj mjesec 2G/3G</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3s</item>
+        <item>4s</item>
+        <item>5s</item>
+        <item>6s</item>
+        <item>7s</item>
+        <item>8s</item>
+        <item>9s</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>Uporaba podataka\u0020</item>
+        <item>WLAN uporaba\u0020</item>
+        <item>Ukupna uporaba\u0020</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Mobilni podaci "</item>
+        <item>"WLAN  "</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>Uporaba podataka</item>
+        <item>WLAN uporaba</item>
+        <item>Ušteda podataka</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>Nabavite predložak poruke automatski</item>
+        <item>Postavite predložak poruke ručno</item>
+    </string-array>
+</resources>

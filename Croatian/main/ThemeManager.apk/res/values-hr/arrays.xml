@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="audio_effect_file_showing_names">
+        <item>Zaključati</item>
+        <item>Otključati</item>
+        <item>Kliknuti</item>
+        <item>Brisati</item>
+        <item>Natrag</item>
+        <item>Standardno</item>
+        <item>Mjesto</item>
+        <item>Tipka za snimanje</item>
+        <item>Video snimanje</item>
+        <item>Odbrojavanje</item>
+        <item>Uspješna radnja fotoaparata</item>
+        <item>Neuspješna radnja fotoaparata</item>
+        <item>Djelovanje fotoaparata</item>
+        <item>Djelovanje fotoaparata 1</item>
+        <item>Djelovanje fotoaparata 2</item>
+        <item>Razmjena glazbe</item>
+        <item>Završena radnjA</item>
+        <item>Reproduciraj</item>
+        <item>Suspenzija</item>
+        <item>Brzo</item>
+        <item>Slaba baterija</item>
+    </string-array>
+</resources>

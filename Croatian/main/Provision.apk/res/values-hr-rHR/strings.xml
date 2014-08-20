@@ -1,0 +1,11 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="input_method_category">Prema zadanim postavkama, možete birati između raznih načina unosa. Odaberite prikladan način ovisno o vašim potrebama. Početnim korisnicima savjetujemo odabir zadanog načina unosa.</string>
+  <string name="input_method_setting">Odaberi način unosa</string>
+  <string name="other_settings">Ostale postavke</string>
+  <string name="other_settings_location">Pristup lokaciji</string>
+  <string name="other_settings_location_summary">Dopustite da karta i ostale aplikacije precizno odrede vašu lokaciju preko GPS-a</string>
+  <string name="other_settings_user_experience">Program korisničkog iskustva</string>
+  <string name="other_settings_user_experience_summary">Pomozi kompaniji Xiaomi pri poboljšavanju proizvoda i usluga šaljući anonimne dijagnostičke podatke i podatke o korištenju</string>
+  <string name="welcome">Dobro došli</string>
+</resources> 

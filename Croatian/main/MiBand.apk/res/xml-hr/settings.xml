@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:title="Alarm" android:key="settings_alarm_clock" android:summary="Neotvoreno">
+        <intent android:targetPackage="cn.com.smartdevices.bracelet" android:action="android.intent.action.MAIN" android:targetClass="cn.com.smartdevices.bracelet.ui.AlarmClockActivity" />
+    </Preference>
+    <Preference android:title="Praćenje postizanja cilja" android:key="settings_push_goals_progress" android:summary="50%,100%" />
+    <CheckBoxPreference android:title="Upozorenje slabe baterije" android:key="settings_push_low_battery" android:defaultValue="true" />
+    <Preference android:title="Firmware ažuriranje" android:key="settings_fw_upgrade" />
+    <Preference android:title="Poništavanje postavki" android:key="settings_bracelet_reset" />
+    <Preference android:title="Povratna informacija" android:key="settings_feedback" />
+    <Preference android:title="Detalji aplikacije" android:key="settings_about">
+        <intent android:targetPackage="cn.com.smartdevices.bracelet" android:action="android.intent.action.MAIN" android:targetClass="cn.com.smartdevices.bracelet.activity.BraceletInfoActivity" />
+    </Preference>
+</PreferenceScreen>

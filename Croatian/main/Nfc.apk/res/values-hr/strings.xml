@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accessibility_nfc_enabled">NFC omogućen.</string>
+  <string name="app_name">Nfc Service</string>
+  <string name="beam_canceled">Emitiranje otkazano</string>
+  <string name="beam_complete">Emitiranje je završeno</string>
+  <string name="beam_failed">Emitiranje nije dovršeno</string>
+  <string name="beam_handover_not_supported">Uređaj prijamnika ne podržava prijenos velikih datoteka emitiranjem.</string>
+  <string name="beam_progress">Dolazno emitiranje...</string>
+  <string name="beam_touch_to_view">Dodirnite za prikaz</string>
+  <string name="cancel">Odustani</string>
+  <string name="confirm_pairing">Jeste li sigurni da želite upariti Bluetooth uređaj %1$s?</string>
+  <string name="connect_headset_failed">Spajanje nije bilo moguće</string>
+  <string name="connected_headset">Povezan</string>
+  <string name="connecting_headset">Povezivanje</string>
+  <string name="disconnected_headset">Prekinuta veza</string>
+  <string name="disconnecting_headset">Prekid veze</string>
+  <string name="failed_to_enable_bt">Omogućavanje Bluetootha nije bilo moguće</string>
+  <string name="inbound_me_profile_text">Dodirnite kako biste ovu osobu dodali kao kontakt</string>
+  <string name="inbound_me_profile_title">Kontakt primljen NFC-om</string>
+  <string name="nfcUserLabel">NFC</string>
+  <string name="outbound_me_profile_text">Dodirnite kako biste ovoj osobi dali svoje podatke za kontakt.</string>
+  <string name="outbound_me_profile_title">NFC interakcija dovršena</string>
+  <string name="pair_no">Ne</string>
+  <string name="pair_yes">Da</string>
+  <string name="pairing_headset">Uparivanje</string>
+  <string name="pairing_headset_failed">Uparivanje nije bilo moguće</string>
+  <string name="touch">Dodirnite za emitiranje</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Nakon 1 minute</item>
+        <item>Nakon 5 minuta</item>
+        <item>Nakon 10 minuta</item>
+        <item>Nikad</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 sekundi</item>
+        <item>30 sekundi</item>
+        <item>1 minute</item>
+        <item>2 minute</item>
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>Nikad</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Viskoke performanse</item>
+        <item>Balansirano</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Nikad ne vibriraj</item>
+        <item>Vibracija kad je zvuk utišan</item>
+        <item>Uvijek vibriraj</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

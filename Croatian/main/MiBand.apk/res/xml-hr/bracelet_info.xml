@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:title="Firmware" android:key="bracelet_info_fw" android:summary="@string/bracelet_info_fw_version" />
+    <Preference android:title="Bluetooth" android:key="bracelet_info_bt" android:summary="@string/bracelet_info_mac_address" />
+    <Preference android:title="Baterija" android:key="bracelet_info_battery" android:summary="@string/bracelet_info_battery" />
+    <Preference android:title="ID uređaja" android:key="bracelet_info_deviceid" android:summary="@string/bracelet_info_deviceid" />
+    <Preference android:title="Poništavanje" android:key="bracelet_info_reset" android:summary="Izbriši osobne postavke" />
+    <Preference android:title="Verzija" android:key="app_info_version" android:summary="@string/app_info_version" />
+    <Preference android:title="Brisanje podataka" android:key="app_info_clear" android:summary="Izbriši sve postavke" />
+    <Preference android:title="Frekvencija povezivanja na MiBand" android:key="bracelet_info_set_desired_latency" android:summary="Podešavanje učestalosti povezivanja na MiBand" />
+    <Preference android:title="Firmware ažuriranje" android:key="bracelet_info_fw_upgrade" />
+</PreferenceScreen>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="contact_carrier_message">Kontaktirajte svog davatelja usluga ako imate dodatnih pitanja.</string>
+    <string name="default_lockscreen_unlock_hint_text">Pomakni prema gore</string>
+    <string name="emergency_call_string">SOS</string>
+    <string name="experimental_try_string">Pokušaj</string>
+    <string name="experimental_validate">Provjera</string>
+    <string name="experimental_validate_fail">Prijava nije uspjela</string>
+    <string name="experimental_validate_password">Zaporka</string>
+    <string name="experimental_validate_progress">Prijava…</string>
+    <string name="experimental_validate_thanks">Hvala!</string>
+    <string name="experimental_validate_username">Korisničko ime</string>
+    <string name="experimental_validate_warning">Hvala vam što pomažete učiniti MIUI boljim!</string>
+    <string name="find_device_check_sim">Provjra SIM-a…</string>
+    <string name="find_device_turn_off_flight_mode">Isključite način rada u zrakoplovu</string>
+    <string name="find_device_turn_off_flight_mode_instructions">"Vaš uređaj je zaključan.
+Isključite način rada u zrakoplovu."</string>
+    <string name="forget_password_string">Zaboravljena zaporka</string>
+    <string name="incorrect_pincode">Netočan PIN</string>
+    <string name="incorrect_pincode_remaining_attempts">Netočan PIN, preostalo pokušaja %d</string>
+    <string name="incorrect_pukcode">Netočan PUK</string>
+    <string name="incorrect_pukcode_remaining_attempts">Netočan PUK, preostalo pokušaja %d</string>
+    <string name="input_password_hint_text">Unesite zaporku</string>
+    <string name="input_pin_code">Unesite PIN</string>
+    <string name="input_pin_code_to_unlock">Unesite PIN da otključate uređaj</string>
+    <string name="input_puk_code">Unesite PUK</string>
+    <string name="input_puk_code_to_unlock">Unesite PUK da otključate uređaj</string>
+    <string name="lock_screen_date">EEEE, dd. MMMM</string>
+    <string name="lockscreen_access_pattern_cell_added">Ćelija dodana</string>
+    <string name="lockscreen_access_pattern_cleared">Uzorak obrisan</string>
+    <string name="lockscreen_access_pattern_detected">Uzorak završen</string>
+    <string name="lockscreen_access_pattern_start">Uzorak započet</string>
+    <string name="lockscreen_emergency_call">Hitan poziv</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Netočno ste pokušali otključati telefon %d puta. Nakon još %d neuspjelih pokušaja, telefon će se resetirati na tvorničke postavke i svi korisnički podaci će biti izgubljeni.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Netočno ste unijeli zaporku %d puta. Nakon još %d neuspjelih pokušaja, od vas će se tražiti da otključate telefon prijavom na vaš račun.
+Pokušajte ponovo za %d sek."</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Netočno ste pokušali otključati telefon %d puta. Telefon će se resetirati na tvorničke postavke.</string>
+    <string name="lockscreen_forgot_pattern_button_text">Zaboravljena</string>
+    <string name="lockscreen_glogin_checking_password">Provjera</string>
+    <string name="lockscreen_glogin_forgot_pattern">Otključavanje računa</string>
+    <string name="lockscreen_glogin_instructions">Da otključate, prijavite se u vaš Xiaomi račun</string>
+    <string name="lockscreen_glogin_invalid_input">Netočno korisničko ime ili zaporka.</string>
+    <string name="lockscreen_glogin_password_hint">Zaporka</string>
+    <string name="lockscreen_glogin_submit_button">Prijava</string>
+    <string name="lockscreen_glogin_too_many_attempts">Previše pokušaja iscrtavanja uzorka</string>
+    <string name="lockscreen_pattern_instructions">Nacrtajte uzorak za otključavanje</string>
+    <string name="lockscreen_pattern_wrong">Pokušajte ponovo:</string>
+    <string name="lockscreen_too_many_failed_attempts_countdown">Pokušajte ponovo za %d sek.</string>
+    <string name="lockscreen_transport_next_description">Dalje</string>
+    <string name="lockscreen_transport_play_description">Gumb reprodukcije</string>
+    <string name="lockscreen_transport_prev_description">Prethodno</string>
+    <string name="login_website_in_case_forget_password">Za resetiranje zaporke, idite na i.mi.com.</string>
+    <string name="miui_unlockscreen_password_wrong">Pokušajte ponovo :</string>
+    <string name="open_wifi_settings">Otvorite mrežnu vezu</string>
+    <string name="phone_locked_string">Telefon je zaključan</string>
+    <string name="phone_locked_timeout_minutes_string">Vratite se nakon %s minuta</string>
+    <string name="phone_locked_timeout_seconds_string">Vratite se nakon %s sekundi</string>
+    <string name="pin_operation_failed">PIN radnja neuspjela.</string>
+    <string name="pincode_set_to_default_msg">PIN je postavljen na 1234, možete ga promijeniti ovdje:</string>
+    <string name="puk_operation_failed">PUK radnja neuspjela.</string>
+    <string name="return_to_me_message">Ako je izgubljen, vratite ga</string>
+    <string name="screen_on_proximity_sensor_hint">Da onemogućite ovu značajku, istovremeno pritisnite tipku Natrag i Glasnoća</string>
+    <string name="screen_on_proximity_sensor_summary">"Nemojte prekrivati ​​gornji dio zaslona"</string>
+    <string name="screen_on_proximity_sensor_title">Spriječite biranje u džepu</string>
+    <string name="short_pincode_error_msg">Unesite 4–8 znamenaka</string>
+    <string name="short_pukcode_error_msg">Morate unijeti najmanje 8 znamenki.</string>
+    <string name="starting_camera_string">Uključivanje fotoaparata</string>
+    <string name="unlock_sim_string">Otključaj SIM</string>
+    <string name="unlock_string">U redu</string>
+    <string name="unlocking_sim_card">Otključavanje SIM kartice</string>
+    <string name="unlockscreen_low_battery">Priključite punjač</string>
+    <string name="unlockscreen_recharge_completed">Punjenje završeno</string>
+    <string name="unlockscreen_recharging_message">Punjenje %d%%</string>
+</resources>
