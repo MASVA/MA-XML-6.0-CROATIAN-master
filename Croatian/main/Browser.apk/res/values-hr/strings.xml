@@ -455,7 +455,6 @@
   <string name="pref_inverted_summary">Crno postaje bijelo i obrnuto</string>
   <string name="pref_key_gesture_title">Gumbi &amp; gesta</string>
   <string name="pref_key_title">Postavke gumba</string>
-  <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
   <string name="pref_link_prefetch_dialogtitle">Predučitavanje web stranica</string>
   <string name="pref_link_prefetch_summary">Dopustiti pregledniku predučitavanje povezanih web stranica u pozadini</string>
   <string name="pref_link_prefetch_title">Predučitavanje web stranica</string>
@@ -512,7 +511,6 @@
   <string name="pref_ua_string">Niz korisničkog agenta</string>
   <string name="pref_ua_title">Upravljanje korisničkim agentom</string>
   <string name="pref_version_summary">Version:%s</string>
-  <string name="pref_video_preload_default_value">@string/pref_video_preload_value_wifi_only</string>
   <string name="pref_video_preload_dialogtitle">Video preloading</string>
   <string name="pref_video_preload_summary">: Allow browser to preload videos when server allows</string>
   <string name="pref_video_preload_title">Preload videos</string>

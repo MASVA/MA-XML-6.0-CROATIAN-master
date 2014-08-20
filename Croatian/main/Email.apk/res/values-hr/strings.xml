@@ -359,7 +359,6 @@
   <string name="downlaod_nonWifi_confirm_message">Preuzimanje korištenjem mobilnog prijenosa podataka. Potvrdi korištenje</string>
   <string name="download_again">Preuzmi ponovo</string>
   <string name="download_before_sharing">" još nije završeno preuzimanje"</string>
-  <string name="download_failed">Nije preuzeto. Ponovite.</string>
   <string name="download_complete_not_cancel">Preuzimanje završeno</string>
   <string name="download_confirm_message">Preuzeti %1$s privitak?</string>
   <string name="download_confirm_title">Preuzimanje privitka</string>
@@ -389,7 +388,6 @@
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
   <string name="expand_recipient_details">Proširi podatke o primatelju</string>
   <string name="failed">Nije moguće učitati sliku</string>
-  <string name="feedback">Pošalji povratnu informaciju</string>
   <string name="feedback">Pošaljite povratne informacije</string>
   <string name="fetching_attachment">Dohvaćanje privitka</string>
   <string name="file_deleted_success">Datoteka izbrisana</string>
@@ -442,7 +440,6 @@
   <string name="general_preference_text_zoom_tiny">Sitan</string>
   <string name="generic_attachment_problem">Nije moguće priložiti datoteku.</string>
   <string name="header_category_account">Postavke računa</string>
-  <string name="header_category_general">@string/header_label_general_preferences</string>
   <string name="header_category_other">Ostalo</string>
   <string name="header_label_general_preferences">Opće postavke</string>
   <string name="help_and_info">Pomoć</string>
@@ -463,7 +460,6 @@
   <string name="invalid_recipient">Adresa %s nije važeća.</string>
   <string name="kilobytes">%s KB</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
-  <string name="load_attachment">@string/load_more</string>
   <string name="load_more">Učitaj više</string>
   <string name="loading_conversation">Učitavanje…</string>
   <string name="loading_conversations">Učitavanje…</string>
@@ -472,7 +468,7 @@
   <string name="login_failed_ticker">Prijava računa %s neuspješna.</string>
   <string name="login_failed_title">"Neuspjela prijava"</string>
   <string name="long_press_to_select_tip">Dodirnite &amp; zadržite za odabir jednog razgovora, zatim dodirnite da ih odaberete više.</string>
-  <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
+  <string name="long_string">duuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuugo</string>
   <string name="mail">E-pošta</string>
   <string name="mail_body_turncated">Ova poruka je prevelika za učitavanje, prikazati će se samo dio te je pročitajte na PC-u kasnije</string>
   <string name="mailbox_list_account_selector_combined_view">Kombinirani prikaz</string>
@@ -694,8 +690,6 @@ Kopija: %4$s
   <string name="quick_responses_empty_view">Nema brzih odgovora</string>
   <string name="quote_begin">&lt;div class=\"citiraj\"&gt;</string>
   <string name="quoted_text">Obuhvati citirani tekst</string>
-  <string name="quoted_text_background_color_string">@android:color/white</string>
-  <string name="quoted_text_font_color_string">@color/gray_text_color</string>
   <string name="quoted_text_label">Citirani tekst</string>
   <string name="read_string">razgovor je pročitan</string>
   <string name="recent_folders_heading">Nedavne mape</string>
