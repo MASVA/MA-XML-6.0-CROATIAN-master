@@ -1,27 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="format_for_exported_note">
-        <item>-%s</item>
-        <item>--%s</item>
-        <item>--%s</item>
-        <item>--%s</item>
-    </string-array>
-    <string-array name="menu_share_ways">
-        <item>Izvješće</item>
-        <item>E-pošta</item>
-    </string-array>
     <string-array name="contact_entries">
         <item>Ime</item>
         <item>Nadimak</item>
-        <item>"Telefon"</item>
+        <item>Telefon</item>
         <item>E-pošta</item>
-        <item>"Organizacija"</item>
-        <item>"IM"</item>
+        <item>Organizacija</item>
+        <item>IM</item>
         <item>SIP Telefon</item>
-        <item>"Rođendan"</item>
-        <item>"Web-lokacija"</item>
-        <item>"Adresa"</item>
-        <item>"Bilješke"</item>
+        <item>Rođendan</item>
+        <item>Web-lokacija</item>
+        <item>Adresa</item>
+        <item>Bilješka</item>
     </string-array>   
     <string-array name="font_size_names">
         <item>Maleno</item>
@@ -29,4 +19,24 @@
         <item>Veliko</item>
         <item>Super</item>
     </string-array>
+    <string-array name="welcome_notes_content">
+        <item>"Sada možete jednostavno pribilježiti ideje, bilješke, misli pomoću
+"</item>
+        <item>"Priložite fotografije ili kontakte
+"</item>
+        <item>"Prekrižite zadatake prstom
+"</item>
+        <item>"I još puno velikih mogućnosti!
+  - Sinkronizacija s Mi Cloud
+  - Postavljanje podsjetnika
+Ako želite saznati više, posjetite
+http://www.miui.com/forum.php?lang=1
+"</item>
+    </string-array>
+    <integer-array name="welcome_notes_color">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
 </resources> 

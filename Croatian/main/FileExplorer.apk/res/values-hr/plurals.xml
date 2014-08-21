@@ -40,4 +40,12 @@
          <item quantity="few">%1$d datoteka preostalo za učitavanje</item>
          <item quantity="many">%1$d datoteka preostalo za učitavanje</item>
     </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">%1$d odabrano</item>
+        <item quantity="zero">%1$d odabrano</item>
+        <item quantity="one">%1$d odabran</item>
+        <item quantity="two">%1$d odabrana</item>
+        <item quantity="few">%1$d odabrano</item>
+        <item quantity="many">%1$d odabrano</item>
+    </plurals>
 </resources> 

@@ -91,9 +91,9 @@
         <item>30</item>
     </string-array>
     <string-array name="volume_button_setting_entries">
-        <item>"Odgodi alarm"</item>
-        <item>"Odbaci"</item>
         <item>"Ne poduzimaj ništa"</item>
+        <item>"Odbaci"</item>
+        <item>"Odgodi alarm"</item>
     </string-array>
     <string-array name="volume_button_setting_values">
         <item>0</item>

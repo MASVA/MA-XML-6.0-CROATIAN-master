@@ -1,287 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="send_item">
-        <item>SMS</item>
-        <item>E-pošta</item>
-    </string-array>
-    <string-array name="act_weather_main_listview_key">
-        <item>Vjetar:</item>
-        <item>UV: </item>
-        <item>Odjeća:</item>
-        <item>Komfor:</item>
-        <item>Autopraonica:</item>
-        <item>Indeks sušenja:</item>
-        <item>Jutarnja tjelovježba:</item>
-        <item>Slobodno vrijeme:</item>
-    </string-array>
-	<string-array name="weather_image">
-        <item>vedro</item>
-        <item>oblačno</item>
-        <item>maglovito</item>
-        <item>maglovito</item>
-        <item>lijeva</item>
-        <item>pada kiša</item>
-        <item>pada kiša</item>
-        <item>olujno</item>
-        <item>lijeva</item>
-        <item>lijeva</item>
-        <item>pada kiša</item>
-        <item>rominja</item>
-        <item>sniježi</item>
-        <item>sniježi</item>
-        <item>sniježi</item>
-        <item>sniježi</item>
-        <item>sniježi</item>
-        <item>sniježi</item>
-        <item>olujno</item>
-        <item>olujno</item>
-        <item>olujno</item>
-        <item>olujno</item>
-        <item>tuča</item>
-        <item>prašnjavo</item>
-        <item>maglovito</item>
-    </string-array>
-    <string-array name="weather_details_key">
-        <item>Nedostupno</item>
-        <item>Pogodno</item>
-        <item>Dobro</item>
-        <item>Izbjegavajte, ako je moguće</item>
-        <item>Nije preporučljivo</item>
-        <item>Idealno</item>
-        <item>Umjereno</item>
-        <item>Slabo</item>
-        <item>Srednje</item>
-        <item>Snažno</item>
-        <item>Jako snažno</item>
-        <item>Hladno</item>
-        <item>Udobno</item>
-        <item>Jako vruće</item>
-        <item>Vruće</item>
-        <item>Toplo</item>
-        <item>Hladno</item>
-        <item>Hladnije</item>
-        <item>Hladno</item>
-        <item>Ledeno</item>
-        <item>Visoko</item>
-        <item>Srednje</item>
-        <item>Nisko</item>
-        <item>Vedro nebo</item>
+    <string-array name="weather_type">
+        <item>Sunčano</item>
         <item>Oblačno</item>
-        <item>Kiša</item>
-        <item>Snježna oluja</item>
+        <item>Naoblaka</item>
+        <item>Maglovito</item>
+        <item>Teški pljuskovi</item>
+        <item>Pljuskovi</item>
+        <item>Pljuskovi</item>
+        <item>Oluja</item>
+        <item>Pljuskovi</item>
+        <item>Teška kiša</item>
+        <item>Umjerena kiša</item>
+        <item>Lagana kiša</item>
+        <item>Kiša s snijegom</item>
+        <item>Vijavica</item>
         <item>Snijeg</item>
-        <item>Relativno pogodni uvjeti</item>
-        <item>Pogodni uvjeti</item>
-        <item>Oblačno</item>
-        <item>Manje od idealnog</item>
-        <item>Idealni uvjeti</item>
-        <item>Loši uvjeti</item>
-        <item>Prosječni uvjeti</item>
+        <item>Gust snijeg</item>
+        <item>Umjeren snijeg</item>
+        <item>Susnježica</item>
+        <item>Jaka pješč. oluja</item>
+        <item>Pješčana oluja</item>
+        <item>Pijesak</item>
+        <item>Vjetrovito</item>
+        <item>Tuča</item>
+        <item>Prašnjavo</item>
+        <item>Sumaglica</item>
+        <item>Ledena kiša</item>
+        <item>Nema podataka</item>
     </string-array>
-    <string-array name="weather_image_tips">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item>Ponesite kišobran!</item>
-        <item>Ponesite kišobran!</item>
-        <item>Ponesite kišobran!</item>
-        <item>Ponesite kišobran!</item>
-        <item>Ponesite kišobran!</item>
-        <item>Ponesite kišobran!</item>
-        <item>Ponesite kišobran!</item>
-        <item>Ponesite kišobran!</item>
-        <item>Ponesite kišobran!</item>
-        <item>Obucite se dobro!</item>
-        <item>Obucite se dobro!</item>
-        <item>Obucite se dobro!</item>
-        <item>Obucite se dobro!</item>
-        <item>Obucite se dobro.</item>
-        <item>Budite na oprezu.</item>
-        <item>Budite na oprezu.</item>
-        <item>Budite na oprezu.</item>
-        <item>Budite na oprezu.</item>
-        <item>Budite na oprezu! Ceste su skliske</item>
+    <string-array name="weather_indexes_uv_level">
+        <item>Najslabije</item>
+        <item>Slabije</item>
+        <item>Srednje</item>
+        <item>Jako</item>
+        <item>Najjače</item>
     </string-array>
-    <string-array name="weather_sms_content">
-        <item>Koristite kremu za sunčanje.</item>
-        <item>Biti će oblačno danas.</item>
-        <item>Pokušajte ostati kod kuće.</item>
-        <item>Vozite pažljivo</item>
-        <item>Ponesite kišobran!</item>
-        <item>Ponesite kišobran!</item>
-        <item>Ponesite kišobran!</item>
-        <item>Ponesite kišobran!</item>
-        <item>Ponesite kišobran!</item>
-        <item>Ponesite kišobran!</item>
-        <item>Ponesite kišobran!</item>
-	<item>Ponesite kišobran!</item>
-        <item>Ponesite kišobran!</item>
-        <item>Stvarno dolazi loše vrijeme</item>
-        <item>Ne zaboravite šešir i šal!</item>
-        <item>Obucite se dobro</item>
-        <item>Ne zaboravite šešir i šal!</item>
-        <item>Ne zaboravite šešir i šal!</item>
-        <item>Ne zaboravite šešir i šal!</item>
-        <item>Ne zaboravite masku za lice.</item>
-        <item>Ne zaboravite masku za lice.</item>
-        <item>Ne zaboravite masku za lice.</item>
-        <item>Stvarno dolazi loše vrijeme.</item>
-        <item>Ne zaboravite masku za lice</item>
-        <item>Oostanite u kući.</item>
-    </string-array>
-    <string-array name="weather_sms_addons">
-        <item>"Današnja prognoza @: $."</item>
-        <item>Min~Max: % °C.</item>
-        <item>Ne zaboravite ponijeti kišobran!</item>
-        <item>Nemojte pokisnuti</item>
-        <item>Ukoliko sušite odjeću vani, ne zaboravite je pospremiti! :)"</item>
-        <item>"Ako je moguće, nemojte voziti."</item>
-        <item>Vozite pažljivo!</item>
-        <item>"Budite na oprezu vani,sklisko je."</item>
-        <item>Bez žurbe. Budite na oprezu</item>
-        <item>Budite na oprezu vani.</item>
-        <item>"Ne izlazite ako ne morate."</item>
-        <item>Nanesite kremu za sunčanje i ponesite sunčane naočale.</item>
-        <item>Nanesite kremu za sunčanje i ponesite sunčane naočale.</item>
-        <item>"Vjetrovito je vani, ponesite jaknu."</item>
-        <item>Kvaliteta zraka je loša, ne zaboravite nositi masku.</item>
-        <item>Ponesite jaknu.</item>
-        <item>Ne zaboravite masku za lice :)</item>
-        <item>Ne zaboravite ponijeti šešir i rukavice.</item>
-        <item>"Vani je vruće!"</item>
-        <item>"Vani je vruće!"</item>
-        <item>Obucite se!</item>
-        <item>Hladna čarolija dolazi…</item>
-        <item>Obucite se!</item>
-        <item>Nosite štitnike za uši, ako ih imate! :)</item>
-        <item>Idite na trčanje!</item>
-        <item>Idite na trčanje da ulovite malo sunca! :)</item>
-        <item>"Dobar dan za sušenje odjeće!"</item>
-        <item>"Postaje hladno, ne zaboravite obući jaknu!"</item>
-    </string-array>
-    <string-array name="weather_info_uv">
-        <item>0</item>
-        <item>Nedostupno</item>
-        <item>6</item>
-        <item>Koristite kremu za sunčanje, nosite šešir i sunčane naočale kad idete van.</item>
-        <item>7</item>
-        <item>Koristite kremu za sunčanje, nosite šešir i sunčane naočale kad idete van.</item>
-        <item>8</item>
-        <item>Koristite kremu za sunčanje, nosite šešir i sunčane naočale kad idete van.</item>
-        <item>9</item>
-        <item>Izbjegavajte sunce, ako je to moguće. Koristite kremu za sunčanje, ako morate ići van!</item>
-        <item>10</item>
-        <item>Izbjegavajte sunce, ako je to moguće. Koristite kremu za sunčanje, ako morate ići van!</item>
-    </string-array>
-    <string-array name="weather_info_dress">
-        <item>0</item>
-        <item>Nedostupno</item>
-        <item>11</item>
-        <item>Lagana jakna</item>
-        <item>12</item>
-        <item>Lagana jakna</item>
-        <item>13</item>
-        <item>Ljetna odjeća</item>
-        <item>14</item>
-        <item>Ljetna odjeća</item>
-        <item>15</item>
-        <item>Lagana jakna</item>
-        <item>16</item>
-        <item>Ne zaboravite ponijeti dodatnu odjeću!</item>
-        <item>17</item>
-        <item>Ponesite jaknu!</item>
-        <item>18</item>
-        <item>Obucite se!</item>
-        <item>19</item>
-        <item>Obucite se!</item>
-    </string-array>
-    <string-array name="weather_info_msport">
-        <item>0</item>
-        <item>Nedostupno</item>
-        <item>1</item>
-        <item>"Dobar dan za jutarnju tjelovježbu!"</item>
-        <item>2</item>
-        <item>Ponesite dodatnu odjeću!</item>
-        <item>3</item>
-        <item>Vrijeme nije idealno; ponesite dodatnu odjeću!</item>
-        <item>4</item>
-        <item>Radite tjelovježbu u kući!</item>
-    </string-array>
-    <string-array name="weather_info_comfort">
-        <item>0</item>
-        <item>Nedostupno</item>
-        <item>20</item>
-        <item>Temperatura će biti stabilna</item>
-        <item>21</item>
-        <item>Svježe i udobno</item>
-        <item>22</item>
-        <item>Temperatura će biti nestabilna</item>
-        <item>23</item>
-        <item>Vedro nebo i neugodna temperatura</item>
-        <item>24</item>
-        <item>Vruće i sparno! :(</item>
-    </string-array>
-    <string-array name="weather_info_wcar">
-        <item>0</item>
-        <item>Nedostupno</item>
-        <item>1</item>
-        <item>"Dobar dan za pranje automobila!"</item>
-        <item>2</item>
-        <item>"Dobar dan za pranje automobila!"</item>
-        <item>3</item>
-        <item>"Padati će kiša, odgodite pranje automobila."</item>
-        <item>25</item>
-        <item>"Padati će kiša, odgodite pranje automobila."</item>
-        <item>26</item>
-        <item>"Pješčana oluja u prognozi, odgodite pranje automobila."</item>
-        <item>27</item>
-        <item>"Padati će snijeg, odgodite pranje automobila."</item>
-        <item>4</item>
-        <item>Odgodite pranje automobila.</item>
-    </string-array>
-    <string-array name="weather_info_hung">
-        <item>0</item>
-        <item>Nedostupno</item>
-        <item>28</item>
-        <item>Objesite odjeću da se osuši poslijepodne.</item>
-        <item>29</item>
-        <item>Objesite odjeću da se osuši u bilo koje vrijeme.</item>
-        <item>30</item>
-        <item>Oblačno s visokim temperaturama, odjeća će se posušiti.</item>
-        <item>1</item>
-        <item>Vrijeme je pogodno za sušenje odjeće.</item>
-        <item>3</item>
-        <item>Kiša će padati povremeno tijekom dana.</item>
-        <item>5</item>
-        <item>Dobri uvjeti za sušenje.</item>
-        <item>4</item>
-        <item>Osušite odjeću u zatvorenom prostoru.</item>
-        <item>31</item>
-        <item>Osušite odjeću u zatvorenom prostoru.</item>
-    </string-array>
-    <string-array name="weather_info_travel">
-        <item>0</item>
-        <item>Nedostupno</item>
-        <item>32</item>
-        <item>Vedro i sunčano s dobrom temperaturom.</item>
-        <item>2</item>
-        <item>Blaga i stabilna temperatura.</item>
-        <item>1</item>
-        <item>Blaga i stabilna temperatura.</item>
-        <item>3</item>
-        <item>"Vrijeme će danas biti nestabilno."</item>
-        <item>33</item>
-        <item>"Vrijeme će danas biti nestabilno."</item>
-        <item>34</item>
-        <item>Vedro nebo, blagi vjetar.</item>
-    </string-array>
-    <string-array name="weather_info_fl">
-        <item></item>
-        <item>Zaštitite se!</item>
-        <item>Povjetarac</item>
-        <item>Udobno</item>
-        <item>N</item>
-        <item>Nedostupno</item>
+    <string-array name="wind_direction">
+        <item>Vjetar S</item>
+        <item>Vjetar SI</item>
+        <item>Vjetar I</item>
+        <item>Vjetar JI</item>
+        <item>Vjetar J</item>
+        <item>Vjetar JZ</item>
+        <item>Vjetar Z</item>
+        <item>Vjetar SZ</item>
     </string-array>
 </resources>
