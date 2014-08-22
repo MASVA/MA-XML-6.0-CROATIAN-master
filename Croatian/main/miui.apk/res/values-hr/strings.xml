@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-      <string name="abc_action_bar_home_description">Doma</string>
+    <string name="abc_action_bar_home_description">Doma</string>
     <string name="abc_action_bar_up_description">Gore</string>
     <string name="action_mode_deselect_all">Poništi odabir za sve</string>
     <string name="action_mode_select_all">Odaberi sve</string>
     <string name="action_mode_title_empty">Odaberi</string>
     <string name="activate">Aktiviranje</string>
-    <string name="activate_fail_notification_title">Reaktivirajte sinkronizaciju.</string>
+    <string name="activate_fail_notification_title">Ponovno aktivirajte sinkronizaciju.</string>
     <string name="activating">Aktivacija…</string>
     <string name="afternoon">PM</string>
     <string name="am">AM</string>

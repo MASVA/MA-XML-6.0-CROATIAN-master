@@ -522,14 +522,13 @@
         <item>Balansirano</item>
     </string-array>
        <string-array name="msd_pc_system">
-        <item>Windows XP i starije verzije Windowsa</item>
+        <item>Windows XP i starije</item>
         <item>Windows Vista,7,8</item>
-        <item>Mac OS</item>
+        <item>OSX</item>
         <item>Linux</item>
     </string-array>
     <string-array name="msd_pc_system_install_summary">
-        <item>"2. Čarobnjak je prikazan tijekom instalacije, 
-Slijedite upute"</item>
+        <item>"2.Slijedite upute na zaslonu"</item>
         <item></item>
         <item></item>
         <item></item>
@@ -550,8 +549,8 @@ Slijedite upute"</item>
         <item>Potvrdite prava skupine</item>
         <item>Prijavite se ponovo</item>
         <item>Pristup uređaju mtpfs/media/mtp putem preglednika datoteka</item>
-        <item>"Odinštalácia zariadenia fusermount -u /media/mtp
- Napomena: Za Ubuntu 8.04"</item>
+        <item>"Deinstalacija uređaja: fusermount -u /media/mtp
+ Napomena: Za Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="screen_color_title">
         <item>Toplo</item>
@@ -639,5 +638,10 @@ Slijedite upute"</item>
 	<string-array name="priority_storage_entries">
         <item>Unutarnja memorija</item>
         <item>Vanjska memorija</item>
+    </string-array>
+	<string-array name="miracast_policies">
+        <item>Kraća odgoda</item>
+        <item>Standardno</item>
+        <item>Bolja kvaliteta</item>
     </string-array>
 </resources>

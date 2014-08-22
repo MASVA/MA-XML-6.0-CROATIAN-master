@@ -54,7 +54,7 @@
     </string-array>
     <string-array name="wallpaper_scroll_entries">
         <item>Zadane postavke teme</item>
-        <item>"Sredina"</item>
+        <item>Sredina</item>
         <item>Lijevo</item>
         <item>Desno</item>
     </string-array>
@@ -78,7 +78,7 @@
     </string-array>
     <string-array name="gadget_weather_image">
         <item>Vedro</item>
-        <item>"Oblačno"</item>
+        <item>Oblačno</item>
         <item>Izmaglica</item>
         <item>Maglovito</item>
         <item>Teški kišna oluja</item>
