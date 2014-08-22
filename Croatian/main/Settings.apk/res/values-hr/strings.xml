@@ -902,7 +902,7 @@ Neke aplikacije neće raditi dok ih ne ažuriraju njihovi razvijatelji."</string
   <string name="error_mnc_not23">Polje MNC mora imati 2 ili 3 znamenke.</string>
   <string name="error_name_empty">Polje naziva ne može biti prazno.</string>
   <string name="error_title"/>
-  <string name="external_code_size_label">Aplikacija USB pohrane<</string>
+  <string name="external_code_size_label">Aplikacija USB pohrane</string>
   <string name="external_data_size_label">Podaci USB pohrane</string>
   <string name="factory_reset_summary">"Izbrisati sve podatke s unutarnje pohrane telefona.</string>
   <string name="failed_to_open_app_settings_toast">Otvaranje postavki za aplikaciju %1$s nije uspjelo</string>
@@ -1056,7 +1056,7 @@ Neke aplikacije neće raditi dok ih ne ažuriraju njihovi razvijatelji."</string
   <string name="immediately_destroy_activities_summary">Uništite svaku aktivnost čim je korisnik napusti</string>
   <string name="ims_reg_required_off">Treba isključiti IMS prijavu</string>
   <string name="ims_reg_required_on">Treba uključiti IMS prijavu</string>
-  <string name="incoming_call_breathing_light_color_title"Boja LED-a kod poziva</string>
+  <string name="incoming_call_breathing_light_color_title">Boja LED-a kod poziva</string>
   <string name="incoming_call_breathing_light_freq_title">Frekvencija treperenja LED-a kod poziva</string>
   <string name="incoming_call_volume_title">Zvuk zvona</string>
   <string name="input_method">Način unosa</string>
