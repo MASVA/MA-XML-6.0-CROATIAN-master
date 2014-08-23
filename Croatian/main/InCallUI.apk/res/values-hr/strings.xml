@@ -79,15 +79,15 @@
   <string name="call_title_redialing_with_times_miui">%d puta ponovno pozvano</string>
   <string name="caller_manage_header">Konferencijski poziv %s</string>
   <string name="calling_via_template">Pozivanje putem %s</string>
-  <string name="card_title_call_ended">Poziv završen</string>
-  <string name="card_title_conf_call">Konferencijski poziv</string>
+  <string name="card_title_call_ended">"Poziv završen "</string>
+  <string name="card_title_conf_call">"Konferencijski poziv "</string>
   <string name="card_title_dialing">Pozivanje</string>
   <string name="card_title_hanging_up">Prekid poziva</string>
   <string name="card_title_in_call">U pozivu</string>
   <string name="card_title_in_call_short">Poziv</string>
   <string name="card_title_incoming_call">Dolazni poziv</string>
   <string name="card_title_my_phone_number">Moj broj je %s</string>
-  <string name="card_title_on_hold">Na čekanju</string>
+  <string name="card_title_on_hold">"Na čekanju "</string>
   <string name="card_title_redialing">Ponovni pokušaj</string>
   <string name="card_title_threeway_call">Trostrani poziv</string>
   <string name="cb_sms_settings">SMS Cell Broadcast Postavke</string>
@@ -115,7 +115,7 @@
   <string name="confirmPinLabel">Potvrdi novi PIN</string>
   <string name="connect_later">Nemoguće se povezati na ovu mrežu trenutno. Pokušajte ponovno.</string>
   <string name="contactPhoto">Slika kontakta</string>
-  <string name="contacts_icon_label_miui">Kontakti</string>
+  <string name="contacts_icon_label">Kontakti</string>
   <string name="custom_message_cancel">Odustani</string>
   <string name="custom_message_send">Pošalji</string>
   <string name="data_enable_summary">Omogućiti pristup podacima putem mobilne mreže</string>

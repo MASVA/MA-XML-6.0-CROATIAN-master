@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accept">U redu</string>
-  <string name="add_to_contacts">Dodaj kontaktu</string>
+  <string name="add_to_contacts">Dodaj u kontakte</string>
   <string name="address">Adresa:</string>
   <string name="allow_check_website_security">Uvjerite se da su web stranice sigurne prije spajanja</string>
   <string name="app_details">Aplikacija:</string>
@@ -18,14 +18,14 @@
   <string name="contact_details">Detalji kontakta:</string>
   <string name="continue_access_web_url">Siguran pristup</string>
   <string name="copy">Kopiraj</string>
-  <string name="copy_succeed">Kopiranje uspješno</string>
+  <string name="copy_succeed">Kopirano</string>
   <string name="copy_text">Kopiraj tekst</string>
   <string name="copy_text_success">Kopiranje uspješno</string>
   <string name="download_by_browser">Preuzmi pomoću Preglednika</string>
   <string name="download_qq">Preuzmi QQ</string>
   <string name="download_wechat">Preuzmi WeChat</string>
   <string name="email">E-pošta:</string>
-  <string name="fail_generate_barcode">Neuspjelo generiranje barkoda ili QR koda</string>
+  <string name="fail_generate_barcode">"Ne mogu napraviti kod"</string>
   <string name="find_cloud_album">Skeniranje QR koda Cloud albuma</string>
   <string name="flash_lable">Svjetiljka</string>
   <string name="import_contact">Uvezi kontakt</string>
@@ -37,9 +37,9 @@
   <string name="not_recommend_access_web_url">Siguran pristup (nije preporučljivo)</string>
   <string name="not_tips">"Ne prikazuj ponovo"</string>
   <string name="note">Bilješka:</string>
-  <string name="open_flash_error">Neuspjelo uključivanje bljeskalice</string>
+  <string name="open_flash_error">"Ne mogu uključiti svjetiljku"</string>
   <string name="phone">Telefon:</string>
-  <string name="picker_lable">Galerija</string>
+  <string name="picker_lable">Slika</string>
   <string name="place_barcode_into_rectangle">Postavite QR kod ili barkod unutar tražila</string>
   <string name="qq_details">QQ detalji:</string>
   <string name="qr_code_details">Detalji QR koda:</string>
@@ -54,19 +54,19 @@
   <string name="tips_message">"Morate biti povezati s internetom kako bi provjerili je li web stranica koju želite posjetiti sigurna."</string>
   <string name="tips_title">Internet povezivanje</string>
   <string name="title">Titula:</string>
-  <string name="url_is_phish">Ova web stranica je osumnjičen za krađu identiteta podataka (yikes!).</string>
-  <string name="url_is_safety">Ova web stranica je sigurna.</string>
-  <string name="url_is_unknown">"Ne mogu potvrditi da je ova stranica sigurna. Pregledavanje na vlastitu odgovornost."</string>
+  <string name="url_is_phish">Ova je web stranica osumnjičena za krađu identiteta podataka (yikes!).</string>
+  <string name="url_is_safety">Ova je web stranica sigurna.</string>
+  <string name="url_is_unknown">"Ne mogu potvrditi sigurnost ove stranice. Pregledavanje na vlastitu odgovornost."</string>
   <string name="url_is_unsafety">"Ova stranica predstavlja rizik za sigurnost podataka korisnika."</string>
-  <string name="vcard_prompt">Ne mogu dodati kontaktu, nedostaje ime</string>
+  <string name="vcard_prompt">"Ne mogu dodati u kontakte, jer ne postoji ime povezano s ovom karticom"</string>
   <string name="visit_cloud_album">Posjetite cloud album</string>
   <string name="web">Web:</string>
-  <string name="web_url_apk_warning">Ova je aplikacija iz nepoznatog izvora i može biti sigurnosni rizik. Predlažemo da samo instalirate aplikacije iz pouzdanih izvora.</string>
-  <string name="web_url_warning">Povezana web stranica je iz nepoznatog izvora i može biti sigurnosni rizik.</string>
+  <string name="web_url_apk_warning">Ova je aplikacija iz nepoznatog izvora i može predstavljati sigurnosni rizik. Predlažemo da instalirate aplikacije samo iz pouzdanih izvora.</string>
+  <string name="web_url_warning">Povezana web stranica je iz nepoznatog izvora i može predstavljati sigurnosni rizik.</string>
   <string name="website_details">Detalji web stranice:</string>
   <string name="wechat_details">Detalji WeChat:</string>
   <string name="wifi_connect_current_connetion">Povezano na WLAN</string>
-  <string name="wifi_connect_fail">"Ne mogu se povezati na ovu mrežu"</string>
+  <string name="wifi_connect_fail">"Ne mogu se povezati na mrežu"</string>
   <string name="wifi_connect_not_found">Nema otkrivenih WLAN mreža</string>
   <string name="wifi_connect_success">Povezano</string>
   <string name="wifi_connecting">Povezivanje…</string>

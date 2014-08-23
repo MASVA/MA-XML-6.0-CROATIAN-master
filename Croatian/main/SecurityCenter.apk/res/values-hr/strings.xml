@@ -143,6 +143,7 @@
   <string name="dialog_title_load_cleanup_engine_error">Greška</string>
   <string name="dialog_title_stop_virus_scan">Zaustavi skeniranje</string>
   <string name="dialog_title_uninstall_apps">Deinstaliraj</string>
+  <string name="enable_mobile_data_when_opening_hotspot">Dopustiti mobilne podatke?</string>
   <string name="empty_title_ad">Nema pronađenih reklama</string>
   <string name="empty_title_apk">Nema instaliranih paketa</string>
   <string name="empty_title_auto_start_list">Nema auto pokretanih aplik.</string>
@@ -241,6 +242,7 @@
   <string name="hints_virus_name_title">Virus:</string>
   <string name="hints_virus_scan_result_descx">Ova aplikacija je opasna za vašu sigurnost</string>
   <string name="item_app_permission">Dopuštenja aplikacija</string>
+  <string name="item_dev_mode">Opcije Developera</string>
   <string name="item_garbage_size_1000m">1GB</string>
   <string name="item_garbage_size_100m">100MB</string>
   <string name="item_garbage_size_300m">300MB</string>
@@ -521,6 +523,7 @@ Uređaj je postavljen da se prebaci na ovu konfiguraciju kad se baterija oporavi
   <string name="st_title_mode_choose_group">Odaberite način</string>
   <string name="suffix_virus_count_bottom">Sveukupno</string>
   <string name="suffix_virus_count_top">Rizika</string>
+  <string name="summary_dev">Izbjegavajte aplikacije koje kradu korisničke podatke</string>
   <string name="summary_install_virus">Provjerite aplikacije za viruse prije instalacije</string>
   <string name="summary_mms">Filtriraj neželjene poruke (prodaja, oglasi, itd.)</string>
   <string name="summary_permission">Zaštiti moju privatnost od drugih aplikacija</string>
@@ -533,6 +536,8 @@ Uređaj je postavljen da se prebaci na ovu konfiguraciju kad se baterija oporavi
   <string name="title_app_update_yes">Sve aplikacije su ažurne!</string>
   <string name="title_data_flow_no">Nadzor Uporabe podataka isključen</string>
   <string name="title_data_flow_yes">Nadzor Uporabe podataka uključen</string>
+  <string name="title_dev_no">Opcije Developera uključene</string>
+  <string name="title_dev_yes">Opcije Developera isključene</string>
   <string name="title_install_virus_no">Instalacija nadzora isključena</string>
   <string name="title_install_virus_yes">Instalacija nadzora uključena</string>
   <string name="title_miui_update_no">MIUI ažuriranje: %s</string>

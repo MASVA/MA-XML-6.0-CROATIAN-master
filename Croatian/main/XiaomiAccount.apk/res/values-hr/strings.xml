@@ -9,7 +9,7 @@
   <string name="account_dspt_provision">Koristite jedan račun za sve Xiaomi proizvode.</string>
   <string name="account_hint_text">E-pošta/Tel. broj</string>
   <string name="account_name">Račun: %1$s</string>
-  <string name="account_sec_dspt">MiCloud, MiPhone, MIUI, MiTalk</string>
+  <string name="account_sec_dspt">MIUI, Mi Cloud, Mi Market, Mi Store</string>
   <string name="activate_phone_failed_notif_title">Neuspjela aktivacija MiCloud usluge</string>
   <string name="activate_phone_failed_notif_title_msim">Neuspjela aktivacija MiCloud usluge za SIM %</string>
   <string name="activate_phone_send_sms_fail">Slanje aktivacijskog SMS-a nije uspjelo, nije moguće sinkronizirati</string>
@@ -99,6 +99,7 @@
   <string name="error_no_sms_service">SMS usluga nije dostupna</string>
   <string name="error_server">Greška poslužitelja</string>
   <string name="error_sim_not_ready">SIM nije spreman</string>
+  <string name="error_ssl_hand_shake">Pogreška s povezivanjem na poslužitelja. Pokušajte postaviti datum/vrijeme vašeg sustava na trenutačno vrijeme.</string>
   <string name="error_unknown">Nepoznata greška: %1$s</string>
   <string name="error_user_name">Korisničko ime nije ispravno!</string>
   <string name="error_verify_code">Unešeni kod nije ispravan</string>
