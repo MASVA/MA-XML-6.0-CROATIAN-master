@@ -9,6 +9,11 @@
         <item quantity="one">%s sek</item>
         <item quantity="few">%s sek</item>
     </plurals>
+    <plurals name="slide_audio_duration">
+        <item quantity="other">%s sek</item>
+        <item quantity="one">%s sek</item>
+        <item quantity="few">%s sek</item>
+    </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s rezultata za \"%2$s\"</item>
         <item quantity="one">%1$s rezultat za \"%2$s\"</item>

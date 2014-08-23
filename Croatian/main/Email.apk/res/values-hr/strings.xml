@@ -760,7 +760,7 @@ Kopija: %4$s
   <string name="ser_resp_err_map_serclosed">Usluga zatvorena</string>
   <string name="ser_resp_err_map_ssl">"Pokušajte odabrati 'SSL/TLS (Prihvati sve certifikate)' u 'Vrsta sigurnosti'"</string>
   <string name="set_network">Postavljanje mreže</string>
-  <string name="settings_activity_title">Postavke</string>
+  <string name="settings_activity_title">E-pošta</string>
   <string name="sharing">Dijeli</string>
   <string name="shortcut_name_title">Naziv prečaca mape</string>
   <string name="show_elided">▶ Prikaži citirani tekst</string>

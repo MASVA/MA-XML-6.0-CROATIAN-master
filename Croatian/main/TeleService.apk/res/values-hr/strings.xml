@@ -493,6 +493,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="network_2G">2G</string>
   <string name="network_3G">3G</string>
   <string name="network_4G">4G (preporučeno)</string>
+  <string name="network_forbidden">%s (zabranjeno)</string>
   <string name="network_global">Globalno</string>
   <string name="network_lte">LTE (preporučeno)</string>
   <string name="network_manage_settings">Postavke mreže</string>

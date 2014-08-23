@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="activity_not_found">Ne mogu pronaći program za otvaranje privitka</string>
-  <string name="activity_not_found_uri">Ne mogu naći program za to</string>
+  <string name="action_firewall_setting">Lista blokiranih</string>
+  <string name="activity_not_found">Nijedna aplikacija ne može podržati ovu radnju</string>
+  <string name="activity_not_found_uri">Nijedna aplikacija ne može podržati ovu radnju</string>
   <string name="addBlackList">Dodaj na listu blokiranih</string>
-  <string name="add_attachment">Priloži</string>
+  <string name="add_attachment">Dodaj privitak</string>
   <string name="add_bookmark">Favoriti</string>
   <string name="add_contact">Kontakt</string>
   <string name="add_festival">Brzi odogovori</string>
@@ -78,7 +79,6 @@
   <string name="confirm_restore_positive">Vraćanje</string>
   <string name="confirm_restore_title">Vratiti sve odabrane poruke?</string>
   <string name="confirm_send_mms">Jedan od vaših primatelja uključuje i e-mail adresu. Ova poruka će biti poslana kao MMS, što može dovesti do dodatnih troškova.</string>
-  <string name="context_menu_add_calendar">Prikaži u Kalendaru</string>
   <string name="context_menu_add_contact">Dodaj u Kontakte</string>
   <string name="context_menu_add_to_browser_favorite">Dodaj u favorite preglednika</string>
   <string name="context_menu_browse_web">Pretraži</string>
@@ -113,7 +113,7 @@
   <string name="discard_message">Odbaciti poruku</string>
   <string name="discard_message_reason">Vaša poruka bit će odbačena jer nema važećih primatelja.</string>
   <string name="discard_slideshow">Odbaciti dijaprojekciju</string>
-  <string name="dl_failure_notification">Preuzimanje poruke: %1$s od pošiljatelja: %2$s nije bilo moguće.</string>
+  <string name="dl_failure_notification">Preuzimanje poruke od %1$s za %2$s nije bilo moguće.</string>
   <string name="done">Done</string>
   <string name="download">Preuzmi</string>
   <string name="download_later">Preuzimanje u ovom trenutku nije moguće. Pokušajte ponovo kasnije.</string>
@@ -130,6 +130,7 @@
   <string name="edit_slideshow_activity">Uredi dijaprojekciju</string>
   <string name="enable_password_protect">Omogućite zaštitu zaporkom</string>
   <string name="enable_visible_pattern_title">Napravite uzorak vidljivim</string>
+  <string name="english_subject_limit">max 40 znakova</string>
   <string name="enter_edit_mode">Izbrisati</string>
   <string name="error_code_label">"Greška koda: "</string>
   <string name="error_state">Nekonzistentno stanje</string>
@@ -169,8 +170,8 @@
   <string name="guild_add_recipients">Kliknite ovdje za dodavanje primatelja u imeniku</string>
   <string name="has_invalid_recipient">Nevažeći primatelj(i): %1$s</string>
   <string name="hidden_sender_address">Skrivena adresa pošiljatelja</string>
+  <string name="hint_search_sms">%d SMA-a</string>
   <string name="hms_first_use_tips">Za primanje poruka usluga mora biti povezana na WLAN mrežu</string>
-  <string name="hint_search_sms">%d SMS</string>
   <string name="importing_progress_private_message">Uvoz poruka u privatni sandučić</string>
   <string name="in_sms">Poruka</string>
   <string name="insufficient_drm_rights">Otkrivena su nedostatna DRM prava.</string>
@@ -185,7 +186,9 @@
   <string name="loading_mms">Učitavanje MMS-a…</string>
   <string name="manage_permission_app_label">Upravljanje dopušt. uređaja</string>
   <string name="me">Ja</string>
+  <string name="menu_call">Poziv</string>
   <string name="menu_compose_new">Stvori novu poruku</string>
+  <string name="menu_contact">Kontakt</string>
   <string name="menu_delete_messages">Izbriši poruke</string>
   <string name="menu_edit">Uredi</string>
   <string name="menu_forward">Proslijedi</string>
@@ -219,6 +222,10 @@
   <string name="msg_type_hint_mms">Multimedijska poruka</string>
   <string name="msg_type_hint_mx">Cloud poruka</string>
   <string name="msg_type_hint_sms">SMS</string>
+  <string name="msglist_continue_to_pull_for_more">Povuci dolje da bi vidjeli više</string>
+  <string name="msglist_more_refreshing">Osvježavam…</string>
+  <string name="msglist_no_more_to_refresh">Sve je već ažurno</string>
+  <string name="msglist_release_to_more">Otpustite da bi vidjeli više</string>
   <string name="multimedia_message">MMS</string>
   <string name="multimedia_notification">Obavijest o MMS-u</string>
   <string name="mx_activate_error_malformed_info">Veza je prekinuta: potrebna je ponovna aktivacija Cloud Messaging-a</string>
@@ -278,10 +285,6 @@
   <string name="phrase_list_title" formatted="false">Izraza (%1$d)</string>
   <string name="pick_too_many_recipients">Previše dodanih primatelja</string>
   <string name="play">Reproduciraj</string>
-  <string name="prefDefault_ringtone_repeat">1</string>
-  <string name="prefDefault_vibrateWhen">nikad</string>
-  <string name="prefDefault_vibrate_false">nikad</string>
-  <string name="prefDefault_vibrate_true">uvijek</string>
   <string name="pref_advanced_settings_title">Napredne postavke</string>
   <string name="pref_collapse_sp_messages_summary">Kombinirana poruke davatelja usluga u istom ulazu</string>
   <string name="pref_edit_smsc_address">Broj SMS centra</string>
@@ -301,8 +304,6 @@
   <string name="pref_summary_mms_read_reports">Zatražite potvrdu čitanja za svaku poslanu poruku</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Automatsko dohvaćanje poruka u roamingu</string>
   <string name="pref_summary_mx_feedback">Prijavite greške i pošaljite svoje mišljenje Xiaomi-u direktno.”</string>
-  <string name="pref_summary_new_message_popup">Pokaži skočni prozor kad stigne nova poruka</string>
-  <string name="pref_summary_new_message_popup_when_secure">Nema skočnih prozora obavijesti kad je pristup kontroliran</string>
   <string name="pref_summary_notification_body_enabled">Prikaži poruke na zaključanom zaslonu i status baru</string>
   <string name="pref_summary_notification_body_enabled_when_secure">Prikaz poruke onemogućen kada je omogućena kontrola pristupa</string>
   <string name="pref_summary_off_system_mms_priority">Koristite druge aplikacije za slanje i primanje MMS-a</string>
@@ -323,7 +324,6 @@
   <string name="pref_title_mms_delete">Ograničenje multimedijske poruke</string>
   <string name="pref_title_mms_read_reports">Čitaj izvješća</string>
   <string name="pref_title_mms_retrieval_during_roaming">Automatsko vraćanje u Roamingu</string>
-  <string name="pref_title_new_message_popup">Skočni prozor nove poruke</string>
   <string name="pref_title_notification_body_enabled">Prikaži obavijest</string>
   <string name="pref_title_ringtone_repeat">Učestalost podsjetnika zvuka zvona</string>
   <string name="pref_title_show_recent_contacts">Nedavni kontakti</string>
@@ -394,19 +394,19 @@
   <string name="select_recipient">Odaberi primatelje</string>
   <string name="select_top_text">Tekst pri vrhu</string>
   <string name="send">Pošalji</string>
+  <string name="send_hms_editor_hints">Cloud Poruke</string>
   <string name="send_message_dlg_check_hint">"Ne prikazuj ponovo"</string>
   <string name="send_message_dlg_mgs">CMCC napomena: Moramo registrirati vaš uređaj za upravljanje uređajem platforme za pružanje besplatne Post-usluge (Post-usluga je CMCC platforma koja može upravljati terminalom uređaja. Ono vam pruža uslugu postavki iz daljine i nadogradnju aplikacije.).Besplatna SMS poruka s informacijama uređaja će biti poslana za registraciju.SMS će biti poslan samo jednom i nisu potrebni vaši osobni podaci (Ne slati u Hong Kong, Makao, Tajvan i međunarodni roaming). Odaberite "U redu" na pristanak registracije i korištenje usluge. Odaberite "Odustani" da odustajete i neće biti osigurana usluga iz CMCC.</string>
   <string name="send_message_dlg_title">Upravljanje uređaja</string>
   <string name="send_message_notification_msg">Dodirnite za pregled pojedinosti</string>
   <string name="send_message_notification_tickerText">Uređaj traži dopuštenje</string>
   <string name="send_message_notification_title">Zahtjev dopuštenja</string>
-  <string name="send_hms_editor_hints">Cloud usluga</string>
   <string name="send_signature_confirm_dialog_message">Nema teksta u vašim porukama. Sigurno želite poslati samo potpis?</string>
   <string name="send_signature_confirm_dialog_title">Potvrdi slanje</string>
-  <string name="send_sms">Poslati poruku</string>
+  <string name="send_sms">Pošalji poruku</string>
   <string name="send_to">Prima: </string>
   <string name="send_to_count">Poslano %1$s poruka</string>
-  <string name="send_to_index_contact">Slanje %1$s od %2$s</string>
+  <string name="send_to_index_contact"> %1$s/%2$s</string>
   <string name="sent_label">"Poslano: "</string>
   <string name="service_message_not_found">Poruka je istekla ili nije dostupna.</string>
   <string name="service_network_problem">Zbog problema s mrežom slanje nije moguće.</string>
@@ -429,14 +429,14 @@
   <string name="slide_show_part">Dio %1$s/%2$s</string>
   <string name="slideshow_activity">Dijaprojekcija</string>
   <string name="sms_content">Sadržaj poruke</string>
-  <string name="sms_full_body">Dolazna poruka odbijena je zbog pune memorije. Izbrišite nekoliko starih poruka.</string>
+  <string name="sms_full_body">"Dolazna poruka odbijena: Nema dovoljno prostora na ovom uređaju."</string>
   <string name="sms_full_title">Memorija tekstualnih poruka je puna</string>
-  <string name="sms_rejected_body">Dolazna poruka odbijena je iz nepoznatog razloga.</string>
+  <string name="sms_rejected_body">Dolazna poruka je odbijena.</string>
   <string name="sms_rejected_title">Tekstualna poruka odbijena je</string>
-  <string name="sp_category_all">Sve vijesti</string>
+  <string name="sp_category_all">Sve poruke usluga</string>
   <string name="sp_category_bank">Vijesti iz banke</string>
   <string name="sp_category_title_prefix">%s</string>
-  <string name="sp_conversation_title">Poruke s obavijestima</string>
+  <string name="sp_conversation_title">Obavijesti</string>
   <string name="sp_mark_as_read">Označiti sve poruke pročitanima?</string>
   <string name="sp_mark_as_read_progress">Označavam sve poruke kao pročitane…</string>
   <string name="sp_mark_as_read_title">Sve poruke označene pročitanima</string>
@@ -494,11 +494,16 @@ Provedeni pokušaj: %s."</string>
   <string name="unstick_conversation">Odznači trenutan razgovor</string>
   <string name="unsticked_conversation">Trenutan razgovor već odznačen</string>
   <string name="unsupported_media_format">Nepodržani %1$s format</string>
+  <string name="user_agreement1">Pročitajte važeće uvjete pažljivo prije nego li instalirate dodatan softver ili koristite ovaj proizvod.</string>
+  <string name="user_agreement2">" Korisnički sporazum"</string>
+  <string name="user_agreement3">" i "</string>
+  <string name="user_agreement4">Pravila o privatnosti</string>
+  <string name="user_agreement5">Dodirivanjem "U redu", slažete se s uvjetima navedenima u ovim dokumentima.</string>
   <string name="view">Prikaži</string>
   <string name="view_bookmark">Prikaži originalnu poruku</string>
   <string name="view_hms_details">Detalji</string>
   <string name="view_message_details">Prikaži pojedinosti</string>
   <string name="wap_push_title">"[WAP Push] "</string>
-  <string name="yes">U redu</string>
   <string name="xiaomi_service_number">Broj usluge</string>
+  <string name="yes">U redu</string>
 </resources>

@@ -399,6 +399,8 @@ Pregledajte i ažurirajte svoj album s bilo kojeg mjesta.
   <string name="redeye">Crvene oči</string>
   <string name="redeye_tooltip">Dotaknite za uklanjanje crvenih očiju</string>
   <string name="refocus_data_downloading">Preuzimanje preusmjerenih podataka…</string>
+  <string name="remove_from_secret_failed_message_with_count">"%2$s stavaka ne može biti odabrano iz: %1$s."</string>
+  <string name="remove_from_secret_successfully_message">Odabrano iz tajnog albuma</string>
   <string name="remove_hidden_album">Otkrij album</string>
   <string name="remove_recent_album">Ukloni iz omiljenih albuma</string>
   <string name="rename_failed">"Ne mogu preimenovati"</string>

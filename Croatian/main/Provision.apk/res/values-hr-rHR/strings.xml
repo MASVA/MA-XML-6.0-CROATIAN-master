@@ -1,17 +1,17 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="congratulation_label">Uživajte u svoM ​​novOM telefonU :)</string>
+  <string name="congratulation_label">Uživajte u svom ​​novom telefonu :)</string>
   <string name="congratulation_next">Započnite koristiti MIUI</string>
-  <string name="input_method_category">"Odaberite zadani način unosa koje ćete koristiti prilikom pisanja poruka e-pošte, bilješki, i drugdje. Imajte na umu da možete instalirati druge tipkovnice kasnije."</string>
-  <string name="input_method_setting">Odaberi način unosa</string>
+  <string name="input_method_category">"Odaberite zadani način unosa koje ćete koristiti prilikom pisanja poruka e-pošte, bilješki, i drugdje."</string>
+  <string name="input_method_setting">Odaberite način unosa</string>
   <string name="logo_congratulation">"Sve ste postavili!"</string>
   <string name="next">Dalje</string>
   <string name="other_settings">Dodatne postavke</string>
   <string name="other_settings_location">Pristup lokaciji</string>
-  <string name="other_settings_location_summary">Dopustite da aplikacije precizno odrede vašu lokaciju</string>
+  <string name="other_settings_location_summary">Dopustiti da aplikacije precizno odrede vašu lokaciju</string>
   <string name="other_settings_user_experience">Program korisničkog iskustva</string>
   <string name="other_settings_user_experience_summary">"Pomozite nam poboljšati MIUI slanjem anonimnih podataka o korištenju, cijeli proces će biti u skladu s našim "</string>
-  <string name="other_settings_user_experience_summary1">pravila privatnosti</string>
+  <string name="other_settings_user_experience_summary1">Pravila privatnosti</string>
   <string name="shut_down">Isključivanje</string>
   <string name="sim_card_detecting">Provjravam SIM karticu…</string>
   <string name="sim_card_detection">SIM kartica nije otkrivena</string>

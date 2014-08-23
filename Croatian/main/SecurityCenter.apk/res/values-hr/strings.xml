@@ -12,6 +12,7 @@
   <string name="activity_title_apps_manager">Apl.</string>
   <string name="activity_title_auto_start_manager">Upravitelj Auto. pokretanja</string>
   <string name="activity_title_cache">Predmemorija</string>
+  <string name="activity_title_cache_data">Predmemorija</string>
   <string name="activity_title_create_shortcut">Prečac</string>
   <string name="activity_title_deep_clean">Temeljito čišćenje</string>
   <string name="activity_title_default_apps_manager">Upravitelj zadanih  apl.</string>
@@ -568,6 +569,7 @@ Uređaj je postavljen da se prebaci na ovu konfiguraciju kad se baterija oporavi
   <string name="toast_shortcut_install">Prečac postavljen</string>
   <string name="toast_shortcut_uninstall">Prečac uklonjen</string>
   <string name="toast_uninstall_success">Deinstaliracija završena</string>
+  <string name="toast_virus_in_cloud_scanning">Ne mogu zaustaviti skeniranje virusa u cloud skeniranju</string>
   <string name="uninstall_confirm_title">Deinstalirati ove aplikacije</string>
   <string name="usage_type_audio">"Zvuk"</string>
   <string name="usage_type_cpu">Ukupno CPU-a</string>
