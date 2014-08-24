@@ -255,7 +255,7 @@ sadržaj koji tražite nije trenutno dostupan u vašoj regiji."</string>
     <string name="theme_user_agreement_content3">" i "</string>
     <string name="theme_user_agreement_content4">Pravila o privatnosti</string>
     <string name="theme_user_agreement_content5">.</string>
-    <string name="theme_user_agreement_remind_again"Prikaži Uvjeti korištenja upit</string>
+    <string name="theme_user_agreement_remind_again">Prikaži Uvjeti korištenja upit</string>
     <string name="theme_user_agreement_remind_never">"Ne prikazuj ponovo"</string>
     <string name="theme_user_agreement_remind_summary">Prikaži Uvjeti korištenja upit svaki put. Ova postavka će stupiti na snagu nakon što ponovno pokrenete svoj uređaj.</string>
     <string name="theme_user_agreement_title">Uvjeti korištenja</string>
