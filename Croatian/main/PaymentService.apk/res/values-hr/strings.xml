@@ -223,7 +223,6 @@ potrošeni prvi automatski"</string>
   <string name="progress_error_recharge_title">Nadoplata nije uspjela</string>
   <string name="progress_loading">Obrada…</string>
   <string name="progress_msg_creating">Stvaranje narudžbe…</string>
-  <string name="progress_msg_creating">Stvaranje narudžbe nadoplate…</string>
   <string name="progress_paytool_creating">Stvaranje %1$s narudžbe…</string>
   <string name="progress_paytool_installing">Instaliranje %1$s plugina mobilne sigurnosti…</string>
   <string name="progress_prepaid_creating">Stvaranje narudžbe…</string>
