@@ -14,7 +14,7 @@
   <string name="camera_problem1">Loša kvaliteta fotografije</string>
   <string name="camera_problem2">"Ne mogu se spojiti na fotoaparat sa USB-om"</string>
   <string name="camera_problem3">Fotoaparat često prekida</string>
-  <string name="camera_problem4">"Ne može se prebacivati ​​između stražnje i prednje kamere"</string>
+  <string name="camera_problem4">"Ne može se prebacivati ​​između stražnje/prednje kamere"</string>
   <string name="camera_problem5">Fotoaparat je prestao raditi</string>
   <string name="description">"Ako ne vidite svoj problem u uobičajenim greškama, opišite ga ovdje"</string>
   <string name="discard_draft_dialog_button_cancel">Odustani</string>
@@ -26,7 +26,7 @@
   <string name="err_type_camera">Fotoaparat</string>
   <string name="err_type_nonsystemapp">Ostale aplikacije</string>
   <string name="err_type_power_consuming">Korištenje baterije</string>
-  <string name="err_type_reboot">Slučajna ponovna pokretanja</string>
+  <string name="err_type_reboot">Ponovna pokretanja</string>
   <string name="err_type_signal">Problemi s mrežom</string>
   <string name="err_type_suggestion">Prijedlozi</string>
   <string name="err_type_systemapp">MIUI aplikacije</string>
@@ -39,21 +39,21 @@
   <string name="menu_discard">Odbaci promjenu</string>
   <string name="network_err">"Ne mogu se povezati na mrežu. Provjerite vašu podatkovnu vezu i pokušajte osvježiti"</string>
   <string name="network_unavailable_dialog_button_ok">U redu</string>
-  <string name="network_unavailable_dialog_content">"Ne mogu se povezati na mrežu. Poruka će biti poslana kada ćete imati podatkovnu vezu."</string>
+  <string name="network_unavailable_dialog_content">Vaša izvješće će biti poslana kada ćete imati podatkovnu vezu."</string>
   <string name="network_unavailable_dialog_title">"Ne mogu se povezati na mrežu"</string>
   <string name="non_system_app_select">Preuzete aplikacije</string>
   <string name="nonsystemapp_description">Opišite problem</string>
   <string name="packaging_dialog_content">Stvaranje izvješća…</string>
   <string name="power_consuming_problem1">Povećana potrošnja baterije nakon ažuriranja</string>
-  <string name="power_consuming_problem2">Korištenje ove aplikacije ludo troši bateriju</string>
+  <string name="power_consuming_problem2">Visoka potrošnja baterije korištenjem aplikacije</string>
   <string name="power_consuming_problem3">Visoka potrošnja baterije tijekom mirovanja</string>
   <string name="reboot_problem1">"Ne mogu ponovno pokrenuti"</string>
   <string name="reboot_problem2">Slučajna ponovna pokretanja kod korištenja određene aplikacije</string>
   <string name="refresh">Osvježi</string>
-  <string name="report_miui">Prijavi grešku</string>
+  <string name="report_miui">Prijavi pogrešku</string>
   <string name="screen_lock">Zaključavanje zaslona</string>
   <string name="section_description">Opis</string>
-  <string name="section_err_type">Tip pogreške</string>
+  <string name="section_err_type">Vrsta pogreške</string>
   <string name="section_screenshot">Snimka zaslona</string>
   <string name="signal_problem1">Nema signala</string>
   <string name="signal_problem2">Slabi signal</string>
@@ -77,7 +77,7 @@
   <string name="wifi_problem3">WLAN neočekivano prekinut</string>
   <string name="wifi_problem4">"Ne mogu se povezati na mrežu"</string>
   <string name="wlan_unavailable_dialog_button_ok">Čekaj</string>
-  <string name="wlan_unavailable_dialog_button_sent">Pošalji sada</string>
-  <string name="wlan_unavailable_dialog_content">"Slanje vašeg izvješća će koristiti %s podataka. Za slanje dok niste spojeni na WLAN mrežu, dodirnite "Čekaj"."</string>
+  <string name="wlan_unavailable_dialog_button_sent">Pošalji</string>
+  <string name="wlan_unavailable_dialog_content">"Slanje vašeg izvješća će koristiti %s podataka.Možete ga poslati sada ili čekati WLAN povezivanje"</string>
   <string name="wlan_unavailable_dialog_title">Uporaba podataka</string>
 </resources>

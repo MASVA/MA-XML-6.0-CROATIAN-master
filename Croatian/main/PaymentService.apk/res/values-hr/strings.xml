@@ -2,9 +2,7 @@
 <resources>
   <string name="account_detail">"Xiaomi račun:
 %1$s"</string>
-  <string name="app_name">Usluga plaćanja</string>
-  <string name="balance_giftcard_payment">%1$s MiKredita (%2$s-MiKredit poklon bon)</string>
-  <string name="balance_no_giftcard_payment">%1$s MiKredita (ne možete koristiti MiKredit poklon karticu za ovu narudžbu)</string>
+  <string name="app_name">Mi Credit</string>
   <string name="balance_payment">%1$s MiKredita</string>
   <string name="balance_title">Stanje</string>
   <string name="bankcall_bank_account">Bankovna kartica:</string>
@@ -54,14 +52,18 @@ Slijedite upute kako biste dovršili narudžbu.</string>
   <string name="btn_wait_call_count">Čekam (%1$s)</string>
   <string name="btn_wait_confirm">Čekam</string>
   <string name="btn_wait_confirm_count">Čekam (%1$s)</string>
+  <string name="button_bind_phone">Poveži sada</string>
   <string name="button_call">Zovi</string>
   <string name="button_cancel">Otkaži</string>
   <string name="button_confirm">Potvrdi</string>
+  <string name="button_count_down_reget">Dobivanje kôda za provjeru(%1$s)</string>
   <string name="button_next">Dalje</string>
   <string name="button_pay">Otkaži</string>
   <string name="button_recharge">Nadoplata</string>
   <string name="button_recharge_pay">Otkaži</string>
+  <string name="button_reget">Dobivanje kôda za provjeru</string>
   <string name="button_retry">Pokušaj ponovo</string>
+  <string name="button_sms_code">Potvrdi</string>
   <string name="cancel">Odustani</string>
   <string name="change_security_lock">Više mogućnosti zaštite</string>
   <string name="colon">": "</string>
@@ -84,7 +86,6 @@ Slijedite upute kako biste dovršili narudžbu.</string>
   <string name="detail_recharge_order">Nadoplata Narudžba Br.:</string>
   <string name="detail_recharge_time">Vrijeme</string>
   <string name="detail_recharge_title">Povijest nadoplata</string>
-  <string name="direct_consume_not_support">Nije podržano!</string>
   <string name="error_account_changed_summary">Informacije vašeg Xiaomi računa su promijenjene.
 Prijavite se ponovo.</string>
   <string name="error_account_changed_title">Račun je promijenjen</string>
@@ -93,7 +94,8 @@ Prijavite se ponovo.</string>
 Provjerite vaš lokalni datum i pokušajte ponovno."</string>
   <string name="error_common_summary">Greška sustava. Pokušajte ponovo kasnije</string>
   <string name="error_expired_summary">Vaša narudžba je istekla</string>
-  <string name="error_frozen_summary">Vaš račun je blokiran</string>
+  <string name="error_frozen_summary">Vaš račun je blokiran.
+Kontaktirajte Xiaomi službu za korisnike."</string>
   <string name="error_has_bought_summary">Već ste kupili ovu stavku</string>
   <string name="error_illegal_order_summary">Greška narudžbe. Pokušajte ponovo kasnije</string>
   <string name="error_mili_summary">Nedovoljno sredstava</string>
@@ -104,8 +106,9 @@ Provjerite vaš lokalni datum i pokušajte ponovno."</string>
   <string name="forget_password"><u>Zaboravio sam zaporku</u></string>
   <string name="format_date">MMM. dd, yyyy</string>
   <string name="format_time">MMM dd, yyyy hh:mmaa</string>
-  <string name="frozen">(blokiran)</string>
+  <string name="frozen">Blokiran</string>
   <string name="giftcard_acitivity_and_denomination">%2$s-MiKredit polon bon od %1$s</string>
+  <string name="giftcard_define_detail">Koristite te kupone kao i redovite MIKredite. MIKredite možete dobiti i nakon sudjelovanja u Xiaomi događanjima i promocijama</string>
   <string name="giftcard_denom">MiKredit</string>
   <string name="giftcard_denom_available">MiKredit dostupan</string>
   <string name="giftcard_denom_frozen">MiKredit blokiran</string>
@@ -117,8 +120,8 @@ potrošeni prvi automatski"</string>
   <string name="giftcard_push_notification_prime_title">"Primili ste poklon certifikat"</string>
   <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiKredit podjela.</string>
   <string name="giftcard_record">Moje poklon kartice</string>
-  <string name="giftcard_value">(%1$s-MiKredit poklon bon)</string>
-  <string name="illegal_intent">Protuzakonit upit namjere</string>
+  <string name="giftcard_title">MiKredit poklon kartice</string>
+  <string name="giftcard_value">Ukljućuje %1$s-MiKredit poklon karticu</string>
   <string name="label_balance">Stanje:</string>
   <string name="label_giftcard">Poklon bon:</string>
   <string name="label_order_name">Proizvod:</string>
@@ -147,20 +150,27 @@ potrošeni prvi automatski"</string>
   <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Zaboravljena zaporka uzorka&lt;/u&gt;</string>
   <string name="login">Prijava</string>
   <string name="memu_refresh">Osvježi</string>
-  <string name="mibi_license_message">Dodirnite "Slažem se" ako se slažete s odredbama i uvjetima koji su opisani u %1$s.</string>
-  <string name="mibi_license_message_span">MiKredit Korisnički sporazum</string>
-  <string name="mibi_license_title">Korisnički sporazum</string>
-  <string name="mili_center">MiKredit</string>
+  <string name="mibi_license_message">"Spremate se koristiti Mi Kredit, što je usluga koju pruža Xiaomi Inc. Prije nego što možete koristiti ovu uslugu, morate pristati na uvjete pružanja usluge navedeno u %1$s. Dodirnite U redu ako se slažete s odredbama i uvjetima opisanima u %1$s. Potrebna vam je internetska veza za korištenje Mi kredita."</string>
+  <string name="mibi_license_message_span">Mi Credit Korisnički sporazum</string>
+  <string name="mibi_license_title">Uvjeti i odredbe</string>
+  <string name="mili_center">Mi Kredit</string>
+  <string name="milicenter_title">Mi Kredit</string>
+  <string name="mipay_error">Mipay nije uspjelo</string>
   <string name="msg_denomination_type">MiKredit</string>
   <string name="msg_error">Neuspjela nadoplata</string>
+  <string name="msg_order_hint_1_1">Nakon što dodirnete Potvrdi kupnju, vaš telefon će</string>
+  <string name="msg_order_hint_1_2">Automatski se obratiti davatelju usluga.</string>
   <string name="msg_picker_hint_1_1">1.</string>
   <string name="msg_picker_hint_1_2">Nadoplata putem SMS-a je skuplja: 2 RMB (0,24€) = 1 MiKredit</string>
   <string name="msg_picker_hint_2_1">2.</string>
   <string name="msg_picker_hint_2_2">Za svaku nadoplatu putem SMS-a, davatelj usluga naplaćuje %1$s RMB naknade</string>
   <string name="msg_picker_hint_3_1">3.</string>
   <string name="msg_picker_hint_3_2">Maksimalno možete podići %1$s RMB mjesečno</string>
+  <string name="msg_progress_hint_2_1">Vaš operator je kontaktiran!</string>
+  <string name="msg_progress_hint_2_2">Primiti ćete uskoro SMS potvrde.</string>
   <string name="msg_send_no_net_error">Nije uspjelo slanje poruke: Ne mogu se spojiti na mrežnog operatera.</string>
   <string name="msg_send_no_sim_error">Nije uspjelo slanje poruke: pokušajte ponovno umetnuti svoju SMS karticu.</string>
+  <string name="msg_send_parameter_error">"Nije uspjelo slanje poruke: postoji greška u sadržaju."</string>
   <string name="msg_send_send_fail_error">Nije uspjelo slanje poruke</string>
   <string name="msg_telecom_order_denom">%1s(ne uključuje naknade podataka mobilne mreže)</string>
   <string name="msg_telecom_order_denom_label">Svota od:</string>
@@ -186,6 +196,7 @@ potrošeni prvi automatski"</string>
   <string name="paytool_tenpay">Tenpay</string>
   <string name="pc_pay_login">Pijavite se</string>
   <string name="pc_pay_website">mibi.xiaomi.com</string>
+  <string name="prepaid_card_order_info">%1$s nadoplata bona: RMB %2$s</string>
   <string name="prepaid_carriers_picker_hint">Odaberite operatera</string>
   <string name="prepaid_edit_limit">brojke</string>
   <string name="prepaid_error_card_length">Nevažeći broj kartice ili zaporka.</string>
@@ -212,6 +223,7 @@ potrošeni prvi automatski"</string>
   <string name="progress_error_recharge_title">Nadoplata nije uspjela</string>
   <string name="progress_loading">Obrada…</string>
   <string name="progress_msg_creating">Stvaranje narudžbe…</string>
+  <string name="progress_msg_creating">Stvaranje narudžbe nadoplate…</string>
   <string name="progress_paytool_creating">Stvaranje %1$s narudžbe…</string>
   <string name="progress_paytool_installing">Instaliranje %1$s plugina mobilne sigurnosti…</string>
   <string name="progress_prepaid_creating">Stvaranje narudžbe…</string>
@@ -224,10 +236,8 @@ potrošeni prvi automatski"</string>
   <string name="progress_success_recharge_summary">Stanje računa: %1$s MiKredita.</string>
   <string name="progress_success_recharge_title">%1$s nadoplata MiKredita završena</string>
   <string name="progress_voucher_creating">Dodavanje MiKredita na vaš račun, molimo pričekajte…</string>
-  <string name="progress_warning_check">"Plaćanje još nije dodano na vaš ​​račun. 
-Provjeriti ćemo u roku od dva radna dana."</string>
    <string name="progress_warning_check_with_contact">"Plaćanje nije primljeno. 
-Provjera za dva dana.
+Provjeriti ćemo za dva radna dana.
 Informacije na broj: 400-100-5678 "</string>  
   <string name="progress_warning_waiting">"Plaćanje još nije dodano na vaš ​​račun."</string>
   <string name="recharge_alipay_title">Alipay</string>
@@ -252,16 +262,21 @@ Informacije na broj: 400-100-5678 "</string>
   <string name="recharge_voucher_title">MiKredit kartica</string>
   <string name="scan_prompt_number">Skeniraj %1$s broj prepaid kartice</string>
   <string name="scan_prompt_password">Skeniraj %1$s zaporku prepaid kartice</string>
+  <string name="scan_prompt_retry">Držite karticu u poziciji nereflektiranja, ostaje stabilno nakon ponovnog pokušaja</string>
   <string name="scan_prompt_voucher">Skeniraj MiKredit zaporku</string>
   <string name="security_setting">Sigurnosne postavke</string>
+  <string name="sms_code_error">Pogreška koda za ovjeru, pokušajte ponovno</string>
+  <string name="sms_code_hint">Kod za ovjeru</string>
+  <string name="summary_bind_phone">Da bi osigurali svoj korisnički račun, dovršite plaćanje nakon povezivanja broj telefona.</string>
   <string name="summary_lockpattern">Potreban uzorak otključavanja za MiKredite</string>
+  <string name="summary_sms_code">Da bi osigurali svoj korisnički račun, unesite kôd za provjeru koji ste dobili na % 1$s, a zatim izvršite plaćanje</string>
+  <string name="title_bind_phone">Povezivanje brojeva telefona</string>
   <string name="title_change_lockpattern">Promijeni uzorak zaključavanja</string>
   <string name="title_discounts">Popusti</string>
   <string name="title_gesture">Uzorak zaključavanja</string>
   <string name="title_giftcard">Promocije</string>
   <string name="title_lockpattern">Potreban uzorak zaključavanja</string>
   <string name="title_mili_center">MiKrediti</string>
-  <string name="title_myaccount">Moj račun: %s</string>
   <string name="title_nopassword">"Nije potrebno za mala plaćanja"</string>
   <string name="title_nopassword_dialog">Dnevno ograničenje</string>
   <string name="title_password">Zaporka</string>
@@ -269,10 +284,13 @@ Informacije na broj: 400-100-5678 "</string>
   <string name="title_pay_record">Zapisi plaćanja</string>
   <string name="title_recharge">Nadoplata MiKredit</string>
   <string name="title_recharge_record">Zapisi nadoplata</string>
+  <string name="title_sms_code">Unesite kôd za provjeru</string>
   <string name="title_transaction">Transakcije</string>
   <string name="title_visible_pattern">Učinite uzorak vidljivim</string>
-  <string name="voucher_edit_limit">znamenke</string>
-  <string name="voucher_error_password">Nesprávný kód.</string>
-  <string name="voucher_input_password_prompt">Vložte heslo</string>
-  <string name="voucher_card_text">Setřete ochranu kódu</string>
+  <string name="unit">Mi Kredit</string>
+  <string name="unit_value">MiKredit: %1$s</string>
+  <string name="voucher_card_text">Izgrbajte površinu</string>
+  <string name="voucher_edit_limit">znamenaka</string>
+  <string name="voucher_error_password">Nevažeći kod.</string>
+  <string name="voucher_input_password_prompt">Unesite kod</string>
 </resources>
