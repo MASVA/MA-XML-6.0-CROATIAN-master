@@ -235,7 +235,7 @@ potrošeni prvi automatski"</string>
   <string name="progress_success_recharge_summary">Stanje računa: %1$s MiKredita.</string>
   <string name="progress_success_recharge_title">%1$s nadoplata MiKredita završena</string>
   <string name="progress_voucher_creating">Dodavanje MiKredita na vaš račun, molimo pričekajte…</string>
-   <string name="progress_warning_check_with_contact">"Plaćanje nije primljeno. 
+  <string name="progress_warning_check_with_contact">"Plaćanje nije primljeno. 
 Provjeriti ćemo za dva radna dana.
 Informacije na broj: 400-100-5678 "</string>  
   <string name="progress_warning_waiting">"Plaćanje još nije dodano na vaš ​​račun."</string>
