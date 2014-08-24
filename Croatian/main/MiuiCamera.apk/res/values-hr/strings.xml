@@ -113,10 +113,10 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="face_beauty_age_alias_male_45_60">Muškarac 45-60</string>
   <string name="face_beauty_age_alias_male_60_m">Muškarac 60+</string>
   <string name="face_beauty_age_alias_male_8_17">Muškarac 8-17</string>
-  <string name="face_beauty_intelligent_level_0">Isključeno</string>
-  <string name="face_beauty_intelligent_level_1">Nisko</string>
-  <string name="face_beauty_intelligent_level_2">Neznatno</string>
-  <string name="face_beauty_intelligent_level_3">Visoko</string>
+  <string name="face_beauty_intelligent_level_0">0</string>
+  <string name="face_beauty_intelligent_level_1">+1</string>
+  <string name="face_beauty_intelligent_level_2">+2</string>
+  <string name="face_beauty_intelligent_level_3">+3</string>
   <string name="face_beauty_intelligent_title">Autom. podešavanje</string>
   <string name="face_beauty_manual_title">Ručno podešavanje</string>
   <string name="face_beauty_simple_mode_title">Nijanse kože</string>

@@ -22,6 +22,7 @@
   <string name="activity_main_update_time_right_now">Sada</string>
   <string name="activity_weather_main_null_data">- -</string>
   <string name="activity_weathermain_locationg">Lociranje…</string>
+  <string name="activity_weathermain_locationg_error">Lociranje nije uspjelo</string>
   <string name="add_city">Dodaj</string>
   <string name="app_label">Pružatelj vrem. prognoze</string>
   <string name="app_name">Vrijeme</string>
