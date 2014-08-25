@@ -95,11 +95,11 @@
   <string name="file_info_modified">Zadnja izmjena:</string>
   <string name="file_info_size">Veličina:</string>
   <string name="file_loading">Učitavanje…</string>
-  <string name="file_not_exist">datoteka ne postoji</string>
+  <string name="file_not_exist">"Datoteka ne postoji"</string>
   <string name="file_too_large">Datoteka prevelika za učitavanje.</string>
   <string name="finished">Završeno</string>
   <string name="folder_exist">Mapa već postoji</string>
-  <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Dodirni&lt;/a&gt;za otvaranje koša za smeće</string>
+  <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Dodirni&lt;/a&gt;za ići u smeće</string>
   <string name="ftp_account_req_notice">4~16 znakova, slova i znamenke , mala i velika slova</string>
   <string name="ftp_anonymous_login">Anonimna prijava</string>
   <string name="ftp_invalid_username_or_password">Neispravno korisničko ime i zaporka</string>
@@ -112,21 +112,21 @@
   <string name="gbk_summary">Pojednostavljeni kineski Windows zadano kodiranje</string>
   <string name="gbk_title">GBK</string>
   <string name="gigabyteShort">GB</string>
-  <string name="instruction">Unesite sljedeću adresu u FTP klijent:</string>
+  <string name="instruction">Unesite adresu u FTP klijent:</string>
   <string name="instruction_pre">Dodirnite za pokretanje FTP poslužitelja</string>
   <string name="kilobyteShort">KB</string>
-  <string name="kuaipan_label">Kuaipan</string>
+  <string name="kuaipan_label">KuaiPan</string>
   <string name="kuaipan_over_space">Nedovoljno prostora</string>
   <string name="kuaipan_prompt">Obavijest</string>
   <string name="kuaipan_prompt_message">"
- Nažalost, naš poslužitelj je pao zbog održavanja u ovom trenutku. Pokušajte ponovno kasnije…
+ Naš poslužitelj je pao zbog održavanja. Pokušajte ponovno kasnije…
 "</string>
-  <string name="kuaipan_tech_support">Prijavite se na kuaipan.cn</string>
+  <string name="kuaipan_tech_support">Prijavite se na kuaiPan.cn</string>
   <string name="load_err">"Ne mogu učitati"</string>
   <string name="loading">Učitavam…</string>
   <string name="local_cache_size">Veličina lokalne memorije: %s</string>
   <string name="login_reg_content">Pohranite datoteke i sinkronizirajte ih na više uređaja.</string>
-  <string name="login_reg_content0">Koristite Kuaipan iz bilo kojeg mjesta.</string>
+  <string name="login_reg_content0">Koristite KuaiPan iz bilo kojeg mjesta.</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_item_cleanup">Čišćenje</string>
   <string name="menu_item_ftp">FTP</string>
@@ -188,7 +188,7 @@
 1.Preuzeti datoteku ponovno da je ažurirate
 2. Učitati je na vaš KuaiPan račun."</string>
   <string name="open_changed_file_title">Promjena primijenjena</string>
-  <string name="open_file_failed">otvaranje nije uspjelo</string>
+  <string name="open_file_failed">"Ne mogu otvoriti"</string>
   <string name="operating">Obrada…</string>
   <string name="operation_cancel">Otkaži</string>
   <string name="operation_compress">Sažeti</string>
@@ -268,7 +268,7 @@ Dodano slobodnog prostora %1$s"</string>
   <string name="tab_local">Lokalno</string>
   <string name="tab_networkdisk">KuaiPan</string>
   <string name="tab_phone">Prikaz popisa</string>
-  <string name="tab_sys_size">Ukupna pohrana</string>
+  <string name="tab_sys_size">Ukupna prostor pohrane</string>
   <string name="terabyteShort">TB</string>
   <string name="toast_file_not_can_read">Nema nađenih aplikacija za izvršenje ove radnju.</string>
   <string name="tools">Alati</string>
@@ -296,11 +296,11 @@ oslobodili prostor.</string>
   <string name="user_guide">Saznajte više o KuaiPan</string>
   <string name="user_guide_continue_use">Znam</string>
   <string name="user_guide_download_other_version">Učitajte datoteke s računala</string>
-  <string name="user_guide_kuaipan_copy">Kopirajte datoteke s telefona, zatim zalijepite na kuaipan</string>
+  <string name="user_guide_kuaipan_copy">Kopirajte datoteke s telefona, zatim zalijepite na KuaiPan</string>
   <string name="user_guide_kuaipan_lable">kuaipan vam duguje</string>
   <string name="user_guide_other_version">Preuzimanje na mi.kuaipan.cn.Prijavite se sa svojim računom(%1$s)</string>
-  <string name="user_guide_save_file">Spremanje vaših datoteke i fotografija na Kuaipan.</string>
-  <string name="user_guide_upload_to_kuaipan">Pohranite stavke na Kuaipan s vašeg telefona</string>
+  <string name="user_guide_save_file">Spremanje vaših datoteke i fotografija na KuaiPan.</string>
+  <string name="user_guide_upload_to_kuaipan">Pohranite stavke na KuaiPan s vašeg telefona</string>
   <string name="utf8_summary">Zadano kodiranje FTP sistema</string>
   <string name="utf8_title">UTF-8</string>
   <string name="wait_net">Čekanje mreže…</string>

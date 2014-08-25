@@ -72,9 +72,13 @@
   <string name="express_inquiry_indication">Broj za praćenje</string>
   <string name="express_inquiry_internal_failure">"Desila se greška.
 Provjerite vaš broj za praćenje."</string>
+  <string name="express_inquiry_logistics_empty">Odaberite logistiku.</string>
   <string name="express_inquiry_logistics_indication">Naziv davatelja usluge</string>
   <string name="express_inquiry_no_history">Nema povijesti</string>
   <string name="express_inquiry_no_result">Nema rezultata</string>
+  <string name="express_inquiry_number_empty">Unesite svoj ​​broj za praćenje.</string>
+  <string name="express_inquiry_number_invalid">"Vaš unos nije točan.
+Provjerite vaš broj za praćenje."</string>
   <string name="express_inquiry_serial_number_indication">Broj za praćenje</string>
   <string name="express_inquiry_serial_number_prefix">"Serijski broj: "</string>
   <string name="express_next_step">Dalje</string>

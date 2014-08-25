@@ -10,8 +10,8 @@
   <string name="other_settings_location">Pristup lokaciji</string>
   <string name="other_settings_location_summary">Dopustiti da aplikacije precizno odrede vašu lokaciju</string>
   <string name="other_settings_user_experience">Program korisničkog iskustva</string>
-  <string name="other_settings_user_experience_summary">"Pomozite nam poboljšati MIUI slanjem anonimnih podataka o korištenju, cijeli proces će biti u skladu s našim "</string>
-  <string name="other_settings_user_experience_summary1">Pravila privatnosti</string>
+  <string name="other_settings_user_experience_summary">"Pomozite nam poboljšati MIUI slanjem anonimnih podataka o korištenju."</string>
+  <string name="other_settings_user_experience_summary1">(Prikaži pravila o privatnosti)</string>
   <string name="shut_down">Isključivanje</string>
   <string name="sim_card_detecting">Provjravam SIM karticu…</string>
   <string name="sim_card_detection">SIM kartica nije otkrivena</string>

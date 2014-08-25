@@ -67,6 +67,7 @@ Slijedite upute kako biste dovršili narudžbu.</string>
   <string name="cancel">Odustani</string>
   <string name="change_security_lock">Više mogućnosti zaštite</string>
   <string name="colon">": "</string>
+  <string name="confirm_title">提示</string>
   <string name="denomination_unit">￥</string>
   <string name="detail_consume_account">ID kupca</string>
   <string name="detail_consume_amount">Iznos</string>
@@ -86,6 +87,7 @@ Slijedite upute kako biste dovršili narudžbu.</string>
   <string name="detail_recharge_order">Nadoplata Narudžba Br.:</string>
   <string name="detail_recharge_time">Vrijeme</string>
   <string name="detail_recharge_title">Povijest nadoplata</string>
+  <string name="ensure">确定</string>
   <string name="error_account_changed_summary">Informacije vašeg Xiaomi računa su promijenjene.
 Prijavite se ponovo.</string>
   <string name="error_account_changed_title">Račun je promijenjen</string>
@@ -213,6 +215,7 @@ potrošeni prvi automatski"</string>
   <string name="prepaid_picker_hint_2_2_b">Ako nominalna vrijednost prepaid kartice nije &lt;font color=red&gt;￥%1$s&lt;/font&gt;, bon će biti nevažeća. Xiaomi nije odgovoran za bilo koji gubitak novca koji se može javiti kao rezultat pogreške korisnika..</string>
   <string name="prepaid_picker_title_default">Odaberite iznos</string>
   <string name="prepaid_picker_title_selected">iznos</string>
+  <string name="processing">Obrada…</string>
   <string name="progress_bankcall_card_creating">Stvaranje narudžbe…</string>
   <string name="progress_bankcall_card_querying">Provjera vrste računa…</string>
   <string name="progress_creating">Preuzimanje podataka narudžbe…</string>

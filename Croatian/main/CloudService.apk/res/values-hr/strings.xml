@@ -48,7 +48,7 @@ Ako promjenite SIM kartice, novi aktivacijski SMS mora biti poslan."</string>
   <string name="master_alert_notif_title">Zadnja sinkr. prije dana %s</string>
   <string name="micloud_dspt">Koristite Mi Cloud za sinkronizaciju podataka, pronađete svoj ​​uređaj,</string>
   <string name="micloud_dspt_provision">Koristite Mi Cloud za sinkronizaciju podataka, pronađete svoj ​​uređaj, i podijelite stvari s prijateljima.</string>
-  <string name="micloud_full_influence_dspt">"Sve vaše fotografije, videozapisi, bilješke i aplikacije će biti pohranjene na cloud. 
+  <string name="micloud_full_influence_dspt">"Sve vaše fotografije, videozapisi, bilješke i aplikacije će ostati pohranjene na cloud. 
 Na taj način, ako izgubite ili oštetite uređaj, vaši podaci će i dalje biti na sigurnom. 
 
 Kada je vaš cloud pun, vaši stari podaci neće ići nikamo. Međutim, svaki novi dodani sadržaj (primjerice fotografije, videozapisi, bilješke i aplikacije) neće biti pohranjene.
@@ -65,13 +65,13 @@ Da biste to riješili, možete ili očistiti neke stare datoteke kako bi napravi
   <string name="micloud_proceed">Nastavi</string>
   <string name="micloud_sec_dspt">i podijeli stvari s svojim prijateljima.</string>
   <string name="micloud_space_full_influence">Što će se dogoditi ako ponestane prostora?</string>
-  <string name="micloud_title_dspt" formatted="false">"Ukupan prostor %s
+  <string name="micloud_title_dspt" formatted="false">"Ukupno %s
  iskorišteno %s | preostalo %s"</string>
   <string name="micloud_title_dspt_remain">%s preostalo</string>
   <string name="micloud_title_full_dspt">"Dosegli ste ograničenje kapaciteta pohrane!"</string>
   <string name="micloud_upgrade_space">Povećajte raspoloživi kapacitet</string>
   <string name="micloud_user_space_title">Prostor za pohranu</string>
-  <string name="micloud_user_space_usage">Iskorišten prostor</string>
+  <string name="micloud_user_space_usage">Prostor za pohranu</string>
   <string name="micloud_warn_full_sum">"Nove stavke neće biti sinkronizirane s Mi Cloud."</string>
   <string name="micloud_warn_full_title">Prostor za pohranu je pun!</string>
   <string name="micloud_warn_low_sum">"Vaš Mi Cloud iskorišten 90%."</string>
@@ -92,18 +92,18 @@ Da biste to riješili, možete ili očistiti neke stare datoteke kako bi napravi
   <string name="sub_alert_notif_dspt_add">"%s nije sinkronizirano."</string>
   <string name="sub_alert_notif_dspt_no">"Sve je u toku."</string>
   <string name="sub_alert_notif_title">Sinkronizacija je isključena</string>
-  <string name="sub_sync_item_sms_summary">"Sinkroniziraj samo poruke koje sadrže fotografije, zvuk ili druge medije kada ste povezani na WLAN mrežu"</string>
+  <string name="sub_sync_item_sms_summary">"Sinkroniziraj SMS koji sadrže fotografije, zvuk ili druge medije kada je povezano na WLAN mrežu"</string>
   <string name="sub_sync_item_sms_title_wifi_only">Sinkronizacija MMS samo preko WLAN-a</string>
   <string name="sync_dspt">Omogući sinkr.</string>
-  <string name="sync_item_sms_summary">Uključite nakon sinkronizcije poruka</string>
+  <string name="sync_item_sms_summary">Sinkroniziraj poslane/primljene SMS na ovaj telefon</string>
   <string name="sync_item_sms_title">Sinkroniziraj SMS</string>
   <string name="sync_off">Isključeno</string>
   <string name="sync_on">Uključeno</string>
-  <string name="sync_sub_1_intl_sms">Međunarodni i domaći SMS će biti poslan za spajanje vaše SIM kartice s ovim računom. Snositi ćete odgovarajuće naknade vašeg mobilnog operatera.</string>
-  <string name="sync_sub_1_sms">SMS će biti poslan za spajanje vaše SIM kartice s ovim računom. Snositi ćete redovne naknade vašeg mobilnog operatera.</string>
-  <string name="sync_sub_1_sms_1_intl_sms">Međunarodni i domaći SMS će biti poslan za spajanje vaših SIM kartica s ovim računom. Snositi ćete odgovarajuće naknade vašeg mobilnog operatera.</string>
-  <string name="sync_sub_2_intl_sms">Međunarodni SMS će biti poslan za spajanje vaših SIM kartica s ovim računom. Snositi ćete naknade međunarodnog prometa vašeg mobilnog operatera.</string>
-  <string name="sync_sub_2_sms">SMS će biti poslan za spajanje vaše SIM kartice s ovim računom. Snositi ćete redovne naknade vašeg mobilnog operatera.</string>
+  <string name="sync_sub_1_intl_sms">Međunarodni i domaći SMS će biti poslan za povezivanje vaših SIM kartica s ovim računom. Snositi ćete naknade vašeg mobilnog operatera.</string>
+  <string name="sync_sub_1_sms">SMS će biti poslan za povezivanje vaše SIM kartice s ovim računom. Snositi ćete redovne naknade vašeg mobilnog operatera.</string>
+  <string name="sync_sub_1_sms_1_intl_sms">Međunarodni i domaći SMS će biti poslan za povezivanje vaših SIM kartica s ovim računom. Snositi ćete naknade vašeg mobilnog operatera.</string>
+  <string name="sync_sub_2_intl_sms">Međunarodni SMS će biti poslan za povezivanje vaših SIM kartica s ovim računom. Snositi ćete naknade međunarodnog prometa vašeg mobilnog operatera.</string>
+  <string name="sync_sub_2_sms">SMS će biti poslan za povezivanje vaših SIM kartica s ovim računom. Snositi ćete redovne naknade vašeg mobilnog operatera.</string>
   <string name="sync_sub_dspt">Aktivacijski SMS podliježe redovnim naknadama uporabe podataka.</string>
   <string name="sync_sub_dspt_provision">Pregledaj i upravljaj svojim podacima s bilo kojeg mjesta</string>
   <string name="sync_sub_int_dspt">Aktivacijski SMS poruka podliježe naknadama međunarodnog prometa uporabe podataka.</string>

@@ -198,7 +198,7 @@
   <string name="download_no_sdcard_dlg_title">USB pohrana nedostupna</string>
   <string name="download_pending">Započinjem preuzimanje…</string>
   <string name="download_phone_tip">Telefon</string>
-  <string name="download_router_tip">Mi router (Preuzmi na Mi router)</string>
+  <string name="download_router_tip">Preuzmi na Mi router</string>
   <string name="download_sdcard_busy_dlg_msg">USB pohrana zauzeta. Za početak preuzimanja, dodirnite Isključi USB pohranu u obavijestima.</string>
   <string name="download_sdcard_busy_dlg_title">USB pohrana nedostupna</string>
   <string name="downloaded">Preuzimanje završeno!</string>
@@ -296,7 +296,7 @@
   <string name="menu_save_bandwidth_mode_open_toast">Mobilni čep podaci omogućeni</string>
   <string name="menu_save_snapshot">Spremi za izvanmrežno čitanje</string>
   <string name="menu_theme_setting">Postavljanje teme</string>
-  <string name="miui_autologin_bar_error">Prijava nije uspjela</string>
+  <string name="miui_autologin_bar_error">"Ne mogu se prijaviti"</string>
   <string name="miui_autologin_bar_title">Za korištenje sustava, potrebna prijava u račun</string>
   <string name="miui_bookmark_action_bar_add_group_title">Dodaj grupu</string>
   <string name="miui_bookmark_action_bar_new_group_title">Nova grupa</string>
@@ -570,8 +570,8 @@
   <string name="rlz_access_point">Y1</string>
   <string name="root_folder_lable">Ništa</string>
   <string name="router_download_exist">Ovo preuzimanje već postoji</string>
-  <string name="router_download_failed">Preuzimanje nije uspjelo, pokušajte ponovo</string>
-  <string name="router_download_success">Preuzimanje, provjerite napredak u Mi router Aplikaciji</string>
+  <string name="router_download_failed">Preuzimanje nije uspjelo</string>
+  <string name="router_download_success">Preuzimanje završeno</string>
   <string name="same_bookmarks_warning">"Već ste označili ovu stranicu"</string>
   <string name="same_folder_name_warning">Mapa s istim nazivom već postoji</string>
   <string name="save">U redu</string>
@@ -606,14 +606,14 @@
   <string name="search_yahoo">Yahoo!</string>
   <string name="search_yicha">Yicha</string>
   <string name="security_warning">Sigurnosno upozorenje</string>
-  <string name="select_download_device">Odaberi uređaj</string>
+  <string name="select_download_device">Izaberi uređaj</string>
   <string name="select_dot">Odaberi tekst</string>
   <string name="send_bookmark_to_home_screen">Pošalji na početni zaslon</string>
   <string name="send_to_popular">Popularno</string>
   <string name="set_as_homepage">Postavi kao početnu stranicu</string>
   <string name="share_link">dijeli vezu</string>
   <string name="share_page">dijeli stranicu</string>
-  <string name="share_page_text">"Uživam u 【%1$s】, podijelio sam s tobom! | %2$s"</string>
+  <string name="share_page_text">"Uživam u 【%1$s】 | %2$s"</string>
   <string name="sign_in_to" formatted="false">Prijavite se u %s1 \"%s2\"</string>
   <string name="snapshot_failed">"Ne mogu spremiti za izvanmrežno čitanje"</string>
   <string name="snapshot_go_live">Idi uživo</string>

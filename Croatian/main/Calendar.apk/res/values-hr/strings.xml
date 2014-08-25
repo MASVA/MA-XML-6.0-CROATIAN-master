@@ -65,10 +65,10 @@
   <string name="creating_event">Događaj stvoren</string>
   <string name="creating_event_with_guest">Pozivnica će biti poslana</string>
   <string name="cta_notice_checkbox">"Ne prikazuj ponovo"</string>
-  <string name="cta_notice_message">\"Podsjetnik Rođendana\" u Kalendaru će vas podsjetiti na rođendan vaših kontakata unaprijed, ali će pristupiti vašim kontaktima, slažete li se?</string>
+  <string name="cta_notice_message">Značajka podsjetnik rođendana treba pristup vašim kontaktima da funkcionira normalno</string>
   <string name="cta_notice_ok">Slažem se</string>
-  <string name="cta_notice_title">Podsjeti</string>
-  <string name="cta_notify_settings">Podsjeti prilikom pristupa kontaktima</string>
+  <string name="cta_notice_title">Pristup kontaktima</string>
+  <string name="cta_notify_settings">Pitaj prilikom pristupa kontaktima</string>
   <string name="custom">"Prilagođeno (ne može se prilagoditi na telefonu)"</string>
   <string name="daily">Dnevno</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>

@@ -75,6 +75,7 @@
   <string name="day">Dan</string>
   <string name="declaration">Uvjeti korištenja</string>
   <string name="declaration_content">Pristajete li na &lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;terms of use&lt;/a&gt; navedenih od strane Sohu Video, iQiyi i ostalih pružatelja video sadržaja?</string>
+  <string name="defaults">Zadano</string>
   <string name="delete">Izbriši</string>
   <string name="delete_addon">Izbriši</string>
   <string name="delete_addon_content">Izbrisati ovu stavku?</string>
@@ -90,6 +91,7 @@
   <string name="disk_volume">USB pohrana</string>
   <string name="dlna_list_name">DLNA uređaj</string>
   <string name="dlna_name">Dijeljeni uređaj</string>
+  <string name="done">Gotovo</string>
   <string name="download_add_success">Zadatak preuzimanja uspješno dodan</string>
   <string name="download_error">Vanmrežna pogreška</string>
   <string name="download_file_fail">Lokalni pristup datotekama nije uspio, možda ne postoji prostora na SD kartici</string>
@@ -115,6 +117,7 @@
   <string name="forecast">Forecast</string>
   <string name="forecast_empty_hint">Nema programa</string>
   <string name="forecasts">Forecast</string>
+  <string name="fullscreen">Cijeli zaslon</string>
   <string name="funshion">Funshion</string>
   <string name="gong_count_dlna">%d DLNA</string>
   <string name="gong_count_ji">%d Ep. ukupno</string>
@@ -162,6 +165,7 @@
   <string name="negative_comment">Negativno</string>
   <string name="netease">NetEase</string>
   <string name="no_login_xiaomi_account">Prijavite se na vaš Xiaomi račun radi slanja komentara.</string>
+  <string name="no_longer_tips">"Ne prikazuj ponovo"</string>
   <string name="not_login">Niste prijavljeni</string>
   <string name="nowifi_alert_dialog_continue">Nastavi</string>
   <string name="nowifi_alert_dialog_exit">Izađi</string>

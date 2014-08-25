@@ -7,7 +7,7 @@
   <string name="app_details">Aplikacija:</string>
   <string name="app_name">Skener</string>
   <string name="back">Natrag</string>
-  <string name="barcode_into_rectangle">Za skeniranje, poravnajte kod u okviru ispod</string>
+  <string name="barcode_into_rectangle">Poravnajte kod u okviru ispod</string>
   <string name="birthday">Rođendan:</string>
   <string name="camera_error">"Nešto nije u redu s fotoaparatom"</string>
   <string name="cancel">Odustani</string>
