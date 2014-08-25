@@ -16,7 +16,7 @@
   <string name="artist_view">"Izvođač"</string>
   <string name="audio_effect_settings">Postavke efekata</string>
   <string name="audio_picker_title">Odaberi pjesmu</string>
-  <string name="auto_download_in_wifi">Ne povezivanja s mrežom</string>
+  <string name="auto_download_in_wifi">Nema povezivanja s mrežom</string>
   <string name="available_playlist_name_format">Novi popis pjesama %d</string>
   <string name="avoid_to_use_traffic_summary">Prikaži upozorenje uporabe podataka</string>
   <string name="avoid_to_use_traffic_title">Koristi samo WLAN za stream glazbe</string>
@@ -66,11 +66,11 @@
   <string name="download_processing">Preuzimanje…</string>
   <string name="download_while_playing_summary">Automatski preuzmi pjesme koje ste slušali online</string>
   <string name="download_while_playing_title">Slušaj za vrijeme preuzimanja</string>
-  <string name="enabled">Omogućeno</string>
-  <string name="empty_page_no_track">Nema pjesama.</string>
+  <string name="empty_page_no_album">Nema album.</string>
   <string name="empty_page_no_artist">Nema izvođača.</string>
-  <string name="empty_page_no_album">Nema albuma.</string>
   <string name="empty_page_no_document">Nema dokumenata.</string>
+  <string name="empty_page_no_track">Nema pjesama.</string>
+  <string name="enabled">Omogućeno</string>
   <string name="eq_auto">Prilagođeno</string>
   <string name="eq_blues">Bluz</string>
   <string name="eq_classical">Klasična</string>
@@ -152,9 +152,9 @@
   <string name="music_quality">Kvaliteta glazbe</string>
   <string name="music_settings">Glazba</string>
   <string name="my_account">Moj račun</string>
-  <string name="my_music">Lokalno</string>
+  <string name="my_music">Moja glazba</string>
   <string name="my_music_empty">Ništa za reprodukciju! Preuzmite ili odaberite neku omiljenu glazbu na kartici Online glazba.</string>
-  <string name="my_playlist">Moj popis</string>
+  <string name="my_playlist">Moj popis pjesama</string>
   <string name="network_error">"Ne mogu se spojiti na mrežu. Provjerite vašu podatkovnu vezu i pokušajte ponovno."</string>
   <string name="network_failure">"Ne mogu se spojiti na mrežu. Provjerite vašu podatkovnu vezu i pokušajte ponovno."</string>
   <string name="network_traffic">Uporaba podataka</string>
@@ -168,7 +168,7 @@
   <string name="not_login">Niste prijavljeni</string>
   <string name="not_selected">Odaberi pjesmu</string>
   <string name="ok">"U redu"</string>
-  <string name="online_music">Online</string>
+  <string name="online_music">Online glazba</string>
   <string name="online_playlist_is_empty">Online popis pjesama je prazan!</string>
   <string name="order_process_fail">"Nije bilo moguće autorizirati vaš račun. Pričekajte nekoliko minuta i pokušajte ponovno."</string>
   <string name="payment_fail">Plaćanje nije uspjelo</string>
