@@ -1,59 +1,41 @@
 <?xml version="1.0" encoding="utf-8" ?> 
 <resources>
- <string-array name="weeks">
-  <item>Ponedjeljak</item> 
-  <item>Utorak</item> 
-  <item>Srijeda</item> 
-  <item>Četvrtak</item> 
-  <item>Petak</item> 
-  <item>Subota</item> 
-  <item>Nedjelja</item> 
+<string-array name="weeks">
+   <item>Pon</item> 
+   <item>Uto</item> 
+   <item>Sri</item> 
+   <item>Čet</item> 
+   <item>Pet</item> 
+   <item>Sub</item> 
+   <item>Ned</item> 
   </string-array>
- <string-array name="weeks_short">
-  <item>Pon</item> 
-  <item>Uto</item> 
-  <item>Sri</item> 
-  <item>Čet</item> 
-  <item>Pet</item> 
-  <item>Sub</item> 
-  <item>Ned</item> 
+<string-array name="weeks_short">
+   <item>Pon</item> 
+   <item>Uto</item> 
+   <item>Sri</item> 
+   <item>Čet</item> 
+   <item>Pet</item> 
+   <item>Sub</item> 
+   <item>Ned</item> 
   </string-array>
- <string-array name="months">
-  <item>Siječanj</item> 
-  <item>Veljača</item> 
-  <item>Ožujak</item> 
-  <item>Travanj</item> 
-  <item>Svibanj</item> 
-  <item>Lipanj</item> 
-  <item>Srpanj</item> 
-  <item>Kolovoz</item> 
-  <item>Rujan</item> 
-  <item>Listopad</item> 
-  <item>Studeni</item> 
-  <item>Prosinac</item> 
-  </string-array>
- <string-array name="select_days">
-  <item>Ponedjeljak</item> 
-  <item>Utorak</item> 
-  <item>Srijeda</item> 
-  <item>Četvrtak</item> 
-  <item>Petak</item> 
-  <item>Subota</item> 
-  <item>Nedjelja</item> 
-  </string-array>
- <string-array name="short_days">
-  <item>Pon</item> 
-  <item>Uto</item> 
-  <item>Sri</item> 
-  <item>Čet</item> 
-  <item>Pet</item> 
-  <item>Sub</item> 
-  <item>Ned</item> 
-  </string-array>
- <string-array name="select_days_simple">
-  <item>Jednom</item> 
-  <item>Dnevno</item> 
-  <item>Pon do Pet</item> 
-  <item>Prilagođeno</item> 
+<string-array name="months">
+   <item>Siječanj</item> 
+   <item>Veljača</item> 
+   <item>Ožujak</item> 
+   <item>Travanj</item> 
+   <item>Svibanj</item> 
+   <item>Lipanj</item> 
+   <item>Srpanj</item> 
+   <item>Kolovoz</item> 
+   <item>Rujan</item> 
+   <item>Listopad</item> 
+   <item>Studeni</item> 
+   <item>Prosinac</item> 
+   </string-array>
+<string-array name="select_days_simple">
+   <item>Jednom</item> 
+   <item>Dnevno</item> 
+   <item>Od Pon do Pet</item> 
+   <item>Prilagođeno</item> 
   </string-array>
 </resources>

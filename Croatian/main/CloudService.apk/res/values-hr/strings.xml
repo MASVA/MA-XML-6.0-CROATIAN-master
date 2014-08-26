@@ -6,7 +6,7 @@
   <string name="activating">Aktiviranje…</string>
   <string name="alert_notif_title_dspt">Nije sinkronizirano</string>
   <string name="app_name">Micloud</string>
-  <string name="bad_authentication">Krivo korisničko ime ili zaporka</string>
+  <string name="bad_authentication">Pogrešno korisničko ime ili zaporka</string>
   <string name="btn_return">Natrag</string>
   <string name="button_cancel">Odustani</string>
   <string name="cloud_find_device">Pronađi uređaj</string>
