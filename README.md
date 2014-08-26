@@ -12,21 +12,13 @@ MIUIv6 XML CROATIAN TRANSLATION
  For more info visit:
  
  • CROATIAN MIUI Fansite
-<<<<<<< HEAD
-=======
- 
-    http://adria.mobiledevs.net/
-  
- • Multilang MIUI Support
- 
-    http://xiaomi.eu
->>>>>>> origin/master
 
-   http://adria.mobiledevs.net/ 
+   http://adria.mobiledevs.net/
   
  • Multilang MIUI Support
  
    http://xiaomi.eu
+
 
   MIUI Android Multilang Translation Guide
 
