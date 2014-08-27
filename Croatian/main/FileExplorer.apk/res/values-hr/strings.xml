@@ -121,7 +121,7 @@
   <string name="kuaipan_prompt_message">"
  Naš poslužitelj je pao zbog održavanja. Pokušajte ponovno kasnije…
 "</string>
-  <string name="kuaipan_tech_support">Prijavite se na kuaiPan.cn</string>
+  <string name="kuaipan_tech_support">Prijavite se na KuaiPan.cn</string>
   <string name="load_err">"Ne mogu učitati"</string>
   <string name="loading">Učitavam…</string>
   <string name="local_cache_size">Veličina lokalne memorije: %s</string>
@@ -142,7 +142,7 @@
   <string name="mobile_photo">Fotografije telefona</string>
   <string name="mobile_photo_desc"/>
   <string name="move_failed">"Ne mogu izrezati"</string>
-  <string name="multi_select_title">%1$s odabrano</string>
+  <string name="multi_select_title">Odabrano: %1$s</string>
   <string name="my_app">Podaci aplik.</string>
   <string name="my_app_desc"/>
   <string name="my_bak">Pohrane</string>
@@ -185,7 +185,7 @@
   <string name="notif_server_starting">Pokretanje FTP poslužitelja…</string>
   <string name="notif_title">FTP poslužitelj pokrenut.</string>
   <string name="open_changed_file_message">"Datoteka koju pokušavate otvoriti je izmijenjena, mogli bi:
-1.Preuzeti datoteku ponovno da je ažurirate
+1. Preuzeti datoteku ponovno da je ažurirate.
 2. Učitati je na vaš KuaiPan račun."</string>
   <string name="open_changed_file_title">Promjena primijenjena</string>
   <string name="open_file_failed">"Ne mogu otvoriti"</string>
@@ -303,7 +303,7 @@ oslobodili prostor.</string>
   <string name="user_guide_upload_to_kuaipan">Pohranite stavke na KuaiPan s vašeg telefona</string>
   <string name="utf8_summary">Zadano kodiranje FTP sistema</string>
   <string name="utf8_title">UTF-8</string>
-  <string name="wait_net">Čekanje mreže…</string>
+  <string name="wait_net">Čekam na mrežu…</string>
   <string name="wait_sdcard">Čekam SD karticu…</string>
   <string name="wait_wifi">Čekam na WLAN…</string>
   <string name="waiting">Čekanje…</string>

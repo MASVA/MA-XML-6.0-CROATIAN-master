@@ -111,8 +111,10 @@
   <string name="shutdown_progress">"Isključivanje…"</string>
   <string name="sim_added_reboot_confirm">Reštart</string>
   <string name="sim_added_reboot_title">SIM karta bude aktivovaná po reštarte zariadenia.</string>
-  <string name="slight_cold">Dan male studeni (Kina)</string>
-  <string name="slight_heat">Dan male vrućine (Kina)</string>
+  <string name="slight_cold"/>
+  <string name="slight_heat"/>
+  <string name="softap_notifif_summary">Povezano: %d</string>
+  <string name="softap_notifif_title">Hot-spot \"%s\" uključen</string>
   <string name="solar_calendar">Sunčev kalendar</string>
   <string name="spring_begins">Početak proljeća (Kina)</string>
   <string name="stopping_the_heat">Dan granice vrućine (Kina)</string>
@@ -141,6 +143,4 @@
   <string name="yellow_page_sms_send_failed">Slanje SMS poruke nije uspjelo.</string>
   <string name="yellow_page_sms_sending">Slanje...</string>
   <string name="yellow_page_unable_send_sms">Ne mogu poslati SMS poruku.</string>
-  <string name="softap_notifif_summary">Povezano: %d</string>
-  <string name="softap_notifif_title">Hot-spot \"%s\" uključen</string>
 </resources> 

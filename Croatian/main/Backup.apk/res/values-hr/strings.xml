@@ -95,7 +95,6 @@
 \u0009http://www.miliao.com
 2.\u0009Idite u MiTalk postavke i odaberite ”Pohrani kontakte na Mi račun”"</string>
   <string name="import_from_xiaomi_account_hint_title">Koristite MiTalk za pohranu kontakata između uređaja</string>
-  <string name="import_from_xiaomi_account_hint_title">Pre zálohovanie kontaktov používajte MiTalk</string>
   <string name="local_app_name">Pohrana</string>
   <string name="local_backup_window_title">Lokalna pohrana</string>
   <string name="local_home_title">Lokalne pohrane</string>

@@ -1,6 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="ErrorTooManyRequests">U obradi je previše zahtjeva. Pokušajte ponovo kasnije.</string>
   <string name="ack_record">Ack zapis</string>
   <string name="airplane_error_msg">Bluetooth se ne može upotrebljavati u načinu rada u zrakoplovu.</string>
   <string name="airplane_error_title">"Način rada u zrakoplovu"</string>
