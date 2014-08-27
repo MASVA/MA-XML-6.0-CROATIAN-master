@@ -18,7 +18,7 @@
   <string name="attachment_gallery">"Galerija"</string>
   <string name="button_new_note">"Nova bilješka"</string>
   <string name="call_record_folder_name">Bilješke poziva</string>
-  <string name="default_folder_name">"Neimenovana mapa"</string>
+  <string name="default_folder_name">"Mapa bez naziva"</string>
   <string name="dlg_desc_confirm_alarm_silent">Aktivni alarmi neće zvoniti kada je ton zvona utišan.</string>
   <string name="dlg_title_confirm_alarm_silent">Utišaj alarme</string>
   <string name="enable_sync">Sinkroniziraj</string>
@@ -89,13 +89,14 @@
   <string name="sns_title_edit">Uredi naslov</string>
   <string name="sns_title_send">Pošalji poruku</string>
   <string name="sns_toast_empty">"Ne mogu poslati praznu poruku"</string>
-  <string name="sns_toast_over_limit">Pošalji kao sliku</string>
+  <string name="sns_toast_over_limit">Pošalji kao sliku (preko ograničenja teksta)</string>
   <string name="toast_folder_privacy_mode">"Ne mogu urediti mapu u Gost načinu rada"</string>
   <string name="toast_message_add_image_fail">Dodavanje slike nije uspjelo</string>
   <string name="toast_reach_text_limit_attachment">Nije moguće dodati novi privitak jer je bilješka predugačka</string>
   <string name="toast_reach_text_limit_truncate">Bilješka je predugačka. Dio teksta je odsječen sa kraja bilješke radi prilagođavanja.</string>
   <string name="undo">Poništi</string>
   <string name="unknown_source">Nepoznat izvor</string>
+  <string name="widget_content_loading">Učitavanje…</string>
   <string name="widget_havenot_content">Nema povezanih bilješki. Dodirnite za kreiranje povezane bilješke. Za promjenu veličine, zadržite i povucite rub.</string>
   <string name="widget_under_visit_mode">"Ne mogu prikazati bilešku u Gost načinu rada"</string>
 </resources> 

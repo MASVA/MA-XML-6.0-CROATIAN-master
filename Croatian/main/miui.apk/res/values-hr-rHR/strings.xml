@@ -8,8 +8,10 @@
     <string name="activate">Aktiviranje</string>
     <string name="activate_fail_notification_title">Ponovno aktivirajte sinkronizaciju.</string>
     <string name="activating">Aktivacija…</string>
+    <string name="address">Adresa</string>
     <string name="afternoon">PM</string>
     <string name="am">AM</string>
+    <string name="birthday">Rođendan</string>
     <string name="check_phone_error_title">Sink. nije dopuštenaa</string>
     <string name="check_phone_io_error">Pogreška mreže.</string>
     <string name="close">Zatvori</string>
@@ -19,6 +21,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_time_done">Gotovo</string>
+    <string name="date_time_picker_dialog_title">Datum &amp; vrijeme</string>
     <string name="deselect_all">Poništi odabir za sve</string>
     <string name="early_morning">AM</string>
     <string name="empty" />
@@ -129,11 +132,16 @@
     <string name="month_september_shortest">R</string>
     <string name="more">Više</string>
     <string name="morning">AM</string>
+    <string name="name">Ime</string>
+    <string name="nickname">Nadimak</string>
     <string name="night">PM</string>
     <string name="no_sim">Nema SIM kartice</string>
     <string name="noon">PM</string>
+    <string name="note">Bilješka</string>
+    <string name="organization">Organizacija</string>
     <string name="perm_payment_dspt">Dopustiti aplikaciji plaćanje preko Xiaomi plaćanja</string>
     <string name="perm_payment_lab">Xiaomi plaćanja</string>
+    <string name="phone">Telefon</string>
     <string name="pm">PM</string>
     <string name="privacy_policy">Privatnost</string>
     <string name="saturday">Subota</string>
@@ -150,6 +158,7 @@
     <string name="sim_locked">SIM kartica je blokirana.</string>
     <string name="sim_not_ready">SIM kartica se koristi. Pokušajte ponovno kasnije.</string>
     <string name="sim_unavailable">SIM kartica je nedostupna.</string>
+    <string name="sip_phone">SIP</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>
@@ -238,6 +247,7 @@
     <string name="tuesday_shortest">U</string>
     <string name="user_agreement">Sporazum</string>
     <string name="user_manual">Upute</string>
+    <string name="website">Web</string>
     <string name="wednesday">Srijeda</string>
     <string name="wednesday_short">Sri</string>
     <string name="wednesday_shortest">S</string>

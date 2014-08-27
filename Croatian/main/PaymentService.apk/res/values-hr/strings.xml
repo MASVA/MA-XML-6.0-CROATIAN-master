@@ -134,7 +134,7 @@ potrošeni prvi automatski"</string>
   <string name="lockpattern_confirm_button_text">Potvrdi</string>
   <string name="lockpattern_continue_button_text">Nastavi</string>
   <string name="lockpattern_need_to_confirm">Nacrtajte uzorak ponovno za potvrdu:</string>
-  <string name="lockpattern_need_to_confirm_wrong">Ne odgovara zadnjem unosu, unesite ponovno:</string>
+  <string name="lockpattern_need_to_confirm_wrong">"Uzorci ne podudaraju. Pokušajte ponovno:"</string>
   <string name="lockpattern_need_to_unlock_footer"/>
   <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Netočna zaporka, preostalo vam je još %d pokušaja&lt;/font&gt;</string>
   <string name="lockpattern_need_to_unlock_wrong_footer"/>
@@ -264,7 +264,7 @@ Informacije na broj: 400-100-5678 "</string>
   <string name="recharge_voucher_title">MiKredit kartica</string>
   <string name="scan_prompt_number">Skeniraj %1$s broj prepaid kartice</string>
   <string name="scan_prompt_password">Skeniraj %1$s zaporku prepaid kartice</string>
-  <string name="scan_prompt_retry">Držite karticu u poziciji nereflektiranja, ostaje stabilno nakon ponovnog pokušaja</string>
+  <string name="scan_prompt_retry">Držite kôd mirno</string>
   <string name="scan_prompt_voucher">Skeniraj MiKredit zaporku</string>
   <string name="security_setting">Sigurnosne postavke</string>
   <string name="sms_code_error">Pogreška koda za ovjeru, pokušajte ponovno</string>

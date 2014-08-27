@@ -34,34 +34,35 @@ Korištenje više od planiranog ograničenja podataka vašeg davatelja usluga mo
   <string name="data_usage_no_total_package_body">Dodirnite za postavljanje ograničenja uporabe podataka</string>
   <string name="data_usage_no_total_package_body_dual">Dodirnite za postavljanje ograničenja uporabe podataka za %s?</string>
   <string name="data_usage_no_total_package_title">Uporaba podataka</string>
-  <string name="data_usage_restricted_body">Touch to enable background data</string>
-  <string name="data_usage_restricted_title">Background data restricted</string>
-  <string name="data_usage_warning_body">Touch to view data usage details.</string>
-  <string name="data_usage_warning_title">Data usage warning</string>
-  <string name="datausage_purchase_backto_ns">Back</string>
-  <string name="datausage_purchase_banner_title">%s top-up offer (exclusive)</string>
-  <string name="datausage_purchase_buy">Buy</string>
-  <string name="datausage_purchase_confirm_tip">Your order:</string>
-  <string name="datausage_purchase_get_captcha">Get verification code(%d)</string>
-  <string name="datausage_purchase_get_captcha_again">Send a new code</string>
-  <string name="datausage_purchase_get_captcha_failed">"Couldn't get verification code. Check your data connection and try again."</string>
-  <string name="datausage_purchase_goto_monthsetting">Edit package info</string>
-  <string name="datausage_purchase_ordering">Purchasing…</string>
-  <string name="datausage_purchase_pay_captcha_hint">Enter the code you receive here</string>
-  <string name="datausage_purchase_pay_captcha_tips">After you receive your verification code, enter it in the box above and tap \"Buy\" to complete your purchase. Note that the code will is only valid for 10 minutes.</string>
-  <string name="datausage_purchase_pay_confirm">Buy</string>
-  <string name="datausage_purchase_pay_hint">To cancel, dial %s</string>
-  <string name="datausage_purchase_pkglist_networkerror">"Couldn't connect to the network. Check your data connection and try again."</string>
-  <string name="datausage_purchase_pkglist_nodata">"There's conflict between your current data package and the data package you're attempting to purchase.
- Check with your service provider for more info."</string>
-  <string name="datausage_purchase_pkglist_servererror">Yikes! Something went wrong with our server.</string>
-  <string name="datausage_purchase_result_failed">"Couldn't buy data. Check with your carrier for more info about the issue. "</string>
-  <string name="datausage_purchase_result_ok">"You bought %s
-For more info check the message you received from your service provider"</string>
-  <string name="datausage_purchase_title_confirm">Purchase details</string>
-  <string name="datausage_purchase_title_order">Purchase additional data</string>
-  <string name="datausage_purchase_title_pkglist">Purchase data</string>
-  <string name="datausage_purchase_view_detail">View details</string>
+  <string name="data_usage_restricted_body">Dodirnite da omogućite pozadinske podatke</string>
+  <string name="data_usage_restricted_title">Pozadinski podaci ograničeni</string>
+  <string name="data_usage_warning_body">Dodirnite da biste vidjeli pojedinosti uporabe podataka.</string>
+  <string name="data_usage_warning_title">Upozorenje uporabe podataka</string>
+  <string name="datausage_ignore_app_list_count">"Ignoriranje uporabe podataka aplik. %d"</string>
+  <string name="datausage_purchase_backto_ns">Natrag</string>
+  <string name="datausage_purchase_banner_title">%s ponuda nadoplate (ekskluzivno)</string>
+  <string name="datausage_purchase_buy">Kupi</string>
+  <string name="datausage_purchase_confirm_tip">Vaša narudžba:</string>
+  <string name="datausage_purchase_get_captcha">Dobivanje koda za provjeru(%d)</string>
+  <string name="datausage_purchase_get_captcha_again">Pošalji novi kod</string>
+  <string name="datausage_purchase_get_captcha_failed">"Nije bilo moguće dobiti kod za provjeru. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
+  <string name="datausage_purchase_goto_monthsetting">Uredi detalje paketa</string>
+  <string name="datausage_purchase_ordering">Plaćanje…</string>
+  <string name="datausage_purchase_pay_captcha_hint">Unesite primljeni kod ovdje</string>
+  <string name="datausage_purchase_pay_captcha_tips">Nakon što dobijete svoj ​​kôd za provjeru,unesite ga u okvir iznad i dodirnite \"Kupi\" kako bi dovršili kupnju. Imajte na umu da valjanost koda vrijedi samo za 10 minuta.</string>
+  <string name="datausage_purchase_pay_confirm">Kupi</string>
+  <string name="datausage_purchase_pay_hint">Za poništenje, birajte %s</string>
+  <string name="datausage_purchase_pkglist_networkerror">"Ne mogu se spojiti na mrežu. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
+  <string name="datausage_purchase_pkglist_nodata">"Postoji sukob između vašeg trenutnog paketa podataka i paketa podataka koji pokušavate kupiti.
+ Provjerite kod svojeg davatelja usluga za više informacija."</string>
+  <string name="datausage_purchase_pkglist_servererror">Nešto je pošlo po krivu s našim poslužiteljem.</string>
+  <string name="datausage_purchase_result_failed">"Nije bilo moguće kupiti podatke. Provjerite kod svojeg davatelja usluga za više informacija o tom pitanju. "</string>
+  <string name="datausage_purchase_result_ok">"Kupili ste %s
+Za više informacija provjerite poruku koju ste dobili od svog davatelja usluga"</string>
+  <string name="datausage_purchase_title_confirm">Pojedinosti o kupnji</string>
+  <string name="datausage_purchase_title_order">Dodatne pojedinosti o kupnji</string>
+  <string name="datausage_purchase_title_pkglist">Kupnja podataka</string>
+  <string name="datausage_purchase_view_detail">Prikaži detalje</string>
   <string name="declaration_dialog_msg">Ova značajka može vam pomoći da pratite svoju potrošnju, ali nije zajamčeno da će spriječiti dodatne troškove. Za najbolje rezultate postavite konzervativno ograničenje.</string>
   <string name="deleted_apps">Izbrisane aplikacije</string>
   <string name="detail_app_button">Detalji aplikacije</string>
@@ -100,24 +101,24 @@ podatkovnu vezu"</string>
   <string name="main_button_usage_adjust_manual">Postavite ograničenje uporabe podataka</string>
   <string name="main_button_usage_adjusting">Promjena…</string>
   <string name="main_button_usage_package_setting">Postavite ograničenje uporabe podataka</string>
-  <string name="main_primary_message_traffic_cur_leisure">Off-peak data usage</string>
-  <string name="main_primary_message_traffic_cur_normal">Under data limit</string>
-  <string name="main_primary_message_traffic_cur_normal_overlimit">Data limit exceeded</string>
-  <string name="main_primary_message_traffic_cur_normal_warning">Data usage warning</string>
-  <string name="main_primary_message_traffic_enough">Under data usage limit</string>
-  <string name="main_primary_message_traffic_overlimit">Data usage limit exceeded</string>
-  <string name="main_primary_message_traffic_overlimit_purchase">You need to top-up</string>
-  <string name="main_primary_message_traffic_purchase">You need to top-up</string>
-  <string name="main_primary_message_traffic_warning">Approaching data usage limit</string>
+  <string name="main_primary_message_traffic_cur_leisure">Isključivanje maks. uporabe podataka</string>
+  <string name="main_primary_message_traffic_cur_normal">Ispod ograničenja podataka</string>
+  <string name="main_primary_message_traffic_cur_normal_overlimit">Ograničenja podataka prekoračeno</string>
+  <string name="main_primary_message_traffic_cur_normal_warning">Upozorenje uporabe podataka</string>
+  <string name="main_primary_message_traffic_enough">Ispod ograničenja uporabe podataka</string>
+  <string name="main_primary_message_traffic_overlimit">Ograničenje uporabe podataka prekoračeno</string>
+  <string name="main_primary_message_traffic_overlimit_purchase">Morate nadoplatiti bon</string>
+  <string name="main_primary_message_traffic_purchase">Morate nadoplatiti bon</string>
+  <string name="main_primary_message_traffic_warning">Približavanje ograničenja uporabe podataka</string>
   <string name="main_secondary_message_traffic_detail_leisure">"
-Off-peak: %1$s remaining | %2$s used"</string>
+Isklj. Maks.: %1$s preostalo | %2$s iskorišteno"</string>
   <string name="main_secondary_message_traffic_detail_normal">"
-Peak: %1$s%2$s remaining | %3$s used"</string>
-  <string name="main_secondary_message_traffic_over">over</string>
-  <string name="main_secondary_message_traffic_remain">remaining</string>
-  <string name="main_secondary_message_traffic_used_leisure">%s off-peak data used</string>
-  <string name="main_secondary_message_traffic_used_noleisure">%s peak data used | no off-peak data remaining</string>
-  <string name="main_secondary_message_traffic_used_normal">%s peak data used</string>
+Maks.: %1$s%2$s preostalo | %3$s iskorišteno"</string>
+  <string name="main_secondary_message_traffic_over">preko</string>
+  <string name="main_secondary_message_traffic_remain">preostalo</string>
+  <string name="main_secondary_message_traffic_used_leisure">%s Isklj. maks. podataka iskorišteno</string>
+  <string name="main_secondary_message_traffic_used_noleisure">%s maks.podataka iskorišteno | nema isklj. maks. podataka preostalo</string>
+  <string name="main_secondary_message_traffic_used_normal">%s maks.podataka iskorišteno</string>
   <string name="main_toolbar_firewall">Ograniči</string>
   <string name="main_toolbar_purchase">Naviše</string>
   <string name="main_toolbar_saving">Ušteda</string>
@@ -141,8 +142,8 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
   <string name="notification_title">%1$s-%2$s: o %3$s iskorišteno</string>
   <string name="ok_button">U redu</string>
   <string name="online_chat">Chat</string>
-  <string name="online_read">Reading</string>
-  <string name="online_songs">Music</string>
+  <string name="online_read">Čitanje</string>
+  <string name="online_songs">glazba</string>
   <string name="per_month_pkg_traffic_settings">Podesi ograničenje podataka</string>
   <string name="permit_running_network">Dopusti pozadinske podatke</string>
   <string name="person_hotpot">Mobilni hospot</string>
@@ -167,6 +168,8 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
   <string name="pref_connect_settings_exceed_limit_hint">Prekinite podatkovnu vezu kada uporaba podataka dosegne ograničenje</string>
   <string name="pref_daily_adjust">Postavi ograničenje uporabe podataka</string>
   <string name="pref_daily_traffic">Ograničenje uporabe podataka</string>
+  <string name="pref_data_usage_ignore_settings">Ignoriraj uporabu podataka</string>
+  <string name="pref_data_usage_ignore_settings_summary">"Nemoj pratiti uporabu podataka odabrane skupine aplikacija"</string>
   <string name="pref_data_usage_not_set">Postavi ograničenje uporabe podataka</string>
   <string name="pref_free_adjust">Postavi ograničenje uporabe podataka</string>
   <string name="pref_free_traffic_exceed_limit">Obavijesti me kada uporaba podataka dostigne ograničenje</string>
@@ -214,9 +217,10 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg davatelja mobilnih
   <string name="pref_traffic_saving_whitelist_hint">"Podignite ograničenja podataka za odabranu skupinu aplikacija"</string>
   <string name="pref_version">Verzija %s</string>
   <string name="pref_warning_values">Stupanj upozorenja uporabe podataka</string>
-  <string name="read_number">86 articles</string>
-  <string name="read_unit">" articles"</string>
+  <string name="read_number">86 predmeta</string>
+  <string name="read_unit">" predmeta"</string>
   <string name="right_precent">100%</string>
+  <string name="setting_traffic_pkg">Podesite paket podataka</string>
   <string name="settings">Postavke uporabe podataka</string>
   <string name="songs_number">18 pjesama</string>
   <string name="songs_unit">" pjesama"</string>
@@ -286,7 +290,7 @@ Prema vašem operateru iskoristili ste %1$s od vašeg maks. podataka ovog mjesec
   <string name="traffic_saving_whitelist_no_app">Nema aplikacija</string>
   <string name="traffic_setting_fragment_area">Lokalno</string>
   <string name="traffic_setting_fragment_brand">Marka</string>
-  <string name="traffic_setting_fragment_button1_text">Cancel</string>
+  <string name="traffic_setting_fragment_button1_text">Odustani</string>
   <string name="traffic_setting_fragment_button2_text">Spremi</string>
   <string name="traffic_setting_fragment_get_template_falure">Ažuriranje nije uspjelo. Provjerite svoju podatkovnu vezu i pokušajte ponovno.</string>
   <string name="traffic_setting_fragment_loading_text">Dobivanje detalje mreže…</string>

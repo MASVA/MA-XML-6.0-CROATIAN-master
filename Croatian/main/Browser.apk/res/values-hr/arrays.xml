@@ -26,7 +26,7 @@
         <item>Prilagođeno</item>
     </string-array>
     <string-array name="pref_text_size_choices">
-	    <item>Sitan</item>
+        <item>Sitan</item>
         <item>Malen</item>
         <item>Normalan</item>
         <item>Velik</item>
@@ -73,5 +73,12 @@
         <item>Zelena</item>
         <item>Plava</item>
         <item>Tamna</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Sitni</item>
+        <item>Mali</item>
+        <item>Normalni</item>
+        <item>Veliki</item>
+        <item>Ogroman</item>
         </string-array> 
 </resources>

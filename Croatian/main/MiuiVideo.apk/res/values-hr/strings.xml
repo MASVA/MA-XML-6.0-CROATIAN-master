@@ -7,10 +7,10 @@
   <string name="about_version">1.0.1</string>
   <string name="about_version_label">Verzija koda</string>
   <string name="actor_colon">Uloge:</string>
-  <string name="ad_moredetail">više detalja</string>
-  <string name="add_more_addons">Dodaj još</string>
-  <string name="addon"/>
-  <string name="addon_category">Istaknuto</string>
+  <string name="ad_moredetail">Više detalja</string>
+  <string name="add_more_addons">Dodaj još dodataka</string>
+  <string name="addon">" dodataka"</string>
+  <string name="addon_category">Dodaci</string>
   <string name="addon_install_complete_disc">%s dodataka instalirano. Možete ih pregledati u /Moji videozapisi/.</string>
   <string name="addon_update_desc">Nađena nova verzija. Ažurirati sada?</string>
   <string name="adjust_position_next_media_notice">Dalje</string>
@@ -128,7 +128,7 @@
   <string name="icntv">iCNTV</string>
   <string name="imports">Uvezi</string>
   <string name="init">Init</string>
-  <string name="install_comfirm">klik za instaliranje</string>
+  <string name="install_comfirm">Dodirni za instaliranje</string>
   <string name="introduce">Sažetak</string>
   <string name="key_back_down_toast">Za izlaz, pritisnite tipku Natrag opet</string>
   <string name="lekan">Lekan</string>
@@ -184,7 +184,7 @@
   <string name="other_setting">Ostalo</string>
   <string name="pause">Pauza</string>
   <string name="percent_status">%.1f%%</string>
-  <string name="pick_addon_to_delete">odaberite stavke</string>
+  <string name="pick_addon_to_delete">Odaberite stavke</string>
   <string name="play">Reproduciraj</string>
   <string name="play_count_ci">%d reproducirano</string>
   <string name="play_his_empty_hint">Prazno</string>
@@ -229,7 +229,7 @@
   <string name="star3">***</string>
   <string name="star4">****</string>
   <string name="star5">*****</string>
-  <string name="start_addon">početak dodatka</string>
+  <string name="start_addon">Pokreni dodatke</string>
   <string name="temp_play_history_button_label">Povijest</string>
   <string name="tencent">Tencent</string>
   <string name="time_colon">"Datum: "</string>

@@ -29,7 +29,7 @@
   <string name="err_type_reboot">Ponovna pokretanja</string>
   <string name="err_type_signal">Problemi s mrežom</string>
   <string name="err_type_suggestion">Prijedlozi</string>
-  <string name="err_type_systemapp">MIUI aplikacije</string>
+  <string name="err_type_systemapp">MIUI aplik.</string>
   <string name="err_type_wifi">WLAN</string>
   <string name="hot_problem">Prikaži uobičajene greške</string>
   <string name="loading_apps">Stavranje popisa…</string>
@@ -41,6 +41,7 @@
   <string name="network_unavailable_dialog_button_ok">U redu</string>
   <string name="network_unavailable_dialog_content">Vaša izvješće će biti poslana kada ćete imati podatkovnu vezu."</string>
   <string name="network_unavailable_dialog_title">"Ne mogu se povezati na mrežu"</string>
+  <string name="no_userbook_toast">"Pročitaj me ne postoji"</string>
   <string name="non_system_app_select">Preuzete aplikacije</string>
   <string name="nonsystemapp_description">Opišite problem</string>
   <string name="packaging_dialog_content">Stvaranje izvješća…</string>
@@ -72,6 +73,7 @@
   <string name="toast_report_copied_to_clipboard">Izvješće kopirano u međuspremnik</string>
   <string name="toast_report_sent_failed">"Ne mogu poslati izvješće"</string>
   <string name="toast_report_sent_succeed">Izvješće je poslano</string>
+  <string name="userbook_name">Korisnički vodič</string>
   <string name="wifi_problem1">"Ne mogu se automatski povezati na osigurani WLAN"</string>
   <string name="wifi_problem2">WLAN signal je slab</string>
   <string name="wifi_problem3">WLAN neočekivano prekinut</string>

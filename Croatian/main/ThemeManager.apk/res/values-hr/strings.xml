@@ -139,6 +139,7 @@
     <string name="resource_exchange_wrong_format_by_local">Format koda koji ste unijeli je pogrešan</string>
     <string name="resource_exchange_wrong_format_by_server">Kod nije bilo moguće provjeriti. Pobrinite se da ste ga ispravno unijeli.</string>
     <string name="resource_expand_full_text">Proširi</string>
+    <string name="resource_failed_to_load_list">Nije uspjelo učitavanje popisa</string>
     <string name="resource_get_auth_checking">Provjeravam autorizaciju…</string>
     <string name="resource_get_auth_exceed_max_limit_tips">Deset uređaja je već odobreno na ovom računu</string>
     <string name="resource_get_auth_exceed_max_limit_title">Broj odobrenih uređaja je prekoračen</string>
@@ -175,6 +176,7 @@
     <string name="resource_ringtone_playing_error">Pogreška plaćanjar</string>
     <string name="resource_ringtone_volume_mute">Vaša melodija zvona je utišana</string>
     <string name="resource_save_to_note">Spremi u Bilješke</string>
+    <string name="resource_search_list_empty">"Ništa nije pronađeno"</string>
     <string name="resource_see_more">Vidi više</string>
     <string name="resource_select">Odaberi</string>
     <string name="resource_selected">Istaknuto</string>
@@ -197,8 +199,6 @@
     <string name="resource_trial_fail_message">Provjerite je li vaš sat sustava postavljen na točno vrijeme.</string>
     <string name="resource_trial_fail_title">"Nije bilo moguće postaviti probni period"</string>
     <string name="resource_trial_time">（probni period: %1$d min.）</string>
-    <string name="resource_unable_to_access">"Na žalost,
-sadržaj koji tražite nije trenutno dostupan u vašoj regiji."</string>
     <string name="resource_unknow_error">Došlo je do nepoznate pogreške</string>
     <string name="resource_update">Ažuriraj</string>
     <string name="resource_user_know">U redu</string>
@@ -265,7 +265,7 @@ sadržaj koji tražite nije trenutno dostupan u vašoj regiji."</string>
     <string name="title_system_resource">Lokalni resursi</string>
     <string name="to_activate_the_account">Aktivirajte svoj Mi račun</string>
     <string name="wallpaper_crop">Obreži</string>
-    <string name="wallpaper_decoded_error">Neuspješno dekodiranje</string>
+    <string name="wallpaper_decoded_error">"Ne mogu učitati sliku pozadine"</string>
     <string name="wallpaper_loading_text">Učitavanje…</string>
     <string name="wallpaper_set_as_both">Podesi za oboje</string>
     <string name="wallpaper_set_as_destop">Podesi za sliku pozadine</string>

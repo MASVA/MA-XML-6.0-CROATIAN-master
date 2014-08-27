@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Only_the_wifi">Samo preko WLAN-a</string>
+  <string name="Only_the_wifi">Samo učinkovito preko WLAN-a</string>
   <string name="all_downloads">Sva preuzimanja</string>
   <string name="all_the_internet">Internet</string>
   <string name="all_fileter">Sve</string>
@@ -8,7 +8,7 @@
   <string name="app_downloads">%s preuzimanja</string>
   <string name="app_label">Preuzimanja</string>
   <string name="auth_activity_title">Xunlei račun</string>
-  <string name="bind_xunlei_account">Poveži račun &gt;</string>
+  <string name="bind_xunlei_account">Poveži Xunlei račun &gt;</string>
   <string name="button_sort_by_date">Poredano po datumu</string>
   <string name="button_sort_by_size">Poredano po veličini</string>
   <string name="cancel_running_download">Odustani</string>
@@ -101,27 +101,27 @@
   <string name="paused_waiting_for_network">Čekam mrežnu vezu</string>
   <string name="paused_waiting_to_retry">Čekam ponovni pokušaj</string>
   <string name="period_of_validity">Rok valjanosti: </string>
-  <string name="pref_download_settings_title">Upotreba podataka</string>
-  <string name="pref_summary_any_bytes_popup">Uvijek stavi u red čekanja preko WLAN mreže</string>
-  <string name="pref_summary_enable_max_bytes_popup">"Ispod naziva operatora, izbaci upozorenje za prekoračenje limita</string>
-  <string name="pref_summary_max_bytes_limit_format">Izbaci upozorenje ako prekorači za %s</string>
-  <string name="pref_summary_no_limit_popup">Neograničena veličina preuzimanja</string>
-  <string name="pref_title_enable_max_bytes_popup">Brzina preuzimanja datoteka</string>
+  <string name="pref_download_settings_title">Ograničenje veličine preuzimanja</string>
+  <string name="pref_summary_any_bytes_popup">Uvijek čekaj WLAN vezu za preuzimanje datoteka</string>
+  <string name="pref_summary_enable_max_bytes_popup">Pokaži skočnu obavijest prilikom korištenja mobilne podatkovne veze za preuzimanje sadržaja</string>
+  <string name="pref_summary_max_bytes_limit_format">Čekaj WLAN, ako veličina datoteke premašuje %s</string>
+  <string name="pref_summary_no_limit_popup">NeograničenO</string>
+  <string name="pref_title_enable_max_bytes_popup">Prikaži upozorenje uporabe podataka</string>
   <string name="preferences_title">Postavke</string>
   <string name="remove_download">Ukloni</string>
-  <string name="restart_download">Ponovno pokretanje</string>
+  <string name="restart_download">Ponovno pokreni</string>
   <string name="resume_download">Nastavi</string>
-  <string name="retry_after_network_available">Pokušajte opet kad mrežne veze budu dostupne</string>
+  <string name="retry_after_network_available">Ne mogu se spojiti na mrežu. Provjerite svoju podatkovnu vezu i pokušajte ponovno</string>
   <string name="retry_download">Pokušaj ponovno</string>
   <string name="select_all">Odaberi sve</string>
   <string name="select_operation_items">Odaberite stavke</string>
   <string name="selected_count">Odabrano %1$d od %2$d</string>
-  <string name="turn_off_xunlei_message">Možete iskusiti sporiji brzinu preuzimanja.</string>
+  <string name="turn_off_xunlei_message">Možete iskusiti sporiju brzinu preuzimanja.</string>
   <string name="turn_off_xunlei_tips">Xunlei ubrzanje preuzimanja je isključeno</string>
-  <string name="turn_off_xunlei_title">Xunlei alat preuzimanja je onemogućen</string>
+  <string name="turn_off_xunlei_title">Onemogući Xunlei alat preuzimanja</string>
   <string name="valid_in_this_month">vrijedi samo u ovom mjesecu</string>
-  <string name="vip_auto_speedup">Xunlei Članovi ubrzavaju izravno</string>
-  <string name="xunlei_brand">" "</string>
+  <string name="vip_auto_speedup">Xunlei Članovi imaju ubrzanje preuzimanja izravno</string>
+  <string name="xunlei_brand">Powered by Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
   <string name="xunlei_gaosu">Xunlei Highspeed service</string>
   <string name="xunlei_member_annual_fee">Xunlei Član na godinu dana(platinum)</string>

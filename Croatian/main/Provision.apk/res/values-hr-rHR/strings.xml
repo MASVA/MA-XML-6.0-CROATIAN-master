@@ -5,18 +5,24 @@
   <string name="input_method_category">"Odaberite zadani način unosa koje ćete koristiti prilikom pisanja poruka e-pošte, bilješki, i drugdje."</string>
   <string name="input_method_setting">Odaberite način unosa</string>
   <string name="logo_congratulation">"Sve ste postavili!"</string>
+  <string name="multisim_settings_category">Poželjene SIM postavke</string>
+  <string name="multisim_settings_title">Otkrivene 2 SIM kartice</string>
   <string name="next">Dalje</string>
   <string name="other_settings">Dodatne postavke</string>
   <string name="other_settings_location">Pristup lokaciji</string>
   <string name="other_settings_location_summary">Dopustiti da aplikacije precizno odrede vašu lokaciju</string>
   <string name="other_settings_user_experience">Program korisničkog iskustva</string>
-  <string name="other_settings_user_experience_summary">"Pomozite nam poboljšati MIUI slanjem anonimnih podataka o korištenju."</string>
+  <string name="other_settings_user_experience_summary">"Pomozite nam poboljšati MIUI slanjem anonimnih podataka o korištenju. "</string>
   <string name="other_settings_user_experience_summary1">(Prikaži pravila o privatnosti)</string>
+  <string name="pref_title_data_slot">Poželjeni podaci SIM kartice</string>
+  <string name="pref_title_voice_slot">Poželjene glas. usluge SIM kartice</string>
   <string name="shut_down">Isključivanje</string>
   <string name="sim_card_detecting">Provjravam SIM karticu…</string>
   <string name="sim_card_detection">SIM kartica nije otkrivena</string>
   <string name="sim_card_detection_info">Potrebna vam je SIM kartica za postavljanje Mi Računa.</string>
   <string name="sim_dectection_next">Nastavi</string>
   <string name="sim_redetection">Provjeravam ponovo SIM karticu</string>
+  <string name="summary_not_set">Nije podešeno</string>
+  <string name="summary_sim_card">Kartica %1$d%2$s</string>
   <string name="welcome">Dobrodošli u</string>
 </resources> 

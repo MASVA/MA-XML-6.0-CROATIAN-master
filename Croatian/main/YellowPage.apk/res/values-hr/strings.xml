@@ -29,7 +29,7 @@
   <string name="data_error">Žao nam je, trenutna usluga nije dostupna, pokušajte ponovo kasnije</string>
   <string name="delete">Izbrisati</string>
   <string name="do_not_remind_me">"Ne podsjećaj me"</string>
-  <string name="dont_enable">"Ne omogućiti"</string>
+  <string name="dont_enable">"Nemoj omogućiti"</string>
   <string name="download_completed">Preuzimanje završeno! Putanja SD kartice: %s</string>
   <string name="download_failed">Preuzimanje neuspjelo</string>
   <string name="download_failed_blocked">Preuzimanje neuspjelo, nije moguće spajanje na mrežu</string>
@@ -89,6 +89,7 @@ Provjerite vaš broj za praćenje."</string>
   <string name="express_select_address">Adresa</string>
   <string name="express_select_addressee">Prima</string>
   <string name="express_select_sender">Šalje</string>
+  <string name="express_sender">Pošiljatelj</string>
   <string name="express_sender_info">Podaci o pošiljatelju</string>
   <string name="express_sender_name">Ime pošiljatelja</string>
   <string name="express_sender_region">Regija pošiljatelja</string>

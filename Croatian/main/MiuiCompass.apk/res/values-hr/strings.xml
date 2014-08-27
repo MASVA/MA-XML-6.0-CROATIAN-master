@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="altitude">%.1f</string>
-  <string name="altitude_title">Nadmorska visina</string>
+  <string name="altitude_title">Nadm. visina</string>
   <string name="altitude_unit">m</string>
   <string name="app_label">Kompas</string>
   <string name="calibrate_altitude">Kalibriranje nad. visine</string>

@@ -244,19 +244,19 @@ Podaci o kontaktima pohranjeni u vašem Mi Cloud računu će također biti izbri
   <string name="description_dial_phone_number">"Biranje telefonskog broja za kontakt %1$s"</string>
   <string name="description_digits_edittext">"broj za pozivanje"</string>
   <string name="description_download">Preuzeto</string>
-  <string name="description_image_button_eight">"osam"</string>
-  <string name="description_image_button_five">"pet"</string>
-  <string name="description_image_button_four">"četiri"</string>
-  <string name="description_image_button_nine">"devet"</string>
-  <string name="description_image_button_one">"jedan"</string>
-  <string name="description_image_button_pound">"funta"</string>
-  <string name="description_image_button_seven">"sedam"</string>
-  <string name="description_image_button_six">"šest"</string>
-  <string name="description_image_button_star">"zvjezdica"</string>
-  <string name="description_image_button_three">"tri"</string>
-  <string name="description_image_button_two">"dva"</string>
-  <string name="description_image_button_zero">"nula"</string>
-  <string name="description_minus_button">minus</string>
+  <string name="description_image_button_eight">osam</string>
+  <string name="description_image_button_five">pet</string>
+  <string name="description_image_button_four">četiri</string>
+  <string name="description_image_button_nine">devet</string>
+  <string name="description_image_button_one">jedan</string>
+  <string name="description_image_button_pound">pound</string>
+  <string name="description_image_button_seven">sedam</string>
+  <string name="description_image_button_six">šest</string>
+  <string name="description_image_button_star">*</string>
+  <string name="description_image_button_three">tri</string>
+  <string name="description_image_button_two">dva</string>
+  <string name="description_image_button_zero">nula</string>
+  <string name="description_minus_button">izbriši</string>
   <string name="description_plus_button">plus</string>
   <string name="description_quick_contact_for">"Brzi kontakt za korisnika %1$s</string>
   <string name="description_search_button">"pretraži"</string>
@@ -335,7 +335,7 @@ Podaci o kontaktima pohranjeni u vašem Mi Cloud računu će također biti izbri
   <string name="editGroupDescription">Uredi grupu</string>
   <string name="edit_contact">"Uredi kontakt"</string>
   <string name="edit_contact_card_title">Uredi karticu kontakta</string>
-  <string name="edit_contact_photo">Edit contact photo</string>
+  <string name="edit_contact_photo">Uredi sliku kontakta</string>
   <string name="email">"E-pošta"</string>
   <string name="emailLabelsGroup">"E-pošta"</string>
   <string name="email_custom">"Pošalji e-poruku za %s"</string>
@@ -583,23 +583,62 @@ Razlog: \"%s\""</string>
   <string name="noContactHelpTextAccountsInfo">Sinkronizacija Xiaomi, Google, i Exchange kontakata</string>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Obnova podataka kontakata korištenjem Xiaomi računa</string>
   <string name="noContacts">Nema kontakata</string>
-  <string name="noContactsHelpText">"Nema kontakata za prikaz.  
-Za dodavanje kontakata, dotaknite "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Izbornik&lt;/font&gt;&lt;/b&gt;", zatim dotaknite:
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Računi - za dodavanje ili postavljanje računa s kontaktima koje možete sinkronizirati s telefonom "
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Novi kontakt - za kreiranje novog kontakta ispočetka 
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Uvoz/izvoz - za uvoz kontakata sa vaše SIM ili SD kartice 
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
-"</string>
+  <string name="noContactsHelpText">"Nemate kontakata za prikaz.
+  
+Za dodavanje kontakata, dodirnite "Izbornik", onda dodirnite:
+
+"Računi za dodati ili postaviti račun s kontaktima  možete sinkronizirati s telefonom" 
+
+"Novi kontakt za izradu novog kontakta iz nule" 
+
+"Uvoz/izvoz kontakata sa SIM kartice ili SD kartice"</string>
   <string name="noContactsHelpTextForCreateShortcut">"Nema kontakata za prikaz."</string>
-  <string name="noContactsHelpTextWithSync">"Nema kontakata za prikaz. (ako ste upravo dodali račun, potrebno je nekoliko minuta za sinkronizaciju kontakata.) Za dodavanje kontakata, dotaknite "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Izbornik&lt;/font&gt;&lt;/b&gt;", zatim dotaknite: "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Računi - za dodavanje ili postavljanje računa s kontaktima koje možete sinkronizirati s telefonom "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Opcije prikaza - radi određivanja koji kontakti su vidljivi "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Novi kontakt - za kreiranje novog kontakta ispočetka "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Uvoz/izvoz - za uvoz kontakata sa vaše SIM ili SD kartice "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "</string>
-  <string name="noContactsHelpTextWithSyncForCreateShortcut">"Nema kontakata za prikaz. (ako ste upravo dodali račun, potrebno je nekoliko minuta za sinkronizaciju kontakata.)"</string>
-  <string name="noContactsNoSimHelpText">"Nema kontakata za prikaz. Za dodavanje kontakata, dotaknite "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Izbornik&lt;/font&gt;&lt;/b&gt;", zatim dotaknite: "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Računi - za dodavanje ili postavljanje računa s kontaktima koje možete sinkronizirati s telefonom "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Novi kontakt - za kreiranje novog kontakta ispočetka "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Uvoz/izvoz - za uvoz kontakata sa vaše SD kartice "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "</string>
-  <string name="noContactsNoSimHelpTextWithSync">"Nema kontakata za prikaz. (ako ste upravo dodali račun, potrebno je nekoliko minuta za sinkronizaciju kontakata.) Za dodavanje kontakata, dotaknite "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Izbornik&lt;/font&gt;&lt;/b&gt;", zatim dotaknite: "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Računi - za dodavanje ili postavljanje računa s kontaktima koje možete sinkronizirati s telefonom "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Opcije prikaza - radi određivanja koji kontakti su vidljivi "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Novi kontakt - za kreiranje novog kontakta ispočetka "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Uvoz/izvoz - za uvoz kontakata sa vaše SD kartice "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "</string>
-  <string name="noContactsWithPhoneNumbers">Nema kontakata s telefonskim brojevima.</string>
-  <string name="noFavoritesHelpText">"Nemate favorita. Da biste dodali kontakte u popis favorita: "&lt;li&gt;Dotaknite karticu &lt;b&gt;Kontakti&lt;/b&gt;" "&lt;/li&gt;" "&lt;li&gt;"Dotaknite kontakt koji želite dodati u favorite "&lt;/li&gt;" "&lt;li&gt;"Dotaknite zvjezdicu uz ime kontakta"&lt;/li&gt;" "</string>
-  <string name="noGroups">Nema grupa.</string>
+  <string name="noContactsHelpTextWithSync">"Nemate kontakata za prikaz. Ako ste tek dodali račun, može potrajati nekoliko minuta za sinkronizaciju kontakata.)
+  
+Za dodavanje kontakata, dodirnite ""Izbornik", onda dodirnite:
+
+"Računi za dodati ili postaviti račun s kontaktima  možete sinkronizirati s telefonom" 
+
+"Opcije prikaza za promjenu koji će kontakti biti vidljivi" 
+
+"Novi kontakt za izradu novog kontakta iz nule" 
+
+"Uvoz/izvoz kontakata sa SIM kartice ili SD kartice"
+"</string>
+  <string name="noContactsHelpTextWithSyncForCreateShortcut">"Nemate kontakata za prikaz. (Ako ste tek dodali račun, može potrajati nekoliko minuta za sinkronizaciju kontakata.)"</string>
+  <string name="noContactsNoSimHelpText">"Nemate kontakata za prikaz.
+  
+Za dodavanje kontakata, dodirnite ">Izbornik", onda dodirnite:
+
+"Računi za dodati ili postaviti račun s kontaktima  možete sinkronizirati s telefonom" 
+
+"Novi kontakt za izradu novog kontakta iz nule" 
+
+"Uvoz/izvoz kontakata sa SD kartice"
+"</string>
+  <string name="noContactsNoSimHelpTextWithSync">"Nemate kontakata za prikaz. (Ako ste tek dodali račun, može potrajati nekoliko minuta za sinkronizaciju kontakata.)
+Za dodavanje kontakata, dodirnite "Izbornik", onda dodirnite:
+
+"Računi za dodati ili postaviti račun s kontaktima  možete sinkronizirati s telefonom"
+
+"Opcije prikaza za promjenu koji će kontakti biti vidljivi" 
+
+"Novi kontakt za izradu novog kontakta iz nule"
+
+"Uvoz/izvoz kontakata sa SIM kartice ili SD kartice"
+</string>
+  <string name="noContactsWithPhoneNumbers">Nema kontakata s telefonskim brojem.</string>
+  <string name="noFavoritesHelpText">"Nemate nijedan favorit.
+  
+Za dodavanje kontakta na listu favorita :
+
+"Dodirnite Kontakti karticu" 
+
+"Dodirnite kontakt koji želite dodati u Favorite" 
+
+"Klik na zvijezdu uz ime kontakta"
+</string>
+  <string name="noGroups">Nema skupina.</string>
   <string name="noMatchingContacts">Nema odgovarajućih kontakata.</string>
   <string name="noRecentContacts">"Nema nedavnih kontakata"</string>
   <string name="no_account_prompt">Aplikacija Ljudi radi bolje s Google računom.
@@ -759,11 +798,11 @@ Za dodavanje kontakata, dotaknite "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Izbo
   <string name="resource_account_abnormal_state">Greška računa. Pričekajte minutu dvije i pokušajte ponovo.</string>
   <string name="resource_account_fail_to_add">"Ne mogu dodati kontakt"</string>
   <string name="resource_account_login">Prijava</string>
-  <string name="resource_account_login_before_action">Prijavite se sada na svoj Mi račun</string>
+  <string name="resource_account_login_before_action">Prijavite se na vaš Mi račun.</string>
   <string name="resource_account_login_title">Prijava</string>
   <string name="resource_account_switch">Promijeni</string>
   <string name="resource_alarm_default">Alarm</string>
-  <string name="resource_app_name">Izvor Preglednik</string>
+  <string name="resource_app_name">Izvor Preglednika</string>
   <string name="resource_apply">Primjeni</string>
   <string name="resource_apply_trial">Isprobajte</string>
   <string name="resource_buy">Kupi</string>
@@ -771,142 +810,142 @@ Za dodavanje kontakata, dotaknite "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Izbo
   <string name="resource_category">Kategorija</string>
   <string name="resource_clear_search_history">Očisti povijest pretraživanja</string>
   <string name="resource_clear_search_history_dialog">Očistiti svu povijest pretraživanja?</string>
-  <string name="resource_comment_1_star">★</string>
-  <string name="resource_comment_2_star"> ★ ★</string>
-  <string name="resource_comment_3_star"> ★ ★ ★</string>
-  <string name="resource_comment_4_star"> ★ ★ ★ ★</string>
-  <string name="resource_comment_5_star"> ★ ★ ★ ★ ★</string>
-  <string name="resource_comment_all_comments">Sve</string>
-  <string name="resource_comment_average_score">Ocjene</string>
+  <string name="resource_comment_1_star">*</string>
+  <string name="resource_comment_2_star">**</string>
+  <string name="resource_comment_3_star">***</string>
+  <string name="resource_comment_4_star">****</string>
+  <string name="resource_comment_5_star">*****</string>
+  <string name="resource_comment_all_comments">Svi komentari</string>
+  <string name="resource_comment_average_score">Prosječna ocjena</string>
   <string name="resource_comment_bad_comments">Negativno</string>
   <string name="resource_comment_current_version">Trenutna verzija</string>
   <string name="resource_comment_date">%1$02d-%2$02d</string>
   <string name="resource_comment_edit_comment">Dodaj komentar</string>
-  <string name="resource_comment_edit_comment_waiting">Checking user history…</string>
-  <string name="resource_comment_edit_text_default">Write a comment</string>
-  <string name="resource_comment_edit_title">Edit comment: %1$s</string>
-  <string name="resource_comment_entry_tips">View comments</string>
-  <string name="resource_comment_expand_full_text">Expand all text▼</string>
-  <string name="resource_comment_footer">Empty comments are not displayed.</string>
-  <string name="resource_comment_good_comments">Positive</string>
-  <string name="resource_comment_invalid">Touch the stars to rate the theme</string>
-  <string name="resource_comment_loading_list">Loading…</string>
-  <string name="resource_comment_name_default">User %1$s</string>
+  <string name="resource_comment_edit_comment_waiting">Provjera povijesti korisnika…</string>
+  <string name="resource_comment_edit_text_default">Dodaj komentar</string>
+  <string name="resource_comment_edit_title">Uredi komentar: %1$s</string>
+  <string name="resource_comment_entry_tips">Prikaži komentar</string>
+  <string name="resource_comment_expand_full_text">Proširi sav tekst ▼</string>
+  <string name="resource_comment_footer">Prazni komentari neće biti prikazani</string>
+  <string name="resource_comment_good_comments">Pozitivni komentari</string>
+  <string name="resource_comment_invalid">Dodirni zvijezdu da ocijeniš</string>
+  <string name="resource_comment_loading_list">Učitavam komentare…</string>
+  <string name="resource_comment_name_default">Korisnik %1$s</string>
   <string name="resource_comment_no_average_score">N/A</string>
-  <string name="resource_comment_no_comment">No comments</string>
-  <string name="resource_comment_publish">Submit</string>
-  <string name="resource_comment_rate">Rating:</string>
-  <string name="resource_comment_rating_star_tips">Touch stars to rate:</string>
-  <string name="resource_comment_score_count">%1$s users</string>
-  <string name="resource_comment_sending">Sending comment…</string>
-  <string name="resource_comment_title">Comments: %1$s</string>
-  <string name="resource_comment_upload_data_invalid">The comment you entered is invalid</string>
-  <string name="resource_comment_upload_failed">"Can't send comment"</string>
-  <string name="resource_comment_upload_hint">Your comment will be displayed after a brief review.</string>
-  <string name="resource_comment_upload_not_bought">You need to apply the theme before you can write comments about it</string>
-  <string name="resource_comment_upload_not_logined">You need to sign in first</string>
-  <string name="resource_comment_upload_success">Your comment will be displayed after a brief review.</string>
-  <string name="resource_default">Default ringtone</string>
-  <string name="resource_default_name">Resource</string>
-  <string name="resource_delete">Delete</string>
-  <string name="resource_delete_all">Delete %1$d selected resources?</string>
-  <string name="resource_delete_confirm">Delete these resources?</string>
-  <string name="resource_delta_update_failed">Update failed: Downloading theme again…</string>
-  <string name="resource_delta_update_successful">Update successful</string>
-  <string name="resource_delta_update_total">%1$d delta updates saved %2$s</string>
-  <string name="resource_detail">Details</string>
-  <string name="resource_detail_comment_title">Comments</string>
-  <string name="resource_detail_jump_to_online_title">Online</string>
-  <string name="resource_detail_jump_to_same_author_title">Same author</string>
-  <string name="resource_detail_recommend_desiner_other_themes">Other themes designed by %1$s</string>
-  <string name="resource_detail_recommend_desiner_themes">%1$s themes</string>
-  <string name="resource_detail_recommend_other_themes">Users also liked</string>
-  <string name="resource_detail_update_log_title">Updates</string>
-  <string name="resource_detail_window_title">%1$s details</string>
-  <string name="resource_download">Download</string>
-  <string name="resource_download_trial">Try for free</string>
-  <string name="resource_downloaded_title">Downloaded resources</string>
-  <string name="resource_downloading">Downloading</string>
-  <string name="resource_exchange">Redeem</string>
-  <string name="resource_exchange_confirm">Confirm</string>
-  <string name="resource_exchange_empty_format">Enter gift code</string>
-  <string name="resource_exchange_has_bought">"You've already purchased this theme."</string>
-  <string name="resource_exchange_has_expired">The code you entered has expired.</string>
-  <string name="resource_exchange_has_used">The code you entered has already been used.</string>
-  <string name="resource_exchange_hint">Enter your gift code</string>
-  <string name="resource_exchange_purchase_unkown_error">Yikes! An unknown error occurred. Sign in at http://market.xiaomi.com to view your payment status.</string>
-  <string name="resource_exchange_share_code_content">"You've received a gift code (%2$s) for the theme %1$s in MIUI's Theme Store. Tap %3$s to use it now."</string>
-  <string name="resource_exchange_share_code_dlg_content">Gift code for %1$s: %2$s. When you send it to another MIUI user, they can use it to download this theme.</string>
-  <string name="resource_exchange_share_code_dlg_title">Sending</string>
-  <string name="resource_exchange_success">Enjoy! :)</string>
-  <string name="resource_exchange_unavailable">"The theme associated with the code you entered isn't available."</string>
-  <string name="resource_exchange_universal_finish">Use this code to download a theme from the Theme Store.</string>
-  <string name="resource_exchange_universal_goon">This code can be used to download any theme in the store.</string>
-  <string name="resource_exchange_window_title">Redeem</string>
-  <string name="resource_exchange_wrong_format_by_local">The format of the code you entered is incorrect.</string>
-  <string name="resource_exchange_wrong_format_by_server">"Code was not verified. Make sure you've entered it correctly."</string>
-  <string name="resource_expand_full_text">Expand</string>
-  <string name="resource_get_auth_checking">Checking authorization…</string>
-  <string name="resource_get_auth_exceed_max_limit_tips">Ten devices have already been authorized on this account</string>
-  <string name="resource_get_auth_exceed_max_limit_title">Number of authorized devices exceeded</string>
-  <string name="resource_get_auth_missing">Themes from third-party sources are not supported</string>
-  <string name="resource_get_auth_retrieving">Retrieving authorization…</string>
-  <string name="resource_hint">Alert</string>
-  <string name="resource_import_failed">Import failed</string>
-  <string name="resource_import_successful">Download complete</string>
-  <string name="resource_importing">Importing…</string>
-  <string name="resource_list_title">Latest selected</string>
-  <string name="resource_local">Local %1$s</string>
-  <string name="resource_menu_refresh">Refresh</string>
-  <string name="resource_mute">None</string>
-  <string name="resource_my">Local</string>
-  <string name="resource_no_result">"Couldn't find anything"</string>
-  <string name="resource_notification_default">Notifications</string>
-  <string name="resource_on_trial">Trying: %1$s</string>
-  <string name="resource_online">Online %1$s</string>
-  <string name="resource_pack_confirm">"Even though you've already purchased %1$d components in this theme, it's still cheaper if you buy the full bundle."</string>
-  <string name="resource_pack_discount_info">%1$s saved</string>
-  <string name="resource_pack_price_info">%1$s Original</string>
-  <string name="resource_pack_warning">"You've already purchased %1$d components in this theme. It's cheaper if you buy the remaining components individually."</string>
-  <string name="resource_present">Gift</string>
+  <string name="resource_comment_no_comment">Nema komentara</string>
+  <string name="resource_comment_publish">Pošalji</string>
+  <string name="resource_comment_rate">Ocjena:</string>
+  <string name="resource_comment_rating_star_tips">Dodirni zvjezdu da ocijenite:</string>
+  <string name="resource_comment_score_count">%1$s korisnika</string>
+  <string name="resource_comment_sending">Šaljem komentar…</string>
+  <string name="resource_comment_title">Komentara: %1$s</string>
+  <string name="resource_comment_upload_data_invalid">Komentar koji ste unijeli nije valjan</string>
+  <string name="resource_comment_upload_failed">"Ne mogu poslati komentar"</string>
+  <string name="resource_comment_upload_hint">Komentar će se objavit nakon što bude pregledan.</string>
+  <string name="resource_comment_upload_not_bought">Morate podesiti temu prije pisanja komentara.</string>
+  <string name="resource_comment_upload_not_logined">Niste prijavljeni!</string>
+  <string name="resource_comment_upload_success">Komentar će se objavit nakon što bude pregledan</string>
+  <string name="resource_default">Zadana melodija zvona</string>
+  <string name="resource_default_name">Izvori</string>
+  <string name="resource_delete">Izbrisati</string>
+  <string name="resource_delete_all">Izbrisati %1$d odabrane elemente?</string>
+  <string name="resource_delete_confirm">Izbrisati odabrane elemente?</string>
+  <string name="resource_delta_update_failed">Ažuriranje nije uspjelo:Preuzimam temu ponovo…</string>
+  <string name="resource_delta_update_successful">Ažuriranje uspjelo.</string>
+  <string name="resource_delta_update_total">%1$d delta ažuriranja spremljeno %2$s</string>
+  <string name="resource_detail">Detalji</string>
+  <string name="resource_detail_comment_title">Komentari</string>
+  <string name="resource_detail_jump_to_online_title">Mrežno</string>
+  <string name="resource_detail_jump_to_same_author_title">Isti autor</string>
+  <string name="resource_detail_recommend_desiner_other_themes">Ostale teme dizajnirao %1$s</string>
+  <string name="resource_detail_recommend_desiner_themes">%1$s tema</string>
+  <string name="resource_detail_recommend_other_themes">Korisnicima se još sviđa</string>
+  <string name="resource_detail_update_log_title">Ažuriranja</string>
+  <string name="resource_detail_window_title">Detalji %1$s</string>
+  <string name="resource_download">Preuzimanje</string>
+  <string name="resource_download_trial">Isprobajte besplatno</string>
+  <string name="resource_downloaded_title">Preuzeti elementi</string>
+  <string name="resource_downloading">Preuzimam…</string>
+  <string name="resource_exchange">Kupi temu</string>
+  <string name="resource_exchange_confirm">Potvrdi</string>
+  <string name="resource_exchange_empty_format">Unesite darovani kod!</string>
+  <string name="resource_exchange_has_bought">"Već ste kupili ovu temu."</string>
+  <string name="resource_exchange_has_expired">Ovaj kod je istekao.</string>
+  <string name="resource_exchange_has_used">Ovaj kod je već iskorišten.</string>
+  <string name="resource_exchange_hint">Unesite vaš kod</string>
+  <string name="resource_exchange_purchase_unkown_error">Nepoznata mrežna pogreška. Prijavite se na http://market.xiaomi.com kako bi vidjeli status plaćanja.</string>
+  <string name="resource_exchange_share_code_content">Dobili ste kod za %1$s na MIUI Teme trgovini . Vaš MiKredit kod je: %2$s. Dodirni %3$s za koristiti sada.</string>
+  <string name="resource_exchange_share_code_dlg_content">Kod uspješno kupljen za %1$s je: %2$s. Sada ga možete podijeliti s prijateljima.</string>
+  <string name="resource_exchange_share_code_dlg_title">Pošalji kod</string>
+  <string name="resource_exchange_success">Uživajte !</string>
+  <string name="resource_exchange_unavailable">Tema povezana s kodom koji ste unijeli nije dostupna.</string>
+  <string name="resource_exchange_universal_finish">Koristite ovaj kod kako bi preuzeli temu iz Trgovine tema.</string>
+  <string name="resource_exchange_universal_goon">Ovaj kod se može koristiti za preuzimanje bilo koje teme iz Trgovine tema.</string>
+  <string name="resource_exchange_window_title">Iskoristi kod</string>
+  <string name="resource_exchange_wrong_format_by_local">Format koda koji ste unijeli je pogrešan</string>
+  <string name="resource_exchange_wrong_format_by_server">Kod nije bilo moguće provjeriti. Pobrinite se da ste ga ispravno unijeli.</string>
+  <string name="resource_expand_full_text">Proširi</string>
+  <string name="resource_failed_to_load_list">Nije uspjelo učitavanje popisa</string>
+  <string name="resource_get_auth_checking">Provjeravam autorizaciju…</string>
+  <string name="resource_get_auth_exceed_max_limit_tips">Deset uređaja je već odobreno na ovom računu</string>
+  <string name="resource_get_auth_exceed_max_limit_title">Broj odobrenih uređaja je prekoračen</string>
+  <string name="resource_get_auth_missing">Teme iz drugih izvora, osim službene trgovine, nisu podržane</string>
+  <string name="resource_get_auth_retrieving">Preuzimanje autorizacije…</string>
+  <string name="resource_hint">Upozorenje</string>
+  <string name="resource_import_failed">Uvoz nije uspio</string>
+  <string name="resource_import_successful">Preuzimanje dovršeno</string>
+  <string name="resource_importing">Uvoz teme…</string>
+  <string name="resource_list_title">Posljednje odabrano</string>
+  <string name="resource_local">Lokalno %1$s</string>
+  <string name="resource_menu_refresh">Osvježi</string>
+  <string name="resource_mute">Ništa</string>
+  <string name="resource_my">Lokalno</string>
+  <string name="resource_no_result">"Ništa nije pronađeno"</string>
+  <string name="resource_notification_default">Obavijesti</string>
+  <string name="resource_on_trial">Isprobavam: %1$s</string>
+  <string name="resource_online">Mrežno %1$s</string>
+  <string name="resource_pack_confirm">"Iako ste već kupili %1$d komponente ove teme, još je uvijek jeftinije ako kupite cijeli paket."</string>
+  <string name="resource_pack_discount_info">Ušteđeno %1$s</string>
+  <string name="resource_pack_price_info">Originalna cijena %1$s</string>
+  <string name="resource_pack_warning">"Već ste kupili %1$d komponente ove teme. Jeftinije je ako kupite preostale komponente pojedinačno."</string>
+  <string name="resource_present">Poklon</string>
   <string name="resource_price_format">(%1$s)</string>
-  <string name="resource_price_free">Free</string>
-  <string name="resource_price_unit"> Mi Credits</string>
-  <string name="resource_purchase_getting_order">Retrieving order info…</string>
-  <string name="resource_purchase_verifying_payment">Verifying payment info…</string>
-  <string name="resource_purchase_waiting_payment">Waiting for payment info…</string>
-  <string name="resource_ranking">Popular</string>
-  <string name="resource_ranking_free">Free</string>
-  <string name="resource_ranking_purchase">Paid</string>
-  <string name="resource_ringtone_default">Ringtones</string>
-  <string name="resource_ringtone_playing_error">playing error</string>
-  <string name="resource_ringtone_volume_mute">Your ringer is silenced</string>
-  <string name="resource_save_to_note">Save to Notes</string>
-  <string name="resource_see_more">See more</string>
-  <string name="resource_select">Select</string>
-  <string name="resource_selected">Featured</string>
-  <string name="resource_send">Send</string>
-  <string name="resource_server_alert_dialog_title">"We'll be right back…"</string>
-  <string name="resource_server_out_of_service">Unfortunately, our server is down at the moment. Please try again later.</string>
-  <string name="resource_share_subject">Share theme: %1$s</string>
-  <string name="resource_share_text">"Here's a theme I thought you might like: %1$s! Link: %2$s"</string>
-  <string name="resource_share_title">Share</string>
-  <string name="resource_system_title">System resources</string>
-  <string name="resource_tip_select_ringtone">None selected</string>
-  <string name="resource_title">Resource detail</string>
-  <string name="resource_title_select_ringtone">Select tone</string>
-  <string name="resource_trial_end_message">Trial of %1$s expired. If you like, please purchase it.</string>
-  <string name="resource_trial_end_purchase">Purchase</string>
-  <string name="resource_trial_end_restore">Finish trial</string>
-  <string name="resource_trial_end_title">Trial expired</string>
-  <string name="resource_trial_fail_cancel">OK</string>
-  <string name="resource_trial_fail_go_settings">Settings</string>
-  <string name="resource_trial_fail_message">Make sure your system clock is set to the correct time.</string>
-  <string name="resource_trial_fail_title">"Couldn't set up trial session"</string>
-  <string name="resource_trial_time">（trial session: %1$d minutes）</string>
-  <string name="resource_unable_to_access">"Unfortunately,
-the content you're looking for is not currently available in your region."</string>
-  <string name="resource_unknow_error">Nepoznata greška</string>
+  <string name="resource_price_free">Besplatno</string>
+  <string name="resource_price_unit">MI Kredita</string>
+  <string name="resource_purchase_getting_order">Preuzimam detalje narudžbe…</string>
+  <string name="resource_purchase_verifying_payment">Provjeravam detalje plaćanja…</string>
+  <string name="resource_purchase_waiting_payment">Čekam detalje plaćanja…</string>
+  <string name="resource_ranking">Popularno</string>
+  <string name="resource_ranking_free">Besplatno</string>
+  <string name="resource_ranking_purchase">Uz plaćanje</string>
+  <string name="resource_ringtone_default">Melodija zvona</string>
+  <string name="resource_ringtone_playing_error">Pogreška plaćanja</string>
+  <string name="resource_ringtone_volume_mute">Vaša melodija zvona je utišana</string>
+  <string name="resource_save_to_note">Spremi u Bilješke</string>
+  <string name="resource_search_list_empty">"Ništa nije pronađeno"</string>
+  <string name="resource_see_more">Vidi više</string>
+  <string name="resource_select">Odaberi</string>
+  <string name="resource_selected">Istaknuto</string>
+  <string name="resource_send">Pošalji</string>
+  <string name="resource_server_alert_dialog_title">"Vraćamo se odmah…"</string>
+  <string name="resource_server_out_of_service">Servis nedostupan, pokušajte kasnije.</string>
+  <string name="resource_share_subject">Podijeli temu: %1$s</string>
+  <string name="resource_share_text">Evo teme koja bi vam se mogla svidjeti: %1$s! Poveznica: %2$s</string>
+  <string name="resource_share_title">Podijeli</string>
+  <string name="resource_system_title">Resursi sistema</string>
+  <string name="resource_tip_select_ringtone">Nije odabrano</string>
+  <string name="resource_title">Detalji</string>
+  <string name="resource_title_select_ringtone">Odaberite melodiju zvona</string>
+  <string name="resource_trial_end_message">Probni period za %1$s je istekao. Ako vam se tema sviđa, kupite je.</string>
+  <string name="resource_trial_end_purchase">Plaćanje</string>
+  <string name="resource_trial_end_restore">Kraj probnog perioda</string>
+  <string name="resource_trial_end_title">Probni period istekao</string>
+  <string name="resource_trial_fail_cancel">U redu</string>
+  <string name="resource_trial_fail_go_settings">Postavke</string>
+  <string name="resource_trial_fail_message">Provjerite je li sat vašeg sustava postavljen na točno vrijeme.</string>
+  <string name="resource_trial_fail_title">"Nije bilo moguće postaviti probni period"</string>
+  <string name="resource_trial_time">（probni period: %1$d min.）</string>
+  <string name="resource_unknow_error">Došlo je do nepoznate pogreške</string>
   <string name="resource_update">Ažuriraj</string>
   <string name="resource_user_know">U redu</string>
   <string name="resource_waiting_download">Čekanje</string>
