@@ -30,7 +30,7 @@
   <string name="delete_history_message">Jeste li sigurni da želite obrisati svu povijest?</string>
   <string name="device_default_name">Xiaomi telefon</string>
   <string name="device_name">Naziv uređaja</string>
-    <string name="device_name_tip">Kliknite Idi na o telefonu, a potom uredite naziv uređaja.</string>
+  <string name="device_name_tip">Kliknite Idi na o telefonu, a potom uredite naziv uređaja.</string>
   <string name="doc">Datoteke</string>
   <string name="download">Preuzimanje</string>
   <string name="download_complete">%1$s | %2$s preuzeto iz: %3$s</string>
@@ -56,6 +56,7 @@
   <string name="failed">Neuspjelo</string>
   <string name="file_download">Preuzmi datoteku</string>
   <string name="file_downloading">Preuzimnje…</string>
+  <string name="file_not_exist">Datoteka ne postoji</string>
   <string name="file_restore">Vraćanje datoteke</string>
   <string name="file_share_download_complete">Dijeljena datoteka primljena</string>
   <string name="file_share_upload_complete">Dijeljena datoteka poslana</string>

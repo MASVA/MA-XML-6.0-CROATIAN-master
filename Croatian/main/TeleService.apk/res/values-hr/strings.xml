@@ -667,6 +667,7 @@ Vaša SIM kartica bit će izbrisani nakon još jednog neuspjelog pokušaja."</st
   <string name="search_networks">Pretraži mreže</string>
   <string name="selectContact">odabir kontakta</string>
   <string name="select_automatically">Odaberi automatski</string>
+  <string name="select_voice_call_sim">odaberite</string>
   <string name="sendSms">Pošalji SMS</string>
   <string name="send_button">Pošalji</string>
   <string name="send_keepalive">SendKeepAlive</string>
@@ -800,8 +801,8 @@ Vaša SIM kartica bit će izbrisani nakon još jednog neuspjelog pokušaja."</st
   <string name="updating_fdn_contact">Ažuriranje broja za fiksno biranje…</string>
   <string name="updating_settings">Ažuriranje postavki…</string>
   <string name="uplmn_list_setting_add_plmn">Novi PLMN</string>
-  <string name="uplmn_list_setting_title">Željenne mreže</string>
-  <string name="username">UserName</string>
+  <string name="uplmn_list_setting_title">Željene mreže</string>
+  <string name="username">Korisničko ime</string>
   <string name="username_title">Korisničko ime</string>
   <string name="ussdRunning">Pokrenut je USSD kôd…</string>
   <string name="ussd_dialog_sep">----------</string>

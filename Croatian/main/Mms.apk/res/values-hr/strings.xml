@@ -147,6 +147,9 @@
   <string name="feedback_description_hint">Unesite povratnu informaciju ovdje</string>
   <string name="feedback_submit">Pošalji</string>
   <string name="festival">Brzi odgovori</string>
+  <string name="festival_continue">U redu</string>
+  <string name="festival_networking_desc">Ova značajka treba povezivanje s internetom da funkcionira normalno.</string>
+  <string name="festival_never_remind">"Ne priakzuj ponovo."</string>
   <string name="festival_sms_category_count_format">%s</string>
   <string name="festival_sms_loading">Učitavanje…</string>
   <string name="fetion_prefix">[Fetion]</string>
@@ -170,7 +173,7 @@
   <string name="guild_add_recipients">Kliknite ovdje za dodavanje primatelja u imeniku</string>
   <string name="has_invalid_recipient">Nevažeći primatelj(i): %1$s</string>
   <string name="hidden_sender_address">Skrivena adresa pošiljatelja</string>
-  <string name="hint_search_sms">%d SMA-a</string>
+  <string name="hint_search_sms">%d SMS-a</string>
   <string name="hms_first_use_tips">Za primanje poruka usluga mora biti povezana na WLAN mrežu</string>
   <string name="importing_progress_private_message">Uvoz poruka u privatni sandučić</string>
   <string name="in_sms">Poruka</string>
@@ -316,6 +319,7 @@
   <string name="pref_title_allow_si_sl_push">Dopustiti WAP push</string>
   <string name="pref_title_card_format">Format dijeljenja kartice</string>
   <string name="pref_title_delivery_reports">Izvješća o isporuci</string>
+  <string name="pref_title_festival_networking">Obavijest o povezivanju</string>
   <string name="pref_title_fwd_sender_info">Proslijedi informaciju pošiljatelja</string>
   <string name="pref_title_hide_festival">Sakrij karticu preporučeno</string>
   <string name="pref_title_manage_sim_messages">Upravljanje porukama SIM kartice</string>
@@ -405,7 +409,7 @@
   <string name="send_signature_confirm_dialog_title">Potvrdi slanje</string>
   <string name="send_sms">Pošalji poruku</string>
   <string name="send_to">Prima: </string>
-  <string name="send_to_count">Poslano %1$s poruka</string>
+  <string name="send_to_count">Poslano: %1$s</string>
   <string name="send_to_index_contact"> %1$s/%2$s</string>
   <string name="sent_label">"Poslano: "</string>
   <string name="service_message_not_found">Poruka je istekla ili nije dostupna.</string>
