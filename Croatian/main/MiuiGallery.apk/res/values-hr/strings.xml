@@ -410,8 +410,6 @@ Pregledajte i ažurirajte svoj album s bilo kojeg mjesta.
   <string name="remove_from_secret_failed_message_with_count">"%2$s stavaka ne može biti uklonjeno iz taj. albuma: %1$s."</string>
   <string name="remove_from_secret_successfully_message">Uklonjeno iz tajnog albuma</string>
   <string name="remove_from_secret_unfinished_message_with_count">%1$s nije uklonjeno iz taj. albuma</string>
-  <string name="remove_from_secret_failed_message_with_count">"%2$s stavaka ne može biti odabrano iz: %1$s."</string>
-  <string name="remove_from_secret_successfully_message">Odabrano iz tajnog albuma</string>
   <string name="remove_hidden_album">Otkrij album</string>
   <string name="remove_recent_album">Ukloni iz omiljenih albuma</string>
   <string name="rename_failed">"Ne mogu preimenovati"</string>
