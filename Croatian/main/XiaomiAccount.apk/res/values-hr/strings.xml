@@ -156,6 +156,8 @@
   <string name="input_verify_code_hint">Unesite kôd za provjeru</string>
   <string name="int_phone_user_notice">Dodajte kôd zemlje prilikom korištenja broj mobitela za prijavu.</string>
   <string name="internet_comm">Usluge poruka</string>
+  <string name="license_host_unreachable">"Ne mogu se spojiti na mrežu. Da biste sada vidjeli ove informacije, idite na %s."</string>
+  <string name="loading">Učitavanje…</string>
   <string name="login">Prijavite se</string>
   <string name="login_failed">"Ne mogu se prijaviti"</string>
   <string name="login_instead_reg">Koristi ovaj broj</string>
@@ -232,6 +234,7 @@ Da biste aktivirali vaš račun, slijedite
   <string name="please_input_phone_number">Unesite svoj ​​broj</string>
   <string name="please_input_verify_code">Unesite kôd za provjeru</string>
   <string name="prev">Natrag</string>
+  <string name="privacy_policy">Pravila o privatnosti</string>
   <string name="process_result">Detalji sinkr.</string>
   <string name="quick_login_dialog_step2_title">Provjera u 2 koraka</string>
   <string name="quick_login_dialog_title">Provjera zaporke</string>
@@ -285,12 +288,14 @@ Da biste aktivirali vaš račun, slijedite
   <string name="update_contacts_description">"Sina Weibo će koristiti vaš Mi račun za sinkronizaciju informacija kontakta na svim platformama.."</string>
   <string name="updated_contacts">Ažurirano %s kontakata</string>
   <string name="updated_nothing">Nema stavaka za sinkronizaciju</string>
+  <string name="user_agreement">Korisnički sporazum</string>
   <string name="user_agreement_p1">"Prijavom, slažete se s Xiaomi "</string>
-  <string name="user_agreement_p2">&lt;u&gt;Uvjetima pružanja usluge&lt;/u&gt;</string>
+  <string name="user_agreement_p2">Korisnički sporazum</string>
   <string name="user_agreement_p3"> i </string>
-  <string name="user_agreement_p4">&lt;u&gt;Izjavom o privatnosti&lt;/u&gt;</string>
+  <string name="user_agreement_p4">Pravila o privatnosti</string>
   <string name="user_agreement_p5">"Izradom računa, slažete se s "</string>
-  <string name="user_agreement_p6">"Slažete se s "</string>
+  <string name="user_agreement_p6">"Slažete se s Xiaomi 
+  "</string>
   <string name="vcode">Kôd za provjeru</string>
   <string name="vcode_notification_title">Vaša potvrda prijave je nepotpuna</string>
   <string name="vcode_prompt_long">Unesite kôd kojeg je generirao vaš Mi Securtiy token</string>

@@ -33,7 +33,7 @@
   <string name="callrecordview_item_op_time_short_incoming">"Dolazno: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Odlazno: "</string>
   <string name="check_network">Prikaži mrežne postavke</string>
-  <string name="colon">:</string>
+  <string name="colon">": "</string>
   <string name="confirm_delete_all_call_log_title">Potvrditi brisanje svih popisa poziva?</string>
   <string name="confirm_delete_call_log_title">Izbrisati popis poziva?</string>
   <string name="confirm_to_add_blacklist">Dodati broj na listu zabranjenih?</string>
@@ -91,6 +91,7 @@
   <string name="express_detailed_address">Adresa</string>
   <string name="express_field_empty">Prazno</string>
   <string name="express_go_back">Natrag</string>
+  <string name="express_info_divider">" / "</string>
   <string name="express_inqiury_select_logistics">Odaberi davatelja usluga</string>
   <string name="express_inquiry">Praćenje</string>
   <string name="express_inquiry_button_text">Prati</string>
@@ -103,16 +104,20 @@
   <string name="express_inquiry_history_remark">Označi ponovo</string>
   <string name="express_inquiry_history_remark_hint">Označi ponovo</string>
   <string name="express_inquiry_internal_failure">"Desila se greška.
-Provjerite vaš broj za praćenje."</string>
+Provjerite svoj broj za praćenje."</string>
+  <string name="express_inquiry_logistics_empty">Odaberi davatelja usluga.</string>
   <string name="express_inquiry_logistics_indication">Naziv davatelja usluge</string>
   <string name="express_inquiry_no_history">Nema povijesti</string>
   <string name="express_inquiry_no_result">Nema rezultata</string>
+  <string name="express_inquiry_number_empty">Unesite svoj ​​broj za praćenje.</string>
+  <string name="express_inquiry_number_invalid">"Vaš unos je nevažeći.
+Provjerite svoj broj za praćenje."</string>
   <string name="express_inquiry_provider_info">Powered by</string>
   <string name="express_inquiry_serial_number_indication">Broj za praćenje</string>
   <string name="express_inquiry_serial_number_prefix">"Serijski broj: "</string>
   <string name="express_no_address">Prazno</string>
   <string name="express_no_order_info">Nema informacija o narudžbi</string>
-  <string name="express_no_tracking_number">Nema povezanih brojeva za praćenje</string>
+  <string name="express_no_tracking_number">Na čekanju</string>
   <string name="express_order_confirmation">Potvrda narudžbe</string>
   <string name="express_order_created_time">Vrijeme narudžbe</string>
   <string name="express_order_detail">Detalji</string>
@@ -173,6 +178,7 @@ Provjerite vaš broj za praćenje."</string>
   <string name="group_name_shop_info">Informacija</string>
   <string name="group_name_shop_recommendation">U blizini</string>
   <string name="group_name_title" />
+  <string name="hms_notification">Poruke</string>
   <string name="locating_fail">"Ne mogu pronaći vašu lokaciju"</string>
   <string name="login_before_use">Morate se prvo prijaviti</string>
   <string name="login_ok">Prijava</string>

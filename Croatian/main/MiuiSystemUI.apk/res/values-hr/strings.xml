@@ -8,12 +8,13 @@
   <string name="accessibility_bluetooth_tether">Dijeljenje veze Bluetoothom.</string>
   <string name="accessibility_camera_button">"Fotoaparat"</string>
   <string name="accessibility_clear_all">Izbriši sve obavijesti.</string>
-  <string name="accessibility_data_connection_3.5g"></string>
-  <string name="accessibility_data_connection_3g"></string>
-  <string name="accessibility_data_connection_4g"></string>
-  <string name="accessibility_data_connection_cdma"></string>
-  <string name="accessibility_data_connection_edge"></string>
-  <string name="accessibility_data_connection_gprs"></string>
+  <string name="accessibility_data_connection_gprs">GPRS</string>
+  <string name="accessibility_data_connection_3g">3G</string>
+  <string name="accessibility_data_connection_3.5g">3.5G</string>
+  <string name="accessibility_data_connection_4g">4G</string>
+  <string name="accessibility_data_connection_cdma">CDMA</string>
+  <string name="accessibility_data_connection_edge">Edge</string>
+  <string name="accessibility_data_four_bars">Podaci četiri linije.</string>
   <string name="accessibility_data_one_bar">Podaci jedna linija.</string>
   <string name="accessibility_data_signal_full">Podaci puni signal.</string>
   <string name="accessibility_data_three_bars">Podaci tri linije.</string>
@@ -22,9 +23,10 @@
   <string name="accessibility_menu">"Izbornik"</string>
   <string name="accessibility_no_data">"Nema podataka."</string>
   <string name="accessibility_no_phone">Nema telefona.</string>
-  <string name="accessibility_no_wifi">Nema Wi-Fi-ja.</string>
+  <string name="accessibility_no_wifi">Nema WLAN-a.</string>
   <string name="accessibility_no_wimax">Nema WiMAX-a.</string>
   <string name="accessibility_phone_one_bar">Telefon jedna linija.</string>
+  <string name="accessibility_phone_four_bars">Telefon četiri linije.</string>
   <string name="accessibility_phone_signal_full">Telefon puni signal.</string>
   <string name="accessibility_phone_three_bars">Telefon tri linije.</string>
   <string name="accessibility_phone_two_bars">Telefon dvije linije.</string>
@@ -34,10 +36,10 @@
   <string name="accessibility_ringer_vibrate">Vibracija.</string>
   <string name="accessibility_search_light">"Pretraži"</string>
   <string name="accessibility_tty_enabled">Teleprinter omogućen.</string>
-  <string name="accessibility_wifi_one_bar">Wi-Fi jedna linija.</string>
-  <string name="accessibility_wifi_signal_full">Wi-Fi puni signal.</string>
-  <string name="accessibility_wifi_three_bars">Wi-Fi tri linije.</string>
-  <string name="accessibility_wifi_two_bars">Wi-Fi dvije linije.</string>
+  <string name="accessibility_wifi_one_bar">WLAN jedna linija.</string>
+  <string name="accessibility_wifi_signal_full">WLAN puni signal.</string>
+  <string name="accessibility_wifi_three_bars">WLAN tri linije.</string>
+  <string name="accessibility_wifi_two_bars">WLAN dvije linije.</string>
   <string name="accessibility_wimax_one_bar">WiMAX jedna linija.</string>
   <string name="accessibility_wimax_signal_full">WiMAX puni signal.</string>
   <string name="accessibility_wimax_three_bars">WiMAX tri linije.</string>
@@ -48,7 +50,7 @@
   <string name="audio_effect_custom">Postavke</string>
   <string name="audio_effect_info">Optimizacija zvuka</string>
   <string name="audio_effect_settings">Postavljanje vrste slušalica</string>
-  <string name="battery_low_percent_format">preostaje %d%%</string>
+  <string name="battery_low_percent_format">preostalo %d%%</string>
   <string name="battery_low_subtitle">Baterija je gotovo prazna.</string>
   <string name="battery_low_title">"Priključite punjač"</string>
   <string name="battery_low_why">Potrošnja baterije</string>
@@ -100,7 +102,7 @@
   <string name="gps_notification_found_text">Lokaciju postavio GPS</string>
   <string name="gps_notification_searching_text">Traženje GPS-a</string>
   <string name="headset_custom">Konfiguriraj</string>
-  <string name="headset_info">Dodirnite za podešavanje postavki</string>
+  <string name="headset_info">Dodirnite za podešavanje vrste slušalica i funkcije tipaka</string>
   <string name="headset_settings">"Slušalice su spojene"</string>
   <string name="invalid_charger">USB punjenje nije podržano.
  Koristite isključivo originalni punjač.</string>
@@ -164,7 +166,7 @@
   <string name="status_bar_settings_airplane">"Način rada u zrakoplovu"</string>
   <string name="status_bar_settings_battery_meter_format"></string>
   <string name="status_bar_settings_signal_meter_disconnected">"Nema internetske veze"</string>
-  <string name="status_bar_settings_signal_meter_wifi_nossid">"Wi-Fi je povezan"</string>
+  <string name="status_bar_settings_signal_meter_wifi_nossid">"WLAN je povezan"</string>
   <string name="status_bar_style_settings">Obavijesti</string>
   <string name="status_bar_toggle_ac">Pristup</string>
   <string name="status_bar_toggle_auto_brightness">Automatski</string>
@@ -195,9 +197,9 @@
   <string name="status_bar_toggle_screen_button">Onemogući</string>
   <string name="status_bar_toggle_screenshot">Snimak zaslona</string>
   <string name="status_bar_toggle_shutdown">Baterija</string>
-  <string name="status_bar_toggle_sync">Sinkronizacija</string>
-  <string name="status_bar_toggle_sync_auto">Sinkronizacija</string>
-  <string name="status_bar_toggle_sync_manual">Sinkronizacija</string>
+  <string name="status_bar_toggle_sync">Sinkr.</string>
+  <string name="status_bar_toggle_sync_auto">Sinkr.</string>
+  <string name="status_bar_toggle_sync_manual">Sink.</string>
   <string name="status_bar_toggle_syncing">Sinkronizacija u tijeku</string>
   <string name="status_bar_toggle_torch">Svjetiljka</string>
   <string name="status_bar_toggle_vibrate">Vibracija</string>
