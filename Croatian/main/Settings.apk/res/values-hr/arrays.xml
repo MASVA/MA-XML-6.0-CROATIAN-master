@@ -65,7 +65,7 @@
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>Skeniranje...</item>
+        <item>Skeniranje…</item>
         <item>Povezivanje…</item>
         <item>Autentikacija…</item>
         <item>Dohvaćanje IP adrese…</item>
@@ -79,7 +79,7 @@
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Skeniranje...</item>
+        <item>Skeniranje…</item>
         <item>Povezivanje na mrežu %1$s…</item>
         <item>Autentikacija s mrežom %1$s…</item>
         <item>Dohvaćanje IP adrese s mreže %1$s…</item>
@@ -113,7 +113,7 @@
         <item>2 minute</item>
         <item>5 minuta</item>
         <item>1 sat</item>
-        <item>Nikada privremeni prekid</item>
+        <item>Nikada ne istječe</item>
     </string-array>
     <string-array name="wifi_signal">
         <item>Loše</item>
@@ -124,7 +124,7 @@
     <string-array name="wifi_sleep_policy_entries">
         <item>Uvijek</item>
         <item>Samo kad je uključeno</item>
-        <item>Nikada (povećava upotrebu podataka)</item>
+        <item>Nikada (povećava uporabu podataka)</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Uvijek</item>
@@ -431,7 +431,7 @@
     </string-array>
     <string-array name="vpn_states">
         <item>Nije povezano</item>
-        <item>Pokreće se...</item>
+        <item>Pokreće se…</item>
         <item>Povezivanje…</item>
         <item>Povezano</item>
         <item>Privremeni prekid</item>
@@ -458,6 +458,28 @@
         <item>Srednje</item>
         <item>Lagano</item>
     </string-array>
+    <string-array name="multi_sim_entries">
+        <item>Subscription 1</item>
+        <item>Subscription 2</item>
+    </string-array>
+    <string-array name="multi_sim_summaries">
+        <item>Subscription 1</item>
+        <item>Subscription 2</item>
+    </string-array>
+    <string-array name="multi_sim_entries_voice">
+        <item>Subscription 1</item>
+        <item>Subscription 2</item>
+        <item>Prompt</item>
+    </string-array>
+    <string-array name="multi_sim_summaries_voice">
+        <item>Subscription 1</item>
+        <item>Subscription 2</item>
+        <item>Prompt User</item>
+    </string-array>
+    <string-array name="multi_sim_entries_voice_without_prompt">
+        <item>Subscription 1</item>
+        <item>Subscription 2</item>
+    </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Grafika</item>
         <item>Postotak</item>
@@ -478,15 +500,16 @@
         <item>8 sekundi</item>
         <item>9 sekundi</item>
     </string-array>
-    <string-array name="mi1_led_color_entries">
-        <item>Plava</item>
-        <item>Crvena</item>
-        <item>Zelena</item>
-        <item>Roza</item>
-        <item>Tirkizna</item>
-        <item>Ljubičasta</item>
+	<string-array name="led_color_values">
+        <item>blue</item>
+        <item>red</item>
+        <item>yellow</item>
+        <item>green</item>
+        <item>cyan</item>
+        <item>white</item>
+        <item>\#FFAA00AA</item>
     </string-array>
-	<string-array name="led_color_entries">
+ 	<string-array name="led_color_entries">
         <item>Plava</item>
         <item>Crvena</item>
         <item>Žuta</item>
@@ -494,6 +517,20 @@
         <item>Roza</item>
         <item>Bijela</item>
         <item>Ljubičasta</item>
+    </string-array>    
+    <string-array name="back_long_press_timeout">
+        <item>0.5 sekunde</item>
+        <item>1 sekunda</item>
+        <item>1.5 sekundi</item>
+        <item>2 sekunde</item>
+    </string-array> 
+    <string-array name="screen_key_long_press_action">
+        <item>Ništa</item>
+        <item>Pokaži nedavne aplikacije</item>
+        <item>Pokreni upravitelje</item>
+        <item>Pokreni Google now</item>
+        <item>Zatvori trenutnu aplikaciju</item>
+        <item>Prikaži Izbornik</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 sekunde</item>

@@ -5,10 +5,10 @@
         <item>Sve aplikacije</item>
     </string-array>
     <string-array name="system_package_label">
-	<item>Preglednik</item>
-	<item>Dopuštenja</item>
-	<item>Fotoaparat</item>
-	<item>Uporaba podataka</item>
+	    <item>Preglednik</item>
+   	    <item>Dopuštenja</item>
+	    <item>Fotoaparat</item>
+	    <item>Uporaba podataka</item>
         <item>Vremenska prognoza</item>
         <item>Vrijeme</item>
     </string-array>

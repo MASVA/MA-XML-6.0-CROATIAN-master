@@ -104,10 +104,10 @@
         <item>Sumaglica</item>
     </string-array>
     <string-array name="editing_mode_entries">
-        <item>Očisti početni zaslon</item>
-        <item>Dodaj widgete</item>
-        <item>Promjeni pozadinsku sliku</item>
-        <item>Efekt promjene zaslona</item>
+        <item>Razvrstaj</item>
+        <item>Widgeti</item>
+        <item>Pozadina</item>
+        <item>Efekti</item>
     </string-array>
     <string-array name="editing_mode_values">
         <item>0</item>
