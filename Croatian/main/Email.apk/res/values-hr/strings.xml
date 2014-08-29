@@ -112,7 +112,7 @@
   <string name="account_setup_failed_security">Otvaranje veze s poslužiteljem nije bilo moguće zbog sigurnosne pogreške.</string>
   <string name="account_setup_failed_security_policies_unsupported">Ovaj poslužitelj zahtijeva sigurnosne značajke koje vaš Android uređaj ne podržava, uključujući: %s</string>
   <string name="account_setup_failed_tls_required">TLS je obavezan, ali ga poslužitelj ne podržava.</string>
-  <string name="account_setup_incoming_delete_policy_delete_label">Kad izbrišem iz Pristigle pošte</string>
+  <string name="account_setup_incoming_delete_policy_delete_label">Kad izbrišem iz Smeća</string>
   <string name="account_setup_incoming_delete_policy_label">Izbriši e-poštu s poslužitelja</string>
   <string name="account_setup_incoming_delete_policy_never_label">Nikad</string>
   <string name="account_setup_incoming_headline">Postavke dolaznog poslužitelja</string>
@@ -317,7 +317,7 @@
   <string name="custom_from_account_label">Pošalji kao:</string>
   <string name="date">2888/88/88</string>
   <string name="date_heading">"Datum: "</string>
-  <string name="date_message_received">%1$s u %2$s</string>
+  <string name="date_message_received">%1$s %2$s</string>
   <string name="date_message_received_today">Danas u %1$s</string>
   <string name="date_message_received_yesterday">Jučer u %1$s</string>
   <string name="debug_clear_webview_cache">Clear WebView cache</string>
@@ -389,6 +389,7 @@
   <string name="expand_recipient_details">Proširi podatke o primatelju</string>
   <string name="failed">Nije moguće učitati sliku</string>
   <string name="feedback">Pošaljite povratne informacije</string>
+  <string name="feedback_sent">"Zahvaljujemo na povratnoj informaciji. Nastaviti ćemo s poboljšavanjem za vas"</string>
   <string name="fetching_attachment">Dohvaćanje privitka</string>
   <string name="file_deleted_success">Datoteka izbrisana</string>
   <string name="file_not_found">"Ne mogu pronaći datoteku"</string>

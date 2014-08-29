@@ -131,8 +131,8 @@
   <string name="scan_fail">Skeniranje neuspjelo!</string>
   <string name="scan_result">Rezultati skeniranja</string>
   <string name="sdcard">SD kartica</string>
-  <string name="select_camera">Odabri kameru</string>
-  <string name="select_device">Odabri uređaj</string>
+  <string name="select_camera">Odaberi kameru</string>
+  <string name="select_device">Odaberi uređaj</string>
   <string name="setting_buy">Kupi MiKey</string>
   <string name="setting_feedback">Pov. informacija</string>
   <string name="setting_instant_photo_desc">"Prije snimanja fotografije, fotoaparat će fokusirati"</string>
@@ -141,7 +141,7 @@
 To može uzrokovati veću potrošnju baterije"</string>
   <string name="setting_keeplive_text">Rad u pozadini</string>
   <string name="setting_silent_mode">Bez zvuka</string>
-  <string name="setting_silent_mode_default">Način rada slušalice (odaberite MiKey)</string>
+  <string name="setting_silent_mode_default">Način rada slušalica (odaberite MiKey)</string>
   <string name="setting_silent_mode_desc">"Za spajanje slušalica, odaberite način rada slušalice i odvojite MiKey. U protivnom to neće raditi ispravno na audio izlaz."</string>
   <string name="setting_silent_mode_dust_cap">Način rada čepova</string>
   <string name="setting_speed_desc">Brzina pritiska gumba</string>
