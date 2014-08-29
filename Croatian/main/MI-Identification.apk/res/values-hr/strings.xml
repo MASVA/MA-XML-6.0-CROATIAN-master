@@ -96,6 +96,8 @@
     <string name="tip_set_cpu_modle">"Držite vaš trenutan način rada telefona postavljen na Performanse, u suprotnom će to ozbiljno utjecati na točnost rezultata identifikacije."</string>
     <string name="tip_skip_set_cpu_model">Zaista želite preskočiti?</string>
     <string name="tip_skip_set_cpu_modle">Preskoči ovaj korak</string>
+    <string name="tip_uninstall">Deinstaliranje</string>
+    <string name="tip_uninstall_msg">Najprije morate deinstalirati staru verziju prije instaliranja nove verzije.</string>
     <string name="tip_unsupport_device">Ovaj uređaj trenutno nije podržan</string>
     <string name="tip_unsupport_device_mode">Uređaj ne podržava</string>
     <string name="tip_update">Nova verzija pronađena i ažurirati?</string>
@@ -104,9 +106,10 @@
     <string name="title_error_token">Provjera nije uspjela</string>
     <string name="unknown_error">Nepoznata greška</string>
     <string name="unknown_mobile">Nepoznat telefon</string>
+    <string name="uninstall">Deinstaliraj</string>
     <string name="update_right_now">Ažuriraj sada</string>
     <string name="useless_network">Žao nam je, vaša mreža trenutačno nije dostupna.</string>
     <string name="xiaomi_checker">Mi ID</string>
-    <string name="xiaomi_desc">Trenutno koristite MI3</string>
+    <string name="xiaomi_desc">Trenutno koristite Xiaomi MI3</string>
     <string name="xiaomi_name">Beijing Xiaomi Mobile Software Co., Ltd.</string>
 </resources>
