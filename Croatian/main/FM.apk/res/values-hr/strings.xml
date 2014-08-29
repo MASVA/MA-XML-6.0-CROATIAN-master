@@ -6,7 +6,7 @@
   <string name="alert_dialog_ok">U redu</string>
   <string name="alert_invalid_frequency">Nevaljana frekvencija</string>
   <string name="alert_message_delete_station">Ova postaja će biti izbrisana.</string>
-  <string name="alert_title_delete">Ozbrisati postaju?</string>
+  <string name="alert_title_delete">Izbrisati postaju?</string>
   <string name="alert_title_new_station">Nova postaja</string>
   <string name="alert_title_save_station">Spremi postaju - %s</string>
   <string name="app_name">FM Radio</string>
@@ -29,7 +29,7 @@
   <string name="default_blank"/>
   <string name="default_station">FM</string>
   <string name="delete_station_title">Izbrisati</string>
-  <string name="dialog_sleep_title">Set sleep timer</string>
+  <string name="dialog_sleep_title">Podesi sleep timer</string>
   <string name="durationformat">%2$d:%5$02d</string>
   <string name="edit_station">Uredi postaju</string>
   <string name="enter_rssi">Unesi RMSSI Delta</string>
@@ -40,7 +40,7 @@
   <string name="find_af_station">Pronađi</string>
   <string name="fm_cmd_failed_call_on">"Ne mogu reproducirati FM zvuk tijekom poziva."</string>
   <string name="fm_cmd_failed_msg">Pokušajte ponovo pokrenuti Radio da vidite da li problem i dalje postoji.</string>
-  <string name="fm_cmd_failed_msg_hdmi">Korištenje FM-a i HDMI-a istovremeno nije podržano.</string>
+  <string name="fm_cmd_failed_msg_hdmi">Istovremeno korištenje FM-a i HDMI-a nije podržano.</string>
   <string name="fm_command_failed_title">Radnja nije uspjela</string>
   <string name="fm_command_timeout_title">Isteklo je vrijeme odziva</string>
   <string name="fm_has_turned_off">FM je isključen</string>
@@ -52,8 +52,8 @@
   <string name="frequency_out_of_range">(%1$s~%2$s) frekvencija van raspona</string>
   <string name="frequency_should_not_null">Unesi frekvenciju</string>
   <string name="frequency_string"/>
-  <string name="hint_frequency">Frequency: %1$s ~ %2$s</string>
-  <string name="hint_label">Label</string>
+  <string name="hint_frequency">Frekvencija: %1$s ~ %2$s</string>
+  <string name="hint_label">Tekst</string>
   <string name="hint_station_name">Unos naziva postaje</string>
   <string name="increase_af">Povećaj frekvenciju</string>
   <string name="input_station">Radio frekvencija (MHz)</string>
@@ -62,7 +62,7 @@
   <string name="menu_delete">Izbrisati</string>
   <string name="menu_edit">Uredi</string>
   <string name="menu_exit">Izlaz</string>
-  <string name="menu_headset">Prebaci na slišalice</string>
+  <string name="menu_headset">Prebaci na slušalice</string>
   <string name="menu_new_station">Dodaj novu postaju</string>
   <string name="menu_play">Reproduciraj</string>
   <string name="menu_record_list">Snimanja</string>
@@ -89,7 +89,7 @@
   <string name="msg_scanning_pty">Skeniranje za %s…</string>
   <string name="msg_search_title">FM - %1$s</string>
   <string name="msg_searching">Pretraživanje postaja za stvaranje popisa…</string>
-  <string name="msg_searching_title">Automatski-odabir postaja</string>
+  <string name="msg_searching_title">Autom. odabir postaja</string>
   <string name="msg_seeking">Pretraživanje FM postaja…</string>
   <string name="msg_weak_searching">Pretraživanje frekvencija…</string>
   <string name="new_frequency">Nova frekvencija</string>
@@ -117,7 +117,7 @@
   <string name="set_sigth">Konfiguriraj Signal Th</string>
   <string name="settings_menu">Postavke</string>
   <string name="settings_revert_confirm_msg">Sve postaje će biti izbrisane</string>
-  <string name="settings_revert_defaults_title">Resetirati Radio postavke?</string>
+  <string name="settings_revert_defaults_title">Resetirati postavke FM Radia?</string>
   <string name="spaceIsLow_content">Vašoj SD kartici ponestaje prostora.</string> 
   <string name="stat_notif_frequency">%1$s MHz</string>
   <string name="stat_notif_tx_frequency">FM emitira na: %1$s</string>
@@ -158,5 +158,5 @@
   <string name="txt_divider">" | "</string>
   <string name="txt_sleep_mode">Stanje mirovanja</string>
   <string name="type_rd" />
-  <string name="view_stations_list">Prikaži popis posž</string>
+  <string name="view_stations_list">Prikaži popis postaja</string>
 </resources>
