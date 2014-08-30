@@ -354,10 +354,10 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="international_enable">Međunarodne su vijesti omogućene</string>
   <string name="internet_phone">Internetski poziv</string>
   <string name="invalid_password">Unesite zaporku dužine 4 broja</string>
-  <string name="invalidPin">Unesite PIN koji ima od 4 do 8 brojeva.</string>
-  <string name="invalidPin2">Unesite PIN2 koji ima 4-8 brojeva.</string>
+  <string name="invalid_pin">Unesite PIN koji ima od 4 do 8 brojeva.</string>
+  <string name="invalid_pin2">Unesite PIN2 koji ima 4-8 brojeva.</string>
   <string name="invalid_puk">Unesite PUK koji ima od 4 do 8 brojeva.</string>
-  <string name="invalidPuk2">Unesite PUK2 koji ima 8 brojeva.</string>
+  <string name="invalid_puk2">Unesite PUK2 koji ima 8 brojeva.</string>
   <string name="labelCDMAMore">Postavke CDMA poziva</string>
   <string name="labelCF">Preusmjeravanje poziva</string>
   <string name="labelCFB">Preusmjeri ako je zauzeto</string>
@@ -418,9 +418,9 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="messageCFU">Uvijek koristi ovaj broj</string>
   <string name="mhh_disable">Onemogućeno je zdravstvo, zdravlje i bolnice</string>
   <string name="mhh_enable">Omogućeno je zdravstvo, zdravlje i bolnice</string>
-  <string name="mismatchPin">PIN-ovi koje ste unijeli međusobno se ne podudaraju. Pokušajte ponovo.</string>
+  <string name="mismatch_password">Zaporke koje ste unijeli međusobno se ne podudaraju.</string>
   <string name="mismatch_pin">"PIN-ovi koje ste unijeli se ne podudaraju. Pokušajte ponovo"</string>
-  <string name="mismatchPin2">Vaši unosi za PIN2 međusobno se ne podudaraju. Pokušajte ponovo.</string>
+  <string name="mismatch_pin2">Vaši unosi za PIN2 međusobno se ne podudaraju. Pokušajte ponovo.</string>
   <string name="missed_call_notify_five_times">5x</string>
   <string name="missed_call_notify_none">bez podsjetnika</string>
   <string name="missed_call_notify_once">1x</string>
@@ -431,7 +431,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="missed_call_notify_twice">2x</string>
   <string name="mmiStarted">Pokrenut je MMI kôd</string>
   <string name="mo_call_type_title">MO Vrsta poziva</string>
-  <string name="mobile_network_setting">Postavke Mobilne mreže</string>
+  <string name="mobile_networks">Postavke Mobilne mreže</string>
   <string name="multi_category_disable">Onemogućena je višestruka kategorija</string>
   <string name="multi_category_enable">Omogućena je višestruka kategorija</string>
   <string name="name">Ime</string>
@@ -491,8 +491,8 @@ Koristiti ću željenu mrežu umjesto toga."</string>
   <string name="nw_subset_unlock_success">Otključavanje podskupa SIM-a Mreže uspješno.</string>
   <string name="ok">U redu</string>
   <string name="old_password_label">Stara zaporka(4 znamenke)</string>
-  <string name="oldPin2Label">Stari PIN2</string>
-  <string name="oldPinLabel">Stari PIN</string>
+  <string name="old_pin2_label">Stari PIN2</string>
+  <string name="old_pin_label">Stari PIN</string>
   <string name="open_miui">Otvori</string>
   <string name="optional_summary">&lt;Opcija&gt;</string>
   <string name="ota_activate">Aktiviraj</string>
@@ -638,8 +638,8 @@ Vaša SIM kartica bit će izbrisani nakon još jednog neuspjelog pokušaja."</st
   <string name="respond_via_sms_confirmation_format">Poruka poslana na broj %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Brzi odgovor</string>
   <string name="respond_via_sms_menu_reset_default_activity">Vrati zadano</string>
+  <string name="respond_via_sms_setting_summary">Uređivanje unaprijed napisanih brzih odgovora</string>
   <string name="respond_via_sms_setting_title">Brzi odgovori</string>
-  <string name="respond_via_sms_setting_title_2">Uređivanje brzih odgovora</string>
   <string name="response_error">Neočekivan mrežni odgovor.</string>
   <string name="restaurants_disable">Restorani onemogućeni</string>
   <string name="restaurants_enable">Restorani omogućeni</string>
@@ -682,7 +682,7 @@ Vaša SIM kartica bit će izbrisani nakon još jednog neuspjelog pokušaja."</st
   <string name="settings_label">Postavke mreže</string>
   <string name="simContacts_airplaneMode">Za uvoz kontakata sa SIM kartice prvo isključite način rada u zrakoplovu.</string>
   <string name="simContacts_empty">Nema kontakata na vašoj SIM kartici.</string>
-  <string name="simContacts_emptyLoading">Čitanje sa SIM kartice…</string>
+  <string name="simContacts_title">Upravljanje kontakata SIM kartice</string>
   <string name="sim_contact_name">Ime</string>
   <string name="sim_contact_number">Broj</string>
   <string name="sim_ndp_dismiss_text">Odbaci</string>
@@ -720,7 +720,7 @@ Vaša SIM kartica bit će izbrisani nakon još jednog neuspjelog pokušaja."</st
   <string name="stk_cc_ss_to_ussd_error">SS zahtjev promijenjen za USSD zahtjev.</string>
   <string name="stock_quotes_disable">Vrijednosti dionica onemogućene</string>
   <string name="stock_quotes_enable">Vrijednosti dionica omogućene</string>
-  <string name="sub1LineNumber">Sub1 broj:</string>
+  <string name="sub1LineNumber">Sub1 broj :</string>
   <string name="sub2LineNumber">Sub2 broj :</string>
   <string name="sum_cdma_call_settings">Dodatne postavke samo za CDMA poziv</string>
   <string name="sum_cfb_disabled">Onemogućeno</string>

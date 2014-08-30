@@ -129,6 +129,7 @@
     </plurals>
     <plurals name="move_messages">
         <item quantity="other">Premjesti poruke</item>
+	    <item quantity="zero">Premjesti poruke</item>
         <item quantity="one">Premjesti poruku</item>
         <item quantity="two">Premjesti poruke</item>
         <item quantity="few">Premjesti poruke</item>

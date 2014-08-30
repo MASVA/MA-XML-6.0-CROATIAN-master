@@ -108,7 +108,7 @@ svejedno prekinuti??"</string>
   <string name="restore_from_cloud">Obnovi iz MiClouda</string>
   <string name="restoreing_file_tile">Obnova datoteka: %d</string>
   <string name="retry">Pokušaj ponovo</string>
-  <string name="sdcard_no_enough_space_message">Nema dovoljno prostora.</string>
+  <string name="sdcard_no_enough_space">Nema dovoljno prostora.</string>
   <string name="sdcard_unmounted">SD kartica nije umetnuta!</string>
   <string name="self_phone">Ovaj telefon</string>
   <string name="skip_recovery">Preskoči</string>

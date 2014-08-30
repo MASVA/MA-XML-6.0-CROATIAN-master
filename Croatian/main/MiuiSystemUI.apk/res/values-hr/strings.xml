@@ -184,8 +184,7 @@
   <string name="status_bar_toggle_mute">Bešumno</string>
   <string name="status_bar_toggle_mute_action"></string>
   <string name="status_bar_toggle_network_type">Mreža</string>
-  <string name="status_bar_toggle_network_type_action"></string>
-  <string name="status_bar_toggle_power_high">Performanse</string>
+  <string name="status_bar_toggle_power_mode">Performanse</string>
   <string name="status_bar_toggle_privacy_mode">Gost</string>
   <string name="status_bar_toggle_quiet_mode">Ne smetaj</string>
   <string name="status_bar_toggle_quiet_mode_action"></string>

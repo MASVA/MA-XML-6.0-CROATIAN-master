@@ -25,7 +25,6 @@
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Jednom</item>
         <item>Dnevno</item>
-        <item>Radnim danima</item>
         <item>Pon - Pet</item>
         <item>Prilagođeno</item>
     </string-array>

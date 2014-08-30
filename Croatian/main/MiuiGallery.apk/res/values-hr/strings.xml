@@ -98,6 +98,7 @@
   <string name="cloud_be_shared_guide_message">"Pregledajte fotografije svojih prijatelja, i dodajte fotografije u album također."</string>
   <string name="cloud_be_shared_guide_title">Ovaj album je podijelio prijatelj</string>
   <string name="cloud_camera_display_name">Fotografije fotoaparata</string>
+  <string name="cloud_folder_chooser_move">Izbriši slike iz originalnog albuma</string>
   <string name="cloud_gallery_no_pictures">Nema fotografija u MiCloudu</string>
   <string name="cloud_gallery_recyclebin_full">Kanta za smeće u puna,ispraznite koš na i.mi.com.</string>
   <string name="cloud_gallery_space_full">Nema dovoljno prostora u vašem cloudu</string>
