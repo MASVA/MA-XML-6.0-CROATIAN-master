@@ -50,6 +50,7 @@
   <string name="scan_result">Rezultati skeniranja</string>
   <string name="secure_access_web_url">Siguran pristup</string>
   <string name="see_app_details">Prikaži detalje aplikacije</string>
+  <string name="settings">Postavke</string>
   <string name="success_message_import_from_account">Uvezeno</string>
   <string name="tips_message">"Morate biti povezati s internetom kako bi provjerili je li web stranica koju želite posjetiti sigurna."</string>
   <string name="tips_title">Internet povezivanje</string>

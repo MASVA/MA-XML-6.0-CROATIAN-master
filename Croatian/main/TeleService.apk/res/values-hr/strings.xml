@@ -458,8 +458,8 @@ Koristiti ću željenu mrežu umjesto toga."</string>
   <string name="networks">Mrežni operateri</string>
   <string name="networks_title">Mrežni operateri</string>
   <string name="new_password_label">Nova zaporka(4 znamenke)</string>
-  <string name="newPin2Label">Novi PIN2</string>
-  <string name="newPinLabel">Novi PIN</string>
+  <string name="new_pin2_label">Novi PIN2</string>
+  <string name="new_pin_label">Novi PIN</string>
   <string name="no_change">Nisu izvršene nikakve promjene.</string>
   <string name="no_internet_available">Za uspostavu internetskog poziva prvo provjerite internetsku vezu.</string>
   <string name="no_internet_available_title">Nema internetske veze</string>
@@ -682,6 +682,7 @@ Vaša SIM kartica bit će izbrisani nakon još jednog neuspjelog pokušaja."</st
   <string name="settings_label">Postavke mreže</string>
   <string name="simContacts_airplaneMode">Za uvoz kontakata sa SIM kartice prvo isključite način rada u zrakoplovu.</string>
   <string name="simContacts_empty">Nema kontakata na vašoj SIM kartici.</string>
+  <string name="simContacts_emptyLoading">Čitanje s SIM kartice…</string>
   <string name="simContacts_title">Upravljanje kontakata SIM kartice</string>
   <string name="sim_contact_name">Ime</string>
   <string name="sim_contact_number">Broj</string>

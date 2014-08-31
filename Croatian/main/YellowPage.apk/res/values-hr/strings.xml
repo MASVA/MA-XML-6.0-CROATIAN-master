@@ -76,7 +76,6 @@
   <string name="express_addressee_name">Naziv naslovnika</string>
   <string name="express_addressee_region">Regija naslovnika</string>
   <string name="express_cancel_order">Odustani</string>
-  <string name="express_create_order">Kreiraj</string>
   <string name="express_company_empty">Nema kompanija</string>
   <string name="express_company_list_empty">Nema kompanija</string>
   <string name="express_company_phone_prefix">Kontakt:</string>
@@ -152,7 +151,6 @@ Provjerite svoj broj za praćenje."</string>
   <string name="express_select_sender">Šalje</string>
   <string name="express_send">Pošalji</string>
   <string name="express_send_notice">O zabranjenim predmetima</string>
-  <string name="express_sender">Pošiljatelj</string>
   <string name="express_sender_info">Podaci o pošiljatelju</string>
   <string name="express_sender_name">Ime pošiljatelja</string>
   <string name="express_sender_region">Regija pošiljatelja</string>
@@ -196,7 +194,6 @@ Provjerite svoj broj za praćenje."</string>
   <string name="menu_correct_yellow_page">Ispravak</string>
   <string name="menu_delete_call_log">Izbrisati popis poziva</string>
   <string name="menu_delete_one">Ukloni stavku s popisa poziva</string>
-  <string name="menu_refresh">Osvježi</string>
   <string name="menu_remove_black_list">Ukloniti s liste zabranjenih</string>
   <string name="menu_remove_from_favorite">Ukloni iz favorita</string>
   <string name="minimum_price">Od %d RMB</string>

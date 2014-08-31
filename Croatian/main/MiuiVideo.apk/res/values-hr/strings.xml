@@ -10,8 +10,11 @@
   <string name="ad_moredetail">Više detalja</string>
   <string name="add_more_addons">Dodaj još dodataka</string>
   <string name="addon">" dodataka"</string>
+  <string name="addon_all">Sve</string>
   <string name="addon_category">Dodaci</string>
   <string name="addon_install_complete_disc">%s dodataka instalirano. Možete ih pregledati u /Moji videozapisi/.</string>
+  <string name="addon_installed_empty_hint">Prazno</string>
+  <string name="addon_list_empty_hint">Prazno</string>
   <string name="addon_update_desc">Nađena nova verzija. Ažurirati sada?</string>
   <string name="adjust_position_next_media_notice">Dalje</string>
   <string name="adjust_position_prev_media_notice">Zadnje</string>
@@ -21,16 +24,14 @@
   <string name="airkan_video_playing">Reprodukcija</string>
   <string name="airkan_video_playing_in">"Video je "</string>
   <string name="all">Sve</string>
-  <string name="all_reviews">Svi komentari</string>
-  <string name="all_specials">Najbolji</string>
-  <string name="alreadyselected">Odabrano</string>
+  <string name="all_comment">Svi komentari</string>
+  <string name="all_ep">Sve epizode</string>
+  <string name="all_media">Sva medija</string>
   <string name="app_name">"Videozapis"</string>
   <string name="area_colon">"Zemlja: "</string>
   <string name="authenticated_failed">"Prijava nije uspjela"</string>
   <string name="authenticating">&lt;CDATA&gt;Provjera &lt;/CDATA&gt;</string>
   <string name="authenticating_manually">Provjera nije uspjela</string>
-  <string name="auto_play">Auto-reproduciraj kad je spremno</string>
-  <string name="auto_play_summary">Reproduciraj automatski nakon što je završeno pruzimanje videozapisa</string>
   <string name="average_score">Prosječan rezultat</string>
   <string name="avg_score">%.1f</string>
   <string name="back">natrag</string>
@@ -41,6 +42,7 @@
   <string name="cancel_favorite_success">Neoznačeno</string>
   <string name="channel_choice_empty_hint">Prazno</string>
   <string name="channel_empty_hint">Prazno</string>
+  <string name="check_network">"Ne mogu se spojiti na mrežu. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
   <string name="choice">Popularno</string>
   <string name="clarity_high">Visoko</string>
   <string name="clarity_standard">Standardno</string>
@@ -49,6 +51,7 @@
   <string name="clear_cache">Izbriši memoriju slika</string>
   <string name="clear_cache_success">Memorija izbrisana</string>
   <string name="clear_cache_summary">Izbrisane memorirane slike iz Video preglednika</string>
+  <string name="click_star_rate">Dodirnite zvijezdu da ocijenite</string>
   <string name="click_to_login">Dodirnite sliku za prijavu</string>
   <string name="cnlive">cnlive</string>
   <string name="comment">Komentari</string>
@@ -60,8 +63,6 @@
   <string name="comment_review_list_empty_hint">Nema komentara</string>
   <string name="connect_error">Greška povezivanja</string>
   <string name="connecting">Povezivanje</string>
-  <string name="continue_to_play_nextset">Reproduciraj sljedeću epizodu automatski</string>
-  <string name="continue_to_play_nextset_summary">"Kada epizoda koju gledate završi, sljedeća će početi automatski"</string>
   <string name="count_comment">%d ocjena</string>
   <string name="count_comment_wan">%.2f0 ocjena</string>
   <string name="count_ge">Stavaka: %d</string>
@@ -120,6 +121,7 @@
   <string name="fullscreen">Cijeli zaslon</string>
   <string name="funshion">Funshion</string>
   <string name="gong_count_dlna">%d DLNA</string>
+  <string name="gong_count_ge">%d ukupno</string>
   <string name="gong_count_ji">%d Ep. ukupno</string>
   <string name="gong_count_xiang">"Broj stavki: %d "</string>
   <string name="good">U redu</string>
@@ -129,6 +131,8 @@
   <string name="imports">Uvezi</string>
   <string name="init">Init</string>
   <string name="install_comfirm">Dodirni za instaliranje</string>
+  <string name="installed">Instalirano</string>
+  <string name="installed_count_ge">%d Instalirano</string>
   <string name="introduce">Sažetak</string>
   <string name="key_back_down_toast">Za izlaz, pritisnite tipku Natrag opet</string>
   <string name="lekan">Lekan</string>
@@ -154,6 +158,7 @@
   <string name="menu_item_orientation_auto_sensor_action">Automatska rotacija</string>
   <string name="menu_item_orientation_fixed_by_videosize_action">Fiksna orijentacija zaslona</string>
   <string name="menu_item_sub_title">Titlovi</string>
+  <string name="mipush_setting">Xiaomi push</string>
   <string name="month">Mjesec</string>
   <string name="more">Više</string>
   <string name="my_favorite">Favoriti</string>
@@ -188,13 +193,14 @@
   <string name="play">Reproduciraj</string>
   <string name="play_count_ci">%d reproducirano</string>
   <string name="play_his_empty_hint">Prazno</string>
-  <string name="play_history">Nedavno reproducirano</string>
   <string name="play_setting">Reprodukcija</string>
   <string name="positive_comment">Pozitivno</string>
   <string name="pps">PPS</string>
   <string name="pptv">PPTV</string>
   <string name="qiyi">iQiyi</string>
   <string name="rank">Poredak</string>
+  <string name="receive_mipush">Primaj xiaomi push</string>
+  <string name="receive_mipush_summary">Primanje obavijesti o novim i ažuriranim online sadržajima</string>
   <string name="recent_play">Nedavno reproducirano: Ep.%d</string>
   <string name="recentplay">Nedavno reproducirano</string>
   <string name="recommend">Preporuka</string>
@@ -254,6 +260,9 @@
   <string name="upgrade">Nadogradi</string>
   <string name="use_cellular_network">Koristi mobilnu mrežu</string>
   <string name="use_cellular_network_summary">Koristi mobilnu mrežu za preuzimanje videozapisa. Može uzrokovati naplatu prometa</string>
+  <string name="userdata_alert_content">Trenutno koristite podatkovnu mrežu, uporaba podataka može biti velika, sigurno želite nastaviti?</string>
+  <string name="userdata_alert_ok">Nastavi</string>
+  <string name="userdata_alert_title">Uporaba podataka</string>
   <string name="video">Videozapis</string>
   <string name="video_info_audio_bitrate_label">Brzina zvučnog zapisa:</string>
   <string name="video_info_audio_coding_label">Format kodiranja zvučnog zapisa:</string>
@@ -301,7 +310,7 @@
   <string name="wasu">Wasu</string>
   <string name="write_comment">Dodaj komentar</string>
   <string name="xiaomi_account_type_unsupported">"Mi račun nije podržan"</string>
-  <string name="xiaomi_user">MIUI Korisnik</string>
+  <string name="xiaomi_user">Korisnik</string>
   <string name="yesterday">Jučer</string>
   <string name="yinyuetai">YinYueTai</string>
   <string name="youku">Youku</string>

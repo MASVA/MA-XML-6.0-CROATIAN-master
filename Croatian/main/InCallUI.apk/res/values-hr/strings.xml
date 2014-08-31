@@ -13,6 +13,7 @@
   <string name="administrative_enable">>Upravljanje omogućeno</string>
   <string name="advanced_settings">Opcijske postavke</string>
   <string name="advanced_settings_hide">▽ Dotakni za sakriti sve</string>
+  <string name="advanced_settings_container">napredne postavke spremnika</string>
   <string name="advanced_settings_show">▷ Dotakni za prikazati sve</string>
   <string name="advertisements_disable">Oglašavanja onemogućena</string>
   <string name="advertisements_enable">Oglašavanja omogućena</string>
@@ -76,7 +77,7 @@
   <string name="call_recording_error_start_failed">Uređaj za snimanje koristi neka druga aplikacija</string>
   <string name="call_recording_error_unknown">Nepoznata greška</string>
   <string name="call_settings">Postavke poziva</string>
-  <string name="call_title_redialing_with_times_miui">%d puta ponovno pozvano</string>
+  <string name="call_title_redialing_with_times">%d puta ponovno pozvano</string>
   <string name="caller_manage_header">Konferencijski poziv %s</string>
   <string name="calling_via_template">Pozivanje putem %s</string>
   <string name="card_title_call_ended">"Poziv završen "</string>
@@ -168,6 +169,7 @@
   <string name="display_name">DisplayName</string>
   <string name="display_name_summary">&lt;Isto kao i korisničko ime&gt;</string>
   <string name="display_name_title">Prikaži ime</string>
+  <string name="domain_address">SipDomena</string>
   <string name="domain_address_title">Poslužitelj</string>
   <string name="doneButton">Gotovo</string>
   <string name="dtmf_tone_enable_title">Zvukovi tipkovnice</string>
@@ -220,7 +222,7 @@
   <string name="fake_phone_activity_infoText_text">Dolazni telefonski broj</string>
   <string name="fake_phone_activity_phoneNumber_text">(385) 123-4567</string>
   <string name="fake_phone_activity_placeCall_text">Lažni dolazni poziv</string>
-  <string name="fdnListLabel">FDN lista</string>
+  <string name="fdn">FDN lista</string>
   <string name="fdn_activation">FDN aktivacija</string>
   <string name="fdn_check_failure">"Postavke FDN vašeg telefona su omogućene. Neke značajke nisu dostupne."</string>
   <string name="fdn_contact_added">Dodani su Brojevi za fiksno biranje.</string>
@@ -284,6 +286,7 @@
   <string name="labelGSMMore">GSM postavke poziva</string>
   <string name="labelNwService">Postavke usluga mreže</string>
   <string name="label_available">Dostupne mreže</string>
+  <string name="label_ndp">SIM PIN otključavanja mreže</string>
   <string name="label_nsdp">SIM Podskup mreže PIN otključavanja</string>
   <string name="label_puk2_code">Unesite PUK2</string>
   <string name="lafs_disable">Raspored letova onemogućen</string>
@@ -313,7 +316,7 @@
   <string name="mhh_enable">Zdravstvo omogućeno</string>
   <string name="mismatchPin">PIN koje ste unijeli se ne podudara. Pokušajte ponovno.</string>
   <string name="mismatchPin2">PIN2 koje ste unijeli se ne podudara. Pokušajte ponovno.</string>
-  <string name="mobile_network_setting">Postavke Mobilne mreže</string>
+  <string name="mobile_networks">Postavke Mobilne mreže</string>
   <string name="modify_call_failure_str">"Zahtjev izmjene poziva nije uspio
 "</string>
   <string name="modify_call_option_title">Koji tip razgovora?</string>
@@ -439,7 +442,7 @@
   <string name="phone_in_ecm_notification_title">Način hitnog poziva ECM</string>
   <string name="phone_info_divider">"  |  "</string>
   <string name="pick_outgoing_call_phone_type">Uspostavi poziv</string>
-  <string name="pick_outgoing_sip_phone">Koristite Internet poziv:</string>
+  <string name="pick_outgoing_sip_phone">Koristite račun za Internet pozive:</string>
   <string name="pin2_changed">PIN2 uspješno promijenjen</string>
   <string name="pin2_invalid">"FDN nije ažuriran jer ste unijeli pogrešan PIN."</string>
   <string name="pin2_or_fdn_invalid">"FDN nije ažuriran. PIN2 je nevažeći, ili je telefonski broj odbijen."</string>
@@ -499,10 +502,10 @@
   <string name="removing_account">Uklanjanje računa…</string>
   <string name="requesting_unlock">Zahtjev za otključavanje mreže…</string>
   <string name="reset_my_choice_hint">Koristite Postavke poziva da promijenite zadani račun poziva preko interneta</string>
-  <string name="respond_via_sms_canned_response_1_miui">"Žao mi je, ne mogu javiti na telefon. Nazovem te kasnije."</string>
+  <string name="respond_via_sms_canned_response_1">"Žao mi je, ne mogu javiti na telefon. Nazovem te kasnije."</string>
   <string name="respond_via_sms_canned_response_2">"Nazovem te kasnije."</string>
   <string name="respond_via_sms_canned_response_3">"Nazvat ću te kasnije."</string>
-  <string name="respond_via_sms_canned_response_3_miui">"Stvarno sam zauzet. Nazovem te kasnije."</string>
+  <string name="respond_via_sms_canned_response_4">"Stvarno sam zauzet. Nazovem te kasnije."</string>
   <string name="respond_via_sms_confirmation_format">Poruka poslana %s.</string>
   <string name="respond_via_sms_custom_message">Prilagođena poruka…</string>
   <string name="respond_via_sms_edittext_dialog_title">Brzi odgovor</string>
@@ -530,8 +533,8 @@
   <string name="send_button">Pošalji</string>
   <string name="send_keepalive">SendKeepAlive</string>
   <string name="send_keepalive_title">Pošalji keep-alive</string>
-  <string name="separate_from_conference_miui">Jedan poziv</string>
-  <string name="set_primary">SetPrimary</string>
+  <string name="separate_from_conference">Odvoji poziv</string>
+  <string name="set_primary">Postavi primarno</string>
   <string name="set_primary_summary">Koristi se za odlazne pozive</string>
   <string name="set_primary_title">Postavi kao primarni račun</string>
   <string name="settings_label">Postavke mreže</string>
@@ -544,7 +547,10 @@
   <string name="sip_account_list">Računi za internet pozivanje</string>
   <string name="sip_accounts">Računi za internet pozivanje (SIP)</string>
   <string name="sip_accounts_title">Računi</string>
+  <string name="sip_address_only">SIP_ADRESA_SAMO</string>
+  <string name="sip_always">SIP_UVIJEK</string>
   <string name="sip_always_send_keepalive">Uvijek pošalji</string>
+  <string name="sip_ask_me_each_time">SIP_PITAJ_ME_SVAKI_PUT</string>
   <string name="sip_call_options_entry_1">Za sve pozive kada je mreža dostupna</string>
   <string name="sip_call_options_entry_2">Samo za internet pozive</string>
   <string name="sip_call_options_entry_3">Pitaj za svaki poziv</string>
@@ -608,6 +614,7 @@
   <string name="throttle_status_subtext">"%1$s (%2$d٪) od %3$s maksimalno u  razdoblju. Sljedeće razdoblje započinje u %4$d dana (%5$s)"</string>
   <string name="throttle_time_frame">Razdoblje korištenja podataka</string>
   <string name="throttle_time_frame_subtext">"%1$d٪ ciklusa proteklo. Sljedeće razdoblje započinje u %2$d dana (%3$s)"</string>
+  <string name="transport">Protokol</string>
   <string name="transport_title">Vrsta prijenosa</string>
   <string name="tty_mode_option_summary">Podesi TTY način</string>
   <string name="tty_mode_option_title">TTY način</string>
@@ -620,6 +627,7 @@
   <string name="upgrade_vt_prompt">Želite li nadograditi poziv na video poziv?</string>
   <string name="upgrade_vt_rx_prompt">Želite li nadograditi poziv na video primanje samo poziv?</string>
   <string name="upgrade_vt_tx_prompt">Želite li nadograditi poziv na video prijenos samo poziv?</string>
+  <string name="username">Korisničko ime</string>
   <string name="username_title">Korisničko ime</string>
   <string name="vibrate_on_ring_title">Vibriraj kad zvoni</string>
   <string name="vm_change_failed">"Nije bilo moguće promijeniti broj govorne pošte. \nKontaktirajte svog Mobilnog operatera ako se taj problem ne riješi."</string>

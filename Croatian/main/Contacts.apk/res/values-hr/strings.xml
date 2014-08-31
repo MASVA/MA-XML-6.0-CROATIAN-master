@@ -1094,7 +1094,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="today">Danas</string>
   <string name="type_incoming">Dolazni poziv</string>
   <string name="type_missed">Propušteni poziv</string>
-  <string name="type_mx_msg">Slanje poruka u oblaku</string>
+  <string name="type_mx_msg">Mi Poruke</string>
   <string name="type_outgoing">Odlazni poziv</string>
   <string name="type_voicemail">"Govorna pošta"</string>
   <string name="unknown">Nepoznato</string>

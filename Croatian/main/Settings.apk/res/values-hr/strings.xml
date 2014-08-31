@@ -1,10 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Settings_title_anti_spam">Antispam Postavke</string>
-  <string name="Settings_title_anti_virus">Postavke AntiVirusa</string>
-  <string name="Settings_title_garbage_cleanup">Postavke čišćenja smeća</string>
-  <string name="Settings_title_network_assistants">Postavke suradnika mreže</string>
-  <string name="Settings_title_power_center">Postavke upravitelja napajanja</string>
   <string name="about_settings">O uređaju</string>
   <string name="about_settings_summary">Prikaži pravne informacije, status, verziju softvera</string>
   <string name="ac_enable_title">Dozvole</string>
@@ -492,7 +487,7 @@ Onemogućiti plutajuće prozore?"</string>
   <string name="builtin_keyboard_settings_title">Fizička tipkovnica</string>
   <string name="button_disconnect_network">Isključi iz mreže</string>
   <string name="button_light_timeout">Postavke osvjetljenja tipaka</string>
-  <string name="button_text_login">Prijavite se</string>
+  <string name="button_text_login">Prijava</string>
   <string name="button_text_reboot_now">Ponovno pokretanje</string>
   <string name="cache_header_label">Predmemorija</string>
   <string name="cache_size_label">Predmemorija</string>
@@ -771,11 +766,11 @@ Onemogućiti plutajuće prozore?"</string>
   <string name="dirac_mode_earbuds">Mi slušalice</string>
   <string name="dirac_mode_general">Slušalice</string>
   <string name="dirac_mode_general_earbuds">Slušalice</string>
-  <string name="dirac_mode_general_inear">Opće Slušalice</string>
+  <string name="dirac_mode_general_inear">Opće in-ear</string>
   <string name="dirac_mode_in_ear">Mi Slušalice lite</string>
   <string name="dirac_mode_off">Isključena optimizacije zvuka</string>
   <string name="dirac_mode_piston_1">Mi piston-1</string>
-  <string name="dirac_mode_piston_100">Mi in-ear Slušalice</string>
+  <string name="dirac_mode_piston_100">Mi in-ear</string>
   <string name="dirac_mode_piston_2">Mi piston-2</string>
   <string name="dirac_mode_piston_youth">Mi piston-youth</string>
   <string name="disableNetwork">disableNetwork</string>
@@ -1242,7 +1237,7 @@ Neke aplikacije neće raditi dok ih ne ažuriraju njihovi razvijatelji."</string
   <string name="lte_ram_dump_on">Uključi LTE RAM kopiranje</string>
   <string name="macaddr_label">MAC adresa:</string>
   <string name="main_running_process_description">Glavni proces u upotrebi.</string>
-  <string name="make_sure_cancel_update">Otkazati ažuriranje？</string>
+  <string name="make_sure_cancel_update">Otkazati ažuriranje?</string>
   <string name="man_add_application">Dodaj aplikacije za automatsko pokretanje</string>
   <string name="manage_device_admin">Administratori uređaja</string>
   <string name="manage_device_admin_summary">Prikaz ili deaktivacija administratora uređaja</string>

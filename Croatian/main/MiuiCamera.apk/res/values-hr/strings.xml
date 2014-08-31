@@ -31,8 +31,8 @@
 iskoračite iz prikaza na trenutak"</string>
   <string name="camera_disabled">Fotoaparat je onemogućen</string>
   <string name="camera_error_title">Greška fotoaparata</string>
-    <string name="camera_face_beauty_simple_mode_close">i:0</string>
-    <string name="camera_face_beauty_simple_mode_open">i:2</string>
+  <string name="camera_face_beauty_simple_mode_close">i:0</string>
+  <string name="camera_face_beauty_simple_mode_open">i:2</string>
   <string name="camera_label">Fotoaparat</string>
   <string name="camera_settings_label">Postavke</string>
   <string name="can_not_play_video">Otključaj zaslon za prikaz reprodukcije</string>
@@ -45,7 +45,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="confirm_change_mode_title">Način prebacivanja</string>
   <string name="confirm_change_to_expert_mode_message">Prebaciti na profesionalan način?</string>
   <string name="confirm_change_to_simple_mode_message">Prebaciti na jednostavan način?</string>
-  <string name="confirm_enable_opti_zoom_message">Želite li spremiti detalje lokacije u vašim fotografijama?</string>
+  <string name="confirm_location_message">Želite li spremiti detalje lokacije u vašim fotografijama??</string>
   <string name="confirm_restore_message">Obnoviti na zadane postavke Fotoaparata?</string>
   <string name="confirm_restore_title">Obnovi na zadano</string>
   <string name="connect_wifi">Poveži se na ovu WLAN mrežu</string>
@@ -127,7 +127,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="find_other_qrcode">Pronađite ostali QR kod</string>
   <string name="find_qq_qrcode">Pronađite QQ QR kod</string>
   <string name="find_web_qrcode">Pronađite QR kod web stranice</string>
-  <string name="find_weixin_qrcode">Pronađite WeChat QR kod</string>
+  <string name="find_wechat_qrcode">Pronađite WeChat QR kod</string>
   <string name="find_wifi_qrcode">Pronađite QR kod WLAN-a</string>
   <string name="flash">Bljeskalica</string>
   <string name="flash_off">Bez bljeskalice</string>
@@ -216,7 +216,7 @@ panoramske fotografije.</string>
   <string name="pref_camera_autoexposure_value_centerweighted">center-weighted</string>
   <string name="pref_camera_autoexposure_value_frameaverage">frame-average</string>
   <string name="pref_camera_autoexposure_value_spotmetering">spot-metering</string>
-  <string name="pref_camera_chroma_flash_title">Chroma Flash</string>
+  <string name="pref_camera_chroma_flash_title">ništa</string>
   <string name="pref_camera_coloreffect_entry_aqua"/>
   <string name="pref_camera_coloreffect_entry_brannan">Zora</string>
   <string name="pref_camera_coloreffect_entry_earlybird">Jesen</string>
@@ -437,8 +437,8 @@ panoramske fotografije.</string>
   <string name="pref_camera_skinToneEnhancement_value_enable">omogući</string>
   <string name="pref_camera_sound_entry_on">Uključeno</string>
   <string name="pref_camera_sound_title">Zvukovi Fotoaparata</string>
-  <string name="pref_camera_sound_title_entry_off">Isključeno</string>
-  <string name="pref_camera_touchafaec_default">touch-uklj.</string>
+  <string name="pref_camera_sound_entry_off">Isključeno</string>
+  <string name="pref_camera_touchafaec_default">dodir-uklj.</string>
   <string name="pref_camera_touchafaec_entry_off">Isključeno</string>
   <string name="pref_camera_touchafaec_entry_on">Uključeno</string>
   <string name="pref_camera_touchafaec_title">Dodirni AF/AEC</string>

@@ -22,7 +22,7 @@
   <string name="activity_title_memory">Memorija</string>
   <string name="activity_title_networkassistants">Velike datoteke</string>
   <string name="activity_title_notification_bar_manager">Obavijesti</string>
-  <string name="activity_title_perm_manager">Upravitelj dopuštenja</string>
+  <string name="activity_title_perm_manager">Dopuštenja</string>
   <string name="activity_title_permission_manager">Dopuštenja</string>
   <string name="activity_title_permissions_manager">Dopuštenja</string>
   <string name="activity_title_power_manager">Baterija</string>
@@ -146,7 +146,6 @@
   <string name="dialog_title_load_cleanup_engine_error">Nešto nije u redu</string>
   <string name="dialog_title_stop_virus_scan">Zaustavi skeniranje</string>
   <string name="dialog_title_uninstall_apps">Deinstaliraj</string>
-  <string name="enable_mobile_data_when_opening_hotspot">Dopustiti mobilne podatke?</string>
   <string name="empty_title_ad">Nema pronađenih reklama</string>
   <string name="empty_title_apk">Nema instaliranih paketa</string>
   <string name="empty_title_auto_start_list">Nema auto pokretanih aplik.</string>

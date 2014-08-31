@@ -123,7 +123,9 @@ potrošeni prvi automatski"</string>
   <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiKredit podjela.</string>
   <string name="giftcard_record">Moje poklon kartice</string>
   <string name="giftcard_title">MiKredit poklon kartice</string>
-  <string name="giftcard_value">Ukljućuje %1$s-MiKredit poklon karticu</string>
+  <string name="giftcard_value">Uključuje %1$s-MiKredit poklon karticu</string>
+  <string name="progress_mipay_creating">Stvaranje narudžbe…</string>
+  <string name="illegal_intent">Ilegalan zahtjev namjere</string>
   <string name="label_balance">Stanje:</string>
   <string name="label_giftcard">Poklon bon:</string>
   <string name="label_order_name">Proizvod:</string>
@@ -250,6 +252,7 @@ Informacije na broj: 400-100-5678 "</string>
   <string name="recharge_grid_error_denomination">Unesite točan iznos između ￥%1$s~%2$s</string>
   <string name="recharge_grid_picker_hint">Odaberite iznos</string>
   <string name="recharge_group_favorite">Koristite prethodan način nadoplate</string>
+  <string name="recharge_group_familiar">Uobičajeni načini</string>
   <string name="recharge_group_others">Drugi načini nadoplate</string>
   <string name="recharge_message_title">Tekst poruke</string>
   <string name="recharge_notification">Nadoplaćeno: %1$s MiKredita</string>

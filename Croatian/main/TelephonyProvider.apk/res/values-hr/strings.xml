@@ -2,10 +2,6 @@
 <resources>
   <string name="app_label">Pohrana telefona/poruka</string>
   <string name="default_cateogry_courier">Mreža</string>
-  <string name="default_cateogry_fraudulent">Prevarljiv</string>
-  <string name="default_cateogry_intermediary">Posrednik</string>
-  <string name="default_cateogry_meal_delivery">Dostava obroka</string>
-  <string name="default_cateogry_sales">Prodaja</string>
   <string name="mms_provider_label">MMS</string>
   <string name="mms_sms_provider_label">Poruke</string>
   <string name="sms_provider_label">SMS poruka</string>

@@ -197,6 +197,7 @@
   <string name="add_video_attachment">Priloži videozapis</string>
   <string name="address_display_format">%1$s, %2$s</string>
   <string name="address_display_format_with_via_domain">%1$s, %2$s putem %3$s</string>
+  <string name="allread">Sve pročitano</string>
   <string name="all_folders_heading">Sve mape</string>
   <string name="always_bcc_myself">Uvijek šalji skrivenu kopiju sebi</string>
   <string name="always_show_images">Uvijek prikaži slike ovog pošiljatelja</string>
@@ -355,6 +356,7 @@
   <string name="done_action">Gotovo</string>
   <string name="downlaod_cancel_confirm_download">Prekini preuzimanje</string>
   <string name="downlaod_cancel_continue_download">Prekini</string>
+  <string name="download_cancel_confirm_title">Preuzimanje će biti otkazano.</string>
   <string name="downlaod_confirm_download">Preuzmi</string>
   <string name="downlaod_nonWifi_confirm_message">Preuzimanje korištenjem mobilnog prijenosa podataka. Potvrdi korištenje</string>
   <string name="download_again">Preuzmi ponovo</string>
@@ -389,6 +391,7 @@
   <string name="expand_recipient_details">Proširi podatke o primatelju</string>
   <string name="failed">Nije moguće učitati sliku</string>
   <string name="feedback">Pošaljite povratne informacije</string>
+  <string name="feedback_body">Detalji povratne informacije</string>
   <string name="feedback_sent">"Zahvaljujemo na povratnoj informaciji. Nastaviti ćemo s poboljšavanjem za vas"</string>
   <string name="fetching_attachment">Dohvaćanje privitka</string>
   <string name="file_deleted_success">Datoteka izbrisana</string>
@@ -552,9 +555,9 @@ Kopija: %4$s
   <string name="message_decode_error">Došlo je do pogreške prilikom dekodiranja poruke.</string>
   <string name="message_details_title">Pojedinosti poruke</string>
   <string name="message_discarded">Poruka je odbačena.</string>
-  <string name="message_invite_accept">Da</string>
+  <string name="message_invite_accept">Dolazim</string>
   <string name="message_invite_calendar_view">Prikaži u Kalendaru</string>
-  <string name="message_invite_decline">Ne</string>
+  <string name="message_invite_decline">Ne dolazim</string>
   <string name="message_invite_label_attending">Dolazite?</string>
   <string name="message_invite_tentative">Možda</string>
   <string name="message_invite_title">Kalendarska pozivnica</string>
@@ -625,8 +628,8 @@ Kopija: %4$s
   <string name="phone">telefon</string>
   <string name="photo_load_failed">Nije moguće učitati sliku</string>
   <string name="photo_view_count" formatted="false">%d od %d</string>
-  <string name="please_fill_in_your_mailbox_information">Please fill in your% s mailbox-related information:</string>
-  <string name="please_fill_in_your_mailbox_information2">Please fill in your mailbox-related information:</string>
+  <string name="please_fill_in_your_mailbox_information">Unesite vaše %s podatke vezane za račun e-pošte:</string>
+  <string name="please_fill_in_your_mailbox_information2">Unesite vaše podatke vezane za račun e-pošte:</string>
   <string name="please_wait">Pričekajte…</string>
   <string name="policy_app_blacklist">Odbaci određene aplikacije</string>
   <string name="policy_app_whitelist">Dopusti samo određene aplikacije</string>

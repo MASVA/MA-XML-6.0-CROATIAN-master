@@ -5,14 +5,22 @@
   <string name="activate">Aktiviraj</string>
   <string name="activating">Aktiviranje…</string>
   <string name="alert_notif_title_dspt">Nije sinkronizirano</string>
-  <string name="app_name">Micloud</string>
+  <string name="app_name">Mi Cloud</string>
+  <string name="app_sync_off">Sink. aplikacija isklj.</string>
   <string name="bad_authentication">Pogrešno korisničko ime ili zaporka</string>
   <string name="btn_return">Natrag</string>
   <string name="button_cancel">Odustani</string>
   <string name="cloud_find_device">Pronađi uređaj</string>
-  <string name="cmcc_micloud_dspt">Koristite MiCloud za sinkronizaciju podataka, pronalazak svog telefona,</string>
+  <string name="cloud_sync_setting_summary_standard">Standardno: na WLAN-u sink. fotografija, videozapisa, MMS-a, podataka aplikacija i slika kontakata, sinkr. drugih podataka preko mobilne mreže</string>
+  <string name="cloud_sync_setting_summary_wlan">Samo na WLAN-u: Sinkr. svih podataka samo preko WLAN-a</string>
+  <string name="cmcc_micloud_dspt">Koristite Mi Cloud za sinkronizaciju podataka, pronalazak svog telefona,</string>
+  <string name="contact">Kontakti</string>
+  <string name="current">Trenutno</string>
+  <string name="data_syncing">Sink. podataka</string>
+  <string name="detail">Detalj</string>
   <string name="disable_find_device_error">"Ne mogu isključiti "Pronađi uređaj". %1$s"</string>
   <string name="enableAll">Sinkroniziraj sve</string>
+  <string name="enable_cloud_service_notification">"Niste uključili cloud uslugu"</string>
   <string name="enable_find_device_error">"Ne mogu isključiti "Pronađi uređaj". %1$s"</string>
   <string name="enable_micloud">Prijavite se ili napravite račun</string>
   <string name="enable_sync">Uključi</string>
@@ -41,11 +49,17 @@
 Ako promjenite SIM kartice, novi aktivacijski SMS mora biti poslan."</string>
   <string name="find_device_stop_noise">Dodirnite U redu za utišavanje</string>
   <string name="find_device_success_title">Pronađi uređaj</string>
+  <string name="flight_mode">način rada u zrakoplovu</string>
+  <string name="full_space">Prostor je pun</string>
   <string name="header_data_and_synchronization">Podaci &amp; sink.</string>
   <string name="i_know">U redu</string>
+  <string name="internet">Internet</string>
+  <string name="internet_disconnected">Internet isključen</string>
+  <string name="less_flow_mode">Manje Način protoka</string>
   <string name="master_alert_notif_dspt_add">"%s nije sinkroniziran."</string>
   <string name="master_alert_notif_dspt_no">"Sve je u toku."</string>
   <string name="master_alert_notif_title">Zadnja sinkr. prije dana %s</string>
+  <string name="micloud"> Mi Cloud</string>
   <string name="micloud_dspt">Koristite Mi Cloud za sinkronizaciju podataka, pronađete svoj ​​uređaj,</string>
   <string name="micloud_dspt_provision">Koristite Mi Cloud za sinkronizaciju podataka, pronađete svoj ​​uređaj, i podijelite stvari s prijateljima.</string>
   <string name="micloud_full_influence_dspt">"Sve vaše fotografije, videozapisi, bilješke i aplikacije će ostati pohranjene na cloud. 
@@ -54,9 +68,9 @@ Na taj način, ako izgubite ili oštetite uređaj, vaši podaci će i dalje biti
 Kada je vaš cloud pun, vaši stari podaci neće ići nikamo. Međutim, svaki novi dodani sadržaj (primjerice fotografije, videozapisi, bilješke i aplikacije) neće biti pohranjene.
 
 Da biste to riješili, možete ili očistiti neke stare datoteke kako bi napravili mjesta za nove, ili možete kupiti dodatni prostor za pohranu."</string>
-  <string name="micloud_full_influence_title">Kada je vaš MiCloud pun…</string>
+  <string name="micloud_full_influence_title">Kada je vaš Mi Cloud pun…</string>
   <string name="micloud_intro_01_part_01">Sačuvajte uporabu podataka</string>
-  <string name="micloud_intro_01_part_02">Cloud Poruke vam omogućuju da šaljete i primate poruke drugim MIUI korisnicima putem WLAN-a.</string>
+  <string name="micloud_intro_01_part_02">Mi Poruke vam omogućuju da šaljete i primate poruke drugim MIUI korisnicima putem WLAN-a.</string>
   <string name="micloud_intro_02_part_01">Preselite bez napora</string>
   <string name="micloud_intro_02_part_02">Sinkronizacija kontakata, poruka, fotografije i još mnogo toga između uređaja.</string>
   <string name="micloud_intro_03_part_01">Osigurajte sadržaj svog telefona s bilo kojeg mjesta</string>
@@ -65,6 +79,7 @@ Da biste to riješili, možete ili očistiti neke stare datoteke kako bi napravi
   <string name="micloud_proceed">Nastavi</string>
   <string name="micloud_sec_dspt">i podijeli stvari s svojim prijateljima.</string>
   <string name="micloud_space_full_influence">Što će se dogoditi ako ponestane prostora?</string>
+  <string name="micloud_storage_usage" formatted="false">Iskorišteno %s/Ukupan prostor %s</string>
   <string name="micloud_title_dspt" formatted="false">"Ukupno %s
  iskorišteno %s | preostalo %s"</string>
   <string name="micloud_title_dspt_remain">%s preostalo</string>
@@ -81,24 +96,35 @@ Da biste to riješili, možete ili očistiti neke stare datoteke kako bi napravi
   <string name="next">Dalje</string>
   <string name="noRemind">"Ne podsjećaj me"</string>
   <string name="no_sim">"Nema SIM kartice"</string>
+  <string name="normal">Normalno</string>
+  <string name="only_in_wlan">Samo preko WLAN-a</string>
   <string name="other_settings">Ostale postavke</string>
   <string name="password">Unesite zaporku</string>
+  <string name="photo">Fotografije</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">"Sinkronizacija slike kontakata samo kada ste povezani na WLAN mreže"</string>
   <string name="pref_title_sync_contacts_title">Sinkroniziraj kontakte</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Koristi samo WLAN za sink. fotografija.</string>
   <string name="pref_title_sync_my_profile_title">Sinkroniziraj profil</string>
+  <string name="remind_later">Podsjeti me kasnije</string>
   <string name="restoreSync">Sinkroniziraj sada</string>
+  <string name="setting">Postavke</string>
+  <string name="sms">SMS</string>
+  <string name="space">Prostor</string>
   <string name="start_micloud">Start</string>
+  <string name="storage">Prostor za pohranu</string>
   <string name="sub_alert_notif_dspt_add">"%s nije sinkronizirano."</string>
   <string name="sub_alert_notif_dspt_no">"Sve je u toku."</string>
   <string name="sub_alert_notif_title">Sinkronizacija je isključena</string>
   <string name="sub_sync_item_sms_summary">"Sinkroniziraj SMS koji sadrže fotografije, zvuk ili druge medije kada je povezano na WLAN mrežu"</string>
   <string name="sub_sync_item_sms_title_wifi_only">Sinkronizacija MMS samo preko WLAN-a</string>
+  <string name="sync">Sinkr.</string>
   <string name="sync_dspt">Omogući sinkr.</string>
   <string name="sync_item_sms_summary">Sinkroniziraj poslane/primljene SMS na ovaj telefon</string>
   <string name="sync_item_sms_title">Sinkroniziraj SMS</string>
   <string name="sync_off">Isključeno</string>
   <string name="sync_on">Uključeno</string>
+  <string name="sync_setting">Postavke Sinkr.</string>
+  <string name="sync_standard">Standardno</string>
   <string name="sync_sub_1_intl_sms">Međunarodni i domaći SMS će biti poslan za povezivanje vaših SIM kartica s ovim računom. Snositi ćete naknade vašeg mobilnog operatera.</string>
   <string name="sync_sub_1_sms">SMS će biti poslan za povezivanje vaše SIM kartice s ovim računom. Snositi ćete redovne naknade vašeg mobilnog operatera.</string>
   <string name="sync_sub_1_sms_1_intl_sms">Međunarodni i domaći SMS će biti poslan za povezivanje vaših SIM kartica s ovim računom. Snositi ćete naknade vašeg mobilnog operatera.</string>
@@ -107,12 +133,16 @@ Da biste to riješili, možete ili očistiti neke stare datoteke kako bi napravi
   <string name="sync_sub_dspt">Aktivacijski SMS podliježe redovnim naknadama uporabe podataka.</string>
   <string name="sync_sub_dspt_provision">Pregledaj i upravljaj svojim podacima s bilo kojeg mjesta</string>
   <string name="sync_sub_int_dspt">Aktivacijski SMS poruka podliježe naknadama međunarodnog prometa uporabe podataka.</string>
+  <string name="system_sync_off">Sinkr. sustava isklj.</string>
   <string name="title_reg">Napravite račun</string>
   <string name="unactivated_user">Deaktivirano</string>
   <string name="vcode">Provjera koda</string>
   <string name="verify">Potvrdi</string>
+  <string name="wifi">WLAN</string>
+  <string name="wifi_disconnected">WLAN isključen</string>
+  <string name="wifi_sync">WLAN sinkr.</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="xiaomi_account_type">com.xiaomi</string>
-  <string name="xiaomi_cloud_service">MiCloud</string>
+  <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmpp_server_addr"/>
 </resources> 
