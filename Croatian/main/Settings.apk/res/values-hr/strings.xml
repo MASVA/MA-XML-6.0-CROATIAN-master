@@ -39,10 +39,18 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="accessibility_no_services_installed">Nema instaliranih usluga</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Tipka za uključivanje prekida poziv</string>
   <string name="accessibility_screen_magnification_enable">Pokreti povećavanja</string>
-  <string name="accessibility_screen_magnification_summary">"Ako je ova značajka uključena, možete povećati ili smanjiti prikaz ako triput dodirnete zaslon. Dok je prikaz uvećan, možete: „&lt;li&gt;&lt;ul&gt;“Pomicati pogled: Povucite dva ili više prstiju preko zaslona. „&lt;li&gt;Podesiti razinu uvećavanja: Privucite dva ili više prstiju ili ih raširite. &lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;" Možete također privremeno uvećati područje ispod prsta tako da triput dodirnete i zadržite dodir. U ovom uvećanom stanju, možete povlačiti prstom kako bi istražili druge dijelove zaslona. Podignite prst za povratak na prethodno stanje. Napomena: Trostruki dodir za uvećavanje vrijedi svugdje osim na tipkovnici i navigacijskoj traci."</string>
+  <string name="accessibility_screen_magnification_summary">"Ako je ova značajka uključena, možete povećati ili smanjiti prikaz ako triput dodirnete zaslon. 
+  
+  Dok je prikaz uvećan, možete: 
+  “Pomicati pogled: Povucite dva ili više prstiju preko zaslona. 
+  „Podesiti razinu uvećavanja: Privucite dva ili više prstiju ili ih raširite."
+  
+  "Možete također privremeno uvećati područje ispod prsta tako da triput dodirnete i zadržite dodir. U ovom uvećanom stanju, možete povlačiti prstom kako bi istražili druge dijelove zaslona. Podignite prst za povratak na prethodno stanje. 
+  
+  Napomena: Trostruki dodir za uvećavanje vrijedi svugdje osim na tipkovnici i navigacijskoj traci."</string>
   <string name="accessibility_screen_magnification_title">Pokreti povećavanja</string>
   <string name="accessibility_service_default_description">Nije dan opis.</string>
-  <string name="accessibility_service_no_apps_message">TalkBack daje govorne povratne informacije kao pomoć slijepim i slabovidnim korisnicima. Želite li ga besplatno instalirati s usluge Android Market?</string>
+  <string name="accessibility_service_no_apps_message">TalkBack daje govorne povratne informacije kao pomoć slijepim i slabovidnim korisnicima. Želite li ga besplatno instalirati s usluge Trg. Play?</string>
   <string name="accessibility_service_no_apps_title">Trebate čitač zaslona?</string>
   <string name="accessibility_services_title">Usluge</string>
   <string name="accessibility_settings">Dostupnost</string>
