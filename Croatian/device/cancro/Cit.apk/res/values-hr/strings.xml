@@ -8,8 +8,8 @@
   <string name="cit_OTG_waiting_out">Isključite USB_OTG uređaj.</string>
   <string name="cit_ac_charger_in">AC Punjač je priključen</string>
   <string name="cit_ac_charger_out">AC Punjač je isključen</string>
-  <string name="cit_accelermeter_sensor_check_summary">Zaslon će prikazati tri smjera ubrzanja  X, Y, Z 
-(Napomena: Kad je telefon preokrenut,vrijednosti će se promijeniti na temelju orijentacije)</string>
+  <string name="cit_accelermeter_sensor_check_summary">"Pomičite uređaj brzo u jednom smjeru. X，Y，Z vrijednosti se prikazuju ispod. (kada je telefon u pokretu: X predstavlja lijevo/desno, y predstavlja ispred/iza, z predstavlja gore i dolje).
+Prije kalibracije uređaja, stavite ga na ravnu površinu."</string>
   <string name="cit_accelermeter_sensor_check_title">Testiranje ubrzanja</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Testiranje stražnjeg zvučnika mikrofona</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Testiranje glavnog zvučnika mikrofona</string>
@@ -95,7 +95,8 @@ Držite telefon kao da ste odgovorili na poziv, pričajte u mikrofon. Trebali bi
   <string name="cit_gps_check_summary">Ovaj test će prikazati informacije GPS-a</string>
   <string name="cit_gps_check_title">Testiranje GPS-a</string>
   <string name="cit_gps_disabled">"GPS nije omogućen, 
-  uključite GPS iz prečaca"</string>
+
+  uključite GPS iz prečaca…"</string>
   <string name="cit_gps_satellite_count">GPS Sateliti: %d</string>
   <string name="cit_gps_satellite_prn">PRN: %s</string>
   <string name="cit_gps_satellite_snr">SNR: %s</string>
@@ -235,45 +236,12 @@ dodajte datoteku i pokušajte ponoviti testiranje reprodukcije."</string>
   <string name="cit_tool_nfc_st_run">Pokreni</string>
   <string name="cit_tool_nfc_st_stop">Zaustavi</string>
   <string name="cit_tool_wifi">Alati testiranja WLAN-a</string>
-  <string name="cit_tool_wifi_5g_100a">Tx:100/6M/13dBm</string>
-  <string name="cit_tool_wifi_5g_100b">Tx:100/54M/13dBm</string>
-  <string name="cit_tool_wifi_5g_100c">Tx:100/MCS0/13dBm</string>
-  <string name="cit_tool_wifi_5g_100d">Tx:100/MCS7/13dBm</string>
-  <string name="cit_tool_wifi_5g_165a">Tx:165/6M/13dBm</string>
-  <string name="cit_tool_wifi_5g_165b">Tx:165/54M/13dBm</string>
-  <string name="cit_tool_wifi_5g_165c">Tx:165/MCS0/13dBm</string>
-  <string name="cit_tool_wifi_5g_165d">Tx:165/MCS7/13dBm</string>
-  <string name="cit_tool_wifi_5g_36a">Tx:36/6M/13dBm</string>
-  <string name="cit_tool_wifi_5g_36b">Tx:36/54M/13dBm</string>
-  <string name="cit_tool_wifi_5g_36c">Tx:36/MCS0/13dBm</string>
-  <string name="cit_tool_wifi_5g_36d">Tx:36/MCS7/13dBm</string>
-  <string name="cit_tool_wifi_b_13a">Tx:13/1M/15dBm</string>
-  <string name="cit_tool_wifi_b_13b">Tx:13/11M/15dBm</string>
-  <string name="cit_tool_wifi_b_1a">Tx:1/1M/15dBm</string>
-  <string name="cit_tool_wifi_b_1b">Tx:1/11M/15dBm</string>
-  <string name="cit_tool_wifi_band_24">mreža: 2.4G</string>
-  <string name="cit_tool_wifi_band_5">mreža: 5G</string>
-  <string name="cit_tool_wifi_band_change">Dalje</string>
-  <string name="cit_tool_wifi_exit">Izlaz</string>
-  <string name="cit_tool_wifi_g_13a">Tx:13/6M/13dBm</string>
-  <string name="cit_tool_wifi_g_13b">Tx:13/54M/13dBm</string>
-  <string name="cit_tool_wifi_g_1a">Tx:1/6M/13dBm</string>
-  <string name="cit_tool_wifi_g_1b">Tx:1/54M/13dBm</string>
-  <string name="cit_tool_wifi_n_13a">Tx:13/MCS0/11dBm</string>
-  <string name="cit_tool_wifi_n_13b">Tx:13/MCS7/11dBm</string>
-  <string name="cit_tool_wifi_n_1a">Tx:1/MCS0/11dBm</string>
-  <string name="cit_tool_wifi_n_1b">Tx:1/MCS7/11dBm</string>
-  <string name="cit_tool_wifi_rx_1">Rx:1</string>
-  <string name="cit_tool_wifi_rx_100">Rx:100</string>
-  <string name="cit_tool_wifi_rx_13">Rx:13</string>
-  <string name="cit_tool_wifi_rx_165">Rx:165</string>
-  <string name="cit_tool_wifi_rx_36">Rx:36</string>
-  <string name="cit_tool_wifi_rx_7">Rx:7</string>
+  <string name="cit_tool_wifi_chain_1">1</string>
+  <string name="cit_tool_wifi_chain_1_2">1+2</string>
+  <string name="cit_tool_wifi_chain_2">2</string>
+  <string name="cit_tool_wifi_exit">Exit</string>
   <string name="cit_tool_wifi_rx_ap">Rx:AP</string>
   <string name="cit_tool_wifi_rx_ap_name">Naziv pristupne točke</string>
-  <string name="cit_tool_wifi_rx_ap_not_null">Naziv pristupne točke ne može biti prazno</string>
-  <string name="cit_tool_wifi_rx_ap_type">Vrsta pristupne točke</string>
-  <string name="cit_tool_wifi_rx_ap_type_error">Greška pristupne točke, ponovo unesite bss / adhoc detalje</string>
   <string name="cit_tool_wifi_rx_chan">Rx: Kanal</string>
   <string name="cit_tool_wifi_rx_count_error">Izlazna vrijednost nije broj</string>
   <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>
@@ -281,13 +249,12 @@ dodajte datoteku i pokušajte ponoviti testiranje reprodukcije."</string>
   <string name="cit_tool_wifi_rx_exit">Rx:izlaz</string>
   <string name="cit_tool_wifi_rx_run">Pokreni</string>
   <string name="cit_tool_wifi_rx_stop">Zaustavi</string>
-  <string name="cit_tool_wifi_rx_total_format">Preneseno: %s</string>
   <string name="cit_tool_wifi_rxbg_test">Rx:B/G</string>
   <string name="cit_tool_wifi_rxbg_test_channel">chan:</string>
-  <string name="cit_tool_wifi_rxbg_test_datarate">rate:</string>
-  <string name="cit_tool_wifi_rxn_test">Rx:N</string>
-  <string name="cit_tool_wifi_rxn_test_channel">chan:</string>
-  <string name="cit_tool_wifi_rxn_test_mcs">MCS:</string>
+  <string name="cit_tool_wifi_rxn_test">Rx: n</string>
+  <string name="cit_tool_wifi_rxn_test_bw">bandwidth:</string>
+  <string name="cit_tool_wifi_rxn_test_channel">channel:</string>
+  <string name="cit_tool_wifi_tx_ac">Tx: ac</string>
   <string name="cit_tool_wifi_tx_bg">Tx: B/G</string>
   <string name="cit_tool_wifi_tx_bg_chan">Kanal:</string>
   <string name="cit_tool_wifi_tx_bg_txpr">TX energija:</string>
@@ -299,6 +266,7 @@ dodajte datoteku i pokušajte ponoviti testiranje reprodukcije."</string>
   <string name="cit_tool_wifi_tx_n_txrt">MCS:</string>
   <string name="cit_tool_wifi_tx_st">Tx: ST</string>
   <string name="cit_tool_wifi_tx_st_chan">Kanal:</string>
+  <string name="cit_tool_wifi_txrx_chain_selection">Odaberi antenu</string>
   <string name="cit_torch_off">Isključite svjetiljku</string>
   <string name="cit_torch_on">Uključite svjetiljku</string>
   <string name="cit_touch_calib_fail">Kalibracija uspjela</string>

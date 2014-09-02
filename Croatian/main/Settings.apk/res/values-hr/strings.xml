@@ -2432,7 +2432,7 @@ Riječ možete dodati dodirom na gumb Dodaj (+)"</string>
   <string name="volume_notification_description">Obavijesti</string>
   <string name="volume_notification_mute">Isključivanje zvuka obavijesti</string>
   <string name="volume_restore">Poništiti razine</string>
-  <string name="volume_restore_alert">"Kada poništite glasnoću na zadane razine, vaše trenutne postavke razine će se izbrisati."</string>
+  <string name="volume_restore_alert">"Sve razine glasnoće će se resetirati."</string>
   <string name="volume_ring_description">Melodija zvona &amp; obavijesti</string>
   <string name="volume_ring_mute">Isključi zvuk melodije zvona &amp; obavijesti</string>
   <string name="volume_system_description">Okidač fotoaparata, zaključavanje zaslona, i ostale obavijesti sustava</string>
