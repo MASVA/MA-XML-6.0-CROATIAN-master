@@ -17,7 +17,7 @@
   <string name="pref_title_data_slot">Poželjni podaci SIM kartice</string>
   <string name="pref_title_voice_slot">Poželjne glas. usluge SIM kartice</string>
   <string name="shut_down">Isključivanje</string>
-  <string name="sim_card_detecting">Provjravam SIM karticu…</string>
+  <string name="sim_card_detecting">Provjeravam SIM karticu…</string>
   <string name="sim_card_detection">SIM kartica nije otkrivena</string>
   <string name="sim_card_detection_info">Potrebna vam je SIM kartica za postavljanje Mi Računa.</string>
   <string name="sim_dectection_next">Nastavi</string>
