@@ -246,7 +246,6 @@ Informacije na broj: 400-100-5678 "</string>
   <string name="progress_warning_waiting">"Plaćanje još nije dodano na vaš ​​račun."</string>
   <string name="recharge_alipay_title">Alipay</string>
   <string name="recharge_bankcall_title">Bankovna kartica</string>
-  <string name="recharge_grid_edit_hint">Iznos (yuan)</string>
   <string name="recharge_grid_edit_limit">%1$s~%2$s yuan</string>
   <string name="recharge_grid_edit_upper_limit">"Ne može biti veći od %1$s yuan"</string>
   <string name="recharge_grid_error_denomination">Unesite točan iznos između ￥%1$s~%2$s</string>

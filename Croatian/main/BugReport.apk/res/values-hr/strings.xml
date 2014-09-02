@@ -32,14 +32,14 @@
   <string name="err_type_systemapp">MIUI aplik.</string>
   <string name="err_type_wifi">WLAN</string>
   <string name="hot_problem">Prikaži uobičajene greške</string>
-  <string name="loading_apps">Stavranje popisa…</string>
+  <string name="loading_apps">Stvaranje popisa…</string>
   <string name="loading_hot_problem">Učitavanje…</string>
   <string name="menu_attach_screenshot">Priloži snimku zaslona</string>
   <string name="menu_copy">Kopiraj</string>
   <string name="menu_discard">Odbaci promjenu</string>
-  <string name="network_err">"Ne mogu se povezati na mrežu. Provjerite vašu podatkovnu vezu i pokušajte osvježiti"</string>
+  <string name="network_err">"Ne mogu se povezati na mrežu. Provjerite vašu podatkovnu vezu i pokušajte ponovo"</string>
   <string name="network_unavailable_dialog_button_ok">U redu</string>
-  <string name="network_unavailable_dialog_content">Vaša izvješće će biti poslana kada ćete imati podatkovnu vezu."</string>
+  <string name="network_unavailable_dialog_content">Vaše izvješće će biti poslano kada ćete imati podatkovnu vezu."</string>
   <string name="network_unavailable_dialog_title">"Ne mogu se povezati na mrežu"</string>
   <string name="no_userbook_toast">"Pročitaj me ne postoji"</string>
   <string name="non_system_app_select">Preuzete aplikacije</string>
@@ -66,7 +66,7 @@
   <string name="systemui">Panel obavijesti</string>
   <string name="title_hot_problem">Uobičajene greške</string>
   <string name="toast_description_required">Potreban je opis</string>
-  <string name="toast_feedback_pending_wlan">"Poruka će biti poslana kada budete spojeni na WLAN mrežu"orisničko mišljenje će biti poslano kada WLAN mreža bude dostupna</string>
+  <string name="toast_feedback_pending_wlan">"Poruka će biti poslana kada budete spojeni na WLAN mrežu. Korisničko mišljenje će biti poslano kada WLAN mreža bude dostupna."</string>
   <string name="toast_feedback_submitted">Izvješće je poslano</string>
   <string name="toast_feedbackservice_in_submit">Slanje prethodnih informacija…</string>
   <string name="toast_pending_log_collection">Još prikupljam zapise…</string>
@@ -80,6 +80,6 @@
   <string name="wifi_problem4">"Ne mogu se povezati na mrežu"</string>
   <string name="wlan_unavailable_dialog_button_ok">Čekaj</string>
   <string name="wlan_unavailable_dialog_button_sent">Pošalji</string>
-  <string name="wlan_unavailable_dialog_content">"Slanje vašeg izvješća će koristiti %s podataka.Možete ga poslati sada ili čekati WLAN povezivanje"</string>
+  <string name="wlan_unavailable_dialog_content">"Slanje vašeg izvješća će koristiti %s podataka. Možete ga poslati sada ili čekati WLAN povezivanje"</string>
   <string name="wlan_unavailable_dialog_title">Uporaba podataka</string>
 </resources>

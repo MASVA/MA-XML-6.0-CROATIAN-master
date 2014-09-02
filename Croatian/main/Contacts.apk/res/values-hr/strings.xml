@@ -493,8 +493,8 @@ Razlog: \"%s\""</string>
   <string name="locale_change_in_progress">Popis kontakata se ažurira kako bi imao učinak na promjenu jezika.</string>
   <string name="login_ok">Prijava</string>
   <string name="lunarBirthdayLabelsGroup">Mjesečev rođendan</string>
-  <string name="lunar_year">Godina</string>
-  <string name="lunar_yi">I</string>
+  <string name="lunar_calendar">Lunarna Nova godina</string>
+  <string name="lunar_leap">Pokreni</string>
   <string name="lunar_yue">Mjesec</string>
   <string name="make_primary">"Zapamti ovaj izbor"</string>
   <string name="map_custom">"Prikaz %s adrese"</string>
@@ -531,7 +531,6 @@ Razlog: \"%s\""</string>
   <string name="menu_editContact">"Uredi"</string>
   <string name="menu_editGroup">"Uredi"</string>
   <string name="menu_edit_mode">"Uredi"</string>
-  <string name="menu_export_database">Izvezi datoteke baze podataka</string>
   <string name="menu_help">Pomoć</string>
   <string name="menu_import_export">"Uvoz/izvoz"</string>
   <string name="menu_joinAggregate">Združi</string>
@@ -1076,7 +1075,6 @@ Za dodavanje kontakta na listu favorita :
   <string name="take_new_photo">Snimi novu fotografiju</string>
   <string name="take_photo">Snimi fotografiju</string>
   <string name="titleJoinContactDataWith">Spoji kontakte</string>
-  <string name="teachers_day">Dan učitelja (Kina)</string>
   <string name="title_other_devices">Ostali dostupni uređaji</string>
   <string name="title_paired_devices">Upareni uređaji</string>
   <string name="to_activate_the_account">Aktivirajte sad vaš Mi račun</string>

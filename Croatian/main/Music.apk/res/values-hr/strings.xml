@@ -14,7 +14,6 @@
   <string name="all_tracks_short">Sve</string>
   <string name="artist_search_title">"Izvođač"</string>
   <string name="artist_view">"Izvođač"</string>
-  <string name="audio_effect_settings">Postavke efekata</string>
   <string name="audio_picker_title">Odaberi pjesmu</string>
   <string name="auto_download_in_wifi">Nema povezivanja s mrežom</string>
   <string name="available_playlist_name_format">Novi popis pjesama %d</string>
@@ -144,8 +143,6 @@
   <string name="metered_disallow">Odustani</string>
   <string name="metered_play_toast">Streaming preko podatkovne veze</string>
   <string name="mi_effect">MiSound</string>
-  <string name="mi_effect_summary">Uvijek koristite MiSound poboljšivač prilikom korištenja zvučnika</string>
-  <string name="mi_effect_title">Koristi MiSound poboljšivač</string>
   <string name="min_sleep_time">1</string>
   <string name="music_browser_label">Glazba</string>
   <string name="music_picker_title">Odaberi pjesmu</string>

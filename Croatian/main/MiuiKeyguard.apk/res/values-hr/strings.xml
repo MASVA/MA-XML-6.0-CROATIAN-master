@@ -27,7 +27,7 @@ Isključite način rada u zrakoplovu."</string>
     <string name="input_pin_code_to_unlock">Unesite PIN da otključate uređaj</string>
     <string name="input_puk_code">Unesite PUK</string>
     <string name="input_puk_code_to_unlock">Unesite PUK da otključate uređaj</string>
-    <string name="lock_screen_date">EEEE, dd. MMMM</string>
+    <string name="lock_screen_date">EE, dd.MM</string>
     <string name="lockscreen_access_pattern_cell_added">Ćelija dodana</string>
     <string name="lockscreen_access_pattern_cleared">Uzorak obrisan</string>
     <string name="lockscreen_access_pattern_detected">Uzorak završen</string>

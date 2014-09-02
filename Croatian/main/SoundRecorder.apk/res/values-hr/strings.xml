@@ -95,7 +95,7 @@ U mreži operatora, preuzimanje će koštati puno."</string>
   <string name="status_bar_recording_pause">"Snimanje je zaustavljeno."</string>
   <string name="stop_recording">Zaustavi snimanje</string>
   <string name="sync_only_in_wifi">Koristiti samo WLAN za sinkr.</string>
-  <string name="sync_only_in_wifi_alert">Promjena ove postavke može povećati vašu potrošnju mobilnih podataka.</string>
+  <string name="sync_only_in_wifi_summary">Snimač neće koristiti mobilne podatke za preuzimanje i učitavanje snimke ako je ta opcija uključena.</string>
   <string name="sync_records">Sinkr. s MiCloud</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="toast_file_is_downloading">Ova se datoteka preuzima, pričekajte.</string>

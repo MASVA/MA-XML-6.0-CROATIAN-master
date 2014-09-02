@@ -30,10 +30,10 @@
     </string-array>
     <string-array name="lock_after_timeout_entries">
         <item>Odmah</item>
-        <item>5 sekunda</item>
-        <item>15 sekunda</item>
-        <item>30 sekunda</item>
-        <item>1 min</item>
+        <item>5 sekundi</item>
+        <item>15 sekundi</item>
+        <item>30 sekundi</item>
+        <item>1 minute</item>
         <item>2 minute</item>
         <item>5 minuta</item>
         <item>10 minuta</item>

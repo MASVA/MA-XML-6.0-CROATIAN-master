@@ -7,7 +7,7 @@
   <string name="about_version">1.0.1</string>
   <string name="about_version_label">Verzija koda</string>
   <string name="actor_colon">Uloge:</string>
-  <string name="ad_moredetail">Više detalja</string>
+  <string name="add_favorite_success">Označeno</string>
   <string name="add_more_addons">Dodaj još dodataka</string>
   <string name="addon">" dodataka"</string>
   <string name="addon_all">Sve</string>
@@ -193,7 +193,7 @@
   <string name="play">Reproduciraj</string>
   <string name="play_count_ci">%d reproducirano</string>
   <string name="play_his_empty_hint">Prazno</string>
-  <string name="play_setting">Reprodukcija</string>
+  <string name="play_history">Nedavno reproducirano</string>
   <string name="positive_comment">Pozitivno</string>
   <string name="pps">PPS</string>
   <string name="pptv">PPTV</string>

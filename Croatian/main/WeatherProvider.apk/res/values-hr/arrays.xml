@@ -3,31 +3,31 @@
     <string-array name="weather_type">
         <item>Sunčano</item>
         <item>Naoblaka</item>
-        <item>Overcast</item>
+        <item>Oblačno</item>
         <item>Maglovito</item>
         <item>Teški pljuskovi</item>
-        <item>Downpour</item>
+        <item>Pljusak</item>
         <item>Pljuskovi</item>
-        <item>Thunderstorm</item>
-        <item>Shower</item>
-        <item>Heavy rainfall</item>
-        <item>Moderate rain</item>
-        <item>Light rain</item>
-        <item>Rain and snow mixed</item>
-        <item>Blizzard</item>
-        <item>Snow</item>
-        <item>Heavy snow</item>
-        <item>Moderate snow</item>
-        <item>Light snow</item>
-        <item>Strong sandstorm</item>
-        <item>Sand storm</item>
-        <item>Sand</item>
-        <item>Windy</item>
-        <item>Hail</item>
-        <item>Dust</item>
-        <item>Haze</item>
-        <item>Freezing rain</item>
-        <item>No data</item>
+        <item>Grmljavina</item>
+        <item>Pljusak</item>
+        <item>Teška kiša</item>
+        <item>Umjerena kiša</item>
+        <item>Lagana kiša</item>
+        <item>Susnježica</item>
+        <item>Mećava</item>
+        <item>Snijeg</item>
+        <item>Teški snijeg</item>
+        <item>Umjeren snijeg</item>
+        <item>Lagani snijeg</item>
+        <item>Pješčana oluja</item>
+        <item>Pješčana oluja</item>
+        <item>Pješčana oluja</item>
+        <item>Vjetrovito</item>
+        <item>Tuča</item>
+        <item>Prašina</item>
+        <item>Tuča</item>
+        <item>Ledena kiša</item>
+        <item>Nema podataka</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
         <item>Najslabije</item>

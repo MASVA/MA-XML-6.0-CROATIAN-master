@@ -216,7 +216,7 @@ panoramske fotografije.</string>
   <string name="pref_camera_autoexposure_value_centerweighted">center-weighted</string>
   <string name="pref_camera_autoexposure_value_frameaverage">frame-average</string>
   <string name="pref_camera_autoexposure_value_spotmetering">spot-metering</string>
-  <string name="pref_camera_chroma_flash_title">ništa</string>
+  <string name="pref_camera_coloreffect_default">ništa</string>
   <string name="pref_camera_coloreffect_entry_aqua"/>
   <string name="pref_camera_coloreffect_entry_brannan">Zora</string>
   <string name="pref_camera_coloreffect_entry_earlybird">Jesen</string>

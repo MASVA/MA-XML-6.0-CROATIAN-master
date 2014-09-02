@@ -91,6 +91,7 @@
   <string name="edit_event_all_day_label">Cijeli dan</string>
   <string name="edit_event_calendar_label">Kalendar</string>
   <string name="edit_event_from_label">Od</string>
+  <string name="edit_event_confirm_message">Odbaciti promjene za događaj?</string>
   <string name="edit_event_label">"Pojedinosti"</string>
   <string name="edit_event_show_all">Prikaži sve</string>
   <string name="edit_event_to_label">Do</string>
@@ -119,7 +120,6 @@
   <string name="event_info_when">"Kada: "</string>
   <string name="event_info_where">"Gdje: "</string>
   <string name="event_lunar_month"/>
-  <string name="event_not_found">Događaj nije pronađen.</string>
   <string name="event_show_more">Prikaži</string>
   <string name="event_view">Prikaži događaj</string>
   <string name="every_weekday">Svaki dan (pon–pet)</string>
@@ -183,6 +183,9 @@
   <string name="pengzu"/>
   <string name="prefDialogTitle_vibrateWhen">Vibracija</string>
   <string name="pref_error_no_ringtone_select">Nijedno</string>
+  <string name="prefDefault_alerts_vibrateWhen">nikad</string>
+  <string name="prefDefault_alerts_vibrate_false">nikad</string>
+  <string name="prefDefault_alerts_vibrate_true">uvijek</string>
   <string name="pref_title_alarm_remind">Podsjetnik alarma</string>
   <string name="pref_title_alert_remind">Skočni podsjetnik</string>
   <string name="pref_title_no_remind">Nema podsjetnika</string>
@@ -237,14 +240,12 @@
   <string name="select_synced_calendars_button">Kalendari za sinkronizaciju</string>
   <string name="select_synced_calendars_title">Kalendari za sinkronizaciju</string>
   <string name="select_visible_calendars_title">Kalendari za prikaz</string>
-  <string name="show_all_lunar">Pokaži lunarno</string>
-  <string name="show_almanac">Pokaži almanah</string>
   <string name="show_controls">Pokaži kontrole</string>
   <string name="show_day_view">Pokaži dan</string>
   <string name="show_newer_events">Dodirnite za pregled događaja nakon %1$s</string>
   <string name="show_older_events">Dodirnite za pregled događaja prije %1$s</string>
-  <string name="snooze_all_label">Snooze all</string>
-  <string name="snooze_label">Snooze</string>
+  <string name="snooze_all_label">Odgodi sve</string>
+  <string name="snooze_label">Odgodi</string>
   <string name="subscribe_all">Prijava</string>
   <string name="synced">sinkronizirano</string>
   <string name="tab_local">Upis</string>
