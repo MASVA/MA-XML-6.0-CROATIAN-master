@@ -1,41 +1,53 @@
 <?xml version="1.0" encoding="utf-8" ?> 
 <resources>
-<string-array name="weeks">
-   <item>Pon</item> 
-   <item>Uto</item> 
-   <item>Sri</item> 
-   <item>Čet</item> 
-   <item>Pet</item> 
-   <item>Sub</item> 
-   <item>Ned</item> 
-  </string-array>
-<string-array name="weeks_short">
-   <item>Pon</item> 
-   <item>Uto</item> 
-   <item>Sri</item> 
-   <item>Čet</item> 
-   <item>Pet</item> 
-   <item>Sub</item> 
-   <item>Ned</item> 
-  </string-array>
-<string-array name="months">
-   <item>Siječanj</item> 
-   <item>Veljača</item> 
-   <item>Ožujak</item> 
-   <item>Travanj</item> 
-   <item>Svibanj</item> 
-   <item>Lipanj</item> 
-   <item>Srpanj</item> 
-   <item>Kolovoz</item> 
-   <item>Rujan</item> 
-   <item>Listopad</item> 
-   <item>Studeni</item> 
-   <item>Prosinac</item> 
-   </string-array>
-<string-array name="select_days_simple">
-   <item>Jednom</item> 
-   <item>Dnevno</item> 
-   <item>Od Pon do Pet</item> 
-   <item>Prilagođeno</item> 
-  </string-array>
+    <string-array name="weeks">
+        <item>Pon</item> 
+        <item>Uto</item> 
+        <item>Sri</item> 
+        <item>Čet</item> 
+        <item>Pet</item> 
+        <item>Sub</item> 
+        <item>Ned</item> 
+     </string-array>
+    <string-array name="weeks_short">
+        <item>Pon</item> 
+        <item>Uto</item> 
+        <item>Sri</item> 
+        <item>Čet</item> 
+        <item>Pet</item> 
+        <item>Sub</item> 
+        <item>Ned</item> 
+    </string-array>
+    <string-array name="months">
+        <item>Siječanj</item> 
+        <item>Veljača</item> 
+        <item>Ožujak</item> 
+        <item>Travanj</item> 
+        <item>Svibanj</item> 
+        <item>Lipanj</item> 
+        <item>Srpanj</item> 
+        <item>Kolovoz</item> 
+        <item>Rujan</item> 
+        <item>Listopad</item> 
+        <item>Studeni</item> 
+        <item>Prosinac</item> 
+     </string-array>
+    <string-array name="select_days_simple">
+        <item>Jednom</item>
+        <item>Svakodnevno</item>
+        <item>Od Pon do Pet</item>
+        <item>Prilagođeno</item>
+    </string-array>
+    <string-array name="fortune">
+        <item>"Lako je postići cilj za jedan dan, ali je teško za svaki dan."</item>
+        <item>"Nije to jednostavno postizati novi cilj svaki dan."</item>
+        <item>Radite novi rekord svakodnevno!</item>
+        <item>Uživajte u izgradnji boljeg ja!</item>
+        <item>Nikada nisi gubitnik sve dok ne prestaneš pokušavati.</item>
+        <item>Ono smo što smo u više navrata činimo. Izvrsnost, dakle, nije čin, nego navika.</item>
+        <item>Postignite jedan cilj dnevno.</item>
+        <item>Držati izazov samom sebi da budete bolji danas.</item>
+        <item>Učini to.</item>
+        <item>Nastavi vježbati, pobjeda će voditi brigu o sebi.</item>
+    </string-array>
 </resources>
