@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Only_the_wifi">Samo učinkovito preko WLAN-a</string>
   <string name="all_downloads">Sva preuzimanja</string>
@@ -33,6 +33,7 @@
   <string name="dialog_title_not_available">Preuzimanje nije uspjelo.</string>
   <string name="dialog_title_queued_body">Datoteka nedostupna</string>
   <string name="disable">Onemogući</string>
+  <string name="display_expire_netiv1">Mjesečni vlasnik</string>
   <string name="doc_filter">DOKUMENAT</string>
   <string name="download_complete">Preuzeto</string>
   <string name="download_error">Neuspješno</string>

@@ -12,7 +12,7 @@
 	<string name="action_pop_unlock_screen">Otključaj zaslon</string> 
 	<string name="action_pop_weixin_enter">Sinkr. s Wechat</string> 
 	<string name="age">Dob</string> 
-	<string name="ages">Godina</string> 
+	<string name="ages">godina</string> 
 	<string name="alarm">Alarm</string> 
 	<string name="alarm_cycle">Ponavljaj alarm</string> 
 	<string name="alarm_device_not_connect">Povežite Mi Band prije podešavanja alarma</string> 
@@ -176,8 +176,8 @@ Veza će biti izgubljena nakon odjave."</string>
 	<string name="fw_upgrade_failed_tips">Žao nam je,Firmware Ažuriranje nije uspjelo. To će onemogućiti dio mogućnosti.</string> 
 	<string name="fw_upgrade_now">Ažuriranje Firmwarea…</string> 
 	<string name="fw_upgrade_progress">Završeno %s%%</string>
-	<string name="fw_upgrade_succ">Firmware ažuriranje je uspješno, pričekajte ponovno pokretanje</string> 
-	<string name="fw_upgrade_tips"> Pobrinite se da Mi Band ostane u blizini vašeg telefona tijekom procesa ažuriranja.</string>
+	<string name="fw_upgrade_succ">Ažuriranje Firmware uspješno, ponovno pokretanje…</string> 
+	<string name="fw_upgrade_tips"> Pobrinite se da Mi Band ostane u blizini vašeg telefona tijekom procesa.</string>
 	<string name="gen_qr_code">Generiraj QR kód</string>
 	<string name="get_help">Pomoć</string> 
 	<string name="get_image_file_fail">Primanje slike nije uspjelo</string> 
@@ -193,7 +193,7 @@ Veza će biti izgubljena nakon odjave."</string>
 	<string name="help_info_0">Molimo provjerite da li vaš telefon podržava Bluetooth 4.0 ili noviju verziju. To možete pronaći u specifikacijama telefona</string> 
 	<string name="help_info_1">Mi Band zahtijeva Android verziju 4.4 ili višu</string> 
 	<string name="help_info_2">"Pobrinite se da slijedite upute za pravilno punjenje baterije Mi Band. Vidjeti ćete zelena svjetla kako trepere tijekom punjenja"</string> 
-	<string name="help_info_3">"Ako je vaš Mi Band uparen s postojećim telefonom ili ako vaš Mi Band nije u blizini vašeg telefona, isključite Bluetooth starog telefona i opet potražite s novim telefonom."</string>
+	<string name="help_info_3">"Ako je vaš Mi Band uparen s postojećim telefonom ili ako vaš Mi Band nije u blizini vašeg telefona, isključite telefon."</string>
 	<string name="help_info_4">"Možete kontaktirati službu za korisnike za dodatnu pomoć i podršku.
 Služba za korisnikee: 400-100-5678
 Dostupno 08:00-18:00, od ponedjeljka do nedjelje."</string>
@@ -254,7 +254,7 @@ Ako se odlučite za izlaz, izgubiti će te podatke koji nisu sinkronizirani. Jes
 Sigurno želite nastaviti?"</string>	
 	<string name="mili_unbind_question">Nakon prekidanja veze, telefon više neće biti u mogućnosti primati podatke s Mi Banda</string> 
 	<string name="mili_unbind_question_content">Nakon prekidanja veze, možete koristiti neki drugi telefon za spajanje na Mi Band.</string> 
-	<string name="mili_unbind_question_content_1">Ukoliko ste već podesili Mi Band za otključavanje telefona, prekidanje veze će spriječiti tu funkciju.</string> 
+	<string name="mili_unbind_question_content_1">Osim toga, više niste u stanju otključati vaš telefon s ovim Mi Band nakon prekidanja veze.</string> 
 	<string name="minute" />
 	<string name="modify_gender">Spol</string> 
 	<string name="modify_height">Visina</string> 
@@ -289,9 +289,9 @@ Nemojte se zaustaviti, krenuti naprijed."</string>
 	<string name="one_week">1 tjedan,</string> 
 	<string name="orange">Narančasta</string> 
 	<string name="person_info_finished_info">Postavljanje Mi Band završeno!</string> 
-	<string name="person_info_goal_info">Prema statistikama, morate vježbati svaki dan 40 minuta.
+	<string name="person_info_goal_info">Prema istraživanjima, predlažemo vam 40 minuta bavljenja tjelovježbom svaki dan.
 To je oko 8000 koraka hoda."</string>	
-	<string name="person_info_goal_info_young">Prema statistikama, morate vježbati svaki dan 60 minuta.
+	<string name="person_info_goal_info_young">Prema istraživanjima, predlažemo vam 60 minuta bavljenja tjelovježbom svaki dan.
 To je oko 12000 koraka hoda."</string>	
 	<string name="personal_info">Osobni podaci</string> 
 	<string name="please_input_age">Dob</string> 
@@ -334,7 +334,7 @@ To je oko 12000 koraka hoda."</string>
 	<string name="setting_about_app">Verzija aplikacije </string> 
 	<string name="setting_about_fw">Firmware Verzija </string> 
 	<string name="setting_feedback_address">Kontakt (E-pošta, broj telefona ili QQ)</string> 
-	<string name="setting_feedback_hint">Hvala vam na vešem vremenu. Vaše povratne informacije su nam važne i pomažu nam da vam možemo pružiti bolju uslugu.</string> 
+	<string name="setting_feedback_hint">Hvala vam na vešem vremenu. Vaše povratne informacije su nam veoma važne.</string> 
 	<string name="setting_feedback_send">Pošalji</string> 
 	<string name="share">Dijeli</string> 
 	<string name="share_blog_cancel">Odustani</string> 
@@ -350,7 +350,7 @@ To je oko 12000 koraka hoda."</string>
 	<string name="share_continue_goal_format">"Ukupno prohodano %1$s koraka, %2$s koraka dnevno
 %3$s
 %4$s"</string>	
-	<string name="share_goal_tips_fail">Nije daleko od vašeg cilja, samo je potrebno malo više truda</string> 
+	<string name="share_goal_tips_fail">Niste daleko od postizanja vašeg cilja</string> 
 	<string name="share_goal_tips_succ">"Imate super plan?
 Napravite prvi korak."</string>
 	<string name="share_miliao_too_old">MiTalk verzija je prestara.</string>
@@ -358,14 +358,14 @@ Napravite prvi korak."</string>
 	<string name="share_sleep_description">"U dubokoj fazi spavanja %1$s hr i %2$s min, 
 u laganoj fazi spavanja %3$s hr and %4$s min.
 U snu: %5$s. Budan: %6$s"</string>
-	<string name="share_sleep_description_average">"Prosječno %1$s hr %2$s min duboke faze spavanja, %3$s hr and %4$s min. lagane faze spavanja.
-Prosječno vrijeme spavanja je %5$s,Prosječna vrijeme buđenja je %6$s."</string>
+	<string name="share_sleep_description_average">"Utrošeno prosječno %1$s hr %2$s min duboke faze spavanja, %3$s hr and %4$s min. lagane faze spavanja.
+Prosječno ste spavali %5$s, prosječna vrijeme buđenja %6$s."</string>
 	<string name="share_sleep_title">Prošla noć</string> 
-	<string name="share_sleep_title_average">Prosječno spavanja</string> 
+	<string name="share_sleep_title_average">Pros. spavanja</string> 
 	<string name="share_sleep_title_daily">Spavanje</string>	
 	<string name="share_step_description">"Prohodano %1$s potrošeno %2$s kal.
 "</string>	
-	<string name="share_step_description_monthly">"Prohodano %1$s%2$s
+	<string name="share_step_description_monthly">"%1$s%2$s
 potrošeno %3$s kal, uštedjeli ste %4$s litara benzina.
 (hvala za zaštitu naše zemlje)
 Najveći rekord je %5$s, prohodano %6$s koraka."</string>
@@ -388,8 +388,8 @@ Najveći dnevni rekord je %4$s, prohodano %5$s koraka."</string>
     <string name="share_to_topic">\#Mi Band#</string>
 	<string name="share_uninstall_client">"Aplikacija nije instalirana, dijeljenje nije moguće"</string> 
 	<string name="smart_alarm_clock">Alarm</string> 
-	<string name="smart_alarm_notify">Inteligentan Alarm</string>
-	<string name="smart_wake_up">Pametan Alert</string>
+	<string name="smart_alarm_notify">Pametan Alarm</string>
+	<string name="smart_wake_up">Upozorenje</string>
 	<string name="smart_wake_up_info">"Probudi me 30 minuta prije određenog vremena.
 Želio bih ustati ako je moje tijelo već budno."</string>	
 	<string name="start">Start</string> 
@@ -399,45 +399,45 @@ Najveći dnevni rekord je %4$s, prohodano %5$s koraka."</string>
 	<string name="start_weixin_not_installed">Pokreni Wechat (nije instalirano)</string>
 	<string name="stat_sleep">Vrijeme spavanja</string> 
 	<string name="stat_sleep_achievement">Napredak</string> 
-	<string name="stat_sleep_average">Spavanje</string> 
+	<string name="stat_sleep_average">Prosj. spavanja</string> 
 	<string name="stat_sleep_deep">Duboko spavanje</string> 
-	<string name="stat_sleep_deep_average">Duboko spavanje/Dan</string> 
-	<string name="stat_sleep_rise_time">Vrijeme buđenja</string> 
-	<string name="stat_sleep_rise_time_average">Vrijeme buđenja/Dan</string> 
+	<string name="stat_sleep_deep_average">Prosj. dubokog spavanja</string> 
+	<string name="stat_sleep_rise_time">Buđenje</string> 
+	<string name="stat_sleep_rise_time_average">Vrijeme buđenja</string> 
 	<string name="stat_sleep_shallow">Lagano spavanje</string> 
-	<string name="stat_sleep_shallow_average">Lagano spavanje/Dan</string> 
+	<string name="stat_sleep_shallow_average">Prosj. laganog spavanja</string> 
 	<string name="stat_sleep_time">Spavano</string> 
-	<string name="stat_sleep_time_average">Spavano/Dan</string> 
+	<string name="stat_sleep_time_average">Vrijeme spavanja</string> 
 	<string name="stat_sleep_wake">Vrijeme buđenja</string> 
 	<string name="stat_sleep_wake_average">Vrijeme buđenja/Dan</string> 
-	<string name="stat_step_active_average">Dnevne aktivnosti</string> 
-	<string name="stat_step_active_total">Aktivnosti</string> 
-	<string name="stat_step_average">Koraka dnevno</string> 
-	<string name="stat_step_calorie_average">Dnevna potrošnja</string> 
-	<string name="stat_step_calorie_daily">Potrošeno</string> 
-	<string name="stat_step_calorie_total">Potrošeno</string> 
+	<string name="stat_step_active_average">Prosj. vrijeme aktivnosti</string> 
+	<string name="stat_step_active_total">Vrijeme aktivnosti</string> 
+	<string name="stat_step_average">Prosj. koraka</string> 
+	<string name="stat_step_calorie_average">Prosj. potrošnja</string> 
+	<string name="stat_step_calorie_daily">Ukupno potrošeno</string> 
+	<string name="stat_step_calorie_total">Ukupno potrošeno</string> 
 	<string name="stat_step_daily">Ukupno koraka</string> 
-	<string name="stat_step_distance_average">Dnevna udaljenost</string> 
+	<string name="stat_step_distance_average">Prosj. udaljenost</string> 
 	<string name="stat_step_distance_daily">Ukupna udaljenost</string> 
-	<string name="stat_step_distance_total">Udaljenost</string> 
+	<string name="stat_step_distance_total">Ukupna udaljenost</string> 
 	<string name="stat_step_run">Trčanje</string> 
-	<string name="stat_step_run_average">Dnevno trčanje</string> 
+	<string name="stat_step_run_average">Prosj. vrijeme trčanja</string> 
 	<string name="stat_step_run_total">Trčanje</string> 
-	<string name="stat_step_total">Koraka</string> 
+	<string name="stat_step_total">Ukupno koraka</string> 
 	<string name="stat_step_walk">Hodanja</string> 
-	<string name="stat_step_walk_average">Dnevno hodanja</string> 
+	<string name="stat_step_walk_average">Prosj. vrijeme hodanja</string> 
 	<string name="stat_step_walk_total">Hodanje</string> 
 	<string name="stat_steps">Koraci</string> 
 	<string name="stat_steps_achievement">Napredak</string> 
 	<string name="stat_steps_active_time">Vrijeme</string> 
 	<string name="stat_steps_consecutive_active">Najduža aktivnost</string> 
 	<string name="statistic">Statistika</string> 
-	<string name="statistic_day_average">Prosjek po danu</string> 
+	<string name="statistic_day_average">Prosj. po danu</string> 
 	<string name="statistic_detail">Detalji</string> 
 	<string name="statistic_total">Ukupno</string> 
 	<string name="step">koraka</string> 
-	<string name="step1">Korak 1. </string>
-	<string name="step2">Korak 2. </string>
+	<string name="step1">Korak 1) </string>
+	<string name="step2">Korak 2) </string>
 	<string name="step_per_day"> Koraka/dnevno</string> 
 	<string name="stop">Kraj</string> 
 	<string name="sync_to_server">Sink. podataka na MiCloud…</string> 
@@ -446,7 +446,7 @@ Najveći dnevni rekord je %4$s, prohodano %5$s koraka."</string>
 	<string name="system_not_support_info">"Da bi koristili Mi Band, morate ažurirati sustav vašeg telefona.
 Samo Android 4.4 ili verzije iznad podržavaju Mi Band."</string>
 	<string name="system_not_support_title">Sustav ne podržava Mi Band</string> 
-	<string name="time_format_hour_min">%1$s h %2$s min</string> 
+	<string name="time_format_hour_min">%1$sh %2$sm</string> 
 	<string name="time_format_min">%s min</string> 
 	<string name="today">Danas</string> 
 	<string name="unbind">Prekini vezu</string> 
@@ -457,17 +457,17 @@ Samo Android 4.4 ili verzije iznad podržavaju Mi Band."</string>
 	<string name="unit_hour">h</string> 
     <string name="unit_kilometer">Km</string>
     <string name="unit_meter">m</string>
-	<string name="unit_min">Min</string> 
-	<string name="unit_min_short">min</string> 
+	<string name="unit_min">m</string> 
+	<string name="unit_min_short">m</string> 
 	<string name="unit_step">koraka</string> 
 	<string name="unknown_location">Nepoznata lokacija</string> 
 	<string name="unknown_mili">Nepoznat</string> 
-	<string name="unlock_screen">Otključaj zaslon</string> 
+	<string name="unlock_screen">Kontrola zaslona</string> 
 	<string name="unlock_screen_help_info0">Stavite vaš Mi Band u neposrednu blizinu vašeg telefona.</string>
 	<string name="unlock_screen_help_info1">Ako je vaš telefon još uvijek zaključan, pokušajte ponovo uključiti/isključiti Bluetooth da vidite da li je taj problem riješen.</string>
 	<string name="unlock_screen_help_info2">Ako ponovno uklj./isklj. Bluetootha ne funkcionira, idite u Postavke -> Opće postavke -> Sigurnost -> Sigurnost zaslona i uklonite trenutnu vezu s Mi Bandom, tada idite u Mi Band aplikaciju i resetirajte otključavanje zaslona.</string> 
-	<string name="unlock_screen_help_tips">U samo dva koraka do brzog i sigurnog načina otključavanja vašeg telefona</string> 
-	<string name="unlock_screen_help_title0">Uvjerite se da je Mi Band u blizini telefona</string> 
+	<string name="unlock_screen_help_tips">Dva koraka za postavljanje, dopustite da Mi Band otključa vaš telefon</string> 
+	<string name="unlock_screen_help_title0">Je li Mi Band dovoljno blizu vašem telefonu?</string> 
 	<string name="unlock_screen_help_title1">Ponovo pokrenite Bluetooth vezu</string> 
 	<string name="unlock_screen_help_title2">Resetirajte postavke otključavanja zaslona</string> 
 	<string name="unlock_screen_invalid">Što mogu učiniti ako ne mogu otključati?</string> 

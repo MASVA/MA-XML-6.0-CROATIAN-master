@@ -53,6 +53,7 @@ Pokušajte ponovo za %d sek."</string>
     <string name="lockscreen_transport_play_description">Gumb reprodukcije</string>
     <string name="lockscreen_transport_prev_description">Prethodno</string>
     <string name="login_website_in_case_forget_password">Za obnovu vaše zaporke, idite na i.mi.com.</string>
+	<string name="missed_call_text">Propuštenih poziva %d</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Otključano Bluetooth uređajem</string>
     <string name="miui_unlockscreen_password_wrong">Pokušajte ponovo :</string>
     <string name="open_wifi_settings">Otvorite mrežnu vezu</string>

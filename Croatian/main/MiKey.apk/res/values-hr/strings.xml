@@ -33,7 +33,7 @@
   <string name="add_to_contacts">Dodaj u kontakte</string>
   <string name="address">Adresa:</string>
   <string name="app_name">MiKey</string>
-  <string name="app_not_installed">Aplikacija nije instalirana</string>
+   <string name="app_not_installed">Aplikacija nije instalirana</string>
   <string name="back_camera">Zadnja kamera</string>
   <string name="birthday">Rođendan:</string>
   <string name="call_to">Poziv</string>
@@ -73,8 +73,8 @@
   <string name="delete_gesture">Izbrisati geste za Mikey?</string>
   <string name="device_not_recognized">Uređaj nije prepoznat. Pokušajte ponovo</string>
   <string name="earphone">Slušalice</string>
+  <string name="enable_mikey_sprite">Omogući MiKey čarobnjak</string>
   <string name="email">E-pošta:</string>
-  <string name="enable_mikey_sprite">Omogući MiKey Čarobnjak</string>
   <string name="fail_generate_barcode">Generiranje QR koda nije uspjelo</string>
   <string name="faq_comp_text">Za uređaje s MIUIv5 i Xiaomi telefone. Aktualnu verziju MiKey aplikaciju možete pronaći na &lt;a href="http://xiaomi.eu/community/threads/mikey-app-1-4-1.24220/"&gt;xiaomi.eu&lt;/a&gt;</string>
   <string name="faq_comp_title">Podržani uređaji</string>
@@ -103,8 +103,8 @@
   <string name="goto_update">Ažuriranje</string>
   <string name="hint_long_press_del">Dugo pritisnite za uklanjanje</string>
   <string name="hint_mikey_sprite">"点击米键就是点击屏幕
-+发语音、拍照片、打游戏…
-+使用米键精灵无法使用米键其它功能"</string>
+发语音、拍照片、打游戏…
+使用米键精灵无法使用米键其它功能"</string>
   <string name="input_phone">Unesi broj telefona</string>
   <string name="long_click">Pritisni i drži</string>
   <string name="message_photo_end">Slika spremljena</string>
@@ -147,7 +147,8 @@ To može uzrokovati veću potrošnju baterije"</string>
   <string name="setting_speed_desc">Brzina pritiska gumba</string>
   <string name="setting_speed_quick">Brzo</string>
   <string name="setting_speed_slow">Sporo</string>
-  <string name="setting_speed_text">Brzina</string> 
+  <string name="setting_speed_text">Brzina</string>
+  
   <string name="setting_toolbar">Alatna traka</string>
   <string name="setting_toolbar_desc">"Značajkama Alatne trake može se brzo pristupiti iz trake obavijesti kako bi stvari bile praktičnije"</string>
   <string name="setting_toolbar_tip">"Pritisnite tipku "+" za dodavanje novih značajki.
@@ -183,18 +184,18 @@ S vrha zaslona povucite prema dolje da ga koristite."</string>
   <string name="test_user_entry">Test</string>
   <string name="times">puta</string>
   <string name="title">Naslov:</string>
-  <string name="toggle_wifi">WLAN</string>
-  <string name="toggle_bluetooth">Bluetooth</string>
-  <string name="toggle_shake">Vibracija</string>
-  <string name="toggle_ring">Zvono</string>
-  <string name="toggle_gps">GPS</string>
-  <string name="toggle_data">Podaci</string>
-  <string name="toggle_sleep">Mirovanje</string>
-  <string name="toggle_bright">Osvjetljenje</string>
-  <string name="toggle_flight">Način rada u zrakoplovu</string>
-  <string name="toggle_nfc">NFC</string>
-  <string name="toast_open">Otvori</string>
   <string name="toast_close">Zatvori</string>
+  <string name="toast_open">Otvori</string>
+  <string name="toggle_bluetooth">Bluetooth</string>
+  <string name="toggle_bright">Osvjetljenje</string>
+  <string name="toggle_data">3G/2G Podaci</string>
+  <string name="toggle_flight">Način rada u zrakoplovu</string>
+  <string name="toggle_gps">GPS</string>
+  <string name="toggle_nfc">NFC</string>
+  <string name="toggle_ring">Zvono</string>
+  <string name="toggle_shake">Vibracija</string>
+  <string name="toggle_sleep">Mirovanje</string>
+  <string name="toggle_wifi">WLAN</string>
   <string name="toolbox_outer_desc">Pritisnite plus ili postojeću funkciju</string>
   <string name="update_message">Ažuriranje!</string>
   <string name="vcard_prompt">Nije moguće dodati kontakt, jer nema imena</string>

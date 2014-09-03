@@ -47,6 +47,10 @@ Korištenje više od planiranog ograničenja podataka vašeg davatelja usluga mo
   <string name="datausage_purchase_get_captcha_again">Pošalji novi kod</string>
   <string name="datausage_purchase_get_captcha_failed">"Nije bilo moguće dobiti kod za provjeru. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
   <string name="datausage_purchase_goto_monthsetting">Uredi detalje paketa</string>
+  <string name="datausage_purchase_none_history">Prazno</string>
+  <string name="datausage_purchase_order_failure">Kupnja nije uspjela</string>
+  <string name="datausage_purchase_order_failure_cause">Vaša kupnja nije uspjela zbog…</string>
+  <string name="datausage_purchase_order_history">Povijest</string>
   <string name="datausage_purchase_ordering">Plaćanje…</string>
   <string name="datausage_purchase_pay_captcha_hint">Unesite primljeni kod ovdje</string>
   <string name="datausage_purchase_pay_captcha_tips">Nakon što dobijete svoj ​​kôd za provjeru,unesite ga u okvir iznad i dodirnite \"Kupi\" kako bi dovršili kupnju. Imajte na umu da valjanost koda vrijedi samo za 10 minuta.</string>
@@ -59,6 +63,7 @@ Korištenje više od planiranog ograničenja podataka vašeg davatelja usluga mo
   <string name="datausage_purchase_result_failed">"Nije bilo moguće kupiti podatke. Provjerite kod svojeg davatelja usluga za više informacija o tom pitanju. "</string>
   <string name="datausage_purchase_result_ok">"Kupili ste %s
 Za više informacija provjerite poruku koju ste dobili od svog davatelja usluga"</string>
+  <string name="datausage_purchase_time_in">" na "</string>
   <string name="datausage_purchase_title_confirm">Pojedinosti o kupnji</string>
   <string name="datausage_purchase_title_order">Dodatne pojedinosti o kupnji</string>
   <string name="datausage_purchase_title_pkglist">Kupnja podataka</string>

@@ -34,7 +34,7 @@
   <string name="apn_settings">Nazivi pristupnih točaka</string>
   <string name="atr_disable">Obavijesti o prometu onemogućene</string>
   <string name="atr_enable">Obavijesti o prometu omogućene</string>
-  <string name="auth_username">AuthUserName</string>
+  <string name="auth_username">Autentikacija koris. imena</string>
   <string name="auth_username_summary">Korisničko ime korišteno za autentikaciju</string>
   <string name="auth_username_title">Autentikacija korisničkog imena</string>
   <string name="auto_answer_delay_entries_delay_10s">10 sek.</string>
@@ -94,6 +94,9 @@
   <string name="call_record_auto_whitelist_no_item">Dodajte broj dodirivanjem tipke +</string>
   <string name="call_record_auto_whitelist_summary">%d brojeva</string>
   <string name="call_record_auto_whitelist_summary_for_one">1 broj</string>
+  <string name="call_record_off_summary">Auto, snimanje onemogućeno</string>
+  <string name="call_record_on_summary">Auto. snimanje omogućeno</string>
+  <string name="call_record_setting">Posatvke Auto. snimanja</string>
   <string name="call_record_whitelist_custom">Prilagođeni popis</string>
   <string name="call_recording_notification_message">Dodirnite za prikaz %s.</string>
   <string name="call_recording_notification_message_low_storage">Snimanje je zaustavljeno: Nema dovoljno prostora.</string>
@@ -105,7 +108,7 @@
   <string name="call_remove_exception_numbers_confirm">%d brojeva će biti izbrisano.</string>
   <string name="call_settings">Postavke poziva</string>
   <string name="call_settings_category">Poziv</string>
-  <string name="call_type">CallType</string>
+  <string name="call_type">Vrsta poziva</string>
   <string name="call_waiting_summary">Tijekom razgovora, obavijesti me o dolaznim pozivima</string>
   <string name="call_waiting_title">Poziv na čekanju</string>
   <string name="call_waiting_tone_continuously">Reproduciraj zvuk obavijesti kontinuirano</string>
@@ -147,7 +150,7 @@
   <string name="cdma_display_precise_call_state_title">Prikaži status poziva</string>
   <string name="cdma_lte_data_service">Postavljanje podatkovne usluge</string>
   <string name="cdma_options">CDMA opcije</string>
-  <string name="cdma_subscription_dialogtitle">pretplata</string>
+  <string name="cdma_subscription_dialogtitle">Pretplata</string>
   <string name="cdma_subscription_summary">Izmjenjivanje među RUIM/SIM i NV</string>
   <string name="cdma_subscription_title">CDMA pretplata</string>
   <string name="cdma_system_select_dialogtitle">Odabir sustava</string>
@@ -169,6 +172,7 @@
   <string name="clir_choices_show_number">Pokaži broj</string>
   <string name="close_dialog">U redu</string>
   <string name="close_profile">Zatvori</string>
+  <string name="cloud_antispam_title">Identificiraj nepoznate brojeve</string>
   <string name="command_error_fdn_failure">Morate prvo isključiti FDN</string>
   <string name="config_dialing_emergency_number_suffix"/>
   <string name="confirm_password_label">Potvrdi novu zaporku</string>
@@ -322,6 +326,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="fw_get_in_vm_failed">"Dohvaćanje i spremanje trenutačnih postavki broja za prosljeđivanje nije uspjelo.
 Želite li se ipak prebaciti na novog davatelja usluge?"</string>
   <string name="general_news_settings">Opće vijesti</string>
+  <string name="general_setting">Postavke</string>
   <string name="get_pin2">Upišite PIN2</string>
   <string name="get_smsc_address_error">"Ne mogu se spojiti na mrežu. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
   <string name="get_smsc_address_timeout">Isteklo je vrijeme veze</string>
@@ -422,7 +427,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="mismatch_pin">"PIN-ovi koje ste unijeli se ne podudaraju. Pokušajte ponovo"</string>
   <string name="mismatch_pin2">Vaši unosi za PIN2 međusobno se ne podudaraju. Pokušajte ponovo.</string>
   <string name="missed_call_notify_five_times">5x</string>
-  <string name="missed_call_notify_none">bez podsjetnika</string>
+  <string name="missed_call_notify_none">Bez podsjetnika</string>
   <string name="missed_call_notify_once">1x</string>
   <string name="missed_call_notify_ten_times">10x</string>
   <string name="missed_call_notify_thrice">3x</string>
@@ -435,7 +440,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="multi_category_disable">Onemogućena je višestruka kategorija</string>
   <string name="multi_category_enable">Omogućena je višestruka kategorija</string>
   <string name="name">Ime</string>
-  <string name="name_hint_text">Ime.</string>
+  <string name="name_hint_text">Ime</string>
   <string name="national_disable">Nacionalne vijesti su onemogućene</string>
   <string name="national_enable">Omogućene su nacionalne vijesti</string>
   <string name="network_forbidden">%s (zabranjeno)</string>
@@ -507,7 +512,7 @@ To može potrajati do 5 minuta."</string>
   <string name="ota_progress">Pričekajte dok ne završi programiranje vašeg telefona.</string>
   <string name="ota_skip_activation_dialog_message">Ako preskočite aktivaciju, ne možete pozivati niti se povezivati na mobilne podatkovne mreže (premda se možete prijaviti na Wi-Fi mreže).Sve dok ne aktivirate telefon prikazivat će se upit za aktiviranje kod svakog prijavljivanja.</string>
   <string name="ota_skip_activation_dialog_skip_label">Preskoči</string>
-  <string name="ota_skip_activation_dialog_title">Preskoči aktivaciju?</string>
+  <string name="ota_skip_activation_dialog_title">Preskočiti aktivaciju?</string>
   <string name="ota_spc_failure">KVAR PRETJERANOG SPC-a</string>
   <string name="ota_speaker">Zvučnik</string>
   <string name="ota_successful">Vaš telefon nije aktiviran. Pokretanje usluge može potrajati i do 15 minuta.</string>
@@ -560,7 +565,16 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="pocket_mode_title">Spriječite džepna biranja</string>
   <string name="port">Port</string>
   <string name="port_title">Port</string>
+  <string name="preference_auto_ip_summary_disable">Onemogućeno</string>
   <string name="preference_category_ringtone">Melodija zvona &amp; Vibracija</string>
+  <string name="preference_dial_pad_touch_tone_default">Zadano</string>
+  <string name="preference_dial_pad_touch_tone_piano">Klavir</string>
+  <string name="preference_dial_pad_touch_tone_title">Tonovi biranja</string>
+  <string name="preference_telocation_summary_countrycode_off">"Ne biraj auto. pozivni broj zemlje"</string>
+  <string name="preference_telocation_summary_countrycode_on">Auto. biraj pozivni broj zemlje</string>
+  <string name="preference_telocation_summary_teloc_off">Sakrij lokaciju kontakta</string>
+  <string name="preference_telocation_summary_teloc_on">Prikaži lokaciju kontakta</string>
+  <string name="preference_telocation_title">Lokacija</string>
   <string name="preferred_network_mode_dialogtitle">Željena vrsta mreže</string>
   <string name="preferred_network_mode_summary">Promijenite način rada mreže</string>
   <string name="preferred_network_mode_title">Željena vrsta mreže</string>
@@ -576,12 +590,12 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="preferred_network_type_title">Željeni tip mreže</string>
   <string name="primary_account_summary_with">Primarni račun. %s</string>
   <string name="private_num">Privatni broj</string>
-  <string name="proceed">Proceed</string>
+  <string name="proceed">Nastavi</string>
   <string name="progress_dialog_exiting_ecm">Izlaz iz načina hitnog povratnog poziva</string>
   <string name="proxy_address">ProxyAddress</string>
   <string name="proxy_address_title">Odlazna proxy adresa</string>
   <string name="pstn_phone">Poziv mobitelom</string>
-  <string name="puk2_label">Unesite PUK2 kod</string>
+  <string name="puk2_label">Unesite PUK 2 kod</string>
   <string name="puk_label">Unesite PUK kod</string>
   <string name="puk_lock_warning">"
 Vaša SIM kartica bit će izbrisani nakon još jednog neuspjelog pokušaja."</string>
@@ -665,14 +679,14 @@ Vaša SIM kartica bit će izbrisani nakon još jednog neuspjelog pokušaja."</st
   <string name="save">Spremi</string>
   <string name="saving_account">Spremanje računa…</string>
   <string name="search_networks">Pretraži mreže</string>
-  <string name="selectContact">odabir kontakta</string>
+  <string name="selectContact">Odabir kontakta</string>
   <string name="select_automatically">Odaberi automatski</string>
-  <string name="select_voice_call_sim">odaberite</string>
+  <string name="select_voice_call_sim">Odaberi</string>
   <string name="sendSms">Pošalji SMS</string>
   <string name="send_button">Pošalji</string>
   <string name="send_keepalive">SendKeepAlive</string>
   <string name="send_keepalive_title">Pošalji postavke keep-alive</string>
-  <string name="set_primary">SetPrimary</string>
+  <string name="set_primary">Postavi primarno</string>
   <string name="set_primary_summary">Upotrebljava se za odlazne pozive</string>
   <string name="set_primary_title">Postavi kao primarni račun</string>
   <string name="set_smsc_address_error">Nije uspjelo postavljanje broja</string>
@@ -780,6 +794,7 @@ Vaša SIM kartica bit će izbrisani nakon još jednog neuspjelog pokušaja."</st
   <string name="telocation_number_type_tel">Fiksni</string>
   <string name="telocation_setting">Postavke lokcije</string>
   <string name="telocation_show_settings">Postavke zaslona</string>
+  <string name="telephony_setting">Postavke poziva</string>
   <string name="third_party_account_summary">Ovaj račun trenutačno upotrebljava aplikacija %s.</string>
   <string name="throttle_current_usage">Podaci korišteni za trenutačno razdoblje</string>
   <string name="throttle_help">Saznajte više</string>

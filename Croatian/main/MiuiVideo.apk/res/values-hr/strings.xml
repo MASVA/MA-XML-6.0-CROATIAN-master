@@ -1,12 +1,11 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_app_name">Video Player</string>
-  <string name="about_developer_label">Developer</string>
-  <string name="about_developer_name">Xiaomi Inc.</string>
   <string name="about_title">O aplikaciji</string>
   <string name="about_version">1.0.1</string>
   <string name="about_version_label">Verzija koda</string>
   <string name="actor_colon">Uloge:</string>
+  <string name="ad_moredetail">Više detalja</string>
   <string name="add_favorite_success">Označeno</string>
   <string name="add_more_addons">Dodaj još dodataka</string>
   <string name="addon">" dodataka"</string>
@@ -19,10 +18,9 @@
   <string name="adjust_position_next_media_notice">Dalje</string>
   <string name="adjust_position_prev_media_notice">Zadnje</string>
   <string name="airkan_control_device_des">Upravljanje vršite pomoću tipki u donjem dijelu ekrana</string>
-  <string name="airkan_device_xiaomi_phone">Mi Telefon</string>
-  <string name="airkan_tips">Dodirnite za gldanje videozapisa na TV-u</string>
-  <string name="airkan_video_playing">Reprodukcija</string>
-  <string name="airkan_video_playing_in">"Video je "</string>
+  <string name="airkan_device_xiaomi_phone">Xiaomi</string>
+  <string name="airkan_tips">Dodirnite za gledanje videozapisa na TV-u</string>
+  <string name="airkan_video_playing_in">Video je </string>
   <string name="all">Sve</string>
   <string name="all_comment">Svi komentari</string>
   <string name="all_ep">Sve epizode</string>
@@ -150,14 +148,8 @@
   <string name="manage">Upravljanje</string>
   <string name="manage_offline_media">Upravljanje preuzimanja</string>
   <string name="media_name_comment">%s komentara</string>
-  <string name="menu_item_about_label">O aplikaciji</string>
-  <string name="menu_item_disable_3d_mode">Onemogući 3D</string>
   <string name="menu_item_disable_audio_enhance">Onemogući poboljšanje zvuka</string>
-  <string name="menu_item_enable_3d_mode">Omogući 3D</string>
   <string name="menu_item_enable_audio_enhance">Omogući poboljšanje zvuka</string>
-  <string name="menu_item_orientation_auto_sensor_action">Automatska rotacija</string>
-  <string name="menu_item_orientation_fixed_by_videosize_action">Fiksna orijentacija zaslona</string>
-  <string name="menu_item_sub_title">Titlovi</string>
   <string name="mipush_setting">Xiaomi push</string>
   <string name="month">Mjesec</string>
   <string name="more">Više</string>
@@ -172,9 +164,9 @@
   <string name="no_login_xiaomi_account">Prijavite se na vaš Xiaomi račun radi slanja komentara.</string>
   <string name="no_longer_tips">"Ne prikazuj ponovo"</string>
   <string name="not_login">Niste prijavljeni</string>
-  <string name="nowifi_alert_dialog_continue">Nastavi</string>
+  <string name="nowifi_alert_dialog_continue">Shvaćam</string>
   <string name="nowifi_alert_dialog_exit">Izađi</string>
-  <string name="nowifi_alert_dialog_message">Koristite mobilne podatke za prijenos videa, želite li nastaviti?</string>
+  <string name="nowifi_alert_dialog_message">Korištenje vaše mobilne podatkovne veze za streaming videa će povećati upotrebu podataka. Prekoračenja propisane uporabe podataka vašeg operatera više od planiranog može dovesti do velikih dodatnih troškova</string>
   <string name="nowifi_alert_dialog_title">Upozorenje uporabe podataka</string>
   <string name="offline">Izvanmrežno</string>
   <string name="offline_alert_title">Uporaba podataka</string>
@@ -197,6 +189,7 @@
   <string name="positive_comment">Pozitivno</string>
   <string name="pps">PPS</string>
   <string name="pptv">PPTV</string>
+  <string name="prefix_countdown">Preostalo reklama:</string>
   <string name="qiyi">iQiyi</string>
   <string name="rank">Poredak</string>
   <string name="receive_mipush">Primaj xiaomi push</string>
@@ -236,6 +229,7 @@
   <string name="star4">****</string>
   <string name="star5">*****</string>
   <string name="start_addon">Pokreni dodatke</string>
+  <string name="suffix_countdown">sek.</string>
   <string name="temp_play_history_button_label">Povijest</string>
   <string name="tencent">Tencent</string>
   <string name="time_colon">"Datum: "</string>
@@ -245,7 +239,6 @@
   <string name="toast_message_continue_play_hour">"sati "</string>
   <string name="toast_message_continue_play_minute">"minuta "</string>
   <string name="toast_message_continue_play_second_and_play">s</string>
-  <string name="toast_message_set_misound">Postavljanje zvuka…</string>
   <string name="today">"Danas "</string>
   <string name="top_status_local_media">Lokalni medij</string>
   <string name="top_status_online_media">Internet medij</string>
@@ -269,7 +262,7 @@
   <string name="video_info_audio_null">Nedostupno</string>
   <string name="video_info_frame_rate_label">Slika u sekundi:</string>
   <string name="video_info_length_label">Trajanje:</string>
-  <string name="video_info_resolution_label">Rezolucija:</string>
+  <string name="video_info_resolution_label">Rezolucija videa:</string>
   <string name="video_info_video_coding_label">Format kodiranja video zapisa:</string>
   <string name="vp_VideoView_error_button">U redu</string>
   <string name="vp_VideoView_error_network_not_available">"Ne mogu se spojiti na mrežu"</string>
@@ -282,10 +275,9 @@
   <string name="vp_back">Natrag</string>
   <string name="vp_content_description">Opis sadržaja</string>
   <string name="vp_device_list">Uređaji</string>
-  <string name="vp_error_get_play_url_back_to_continue">"Ne mogu pronaći URL za ovaj videozapis."</string>
   <string name="vp_exit">Izlaz</string>
   <string name="vp_full_high_definition">1080P</string>
-  <string name="vp_full_screen">Reproduciraj u punom zaslon</string>
+  <string name="vp_full_screen">Reproduciraj u punom zaslonu</string>
   <string name="vp_function">Postavke</string>
   <string name="vp_get_url_error">"Ne mogu pronaći URL za ovaj videozapis."</string>
   <string name="vp_hide_media_info">Sakrij detalje videozapisa</string>
@@ -294,6 +286,7 @@
   <string name="vp_media_info">Prikaži detalje videozapisa</string>
   <string name="vp_milink">MiLink</string>
   <string name="vp_next_ci">Dalje</string>
+  <string name="vp_newest_ep">Najnovije</string>
   <string name="vp_offline">Izvanmrežno</string>
   <string name="vp_scale_screen">Prebaci omjer</string>
   <string name="vp_screen_shot">Snimi</string>

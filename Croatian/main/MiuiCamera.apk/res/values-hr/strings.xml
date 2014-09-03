@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_sd_fail">"Ne mogu pristupiti USB pohrani."</string>
-  <string name="accessibilit_camera_video_switch_picker_and_state">Prebaci fotoaparat i video (trenutno koristite %s)</string>
+  <string name="accessibilit_camera_video_switch_picker_and_state">Birač fotoaparat/video (trenutno koristite %s)</string>
   <string name="accessibility_camera_auto_flashmode">Autom. bljeskalica</string>
   <string name="accessibility_camera_flash_closemode">Bez bljeskalice</string>
   <string name="accessibility_camera_flashmode">Uvijek bljeskalica</string>
@@ -45,7 +45,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="confirm_change_mode_title">Način prebacivanja</string>
   <string name="confirm_change_to_expert_mode_message">Prebaciti na profesionalan način?</string>
   <string name="confirm_change_to_simple_mode_message">Prebaciti na jednostavan način?</string>
-  <string name="confirm_location_message">Želite li spremiti detalje lokacije u vašim fotografijama??</string>
+  <string name="confirm_location_message">Dodati vašim fotografijama oznake lokacija na kojima su snimljeni?</string>
   <string name="confirm_restore_message">Obnoviti na zadane postavke Fotoaparata?</string>
   <string name="confirm_restore_title">Obnovi na zadano</string>
   <string name="connect_wifi">Poveži se na ovu WLAN mrežu</string>
@@ -96,7 +96,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="error_app_unsupported_hfr_720p">720P može podržati do 90FPS</string>
   <string name="error_app_unsupported_hfr_codec">Samo H264 video enkodiranje nije podržano kada je HFR UKLJUČEN</string>
   <string name="error_app_unsupported_raw_wavelet">Uklanjanje šuma neće imati učinka pri snimanju RAW fotografija</string>
-  <string name="error_fail_to_start_audio_capture">Nije uspjelo pokrentanje snimanje zvuka.</string>
+  <string name="error_fail_to_start_audio_capture">Nije uspjelo pokretanje snimanja zvuka.</string>
   <string name="exposure_time">Vrijeme ekspozicije</string>
   <string name="face_analyze_info">%1$s %2$s godina</string>
   <string name="face_analyze_info_female">Žena</string>
@@ -147,7 +147,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="hdr_exit_button_text">Napusti HDR način</string>
   <string name="height">Visina</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
-  <string name="Import">Uvoz</string>
+  <string name="Import">Uvezi</string>
   <string name="import_complete">Uvoz završen</string>
   <string name="import_contact">Uvezi kontakt</string>
   <string name="import_fail">Uvoz neuspješan</string>
@@ -260,6 +260,8 @@ panoramske fotografije.</string>
   <string name="pref_camera_exposuretime_entry_8">1/8s</string>
   <string name="pref_camera_exposuretime_entry_auto">Auto</string>
   <string name="pref_camera_exposuretime_title">Vrijeme ekspozicije</string>
+  <string name="pref_camera_facedetection_default">true</string>
+  <string name="pref_camera_facedetection_title">Prepoznavanje lica</string>
   <string name="pref_camera_flashmode_default">auto</string>
   <string name="pref_camera_flashmode_entry_auto">Automatski</string>
   <string name="pref_camera_flashmode_entry_off">Isključeno</string>
@@ -422,7 +424,6 @@ panoramske fotografije.</string>
   <string name="pref_camera_show_gender_age_entry_off">Isključeno</string>
   <string name="pref_camera_show_gender_age_entry_on">Uključeno</string>
   <string name="pref_camera_show_gender_age_title">Prikaži godine</string>
-  <string name="pref_camera_skin_beautify_default">isklj.</string>
   <string name="pref_camera_skinToneEnhancement_default">onemogući</string>
   <string name="pref_camera_skinToneEnhancement_entry_auto">Automatsko poboljšanje</string>
   <string name="pref_camera_skinToneEnhancement_entry_disable">Onemogući</string>
@@ -431,9 +432,10 @@ panoramske fotografije.</string>
   <string name="pref_camera_skinToneEnhancement_value_auto">auto</string>
   <string name="pref_camera_skinToneEnhancement_value_disable">onemogući</string>
   <string name="pref_camera_skinToneEnhancement_value_enable">omogući</string>
-  <string name="pref_camera_sound_entry_on">Uključeno</string>
-  <string name="pref_camera_sound_title">Zvukovi Fotoaparata</string>
+  <string name="pref_camera_skin_beautify_default">Isključeno</string>
   <string name="pref_camera_sound_entry_off">Isključeno</string>
+  <string name="pref_camera_sound_entry_on">Uključeno</string>
+  <string name="pref_camera_sound_title">Zvukovi fotoaparata</string>
   <string name="pref_camera_touchafaec_default">dodir-uklj.</string>
   <string name="pref_camera_touchafaec_entry_off">Isključeno</string>
   <string name="pref_camera_touchafaec_entry_on">Uključeno</string>
@@ -485,7 +487,7 @@ panoramske fotografije.</string>
   <string name="pref_exposure_title">Ekspozicija</string>
   <string name="pref_face_beauty_default">i:0</string>
   <string name="pref_face_beauty_title">Nijanse kože</string>
-  <string name="pref_front_mirror_title">Mirror front camera</string>
+  <string name="pref_front_mirror_title">Zrcalna prednja kamera</string>
   <string name="pref_grp_advanced_settings">Napredne postavke</string>
   <string name="pref_grp_capture_settings">Postavke snimanja</string>
   <string name="pref_grp_picture_settings">Postavke slike</string>
@@ -495,13 +497,9 @@ panoramske fotografije.</string>
   <string name="pref_mtk_camera_saturation_default">srednje</string>
   <string name="pref_mtk_camera_sharpness_default">srednje</string>
   <string name="pref_mtk_video_quality_default">10</string>
-  <string name="pref_priority_storage_title">Prioritet je spremanje na vanjsku SD karticu</string>
+  <string name="pref_priority_storage_title">Spremi na vanjsku SD karticu</string>
   <string name="pref_scan_qrcode_default">uklj.</string>
-  <string name="pref_scan_qrcode_entry_off">Isključeno</string>
-  <string name="pref_scan_qrcode_entry_on">Uključeno</string>
   <string name="pref_scan_qrcode_title">Skeniraj QR kod</string>
-  <string name="pref_scan_qrcode_value_off">isklj.</string>
-  <string name="pref_scan_qrcode_value_on">uklj.</string>
   <string name="pref_setting_title">Postavke</string>
   <string name="pref_settings_mode">Način rada kamere</string>
   <string name="pref_video_captrue_ability_title">Sposobnost Snimanja</string>
@@ -520,13 +518,12 @@ panoramske fotografije.</string>
   <string name="pref_video_quality_entry_wvga">WVGA</string>
   <string name="pref_video_quality_pad_default">6</string>
   <string name="pref_video_quality_title">Kvaliteta videozapisa</string>
-  <string name="pref_video_slow_speed_title_simple_mode">Brzo gibanje</string>
   <string name="pref_video_speed_default">normalno</string>
   <string name="pref_video_speed_entry_fast">Brzo</string>
   <string name="pref_video_speed_entry_normal">Normalno</string>
   <string name="pref_video_speed_entry_slow">Sporo</string>
-  <string name="pref_video_speed_fast_title">Brzo</string>
-  <string name="pref_video_speed_slow_title">Sporo</string>
+  <string name="pref_video_speed_fast_title">Brzo-gibanje</string>
+  <string name="pref_video_speed_slow_title">Sporo-gibanje</string>
   <string name="pref_video_speed_title">Brzina Snimanja videa</string>
   <string name="pref_video_speed_value_fast">brzo</string>
   <string name="pref_video_speed_value_normal">normalno</string>
@@ -579,14 +576,15 @@ panoramske fotografije.</string>
   <string name="show_images_only">Samo slike</string>
   <string name="show_on_map">Prikaži na mapi</string>
   <string name="show_videos_only">Samo videozapisi</string>
-  <string name="simple_mode_button_text_audio_capture">Isključi snimanje zvuka</string>
-  <string name="simple_mode_button_text_color_effect">Isključi filter</string>
-  <string name="simple_mode_button_text_countdown">Isključi odbrojavanje</string>
-  <string name="simple_mode_button_text_face_beauty">Isključi poboljšanje lica</string>
-  <string name="simple_mode_button_text_hand_night">Isključi HHT</string>
-  <string name="simple_mode_button_text_hdr">Isključi HDR način</string>
-  <string name="simple_mode_button_text_panorama">Isključi panoramu</string>
-  <string name="simple_mode_button_text_slow_video">Isključi kameru brzog gibanja</string>
+  <string name="simple_mode_button_text_audio_capture">Zatvori snimanje zvuka</string>
+  <string name="simple_mode_button_text_color_effect">Zatvori filter</string>
+  <string name="simple_mode_button_text_countdown">Zatvori odbrojavanje</string>
+  <string name="simple_mode_button_text_face_beauty">Zatvori poboljšanje lica</string>
+  <string name="simple_mode_button_text_fast_video">Zatvori sporo-gibanje kameru</string>
+  <string name="simple_mode_button_text_hand_night">Zatvori HHT</string>
+  <string name="simple_mode_button_text_hdr">Zatvori HDR način</string>
+  <string name="simple_mode_button_text_panorama">Zatvori panoramu</string>
+  <string name="simple_mode_button_text_slow_video">Zatvori kameru brzog gibanja</string>
   <string name="simple_mode_title">Jednostavan način</string>
   <string name="slideshow">Dijaprojekcija</string>
   <string name="snapshot_lower_than_video">Veličina pregledane snimke manja od veličine videozapisa. Prekrivanje na veličinu videozapisa. Odaberite razlučivost višu ili jednaku trenutnoj veličini videozapisa.</string>

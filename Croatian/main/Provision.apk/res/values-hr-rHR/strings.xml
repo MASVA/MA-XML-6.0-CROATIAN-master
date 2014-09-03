@@ -2,7 +2,7 @@
 <resources>
   <string name="congratulation_label">Uživajte u svom ​​novom telefonu :)</string>
   <string name="congratulation_next">Započnite koristiti MIUI</string>
-  <string name="input_method_category">"Odaberite zadani način unosa koje ćete koristiti prilikom pisanja poruka e-pošte, bilješki, i drugdje. Imajte na umu da možete instalirati druge tipkovnice kasnije"</string>
+  <string name="input_method_category">"Odaberite zadanu tipkovnicu koju ćete koristiti prilikom pisanja poruka e-pošte, bilješki, i svugdje drugdje. Također možete instalirati druge tipkovnice kasnije."</string>
   <string name="input_method_setting">Odaberite zadanu tipkovnicu</string>
   <string name="logo_congratulation">"Bravo. Sve ste postavili!"</string>
   <string name="multisim_settings_category">Poželjne SIM postavke</string>

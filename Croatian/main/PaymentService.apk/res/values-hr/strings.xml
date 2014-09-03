@@ -268,7 +268,7 @@ Informacije na broj: 400-100-5678 "</string>
   <string name="scan_prompt_password">Skeniraj %1$s zaporku prepaid kartice</string>
   <string name="scan_prompt_retry">Držite kôd mirno</string>
   <string name="scan_prompt_voucher">Skeniraj MiKredit zaporku</string>
-  <string name="security_setting">Sigurnosne postavke</string>
+  <string name="security_setting">Postavke</string>
   <string name="sms_code_error">Pogreška koda za ovjeru, pokušajte ponovno</string>
   <string name="sms_code_hint">Kod za ovjeru</string>
   <string name="summary_bind_phone">Da bi osigurali svoj korisnički račun, dovršite plaćanje nakon povezivanja broj telefona.</string>
