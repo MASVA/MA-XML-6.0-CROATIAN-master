@@ -80,7 +80,7 @@ Bit će spremljeni svi vaši prethodni korisnički podaci."</string>
   <string name="uninstall_done">Deinstalacija je završena</string>
   <string name="uninstall_failed">Deinstalacija nije uspjela</string>
   <string name="uninstall_failed_device_policy_manager">Deinstalacija nije moguća jer je ovaj paket aktivni administrator uređaja.</string>
-  <string name="uninstall_failed_msg">%Aplikaciju %1$s nije moguće deinstalirati.</string>
+  <string name="uninstall_failed_msg">Aplikaciju %1$s nije moguće deinstalirati.</string>
   <string name="uninstall_failed_retained_app_msg">"Ova je aplikacija izmijenjena i ne može se deinstalirati u svom sadašnjem obliku"</string>
   <string name="uninstall_update_text">Ova će aplikacija biti zamijenjena s tvorničkom verzijom.</string>
   <string name="uninstall_update_title">Deinstalacija ažuriranja</string>
