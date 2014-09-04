@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" ?> 
 <resources>
     <string-array name="weeks">
-        <item>Pon</item> 
-        <item>Uto</item> 
-        <item>Sri</item> 
-        <item>Čet</item> 
-        <item>Pet</item> 
-        <item>Sub</item> 
-        <item>Ned</item> 
+        <item>Pon.</item> 
+        <item>Uto.</item> 
+        <item>Sri.</item> 
+        <item>Čet.</item> 
+        <item>Pet.</item> 
+        <item>Sub.</item> 
+        <item>Ned.</item> 
      </string-array>
     <string-array name="weeks_short">
-        <item>Pon</item> 
-        <item>Uto</item> 
-        <item>Sri</item> 
-        <item>Čet</item> 
-        <item>Pet</item> 
-        <item>Sub</item> 
-        <item>Ned</item> 
+        <item>Pon.</item> 
+        <item>Uto.</item> 
+        <item>Sri.</item> 
+        <item>Čet.</item> 
+        <item>Pet.</item> 
+        <item>Sub.</item> 
+        <item>Ned.</item> 
     </string-array>
     <string-array name="months">
         <item>Siječanj</item> 
@@ -35,7 +35,7 @@
     <string-array name="select_days_simple">
         <item>Jednom</item>
         <item>Svakodnevno</item>
-        <item>Od Pon do Pet</item>
+        <item>Od Pon. do Pet.</item>
         <item>Prilagođeno</item>
     </string-array>
     <string-array name="fortune">

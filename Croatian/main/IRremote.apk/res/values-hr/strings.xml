@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MiRemote</string>
     <string name="action_settings">Postavke</string>
     <string name="add">Dodaj</string>
     <string name="add_device_match_desc_bottom">    3. Odaberite funkciju: %1$s</string>
@@ -22,10 +21,14 @@
     <string name="app_installing">Instalacija…</string>
     <string name="app_manager_get_data_failed">Nisam uspio dobiti popis instaliranih aplikacija</string>
     <string name="app_manager_no_data">Nema novih podataka</string>
+    <string name="app_name">MiRemote</string>
     <string name="app_open">Otvori</string>
+    <string name="app_open_inbox">Otvori u BOXE</string>
+    <string name="app_open_intv">Otvori u TV</string>
     <string name="app_size">Veličina: %1$s</string>
     <string name="app_uninstall">Deinstaliraj</string>
     <string name="app_update">Ažuriraj</string>
+    <string name="app_user_used">Koristi %1$s osoba</string>
     <string name="app_version">Verzija: V%1$s</string>
     <string name="brand_search_box_hint">Unesite uređaj koji želite dodati</string>
     <string name="brand_title_all">Sve</string>
@@ -38,6 +41,7 @@
     <string name="carrier_data">Operator</string>
     <string name="circlepad_slide_tips">Prstenom podesite glasnoću</string>
     <string name="confirm">Dopusti</string>
+    <string name="connected">Povezano</string>
     <string name="continue_to_add_other_rc">Dodaj još jedan uređaj</string>
     <string name="di"/>
     <string name="fail_add_controller_photo">Nije uspjelo dodavanje fotografije</string>
@@ -56,6 +60,8 @@
     <string name="history_title">Povijest</string>
     <string name="hot_apps">Aplikacije</string>
     <string name="hot_videos">Novosti</string>
+    <string name="input_complete">završeno</string>
+    <string name="input_speech_button">Pritisnite i držite</string>
     <string name="ir_device_add">Dodaj</string>
     <string name="ir_device_air_cleaner">Pročišćivač zraka</string>
     <string name="ir_device_air_condition">Klimatizacija</string>
@@ -73,6 +79,10 @@
     <string name="loading_get">Učitavanje…</string>
     <string name="loading_hint">Učitavanje…</string>
     <string name="loading_ir_data">Učitavanje…</string>
+    <string name="management_app_management">Upravljanje aplikacijom</string>
+    <string name="management_settings">Postavke</string>
+    <string name="management_video_favor">Povijest</string>
+    <string name="management_video_recent_watch">nedavno</string>
     <string name="match_brand_selection_des">Odabir marke: %1$s</string>
     <string name="match_data">Provjera podataka</string>
     <string name="match_fail_model_hint">Unesite model daljinskog upravljača</string>
@@ -87,14 +97,20 @@
     <string name="mi_rc">Xiaomi upravljač</string>
     <string name="mibox">MiBox</string>
     <string name="mitv">MiTV</string>
+    <string name="mitv_assistant_setting_version">Verzija V%1$s</string>
     <string name="no_data">Nema podataka</string>
     <string name="not_respond">Nemoj odgovoriti</string>
+    <string name="power">uklj/isklj</string>
+    <string name="privacy_agree">U redu</string>
+    <string name="privacy_content">Hoćete li koristiti naše usluge. Suglasni ste s Uvjetima korištenja i Pravila o privatnosti.</string>
+    <string name="privacy_disagree">Ne slažem se</string>
+    <string name="privacy_nohit">Više ne pitaj</string>
+    <string name="privacy_title">Pravila o privatnosti</string>
     <string name="projection_failed_for_disconnect">Nepovezano</string>
     <string name="rc">Daljinski upravljač</string>
     <string name="respond">Odgovori</string>
-    <string name="scaning">Pretraživanje uređaja…
+    <string name="scaning">Pretraživanje uređaja…</string>
 	
-Aplikacija samo za MI4</string>
     <string name="search_failed">Ne može se locirati</string>
     <string name="search_history_clear">Izbrisati povijest</string>
     <string name="search_history_empty">Nema povijesti</string>
@@ -129,9 +145,10 @@ Aplikacija samo za MI4</string>
     <string name="share_media_score">Ocjena:</string>
     <string name="share_title_share_to">Dijeljenje</string>
     <string name="share_title_to_mitalk">Dijeli</string>
-    <string name="share_title_to_mitalk_ellipsis">MiTalk</string>
+	<string name="share_title_to_mitalk_ellipsis">MiTalk</string>
     <string name="share_title_to_sina_weibo">Weibo</string>
     <string name="sorry">Žao nam je :(</string>
+    <string name="speech_init_failed">iFlytek aplikacija nije pronađena, želite li je instalirati?</string>
     <string name="splash_add_device_des">Dodajte svoj početni uređaj</string>
     <string name="splash_desc">Xiaomi telefon može zamijeniti vaš daljinski upravljač kod kuće.</string>
     <string name="stb">STB</string>
