@@ -280,6 +280,7 @@ dodajte datoteku i pokušajte ponoviti testiranje reprodukcije."</string>
   <string name="cit_usb_charger_out">USB punjač isključen</string>
   <string name="cit_version_check_summary">Pronađene su sljedeće verzije hardvera i softvera</string>
   <string name="cit_version_check_title">Verzija Testa</string>
+  <string name="cit_vga_camera_calibration">Kalibracija</string>
   <string name="cit_vga_camera_capture">Snimite fotografiju</string>
   <string name="cit_vga_camera_capture_fail">Neuspjelo snimanje fotografije</string>
   <string name="cit_vga_camera_delete">Izbriši fotografiju</string>

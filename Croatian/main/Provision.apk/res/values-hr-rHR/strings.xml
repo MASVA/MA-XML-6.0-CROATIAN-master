@@ -5,7 +5,7 @@
   <string name="input_method_category">"Odaberite zadanu tipkovnicu koju ćete koristiti prilikom pisanja poruka e-pošte, bilješki, i svugdje drugdje. Također možete instalirati druge tipkovnice kasnije."</string>
   <string name="input_method_setting">Odaberite zadanu tipkovnicu</string>
   <string name="logo_congratulation">"Bravo. Sve ste postavili!"</string>
-  <string name="multisim_settings_category">Poželjne SIM postavke</string>
+  <string name="multisim_settings_category">Postavke poželjne SIM kartice</string>
   <string name="multisim_settings_title">Otkrivene 2 SIM kartice</string>
   <string name="next">Dalje</string>
   <string name="other_settings">Dodatne postavke</string>
@@ -23,6 +23,6 @@
   <string name="sim_dectection_next">Nastavi</string>
   <string name="sim_redetection">Provjeravam ponovo SIM karticu</string>
   <string name="summary_not_set">Nije postavljeno</string>
-  <string name="summary_sim_card">Kartica %1$d%2$s</string>
+  <string name="summary_sim_card">Kartica%1$d%2$s</string>
   <string name="welcome">Dobrodošli u</string>
 </resources> 

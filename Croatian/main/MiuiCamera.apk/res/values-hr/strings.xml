@@ -206,6 +206,7 @@ panoramske fotografije.</string>
   <string name="pref_camera_antibanding_title">Smanjenje traka na zaslonu</string>
   <string name="pref_camera_audio_capture_title">Zvuk</string>
   <string name="pref_camera_audioencoder_default">aac</string>
+  <string name="pref_camera_auto_chroma_flash_title">Chroma Flash</string>
   <string name="pref_camera_auto_focus_title_entry_off">Isključeno</string>
   <string name="pref_camera_auto_focus_title_entry_on">Uključeno</string>
   <string name="pref_camera_autoexposure_default">center-weighted</string>
@@ -276,6 +277,7 @@ panoramske fotografije.</string>
   <string name="pref_camera_focusmode_entry_normal">Normalno</string>
   <string name="pref_camera_focusmode_title">Način izoštravanja</string>
   <string name="pref_camera_focusmode_value_default">kontinuirano-slika</string>
+  <string name="pref_camera_front_fb_title">Obogatite tonove kože</string>
   <string name="pref_camera_hand_night_title">HHT</string>
   <string name="pref_camera_hdr_title">HDR</string>
   <string name="pref_camera_hdr_type_entry_live">Uživo</string>
@@ -497,7 +499,7 @@ panoramske fotografije.</string>
   <string name="pref_mtk_camera_saturation_default">srednje</string>
   <string name="pref_mtk_camera_sharpness_default">srednje</string>
   <string name="pref_mtk_video_quality_default">10</string>
-  <string name="pref_priority_storage_title">Spremi na vanjsku SD karticu</string>
+  <string name="pref_priority_storage_title">Spremi na SD karticu</string>
   <string name="pref_scan_qrcode_default">uklj.</string>
   <string name="pref_scan_qrcode_title">Skeniraj QR kod</string>
   <string name="pref_setting_title">Postavke</string>
