@@ -7,16 +7,16 @@
   <string name="accessibility_camera_flashmode">Uvijek bljeskalica</string>
   <string name="accessibility_camera_picker">Sklopka prednje i stražnje kamere</string>
   <string name="accessibility_close_more_ptions">Onemogući više opcija</string>
-    <string name="accessibility_coloreffect_button">ColorEffectButton</string>
+  <string name="accessibility_coloreffect_button">ColorEffectButton</string>
   <string name="accessibility_ev_control">Balansiranje kontrole ekspozicije</string>
   <string name="accessibility_flash_mode_button">Bljeskalica</string>
-    <string name="accessibility_module_picker">ModulePicker</string>
+  <string name="accessibility_module_picker">ModulePicker</string>
   <string name="accessibility_more_ptions_closed">Više opcija onemogućene</string>
   <string name="accessibility_more_ptions_opened">Više opcija omogućene</string>
   <string name="accessibility_open_more_ptions">Omogući više opcija</string>
   <string name="accessibility_review_thumbnail">Najnovije fotografije</string>
   <string name="accessibility_scroll_button_slider">Foto/Video</string>
-    <string name="accessibility_setting_button">SettingButton</string>
+  <string name="accessibility_setting_button">SettingButton</string>
   <string name="accessibility_show_setting_panel_button">Postavke</string>
   <string name="accessibility_shutter_button">Tipka okidača</string>
   <string name="accessibility_skin_beautify_button">Poboljšavanje tona kože</string>
@@ -206,6 +206,7 @@ panoramske fotografije.</string>
   <string name="pref_camera_antibanding_title">Smanjenje traka na zaslonu</string>
   <string name="pref_camera_audio_capture_title">Zvuk</string>
   <string name="pref_camera_audioencoder_default">aac</string>
+  <string name="pref_camera_auto_capture_when_stable_title">Auto. snimi kad je stabilno</string>
   <string name="pref_camera_auto_chroma_flash_title">Chroma Flash</string>
   <string name="pref_camera_auto_focus_title_entry_off">Isključeno</string>
   <string name="pref_camera_auto_focus_title_entry_on">Uključeno</string>

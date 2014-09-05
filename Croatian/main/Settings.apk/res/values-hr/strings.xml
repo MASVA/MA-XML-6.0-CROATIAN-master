@@ -175,6 +175,7 @@ Onemogućiti plutajuće prozore?"</string>
   <string name="applications_settings_header">Postavke aplikacije</string>
   <string name="applications_settings_summary">Upravljanje aplikacijama, postavljanje prečaca za brzo pokretanje</string>
   <string name="apply_now_button_text">Ažuriraj</string>
+  <string name="apply_update_fail">Ažuriranje sustava nije uspjelo.</string>
   <string name="apps_with_restrictions_header">Aplikacije s ograničenjima</string>
   <string name="apps_with_restrictions_settings_button">Proširi postavke za aplikaciju</string>
   <string name="ask_compatibility">Pitaj pri pokretanju</string>
@@ -857,6 +858,7 @@ Onemogućiti plutajuće prozore?"</string>
   <string name="dolby_roomsize_summary">Postavke okružujućeg zvuka su dostupne samo za slušalice</string>
   <string name="dolby_roomsize_title">Okružujući zvuk:</string>
   <string name="done_button">"Gotovo"</string>
+  <string name="download_current_rom">Nabavite najnoviju MIUI verziju</string>
   <string name="downloading_description">Preuzimanje…</string>
   <string name="drive_mode">Automobilski način</string>
   <string name="drive_mode_auto_reply">Brzi odgovor</string>
@@ -1073,6 +1075,7 @@ Neke aplikacije neće raditi dok ih ne ažuriraju njihovi razvijatelji."</string
   <string name="install_applications">Nepoznati izvori</string>
   <string name="install_text">"Instaliraj"</string>
   <string name="install_unknown_applications">Dopustite instalaciju aplikacija iz nepoznatih izvora</string>
+  <string name="install_whole_rom">Preuzmi ROM (standard)</string>
   <string name="insufficient_storage">Nema dovoljno prostora za pohranu.</string>
   <string name="intent_sender_account_label">Račun:</string>
   <string name="intent_sender_action_label">Radnja:</string>
@@ -1113,8 +1116,9 @@ Neke aplikacije neće raditi dok ih ne ažuriraju njihovi razvijatelji."</string
   <string name="language_settings_category">Postavke jezika</string>
   <string name="large_font">Veliko</string>
   <string name="last_synced">Zadnja sinkronizacija: %1$s</string>
+  <string name="later">Kasnije</string>
   <string name="launch_count_label">Broj</string>
-  <string name="launcher_settings_title">MIUI Pokretač</string>
+  <string name="launcher_settings_title">Pokretač</string>
   <string name="launching_cit">Pokrećem cit, pričekajte.</string>
   <string name="launching_pho">Pokrećem podatke uređaja…</string>
   <string name="launching_rep">Slanje zapisa o pogrešci…</string>
@@ -1320,6 +1324,7 @@ Trenutno ste prijavljeni na sljedeće račune:
   <string name="menu_stats_total">Ukupno iskorištenje</string>
   <string name="menu_stats_unplugged">%1$s od isključivanja</string>
   <string name="menu_use_uss">Upotrijebi Uss</string>
+  <string name="mione_update_success_title">Ažuriranje je završeno</string>
   <string name="miracast_PC2THOR_streaming_on">Miracast je nedostupan jer PC streama na ovaj uređaj</string>
   <string name="miracast_cancelconnect_dialog">Odustani od povezivanja</string>
   <string name="miracast_connection_failed_generic">Veza nije bila uspješna</string>
@@ -1482,6 +1487,7 @@ i pokrenite ga."</string>
   <string name="notification_sound_dialog_title">Zadani zvuk obavijesti</string>
   <string name="notification_sound_title">Zadani zvuk obavijesti</string>
   <string name="notification_volume_title">Obavijest</string>
+  <string name="now">Sada</string>
   <string name="nsd_quick_toggle_summary">Dopusti aplikacijama na drugim uređajima otkrivanje aplikacija na ovom uređaju</string>
   <string name="nsd_quick_toggle_title">Otkrivanje mrežne usluge</string>
   <string name="oem_radio_info_label">Informacije/postavke koje se posebno odnose na OEM</string>
@@ -2387,6 +2393,7 @@ Riječ možete dodati dodirom na gumb Dodaj (+)"</string>
   <string name="vibrate_input_devices">Upotrijebi vibrator</string>
   <string name="vibrate_input_devices_summary">Preusmjeri vibrator na igrači kontroler kada su povezani.</string>
   <string name="vibrate_when_ringing_title">"Vibrira dok zvoni"</string>
+  <string name="view_install_log">Prikaži zapisnik grešaka</string>
   <string name="virus_scan">Skeniranje</string>
   <string name="virus_scan_app_continue">Nastavi skeniranje</string>
   <string name="virus_scan_app_find_risk">Pronađeno % d rizika</string>
