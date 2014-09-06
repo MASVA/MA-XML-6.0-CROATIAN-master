@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="action_baidusearch">Baidu Pretraživanje</string>
   <string name="action_capture_video">Videozapis</string>
   <string name="action_clear_call_list">Izbriši povijest poziva</string>
   <string name="action_clear_memory">Isprazni RAM</string>
@@ -131,6 +132,8 @@
   <string name="scan_fail">Skeniranje neuspjelo!</string>
   <string name="scan_result">Rezultati skeniranja</string>
   <string name="sdcard">SD kartica</string>
+  <string name="select_baidusearch">Baidu Pretraživanje</string>
+  <string name="select_baiduvoicesearch">Baidu glasovno pretraživanje</string>
   <string name="select_camera">Odaberi kameru</string>
   <string name="select_device">Odaberi uređaj</string>
   <string name="setting_buy">Kupi MiKey</string>
