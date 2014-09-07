@@ -296,7 +296,7 @@
   <string name="prefDefault_vibrate_false">nikad</string>
   <string name="prefDefault_vibrate_true">uvijek</string>
   <string name="pref_advanced_settings_title">Napredne postavke</string>
-  <string name="pref_collapse_sp_messages_summary">Kombinirana poruke davatelja usluga u istom ulazu</string>
+  <string name="pref_collapse_sp_messages_summary">Kombinirana poruka davatelja usluga u istom ulazu</string>
   <string name="pref_edit_smsc_address">Broj SMS centra</string>
   <string name="pref_forward_title">Proslijedi</string>
   <string name="pref_key_mx_feedback">Pošalji povratnu informaciju</string>

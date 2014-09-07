@@ -6,20 +6,14 @@
   { "mutex" : [ "com.xiaomi.miclick.core.action.TorchAction"],
     "groupId" : 1,
     "groupName" : "Aplikacija",
-    "name" : "com.xiaomi.miclick.core.action.CapturePhotoAction",
+    "name" : "com.xiaomi.miclick.core.action.CapturePhotoInstantAction",
     "sortId" : 2
   },
   { "mutex" : [ "com.xiaomi.miclick.core.action.TorchAction"],
     "groupId" : 1,
     "groupName" : "Aplikacija",
-    "name" : "com.xiaomi.miclick.core.action.CapturePhotoInstantAction",
+    "name" : "com.xiaomi.miclick.core.action.CapturePhotoAction",
     "sortId" : 3
-  },
-  { "mutex" : [ "com.xiaomi.miclick.core.action.TorchAction"],
-    "groupId" : 1,
-    "groupName" : "Aplikacija",
-    "name" : "com.xiaomi.miclick.core.action.VideoRecorderAction",
-    "sortId" : 4
   },
   { "mutex" : [ "com.xiaomi.miclick.core.action.Camera360CaptureAction",
             "com.xiaomi.miclick.core.action.CapturePhotoInstantAction",
@@ -30,23 +24,35 @@
     "groupId" : 1,
     "groupName" : "Aplikacija",
     "name" : "com.xiaomi.miclick.core.action.TorchAction",
-    "sortId" : 5
+    "sortId" : 4
   },
   { "groupId" : 1,
     "groupName" : "Aplikacija",
     "name" : "com.xiaomi.miclick.core.action.AudioRecorderAction",
+    "sortId" : 5
+  },
+  { "mutex" : [ "com.xiaomi.miclick.core.action.TorchAction"],
+    "groupId" : 1,
+    "groupName" : "Aplikacija",
+    "name" : "com.xiaomi.miclick.core.action.QrcodeAction",
     "sortId" : 6
+  },
+  { "mutex" : [ "com.xiaomi.miclick.core.action.BaiduSearchAction"],
+    "groupId" : 1,
+    "groupName" : "Aplikacija",
+    "name" : "com.xiaomi.miclick.core.action.BaiduSearchAction",
+    "sortId" : 7
   },
   { "groupId" : 1,
         "groupName" : "Aplikacija",
         "name" : "com.xiaomi.miclick.core.action.KuaidiAction",
-        "sortId" : 7
+        "sortId" : 8
     },
   { "mutex" : [ "com.xiaomi.miclick.core.action.TorchAction"],
     "groupId" : 1,
     "groupName" : "Aplikacija",
     "name" : "com.xiaomi.miclick.core.action.Camera360CaptureAction",
-    "sortId" : 7
+    "sortId" : 9
   },
   { "dependence" : [ "com.xiaomi.miclick.core.action.Camera360CaptureAction",
         "com.xiaomi.miclick.core.action.CapturePhotoInstantAction",
@@ -55,48 +61,48 @@
     "groupId" : 1,
     "groupName" : "Aplikacija",
     "name" : "com.xiaomi.miclick.core.action.Camera360EditAction",
-    "sortId" : 8
-  },
-  { "mutex" : [ "com.xiaomi.miclick.core.action.TorchAction"],
-    "groupId" : 1,
-    "groupName" : "Aplikacija",
-    "name" : "com.xiaomi.miclick.core.action.QrcodeAction",
-    "sortId" : 9
-  },
-  { "groupId" : 1,
-    "groupName" : "Aplikacija",
-    "name" : "com.xiaomi.miclick.core.action.MiliaoComposeShareAction",
     "sortId" : 10
   },
   { "groupId" : 1,
     "groupName" : "Aplikacija",
-    "name" : "com.xiaomi.miclick.core.action.WeChatFriendShareAction",
+    "name" : "com.xiaomi.miclick.core.action.MiliaoComposeShareAction",
     "sortId" : 11
   },
   { "groupId" : 1,
     "groupName" : "Aplikacija",
-    "name" : "com.xiaomi.miclick.core.action.WeChatTimeLineShareAction",
+    "name" : "com.xiaomi.miclick.core.action.WeChatFriendShareAction",
     "sortId" : 12
   },
   { "groupId" : 1,
     "groupName" : "Aplikacija",
-    "name" : "com.xiaomi.miclick.core.action.WeiboShareAction",
+    "name" : "com.xiaomi.miclick.core.action.WeChatTimeLineShareAction",
     "sortId" : 13
   },
   { "groupId" : 1,
     "groupName" : "Aplikacija",
-    "name" : "com.xiaomi.miclick.core.action.CallAction",
+    "name" : "com.xiaomi.miclick.core.action.WeiboShareAction",
     "sortId" : 14
   },
   { "groupId" : 1,
     "groupName" : "Aplikacija",
-    "name" : "com.xiaomi.miclick.core.action.SMSAction",
+    "name" : "com.xiaomi.miclick.core.action.CallAction",
     "sortId" : 15
   },
   { "groupId" : 1,
     "groupName" : "Aplikacija",
+    "name" : "com.xiaomi.miclick.core.action.SMSAction",
+    "sortId" : 16
+  }, 
+  { "mutex" : [ "com.xiaomi.miclick.core.action.TorchAction"],
+    "groupId" : 1,
+    "groupName" : "Aplikacija",
+    "name" : "com.xiaomi.miclick.core.action.VideoRecorderAction",
+    "sortId" : 17
+  },
+  { "groupId" : 1,
+    "groupName" : "Aplikacija",
     "name" : "com.xiaomi.miclick.core.action.OpenAppAction",
-    "sortId" : 15
+    "sortId" : 18
   },
   { "groupId" : 2,
     "groupName" : "Sustav",
