@@ -2,6 +2,10 @@
  <resources>
     <plurals name="toast_channel_searched">
         <item quantity="other">Skenirano: %1$d</item>
+        <item quantity="zero">Skenirano: %1$d</item>
         <item quantity="one">Skenirano: 1</item>
+        <item quantity="two">Skenirano: %1$d</item>
+        <item quantity="few">Skenirano: %1$d</item>
+        <item quantity="many">Skenirano: %1$d</item>
     </plurals>
  </resources>

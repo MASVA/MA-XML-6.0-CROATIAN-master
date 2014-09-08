@@ -43,6 +43,7 @@
   <string name="fm_cmd_failed_msg_hdmi">"Korištenje FM-a i HDMI-a trenutno nije podržano."</string>
   <string name="fm_command_failed_title">Radnja nije uspjela</string>
   <string name="fm_command_timeout_title">Isteklo je vrijeme odziva</string>
+  <string name="fm_has_turned_off">FM Radio je isključen</string>
   <string name="fm_tune_timeout_msg">Pokušajte ponovo pokrenuti Radio da vidite da li problem i dalje postoji.</string>
   <string name="fmradio_clear_confirm_msg">Sve mem.postaje će biti izbrisane.</string>
   <string name="fmtx_autoselect_name">Sve mem.postaje će biti izbrisane.</string>
@@ -61,6 +62,7 @@
   <string name="menu_delete">Izbrisati</string>
   <string name="menu_edit">Uredi</string>
   <string name="menu_exit">Zatvori</string>
+  <string name="menu_headset">Prebaci na slušalice</string>
   <string name="menu_new_station">Dodaj novu postaju</string>
   <string name="menu_play">Reproduciraj</string>
   <string name="menu_record_list">Snimke</string>
@@ -135,7 +137,6 @@
   <string name="title_select_station">Odabir postaje - %s</string>
   <string name="toast_added_to_list">Dodano na popis postaja</string>
   <string name="toast_added_to_presets">Dodano u memorirane postaje</string>
-  <string name="toast_channel_searched">Skenirano %1$d postaja</string>
   <string name="toast_delete_station">%s MHz izbrisan</string>
   <string name="toast_edit_station">Uspješno spremljen</string>
   <string name="toast_fm_error_startfailed">Snimanje nije uspjelo, druga aplikacija koristiti funkciju snimanja. Provjerite i pokušajte ponovo.</string>
@@ -144,7 +145,6 @@
   <string name="toast_fm_recorder_internal_error">Greška snimanja FM-a.</string>
   <string name="toast_fm_recorder_storage_full">Ne može se nastaviti snimanje: Nema dovoljno prostora za pohranu</string>
   <string name="toast_fm_scaning">Skeniranje…</string>
-  <string name="toast_fm_seeking">Traženje…</string>
   <string name="toast_fm_starting">Pokretanje…</string>
   <string name="toast_fm_stoping">Zaustavljanje…</string>
   <string name="toast_removed_from_presets">Uklonjeno iz memoriranih</string>
@@ -156,6 +156,8 @@
   <string name="turn_off_speaker_phone">Isključiti zvučnik</string>
   <string name="turn_on_fm">Uključiti FM</string>
   <string name="turn_on_speaker_phone">Uključiti zvučnik</string>
+  <string name="txt_divider">" | "</string>
+  <string name="txt_sleep_mode">Mirovanje</string>
   <string name="type_rd"/>
   <string name="view_stations_list">Prikaži popis postaja</string>
 </resources>

@@ -105,8 +105,8 @@
   <string name="bugreport_message">Time će se prikupiti podaci o trenutačnom stanju vašeg uređaja koje ćete nam poslati u e-poruci. Za pripremu izvješća o bugu potrebno je nešto vremena pa vas molimo za strpljenje.</string>
   <string name="bugreport_title">Izradi izvješće o bugu</string>
   <string name="byteShort">B</string>
-  <string name="cancel">Zrušiť</string>
-  <string name="candidates_style">&lt;u&gt;kandid&amp;#225;ti&lt;/u&gt;</string>
+  <string name="cancel">Odustani</string>
+  <string name="candidates_style">&lt;u&gt;kandidati&lt;/u&gt;</string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">Kako bi sadržaj aplikacije bio pristupačniji, mogu se instalirati skripte.</string>
   <string name="capability_desc_canRequestFilterKeyEvents">Uključuje osobne podatke kao što su brojevi kreditnih kartica i zaporke.</string>
   <string name="capability_desc_canRequestTouchExploration">Dodirnute stavke izgovorit će se naglas, a zaslon se može istraživati pokretima.</string>
@@ -930,6 +930,8 @@ Pokušajte ponovo za %d s."</string>
   <string name="permgrouplab_voicemail">Govorna pošta</string>
   <string name="permgrouplab_wallpaper">Pozadinska slika</string>
   <string name="permgrouplab_writeDictionary">Piši u korisnički rječnik</string>
+  <string name="permission">Dopuštenje</string>
+  <string name="permission_remember_choice">Zapamti</string>
   <string name="permission_request_notification_title">Zatražena je dozvola</string>
   <string name="permission_request_notification_with_subtitle">"Zatražena je dozvola
 za račun %s."</string>
@@ -1206,6 +1208,8 @@ za račun %s."</string>
   <string name="progress_unmounting">Isključivanje USB pohrane...</string>
   <string name="reason_service_unavailable">Usluga ispisa nije omogućena</string>
   <string name="reason_unknown">nepoznato</string>
+  <string name="reboot_confirm">Telefón sa reštartuje.</string>
+  <string name="reboot_progress">Reštart...</string>
   <string name="reboot_safemode_confirm">Želite li ponovo pokrenuti uređaj u sigurnom načinu rada? To će onemogućiti sve aplikacije treće strane koje ste instalirali. Bit će vraćene kada ponovo pokrenete uređaj.</string>
   <string name="reboot_safemode_title">Ponovno pokretanje u sigurnom načinu rada</string>
   <string name="recent_tasks_title">Nedavni</string>
@@ -1310,7 +1314,7 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="shareactionprovider_share_with_application">Dijeli s aplikacijom %s</string>
   <string name="shutdown_confirm">Vaš uređaj će se isključiti.</string>
   <string name="shutdown_confirm_question">Želite li isključiti uređaj?</string>
-  <string name="shutdown_progress">Isključivanje...</string>
+  <string name="shutdown_progress">Isključivanje…</string>
   <string name="silent_mode">Bešumni način</string>
   <string name="silent_mode_ring">Zvono uključeno</string>
   <string name="silent_mode_silent">Zvono isključeno</string>
@@ -1347,7 +1351,7 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="ssl_certificate">Sigurnosni certifikat</string>
   <string name="ssl_certificate_is_valid">Ovaj je certifikat valjan.</string>
   <string name="status_bar_notification_info_overflow">999+</string>
-  <string name="storage_internal">Interna pohrana</string>
+  <string name="storage_internal">Unutarnja pohrana</string>
   <string name="storage_sd_card">SD kartica</string>
   <string name="storage_usb">USB pohrana</string>
   <string name="submit">Pošalji</string>
@@ -1435,6 +1439,11 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="webviewchromium_accessibility_date_picker_year">Godina</string>
   <string name="webviewchromium_accessibility_datetime_picker_date">Datum</string>
   <string name="webviewchromium_accessibility_datetime_picker_time">Vrijeme</string>
+  <string name="webviewchromium_accessibility_time_picker_ampm">Doba dana</string>
+  <string name="webviewchromium_accessibility_time_picker_hour">Sat</string>
+  <string name="webviewchromium_accessibility_time_picker_milli">Milisekunda</string>
+  <string name="webviewchromium_accessibility_time_picker_minute">Minuta</string>
+  <string name="webviewchromium_accessibility_time_picker_second">Sekunda</string>
   <string name="webviewchromium_actionbar_share">Dijeli</string>
   <string name="webviewchromium_actionbar_web_search">Pretraživanje weba</string>
   <string name="webviewchromium_color_picker_button_cancel">Odustani</string>
