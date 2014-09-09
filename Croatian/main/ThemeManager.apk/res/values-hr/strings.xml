@@ -199,6 +199,8 @@
     <string name="resource_trial_fail_message">Provjerite je li vaš sat sustava postavljen na točno vrijeme.</string>
     <string name="resource_trial_fail_title">"Nije bilo moguće postaviti probni period"</string>
     <string name="resource_trial_time">（probni period: %1$d min.）</string>
+	<string name="resource_unable_to_access">"Nažalost, 
+sadržaj koji tražite nije trenutno dostupan u vašoj regiji."</string>
     <string name="resource_unknow_error">Došlo je do nepoznate pogreške</string>
     <string name="resource_update">Ažuriraj</string>
     <string name="resource_user_know">U redu</string>

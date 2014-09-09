@@ -723,8 +723,8 @@ Onemogućiti plutajuće prozore?"</string>
   <string name="default_usb_mode">USB veza</string>
   <string name="delete">"Izbriši"</string>
   <string name="deny">Odbij</string>
-  <string name="details_subtitle">Koristi pojedinosti</string>
-  <string name="details_title">Koristi pojedinosti</string>
+  <string name="details_subtitle">Pojedinosti korištenja</string>
+  <string name="details_title">Pojedinosti korištenja</string>
   <string name="dev_settings_warning_message">Ove su postavke namijenjene samo razvojnim programerima. One mogu uzrokovati kvar ili neželjeno ponašanje vašeg uređaja i aplikacija na njemu.</string>
   <string name="dev_settings_warning_title">Dopustiti postavke razvojnih programera?</string>
   <string name="development_enable">Opcije za razvojne programere</string>
@@ -778,7 +778,7 @@ Onemogućiti plutajuće prozore?"</string>
   <string name="disable_overlays">Onemogući HW preklapanja</string>
   <string name="disable_overlays_summary">Uvijek upotrijebi GPU kod slaganja zaslona</string>
   <string name="disable_power_key_long_press_under_keyguard">Onemogući izbornik tipke za uključivanje</string>
-  <string name="disable_service_message">Ako dodirnete \"U redu\", usluga %1$s zaustavit će se.</string>
+  <string name="disable_service_message">Ako dodirnete \"U redu\", usluga %1$s će se zaustaviti.</string>
   <string name="disable_service_title">Želite li zaustaviti uslugu %1$s?</string>
   <string name="disable_text">Onemogući</string>
   <string name="disabled">Onemogućeno</string>
@@ -787,8 +787,8 @@ Onemogućiti plutajuće prozore?"</string>
   <string name="display_label">Zaslon</string>
   <string name="display_order_text">Poredati prema:</string>
   <string name="display_preview_label">Pregled:</string>
-  <string name="display_settings">Prikaz</string>
-  <string name="display_settings_title">Prikaz</string>
+  <string name="display_settings">Zaslon</string>
+  <string name="display_settings_title">Zaslon</string>
   <string name="dlg_cancel">Odustani</string>
   <string name="dlg_confirm_unmount_text">Ako isključite USB pohranu, neke aplikacije koje upotrebljavate zaustavit će se i mogu biti nedostupne dok ponovo ne uključite USB pohranu.</string>
   <string name="dlg_confirm_unmount_title">Isključiti USB pohranu?</string>

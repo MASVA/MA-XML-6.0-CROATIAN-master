@@ -273,6 +273,7 @@ Da biste aktivirali vaš račun, slijedite
   <string name="seperator_forget_and_foreign">" | "</string>
   <string name="service_error">Pogreška usluge</string>
   <string name="show_password">Prikaži zaporku</string>
+  <string name="sim_unactivated_title">"SIM kartica nije vezana"</string>
   <string name="sim_changed_notification_content">"SIM kartica nije aktivirana"</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Preskoči prijavu</string>
