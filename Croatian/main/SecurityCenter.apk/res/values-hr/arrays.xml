@@ -24,9 +24,4 @@
         <item>Vibracija kad je zvuk utišan</item>
         <item>Uvijek vibriraj</item>
     </string-array>
-    <string-array name="power_dialog_vibration_items_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
 </resources>

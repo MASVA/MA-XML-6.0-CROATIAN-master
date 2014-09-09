@@ -33,7 +33,7 @@
         <item>5 sekundi</item>
         <item>15 sekundi</item>
         <item>30 sekundi</item>
-        <item>1 minute</item>
+        <item>1 minuta</item>
         <item>2 minute</item>
         <item>5 minuta</item>
         <item>10 minuta</item>
@@ -91,12 +91,6 @@
         <item>Blokirano</item>
         <item>Privremeno izbjegavanje loše veze</item>
     </string-array>
-    <string-array name="wifi_eap_method">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-    </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Gumb</item>
         <item>PIN s paralelnog uređaja</item>
@@ -113,7 +107,7 @@
         <item>2 minute</item>
         <item>5 minuta</item>
         <item>1 sat</item>
-        <item>Nikada ne istječe</item>
+        <item>Bez ograničenja vremena</item>
     </string-array>
     <string-array name="wifi_signal">
         <item>Loše</item>
@@ -140,12 +134,6 @@
         <item>Vrijeme upotrebe</item>
         <item>Pokreni brojanje</item>
         <item>Naziv aplikacije</item>
-    </string-array>
-    <string-array name="wifi_eap_entries">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
         <item>Nijedan</item>
@@ -178,21 +166,10 @@
         <item>CHAP</item>
         <item>PAP ili CHAP</item>
     </string-array>
-    <string-array name="apn_protocol_entries">
-        <item>IPv4</item>
-        <item>IPv6</item>
-        <item>IPv4/IPv6</item>
-    </string-array>
     <string-array name="bearer_entries">
         <item>LTE</item>
         <item>eHRPD</item>
         <item>Neodređeno</item>
-    </string-array>
-    <string-array name="mvno_type_entries">
-        <item>Ništa</item>
-        <item>SPN</item>
-        <item>IMSI</item>
-        <item>GID</item>
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Interno pohranjivanje na uređaj</item>
@@ -320,12 +297,6 @@
         <item>Obris</item>
         <item>Sjena</item>
     </string-array>
-    <string-array name="captioning_opacity_selector_titles">
-        <item>25%</item>
-        <item>50%</item>
-        <item>75%</item>
-        <item>100%</item>
-    </string-array>
     <string-array name="captioning_preset_selector_titles">
         <item>Bijelo na crnom</item>
         <item>Crno na bijelom</item>
@@ -355,30 +326,30 @@
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animacija isključena</item>
-        <item>Animacija razmjera 0,5 x</item>
+        <item>Animacija razmjera 0,5x</item>
         <item>Animacija razmjera 1x</item>
-        <item>Animacija razmjera 1,5 x</item>
+        <item>Animacija razmjera 1,5x</item>
         <item>Animacija razmjera 2x</item>
         <item>Animacija razmjera 5x</item>
         <item>Animacija razmjera 10x</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animacija isključena</item>
-        <item>Animacija razmjera 0,5 x</item>
+        <item>Animacija razmjera 0,5x</item>
         <item>Animacija razmjera 1x</item>
-        <item>Animacija razmjera 1,5 x</item>
+        <item>Animacija razmjera 1,5x</item>
         <item>Animacija razmjera 2x</item>
         <item>Animacija razmjera 5x</item>
         <item>Animacija razmjera 10x</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Animacija isključena</item>
-        <item>Animacija razmjera 0,5 x</item>
-        <item>Animacija razmjera 1 x</item>
-        <item>Animacija razmjera 1,5 x</item>
-        <item>Animacija razmjera 2 x</item>
-        <item>Animacija razmjera 5 x</item>
-        <item>Animacija razmjera 10 x</item>
+        <item>Animacija razmjera 0,5x</item>
+        <item>Animacija razmjera 1x</item>
+        <item>Animacija razmjera 1,5x</item>
+        <item>Animacija razmjera 2x</item>
+        <item>Animacija razmjera 5x</item>
+        <item>Animacija razmjera 10x</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Ništa</item>
@@ -436,6 +407,13 @@
         <item>Povezano</item>
         <item>Privremeni prekid</item>
         <item>Neuspješno</item>
+    </string-array>
+    <string-array name="user_content_ratings_entries">
+        <item>Ascended being</item>
+        <item>Human</item>
+        <item>Neanderthal</item>
+        <item>Chimp</item>
+        <item>Monkey</item>
     </string-array>
     <string-array name="security_settings_premium_sms_values">
         <item>Postavi pitanje</item>
@@ -535,7 +513,7 @@
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 sekunde</item>
         <item>1 sekunda</item>
-        <item>1.5 sekunda</item>
+        <item>1.5 sekundi</item>
         <item>2 sekunde</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
@@ -647,30 +625,6 @@
         <item>Mreža je spora zbog previše prometa</item>
         <item>Mreža je spora zbog slabe snage signala</item>
         <item>Premještanje…</item>
-    </string-array>
-    <string-array name="power_dialog_auto_clean_memory_items">
-        <item>Nakon 1 minute</item>
-        <item>Nakon 5 minuta</item>
-        <item>Nakon 10 minuta</item>
-        <item>Nikad</item>
-    </string-array>
-    <string-array name="power_dialog_sleep_items">
-        <item>15 sekundi</item>
-        <item>30 sekundi</item>
-        <item>1 minute</item>
-        <item>2 minute</item>
-        <item>5 minuta</item>
-        <item>10 minuta</item>
-        <item>Nikad</item>
-    </string-array>
-    <string-array name="power_dialog_cpu_state_items">
-        <item>Performanse</item>
-        <item>Balansirano</item>
-    </string-array>
-    <string-array name="power_dialog_vibration_items">
-        <item>Ne vibriraj</item>
-        <item>Vibracija kad je zvuk utišan</item>
-        <item>Uvijek vibriraj</item>
     </string-array>
 	<string-array name="priority_storage_entries">
         <item>Unutarnja memorija</item>

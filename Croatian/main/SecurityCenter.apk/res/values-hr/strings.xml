@@ -51,7 +51,7 @@
   <string name="battery_desc_apps">Baterija iskorištena upotrebom aplikacija</string>
   <string name="battery_desc_bluetooth">Baterija iskorištena upotrebom značajke Bluetooth</string>
   <string name="battery_desc_display">Baterija iskorištena za zaslon i pozadinsko svjetlo</string>
-  <string name="battery_desc_other_apps">Energija iskorištena od strane drugih aplikacija</string>
+  <string name="battery_desc_other_apps">Baterija iskorištena od strane drugih aplikacija</string>
   <string name="battery_desc_radio">Baterija iskorištena upotrebom GSM-a</string>
   <string name="battery_desc_standby">Baterija iskorištena u stanju pripravnosti</string>
   <string name="battery_desc_voice">Baterija iskorištena uslugom glasovnog poziva</string>
@@ -300,7 +300,7 @@
   <string name="menu_text_networkassistants_danger">Potrošnja podataka</string>
   <string name="menu_text_networkassistants_remain">Potrošnja podataka</string>
   <string name="menu_text_power_manager">Baterija</string>
-  <string name="menu_text_power_percent">%s Baterija</string>
+  <string name="menu_text_power_percent">Baterija %s</string>
   <string name="msg_cleanup_db_update_checking">Provjera…</string>
   <string name="msg_cleanup_db_update_time_unknown">Ažuriranje na: Nepoznato</string>
   <string name="msg_update_error_code_already_running">Ažuriranje</string>
