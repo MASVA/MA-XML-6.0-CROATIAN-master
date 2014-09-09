@@ -416,7 +416,7 @@ panoramske fotografije.</string>
   <string name="pref_camera_setting_switch_default">isklj.</string>
   <string name="pref_camera_setting_switch_entryvalue_off">isklj.</string>
   <string name="pref_camera_setting_switch_entryvalue_on">uklj.</string>
-  <string name="pref_camera_settings">Device Setting</string>
+  <string name="pref_camera_settings">Postavke uređaja</string>
   <string name="pref_camera_settings_category">Postavke fotoaparata</string>
   <string name="pref_camera_settings_title">Postavke</string>
   <string name="pref_camera_shader_coloreffect_default">10</string>
@@ -521,6 +521,7 @@ panoramske fotografije.</string>
   <string name="pref_video_quality_entry_wvga">WVGA</string>
   <string name="pref_video_quality_pad_default">6</string>
   <string name="pref_video_quality_title">Kvaliteta videozapisa</string>
+    <string name="pref_video_slow_speed_title_simple_mode">Brzo-kretanje</string>
   <string name="pref_video_speed_default">normalno</string>
   <string name="pref_video_speed_entry_fast">Brzo</string>
   <string name="pref_video_speed_entry_normal">Normalno</string>
