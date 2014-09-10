@@ -366,7 +366,7 @@ Napravite prvi korak."</string>
 	<string name="share_miliao_too_old">MiTalk verzija je prestara.</string>
 	<string name="share_play_ground_format">"To je %1$s krugova."</string>
 	<string name="share_sleep_description">"U dubokoj fazi spavanja %1$s h i %2$s min, 
-u laganoj fazi spavanja %3$s h and %4$s min.
+u laganoj fazi spavanja %3$s h i %4$s min.
 U snu: %5$s. Budan: %6$s"</string>
 	<string name="share_sleep_description_average">"Utrošeno prosječno %1$s h %2$s min duboke faze spavanja, %3$s h and %4$s min. lagane faze spavanja.
 Prosječno ste spavali %5$s, prosječna vrijeme buđenja %6$s."</string>
