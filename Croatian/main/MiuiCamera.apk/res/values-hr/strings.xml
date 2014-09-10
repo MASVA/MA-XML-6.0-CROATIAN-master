@@ -43,9 +43,9 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="confirm_change_mode_title">Način prebacivanja</string>
   <string name="confirm_change_to_expert_mode_message">Prebaciti na profesionalan način?</string>
   <string name="confirm_change_to_simple_mode_message">Prebaciti na jednostavan način?</string>
-  <string name="confirm_location_message">Dodati vašim fotografijama oznake lokacija na kojima su snimljeni?</string>
-  <string name="confirm_restore_message">Obnoviti na zadane postavke Fotoaparata?</string>
-  <string name="confirm_restore_title">Obnovi na zadano</string>
+  <string name="confirm_location_message">Označiti fotografije i video zapise na mjestima gdje su snimljene?</string>
+  <string name="confirm_restore_message">"Obnoviti na zadane postavke Fotoaparata?"</string>
+  <string name="confirm_restore_title">Obnovi zadane postavke</string>
   <string name="connect_wifi">Poveži se na ovu WLAN mrežu</string>
   <string name="contact_address">Adresa</string>
   <string name="contact_birthday">Rođendan</string>
@@ -162,7 +162,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="measure_whitebalance_text">Usredotočite se na bijeli ili sivi papir i pritisnite</string>
   <string name="mimetype">Vrsta MIME</string>
   <string name="model">Model</string>
-  <string name="no_save">"Ne spremaj"</string>
+  <string name="no_save">Ne hvala</string>
   <string name="no_storage">Umetnite SD karticu prije upotrebe fotoaparata.</string>
   <string name="no_thumbnail">Bez minijatura</string>
   <string name="not_enough_space">Unutarnja pohrana je puna.</string>
@@ -182,10 +182,10 @@ panoramske fotografije.</string>
   <string name="pano_too_fast_prompt">Prebrzo</string>
   <string name="path">Putanja</string>
   <string name="people">Osobe</string>
-  <string name="pref_advance_settings">Napredne postavke</string>
-  <string name="pref_advanced_functions">Napredne funkcije</string>
+  <string name="pref_advance_settings">Dodatne postavke</string>
+  <string name="pref_advanced_functions">Napredne postavke</string>
   <string name="pref_advanced_settings">Napredno</string>
-  <string name="pref_audio_indicator_entry_off">Zvuk isklj.f</string>
+  <string name="pref_audio_indicator_entry_off">Zvuk isklj.</string>
   <string name="pref_audio_indicator_entry_on">Zvuk uklj.</string>
   <string name="pref_camcorder_settings">Podešavanje kamere</string>
   <string name="pref_camcorder_settings_category">Postavke fotoaparata</string>
@@ -200,7 +200,7 @@ panoramske fotografije.</string>
   <string name="pref_camera_antibanding_title">Smanjenje traka na zaslonu</string>
   <string name="pref_camera_audio_capture_title">Zvuk</string>
   <string name="pref_camera_auto_capture_when_stable_title">Auto. snimi kad je stabilno</string>
-  <string name="pref_camera_auto_chroma_flash_title">Chroma Flash</string>
+  <string name="pref_camera_auto_chroma_flash_title">Chroma flash</string>
   <string name="pref_camera_auto_focus_title_entry_off">Isključeno</string>
   <string name="pref_camera_auto_focus_title_entry_on">Uključeno</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Središte ponderiranja</string>
@@ -384,7 +384,7 @@ panoramske fotografije.</string>
   <string name="pref_camera_scenemode_entry_sports">Sport</string>
   <string name="pref_camera_scenemode_entry_sunset">Zalazak sunca</string>
   <string name="pref_camera_scenemode_title">Način scene</string>
-  <string name="pref_camera_settings">Postavke uređaja</string>
+  <string name="pref_camera_settings">Uređaj</string>
   <string name="pref_camera_settings_category">Postavke fotoaparata</string>
   <string name="pref_camera_settings_title">Postavke</string>
   <string name="pref_camera_shader_coloreffect_default">10</string>
@@ -432,7 +432,7 @@ panoramske fotografije.</string>
   <string name="pref_camera_whitebalance_title">Balans bijele</string>
   <string name="pref_camera_zsl_entry_on">Uključeno</string>
   <string name="pref_camera_zsl_title">ZSL</string>
-  <string name="pref_capture_settings">Postavke</string>
+  <string name="pref_capture_settings">Fotoaparat</string>
   <string name="pref_exposure_default">0</string>
   <string name="pref_exposure_title">Ekspozicija</string>
   <string name="pref_face_beauty_default">i:0</string>
@@ -499,7 +499,7 @@ panoramske fotografije.</string>
   <string name="review_cancel">Odustani</string>
   <string name="rotate_left">Rotitiraj lijevo</string>
   <string name="rotate_right">Rotitiraj desno</string>
-  <string name="save">Spremi</string>
+  <string name="save">Da</string>
   <string name="scan_qrcode">Skeniraj QR kod</string>
   <string name="secure_access_web_url">Osiguraj web pristup</string>
   <string name="see_app_details">Prikaži detalje aplikacije</string>

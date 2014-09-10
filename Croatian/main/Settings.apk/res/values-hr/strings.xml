@@ -1159,7 +1159,7 @@ Neke aplikacije neće raditi dok ih ne ažuriraju njihovi razvijatelji."</string
   <string name="location_mode_title">Način</string>
   <string name="location_neighborhood_level">Omogućite aplikacijama upotrebljavanje podataka WLAN i mobilnih mreža za procjenu vaše lokacije.</string>
   <string name="location_neighborhood_level_wifi">Lokacija utvrđena pomoću WLAN-a</string>
-  <string name="location_network_based">Lokacija WLAN-a &amp; mob. mreža</string>
+  <string name="location_network_based">WLAN &amp; mob. mreža</string>
   <string name="location_no_recent_apps">Nijedna aplikacija nije nedavno zatražila lokaciju</string>
   <string name="location_settings_title">Lokacija</string>
   <string name="location_sources_heading">Izvori lokacije</string>
@@ -1501,7 +1501,7 @@ i pokrenite ga."</string>
   <string name="oldman_mode_summary">Koristi pojednostavljeni Početni zaslon i izbornike</string>
   <string name="online_resource_entry">Online izvori</string>
   <string name="only_one_home_message">Postavke početnog zaslona bit će skrivene dok ne instalirate još jednu aplikaciju početnog zaslona.</string>
-  <string name="only_when_charging">Samo tijekom punjenja</string>
+  <string name="only_when_charging">Samo kada je priključeno</string>
   <string name="onscreen_keyboard_settings_summary">Postavke zaslonske tipkovnice</string>
   <string name="open_wifi_connect_summary">"Dotaknite za upravljanje"</string>
   <string name="open_wifi_connect_title">Poveži se na otvorenu mrežu %1$s</string>

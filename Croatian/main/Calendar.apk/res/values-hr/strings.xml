@@ -33,7 +33,7 @@
   <string name="agenda_tomorrow">SUTRA, %1$s</string>
   <string name="agenda_view">Raspored</string>
   <string name="agenda_yesterday">JUČER, %1$s</string>
-  <string name="alarm_label">U redu</string>
+  <string name="alarm_label">Odbaci</string>
   <string name="alert_title">Obavijesti kalendara</string>
   <string name="app_label">Kalendar</string>
   <string name="attendees_label">Gosti</string>
