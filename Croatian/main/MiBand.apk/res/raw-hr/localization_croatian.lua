@@ -21,7 +21,7 @@ localization_Croatian_table = {
     hour_format='%d sati',
 
     welcome_use="Pozdrav, Ja sam tvoj Mi Band.",
-    last_week_walked_format='Prošli tjedan, prohodali te %d koraka.',
+    last_week_walked_format='Prošli tjedan, prohodali ste %d koraka.',
     last_week_walked_info_format='Prohodano %d km, potrošeno %d kal.',
     last_month_walked_format='Prošli mjesec, prohodali ste %d koraka.',
     last_month_walked_info_format='Prohodano %d km, potrošeno %d kal.',

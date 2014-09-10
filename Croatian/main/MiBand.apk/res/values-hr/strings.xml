@@ -37,7 +37,12 @@ Sporazum: %2$s"</string>
 	<string name="bind_bracelet">Pronađen Mi Band</string> 
 	<string name="bind_bracelet_ok">Uspješno povezan</string> 
 	<string name="bind_new_mili">Poveži s novim  Mi Bandom</string> 
-	<string name="bind_weixin_failed">Nije uspjelo, pokušajte ponovno</string> 
+	<string name="bind_weixin_failed">Nije uspjelo, pokušajte ponovno</string>
+    <string name="bind_weixin_new_tips">"点击“微信接入”启动微信进入小米手环帐号页面，
+然后点击“关注”按钮即可完成接入"</string>
+    <string name="bind_weixin_new_now">正在进行微信接入，请稍候......</string>
+    <string name="bind_weixin_new_disable_tips">"接入微信关注小米手环服务号后即可通过微信查看当
+前步数，并且与朋友圈中的好友们一起PK运动排行"</string>
 	<string name="bind_weixin_now">Stvaranje QR koda, pričekajte…</string> 
 	<string name="bind_weixin_qrcode_name">Mi Band QR kod</string> 
 	<string name="bind_weixin_save">Spremljeno u Galeriju,</string> 
@@ -170,7 +175,11 @@ Veza će biti izgubljena nakon odjave."</string>
 	<string name="fw_failed_help_title">Firmware FAQ</string> 
 	<string name="fw_failed_help_title0">Što je Firmware?</string> 
 	<string name="fw_failed_help_title1">Zašto je potrebno ažurirati Firmware?</string> 
-	<string name="fw_failed_help_title2">Što kada ažuriranje Firmwarea nije uspjelo?</string> 
+	<string name="fw_failed_help_title2">Što kada ažuriranje Firmwarea nije uspjelo?</string>
+    <string name="fw_low_battery_title">Za ažuriranje Firmwarea treba napuniti MiBand</string>
+    <string name="fw_low_battery_tips" formatted="false">"MiBand je napunjen samo na 5%. Spojite ga na punjač 
+i ažuriranje će se automatski pokrenuti nakon što se MiBand napuni."</string>
+    <string name="fw_low_battery_view_help">Pomoć</string>	
 	<string name="fw_upgrade">Ažuriranje Firmwarea</string>
 	<string name="fw_upgrade_failed">Firmware Ažuriranje nije uspjelo</string> 
 	<string name="fw_upgrade_failed_tips">Žao nam je, ažuriranje Firmwarea nije uspjelo. To će onemogućiti dio mogućnosti.</string> 
@@ -202,9 +211,10 @@ Dostupno 08:00-18:00, od ponedjeljka do nedjelje."</string>
 	<string name="help_title_2">Je li vaš Mi Band sasvim napunjen?</string> 
 	<string name="help_title_3">Kako povezati Mi Band na drugi telefon?</string> 
 	<string name="hot_des">Energija</string> 
-	<string name="hour_1">h</string> 
+	<string name="hour_1">h</string>
+    <string name="in">V </string>	
 	<string name="incoming_call_notify">Dolazni poziv</string> 
-	<string name="incoming_call_notify_tips">Obavijest me ako propustim poziv za %s sek.</string>
+	<string name="incoming_call_notify_tips">Obavijesti me ako propustim poziv za %s sek.</string>
 	<string name="input_precise_person_info">Molimo unesite svoje osobne podatke. Više detalja će pomoći u dobivanju preciznijih rezultata.</string>
 	<string name="instruction_tip_1">"Pogledajte i
 saznajte napredak 
@@ -286,7 +296,7 @@ Nemojte se zaustaviti, krenuti naprijed."</string>
 	<string name="noti_bracelet_low_battery_title_none">Mi Band je isključen.</string>
 	<string name="odo">Ukupna udaljenost</string>
 	<string name="one_min">1 minutu ranije</string> 
-	<string name="one_week">1 tjedan,</string> 
+	<string name="one_week">Ovaj tjedan</string> 
 	<string name="orange">Narančasta</string> 
 	<string name="person_info_finished_info">Postavljanje Mi Band završeno!</string> 
 	<string name="person_info_goal_info">Prema istraživanjima, predlažemo vam 40 minuta bavljenja tjelovježbom svaki dan.
@@ -369,9 +379,15 @@ Prosječno ste spavali %5$s, prosječna vrijeme buđenja %6$s."</string>
 potrošeno %3$s kal, uštedjeli ste %4$s litara benzina.
 (hvala vam što štitite našu zemlju)
 Najveći rekord je %5$s, prohodano %6$s koraka."</string>
+ <string name="share_step_description_run">"Prohodano %1$s, protrčano %2$s
+Potrošeno %3$s kal.
+"</string>
     <string name="share_step_description_weekly">"Napravljeno %1$s%2$s
 Potrošeno %3$s kal.
-Najveći dnevni rekord je %4$s, prohodano %5$s koraka."</string>	
+Najveći dnevni rekord je %4$s, prohodano %5$s koraka."</string>
+<string name="share_step_description_weekly_run">"Ukupno %1$s, protrčano %2$s
+%3$s
+Najveći dnevni rekord se dogodio na %4$s, prohodano %5$s koraka."</string>	
 	<string name="share_step_goal_failed_title">Ukupno</string> 
 	<string name="share_step_goal_failed_title_today">Danas</string> 
 	<string name="share_step_goal_succ_title">Postignite cilj</string> 
@@ -491,6 +507,16 @@ otvorite Postavke -> Opće postavke -> Sigurnost -> Sigurnost zaslona"</string>
 	<string name="walked">Prohodao</string> 
 	<string name="wear_hand">Zglob</string> 
 	<string name="weared_days">Ukupno dana</string>
+	<string name="weather_aqi">Kvaliteta zraka %s</string>
+    <string name="weather_description_rain">Kiša</string>
+    <string name="weather_description_rain_snow">Kiša s snijegom</string>
+    <string name="weather_description_snow">Snijeg</string>
+    <string name="weather_description_sand">Pijesak</string>
+    <string name="weather_description_fine">Vedro</string>
+    <string name="weather_description_cloudy">Oblačno</string>
+    <string name="weather_description_overcast">Naoblaka</string>
+    <string name="weather_description_fog">Magla</string>
+    <string name="weather_description_haze">Sumaglica</string>
 	<string name="week">Tjedan</string> 
 	<string name="welcom_back">Dobrodošli natrag</string> 
 	<string name="welcome">Pozdrav</string> 
