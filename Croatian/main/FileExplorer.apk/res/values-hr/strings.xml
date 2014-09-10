@@ -4,7 +4,7 @@
  To može potrajati nekoliko minuta</string>
   <string name="add_task">Dodaj zadatak</string>
   <string name="adding_upload_tasks">Učitavam zadatke…</string>
-  <string name="already_signin_description">"Već ste prijavljeni."</string>
+  <string name="already_signin_description">"Već ste se prijavili danas."</string>
   <string name="app_name">Datoteke</string>
   <string name="background">U pozadini</string>
   <string name="big5_summary">Zadani format za Windowse s tradicionalnim kineskim</string>
@@ -249,7 +249,7 @@
   <string name="show_message">Potrebno preuzeti datoteku prije otvaranja.</string>
   <string name="sign_description">Prijava…</string>
   <string name="signin_error">"Ne mogu se povezati na poslužitelj. Provjerite svoju mrežnu vezu."</string>
-  <string name="signin_success">"Dobrodošli!
+  <string name="signin_success">"Prijavljeni ste!
 Dodano slobodnog prostora %1$s"</string>
   <string name="space_info">KuaiPan: %1$s dostupno, %2$s ukupno</string>
   <string name="space_usage">Iskorišten prostor</string>
@@ -283,7 +283,7 @@ oslobodite prostor.</string>
 oslobodili prostor.</string>
   <string name="ui_filechange_btn_download">Preuzimanje datoteke?</string>
   <string name="ui_filechange_btn_upload">Učitati datoteke</string>
-  <string name="ui_main_menu_option_sign_in">Prijavi se</string>
+  <string name="ui_main_menu_option_sign_in">Prijavite se</string>
   <string name="ui_main_menu_option_task_manage">Upravljanje prijenosa</string>
   <string name="ui_main_progress_txt_open_file">Preuzimam…</string>
   <string name="ui_main_toast_favorite_removed">Neoznačeno</string>

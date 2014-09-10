@@ -150,7 +150,7 @@
   <string name="festival">Brzi odgovori</string>
   <string name="festival_continue">U redu</string>
   <string name="festival_networking_desc">Ova značajka treba povezivanje s internetom da funkcionira normalno.</string>
-  <string name="festival_never_remind">"Ne priakzuj ponovo."</string>
+  <string name="festival_never_remind">"Ne prikazuj ponovo."</string>
   <string name="festival_sms_category_count_format">%s</string>
   <string name="festival_sms_loading">Učitavanje…</string>
   <string name="fetion_prefix">[Fetion]</string>
@@ -336,7 +336,7 @@
   <string name="pref_title_mms_read_reports">Čitaj izvješća</string>
   <string name="pref_title_mms_retrieval_during_roaming">Automatsko vraćanje u Roamingu</string>
   <string name="pref_title_notification_body_enabled">Prikaži obavijest</string>
-  <string name="pref_title_ringtone_repeat">Učestalost podsjetnika zvuka zvona</string>
+  <string name="pref_title_ringtone_repeat">Broj ponavljanja zvona</string>
   <string name="pref_title_show_recent_contacts">Nedavni kontakti</string>
   <string name="pref_title_sms_delete">Ograničenje teksta poruke</string>
   <string name="pref_title_system_mms_priority">Postavi kao zadano</string>
@@ -423,7 +423,6 @@
   <string name="service_network_problem">Zbog problema s mrežom slanje nije moguće.</string>
   <string name="service_not_activated">Usluga nije aktivirana na mreži.</string>
   <string name="set">Podesi</string>
-  <string name="set_smsc_address_title_miui">Podesi broj SMS centra</string>
   <string name="share_img">Dijeli</string>
   <string name="show_all_messages">Prikaži sve poruke</string>
   <string name="sim_card1">SIM 1</string>

@@ -76,4 +76,5 @@ Pokušajte ponovo za %d sek."</string>
     <string name="unlockscreen_low_battery">Priključite punjač</string>
     <string name="unlockscreen_recharge_completed">Baterija puna</string>
     <string name="unlockscreen_recharging_message">Punjenje %d%%</string>
+	<string name="wrong_password">Netočna zaporka</string>
 </resources>

@@ -1777,8 +1777,10 @@ i pokrenite ga."</string>
   <string name="retry">"Pokušajte ponovo"</string>
   <string name="ring_volume_title">Glasnoća zvona</string>
   <string name="ringtone_mute">Utišano</string>
+  <string name="ringtone_slot_setting_title">Postavke jedne kartice</string>
   <string name="ringtone_summary"/>
   <string name="ringtone_title">"Melodija zvona telefona"</string>
+  <string name="ringtone_uniform_setting_title">Postavke dvije kartice</string>
   <string name="roaming">Roaming podataka</string>
   <string name="roaming_disable">"Poveži se s podatkovnim uslugama u roamingu"</string>
   <string name="roaming_enable">"Poveži se s podatkovnim uslugama u roamingu"</string>
@@ -1984,7 +1986,7 @@ Možda je PIN netočan."</string>
   <string name="sim_lock_settings">Postavke zaključavanja SIM kartice</string>
   <string name="sim_lock_settings_category">Postavite zaključavanje SIM kartice</string>
   <string name="sim_lock_settings_title">Zaključavanje SIM kartice</string>
-  <string name="sim_management_title">Upravljanje SIM karticom</string>
+  <string name="sim_management_title">SIM kartice i mobilne mreže</string>
   <string name="sim_pin_change">"Promijeni PIN za SIM"</string>
   <string name="sim_pin_toggle">Zaključaj SIM karticu</string>
   <string name="sim_pins_dont_match">PIN-ovi se ne podudaraju</string>

@@ -61,6 +61,11 @@ Držite telefon kao da ste odgovorili na poziv, pričajte u mikrofon. Trebali bi
   <string name="cit_button_light_on">Uključite svjetlo tipke</string>
   <string name="cit_calibration_fail">Kalibracija nije uspjela</string>
   <string name="cit_calibration_pass">Kalibracija uspješna</string>
+  <string name="cit_camera_calibration_summary">"Upute testiranja:
+
+1.Dodirnite gumb za kalibraciju ispod za ulazak u sučelje fotoaparata
+2.Pritisnite tipku Natrag za izlaz iz sučelja fotoaparata
+3.Dobiti ćete natpis Kalibracija uspješna za oznaku da je kalibrirano."</string>
   <string name="cit_camera_sdcard_error">SD kartica je puna. Nemoguće spremiti slike</string>
   <string name="cit_charger_plugin_check_summary">Provjerite aktualno stanje punjača</string>
   <string name="cit_charger_plugin_check_title">Testiranje priključka punjača</string>
@@ -214,6 +219,7 @@ dodajte datoteku i pokušajte ponoviti testiranje reprodukcije."</string>
   <string name="cit_tool_bluetooth_on">Omogući Bluetooth</string>
   <string name="cit_tool_bluetooth_tx_h">Bluetooth test（2.480GHz)</string>
   <string name="cit_tool_bluetooth_tx_l">Bluetooth test（2.402GHz)</string>
+  <string name="cit_tool_cal_camera">Alat za kalibraciju fotoaparata</string>
   <string name="cit_tool_log">Zapisi</string>
   <string name="cit_tool_log_bugreport">Izvješće grešaka</string>
   <string name="cit_tool_log_dmesg">DMESG</string>
@@ -280,7 +286,6 @@ dodajte datoteku i pokušajte ponoviti testiranje reprodukcije."</string>
   <string name="cit_usb_charger_out">USB punjač isključen</string>
   <string name="cit_version_check_summary">Pronađene su sljedeće verzije hardvera i softvera</string>
   <string name="cit_version_check_title">Verzija Testa</string>
-  <string name="cit_vga_camera_calibration">Kalibracija</string>
   <string name="cit_vga_camera_capture">Snimite fotografiju</string>
   <string name="cit_vga_camera_capture_fail">Neuspjelo snimanje fotografije</string>
   <string name="cit_vga_camera_delete">Izbriši fotografiju</string>
