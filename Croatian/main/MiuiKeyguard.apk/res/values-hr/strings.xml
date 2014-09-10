@@ -2,7 +2,7 @@
 <resources>
     <string name="bluetooth_unlock_rssi_far_debug_msg">Bluetooth uređaj je predaleko a otključavanje.</string>
     <string name="contact_carrier_message">Kontaktirajte svog davatelja usluga ako imate dodatnih pitanja.</string>
-    <string name="default_lockscreen_unlock_hint_text">Pomakni gore za otključavanje</string>
+    <string name="default_lockscreen_unlock_hint_text">Klizni gore za otključavanje</string>
     <string name="delete">Izbrisati</string>
     <string name="emergency_call_string">SOS</string>
     <string name="experimental_try_string">Pokušaj</string>
@@ -12,8 +12,8 @@
     <string name="experimental_validate_progress">Prijava…</string>
     <string name="experimental_validate_thanks">Hvala!</string>
     <string name="experimental_validate_username">Korisničko ime</string>
-    <string name="experimental_validate_warning">Hvala vam što pomažete učiniti MIUI boljim!</string>
-    <string name="find_device_check_sim">Provjra SIM-a…</string>
+    <string name="experimental_validate_warning">Hvala vam što nam pomažete učiniti MIUI boljim!</string>
+    <string name="find_device_check_sim">Provjera SIM-a…</string>
     <string name="find_device_turn_off_flight_mode">Isključite način rada u zrakoplovu</string>
     <string name="find_device_turn_off_flight_mode_instructions">"Vaš je uređaj zaključan.
 Isključite način rada u zrakoplovu."</string>

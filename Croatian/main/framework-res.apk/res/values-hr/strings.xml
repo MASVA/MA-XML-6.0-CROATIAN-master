@@ -1384,7 +1384,7 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="time_picker_increment_hour_button">Povećanje sati</string>
   <string name="time_picker_increment_minute_button">Povećanje minuta</string>
   <string name="time_picker_increment_set_pm_button">Postavi PM</string>
-  <string name="transient_navigation_confirmation_long">Pomaknite prstima s ruba zaslona da otkrijete traku sustava</string>
+  <string name="transient_navigation_confirmation_long">Kliznite prstima s ruba zaslona da otkrijete traku sustava</string>
   <string name="turn_off_radio">Isključi bežičnu vezu</string>
   <string name="turn_on_radio">Uključi bežični prijenos</string>
   <string name="tutorial_double_tap_to_zoom_message_short">Dodirnite dvaput za upravljanje zumiranjem</string>
