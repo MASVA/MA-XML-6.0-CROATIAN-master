@@ -2158,7 +2158,7 @@ Googleov pristup sinkronizaciji podataka za mogućnost pristupa kontaktima, sast
   <string name="title_local_resource">Lokalni resursi</string>
   <string name="title_system_resource">Resursi sistema</string>
   <string name="toast_lockscreen_glogin_empty_password">Unesite zaporku</string>
-  <string name="toast_need_login">Prijavite se Na vaš Mi račun</string>
+  <string name="toast_need_login">Prijavite se Na vaš Mi Račun</string>
   <string name="total_size">Ukupno %s</string>
   <string name="total_size_label">Ukupno</string>
   <string name="touch_sensitive_summary">"Učini zaslon posebno osjetljivim na dodir kako bi se omogućilo korištenje u rukavicama"</string>
@@ -2822,7 +2822,7 @@ Postavljanje uređaja može zahtijevati znatnu mrežnu aktivnost."</string>
   <string name="wps_connect_summary">Provjerite da usmjerivač podržava te ima omogućen WPS</string>
   <string name="wps_connect_title">Poveži WPS</string>
   <string name="wrong_pin_code_pukked">Netočan PIN kôd SIM kartice; sada morate kontaktirati svog mobilnog operatera da vam otključa vaš uređaj.</string>
-  <string name="xiaomi_account">Mi račun</string>
+  <string name="xiaomi_account">Mi Račun</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xiaomi_money_service">Mi Kredit</string>
   <string name="xiaomi_router_available_notif_summary">Dodirnite za prikaz više informacija.</string>

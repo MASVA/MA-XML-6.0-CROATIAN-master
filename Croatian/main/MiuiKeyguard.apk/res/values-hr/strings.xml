@@ -41,7 +41,7 @@ Pokušajte ponovo za %d sek."</string>
     <string name="lockscreen_forgot_pattern_button_text">Zaboravljen</string>
     <string name="lockscreen_glogin_checking_password">Provjera…</string>
     <string name="lockscreen_glogin_forgot_pattern">Otključavanje računa</string>
-    <string name="lockscreen_glogin_instructions">Da otključate, prijavite se u vaš Mi račun</string>
+    <string name="lockscreen_glogin_instructions">Da otključate, prijavite se u vaš Mi Račun</string>
     <string name="lockscreen_glogin_invalid_input">Netočno korisničko ime ili zaporka.</string>
     <string name="lockscreen_glogin_password_hint">Zaporka</string>
     <string name="lockscreen_glogin_submit_button">Prijava</string>

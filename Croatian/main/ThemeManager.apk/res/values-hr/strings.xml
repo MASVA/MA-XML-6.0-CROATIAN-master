@@ -52,7 +52,7 @@
     <string name="resource_account_abnormal_state">Pogreška računa. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
     <string name="resource_account_fail_to_add">"Ne mogu dodati račun"</string>
     <string name="resource_account_login">Prijavi se</string>
-    <string name="resource_account_login_before_action">Prijavite se na vaš Mi račun.</string>
+    <string name="resource_account_login_before_action">Prijavite se na vaš Mi Račun.</string>
     <string name="resource_account_login_title">Prijavi se</string>
     <string name="resource_account_switch">Promjena računa</string>
     <string name="resource_alarm_default">Alarm</string>
@@ -265,7 +265,7 @@ sadržaj koji tražite nije trenutno dostupan u vašoj regiji."</string>
     <string name="third_party_pickers_activity_title">Podesi %1$s</string>
     <string name="title_component">Uređivanje teme</string>
     <string name="title_system_resource">Lokalni resursi</string>
-    <string name="to_activate_the_account">Aktivirajte svoj Mi račun</string>
+    <string name="to_activate_the_account">Aktivirajte svoj Mi Račun</string>
     <string name="wallpaper_crop">Obreži</string>
     <string name="wallpaper_decoded_error">"Ne mogu učitati sliku pozadine"</string>
     <string name="wallpaper_loading_text">Učitavanje…</string>

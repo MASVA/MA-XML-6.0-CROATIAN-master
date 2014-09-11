@@ -2,7 +2,7 @@
 <resources>
   <string name="about_device">O telefonu</string>
   <string name="active_xiaomi_account">Aktivno</string>
-  <string name="active_xiaomi_account_msg">"Da biste aktivirali vaš Mi račun, idite na:
+  <string name="active_xiaomi_account_msg">"Da biste aktivirali vaš Mi Račun, idite na:
 https://account.mi.com/pass/serviceLogin.</string>
   <string name="active_xiaomi_account_title">Aktiviraj Xiaomi račun</string>
   <string name="app_name">Ažuriranje</string>

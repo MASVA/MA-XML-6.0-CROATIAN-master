@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Dashboard_App">Aplik.</string>
-  <string name="Dashboard_HIPS_Disable_Content">"Onemogućavanje će učiniti da MIUI prestane nadzirati zahtjeve apliakcija i više neće štititi vašu sigurnost i privatnost.
+  <string name="Dashboard_HIPS_Disable_Content">"Onemogućavanje će učiniti da MIUI prestane nadzirati zahtjeve aplikacija i više neće štititi vašu sigurnost i privatnost.
 Sigurno to želite onemogućiti?"</string>
   <string name="Dashboard_HIPS_Disable_Title">Dopuštenja</string>
   <string name="Dashboard_Log">Zapisi</string>

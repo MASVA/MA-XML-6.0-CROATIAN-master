@@ -143,7 +143,7 @@
   <string name="local_media">Lokalni videozapisi</string>
   <string name="local_media_empty_hint">Nema lokalnih videozapisa</string>
   <string name="local_video">Lokalno</string>
-  <string name="login_tip_content">Prijavite se vašim Mi računom radi sinkroniziranja i ažuriranja serija koje trenutno pratite.</string>
+  <string name="login_tip_content">Prijavite se vašim Mi Računom radi sinkroniziranja i ažuriranja serija koje trenutno pratite.</string>
   <string name="login_tip_title">Prijavite se</string>
   <string name="manage">Upravljanje</string>
   <string name="manage_offline_media">Upravljanje preuzimanja</string>
@@ -302,7 +302,7 @@
   <string name="waiting_to_download">Čekam…</string>
   <string name="wasu">Wasu</string>
   <string name="write_comment">Dodaj komentar</string>
-  <string name="xiaomi_account_type_unsupported">"Mi račun nije podržan"</string>
+  <string name="xiaomi_account_type_unsupported">"Mi Račun nije podržan"</string>
   <string name="xiaomi_user">Korisnik</string>
   <string name="yesterday">Jučer</string>
   <string name="yinyuetai">YinYueTai</string>

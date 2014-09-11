@@ -18,7 +18,7 @@
   <string name="activating">Aktivacija…</string>
   <string name="add_weibo_account">Dodaj račun</string>
   <string name="alert_title_remove_account">"Izbrisati sinkronizirane podatke?"</string>
-  <string name="app_name">Mi račun</string>
+  <string name="app_name">Mi Račun</string>
   <string name="bad_authentication">Pogrešno korisničko ime ili zaporka</string>
   <string name="barcode_add_account_prompt">Da biste dodali račun, skenirajte QR kôd ponovno nakon što se prijavite.</string>
   <string name="bind_settings">Poveži</string>
@@ -189,11 +189,11 @@ Da biste aktivirali vaš račun, slijedite
   <string name="register_by_email">Registriraj se s e-poštom</string>
   <string name="relogin">Prijavi se ponovo</string>
   <string name="relogin_notice">Morate se prijaviti ponovno</string>
-  <string name="remove_account_notice">Što želite učiniti s porukama, kontaktima, glazbom i bilješkama koje su sinkronizirane s vašeg Mi računa?</string>
+  <string name="remove_account_notice">Što želite učiniti s porukama, kontaktima, glazbom i bilješkama koje su sinkronizirane s vašeg Mi Računa?</string>
   <string name="remove_confirm">Odjava</string>
   <string name="remove_unactivated_account_notice">"Vaš račun još nije aktiviran."</string>
   <string name="removing_account">Odjava…</string>
-  <string name="scan_barcode_title">Da bi se prijavili na svoj Mi račun, skenirajte QR kod</string>
+  <string name="scan_barcode_title">Da bi se prijavili na svoj Mi Račun, skenirajte QR kod</string>
   <string name="seperator_forget_and_foreign">" | "</string>
   <string name="service_error">Pogreška usluge</string>
   <string name="show_password">Prikaži zaporku</string>
@@ -202,7 +202,7 @@ Da biste aktivirali vaš račun, slijedite
   <string name="skip_login">Preskoči prijavu</string>
   <string name="skip_login_u">Preskoči prijavu</string>
   <string name="skip_register">Preskoči prijavu</string>
-  <string name="skip_setup_account_msg">Možete postaviti Mi račun kasnije u Postavkama.</string>
+  <string name="skip_setup_account_msg">Možete postaviti Mi Račun kasnije u Postavkama.</string>
   <string name="skip_setup_account_title">Preskoči postavljanje</string>
   <string name="sync_off">Isklj.</string>
   <string name="sync_on">Uklj.</string>
@@ -211,7 +211,7 @@ Da biste aktivirali vaš račun, slijedite
   <string name="unactivated_user">Još malo…</string>
   <string name="unbind">Prekini vezu</string>
   <string name="update_contacts">Ažuriranje imenika</string>
-  <string name="update_contacts_description">"Sina Weibo će koristiti vaš Mi račun za sinkronizaciju informacija kontakta na svim platformama.."</string>
+  <string name="update_contacts_description">"Sina Weibo će koristiti vaš Mi Račun za sinkronizaciju informacija kontakta na svim platformama.."</string>
   <string name="updated_contacts">Ažurirano %s kontakata</string>
   <string name="updated_nothing">Nema stavaka za sinkronizaciju</string>
   <string name="user_agreement">Korisnički sporazum</string>

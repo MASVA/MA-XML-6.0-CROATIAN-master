@@ -27,9 +27,9 @@
   <string name="activate_popup_desc_new_mixed_sim_cards">Vaša SIM kartica se promijenila. SMS i međunarodni SMS će biti poslani za aktivaciju vaše 2 SIM kartice i funkcija za %s</string>
   <string name="activate_popup_desc_new_sim_card">Vaša SIM kartica se promijenila. SMS će biti poslan za aktivaciju vaše SIM kartice i funkcija za %s</string>
   <string name="activate_popup_desc_new_sim_card_downlink">Vaša SIM kartica se promijenila. Unesite broj nove SIM kartice za aktivaciju funkcija za %s</string>
-  <string name="activate_popup_desc_register_account">SMS će biti poslan za aktiviranje vašeg Mi računa</string>
-  <string name="activate_popup_desc_register_account_downlink">Unesite broj za vašu SIM karticu, za aktiviranje vašeg Mi računa</string>
-  <string name="activate_popup_desc_register_account_intl">Međunarodni SMS će biti poslan za aktiviranje vašeg Mi računa</string>
+  <string name="activate_popup_desc_register_account">SMS će biti poslan za aktiviranje vašeg Mi Računa</string>
+  <string name="activate_popup_desc_register_account_downlink">Unesite broj za vašu SIM karticu, za aktiviranje vašeg Mi Računa</string>
+  <string name="activate_popup_desc_register_account_intl">Međunarodni SMS će biti poslan za aktiviranje vašeg Mi Računa</string>
   <string name="activate_popup_desc_sim_card">SMS će biti poslan za aktivaciju vaše SIM kartice i funkcija za %s</string>
   <string name="activate_popup_desc_sim_card_downlink">Unesite broj vaše SIM kartice za aktivaciju funkcija za %s</string>
   <string name="activate_popup_title_failed_phone_error">Aktivacija nije uspjela</string>
@@ -43,8 +43,8 @@
   <string name="activate_status_desc_acquire_phone_number">Dobivanje broj telefona s poslužitelja</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Došlo je do pogreške na poslužitelju pri dobivanju broja telefona</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">"Ne mogu dobiti broj telefona"</string>
-  <string name="activate_status_desc_checking_xiaomi_account">Provjera Mi računa na poslužitelju</string>
-  <string name="activate_status_desc_checking_xiaomi_account_server_error">Došlo je do pogreške na poslužitelju pri provjeri Mi računa</string>
+  <string name="activate_status_desc_checking_xiaomi_account">Provjera Mi Računa na poslužitelju</string>
+  <string name="activate_status_desc_checking_xiaomi_account_server_error">Došlo je do pogreške na poslužitelju pri provjeri Mi Računa</string>
   <string name="activate_status_desc_failed_getting_gateway">Neuspjelo dobivanje SMS-a s pristupnika</string>
   <string name="activate_status_desc_getting_gateway">Dobivanje SMS-a s pristupnika</string>
   <string name="activate_status_desc_getting_sim_info">Dobivanje informacija SIM kartice</string>
@@ -56,8 +56,8 @@
   <string name="activate_status_desc_query_activation_info_server_error">Došlo je do pogreške na poslužitelju slanjem upita informacija o aktivaciji</string>
   <string name="activate_status_desc_registering_sim_account">Registracija SIM kartice na poslužitelju</string>
   <string name="activate_status_desc_registering_sim_account_server_error">Došlo je do pogreške na poslužitelju prilikom registracije SIM kartice</string>
-  <string name="activate_status_desc_registering_xiaomi_account">Registriranje Mi računa na poslužitelju</string>
-  <string name="activate_status_desc_registering_xiaomi_account_server_error">Došlo je do pogreške na poslužitelju prilikom registracije Mi računa</string>
+  <string name="activate_status_desc_registering_xiaomi_account">Registriranje Mi Računa na poslužitelju</string>
+  <string name="activate_status_desc_registering_xiaomi_account_server_error">Došlo je do pogreške na poslužitelju prilikom registracije Mi Računa</string>
   <string name="activate_status_desc_registration">Registriranje SIM kartice</string>
   <string name="activate_status_desc_registration_server_error">Došlo je do pogreške na poslužitelju prilikom registracije SIM kartice</string>
   <string name="activate_status_desc_request_activation_sms">Zahtjev aktivacijskog SMS-a s poslužitelja na vaš telefon</string>

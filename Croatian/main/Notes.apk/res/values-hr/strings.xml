@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add_account_desc">Sinkronizirati vaše bilješke s Mi računom?</string>
+  <string name="add_account_desc">Sinkronizirati vaše bilješke s Mi Računom?</string>
   <string name="alarm_bar_title">Podsjetnik</string>
   <string name="alert_action_edit_anyway">Nastavi uređivati</string>
   <string name="alert_edit_action_delete">Ukloni</string>
@@ -22,7 +22,7 @@
   <string name="dlg_desc_confirm_alarm_silent">Aktivni alarmi neće zvoniti kada je ton zvona utišan.</string>
   <string name="dlg_title_confirm_alarm_silent">Utišaj alarme</string>
   <string name="enable_sync">Sinkroniziraj</string>
-  <string name="enable_sync_desc">Sinkronizirati vaše bilješke s Mi računom (%1$s)?</string>
+  <string name="enable_sync_desc">Sinkronizirati vaše bilješke s Mi Računom (%1$s)?</string>
   <string name="error_contact_not_exist">Kontakt ne postoji</string>
   <string name="error_note_empty_for_clock">Nije moguće postaviti vrijeme podsjetnika za praznu bilješku</string>
   <string name="error_note_empty_for_send_to_desktop">Prazne bilješke nije moguće postaviti na Početni zaslon</string>
