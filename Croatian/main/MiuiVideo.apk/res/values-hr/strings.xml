@@ -68,12 +68,12 @@
   <string name="count_ge_favorite">Označeno: %d</string>
   <string name="count_ge_feature">Stavaka: %d</string>
   <string name="count_ge_feature_media">Stavaka: %d</string>
-  <string name="count_ge_media">Vedeozapisa: %d</string>
+  <string name="count_ge_media">Videozapisa: %d</string>
   <string name="count_ge_result">Rezultata: %d</string>
   <string name="count_ji_quan">Sve %d Ep.</string>
   <string name="day">Dan</string>
   <string name="declaration">Uvjeti korištenja</string>
-  <string name="declaration_content">Pristajete li na &lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;terms of use&lt;/a&gt; navedenih od strane Sohu Video, iQiyi i ostalih pružatelja video sadržaja?</string>
+  <string name="declaration_content">Pristajete li na uvjete korištenja navedenih od strane Sohu Video, iQiyi i ostalih pružatelja video sadržaja?</string>
   <string name="defaults">Zadano</string>
   <string name="delete">Izbriši</string>
   <string name="delete_addon">Izbriši</string>
@@ -135,7 +135,7 @@
   <string name="key_back_down_toast">Za izlaz, pritisnite tipku Natrag opet</string>
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
-  <string name="loading">&lt;CDATA&gt;Učitavanje &lt;/CDATA&gt;</string>
+  <string name="loading">Učitavanje…</string>
   <string name="loading_video_netplay_label">Učitavanje…</string>
   <string name="loading_video_netplay_label_v5">Učitavanje…</string>
   <string name="local_detail_more">%d još videozapisa</string>
