@@ -134,7 +134,7 @@
   <string name="descx_start_scan_memory">Pokreni skeniranje memorije</string>
   <string name="descx_start_scan_system">Pokreni skeniranje zaštite sustava</string>
   <string name="details_subtitle">Detalji korištenja</string>
-  <string name="dialog_msg_auto_start_declare">Pojedine sigurnosne aplikacije mogu pogrešno upućivati na to da ih je MIUI spriječio od pokretanja. Za provjeru dopuštenja koje su odobrene za pojedine aplikacije, idite na Postavke &gt; Aplikacije.</string>
+  <string name="dialog_msg_auto_start_declare">Pojedine sigurnosne aplikacije mogu pogrešno upućivati na to da ih je MIUI spriječio od pokretanja. Za provjeru dopuštenja koja su odobrena za pojedine aplikacije, idite na Postavke &gt; Aplikacije.</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Potvrdi pohranu i deinstalirati odabrane aplikacije?</string>
   <string name="dialog_msg_check_all">Potvrdi odabir %1$s koji sadrži %2$d stavaka</string>
   <string name="dialog_msg_load_cleanup_engine_error">Alat za čišćenje je oštećen, morate ponovno instalirati ROM!</string>

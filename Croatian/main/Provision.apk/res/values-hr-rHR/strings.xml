@@ -21,7 +21,7 @@
   <string name="sim_card_detection">SIM kartica nije otkrivena</string>
   <string name="sim_card_detection_info">Potrebna vam je SIM kartica za postavljanje Mi Računa.</string>
   <string name="sim_dectection_next">Nastavi</string>
-  <string name="sim_redetection">Provjeravam ponovo SIM karticu</string>
+  <string name="sim_redetection">Provjeri ponovo SIM karticu</string>
   <string name="summary_not_set">Nije postavljeno</string>
   <string name="summary_sim_card">Kartica%1$d%2$s</string>
   <string name="welcome">Dobrodošli u</string>
