@@ -100,8 +100,7 @@
   <string name="dlg_white_antispam_message">Dodati ovu poruku u iznimke?</string>
   <string name="fw_blocked">Blokirano:</string>
   <string name="fw_blocked_count" formatted="false">Blokirano: </string>
-  <string name="fw_blocked_count_call">%d  poziva</string>
-  <string name="fw_blocked_count_sms">%d SMS-a</string>
+  <string name="fw_blocked_join">" i "</string>
   <string name="hint_antispam_mode_edit">Prilagođeni način</string>
   <string name="info_antispam_phone">Blokiraj pozive</string>
   <string name="info_antispam_phone_sms">Blokiraj pozive i poruke</string>
@@ -142,6 +141,7 @@
   <string name="note_sms_none">Nema poruka za uređivanje</string>
   <string name="one_address_choose_hint">%s1 lokacija</string>
   <string name="open_callwait">Uključeno</string>
+  <string name="sim_not_ready">SIM kartica nije spremna</string>
   <string name="sms_delete_hint">Ukloniti sve blokirane poruke s odabranog broja?</string>
   <string name="st_advanced_setting_group">Napredno</string>
   <string name="st_antispam_black_adress_add">Odaberi područje</string>
@@ -238,9 +238,11 @@
   <string name="st_title_man_head_addblacklist">Dodati predbroj broja telefona na listu blokiranih</string>
   <string name="st_title_man_head_addwhitelist">Dodati predbroj broja telefona u iznimke</string>
   <string name="st_title_mode_choose_group">Odaberi način rada</string>
+  <string name="st_title_not_sim">Prazno</string>
   <string name="st_title_open_antispam">Lista blokiranih</string>
   <string name="st_title_settings_other_group">Dodatne postavke</string>
   <string name="st_title_show_antispamnotification">Obavijesti blokiranih poziva</string>
+  <string name="st_title_sim_card">%1$s-SIM %2$s</string>
   <string name="st_title_whitelist_numbers">Iznimke</string>
   <string name="sure">Potvrdi</string>
   <string name="tab_blacklist">Lista zabranjenih</string>

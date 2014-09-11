@@ -12,14 +12,14 @@
   <string name="activate_popup_confirm_failed_receive_sms">Pokušavam ponovo</string>
   <string name="activate_popup_confirm_failed_send_sms">Pošalji ponovo</string>
   <string name="activate_popup_confirm_failed_server">Pokušavam ponovo</string>
-  <string name="activate_popup_desc_2_intl_sim_cards">2 međunarodna SMS-a će biti poslana za aktivaciju vaše SIM kratice i funkcija za %s</string>
-  <string name="activate_popup_desc_2_sim_cards">2 međunarodna SMS-a će biti poslana za aktivaciju vaše 2 SIM kratice i funkcija za %s</string>
+  <string name="activate_popup_desc_2_intl_sim_cards">2 međunarodna SMS-a će biti poslana za aktivaciju vaše SIM kartice i funkcija za %s</string>
+  <string name="activate_popup_desc_2_sim_cards">2 međunarodna SMS-a će biti poslana za aktivaciju vaše 2 SIM kartice i funkcija za %s</string>
   <string name="activate_popup_desc_failed_phone_error">Broj telefona koji ste unijeli je neispravan.</string>
   <string name="activate_popup_desc_failed_query_info">"Ne mogu pronaći vaš broj telefona. Provjerite je li vaša SIM kartica aktivirana."</string>
   <string name="activate_popup_desc_failed_receive_sms">Provjerite je li broj telefona koji ste unijeli ispravan i da je vaša SIM kartica aktivirana.</string>
   <string name="activate_popup_desc_failed_send_sms">"Ne mogu poslati aktivacijski SMS. Provjerite je li vaša SIM kartica aktivirana."</string>
   <string name="activate_popup_desc_failed_server">Provjerite svoju podatkovnu vezu i pokušajte ponovno.</string>
-  <string name="activate_popup_desc_intl_sim_card">Međunarodni SMS će biti poslan za aktivaciju vaše SIM kratice i funkcija za %s</string>
+  <string name="activate_popup_desc_intl_sim_card">Međunarodni SMS će biti poslan za aktivaciju vaše SIM kartice i funkcija za %s</string>
   <string name="activate_popup_desc_mixed_sim_cards">SMS i međunarodni SMS će biti poslani za aktiviranje vaše 2 SIM kartice i funkcija za %s</string>
   <string name="activate_popup_desc_new_2_intl_sim_cards">Vaše SIM kartice su se promijenile. 2. međunarodna SMS-a će biti poslana za aktivaciju vaše 2 SIM kartice i funkcija za %s</string>
   <string name="activate_popup_desc_new_2_sim_cards">Vaše SIM kartice su se promijenile. 2. SMS-a će biti poslana za aktiviranje vaše 2 SIM kartice i funkcija za %s</string>

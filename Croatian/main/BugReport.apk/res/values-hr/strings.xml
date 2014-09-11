@@ -32,6 +32,7 @@
   <string name="err_type_systemapp">MIUI aplik.</string>
   <string name="err_type_wifi">WLAN</string>
   <string name="hot_problem">Prikaži uobičajene greške</string>
+  <string name="hot_problem_empty">Prazno</string>
   <string name="loading_apps">Stvaranje popisa…</string>
   <string name="loading_hot_problem">Učitavanje…</string>
   <string name="menu_attach_screenshot">Priloži snimku zaslona</string>

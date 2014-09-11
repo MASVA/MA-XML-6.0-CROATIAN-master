@@ -27,6 +27,9 @@
   <string name="default_folder_title_tools">Alati</string>
   <string name="default_name">Zadano</string>
   <string name="disable">Onemogući</string>
+  <string name="disable_auto_start_format">Onemogući %s auto pokretanje</string>
+  <string name="disable_auto_start_message">Onemogući auto pokretanje kod podizanja sustava.</string>
+  <string name="disable">Onemogući</string>
   <string name="disable_auto_start_format">Onemogućiti %s Auto. pokretanje</string>
   <string name="disable_auto_start_message">Onemogućiti Auto. pokretanje pri uključivanju.</string>
   <string name="edit_folder_title">Uredi naziv mape</string>

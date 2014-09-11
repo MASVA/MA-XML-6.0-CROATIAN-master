@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="AD_COUNT">
-        <item quantity="other">Reklama: %d</item>
-        <item quantity="one">1 reklama</item>
+    <plurals name="fw_blocked_count_call">
+        <item quantity="other">Poziva: %d</item>
+        <item quantity="one">1 poziv</item>
     </plurals>
-    <plurals name="AD_TITLE_COUNT">
-        <item quantity="other">Aplikacija sadrži adware: %d</item>
-        <item quantity="one">1 aplikacija sadrži adware</item>
+    <plurals name="fw_blocked_count_sms">
+        <item quantity="other">SMS-a: %d</item>
+        <item quantity="one">1 SMS</item>
     </plurals>
 </resources>

@@ -94,9 +94,9 @@
   <string name="call_record_auto_whitelist_no_item">Dodajte broj dodirivanjem tipke +</string>
   <string name="call_record_auto_whitelist_summary">%d brojeva</string>
   <string name="call_record_auto_whitelist_summary_for_one">1 broj</string>
-  <string name="call_record_off_summary">Auto, snimanje onemogućeno</string>
+  <string name="call_record_off_summary">Auto. snimanje onemogućeno</string>
   <string name="call_record_on_summary">Auto. snimanje omogućeno</string>
-  <string name="call_record_setting">Posatvke Auto. snimanja</string>
+  <string name="call_record_setting">Postavke snimanja poziva</string>
   <string name="call_record_whitelist_custom">Prilagođeni popis</string>
   <string name="call_recording_notification_message">Dodirnite za prikaz %s.</string>
   <string name="call_recording_notification_message_low_storage">Snimanje je zaustavljeno: Nema dovoljno prostora.</string>
@@ -702,7 +702,7 @@ Vaša SIM kartica bit će izbrisani nakon još jednog neuspjelog pokušaja."</st
   <string name="search_networks">Pretraži mreže</string>
   <string name="selectContact">Odabir kontakta</string>
   <string name="select_automatically">Odaberi automatski</string>
-  <string name="select_voice_call_sim">Odaberi</string>
+  <string name="select_voice_call_sim">Odaberi SIM karticu</string>
   <string name="sendSms">Pošalji SMS</string>
   <string name="send_button">Pošalji</string>
   <string name="send_keepalive">SendKeepAlive</string>

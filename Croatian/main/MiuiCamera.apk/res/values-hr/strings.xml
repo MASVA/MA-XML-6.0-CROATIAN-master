@@ -37,6 +37,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="cancel">Odustani</string>
   <string name="cannot_connect_camera_once">"Ne mogu se spojiti s kamerom."</string>
   <string name="cannot_connect_camera_twice">"Ne mogu se spojiti s kamerom, ponovno pokrenite telefon"</string>
+  <string name="cannot_move_warning_message">Snimanje fotografije, držite uređaj mirnim</string>
   <string name="clear_effects">Očisti efekte</string>
   <string name="close">Zatvori</string>
   <string name="cloud_album_details">Detalji Cloud albuma:</string>
@@ -167,6 +168,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="no_thumbnail">Bez minijatura</string>
   <string name="not_enough_space">Unutarnja pohrana je puna.</string>
   <string name="not_selectable_in_scene_mode">Ne može se odabrati u načinu scene.</string>
+  <string name="object_track_enable_toast">Kliznite na zaslonu pregleda kako bi omogućili praćenje objekta.</string>
   <string name="ok">U redu</string>
   <string name="orientation">Zakretanje</string>
   <string name="pano_dialog_panorama_failed">"Ne mogu spremiti panoramu."</string>
@@ -408,6 +410,7 @@ panoramske fotografije.</string>
   <string name="pref_camera_touchafaec_entry_off">Isključeno</string>
   <string name="pref_camera_touchafaec_entry_on">Uključeno</string>
   <string name="pref_camera_touchafaec_title">Dodirni AF/AEC</string>
+  <string name="pref_camera_ubifocus_title">Refokus</string>
   <string name="pref_camera_video_duration_default">10</string>
   <string name="pref_camera_video_duration_entry_10">10 minuta</string>
   <string name="pref_camera_video_duration_entry_120">Bez ograničenja</string>
@@ -530,6 +533,7 @@ panoramske fotografije.</string>
   <string name="simple_mode_button_text_hdr">Zatvori HDR način</string>
   <string name="simple_mode_button_text_panorama">Zatvori panoramu</string>
   <string name="simple_mode_button_text_slow_video">Zatvori kameru brzog gibanja</string>
+  <string name="simple_mode_button_text_ubifocus">Zatvori Refokus način</string>
   <string name="simple_mode_title">Jednostavan način</string>
   <string name="slideshow">Dijaprojekcija</string>
   <string name="snapshot_lower_than_video">Veličina pregledane snimke manja od veličine videozapisa. Prekrivanje na veličinu videozapisa. Odaberite razlučivost višu ili jednaku trenutnoj veličini videozapisa.</string>
@@ -552,6 +556,8 @@ panoramske fotografije.</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Brzo uzastopno snimanje nije podržano kada ISO nije 'automatski'."</string>
   <string name="toast_cannot_preview_image_when_screen_locked">Nije moguće pregledavati fotografije ili video ako je zaslon zaključan.</string>
   <string name="toast_start_audio_capture">Napravite zvuk na okidanju</string>
+  <string name="ubi_focus_capture_fail">"Ne mogu snimiti fotografiju"</string>
+  <string name="ubifocus_capture_warning_message">Za najbolje rezultate, vaša fotografija bi trebala sadržavati objekte blizu (manje od 1 metar od objektiva) i dalje</string>
   <string name="undo">Vrati</string>
   <string name="unit_mm">mm</string>
   <string name="video_camera_label">Videokamera</string>

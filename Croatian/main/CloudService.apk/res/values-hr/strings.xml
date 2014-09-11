@@ -69,12 +69,6 @@ Kada je vaš cloud pun, vaši stari podaci neće ići nikamo. Međutim, svaki no
 
 Da biste to riješili, možete ili očistiti neke stare datoteke kako bi napravili mjesta za nove, ili možete kupiti dodatni prostor za pohranu."</string>
   <string name="micloud_full_influence_title">Kada je vaš Mi Cloud pun…</string>
-  <string name="micloud_intro_01_part_01">Sačuvajte uporabu podataka</string>
-  <string name="micloud_intro_01_part_02">Mi Poruke vam omogućuju da šaljete i primate poruke drugim MIUI korisnicima putem WLAN-a.</string>
-  <string name="micloud_intro_02_part_01">Preselite bez napora</string>
-  <string name="micloud_intro_02_part_02">Sinkronizacija kontakata, poruka, fotografije i još mnogo toga između uređaja.</string>
-  <string name="micloud_intro_03_part_01">Osigurajte sadržaj svog telefona s bilo kojeg mjesta</string>
-  <string name="micloud_intro_03_part_02">Lociranje na daljinu, zaključavanje ili brisanje sadržaja telefona na i.mi.com</string>
   <string name="micloud_more">Saznaj više</string>
   <string name="micloud_proceed">Nastavi</string>
   <string name="micloud_sec_dspt">i podijeli stvari s svojim prijateljima.</string>
