@@ -192,7 +192,7 @@ svoj album s bilo kojeg mjesta.
   <string name="enter_email_hint">"Unesite adresu E-pošte "</string>
   <string name="error_album_not_exist">"Album ne postoji."</string>
   <string name="error_cloud_not_active">Nema fotografija u cloudu</string>
-  <string name="error_forbidden">Sinkronizacija je onemogućena zbog problema s vašim Mi računom.</string>
+  <string name="error_forbidden">Sinkronizacija je onemogućena zbog problema s vašim Mi Računom.</string>
   <string name="error_invalid_link">Veza nije valjana</string>
   <string name="error_not_acceptable">Sinkr. je onemogućena</string>
   <string name="error_repeat_apply">Ovaj je album već podijeljen</string>

@@ -25,8 +25,8 @@
   <string name="add_organization">Dodaj organizaciju</string>
   <string name="add_to_my_contacts">Dodaj u Moji Kontakti</string>
   <string name="add_wait">"Dodaj čekanje"</string>
-  <string name="add_xiaomi_account_dialog_btn">Upotrijebi Mi račun</string>
-  <string name="add_xiaomi_account_dialog_msg">Upotrijebite vaš Mi račun za sinkronizaciju i izradu sigurnosnih kopija vaših kontakata između više uređajima.</string>
+  <string name="add_xiaomi_account_dialog_btn">Upotrijebi Mi Račun</string>
+  <string name="add_xiaomi_account_dialog_msg">Upotrijebite vaš Mi Račun za sinkronizaciju i izradu sigurnosnih kopija vaših kontakata između više uređajima.</string>
   <string name="add_xiaomi_account_dialog_title">Odabir računa</string>
   <string name="aggregation_suggestion_edit_dialog_message">Prebaci se na uređivanje kontakta jednakog imena? Informacije koje ste do sada unijeli će biti kopirane.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Istoimeni</string>
@@ -798,7 +798,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="resource_account_abnormal_state">Greška računa. Pričekajte minutu dvije i pokušajte ponovo.</string>
   <string name="resource_account_fail_to_add">"Ne mogu dodati kontakt"</string>
   <string name="resource_account_login">Prijava</string>
-  <string name="resource_account_login_before_action">Prijavite se na vaš Mi račun.</string>
+  <string name="resource_account_login_before_action">Prijavite se na vaš Mi Račun.</string>
   <string name="resource_account_login_title">Prijava</string>
   <string name="resource_account_switch">Promijeni</string>
   <string name="resource_alarm_default">Alarm</string>
@@ -1077,7 +1077,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="titleJoinContactDataWith">Spoji kontakte</string>
   <string name="title_other_devices">Ostali dostupni uređaji</string>
   <string name="title_paired_devices">Upareni uređaji</string>
-  <string name="to_activate_the_account">Aktivirajte sad vaš Mi račun</string>
+  <string name="to_activate_the_account">Aktivirajte sad vaš Mi Račun</string>
   <string name="toast_call_detail_error">"Nije moguće pročitati pojedinosti za traženi poziv"</string>
   <string name="toast_copy_done">"Gotovo"</string>
   <string name="toast_copying">Kopiranje…</string>

@@ -10,8 +10,8 @@
   <string name="big5_summary">Zadani format za Windowse s tradicionalnim kineskim</string>
   <string name="big5_title">BIG5</string>
   <string name="bind_account">Sinkronizacija postojećeg računa</string>
-  <string name="bind_account_summary">Sinkronizirajte svoj postojeći KuaiPan račun sa svojim Mi računom</string>
-  <string name="binded_accout_description">"Vaš Mi račun je sinkroniziran s KuaiPan.Sada možete koristiti svoj Mi račun za pristup podacima koje ste pohranili na KuaiPan."</string>
+  <string name="bind_account_summary">Sinkronizirajte svoj postojeći KuaiPan račun sa svojim Mi Računom</string>
+  <string name="binded_accout_description">"Vaš Mi Račun je sinkroniziran s KuaiPan.Sada možete koristiti svoj Mi Račun za pristup podacima koje ste pohranili na KuaiPan."</string>
   <string name="binded_accout_title">Račun sinkroniziran</string>
   <string name="byteShort">B</string>
   <string name="cancel">Odustani</string>
@@ -137,7 +137,7 @@
   <string name="menu_item_sort_size">Po veličini</string>
   <string name="menu_item_sort_type">Po vrsti</string>
   <string name="menu_list_name">Izbornik</string>
-  <string name="migrate_announcement_msg">Sinkronizirajte svoj postojeći KuaiPan račun sa svojim Mi računom u KuaiPan postavkama.</string>
+  <string name="migrate_announcement_msg">Sinkronizirajte svoj postojeći KuaiPan račun sa svojim Mi Računom u KuaiPan postavkama.</string>
   <string name="migrate_announcement_title">Premještanje završeno</string>
   <string name="mobile_photo">Fotografije telefona</string>
   <string name="mobile_photo_desc"/>
@@ -309,6 +309,6 @@ oslobodili prostor.</string>
   <string name="waiting">Čekanje…</string>
   <string name="wangpan_root_path">Moj Drive</string>
   <string name="wifi_state">WLAN mreža</string>
-  <string name="xiaomi_account">Mi račun</string>
+  <string name="xiaomi_account">Mi Račun</string>
   <string name="yes">Da</string>
 </resources>

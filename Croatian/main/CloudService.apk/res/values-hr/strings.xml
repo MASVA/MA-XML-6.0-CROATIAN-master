@@ -27,7 +27,7 @@
   <string name="enable_sync_dspt">Sinkronizacija je isključena</string>
   <string name="error_data_in_transfer">Vaši podaci se prenose. Pričekajte %s sati.</string>
   <string name="error_data_in_transfer_title">Cloud usluge su trenutno nedostupne.</string>
-  <string name="error_forbidden">Sinkronizacija je onemogućena zbog problema s vašim Mi računom</string>
+  <string name="error_forbidden">Sinkronizacija je onemogućena zbog problema s vašim Mi Računom</string>
   <string name="error_network">"Ne mogu se povezati na mrežu"</string>
   <string name="error_not_acceptable">Sinkronizacija je onemogućena.</string>
   <string name="error_server">Greška poslužitelja</string>
