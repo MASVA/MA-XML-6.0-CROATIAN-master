@@ -114,7 +114,7 @@
   <string name="cloud_messaging">Mi Poruke</string>
   <string name="cloud_service">Mi Cloud</string>
   <string name="completed">Završeno</string>
-  <string name="confirm">Potvrdi</string>
+  <string name="confirm">U redu</string>
   <string name="data_keep_in_device">Zadrži podatke na ovom uređaju</string>
   <string name="data_wipe_from_device">Izbriši iz ovog uređaja</string>
   <string name="dirty_contacts_count">Kontakata: %d</string>

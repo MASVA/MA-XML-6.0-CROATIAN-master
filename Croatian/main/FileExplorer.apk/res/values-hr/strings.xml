@@ -62,11 +62,11 @@
   <string name="delete_failed">"Ne mogu izbrisati"</string>
   <string name="delete_file">Izbrisati ovu datoteku?</string>
   <string name="delete_files">Izbrisati datoteke %1$d ?</string>
-  <string name="delete_folder">Izbrisati ovu mapu?</string>
+  <string name="delete_folder">Izbrisati ovu datoteku?</string>
   <string name="delete_folders">Izbrisati mape %1$d?</string>
   <string name="des_running_trans">Datoteke koje nisu premještene %1$d</string>
   <string name="dialog_select_type">Odaberite tip</string>
-  <string name="dialog_type_audio">Audio</string>
+  <string name="dialog_type_audio">Zvuk</string>
   <string name="dialog_type_image">Slike</string>
   <string name="dialog_type_text">Tekst</string>
   <string name="dialog_type_video">Video zapis</string>

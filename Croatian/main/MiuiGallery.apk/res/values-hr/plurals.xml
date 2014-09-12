@@ -36,12 +36,12 @@
     </plurals>
     <plurals name="number_of_images">
         <item quantity="other">Broj slika: %1$d</item>
-        <item quantity="zero">%1$d slika</item>
-        <item quantity="one">%1$d slika</item>
+        <item quantity="zero">Slika %1$d</item>
+        <item quantity="one">Slika %1$d</item>
     </plurals>
     <plurals name="number_of_items">
-        <item quantity="other">%1$d stavaka</item>
-        <item quantity="zero">%1$d stavaka</item>
-        <item quantity="one">%1$d stavka</item>
+        <item quantity="other">Stavki %1$d</item>
+        <item quantity="zero">Stavki %1$d</item>
+        <item quantity="one">Stavki %1$d</item>
     </plurals>
 </resources>

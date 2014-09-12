@@ -570,7 +570,7 @@ Onemogućiti plutajuće prozore?"</string>
   <string name="config_list_label">Konfigurirane mreže</string>
   <string name="configure_input_method">Postavljanje načina unosa</string>
   <string name="confirm_download_cancelation_dialog_message">Otkazati preuzimanje ažuriranja?</string>
-  <string name="confirm_erase">Potvrdi</string>
+  <string name="confirm_erase">U redu</string>
   <string name="confirm_new_backup_pw_prompt">Ovdje ponovo unesite novu zaporku za potpunu sigurnosnu kopiju</string>
   <string name="connect_to_internet">Poveži se na internet</string>
   <string name="connected_wifi">Povezano</string>
@@ -951,7 +951,7 @@ Neke aplikacije neće raditi dok ih ne ažuriraju njihovi razvijatelji."</string
   <string name="force_stop_dlg_title">Prisilno zaustaviti?</string>
   <string name="forget_wifi_message">Vaš uređaj će prestati s automatskim povezivanjem na ovu mrežu.</string>
   <string name="found_new_version">Pronađena je nova verzija</string>
-  <string name="free_wifi_confirm">Potvrdi</string>
+  <string name="free_wifi_confirm">U redu</string>
   <string name="free_wifi_connect">Poveži</string>
   <string name="free_wifi_connect_dialog_summary">Ovaj javni WLAN %1$s pruža %2$s.</string>
   <string name="free_wifi_connect_dialog_title">WLAN dostupan</string>

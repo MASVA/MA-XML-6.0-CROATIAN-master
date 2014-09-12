@@ -28,6 +28,18 @@
         <item quantity="other">Zaporka mora sadržavati barem ovoliko znakova koji nisu slova: %d.</item>
         <item quantity="one">Zaporka mora sadržavati barem jedan znak koji nije slovo.</item>
     </plurals>
+   <plurals name="power_center_battery_day">
+        <item quantity="other">"%ddana "</item>
+        <item quantity="one">"%ddan "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%ds "</item>
+        <item quantity="one">"%ds "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%dmin "</item>
+        <item quantity="one">"%dmin "</item>
+    </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
         <item quantity="other">Ovoliko aplikacija može čitati obavijesti: %d</item>
         <item quantity="one">%d aplikacija može čitati obavijesti</item>
@@ -51,17 +63,5 @@
     <plurals name="show_rep_countdown">
         <item quantity="other">Još %1$d koraka do ulaska u prijavljivanja grešaka.</item>
         <item quantity="one">Još %1$d korak do ulaska u prijavljivanje grešaka.</item>
-    </plurals>
-   <plurals name="power_center_battery_day">
-        <item quantity="other">"%d dana "</item>
-        <item quantity="one">"%d dan "</item>
-    </plurals>
-    <plurals name="power_center_battery_hour">
-        <item quantity="other">"%d s "</item>
-        <item quantity="one">"%d s "</item>
-    </plurals>
-    <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d min "</item>
-        <item quantity="one">"%d min "</item>
     </plurals>
 </resources> 
