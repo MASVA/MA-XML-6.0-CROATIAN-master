@@ -1137,7 +1137,7 @@ Neke aplikacije neće raditi dok ih ne ažuriraju njihovi razvijatelji."</string
   <string name="local_backup_password_toast_confirmation_mismatch">Nova zaporka i potvrda se ne podudaraju</string>
   <string name="local_backup_password_toast_success">Nova zaporka sigurnosne kopije je postavljena</string>
   <string name="local_backup_password_toast_validation_failure">Nije uspjelo postavljanje zaporke sigurnosne kopije</string>
-  <string name="local_backup_section_summary">Pohrana postavki sustava, računa, i aplikacijas</string>
+  <string name="local_backup_section_summary">Pohrana postavki sustava, računa, i aplikacija</string>
   <string name="local_backup_section_title">Lokalna pohrana</string>
   <string name="locale_default">Zadano</string>
   <string name="location_access_summary">Omogućite da aplikacije koje su tražile vaše dopuštenje upotrebljavaju informacije o vašoj lokaciji</string>

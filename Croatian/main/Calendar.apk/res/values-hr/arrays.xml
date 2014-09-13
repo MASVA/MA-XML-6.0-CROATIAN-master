@@ -197,7 +197,7 @@
         <item>Raspored</item>
     </string-array>
     <string-array name="quick_response_defaults">
-        <item>Kasni samo nekoliko minuta.</item>
+        <item>Kasnim samo nekoliko minuta.</item>
         <item>Budite tamo za oko 10 minuta.</item>
         <item>Samo naprijed, počnite bez mene.</item>
         <item>Žao mi je, ne mogu stići. Moramo promijeniti dogovor.</item>

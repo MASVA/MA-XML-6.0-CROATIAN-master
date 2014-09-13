@@ -47,7 +47,7 @@
   <string name="dislike">Ne sviđa mi se</string>
   <string name="done">Gotovo</string>
   <string name="download">Preuzmi</string>
-  <string name="download_auto_after_favorite_summary">Automatski preuzimai pjesme koje su vam favoriti</string>
+  <string name="download_auto_after_favorite_summary">Automatski preuzmi pjesme koje su vam favoriti</string>
   <string name="download_auto_after_favorite_title">Preuzimanje favorita</string>
   <string name="download_auto_cancel">Preuzimanje favorita je isključeno</string>
   <string name="download_auto_default_quality">Kvaliteta glazbe</string>

@@ -57,7 +57,7 @@
   <string name="auto_redial_pref_title">Auto-Ponovno biranje</string>
   <string name="auto_retry_mode_summary">Omogući način automatskog ponovnog pokušaja</string>
   <string name="auto_retry_mode_title">Automatski ponovni pokušaj</string>
-  <string name="autoip">Auto IP dialing</string>
+  <string name="autoip">Auto IP biranje</string>
   <string name="autoip_add_zero_prefix">Dodaj 0 predbroj za mobitele</string>
   <string name="autoip_areacode_required">Pozivni broj je potreban</string>
   <string name="autoip_areacode_required_accept">U redu</string>
@@ -728,7 +728,7 @@ Vaša SIM kartica bit će izbrisani nakon još jednog neuspjelog pokušaja."</st
   <string name="sip_account_list">SIP računi</string>
   <string name="sip_accounts">Računi za internetske pozive (SIP)</string>
   <string name="sip_accounts_title">Računi</string>
-  <string name="sip_add_account_tip_text">Za korištenje internet poziva, dodajte SIP računa</string>
+  <string name="sip_add_account_tip_text">Za korištenje internet poziva, dodajte SIP račun</string>
   <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
   <string name="sip_always">SIP_ALWAYS</string>
   <string name="sip_always_send_keepalive">Uvijek šalji</string>

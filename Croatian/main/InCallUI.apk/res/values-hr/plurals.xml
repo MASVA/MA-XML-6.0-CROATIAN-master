@@ -5,8 +5,8 @@
         <item quantity="one">Nema podatkovne veze %s minutu</item>
     </plurals>
     <plurals name="alert_dialog_exit_ecm">
-        <item quantity="other">Telefon će biti u načinu hitnog poziva %s minuta. Dok je u načinu hitnog poziva nijedna aplikacija koja koristi podatkovnu ne
-može biti korištena. Želite li sada izaći?</item>		
+        <item quantity="other">Telefon će biti u načinu hitnog poziva %s minuta. Dok je u načinu hitnog poziva nijedna aplikacija koja koristi podatkovnu vezu
+ne može biti korištena. Želite li sada izaći?</item>		
         <item quantity="one">Telefon će biti u načinu hitnog poziva %s minutu. Dok je u načinu hitnog poziva nijedna aplikacija koja koristi podatkovnu vezu 
 ne može biti korištena. Želite li sada izaći?</item>		
     </plurals>
