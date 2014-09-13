@@ -20,7 +20,7 @@
   <string name="activity_title_large_file">Velike datoteke</string>
   <string name="activity_title_license_manager">Dopuštenja</string>
   <string name="activity_title_memory">Memorija</string>
-  <string name="activity_title_networkassistants">Velike datoteke</string>
+  <string name="activity_title_networkassistants">Uporaba podataka</string>
   <string name="activity_title_notification_bar_manager">Obavijesti</string>
   <string name="activity_title_perm_manager">Dopuštenja</string>
   <string name="activity_title_permission_manager">Dopuštenja</string>
@@ -73,8 +73,8 @@
   <string name="btn_text_start_check">Skeniraj</string>
   <string name="btn_text_stop">Zaustavi</string>
   <string name="btn_text_virus_scan">Skeniraj</string>
-  <string name="button_text_accept">Prihvati</string>
-  <string name="button_text_accept_timer">Prihvati (%d)</string>
+  <string name="button_text_accept">Odobri</string>
+  <string name="button_text_accept_timer">Odobri (%d)</string>
   <string name="button_text_add_to_white_list">Dodaj u iznimke</string>
   <string name="button_text_backup_uninstall">Pohrani i deinstaliraj</string>
   <string name="button_text_cancel">Odustani</string>
@@ -175,8 +175,8 @@
   <string name="hints_apk_version">Verzija: %s</string>
   <string name="hints_app_uninstall_residual">Očistiti ostatke deinstaliranih datoteka?</string>
   <string name="hints_apps_perm_count">%d Dopuštenja</string>
-  <string name="hints_auto_start_disable_title">"%d aplikacija nije dopušteno autom. pokretanje"</string>
-  <string name="hints_auto_start_enable_title">%d aplikacija je dopušteno autom. pokretanje</string>
+  <string name="hints_auto_start_disable_title">Broj aplikacija bez dopuštenja autom. pokretanje %d</string>
+  <string name="hints_auto_start_enable_title">Broj aplikacija s dopuštenjem autom. pokretanja %d</string>
   <string name="hints_auto_start_warning_info">Zabrana automatskog pokretanja neće dobiti nikakvu poruku</string>
   <string name="hints_cache_header_left">Predmemorija: %d</string>
   <string name="hints_cleanning_text">Čišćenje…</string>
@@ -499,7 +499,7 @@
   <string name="pref_summary_auto_update_cleanup_db">Ažuriraj na: %s</string>
   <string name="pref_summary_cleanup_white_list">Smeće liste dopuštenih će se ignorirati</string>
   <string name="pref_summary_expand_cache_group">Grupe u popisu predmemorije će se proširiti prema zadanim postavkama</string>
-  <string name="pref_summary_garbage_cleanup_check_size">Obavijesti me kada Smeće Obavijesti me kada vrijeme dostigne određeni interval određenu veličinue</string>
+  <string name="pref_summary_garbage_cleanup_check_size">Obavijesti me kada Smeće dostigne određeni interval određenu veličinue</string>
   <string name="pref_summary_garbage_cleanup_check_time">Obavijesti me kada vrijeme dostigne određeni interval</string>
   <string name="pref_title_auto_update_cleanup_db">Automatsko ažuriranje</string>
   <string name="pref_title_cleanup_white_list">Bacite u smeće očišćenu listu dopuštenih</string>
@@ -516,7 +516,7 @@
   <string name="root_apply_step_1">Odobriti %s ROOT pristup?</string>
   <string name="root_apply_step_2">Odobravanje ROOT pristupa stranim aplikacijama može uzrokovati nestabilnost sustava</string>
   <string name="root_apply_step_3">Sigurnost vaših podataka (računi, zaporke i poruke) može biti ugrožena.</string>
-  <string name="root_apply_step_4">Odobravanje aplikacijama ROOT pristup na vlastitu odgovornost.</string>
+  <string name="root_apply_step_4">Odobravate aplikacijama ROOT pristup na vlastitu odgovornost.</string>
   <string name="root_apply_step_5">Odobriti %s ROOT pristup?</string>
   <string name="root_apply_title">Važno upozorenje!</string>
   <string name="score_pts">%</string>
