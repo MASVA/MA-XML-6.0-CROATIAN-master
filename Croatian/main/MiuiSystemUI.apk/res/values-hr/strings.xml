@@ -162,7 +162,6 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="status_bar_recording_back">Vrati se na snimanje zvuka</string>
   <string name="status_bar_recording_pause">Snimanje zvuka je pauzirano. Dodirnite za povratak na snimanje zvuka.</string>
   <string name="status_bar_settings_airplane">"Način rada u zrakoplovu"</string>
-  <string name="status_bar_settings_battery_meter_format"></string>
   <string name="status_bar_settings_signal_meter_disconnected">"Nema internetske veze"</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">"WLAN je povezan"</string>
   <string name="status_bar_style_settings">Obavijesti</string>
