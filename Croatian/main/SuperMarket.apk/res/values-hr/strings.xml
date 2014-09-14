@@ -64,7 +64,7 @@
   <string name="connect_no_fit_fail">Neuspjelo preuzimanje: Nažalost, ne postoji instalater za vaš telefon</string>
   <string name="connecting">Povezivanje</string>
   <string name="data_save_mode_tip">Slike su skrivene da se uštedi podatkovni promet</string>
-  <string name="delete">@miui:string/delete</string>
+  <string name="delete">Izbriši</string>
   <string name="delete_confirm">Izbrisati odabrane aplikacije: %1$s?</string>
   <string name="delete_confirm_system_app">Izbrisati odabranu %1$s aplikaciju? %2$s je aplikacija sustava.</string>
   <string name="delete_selected_apps">Izbrisati</string>

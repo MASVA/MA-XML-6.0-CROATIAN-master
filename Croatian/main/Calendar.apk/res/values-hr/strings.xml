@@ -60,6 +60,7 @@
   <string name="copy_email">Kopiranje e-adrese</string>
   <string name="copy_number">Kopiranje telefonskog broja</string>
   <string name="create_an_account_desc">Kalendar radi bolje s Google računom.
+
 • Pristupite mu iz bilo kojeg web-preglednika.
 • Stvorite sigurnosnu kopiju svojih događaja.</string>
   <string name="creating_event">Događaj stvoren</string>
@@ -90,8 +91,8 @@
   <string name="done">Vrati</string>
   <string name="edit_event_all_day_label">Cijeli dan</string>
   <string name="edit_event_calendar_label">Kalendar</string>
-  <string name="edit_event_from_label">Od</string>
   <string name="edit_event_confirm_message">Odbaciti promjene za događaj?</string>
+  <string name="edit_event_from_label">Od</string>
   <string name="edit_event_label">"Pojedinosti"</string>
   <string name="edit_event_show_all">Prikaži sve</string>
   <string name="edit_event_to_label">Do</string>
@@ -120,6 +121,7 @@
   <string name="event_info_when">"Kada: "</string>
   <string name="event_info_where">"Gdje: "</string>
   <string name="event_lunar_month"/>
+  <string name="event_not_found">Događaj nije pronađen.</string>
   <string name="event_show_more">Prikaži</string>
   <string name="event_view">Prikaži događaj</string>
   <string name="every_weekday">Svaki dan (pon–pet)</string>
@@ -136,7 +138,7 @@
   <string name="huangli_bad_type"/>
   <string name="huangli_good_type"/>
   <string name="huangli_label">Huang Li</string>
-  <string name="jump_date">Preskoči</string>
+  <string name="jump_date">Skoči</string>
   <string name="jump_date_full">Skoči na datum</string>
   <string name="label_recent_events">Nedavni događaji</string>
   <string name="loading">"Učitavanje…"</string>
@@ -153,18 +155,18 @@
   <string name="modify_all">Promijeni sve događaje u nizu</string>
   <string name="modify_all_following">Promijeni ovaj i sve buduće događaje</string>
   <string name="modify_event">Promijeni samo ovaj događaj</string>
-  <string name="month_medium_april">"trav."</string>
-  <string name="month_medium_august">"kol."</string>
-  <string name="month_medium_december">"pros."</string>
-  <string name="month_medium_february">"velj."</string>
-  <string name="month_medium_january">"sij."</string>
-  <string name="month_medium_july">"srp."</string>
-  <string name="month_medium_june">"lip."</string>
-  <string name="month_medium_march">"ožuj."</string>
-  <string name="month_medium_may">"svib."</string>
-  <string name="month_medium_november">"stud."</string>
-  <string name="month_medium_october">"list."</string>
-  <string name="month_medium_september">"ruj."</string>
+  <string name="month_medium_april">Tra</string>
+  <string name="month_medium_august">Kol</string>
+  <string name="month_medium_december">Pro</string>
+  <string name="month_medium_february">Velj</string>
+  <string name="month_medium_january">Sij</string>
+  <string name="month_medium_july">Srp</string>
+  <string name="month_medium_june">Lip</string>
+  <string name="month_medium_march">Ožu</string>
+  <string name="month_medium_may">Svi</string>
+  <string name="month_medium_november">Stu</string>
+  <string name="month_medium_october">Lis</string>
+  <string name="month_medium_september">Ruj</string>
   <string name="month_view">Mjesec</string>
   <string name="monthly">Mjesečno</string>
   <string name="monthly_on_day">Mjesečno (na dan %s)</string>
@@ -205,7 +207,7 @@
   <string name="preferences_default_reminder_title">Predefinirano vrijeme podsjetnika</string>
   <string name="preferences_general_title">Postavke izgleda kalendara</string>
   <string name="preferences_hide_declined_title">Sakrij odbačene događaje</string>
-  <string name="preferences_home_tz_default">Amerika/Los_Angeles</string>
+  <string name="preferences_home_tz_default">Europe/Zagreb</string>
   <string name="preferences_home_tz_title">Domaća vremenska zona</string>
   <string name="preferences_reminder_title">Obavijesti &amp; podsjetnici</string>
   <string name="preferences_show_week_num_title">Pokaži broj tjedna</string>
@@ -240,6 +242,8 @@
   <string name="select_synced_calendars_button">Kalendari za sinkronizaciju</string>
   <string name="select_synced_calendars_title">Kalendari za sinkronizaciju</string>
   <string name="select_visible_calendars_title">Kalendari za prikaz</string>
+  <string name="show_all_lunar">Lunárny (Čína)</string>
+  <string name="show_almanac">Almanach (Čína)</string>
   <string name="show_controls">Pokaži kontrole</string>
   <string name="show_day_view">Pokaži dan</string>
   <string name="show_newer_events">Dodirnite za pregled događaja nakon %1$s</string>
@@ -258,7 +262,7 @@
   <string name="timezone_label">Vremenska zona</string>
   <string name="today">Danas</string>
   <string name="today_at_time_fmt">Danas u %s</string>
-  <string name="today_no_events">Nema programa danas</string>
+  <string name="today_no_events">Nema događaja za danas</string>
   <string name="tomorrow">Sutra</string>
   <string name="tomorrow_at_time_fmt">Sutra u %s</string>
   <string name="view_all_matches">Prikaži sve</string>

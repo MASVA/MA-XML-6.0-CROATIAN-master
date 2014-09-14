@@ -20,13 +20,13 @@
   <string name="detail">Detalj</string>
   <string name="disable_find_device_error">"Ne mogu isključiti "Pronađi uređaj". %1$s"</string>
   <string name="enableAll">Sinkroniziraj sve</string>
-  <string name="enable_cloud_service_notification">"Niste uključili cloud uslugu"</string>
+  <string name="enable_cloud_service_notification">"Niste omogućili MiCloud uslugu"</string>
   <string name="enable_find_device_error">"Ne mogu isključiti "Pronađi uređaj". %1$s"</string>
   <string name="enable_micloud">Prijavite se ili napravite račun</string>
   <string name="enable_sync">Uključi</string>
   <string name="enable_sync_dspt">Sinkronizacija je isključena</string>
   <string name="error_data_in_transfer">Vaši podaci se prenose. Pričekajte %s sati.</string>
-  <string name="error_data_in_transfer_title">Cloud usluge su trenutno nedostupne.</string>
+  <string name="error_data_in_transfer_title">Mi Cloud usluge su trenutno nedostupne.</string>
   <string name="error_forbidden">Sinkronizacija je onemogućena zbog problema s vašim Mi Računom</string>
   <string name="error_network">"Ne mogu se povezati na mrežu"</string>
   <string name="error_not_acceptable">Sinkronizacija je onemogućena.</string>
@@ -66,6 +66,7 @@ Ako promjenite SIM kartice, novi aktivacijski SMS mora biti poslan."</string>
   <string name="micloud_first_login_summary"/>
   <string name="micloud_first_login_title"/>
   <string name="micloud_full_influence_dspt">"Sve vaše fotografije, videozapisi, bilješke i aplikacije će ostati pohranjene na cloud. 
+
 Na taj način, ako izgubite ili oštetite uređaj, vaši podaci će i dalje biti na sigurnom. 
 
 Kada je vaš cloud pun, vaši stari podaci neće ići nikamo. Međutim, svaki novi dodani sadržaj (primjerice fotografije, videozapisi, bilješke i aplikacije) neće biti pohranjene.
@@ -100,7 +101,7 @@ Da biste to riješili, možete ili očistiti neke stare datoteke kako bi napravi
   <string name="micloud_upgrade_space">Povećajte raspoloživi kapacitet</string>
   <string name="micloud_user_space_title">Prostor za pohranu</string>
   <string name="micloud_user_space_usage">Prostor za pohranu</string>
-  <string name="micloud_warn_full_sum">"Nove stavke neće biti sinkronizirane s MiCloud."</string>
+  <string name="micloud_warn_full_sum">"Nove stavke neće biti sinkronizirane s MiCloudom."</string>
   <string name="micloud_warn_full_title">Prostor za pohranu je pun!</string>
   <string name="micloud_warn_low_sum">"Vaš MiCloud iskorišten 90%."</string>
   <string name="micloud_warn_low_title">Nizak prostor za pohranu…</string>
@@ -132,6 +133,7 @@ Da biste to riješili, možete ili očistiti neke stare datoteke kako bi napravi
   <string name="sub_sync_item_sms_title_wifi_only">Sinkronizacija MMS samo preko WLAN-a</string>
   <string name="sync">Sinkr.</string>
   <string name="sync_dspt">Omogući sinkr.</string>
+  <string name="sync_item_calllog_summary">Sinkroniziraj zapise obavljenih/primljenih poziva na oavj telefon</string>
   <string name="sync_item_calllog_title">Popis poziva</string>
   <string name="sync_item_sms_summary">Sinkroniziraj autom. poslane/primljene SMS na ovaj telefon</string>
   <string name="sync_item_sms_title">Sinkroniziraj SMS</string>
@@ -148,7 +150,7 @@ Da biste to riješili, možete ili očistiti neke stare datoteke kako bi napravi
   <string name="sync_sub_dspt_provision">Pregledaj i upravljaj svojim podacima s bilo kojeg mjesta</string>
   <string name="sync_sub_int_dspt">Aktivacijski SMS poruka podliježe naknadama međunarodnog prometa uporabe podataka.</string>
   <string name="system_sync_off">Sinkr. sustava isklj.</string>
-  <string name="title_reg">Napravite račun</string>
+  <string name="title_reg">Napravite MiRačun</string>
   <string name="unactivated_user">Deaktivirano</string>
   <string name="vcode">Provjera koda</string>
   <string name="verify">Potvrdi</string>
