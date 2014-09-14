@@ -9,7 +9,7 @@ https://account.mi.com/pass/serviceLogin.</string>
   <string name="apply_buddy_update_info_message">Dodirnite "Ažuriraj sada" i telefon će početi proces nadogradnje</string>
   <string name="apply_existing_update_md5error_title">MD5 potpisi se ne podudaraju…</string>
   <string name="apply_later_button_text">"Primijeni kasnije"</string>
-  <string name="apply_now_button_text">Ažuriraj</string>
+  <string name="apply_now_button_text">Ažuriraj sada</string>
   <string name="apply_unable_to_reboot_toast">Nije moguće ponovo pokretanje radi ulaska u Recovery.</string>
   <string name="apply_update_dialog_cancel_button">"Odustani"</string>
   <string name="apply_update_dialog_update_button">Ažuriraj</string>
