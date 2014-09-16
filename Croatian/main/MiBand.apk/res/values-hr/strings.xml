@@ -27,7 +27,9 @@
 	<string name="app_exit_press_again">Pritisnite još jednom za izlaz</string> 
 	<string name="app_info_version">"Verzija: %1$s 
 Sporazum: %2$s"</string>
-	<string name="app_name">Mi Band</string> 
+	<string name="app_name">Mi Band</string>
+	<string name="awake_format">, probudio %1$s puta.</string>
+    <string name="awake_format_1">, probudio jednom.</string>
 	<string name="back">Natrag</string> 
 	<string name="battery_charge_full">Baterija napunjena</string> 
 	<string name="battery_charging">Punjenje…</string> 
@@ -38,11 +40,11 @@ Sporazum: %2$s"</string>
 	<string name="bind_bracelet_ok">Uspješno povezan</string> 
 	<string name="bind_new_mili">Poveži s novim  Mi Bandom</string> 
 	<string name="bind_weixin_failed">Nije uspjelo, pokušajte ponovno</string>
-    <string name="bind_weixin_new_tips">"点击“微信接入”启动微信进入小米手环帐号页面，
-然后点击“关注”按钮即可完成接入"</string>
-    <string name="bind_weixin_new_now">正在进行微信接入，请稍候......</string>
-    <string name="bind_weixin_new_disable_tips">"接入微信关注小米手环服务号后即可通过微信查看当
-前步数，并且与朋友圈中的好友们一起PK运动排行"</string>
+    <string name="bind_weixin_new_tips">"Dodirnite link s Wechat za početak,
+zatim dotaknite Prati za dovršetak sinkronizacije"</string>
+    <string name="bind_weixin_new_now">Sinkronizacija s Wechatom, samo trenutak......</string>
+    <string name="bind_weixin_new_disable_tips">"Nakon povezivanja s vašim Wechat računom i praćenja Mi Band Wechat usluge računa,
+možete provjeriti podatke poput broja poduzetih koraka putem Wechata. Također možete vidjeti status vašeg rezultata među svojim prijateljima."</string>
 	<string name="bind_weixin_now">Stvaranje QR koda, pričekajte…</string> 
 	<string name="bind_weixin_qrcode_name">Mi Band QR kod</string> 
 	<string name="bind_weixin_save">Spremljeno u Galeriju,</string> 
@@ -104,6 +106,8 @@ Sporazum: %2$s"</string>
 	<string name="device_list">Mi Band u blizini</string> 
 	<string name="device_not_found_not_knocked">Pretražite opet nakon što dotaknete Mi Band i on jednom zatreperi</string> 
 	<string name="device_not_response">"Zašto nije Mi Band zatreperio?"</string> 
+	<string name="discard">Odustani</string>
+    <string name="discard_alarm_change">Odustati od promjena?</string>
 	<string name="disable_debug_log">Zapis ispravljanja grešaka zatvoren</string> 
 	<string name="distance">Udaljenost</string> 
 	<string name="donot_bind">Poveži kasnije</string> 
@@ -247,6 +251,10 @@ Stavite Mi Band na punjenje."</string>
 	<string name="logining">Prijava…</string> 
 	<string name="look_device_list">Pretraživanje za Mi Band u blizini</string> 
 	<string name="male">Muškarac</string> 
+	<string name="main_ui_share_tips">"Vježbao sam %1$s%2$s danas.
+%3$s"</string>
+    <string name="main_ui_sleep_share_tips">"Laganog sna %1$s%2$s
+Zaspao sam u %3$s, prebudio se u %4$s."</string>
 	<string name="marathon_format_0">%1$s je jednako cijelom maratonu</string> 
 	<string name="marathon_format_1">Više od %1$s broja maratona</string> 	
 	<string name="mili_exit_login_info">"Spremate se odjaviti s trenutnog Mi računa.
@@ -316,6 +324,7 @@ To je oko 12000 koraka hoda."</string>
 	<string name="pull_to_refresh_pull_label">Povuci za osvježiti</string> 
 	<string name="pull_to_refresh_refreshing_label">Osvježavanje…</string> 
 	<string name="pull_to_refresh_release_label">Otpustite za osvježiti</string> 
+	<string name="ran">"trčano "</string>
 	<string name="red">Crvena</string> 
 	<string name="register">Registriraj se</string> 
 	<string name="remain_days_format">Dana od zadnjeg punjenja: %s</string> 
@@ -504,7 +513,7 @@ otvorite Postavke -> Opće postavke -> Sigurnost -> Sigurnost zaslona"</string>
 	<string name="user_agreement">Izjava korisnika i Pravila o privatnosti</string>
 	<string name="visit_micom">Posjetite službenu stranicu</string> 
 	<string name="wait">Pričekajte trenutak…</string> 
-	<string name="walked">Prohodao</string> 
+	<string name="walked">"Prohodano"</string> 
 	<string name="wear_hand">Zglob</string> 
 	<string name="weared_days">Ukupno dana</string>
 	<string name="weather_aqi">Kvaliteta zraka %s</string>
