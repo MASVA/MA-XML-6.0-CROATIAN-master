@@ -116,10 +116,10 @@
   <string name="call_waiting_tone_title">Obavijesti poziva na čekanju</string>
   <string name="call_waiting_tone_twice_and_vibrate">Reproduciraj zvuk obavijesti i vibriraj dva puta</string>
   <string name="call_waiting_tone_twice_only">Reproduciraj zvuk obavijesti dva puta</string>
-  <string name="caller_id_summary">Sakrij moj broj za odlazne pozive (potvrdu da vaš davatelj usluga podržava ovu značajku)</string>
+  <string name="caller_id_summary">Sakrij moj broj za odlazne pozive (potvrdi da vaš davatelj usluga podržava ovu značajku)</string>
   <string name="caller_id_title">ID Pozivatelja</string>
   <string name="callind_multi_sim">SUBS postavke</string>
-  <string name="callwait_open_hint">\"Poziv na čekanju\" je značajka koju pruža vaš mobilni operater. Ako dobijete obavijest o pogrešci, obratite se svom mobilnom operateru i uvjerite se da je ova značajka omogućena za svoj broj.</string>
+  <string name="callwait_open_hint">\"Poziv na čekanju\" je značajka koju pruža vaš mobilni operater. Ako dobijete obavijest o pogrešci, obratite se svom mobilnom operateru i uvjerite se da je ova značajka omogućena za vaš broj.</string>
   <string name="cancel">Odustani</string>
   <string name="cancel_call">Odustani</string>
   <string name="card_title_MOcall_forwarding">Odlazni poziv je proslijeđen</string>
@@ -199,7 +199,7 @@
   <string name="deactivate_all">Otkaži sve</string>
   <string name="default_call_type">CSVoice</string>
   <string name="default_port">5060</string>
-  <string name="default_preference_summary">&lt;Nije postavljeno&gt;</string>
+  <string name="default_preference_summary">Nije postavljeno</string>
   <string name="default_transport">UDP</string>
   <string name="delete">Obrisati</string>
   <string name="deleteAllSimEntries">Obrisati sve kontakte sa SIM kartice</string>

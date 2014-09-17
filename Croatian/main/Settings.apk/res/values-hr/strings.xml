@@ -465,7 +465,7 @@ Onemogućiti plutajuće prozore?"</string>
   <string name="bluetooth_unlock_turned_on">Uključeno</string>
   <string name="bluetooth_untether_blank">%1$s će biti oslobođen.</string>
   <string name="bluetooth_visibility_timeout">Vidljivost je istekla</string>
-  <string name="breathing_light_color_menu_title">Boja svjetla</string>
+  <string name="breathing_light_color_menu_title">Boja LED-a</string>
   <string name="breathing_light_color_summary">LED boja kod primanja nove obavijesti</string>
   <string name="breathing_light_freq_summary">Pulsiraj kada imaš nove obavijesti</string>
   <string name="breathing_light_freq_title">Frekvencija treperenja LED-a</string>
@@ -1316,7 +1316,7 @@ Trenutno ste prijavljeni na sljedeće račune:
   <string name="menu_proc_stats_type_background">Pozadina</string>
   <string name="menu_proc_stats_type_cached">Spremljeno u predmemoriju</string>
   <string name="menu_proc_stats_type_foreground">Prednji plan</string>
-  <string name="menu_restore">Ponovo postavi na zadano</string>
+  <string name="menu_restore">Obnovi na zadano</string>
   <string name="menu_save">"Spremi"</string>
   <string name="menu_show_system">Prikaži sustav</string>
   <string name="menu_stats_last_unplugged">Kod posljednjeg isključivanja za %1$s</string>
