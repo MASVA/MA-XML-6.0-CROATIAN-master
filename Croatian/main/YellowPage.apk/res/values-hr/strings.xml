@@ -291,6 +291,7 @@ molimo vas nazovite kako bi potvrdili pozivatelja. Banke, e-commerce tvrtke i ku
   <string name="sim1">Sim 1</string>
   <string name="sim2">Sim 2</string>
   <string name="sina_share_fail">Slanje nije uspjelo</string>
+  <string name="sina_share_fail_content_repeat">"Ne mogu podijeliti, sadržaj već postoji…"</string>
   <string name="sina_share_pendding">Šaljem…</string>
   <string name="sina_share_success">Poslano</string>
   <string name="sina_token_expired_warning">Weibo račun je istekao: Obnovite ga</string>

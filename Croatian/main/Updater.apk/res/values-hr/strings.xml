@@ -130,6 +130,7 @@ Preko %2$s korisnika se već prijavilo u MIUI %3$s"</string>
   <string name="sign_in_info_total_more">"Vaš nivo ažuriranja je %1$s 
 Preko %2$s korisnika se već prijavilo u MIUI %3$s"</string>
   <string name="sina_share_fail">"Ne mogu poslati"</string>
+  <string name="sina_share_fail_content_repeat">"Ne mogu podijeliti, sadržaj već postoji…"</string>
   <string name="sina_share_pendding">Slanje…</string>
   <string name="sina_share_success">Slanje uspješno!</string>
   <string name="sina_token_expired_warning">Weibo račun je istekao. Morate se ponovno prijaviti</string>

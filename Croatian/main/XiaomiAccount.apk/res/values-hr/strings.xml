@@ -159,6 +159,7 @@
   <string name="internet_comm">Usluge poruka</string>
   <string name="license_host_unreachable">"Ne mogu se spojiti na mrežu. Da biste sada vidjeli ove informacije, idite na %s."</string>
   <string name="loading">Učitavanje…</string>
+  <string name="loading_mili_center">Učitavanje Mi Kredita</string>
   <string name="login">Prijavite se</string>
   <string name="login_failed">"Ne mogu se prijaviti"</string>
   <string name="login_instead_reg">Koristi ovaj broj</string>

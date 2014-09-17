@@ -243,6 +243,8 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg davatelja mobilnih
   <string name="tc_sms_report_get_success_notify_body">Uvjerite se da je izvješće točno i pošaljite ga MIUI.</string>
   <string name="tc_sms_report_get_success_notify_title">Primljen SMS izvješća uporabe podataka</string>
   <string name="tc_sms_report_geting_sms">Dobivanje SMS-a izvješća uporabe podataka</string>
+  <string name="tc_sms_report_notify_correction_body">Idi u-> Sigurnost-> Uporaba podataka i pokušajte ponovno ručno.</string>
+  <string name="tc_sms_report_notify_correction_failure_title">"Ne mogu ažurirati detalje uporabe podataka"</string>
   <string name="tc_sms_report_notify_get_failure_body">"Vaš mobilni operater ne nudi ovu uslugu."</string>
   <string name="tc_sms_report_notify_get_failure_title">"Ne mogu dobiti izvješće o korištenju podataka"</string>
   <string name="tc_sms_report_notify_get_timeout_body">Istek vremena obrade. Potvrdi sa svojim operaterom da je upit koda SMS-om koji ste unijeli je ispravan.</string>

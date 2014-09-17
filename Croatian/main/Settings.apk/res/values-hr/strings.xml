@@ -1118,7 +1118,6 @@ Neke aplikacije neće raditi dok ih ne ažuriraju njihovi razvijatelji."</string
   <string name="last_synced">Zadnja sinkronizacija: %1$s</string>
   <string name="later">Kasnije</string>
   <string name="launch_count_label">Broj</string>
-  <string name="launcher_settings_title">Pokretač</string>
   <string name="launching_cit">Pokrećem cit, pričekajte.</string>
   <string name="launching_pho">Pokrećem podatke uređaja…</string>
   <string name="launching_rep">Slanje zapisa o pogrešci…</string>
@@ -1573,7 +1572,6 @@ i pokrenite ga."</string>
   <string name="preferred_application_warning_replace">"Zamijeni"</string>
   <string name="preferred_application_warning_title">"Zamijeni zadano: %s"</string>
   <string name="preferred_application_warning_use_system">Koristi %s</string>
-  <string name="preferred_launcher_title">Željeni pokretač</string>
   <string name="preferred_media_app_summary">"Odaberite apl. za reprodukciju glazbe"</string>
   <string name="preferred_sms_settings">This app will be set as your default app for reading and composing text messages.</string>
   <string name="preferred_sms_title">Default messaging app</string>
@@ -1873,7 +1871,6 @@ Ova postavka utječe na sve korisnike na ovom uređaju."</string>
   <string name="search_key">tipka</string>
   <string name="search_label">Postavke</string>
   <string name="search_language">jezik</string>
-  <string name="search_launcher">pokretač</string>
   <string name="search_led">led</string>
   <string name="search_network">mreža</string>
   <string name="search_power_mode">način napajanja</string>
