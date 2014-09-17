@@ -17,12 +17,12 @@
          <item quantity="many">" i %1$d mapa?"</item>
     </plurals>
     <plurals name="directory_item_count">
-         <item quantity="other">%d stavaka</item>
-         <item quantity="zero">%d stavaka</item>
-         <item quantity="one">%d stavka</item>
-         <item quantity="two">%d stavke</item>
-         <item quantity="few">%d stavaka</item>
-         <item quantity="many">%d stavaka</item>
+         <item quantity="other">Stavke: %d</item>
+         <item quantity="zero">Stavke: %d</item>
+         <item quantity="one">Stavke: %d</item>
+         <item quantity="two">Stavke: %d</item>
+         <item quantity="few">Stavke: %d</item>
+         <item quantity="many">Stavke: %d</item>
     </plurals>
     <plurals name="ui_bar_txt_download_progress">
          <item quantity="other">%1$d datoteka preostalo za preuzimanje</item>

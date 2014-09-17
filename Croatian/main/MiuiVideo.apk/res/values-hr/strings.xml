@@ -28,7 +28,7 @@
   <string name="app_name">"Videozapis"</string>
   <string name="area_colon">"Zemlja: "</string>
   <string name="authenticated_failed">"Prijava nije uspjela"</string>
-  <string name="authenticating">&lt;CDATA&gt;Provjera &lt;/CDATA&gt;</string>
+  <string name="authenticating">Provjera</string>
   <string name="authenticating_manually">Provjera nije uspjela</string>
   <string name="average_score">Prosječan rezultat</string>
   <string name="avg_score">%.1f</string>
@@ -49,7 +49,7 @@
   <string name="clear_cache">Izbriši memoriju slika</string>
   <string name="clear_cache_success">Memorija izbrisana</string>
   <string name="clear_cache_summary">Izbrisane memorirane slike iz Video preglednika</string>
-  <string name="click_star_rate">Dodirnite zvijezdu da ocijenite</string>
+  <string name="click_star_rate">Dodirnite za pregled</string>
   <string name="click_to_login">Dodirnite sliku za prijavu</string>
   <string name="cnlive">cnlive</string>
   <string name="comment">Komentari</string>
@@ -130,7 +130,7 @@
   <string name="init">Init</string>
   <string name="install_comfirm">Dodirni za instaliranje</string>
   <string name="installed">Instalirano</string>
-  <string name="installed_count_ge">%d Instalirano</string>
+  <string name="installed_count_ge">Instalirano %d</string>
   <string name="introduce">Sažetak</string>
   <string name="key_back_down_toast">Za izlaz, pritisnite tipku Natrag opet</string>
   <string name="lekan">Lekan</string>
@@ -234,7 +234,7 @@
   <string name="tencent">Tencent</string>
   <string name="time_colon">"Datum: "</string>
   <string name="to_be_play_label_v5">"Započinje: "</string>
-  <string name="toast_back_key_pressed_notice">Još jednom pritisnite Povratak za izlaz</string>
+  <string name="toast_back_key_pressed_notice">Još jednom pritisnite Natrag za izlaz</string>
   <string name="toast_message_continue_play_from">Nastavi reprodukciju od</string>
   <string name="toast_message_continue_play_hour">"sati "</string>
   <string name="toast_message_continue_play_minute">"minuta "</string>

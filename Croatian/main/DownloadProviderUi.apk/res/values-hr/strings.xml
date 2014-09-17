@@ -1,14 +1,17 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Only_the_wifi">Koristi samo WLAN</string>
+  <string name="add_flow_fail_haveget_msg">Žao nam je, vi ste već dobili besplatnu veliku brzinu preuzimanja ovog mjeseca</string>
+  <string name="add_flow_fail_vip_msg">Xunlei ubrzanje je uključeno</string>
+  <string name="add_flow_success_msg">Dobivanje 300MB velike brzine preuzimanja aktivirano</string>
   <string name="all_downloads">Sva preuzimanja</string>
-  <string name="all_the_internet">"Koristi "</string>
+  <string name="all_the_internet">Sve mreže</string>
   <string name="all_fileter">Sve</string>
   <string name="apk_filter">APK</string>
   <string name="app_downloads">%s preuzimanja</string>
   <string name="app_label">Preuzimanja</string>
   <string name="auth_activity_title">Xunlei račun</string>
-  <string name="bind_xunlei_account">Aktiviraj Xunlei račun</string>
+  <string name="bind_xunlei_account">poveži Xunlei račun&gt;</string>
   <string name="button_sort_by_date">Poredano po datumu</string>
   <string name="button_sort_by_size">Poredano po veličini</string>
   <string name="cancel_running_download">Odustani</string>
@@ -84,9 +87,11 @@
   <string name="media_filter">MEDIJA</string>
   <string name="menu_enter_edit_mode">Urednik</string>
   <string name="menu_preferences">Postavke preuzimanja</string>
-  <string name="mi_money">Mi Kredit</string>
-  <string name="mi_money_">Mi Kredit</string>  
-  <string name="missing_title">&lt;Nepoznato&gt;</string>
+  <string name="menu_title_pause_all">Pauziraj sve</string>
+  <string name="menu_title_resume_all">Pokreni sve</string>
+  <string name="menu_title_settings">Postavke</string>
+  <string name="mi_money">Mi money</string>
+  <string name="mi_money_">mi_money)</string>
   <string name="no_downloads">Nema preuzimanja.</string>
   <string name="one_month">1 mjesec</string>
   <string name="open_download">Otvori</string>

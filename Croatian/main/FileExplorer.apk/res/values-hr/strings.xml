@@ -45,8 +45,10 @@
   <string name="compress_message">Sažimanje na…</string>
   <string name="compress_title">Sažimanje</string>
   <string name="confirm">Potvrdi</string>
+  <string name="connect_network_setting_des">Podsjeti prilikom pristupa mreži</string>
   <string name="confirm_know">U redu</string>
   <string name="copy_failed">"Ne mogu kopirati"</string>
+  <string name="copy_file_to_kuaipan">Kopiraj datoteku na Kuaipan</string>
   <string name="create_kuaipan_shortcut_pref">Stavi na početni zaslon</string>
   <string name="create_new_folder_desctiption">Stvaranje mape…</string>
   <string name="create_new_folder_failed">Neuspješno stvaranje mape</string>
@@ -73,10 +75,11 @@
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Prazno</string>
   <string name="dlg_error_unmount_text">Nije uspjelo odstraniti USB pohranu.</string>
-  <string name="download_current_progress">%1$d/100</string>
+  <string name="download_current_progress">%1$d%%</string>
   <string name="download_failed">Preuzimanje neuspješno!</string>
   <string name="download_link_completed">Podijelio sam %1$s preko KuaiPan. Dodirnite na vezu ispod za pregled:</string>
   <string name="downloading">Preuzimanje…</string>
+  <string name="downloading_in_3g">Preuzimanje preko 3G…</string>
   <string name="enable_sd_card">Umetnite SD karticu ili onemogućite USB masovnu pohranu.</string>
   <string name="error_filename_too_long">Naziv je predugačak.</string>
   <string name="error_info_cant_send_folder">"Ne mogu slati ovu vrstu datoteke."</string>
@@ -88,6 +91,7 @@
   <string name="favorite_ringtone">Zvukovi zvona</string>
   <string name="favorite_screen_cap">Snimak zaslona</string>
   <string name="fileSizeSuffix">%1$s%2$s</string>
+  <string name="file_already_downlaoded">Datoteka spremljena u \"%1$s\"</string>
   <string name="file_info_canread">Čitljivo:</string>
   <string name="file_info_canwrite">Pisljivo:</string>
   <string name="file_info_ishidden">Skriveno:</string>
@@ -112,6 +116,8 @@
   <string name="gbk_summary">Pojednostavljeni kineski Windows zadano kodiranje</string>
   <string name="gbk_title">GBK</string>
   <string name="gigabyteShort">GB</string>
+  <string name="image_download">Preumzi</string>
+  <string name="image_share">Dijeli</string>
   <string name="instruction">Unesite adresu u FTP klijent:</string>
   <string name="instruction_pre">Dodirnite za pokretanje FTP poslužitelja</string>
   <string name="kilobyteShort">KB</string>
@@ -173,6 +179,8 @@
   <string name="name_illegal">Morate unijeti ime.</string>
   <string name="net_lose_connected">Veza izgubljena.</string>
   <string name="networkView_notConnected">"Ne mogu se povezati na mrežu"</string>
+  <string name="network_connect_confirm_des">Korištenje KuaiPana će pristupiti mreži, slažete li se?</string>
+  <string name="never_notify_network_connect">"Ne prikazuj ovo ponovo"</string>
   <string name="new_folder_name">Mapa bez imena</string>
   <string name="no">Ne</string>
   <string name="no_enough_storage_indication">"Prostor uređaja za pohranu je pun."</string>
@@ -189,7 +197,9 @@
 2. Učitati je na vaš KuaiPan račun."</string>
   <string name="open_changed_file_title">Promjena primijenjena</string>
   <string name="open_file_failed">"Ne mogu otvoriti"</string>
+  <string name="operate_confirm_in_3g">Koristiti vašu mobilnu podatkovnu vezu za preuzimanje ove velike datoteke?</string>
   <string name="operating">Obrada…</string>
+  <string name="operation_agree">Slažem se</string>
   <string name="operation_cancel">Otkaži</string>
   <string name="operation_compress">Sažeti</string>
   <string name="operation_compressing">Sažimanje…</string>
@@ -220,6 +230,7 @@
   <string name="operation_rename_message">Preimenuj mapu</string>
   <string name="operation_resume">Start</string>
   <string name="operation_resume_all">Nastavi sve</string>
+  <string name="operation_save">Spremi</string>
   <string name="operation_send">Pošalji</string>
   <string name="operation_show_sys">Pokaži skrivene datoteke</string>
   <string name="operation_unfavorite">Nefavoriti</string>
@@ -263,10 +274,12 @@ Dodano slobodnog prostora %1$s"</string>
   <string name="storage_usb">USB pohrana</string>
   <string name="storage_warning">"Ne mogu koristiti vanjsku pohranu"</string>
   <string name="sys_size_enable">Omogući</string>
+  <string name="system_alert">Podsjeti</string>
   <string name="tab_category">Kategorije</string>
   <string name="tab_expand">Proširi</string>
   <string name="tab_local">Lokalno</string>
   <string name="tab_networkdisk">KuaiPan</string>
+  <string name="tab_path">Putanja</string>
   <string name="tab_phone">Prikaz popisa</string>
   <string name="tab_sys_size">Ukupna prostor pohrane</string>
   <string name="terabyteShort">TB</string>
@@ -301,6 +314,7 @@ oslobodili prostor.</string>
   <string name="user_guide_other_version">Preuzimanje na mi.kuaipan.cn.Prijavite se sa svojim računom(%1$s)</string>
   <string name="user_guide_save_file">Spremanje vaših datoteke i fotografija na KuaiPan.</string>
   <string name="user_guide_upload_to_kuaipan">Pohranite stavke na KuaiPan s vašeg telefona</string>
+  <string name="user_guide_summary">Kratak pregled</string>
   <string name="utf8_summary">Zadano kodiranje FTP sistema</string>
   <string name="utf8_title">UTF-8</string>
   <string name="wait_net">Čekam na mrežu…</string>

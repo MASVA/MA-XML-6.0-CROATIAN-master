@@ -40,7 +40,7 @@
   <string name="open_flash_error">"Ne mogu uključiti svjetiljku"</string>
   <string name="phone">Telefon:</string>
   <string name="picker_lable">Slika</string>
-  <string name="place_barcode_into_rectangle">Postavite QR kod ili barkod unutar tražila</string>
+  <string name="place_barcode_into_rectangle">Poravnajte kod u okviru ispod</string>
   <string name="qq_details">QQ detalji:</string>
   <string name="qr_code_details">Detalji QR koda:</string>
   <string name="recognize">Prepoznaj</string>
