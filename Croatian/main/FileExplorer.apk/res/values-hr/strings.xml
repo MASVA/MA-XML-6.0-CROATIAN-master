@@ -23,7 +23,6 @@
   <string name="category_document">Dokumenti</string>
   <string name="category_favorite">Označeno</string>
   <string name="category_log">Zapisi</string>
-  <string name="category_mirouter">Router</string>
   <string name="category_music">Glazba</string>
   <string name="category_other">Ostalo</string>
   <string name="category_picture">Slike</string>
@@ -40,7 +39,6 @@
   <string name="clean_trash_box">Isprazni smeće</string>
   <string name="cleaning">Čišćenje…</string>
   <string name="close">Zatvori</string>
-  <string name="colon">": "</string>
   <string name="compress_fail">Sažimanje nije uspjelo: datoteka s istim imenom već postoji.</string>
   <string name="compress_message">Sažimanje na…</string>
   <string name="compress_title">Sažimanje</string>
@@ -116,8 +114,6 @@
   <string name="gbk_summary">Pojednostavljeni kineski Windows zadano kodiranje</string>
   <string name="gbk_title">GBK</string>
   <string name="gigabyteShort">GB</string>
-  <string name="image_download">Preumzi</string>
-  <string name="image_share">Dijeli</string>
   <string name="instruction">Unesite adresu u FTP klijent:</string>
   <string name="instruction_pre">Dodirnite za pokretanje FTP poslužitelja</string>
   <string name="kilobyteShort">KB</string>
@@ -130,7 +126,6 @@
   <string name="kuaipan_tech_support">Prijavite se na KuaiPan.cn</string>
   <string name="load_err">"Ne mogu učitati"</string>
   <string name="loading">Učitavam…</string>
-  <string name="local_cache_size">Veličina lokalne memorije: %s</string>
   <string name="login_reg_content">Pohranite datoteke i sinkronizirajte ih na više uređaja.</string>
   <string name="login_reg_content0">Koristite KuaiPan iz bilo kojeg mjesta.</string>
   <string name="megabyteShort">MB</string>
@@ -239,7 +234,6 @@
   <string name="petabyteShort">PB</string>
   <string name="phone">Telefon</string>
   <string name="pull_to_signin">Povucite dolje za prijavu.</string>
-  <string name="query_bind_state">Povezivanje na KuaiPan…</string>
   <string name="release_to_signin">Otpustite za prijavu</string>
   <string name="rename_description">Preimenovanje…</string>
   <string name="rename_failed">"Ne mogu preimenovati %1$s"</string>
@@ -278,15 +272,11 @@ Dodano slobodnog prostora %1$s"</string>
   <string name="tab_category">Kategorije</string>
   <string name="tab_expand">Proširi</string>
   <string name="tab_local">Lokalno</string>
-  <string name="tab_networkdisk">KuaiPan</string>
   <string name="tab_path">Putanja</string>
-  <string name="tab_phone">Prikaz popisa</string>
-  <string name="tab_sys_size">Ukupna prostor pohrane</string>
   <string name="terabyteShort">TB</string>
-  <string name="toast_file_not_can_read">Nema nađenih aplikacija za izvršenje ove radnju.</string>
+  <string name="toast_file_not_can_read">Nema nađenih aplikacija za izvršenje ove radnje.</string>
   <string name="tools">Alati</string>
   <string name="trans_task">Mrežni prijenos</string>
-  <string name="trans_task_delete_confirm_message">Obrisati odabrane %1$d zadatke?</string>
   <string name="transing">Slanje…</string>
   <string name="trash_box_capacity">Koš za smeće %1$s</string>
   <string name="trash_box_link">Da ispraznite kantu za smeće, posjetite &lt;b&gt;pan.xiaomi.com.&lt;/b&gt;</string>
