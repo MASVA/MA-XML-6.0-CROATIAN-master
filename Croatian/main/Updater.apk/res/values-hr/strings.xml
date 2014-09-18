@@ -112,7 +112,6 @@
   <string name="timer_title">Uređaj će se ponovno pokrenuti za %d sek.</string>
   <string name="top_secret_build">Top-secret</string>
   <string name="unkown_error_title">Nešto nije u redu…</string>
-  <string name="unstable_build">Nestabilno</string>
   <string name="update_monthly_build_only">Samo ažuriraj za mjesečne verzije</string>
   <string name="update_success">Ažuriranje završeno! :)</string>
   <string name="update_success_body">Trenutna verzija: %s</string>
