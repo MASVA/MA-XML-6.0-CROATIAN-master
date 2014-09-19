@@ -1,4 +1,4 @@
 <strings>
-    <string name="date_time" value="dd.MM.yyyy"/>
+    <string name="date_time" value="dd/MM,E"/>
 	<string name="language" value="hr"/>
 </strings>
