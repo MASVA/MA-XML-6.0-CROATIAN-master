@@ -38,8 +38,6 @@
   <string name="add_to_bookmark">Dodaj u oznake</string>
   <string name="add_to_quicklink">Dodaj na početnu stranicu</string>
   <string name="added_to_bookmarks">Dodano u oznake.</string>
-  <string name="add_to_desk">Dodaj na početni zaslon</string>
-  <string name="add_to_desk_success">Uspješno dodano na početni zaslon</string>
   <string name="adjust_text_zoom_toast">Promjena teksta zumiranjem može prouzročiti da se neke web stranice pogrešno prikazuju</string>
   <string name="alert_tips">Ova stranica može predstavljati sigurnosni rizik</string>
   <string name="allow">Dopusti</string>
