@@ -272,9 +272,9 @@ Dodano slobodnog prostora %1$s"</string>
   <string name="tab_category">Kategorije</string>
   <string name="tab_expand">Proširi</string>
   <string name="tab_local">Lokalno</string>
-  <string name="tab_path">Putanja</string>
+  <string name="tab_path">Pohrana</string>
   <string name="terabyteShort">TB</string>
-  <string name="toast_file_not_can_read">Nema nađenih aplikacija za izvršenje ove radnje.</string>
+  <string name="toast_file_not_can_read">Nisu pronađene aplikacije za izvršenje ove radnje.</string>
   <string name="tools">Alati</string>
   <string name="trans_task">Mrežni prijenos</string>
   <string name="transing">Slanje…</string>
@@ -293,7 +293,7 @@ oslobodili prostor.</string>
   <string name="ui_main_toast_operation_failed">"Ne mogu odznačiti %1$s"</string>
   <string name="unmount_inform_text">Isključiti USB pohranu?</string>
   <string name="upload_failed">Učitavanje neuspješno!</string>
-  <string name="upload_file_toolarge_message">"Nije uspjelo učitavanje %1$d : ne možete učitati datoteke veće od 300Mb."</string>
+  <string name="upload_file_toolarge_message">"Nije uspjelo učitavanje %1$d : ne možete učitati datoteke veće od 300MB."</string>
   <string name="uploading">Učitavanje…</string>
   <string name="used">Iskorišteno</string>
   <string name="user_guide">Saznajte više o KuaiPan</string>
