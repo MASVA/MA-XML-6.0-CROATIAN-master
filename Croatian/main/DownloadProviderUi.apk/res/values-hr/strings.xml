@@ -111,7 +111,7 @@
   <string name="pref_summary_any_bytes_popup">Uvijek čekaj WLAN vezu za preuzimanje datoteka</string>
   <string name="pref_summary_enable_max_bytes_popup">"Prikaži skočnu obavijesti kada se koristi mobilna podatkovna veza za preuzimanje sadržaja"</string>
   <string name="pref_summary_max_bytes_limit_format">Pričekaj WLAN, ako veličina datoteke premaši za %s</string>
-  <string name="pref_summary_no_limit_popup">NeograničenO</string>
+  <string name="pref_summary_no_limit_popup">Neograničeno</string>
   <string name="pref_title_enable_max_bytes_popup">Prikaži upozorenje uporabe podataka</string>
   <string name="preferences_title">Postavke</string>
   <string name="remove_download">Ukloni</string>

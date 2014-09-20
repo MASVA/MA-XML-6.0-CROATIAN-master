@@ -115,15 +115,15 @@
   <string name="higher_quality_music">Visoka kvaliteta glazbe</string>
   <string name="higher_quality_music_summary">Struja i preuzimanje glazbe na višim brzinama</string>
   <string name="i_know">Znam</string>
-  <string name="impunity_declaration">Online streaming potječe iz Baidu Online Music Service. Dodirivanjem "Potvrdi" pristajete na Baidu &lt;a href="http://music.baidu.com/doc/agreement"&gt;Uvjeti korištenja&lt;/a&gt;.</string>
+  <string name="impunity_declaration">Online streaming potječe iz Baidu Online Music Service. Dodirivanjem "Potvrdi" pristajete na Baidu http://music.baidu.com/doc/agreement" Uvjeti korištenja</string>
   <string name="impunity_declaration_ignore">"Ne prikazuj ponovo"</string>
   <string name="impunity_declaration_settings">Prikaži "Uvjeti korištenja"</string>
-  <string name="impunity_declaration_summary">Prikaži skočni prozor "Uvjeti korištenja"za Baidu Online Music Service svaki puta kad se otvori aplikacija "Glazba"</string>
+  <string name="impunity_declaration_summary">Prikaži skočni prozor "Uvjeti korištenja" za Baidu Online Music Service svaki puta kada se otvori aplikacija "Glazba"</string>
   <string name="impunity_declaration_title">Deklaracija</string>
   <string name="is_loading_data">Učitavanje pjesama. Pričekajte minutu/dvije i pokušajte ponovo.</string>
   <string name="ktv_playlist">KTV popis reprodukcije</string>
   <string name="like">Sviđa mi se</string>
-  <string name="list_item_play_FM_radio">Dodirnite za reprodukciju FM radija</string>
+  <string name="list_item_play_FM_radio">Dodirnite za reprodukciju FM Radija</string>
   <string name="list_item_play_all_tracks">Dodirnite za reprodukciju svih pjesama</string>
   <string name="loading_hint">Učitavanje…</string>
   <string name="local_music">Lokalna glazba</string>

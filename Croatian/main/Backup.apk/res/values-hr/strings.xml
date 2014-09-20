@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_contact_backup_info">Podaci Google računa, Mi računa i kontakata</string>
+  <string name="account_contact_backup_info">Podaci Google računa, MiRačuna i kontakata</string>
   <string name="account_login">Prijavite se</string>
-  <string name="account_summary">Pohrana Mi računa, Google računa i ostalih korisničkih podataka</string>
+  <string name="account_summary">Pohrana MiRačun, Google računa i ostalih korisničkih podataka</string>
   <string name="already_enable_encrypt">Šifriranje omogućeno</string>
   <string name="app_name">Pohrana</string>
   <string name="auto_backup">Automatski napravi pohranu</string>
@@ -132,7 +132,7 @@
   <string name="restore_report">Izvještaj vraćanja</string>
   <string name="restore_telephony_hit">Postupak vraćanja će ponovno pokrenuti aplikaciju telefona</string>
   <string name="retry">Pokušaj ponovo</string>
-  <string name="reverse_all">Poništiti odabir za sve</string>
+  <string name="reverse_all">Poništiti odabir</string>
   <string name="sc_bad_request">Loš zahtjev</string>
   <string name="sc_internal_server_error">Interna greška poslužitelja</string>
   <string name="sc_network_unavailable">Greška mrežne veze</string>
