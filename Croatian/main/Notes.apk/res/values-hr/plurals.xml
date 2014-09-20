@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="note_count_in_folder">
-        <item quantity="other">Bilješki: %1$s notes</item>
+        <item quantity="other">Bilješki: %1$s</item>
         <item quantity="one">1 bilješka</item>
     </plurals>
     <plurals name="search_results_title">
