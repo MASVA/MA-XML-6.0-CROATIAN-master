@@ -7,6 +7,21 @@
   <string name="action_clear_sms_inbox">Izbriši SMS poruke</string>
   <string name="action_close">Zatvori</string>
   <string name="action_home">KUĆI</string>
+  <string name="action_key_back">Natrag</string>
+  <string name="action_key_back_long">Natrag (Dugi pritisak)</string>
+  <string name="action_key_call">Zovi</string>
+  <string name="action_key_direction">Smjer</string>
+  <string name="action_key_end_call">Završi poziv</string>
+  <string name="action_key_enter">Ulaz</string>
+  <string name="action_key_home">Početna</string>
+  <string name="action_key_home_long">Početna (Dugi pritisak)</string>
+  <string name="action_key_menu">Izbornik</string>
+  <string name="action_key_menu_long">Izbornik (Dugi pritisak)</string>
+  <string name="action_key_play_next">Dalje</string>
+  <string name="action_key_play_pause">Pauza/Reprod.</string>
+  <string name="action_key_play_prev">Prethodno</string>
+  <string name="action_key_power">Energija</string>
+  <string name="action_key_power_long">Energija (Dugi pritisak)</string>
   <string name="action_kuaidi">Brzi taxi</string>
   <string name="action_lock_screen">Zaklj. zaslon</string>
   <string name="action_open_camera">Fotoaparat</string>
@@ -39,11 +54,26 @@
   <string name="birthday">Rođendan:</string>
   <string name="call_to">Poziv</string>
   <string name="cancel">Odustani</string>
+  <string name="category_0">Apl.</string>
+  <string name="category_1">Sustav</string>
+  <string name="category_2">Tipke</string>
   <string name="category_app">Aplikacije</string>
   <string name="category_system_settings">Postavke</string>
   <string name="chooser_dust_cap">MiKey (Zaštita od prašine)</string>
   <string name="clean_memory">Očisti memoriju</string>
+  <string name="click_count_union">Puta</string>
   <string name="click_to_open">Otvori</string>
+  <string name="click_type_0">0</string>
+  <string name="click_type_1">1</string>
+  <string name="click_type_10">10</string>
+  <string name="click_type_2">2</string>
+  <string name="click_type_3">3</string>
+  <string name="click_type_4">4</string>
+  <string name="click_type_5">5</string>
+  <string name="click_type_6">6</string>
+  <string name="click_type_7">7</string>
+  <string name="click_type_8">8</string>
+  <string name="click_type_9">9</string>
   <string name="close_all">Zatvori sve</string>
   <string name="close_flash_error">Onemogućavanje bljeskalice nije uspjelo!</string>
   <string name="close_recorder">Zatvori snimač</string>
@@ -66,18 +96,18 @@
   <string name="confirm">U redu</string>
   <string name="copy">Kopirati</string>
   <string name="copy_succeed">Kopiranje uspješno</string>
-  <string name="dialog_title_disable_mikey_sprite">Onemogućiti MiKey Čarobnjak?</string>
-  <string name="disable_mikey_sprite">MiKey Čarobnjak onemogućen</string>
   <string name="default_action_title">Zadana radnja</string>
   <string name="delete">Izbriši</string>
   <string name="delete_confirm">Izbrisati ovu radnju?</string>
   <string name="delete_gesture">Izbrisati geste za Mikey?</string>
-  <string name="device_not_recognized">Uređaj nije prepoznat. Pokušajte ponovo</string>
+  <string name="device_not_recognized">Povezan uređaj nije prepoznat. Pokušajte ponovo</string>
+  <string name="dialog_title_disable_mikey_sprite">Onemogućiti MiKey Čarobnjak?</string>
+  <string name="disable_mikey_sprite">Onemogući MiKey Čarobnjak</string>
   <string name="earphone">Slušalice</string>
-  <string name="enable_mikey_sprite">Omogući MiKey čarobnjak</string>
   <string name="email">E-pošta:</string>
+  <string name="enable_mikey_sprite">Omogući MiKey Čarobnjak</string>
   <string name="fail_generate_barcode">Generiranje QR koda nije uspjelo</string>
-  <string name="faq_comp_text">Za uređaje s MIUIv5 i Xiaomi telefone. Aktualnu verziju MiKey aplikaciju možete pronaći na &lt;a href="http://xiaomi.eu/community/threads/mikey-app-1-4-1.24220/"&gt;xiaomi.eu&lt;/a&gt;</string>
+  <string name="faq_comp_text">Za MIUI i Xiaomi telefone. Aktualnu verziju MiKey aplikaciju možete pronaći na &lt;a href="http://xiaomi.eu/community/threads/mikey-app-1-4-1.24220/"&gt;xiaomi.eu&lt;/a&gt;</string>
   <string name="faq_comp_title">Podržani uređaji</string>
   <string name="faq_focus_text">Bljeskalica kod fotografiranja produljuje izradu, ali dobivena slika je oštrija. Možete to isključiti, ali slika će biti mutna.</string>
   <string name="faq_focus_title">Sporo fotografiranje?</string>
@@ -102,11 +132,15 @@
   <string name="flash_lable">Bljeskalica</string>
   <string name="front_camera">Prednja kamera</string>
   <string name="goto_update">Ažuriranje</string>
-  <string name="hint_long_press_del">Dugo pritisnite za uklanjanje</string>
+  <string name="hint_long_press_del">Dugi pritisak za uklanjanje</string>
   <string name="hint_mikey_sprite">"Postavite MiKey Čarobnjak bilo gdje
 Pritiskom na MiKey simulirajte dodir na odabranom mjestu.
 Tijekom uporabe, ostale funkcije MiKey su nedostupne."</string>
   <string name="input_phone">Unesi broj telefona</string>
+  <string name="key_direction_down">Dolje</string>
+  <string name="key_direction_left">Lijevo</string>
+  <string name="key_direction_right">Desno</string>
+  <string name="key_direction_up">Gore</string>
   <string name="long_click">Pritisni i drži</string>
   <string name="message_photo_end">Slika spremljena</string>
   <string name="name">Ime:</string>
@@ -136,6 +170,7 @@ Tijekom uporabe, ostale funkcije MiKey su nedostupne."</string>
   <string name="select_baiduvoicesearch">Baidu glasovno pretraživanje</string>
   <string name="select_camera">Odaberi kameru</string>
   <string name="select_device">Odaberi uređaj</string>
+  <string name="select_direction">Smjerovi</string>
   <string name="setting_buy">Kupi MiKey</string>
   <string name="setting_feedback">Pov. informacija</string>
   <string name="setting_instant_photo_desc">"Prije snimanja fotografije, fotoaparat će fokusirati"</string>
@@ -148,6 +183,9 @@ To može uzrokovati veću potrošnju baterije"</string>
   <string name="setting_silent_mode_desc">"Za spajanje slušalica, odaberite način rada slušalice i odvojite MiKey. U protivnom to neće raditi ispravno na audio izlaz."</string>
   <string name="setting_silent_mode_dust_cap">Način rada čepova</string>
   <string name="setting_speed_desc">Brzina pritiska gumba</string>
+  <string name="setting_speed_max_time">1000</string>
+  <string name="setting_speed_middle_time">500ms</string>
+  <string name="setting_speed_min_time">0</string>
   <string name="setting_speed_quick">Brzo</string>
   <string name="setting_speed_slow">Sporo</string>
   <string name="setting_speed_text">Brzina</string>
@@ -181,6 +219,7 @@ S vrha zaslona povucite prema dolje da ga koristite."</string>
   <string name="splash_mikey_sprite">"Postavite MiKey Čarobnjak bilo gdje
 Pritiskom na MiKey simulirajte dodir na odabranom mjestu"</string>
   <string name="splash_tip">Poveži MiKey</string>
+  <string name="super_difficult_click">"Otpornost "</string>
   <string name="tab_mikey">MiKey</string>
   <string name="tab_mikey_sprite">MiKey Čarobnjak</string>
   <string name="task_title_prefix">Zadatak %1$s: %2$s</string>
@@ -200,6 +239,8 @@ Pritiskom na MiKey simulirajte dodir na odabranom mjestu"</string>
   <string name="toggle_sleep">Mirovanje</string>
   <string name="toggle_wifi">WLAN</string>
   <string name="toolbox_outer_desc">Pritisnite plus ili postojeću funkciju</string>
+  <string name="unsupport_content">Ažurirajte na najnoviju verziju MIUI da možete koristiti ovu značajku!!!!</string>
+  <string name="unsupport_title">Ova značajka nije podržana</string>
   <string name="update_message">Ažuriranje!</string>
   <string name="vcard_prompt">Nije moguće dodati kontakt, jer nema imena</string>
   <string name="web">Web:</string>
