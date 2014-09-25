@@ -104,8 +104,8 @@
   <string name="express_inquiry_history_remark_hint">Označi ponovo</string>
   <string name="express_inquiry_internal_failure">"Desila se greška.
 Provjerite svoj broj za praćenje."</string>
-  <string name="express_inquiry_logistics_empty">Odaberi davatelja usluga.</string>
-  <string name="express_inquiry_logistics_indication">Naziv davatelja usluge</string>
+  <string name="express_inquiry_logistics">Odaberi davatelja usluga</string>
+  <string name="express_inquiry_logistics_select_others_indication">Ostalo</string>
   <string name="express_inquiry_no_history">Nema povijesti</string>
   <string name="express_inquiry_no_result">Nema rezultata</string>
   <string name="express_inquiry_number_empty">Unesite svoj ​​broj za praćenje.</string>

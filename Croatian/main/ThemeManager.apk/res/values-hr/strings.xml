@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="account_info">Moj račun</string>
+    <string name="account_info">Mi Račun</string>
     <string name="account_unactivated">Račun nije aktiviran.</string>
     <string name="all_resources">Sve</string>
     <string name="all_ringtone_resource">Sve</string>
@@ -15,7 +15,7 @@
     <string name="backup_theme_dialog_ok">Pohrani</string>
     <string name="backup_theme_name">Pohrana teme</string>
     <string name="backup_theme_progress_message">Pohranjujem temu…</string>
-    <string name="backup_theme_success_message">Tema uspješno pohranjena</string>
+    <string name="backup_theme_success_message">Postavke vaše trenutne teme su spremljene</string>
     <string name="basic_info">Detalji računa</string>
     <string name="change_wallpaper">Slika pozadine</string>
     <string name="close">Zatvori</string>
@@ -263,8 +263,8 @@ sadržaj koji tražite nije trenutno dostupan u vašoj regiji."</string>
     <string name="theme_user_agreement_title">Uvjeti korištenja</string>
     <string name="theme_yes">Da</string>
     <string name="third_party_pickers_activity_title">Podesi %1$s</string>
-    <string name="title_component">Uređivanje teme</string>
-    <string name="title_system_resource">Lokalni resursi</string>
+    <string name="title_component">Prilagodite temu</string>
+    <string name="title_system_resource">Lokalno</string>
     <string name="to_activate_the_account">Aktivirajte svoj Mi Račun</string>
     <string name="wallpaper_crop">Obreži</string>
     <string name="wallpaper_decoded_error">"Ne mogu učitati sliku pozadine"</string>

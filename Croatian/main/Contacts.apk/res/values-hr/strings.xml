@@ -204,6 +204,7 @@ Podaci o kontaktima pohranjeni u vašem Mi Cloud računu će također biti izbri
   <string name="createContactShortcutSuccessful">Widget za kontakte dodan na Početni zaslon</string>
   <string name="create_group_dialog_title">Kreiraj novu grupu</string>
   <string name="create_group_item_label">Kreiraj novu grupu</string>
+  <string name="create_qrcode_fail_message">Stvaranje QR koda nije uspjelo</string>
   <string name="customLabelPickerTitle">Prilagođeno ime oznake</string>
   <string name="custom_list_filter">"Definiranje prilagođenog prikaza"</string>
   <string name="custom_nickname_hint">Unesite nadimak</string>
@@ -764,6 +765,8 @@ Za dodavanje kontakta na listu favorita :
   <string name="profile_display_name">Postavi moj profil</string>
   <string name="profile_name">Moj profil</string>
   <string name="profile_name_photo">Ja</string>
+  <string name="qr_card_card">Moj QR kod</string>
+  <string name="qrcode_card_title">Posjetnica QR koda</string>
   <string name="quickcontact_missing_app">Nije pronađena aplikacija za obradu ove radnje</string>
   <string name="quit_dialog_confirm_title">Niste združili niti jedan kontakt</string>
   <string name="readOnlyContactDeleteConfirmation">Ovaj kontak sadrži informacije iz više računa. Informacije s računa samo za čitanje će biti sakrivene u vašem popisu kontakata, ne i izbrisane.</string>
@@ -960,6 +963,8 @@ Za dodavanje kontakta na listu favorita :
   <string name="scan">Skeniraj</string>
   <string name="scan_duplicate_message">Broj kontakata s identičnim informacijama: %1$d</string>
   <string name="scan_merge">Pretraživanje dvostrukih kontakata…</string>
+  <string name="scan_qrcode_card_hint1">Skeniraj QR kod</string>
+  <string name="scan_qrcode_card_hint2">Dodaj moje informacije svojim kontaktima</string>
   <string name="scanning">Skeniranje…</string>
   <string name="scanning_sdcard_failed_message">Razlog: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">Pohrana se ne može skenirati.</string>

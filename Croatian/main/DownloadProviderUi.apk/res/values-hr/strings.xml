@@ -125,6 +125,8 @@
   <string name="turn_off_xunlei_message">Možete iskusiti sporiju brzinu preuzimanja.</string>
   <string name="turn_off_xunlei_tips">Xunlei ubrzanje preuzimanja je isključeno</string>
   <string name="turn_off_xunlei_title">Onemogući Xunlei alat preuzimanja</string>
+  <string name="unbind_xunlei_2_success">Xunlei Račun promjenjen</string>
+  <string name="unbind_xunlei_success">Xunlei Račun isključen</string>
   <string name="valid_in_this_month">Vrijedi samo u ovom mjesecu</string>
   <string name="vip_auto_speedup">Xunlei Članovi imaju ubrzanje preuzimanja izravno</string>
   <string name="xunlei_brand">Powered by Xunlei</string>
