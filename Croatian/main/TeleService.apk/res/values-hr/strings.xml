@@ -162,6 +162,7 @@
   <string name="cfb_title">Proslijedi kod zauzeća</string>
   <string name="cfnrc_title">Proslijedi kad je nedostupno</string>
   <string name="cfnry_title">Proslijedi kad je neodgovoreno</string>
+  <string name="cfnrc_title_cta">Proslijedi kad je nedostupno</string>
   <string name="cfu_title">Uvijek proslijedi</string>
   <string name="change_num">Ažuriraj</string>
   <string name="change_password">Promjena zaporke zabrane</string>

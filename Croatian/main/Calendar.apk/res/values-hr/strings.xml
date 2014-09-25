@@ -67,8 +67,8 @@
   <string name="creating_event">Događaj stvoren</string>
   <string name="creating_event_with_guest">Pozivnica će biti poslana</string>
   <string name="cta_notice_checkbox">"Ne prikazuj ponovo"</string>
-  <string name="cta_notice_message">Značajka \"Podsjetnik Rođendana\" u Kalendaru treba pristup vašim kontaktima da funkcionira normalno</string>
-  <string name="cta_notice_ok">Slažem se</string>
+  <string name="cta_notice_message">Trebamo pristup vašim kontaktima za korištenje funkcije \"Podsjetnik Rođendana\". Slažete se?</string>
+  <string name="cta_notice_ok">Slažem se &amp; Nastavi</string>
   <string name="cta_notice_title">Pristup kontaktima</string>
   <string name="cta_notify_settings">Pitaj prilikom pristupa kontaktima</string>
   <string name="custom">"Prilagođeno (ne može se prilagoditi na telefonu)"</string>

@@ -92,15 +92,20 @@
   <string name="activate_status_title_activating">Aktivacija vaše SIM kartice…</string>
   <string name="activate_status_title_activating_msim">Aktivacija vaše SIM kartice %s…</string>
   <string name="activating">Aktivacija…</string>
-  <string name="add_weibo_account">Dodaj račun</string>
+  <string name="add_account">Dodaj račun</string>
   <string name="alert_title_remove_account">Ukloniti račun?</string>
   <string name="app_name">Mi Račun</string>
   <string name="bad_authentication">Pogrešno korisničko ime ili zaporka</string>
   <string name="barcode_add_account_prompt">Da biste dodali račun, skenirajte QR kôd ponovno nakon što se prijavite.</string>
+  <string name="bind_facebook">Dodaj Facebook račun</string>
+  <string name="bind_qq">Dodaj QQ račun</string>
   <string name="bind_settings">Računi</string>
   <string name="bind_sina_weibo">Dodaj Sina Weibo račun</string>
+  <string name="bind_sns_description">Dovršite svoj ​​profil koristeći osobne informacije kroz %s.</string>
   <string name="bind_weibo_description">"Pronađi kontakte telefona i prijatelje pomoću Wiebo</string>
   <string name="binded">Račun dodan</string>
+  <string name="binded_description" formatted="false">"%s je uspješno povezan.
+Dovršite svoj ​​profil koristeći osobne informacije kroz %s."</string>
   <string name="btn_activate">Aktiviraj</string>
   <string name="btn_return">Natrag</string>
   <string name="button_cancel">Odustani</string>
@@ -115,6 +120,7 @@
   <string name="cloud_service">Mi Cloud</string>
   <string name="completed">Završeno</string>
   <string name="confirm">U redu</string>
+  <string name="confirm_unbind">Potvrditi rastavljanje?</string>
   <string name="data_keep_in_device">Zadrži podatke na ovom uređaju</string>
   <string name="data_wipe_from_device">Izbriši iz ovog uređaja</string>
   <string name="dirty_contacts_count">Kontakata: %d</string>
@@ -139,6 +145,7 @@
   <string name="error_unknown">"Ne mogu se prijaviti"</string>
   <string name="error_user_name">Nevažeće korisničko ime</string>
   <string name="error_verify_code">Kôd koji ste unijeli nije točan</string>
+  <string name="facebook">Facebook</string>
   <string name="failed_to_send_activate_email">"Ne mogu poslati aktivacijsku e-poštu"</string>
   <string name="find_device_dspt">Zaključajte ili obrišite ovaj uređaj na daljinu.</string>
   <string name="find_password_on_web_msg">Molimo vas da posjetite account.xiaomi.com za resetiranje svoje zaporke</string>
@@ -168,7 +175,7 @@
   <string name="login_step2_title">Potvrda u 2 koraka</string>
   <string name="login_title">Prijavite se u vaš Mi Račun</string>
   <string name="micloud_account">Mi Račun</string>
-  <string name="micloud_account_details">Detalji račna</string>
+  <string name="micloud_account_details">Detalji računa</string>
   <string name="micloud_account_label">Račun: %1$s</string>
   <string name="micloud_account_name">Mi Račun</string>
   <string name="micloud_account_not_actived">"Vaš račun nije aktiviran"</string>
@@ -240,6 +247,7 @@ Da biste aktivirali vaš račun, slijedite
   <string name="prev">Natrag</string>
   <string name="privacy_policy">Pravila o privatnosti</string>
   <string name="process_result">Detalji sinkr.</string>
+  <string name="qq">QQ</string>
   <string name="quick_login_dialog_step2_title">Provjera u 2 koraka</string>
   <string name="quick_login_dialog_title">Provjera zaporke</string>
   <string name="quick_login_step2_title">Provjera u 2 koraka</string>
@@ -287,6 +295,8 @@ Da biste aktivirali vaš račun, slijedite
   <string name="trust_device">Vjerujte ovom uređaju</string>
   <string name="unactivated_user">Još malo…</string>
   <string name="unbind">Odjava</string>
+  <string name="unbind_sns_description">Nakon rastavljanja, nećete se prijaviti u vaš Mi Račun pomoću %s</string>
+  <string name="unbind_weibo_description">Nakon rastavljanja, nećete sinkronizirati vaše kontakte, a također se nećete prijaviti u vaš Mi račun koristeći Sina Weibo</string>
   <string name="update_contacts">Ažuriranje imenika</string>
   <string name="update_contacts_description">Neka Sina Weibo koristi vaš Mi Račun za sinkronizaciju informacija kontakta između platformi.</string>
   <string name="updated_contacts">Ažurirano %s kontakata</string>

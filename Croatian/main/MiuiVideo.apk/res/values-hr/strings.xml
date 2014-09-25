@@ -5,6 +5,7 @@
   <string name="about_version">1.0.1</string>
   <string name="about_version_label">Verzija koda</string>
   <string name="actor_colon">Uloge: </string>
+  <string name="ad_countdown">Preostalo: %s sek.</string>
   <string name="ad_moredetail">Više detalja</string>
   <string name="add_favorite_success">Označeno</string>
   <string name="add_more_addons">Dodaj još dodataka</string>
