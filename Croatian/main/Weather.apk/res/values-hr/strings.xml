@@ -64,6 +64,7 @@
   <string name="view_indexes_title_visibility">Vidljivost (km)</string>
   <string name="view_indexes_title_wind">Vjetar</string>
   <string name="view_indexes_wind_unit">km/h</string>
+  <string name="view_sun_titile">Izlazak i zalazak sunca</string>
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">°C</string>

@@ -45,5 +45,16 @@
         <item>Vjetar JZ</item>
         <item>Vjetar Z</item>
         <item>Vjetar SZ</item>
+	</string-array>	
+    <string-array name="moon_desc">
+        <item>Novi mjesec</item>
+        <item>Povećanje srpa</item>
+        <item>Prva četvrtina</item>
+        <item>Mlađak</item>
+        <item>Puni mjesec</item>
+        <item>Mlađak</item>
+        <item>Zadnja četvrtina</item>
+        <item>Smanjenje srpa</item>
+        <item>Tamni mjesec</item>
     </string-array>
 </resources>

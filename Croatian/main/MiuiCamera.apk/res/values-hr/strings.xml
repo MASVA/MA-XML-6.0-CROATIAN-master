@@ -13,6 +13,7 @@
   <string name="accessibility_more_ptions_closed">Više opcija onemogućene</string>
   <string name="accessibility_more_ptions_opened">Više opcija omogućene</string>
   <string name="accessibility_open_more_ptions">Omogući više opcija</string>
+  <string name="accessibility_panorama_review_cancel">Panorama Otkaži Spremanje</string>
   <string name="accessibility_review_thumbnail">Najnovije fotografije</string>
   <string name="accessibility_scroll_button_slider">Foto/Video</string>
   <string name="accessibility_show_setting_panel_button">Postavke</string>
@@ -20,6 +21,8 @@
   <string name="accessibility_skin_beautify_button">Poboljšavanje tona kože</string>
   <string name="accessibility_skin_beautify_closed">Onemogućen pojačivač tona kože</string>
   <string name="accessibility_skin_beautify_opened">Omogućen pojačivač tona kože</string>
+  <string name="accessibility_video_capture_button">VideoCaptureButton</string>
+  <string name="accessibility_video_pause_button">VideoPauseButton</string>
   <string name="accessibility_zoom_control">Kontrola zooma</string>
   <string name="albums">Albumi</string>
   <string name="aperture">Otvor blende</string>
@@ -268,7 +271,6 @@ panoramske fotografije.</string>
   <string name="pref_camera_focusmode_entry_normal">Normalno</string>
   <string name="pref_camera_focusmode_title">Način izoštravanja</string>
   <string name="pref_camera_focusmode_value_default">kontinuirano-slika</string>
-  <string name="pref_camera_front_fb_title">Obogatite tonove kože</string>
   <string name="pref_camera_hand_night_title">HHT</string>
   <string name="pref_camera_hdr_title">HDR</string>
   <string name="pref_camera_hdr_type_entry_live">Uživo</string>
@@ -500,7 +502,6 @@ panoramske fotografije.</string>
   <string name="resume_playing_restart">Pokreni ispočetka</string>
   <string name="resume_playing_resume">Nastavi reprodukciju</string>
   <string name="resume_playing_title">Nastavi reprodukciju</string>
-  <string name="review_cancel">Odustani</string>
   <string name="rotate_left">Rotitiraj lijevo</string>
   <string name="rotate_right">Rotitiraj desno</string>
   <string name="save">Da</string>

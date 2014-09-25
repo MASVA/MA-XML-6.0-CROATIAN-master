@@ -4,7 +4,7 @@
   <string name="congratulation_label">Uživajte u svom ​​novom telefonu :)</string>
   <string name="congratulation_next">Započnite koristiti MIUI</string>
   <string name="disagree">Odustani</string>
-  <string name="ime_privacy_policy">Pravila o privatnosti odabrane tipkovnice</string>
+  <string name="ime_privacy_policy">Pravila o privatnosti za odabrane tipkovnice</string>
   <string name="ime_privacy_policy_no_network">"Ne mogu se spojiti na internet. Pogledajte Pravila o privatnosti za ovu tipkovnicu na %s."</string>
   <string name="input_method_category">"Odaberite zadanu tipkovnicu koju ćete koristiti prilikom pisanja poruka e-pošte, bilješki, i svugdje drugdje. Također možete instalirati druge tipkovnice kasnije."</string>
   <string name="input_method_setting">Odaberite zadanu tipkovnicu</string>
@@ -13,9 +13,9 @@
   <string name="multisim_settings_title">Otkrivene 2 SIM kartice</string>
   <string name="next">Dalje</string>
   <string name="other_settings">Dodatne postavke</string>
-  <string name="other_settings_location">Pristup lokaciji</string>
-  <string name="other_settings_location_summary">Dopustiti da aplikacije precizno odrede vašu lokaciju pomoću GPS-a</string>
-  <string name="other_settings_user_experience">Program korisničkog iskustva</string>
+  <string name="other_settings_location">Lokacije</string>
+  <string name="other_settings_location_summary">Dopustiti aplikacijama pristup vašoj lokaciji</string>
+  <string name="other_settings_user_experience">Program iskustva korisnika</string>
   <string name="other_settings_user_experience_summary">"Pomozite nam poboljšati MIUI slanjem anonimnih podataka o korištenju. "</string>
   <string name="other_settings_user_experience_summary1">(Prikaži pravila o privatnosti)</string>
   <string name="pref_title_data_slot">Poželjni podaci SIM kartice</string>

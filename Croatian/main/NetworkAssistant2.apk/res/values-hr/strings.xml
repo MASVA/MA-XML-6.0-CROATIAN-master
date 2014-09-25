@@ -239,13 +239,16 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg davatelja mobilnih
   <string name="tc_sms_report_get_sms">Dobivanje SMS-a</string>
   <string name="tc_sms_report_get_sms2">Dobivanje SMS-a</string>
   <string name="tc_sms_report_get_sms_again">Osvježi SMS</string>
+  <string name="tc_sms_report_get_sms_failure">"Nije bilo moguće dobiti podatke o korištenju formata SMS-a"</string>
+  <string name="tc_sms_report_get_sms_successs">Uporaba podataka formata SMS-a ažurirana</string>
+  <string name="tc_sms_report_get_sms_timeout">"Ne mogu dobiti podatke o korištenju formata SMS-a: istek vremena"</string>
   <string name="tc_sms_report_get_success">"Primljen SMS izvješća uporabe podataka od operatera. Uvjerite se da je točan i pošaljite ga nama."</string>
   <string name="tc_sms_report_get_success_notify_body">Uvjerite se da je izvješće točno i pošaljite ga MIUI.</string>
   <string name="tc_sms_report_get_success_notify_title">Primljen SMS izvješća uporabe podataka</string>
   <string name="tc_sms_report_geting_sms">Dobivanje SMS-a izvješća uporabe podataka</string>
   <string name="tc_sms_report_notify_correction_body">Idi u-> Sigurnost-> Uporaba podataka i pokušajte ponovno ručno.</string>
   <string name="tc_sms_report_notify_correction_failure_title">"Ne mogu ažurirati detalje uporabe podataka"</string>
-  <string name="tc_sms_report_notify_get_failure_body">"Vaš mobilni operater ne nudi ovu uslugu."</string>
+  <string name="tc_sms_report_notify_get_failure_body">Ne mogu poslati izvješće o uporabi podataka. Provjerite da li ste spojeni na mobilnu mrežu.</string>
   <string name="tc_sms_report_notify_get_failure_title">"Ne mogu dobiti izvješće o korištenju podataka"</string>
   <string name="tc_sms_report_notify_get_timeout_body">Istek vremena obrade. Potvrdi sa svojim operaterom da je upit koda SMS-om koji ste unijeli je ispravan.</string>
   <string name="tc_sms_report_notify_get_timeout_title">"Ne mogu dobiti izvješće o korištenju podataka"</string>
@@ -254,6 +257,8 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg davatelja mobilnih
   <string name="tc_sms_report_receive_num">Broj primatelja</string>
   <string name="tc_sms_report_send_num">Broj telefona operatera</string>
   <string name="tc_sms_report_summary">Pomozite nam poboljšati ovu značajku slanjem izvješća kada je informacija uporabe podataka netočna ili ne uspijeva ažuriranje</string>
+  <string name="tc_sms_report_tips_dialog_message">"Uporaba podataka koristi posebno formatirane SMS poruke da biste dobili svoje najnovije izvješće uporabe podataka od svog operatera. Ako ova značajka ne radi normalno, pokušajte ažurirati podatke uporabe formata SMS poruka.Novi obnovljeni format će tada biti učitan na naše poslužitelje."</string>
+  <string name="tc_sms_report_tips_dialog_title">SMS izvješća uporabe podataka</string>
   <string name="tc_sms_report_title">Pogreška izvješća uporabe podataka</string>
   <string name="tc_sms_report_upload_success">"SMS izvješća uporabe podataka primljen. Bacamo se odmah na njega!"</string>
   <string name="tc_sms_report_upload_when_net">Hvala vam za povratnu informaciju!</string>

@@ -449,6 +449,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="msim_not_set_summary">Nije postavljeno</string>
   <string name="msim_pref_title_data">Internet</string>
   <string name="msim_pref_title_voice">Biranje</string>
+  <string name="msim_set_icc_card_error">Pogreška ICC kartice</string>
   <string name="msim_set_sub_not_supported_phone_in_call">"Ne mogu podesiti tijekom poziva"</string>
   <string name="msim_set_sub_not_supported_slot_id_error">Pogreška SIM kartice</string>
   <string name="msim_setting_categery_title">Informacije SIM kartice</string>
