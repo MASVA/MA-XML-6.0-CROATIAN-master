@@ -20,7 +20,8 @@
     <string name="input_password_hint_text">Unesite zaporku</string>
     <string name="input_pin_code">Unesite PIN</string>
     <string name="input_puk_code">Unesite PUK</string>
-    <string name="lock_screen_date">EE, dd.MM</string>
+	<string name="keyguard_torch_cover_text">Da zadržite svjetiljku upaljenom, pritisnite gumb za uključivanje</string>
+    <string name="lock_screen_date">EEEE, dd.MM</string>
     <string name="lockscreen_access_pattern_cell_added">Ćelija dodana</string>
     <string name="lockscreen_access_pattern_cleared">Uzorak obrisan</string>
     <string name="lockscreen_access_pattern_detected">Uzorak završen</string>

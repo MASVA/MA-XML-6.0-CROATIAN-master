@@ -106,6 +106,8 @@
 (%s)"</string>
   <string name="account_setup_failed_dlg_edit_details_action">Uredi pojedinosti</string>
   <string name="account_setup_failed_dlg_server_message">Povezivanje s poslužiteljem nije moguće.</string>
+  <string name="account_setup_failed_dlg_server_message_fmt">"Povezivanje s poslužiteljem nije moguće.
+(%s)"</string>
   <string name="account_setup_failed_dlg_title">Završavanje nije bilo moguće</string>
   <string name="account_setup_failed_ioerror">Nije bilo moguće otvoriti vezu s poslužiteljem.</string>
   <string name="account_setup_failed_protocol_unsupported">Unijeli ste pogrešnu adresu poslužitelja ili poslužitelj traži verziju protokola koju E-pošta ne podržava.</string>
@@ -555,9 +557,9 @@ Kopija: %4$s
   <string name="message_decode_error">Došlo je do pogreške prilikom dekodiranja poruke.</string>
   <string name="message_details_title">Pojedinosti poruke</string>
   <string name="message_discarded">Poruka je odbačena.</string>
-  <string name="message_invite_accept">Dolazim</string>
+  <string name="message_invite_accept">Da</string>
   <string name="message_invite_calendar_view">Prikaži u Kalendaru</string>
-  <string name="message_invite_decline">Ne dolazim</string>
+  <string name="message_invite_decline">Ne</string>
   <string name="message_invite_label_attending">Dolazite?</string>
   <string name="message_invite_tentative">Možda</string>
   <string name="message_invite_title">Kalendarska pozivnica</string>

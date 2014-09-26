@@ -64,6 +64,7 @@ dotaknite ga stražnjom stranom vašeg telefona"</string>
   <string name="email_to">Prima</string>
   <string name="empty_tag">Ova oznaka je prazna</string>
   <string name="enable_wifi">WLAN</string>
+  <string name="erase_pon_pon_tile">Izbrisati oznaku</string>
   <string name="erase_success">Izbrisano</string>
   <string name="erasing">Brisanje…</string>
   <string name="err_fail_to_erase">Nije uspjelo brisanje oznake</string>

@@ -174,7 +174,7 @@
   <string name="name_illegal">Morate unijeti ime.</string>
   <string name="net_lose_connected">Veza izgubljena.</string>
   <string name="networkView_notConnected">"Ne mogu se povezati na mrežu"</string>
-  <string name="network_connect_confirm_des">Korištenje KuaiPana će pristupiti mreži, slažete li se?</string>
+  <string name="network_connect_confirm_des">Pristupiti ćemo mreži za korištenje KuaiPana, slažete li se?</string>
   <string name="never_notify_network_connect">"Ne prikazuj ovo ponovo"</string>
   <string name="new_folder_name">Mapa bez imena</string>
   <string name="no">Ne</string>
@@ -194,7 +194,7 @@
   <string name="open_file_failed">"Ne mogu otvoriti"</string>
   <string name="operate_confirm_in_3g">Koristiti vašu mobilnu podatkovnu vezu za preuzimanje ove velike datoteke?</string>
   <string name="operating">Obrada…</string>
-  <string name="operation_agree">Slažem se</string>
+  <string name="operation_agree">Slažem se &amp; Nastavi</string>
   <string name="operation_cancel">Otkaži</string>
   <string name="operation_compress">Sažeti</string>
   <string name="operation_compressing">Sažimanje…</string>

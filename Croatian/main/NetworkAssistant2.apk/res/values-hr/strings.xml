@@ -325,7 +325,7 @@ Prema vašem operateru iskoristili ste %1$s od vašeg maks. podataka ovog mjesec
   <string name="traffic_setting_fragment_brand">Marka</string>
   <string name="traffic_setting_fragment_button1_text">Odustani</string>
   <string name="traffic_setting_fragment_button2_text">Spremi</string>
-  <string name="traffic_setting_fragment_get_template_falure">Ažuriranje nije uspjelo. Provjerite svoju podatkovnu vezu i pokušajte ponovno.</string>
+  <string name="traffic_setting_fragment_get_template_falure">"Ne mogu se spojiti na mrežu. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
   <string name="traffic_setting_fragment_loading_text">Dobivanje detalje mreže…</string>
   <string name="traffic_setting_fragment_no_network">"Ne mogu se spojiti na mrežu"</string>
   <string name="traffic_setting_fragment_null">Prazno</string>
