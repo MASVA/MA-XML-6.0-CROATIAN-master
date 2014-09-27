@@ -41,7 +41,7 @@
   <string name="activate_popup_title_manual">Aktiviraj %s</string>
   <string name="activate_popup_title_new_sim_card">Reactivate %s</string>
   <string name="activate_popup_title_register_account">Izradi Mi Račun</string>
-  <string name="activate_status_desc_acquire_phone_number">Dobivanje broj telefona s poslužitelja</string>
+  <string name="activate_status_desc_acquire_phone_number">Dobivanje broja telefona s poslužitelja</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Došlo je do pogreške na poslužitelju pri dobivanju broja telefona</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">"Ne mogu dobiti broj telefona"</string>
   <string name="activate_status_desc_checking_xiaomi_account">Provjera Mi Računa na poslužitelju</string>

@@ -260,7 +260,7 @@
   <string name="empty_networks_list">Nije pronađena mreža.</string>
   <string name="enable">Omogući</string>
   <string name="enable_antispam_strange_summary">Utišaj prvi poziv s nepoznatog broja</string>
-  <string name="enable_antispam_strange_title">Utišaj nepoznatie brojeve</string>
+  <string name="enable_antispam_strange_title">Utišaj nepoznate brojeve</string>
   <string name="enable_disable_administrative">Administracija</string>
   <string name="enable_disable_advertisements">Oglašavanje</string>
   <string name="enable_disable_atr">Izvješća o području prometa</string>
