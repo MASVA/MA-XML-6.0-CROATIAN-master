@@ -6,8 +6,8 @@
   <string name="app_label">Kompas</string>
   <string name="calibrate_altitude">Kalibriranje nad. visine</string>
   <string name="calibrate_failed_no_location">"Ne mogu kalibrirati"</string>
-  <string name="calibrate_failed_timeout">"Ne mogu se povezati na pslužitelj"</string>
-  <string name="calibrate_success">Kalibriranje završena</string>
+  <string name="calibrate_failed_timeout">"Ne mogu se povezati na poslužitelj"</string>
+  <string name="calibrate_success">Kalibriranje završeno</string>
   <string name="cannot_get_location">--</string>
   <string name="dialog_calibrat_altitude">Kalibriranje…</string>
   <string name="dialog_title_no_network">"Ne mogu se povezati na mrežu"</string>

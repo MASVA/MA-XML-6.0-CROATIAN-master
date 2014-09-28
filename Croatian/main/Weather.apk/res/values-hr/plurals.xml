@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="activity_main_update_time_in_one_hour">
-        <item quantity="other">Prije %d min</item>
-        <item quantity="one">Prije %d min</item>
+        <item quantity="other">prije %d min</item>
+        <item quantity="one">prije %d min</item>
     </plurals>
     <plurals name="activity_main_update_time_in_one_day">
-        <item quantity="other">Prije sati: %d</item>
-        <item quantity="one">Prije %d sat</item>
+        <item quantity="other">prije %d sati</item>
+        <item quantity="one">prije %d sat</item>
     </plurals>
     <plurals name="activity_main_update_time_one_day_ago">
-        <item quantity="other">Prije dana: %d</item>
-        <item quantity="one">Prije %d dan</item>
+        <item quantity="other">prije %d dana</item>
+        <item quantity="one">prije %d dan</item>
     </plurals>
 </resources>
