@@ -106,7 +106,7 @@
     <string name="timer_start_alarm">"Vrijeme je isteklo!"</string>
     <string name="timer_title">Kronometar</string>
     <string name="timezone_exist_error_message">"Već prikazujete tu vremensku zonu"</string>
-    <string name="vibrate_pref_summary">VibriraJ kada se oglasi alarm</string>
+    <string name="vibrate_pref_summary">Vibriraj kada se oglasi alarm</string>
     <string name="vibrate_when_ringing">Vibriraj kod poziva</string>
     <string name="volume_button_setting_summary">Podešavaje tipaka glasnoće tijekom trajanja alarma</string>
     <string name="volume_button_setting_title">Tipke za glasnoću</string>
