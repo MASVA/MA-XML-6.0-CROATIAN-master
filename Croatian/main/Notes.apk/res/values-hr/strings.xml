@@ -93,6 +93,7 @@
   <string name="sns_toast_over_limit">Pošalji kao sliku (preko ograničenja teksta)</string>
   <string name="toast_folder_privacy_mode">"Ne mogu urediti mapu u Gost načinu rada"</string>
   <string name="toast_message_add_image_fail">Dodavanje slike nije uspjelo</string>
+  <string name="toast_note_privacy_mode">"Ne mogu stvoriti bilješku u Gost načinu rada"</string>
   <string name="toast_reach_text_limit_attachment">Nije moguće dodati novi privitak jer je bilješka predugačka</string>
   <string name="toast_reach_text_limit_truncate">Bilješka je predugačka. Dio teksta je odsječen sa kraja bilješke radi prilagođavanja.</string>
   <string name="undo">Poništi</string>

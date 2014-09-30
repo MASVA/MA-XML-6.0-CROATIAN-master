@@ -102,6 +102,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="headset_custom">Konfiguriraj</string>
   <string name="headset_info">Dodirnite za podešavanje vrste slušalica i funkcije tipaka</string>
   <string name="headset_settings">Slušalice su spojene</string>
+  <string name="hint_for_long_press_app_switch_key">Dugi pritisak za prikazivanje izbornika</string>
   <string name="invalid_charger">USB punjenje nije podržano.
  Koristite isključivo originalni punjač.</string>
   <string name="label_view">Prikaži</string>
@@ -153,9 +154,11 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_recent_apps">"Nema nedavnih aplikacija"</string>
   <string name="status_bar_notification_inspect_item_title">Informacije o aplikaciji</string>
-  <string name="status_bar_recent_guide_all">"Kliznite prema gore za zatvaranje i prema dolje za zaključavanje"</string>
-  <string name="status_bar_recent_guide_bottom">Kliznite prema dolje za zaključavanje</string>
-  <string name="status_bar_recent_guide_top">Kliznite prema gore za zatvaranje</string>
+  <string name="status_bar_recent_guide_all">"Kliznite gore za zatvaranje
+  
+Kliznite dolje za zaključavanje"</string>
+  <string name="status_bar_recent_guide_bottom">Kliznite dolje za zaključavanje</string>
+  <string name="status_bar_recent_guide_top">Kliznite gore za zatvaranje</string>
   <string name="status_bar_recent_inspect_item_title">Informacije o aplikaciji</string>
   <string name="status_bar_recent_memory_info">%1$s / %2$s dostupno</string>
   <string name="status_bar_recent_memory_info2">" %s dostupno"</string>

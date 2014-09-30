@@ -1,5 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accept">U redu</string>
   <string name="app_name">Xiaomi Aktivacija</string>
   <string name="activate">Aktiviraj</string>
   <string name="activate_feature_call_log_sync">Sinkr. zapis poziva</string>
@@ -73,6 +74,8 @@
   <string name="activate_status_desc_wait_for_sms_success">Uspješno primljen aktivacijski SMS s poslužitelja</string>
   <string name="activate_status_title_activating">Aktivacija vaše SIM kartice</string>
   <string name="activate_status_title_activating_msim">Aktiviram vašu SIM karticu %s</string>
+  <string name="error_device_id_message">Neki računi i cloud značajke neće biti dostupni</string>
+  <string name="error_device_id_title">"Ne mogu dobiti IMEI broj"</string>
   <string name="sim_unactivated_title">Vaša SIM kartica nije aktivirana</string>
   <string name="xmsf_activate_info">XMSF detalji aktivacije</string>
 </resources> 

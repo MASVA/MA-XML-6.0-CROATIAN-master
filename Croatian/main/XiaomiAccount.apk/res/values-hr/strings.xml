@@ -146,6 +146,7 @@ Dovršite svoj ​​profil koristeći osobne informacije kroz %s."</string>
   <string name="error_user_name">Nevažeće korisničko ime</string>
   <string name="error_verify_code">Kôd koji ste unijeli nije točan</string>
   <string name="facebook">Facebook</string>
+  <string name="failed_get_mibi_info">Nije uspjelo dobivanje Mi Kredita</string>
   <string name="failed_to_send_activate_email">"Ne mogu poslati aktivacijsku e-poštu"</string>
   <string name="find_device_dspt">Zaključajte ili obrišite ovaj uređaj na daljinu.</string>
   <string name="find_password_on_web_msg">Molimo vas da posjetite account.xiaomi.com za resetiranje svoje zaporke</string>
@@ -155,6 +156,7 @@ Dovršite svoj ​​profil koristeći osobne informacije kroz %s."</string>
   <string name="get_verify_code">Nabavite kôd</string>
   <string name="getting_verify_code">Nabavljam…</string>
   <string name="header_data_and_synchronization">Podaci &amp; Sinkr.</string>
+  <string name="hide_mibi_info">Podaci Mi Kredita su sakriveni</string>
   <string name="i_know">U redu</string>
   <string name="input_captcha_hint">Unesite kôd</string>
   <string name="input_password_hint">Unesite zaporku</string>
@@ -174,6 +176,7 @@ Dovršite svoj ​​profil koristeći osobne informacije kroz %s."</string>
   <string name="login_notice">Prijava…</string>
   <string name="login_step2_title">Potvrda u 2 koraka</string>
   <string name="login_title">Prijavite se u vaš Mi Račun</string>
+  <string name="mibi_balance">Mi Kredita %s</string>
   <string name="micloud_account">Mi Račun</string>
   <string name="micloud_account_details">Detalji računa</string>
   <string name="micloud_account_label">Račun: %1$s</string>

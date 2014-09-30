@@ -39,6 +39,11 @@
   <string name="find_device_disabled_title">"Pronađi uređaj" isključeno</string>
   <string name="find_device_disabling">Isključivanje…</string>
   <string name="find_device_dspt">Locirajte, zaključajte, ili resetiratjte vaš uređaj na daljinu</string>
+  <string name="find_device_dspt_provision">"Ako izgubite svoj ​​uređaj, možete ići na "</string>
+  <string name="find_device_dspt_provision_2">i.mi.com</string>
+  <string name="find_device_dspt_provision_3">" da biste ga locirali, zaključali, ili resetirali.
+
+Možete uključiti/isključiti tu značajku bilo kada u Postavkama."</string>
   <string name="find_device_enabling">Uključivanje…</string>
   <string name="find_device_error_network">Provjerite svoju podatkovnu vezu i pokušajte ponovno</string>
   <string name="find_device_error_server">Greška poslužitelja</string>
@@ -47,6 +52,7 @@
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">"da locirate, zaključate, ili obnovite svoj uređaj na daljinu.
 Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za ponovno aktiviranje ove usluge."</string>
+  <string name="find_device_send_sms_alert">Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za ponovno aktiviranje ove usluge.</string>
   <string name="find_device_stop_noise">Dodirnite U redu za utišavanje</string>
   <string name="find_device_success_title">Pronađi uređaj</string>
   <string name="finish">U redu</string>
@@ -58,6 +64,8 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="internet">Internet</string>
   <string name="internet_disconnected">Nema podatkovne veze</string>
   <string name="less_flow_mode">Ušteda podataka</string>
+  <string name="license_host_unreachable">"Ne mogu se spojiti na mrežu. Da biste vidjeli ove podatke sada, idite na %s."</string>
+  <string name="loading">Učitavanje…</string>
   <string name="master_alert_notif_dspt_add">Stavki za sinkr.: %s</string>
   <string name="master_alert_notif_dspt_no">Sinkronizirano</string>
   <string name="master_alert_notif_title">Zadnja sinkr. prije dana %s</string>
@@ -75,7 +83,7 @@ Kada je vaš cloud pun, vaši stari podaci neće ići nikamo. Međutim, svaki no
 Da biste to riješili, možete ili očistiti neke stare datoteke kako bi napravili mjesta za nove, ili možete kupiti dodatni prostor za pohranu."</string>
   <string name="micloud_full_influence_title">Kada je vaš MiCloud pun…</string>
   <string name="micloud_intro_01_part_01">Uštedite na mobilnim podacima!</string>
-<string name="micloud_intro_01_part_02">Slanje poruka u Cloudu preko interneta</string>
+  <string name="micloud_intro_01_part_02">Slanje poruka u Cloudu preko interneta</string>
   <string name="micloud_intro_02_part_01">Prestanite koristiti USB pogone i račune e-pošte da premjestite datoteke okolo</string>
   <string name="micloud_intro_02_part_02">Sinkronizacija kontakata, poruka, fotografija i još mnogo toga između uređaja.</string>
   <string name="micloud_intro_03_part_01">Osigurajte sadržaj svog telefona s bilo kojeg mjesta</string>
@@ -108,6 +116,11 @@ Da biste to riješili, možete ili očistiti neke stare datoteke kako bi napravi
   <string name="micloud_warn_low_title">Nizak prostor za pohranu…</string>
   <string name="micloud_web_discription_01">Prijavite se na i.mi.com</string>
   <string name="micloud_web_discription_02">za pohranu i pristup vašim datotekama s bilo kojeg mjesta</string>
+  <string name="mx_dspt">Mi Poruke</string>
+  <string name="mx_dspt_provision">"Mi Poruke omogućuje vam slanje poruke drugim MIUI korisnicima bez dodatnih SMS troškova.
+
+Možete uključiti/isključiti tu značajku bilo kada u Postavkama."</string>
+  <string name="mx_sub_dspt_provision">Mi Poruke</string>
   <string name="next">Dalje</string>
   <string name="noRemind">"Ne podsjećaj me"</string>
   <string name="no_sim">"Nema SIM kartice"</string>
@@ -120,6 +133,7 @@ Da biste to riješili, možete ili očistiti neke stare datoteke kako bi napravi
   <string name="pref_title_sync_contacts_title">Sinkroniziraj kontakte</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Koristi samo WLAN za sink. fotografija.</string>
   <string name="pref_title_sync_my_profile_title">Sinkroniziraj profil</string>
+  <string name="privacy_policy">Pravila o privatnosti</string>
   <string name="remind_later">Kasnije</string>
   <string name="restoreSync">Sinkroniziraj sada</string>
   <string name="setting">Postavke</string>
@@ -134,6 +148,12 @@ Da biste to riješili, možete ili očistiti neke stare datoteke kako bi napravi
   <string name="sub_sync_item_sms_title_wifi_only">Sinkronizacija MMS samo preko WLAN-a</string>
   <string name="sync">Sinkr.</string>
   <string name="sync_dspt">Omogući sinkr.</string>
+  <string name="sync_dspt_provision">"Mi Cloud sinkronizira vaše fotografije, SMS poruke, bilješke, i još mnogo toga između svih vaših Mi uređaja. Također im možete pristupiti s bilo kojeg preglednika na "</string>
+  <string name="sync_dspt_provision2">i.mi.com</string>
+  <string name="sync_dspt_provision3">".
+
+Možete uključiti/isključiti tu značajku bilo kada u Postavkama
+"</string>
   <string name="sync_item_calllog_summary">Sinkroniziraj zapise obavljenih/primljenih poziva na oavj telefon</string>
   <string name="sync_item_calllog_title">Popis poziva</string>
   <string name="sync_item_sms_summary">Sinkroniziraj poslane/primljene SMS poruke na ovaj telefon</string>
@@ -153,6 +173,10 @@ Da biste to riješili, možete ili očistiti neke stare datoteke kako bi napravi
   <string name="system_sync_off">Sinkr. sustava isklj.</string>
   <string name="title_reg">Napravite MiRačun</string>
   <string name="unactivated_user">Deaktivirano</string>
+  <string name="user_agreement">Korisnički sporazum</string>
+  <string name="user_agreement_p6">"Vaše korištenje ove značajke podliježe  "</string>
+  <string name="user_agreement_p7">"Mi Cloud Uvjetima pružanja usluge"</string>
+  <string name="user_agreement_p8">.</string>
   <string name="vcode">Provjera koda</string>
   <string name="verify">Potvrdi</string>
   <string name="wifi">WLAN</string>

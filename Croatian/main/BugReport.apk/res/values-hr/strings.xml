@@ -16,6 +16,11 @@
   <string name="camera_problem3">Fotoaparat često prekida</string>
   <string name="camera_problem4">"Ne može se prebacivati ​​između stražnje/prednje kamere"</string>
   <string name="camera_problem5">Fotoaparat je prestao raditi</string>
+  <string name="cta_cancel">Odustani</string>
+  <string name="cta_confirm">U redu</string>
+  <string name="cta_dialog_content">Prijava grešaka može se spojiti na mrežu za pružanje usluga, uključujući ali ne samo internet. Potvrditi nastavak?</string>
+  <string name="cta_dialog_title">Obavijest mreže</string>
+  <string name="cta_not_show_again">"Ne prikazuj ponovo"</string>
   <string name="description">"Ako ne vidite svoj problem u uobičajenim greškama, opišite ga ovdje"</string>
   <string name="discard_draft_dialog_button_cancel">Odustani</string>
   <string name="discard_draft_dialog_button_discard">Odbaci</string>
@@ -67,6 +72,7 @@
   <string name="systemui">Panel obavijesti</string>
   <string name="title_hot_problem">Uobičajene greške</string>
   <string name="toast_description_required">Potreban je opis</string>
+  <string name="toast_feedback_network_unavailable">"Ne mogu se spojiti na mrežu"</string>
   <string name="toast_feedback_pending_wlan">"Poruka će biti poslana kada budete spojeni na WLAN mrežu. Korisničko mišljenje će biti poslano kada WLAN mreža bude dostupna."</string>
   <string name="toast_feedback_submitted">Izvješće je poslano</string>
   <string name="toast_feedbackservice_in_submit">Slanje prethodnih informacija…</string>

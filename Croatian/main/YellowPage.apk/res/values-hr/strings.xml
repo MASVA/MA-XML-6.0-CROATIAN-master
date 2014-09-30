@@ -33,6 +33,7 @@
   <string name="callrecordview_item_op_time_short_incoming">"Dolazno: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Odlazno: "</string>
   <string name="check_network">Prikaži mrežne postavke</string>
+  <string name="choose_upload">Odaberite datoteku za učitavanje</string>
   <string name="colon">": "</string>
   <string name="confirm_delete_all_call_log_title">Potvrditi brisanje svih popisa poziva?</string>
   <string name="confirm_delete_call_log_title">Izbrisati popis poziva?</string>
@@ -114,6 +115,11 @@ Provjerite svoj broj za praćenje."</string>
   <string name="express_inquiry_provider_info">Powered by</string>
   <string name="express_inquiry_serial_number_indication">Broj za praćenje</string>
   <string name="express_inquiry_serial_number_prefix">"Serijski broj: "</string>
+  <string name="express_inquiry_trace">Prati</string>
+  <string name="express_inquiry_trace_success">Praćeno</string>
+  <string name="express_inquiry_trace_user_notice_content">"Obavijestiti ćemo vas o promjeni statusa vaše narudžbe."</string>
+  <string name="express_inquiry_untrace">Ne prati</string>
+  <string name="express_inquiry_untrace_success">Nije praćeno</string>
   <string name="express_no_address">Prazno</string>
   <string name="express_no_order_info">Nema informacija o narudžbi</string>
   <string name="express_no_tracking_number">Na čekanju</string>
@@ -172,12 +178,15 @@ Provjerite svoj broj za praćenje."</string>
   <string name="group_name_banner" />
   <string name="group_name_basic" />
   <string name="group_name_data_source">Izvor</string>
+  <string name="group_name_enroll"/>
   <string name="group_name_gallery">Galerija</string>
+  <string name="group_name_management">Upravljaj</string>
   <string name="group_name_more">Razno</string>
   <string name="group_name_service">Usluga</string>
   <string name="group_name_shop_info">Informacija</string>
   <string name="group_name_shop_recommendation">U blizini</string>
   <string name="group_name_title" />
+  <string name="hms_no_subject_view">(Nema predmeta)</string>
   <string name="hms_notification">Poruke</string>
   <string name="locating_fail">"Ne mogu pronaći vašu lokaciju"</string>
   <string name="login_before_use">Morate se prvo prijaviti</string>
@@ -193,6 +202,7 @@ Provjerite svoj broj za praćenje."</string>
   <string name="menu_correct_yellow_page">Ispravak</string>
   <string name="menu_delete_call_log">Izbrisati popis poziva</string>
   <string name="menu_delete_one">Ukloni stavku s popisa poziva</string>
+  <string name="menu_enroll_in_yellow_page">Prijavite se za Mi Žute stranice</string>
   <string name="menu_remove_black_list">Ukloniti s liste zabranjenih</string>
   <string name="menu_remove_from_favorite">Ukloni iz favorita</string>
   <string name="minimum_price">Od %d RMB</string>
@@ -307,6 +317,7 @@ molimo vas nazovite kako bi potvrdili pozivatelja. Banke, e-commerce tvrtke i ku
   <string name="turn_on_yellowpage_service_title">Koristite uslugu direktorija</string>
   <string name="upload_and_verify_fraud_num_off">Ova značajka je zatvorena</string>
   <string name="upload_and_verify_fraud_num_on">Dijeli informacije blokiranih tel. reklama</string>
+  <string name="uploads_disabled">Učitavanje datoteka je onemogućeno</string>
   <string name="user_agreement2">" Korisnički sporazum"</string>
   <string name="user_agreement4">Pravila o privatnosti</string>
   <string name="user_notice_identify_summary_format">"Vaš telefon će koristiti MIUI bazu podataka za blokiranje neželjenih poziva kada je spojen na WLAN. Dodirivanjem \"Slažem se\" pristajete na Xiaomi %1$s and %2$s."</string>

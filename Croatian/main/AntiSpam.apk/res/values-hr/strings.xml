@@ -67,6 +67,10 @@
   <string name="dlg_add_keyword">Dodaj ključne riječi</string>
   <string name="dlg_add_manual_hint">Unesi telefonski broj</string>
   <string name="dlg_add_manual_ok">Dodaj</string>
+  <string name="dlg_antispam_mode_delete_message">"Ne možete oporaviti prilagođena pravila liste blokiranih nakon brisanja."</string>
+  <string name="dlg_antispam_mode_delete_title">Brisanje prilagođenih pravila</string>
+  <string name="dlg_antispam_using_mode_delete_message">"Izbrisati profil liste blokiranih koji trenutno koriste i prebaciti na zadani profil? Ne možete povratiti ovu radnju!"</string>
+  <string name="dlg_antispam_using_mode_international_delete_message">"Izbrisati profil liste blokiranih koji trenutno koriste i prebaciti na zadani profil? Ne možete povratiti ovu radnju!!"</string>
   <string name="dlg_bl_add_manual">Ručno dodati brojeve na listu zabranjenih</string>
   <string name="dlg_black_address_antispam_message">Dodati ovu lokaciju na listu zabranjenih?</string>
   <string name="dlg_black_antispam_hint">Lista blokiranih</string>
@@ -102,6 +106,7 @@
   <string name="fw_blocked_count" formatted="false">Blokirano: </string>
   <string name="fw_blocked_join">" i "</string>
   <string name="hint_antispam_mode_edit">Prilagođeni način</string>
+  <string name="info_antispam_current_mode">%s</string>
   <string name="info_antispam_phone">Blokiraj pozive</string>
   <string name="info_antispam_phone_sms">Blokiraj pozive i poruke</string>
   <string name="info_antispam_sms">Blokiraj poruke</string>

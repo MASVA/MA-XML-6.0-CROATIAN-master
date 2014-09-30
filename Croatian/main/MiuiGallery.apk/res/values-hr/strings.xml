@@ -263,7 +263,7 @@ svoj album s bilo kojeg mjesta.
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Uvoz je dovršen</string>
   <string name="import_fail">Uvoz neuspješan</string>
-  <string name="impunity_declaration">Galerija se može spojiti na mrežu za pružanje usluga, uključujući ali ne samo internet. Potvrditi za nastavak?</string>
+  <string name="impunity_declaration">Hoćete li pristati na povezivanje na internet, kada koristite Galeriju?</string>
   <string name="impunity_declaration_ignore">"Ne prikazuj ponovo"</string>
   <string name="impunity_declaration_settings">Prikaži obavijest mreže</string>
   <string name="impunity_declaration_summary">Prikaži obavijest mreže svaki put kad se pokrene aplikacija Galerija</string>

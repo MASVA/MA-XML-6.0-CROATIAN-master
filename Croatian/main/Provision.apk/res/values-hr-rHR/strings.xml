@@ -16,8 +16,8 @@
   <string name="other_settings_location">Lokacije</string>
   <string name="other_settings_location_summary">Dopustiti aplikacijama pristup vašoj lokaciji</string>
   <string name="other_settings_user_experience">Program iskustva korisnika</string>
-  <string name="other_settings_user_experience_summary">"Pomozite nam poboljšati MIUI slanjem anonimnih podataka o korištenju. "</string>
-  <string name="other_settings_user_experience_summary1">(Prikaži pravila o privatnosti)</string>
+  <string name="other_settings_user_experience_summary">Pomozite nam poboljšati MIUI slanjem anonimnih podataka o korištenju (%s)</string>
+  <string name="other_settings_user_experience_summary1">prikaži Pravila o privatnosti</string>
   <string name="pref_title_data_slot">Poželjni podaci SIM kartice</string>
   <string name="pref_title_voice_slot">Poželjne glas. usluge SIM kartice</string>
   <string name="privacy_policy">Pravila o privatnosti</string>

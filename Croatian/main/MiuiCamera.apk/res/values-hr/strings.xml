@@ -269,14 +269,14 @@ panoramske fotografije.</string>
   <string name="pref_camera_front_fb_title">Poboljšanje boje kože</string>
   <string name="pref_camera_hand_night_title">HHT</string>
   <string name="pref_camera_hdr_title">HDR</string>
-  <string name="pref_camera_hdr_type_entry_live">Uživo</string>
-  <string name="pref_camera_hdr_type_entry_normal">Normalan</string>
+  <string name="pref_camera_hdr_type_entry_live">HDR Uživo</string>
+  <string name="pref_camera_hdr_type_entry_normal">HDR Normalan</string>
   <string name="pref_camera_hdr_type_title">HDR vrsta</string>
   <string name="pref_camera_hfr_entry_2x">60</string>
   <string name="pref_camera_hfr_entry_3x">90</string>
   <string name="pref_camera_hfr_entry_4x">120</string>
   <string name="pref_camera_hfr_entry_off">Isključeno</string>
-  <string name="pref_camera_hfr_title">Rýchle FPS (Slowmotion)</string>
+  <string name="pref_camera_hfr_title">Brzi FPS (Slowmotion)</string>
   <string name="pref_camera_histogram_entry_disable">Onemogući</string>
   <string name="pref_camera_histogram_entry_enable">Omogući</string>
   <string name="pref_camera_histogram_title">Histogram</string>
@@ -296,7 +296,8 @@ panoramske fotografije.</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_off">Izoštravanje</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_on">Snimanje</string>
   <string name="pref_camera_long_pressing_burst_shooting_title">Dugi pritisak na tipku okidača</string>
-  <string name="pref_camera_movie_solid_title">Movie solid</string>
+  <string name="pref_camera_manual_mode_title">Ručno</string>
+  <string name="pref_camera_movie_solid_title">Film solidan</string>
   <string name="pref_camera_multilevel_entry_high">Visoki</string>
   <string name="pref_camera_multilevel_entry_higher">Viši</string>
   <string name="pref_camera_multilevel_entry_highest">Najviši</string>
@@ -415,6 +416,7 @@ panoramske fotografije.</string>
   <string name="pref_grp_restore_settings">Obnova zadanih postavki</string>
   <string name="pref_manual_exposure_title">Ručna ekspozicijae</string>
   <string name="pref_priority_storage_title">Spremi na SD karticu</string>
+  <string name="pref_qc_focus_position_title">Izoštravanje</string>
   <string name="pref_scan_qrcode_entry_off">Isklj.</string>
   <string name="pref_scan_qrcode_entry_on">Uklj.</string>
   <string name="pref_scan_qrcode_title">Skeniraj QR kod</string>
@@ -496,6 +498,8 @@ panoramske fotografije.</string>
   <string name="simple_mode_button_text_fast_video">Zatvori sporo-gibanje kameru</string>
   <string name="simple_mode_button_text_hand_night">Zatvori HHT</string>
   <string name="simple_mode_button_text_hdr">Zatvori HDR način</string>
+  <string name="simple_mode_button_text_manual">Zatvori ručni način</string>
+  <string name="simple_mode_button_text_manual_mode">Zatvori ručno</string>
   <string name="simple_mode_button_text_opti_zoom">Zatvori</string>
   <string name="simple_mode_button_text_panorama">Zatvori panoramu</string>
   <string name="simple_mode_button_text_slow_video">Zatvori kameru brzog gibanja</string>

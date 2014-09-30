@@ -19,6 +19,7 @@
   <string name="button_text_check">Provjeri</string>
   <string name="button_text_later_reboot">Kasnije</string>
   <string name="button_text_reboot">Sada</string>
+  <string name="button_text_reboot_hm">Poslije</string>
   <string name="button_text_update">Ažuriraj</string>
   <string name="cancel_download">Zaustaviti preuzimanje ovog ažuriranja?</string>
   <string name="cancel_download_buton_text">Odustani</string>
@@ -147,6 +148,8 @@
   <string name="unstable_build">Nestabilno</string>
   <string name="update_comment_hint"/>
   <string name="update_comment_title">Komentar</string>
+  <string name="update_downfull_no_info_sum">Preuzimanje nije moguće, provjerite tipku Ažuriranje.</string>
+  <string name="update_downfull_no_info_title">Preuzimanje nije moguće</string>
   <string name="update_feedback">Ažuriraj povratne informacije</string>
   <string name="update_feedback_end">"Propustili ste anketu ovog tjedna."</string>
   <string name="update_feedback_end_sum">Možete se pridružiti svakog utorka.</string>

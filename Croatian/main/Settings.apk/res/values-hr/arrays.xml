@@ -480,9 +480,13 @@
         <item>1.5 sekundi</item>
         <item>2 sekunde</item>
     </string-array> 
+	 <string-array name="screen_key_press_action">
+        <item>Prikaži nedavne aplikacije</item>
+        <item>Prikaži Izbornik</item>
+    </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Ništa</item>
-        <item>Pokaži nedavne aplikacije</item>
+        <item>Prikaži nedavne aplikacije</item>
         <item>Pokreni upravitelje</item>
         <item>Pokreni Google now</item>
         <item>Zatvori trenutnu aplikaciju</item>

@@ -93,6 +93,7 @@ Za više informacija provjerite poruku koju ste dobili od svog davatelja usluga"
   <string name="input_aviable_traffic">Postavi ograničenje uporabe podataka</string>
   <string name="input_traffic_pkg">Unesite uporabu podataka</string>
   <string name="input_used_hint">Unesite uporabu podataka</string>
+  <string name="input_used_max_hint">Unesite uporabu podataka (manje od %s)</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Prazno</string>
   <string name="lock_screen_traffic_warn_title">Upozorenje uporabe podataka</string>

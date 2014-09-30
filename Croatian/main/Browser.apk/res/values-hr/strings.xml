@@ -535,6 +535,7 @@
   <string name="profiler_stopped_toast">Profiler je završio. Rezultati su u datoteci %1$s.</string>
   <string name="progress_dialog_setting_wallpaper">Podešavanje pozadinske slike…</string>
   <string name="qr_code_title">QR Kod</string>
+  <string name="quicklink_bookmark_save">Spremi kao:</string>
   <string name="quicklink_not_saved">"Ne mogu dodati na početnu stranicu"</string>
   <string name="quicklink_saved">Dodano na početnu stranicu</string>
   <string name="quicklink_saved_before">Stranica dodana na početnu stranicu</string>
