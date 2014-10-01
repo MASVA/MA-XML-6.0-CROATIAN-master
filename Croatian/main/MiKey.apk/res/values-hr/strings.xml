@@ -49,7 +49,7 @@
   <string name="add_to_contacts">Dodaj u kontakte</string>
   <string name="address">Adresa:</string>
   <string name="app_name">MiKey</string>
-   <string name="app_not_installed">Aplikacija nije instalirana</string>
+  <string name="app_not_installed">Aplikacija nije instalirana</string>
   <string name="back_camera">Zadnja kamera</string>
   <string name="birthday">Rođendan:</string>
   <string name="call_to">Poziv</string>
@@ -189,7 +189,6 @@ To može uzrokovati veću potrošnju baterije"</string>
   <string name="setting_speed_quick">Brzo</string>
   <string name="setting_speed_slow">Sporo</string>
   <string name="setting_speed_text">Brzina</string>
-  
   <string name="setting_toolbar">Alatna traka</string>
   <string name="setting_toolbar_desc">"Značajkama Alatne trake može se brzo pristupiti iz trake obavijesti kako bi stvari bile praktičnije"</string>
   <string name="setting_toolbar_tip">"Pritisnite tipku "+" za dodavanje novih značajki.
