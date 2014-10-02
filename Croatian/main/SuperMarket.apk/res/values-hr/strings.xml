@@ -255,7 +255,7 @@
   <string name="pref_summary_feature_intro">"Saznajte više o posebnim značajkama Marketa"</string>
   <string name="pref_summary_web_dev0">Idite na：</string>
   <string name="pref_summary_web_dev1">http://dev.xiaomi.com</string>
-  <string name="pref_summary_web_market0">Idite na：</string>
+  <string name="pref_summary_web_market0">Idite na:</string>
   <string name="pref_summary_web_market1">http://app.mi.com</string>
   <string name="pref_title_about">O Marketu</string>
   <string name="pref_title_auto_update_via_wifi">Auto.ažuriranje putem WLAN-a</string>
