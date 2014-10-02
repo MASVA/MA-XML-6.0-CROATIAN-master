@@ -174,7 +174,7 @@
   <string name="hints_apk_header_left">Instal.aplik.: %d</string>
   <string name="hints_apk_version">Verzija: %s</string>
   <string name="hints_app_uninstall_residual">Očistiti ostatke deinstaliranih datoteka?</string>
-  <string name="hints_apps_perm_count">Dopuštenja %d</string>
+  <string name="hints_apps_perm_count">Dopuštenja: %d</string>
   <string name="hints_auto_start_disable_title">Broj aplikacija bez dopuštenja autom. pokretanje %d</string>
   <string name="hints_auto_start_enable_title">Broj aplikacija s dopuštenjem autom. pokretanja %d</string>
   <string name="hints_auto_start_warning_info">Zabrana automatskog pokretanja neće dobiti nikakvu poruku</string>
