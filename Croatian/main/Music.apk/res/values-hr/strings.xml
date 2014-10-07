@@ -18,8 +18,8 @@
   <string name="audio_picker_title">Odaberi pjesmu</string>
   <string name="auto_download_in_wifi">Niste povezani s internetom</string>
   <string name="available_playlist_name_format">Novi popis pjesama %d</string>
-  <string name="avoid_to_use_traffic_summary">Nikada nemoj koristiti mobilnu mrežu za streaming glazbe</string>
-  <string name="avoid_to_use_traffic_title">Koristi samo WLAN za streaming glazbe</string>
+  <string name="avoid_to_use_traffic_summary">Nikada nemoj koristiti mobilnu mrežu za streaming</string>
+  <string name="avoid_to_use_traffic_title">Koristi samo WLAN za streaming</string>
   <string name="baidu_music">Baidu glazba</string>
   <string name="buffering">Stavljanje u međuspremnik…</string>
   <string name="button_add">Dodaj</string>
@@ -77,7 +77,7 @@
   <string name="eq_dance">Dance</string>
   <string name="eq_delete">Ukloni</string>
   <string name="eq_delete_success">Gotovo</string>
-  <string name="eq_electronic">Electronska</string>
+  <string name="eq_electronic">Elektronska</string>
   <string name="eq_flat">Flat</string>
   <string name="eq_hiphop">Hip Hop</string>
   <string name="eq_jazz">Jazz</string>
@@ -128,9 +128,9 @@
   <string name="loading_hint">Učitavanje…</string>
   <string name="local_music">Lokalna glazba</string>
   <string name="local_music_is_not_available">"Lokalna glazba nije dostupna"</string>
-  <string name="local_tracks_short">Lokalna glazba</string>
+  <string name="local_tracks_short">Lokalno</string>
   <string name="login_first">Prijavite se prvo u svoj Mi Račun</string>
-  <string name="lrc_search_failed">"Ne mogu pronaći riječi"</string>
+  <string name="lrc_search_failed">"Ne mogu pronaći tekst"</string>
   <string name="lrc_searching">"Pretraživanje riječi…"</string>
   <string name="lyric_open_other_connect">Preuzmi tekst koristeći mobilnu mrežu</string>
   <string name="max_sleep_time">90</string>
@@ -161,7 +161,7 @@
   <string name="not_login">Niste prijavljeni</string>
   <string name="not_selected">Odaberi pjesmu</string>
   <string name="ok">"U redu"</string>
-  <string name="online_music">Online glazba</string>
+  <string name="online_music">Online</string>
   <string name="online_playlist_is_empty">Online popis pjesama je prazan!</string>
   <string name="order_process_fail">"Nije bilo moguće autorizirati vaš račun. Pričekajte nekoliko minuta i pokušajte ponovno."</string>
   <string name="payment_fail">Plaćanje nije uspjelo</string>

@@ -35,7 +35,7 @@
     <string-array name="transformation_entries">
         <item>Klasično klizanje</item>
         <item>Klasično klizanje (bez prebacivanja)</item>
-        <item>"Križno utišavanje"</item>
+        <item>Križno utišavanje</item>
         <item>Tumbanje</item>
         <item>Stranica</item>
         <item>Vodopad</item>
@@ -60,7 +60,7 @@
     </string-array>
     <string-array name="wallpaper_scroll_values">
         <item>ovisno o temi</item>
-        <item>"sredina"</item>
+        <item>sredina</item>
         <item>lijevo</item>
         <item>desno</item>
     </string-array>

@@ -18,7 +18,7 @@
   <string name="boot_recovery">Ponovno pokreni u Recovery mode</string>
   <string name="button_text_check">Provjeri</string>
   <string name="button_text_later_reboot">Kasnije</string>
-  <string name="button_text_reboot">Sada</string>
+  <string name="button_text_reboot">Ponovno pokrenuti sada</string>
   <string name="button_text_reboot_hm">Poslije</string>
   <string name="button_text_update">Ažuriraj</string>
   <string name="cancel_download">Zaustaviti preuzimanje ovog ažuriranja?</string>

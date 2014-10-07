@@ -213,7 +213,7 @@ sadržaj koji tražite nije trenutno dostupan u vašoj regiji."</string>
     <string name="short_ringtone_resource">Kratko</string>
     <string name="theme_batch_has_update_text">Dostupna ažuriranja: %1$d</string>
     <string name="theme_batch_update_all">Ažuriraj sve</string>
-    <string name="theme_batch_update_dlg_content">Ažurirati %1$s i %2$d ostale teme sada?</string>
+    <string name="theme_batch_update_dlg_content">Ažurirati %1$s i još ovoliko tema %2$d?</string>
     <string name="theme_batch_update_dlg_content_single">Ažurirati %1$s sada?</string>
     <string name="theme_batch_update_dlg_title">Ažuriranje teme…</string>
     <string name="theme_batch_updating_text">Ažuriram (%1$d)…</string>
