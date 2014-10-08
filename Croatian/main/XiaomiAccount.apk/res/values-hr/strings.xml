@@ -116,6 +116,7 @@ Dovršite svoj ​​profil koristeći osobne informacije kroz %s."</string>
   <string name="check_phone_io_error">Greška mreže</string>
   <string name="checking_account">Provjera zaporke…</string>
   <string name="checking_input">Provjera…</string>
+  <string name="choose_which_one_sim">Odaberite broj telefona</string>
   <string name="cloud_messaging">Mi Poruke</string>
   <string name="cloud_service">Mi Cloud</string>
   <string name="completed">Završeno</string>
@@ -286,6 +287,7 @@ Da biste aktivirali vaš račun, slijedite
   <string name="service_error">Pogreška usluge</string>
   <string name="show_password">Prikaži zaporku</string>
   <string name="sim_changed_notification_content">"SIM kartica još nije aktivirana"</string>
+  <string name="sim_index_info">SIM kartica %1$d - %2$s</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Preskoči prijavu</string>
   <string name="skip_login_u">Preskoči prijavu</string>

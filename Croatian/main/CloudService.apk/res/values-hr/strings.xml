@@ -41,9 +41,11 @@
   <string name="find_device_dspt">Locirajte, zaključajte, ili resetiratjte vaš uređaj na daljinu</string>
   <string name="find_device_dspt_provision">"Ako izgubite svoj ​​uređaj, možete ići na "</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
+  <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
   <string name="find_device_dspt_provision_3">" da biste ga locirali, zaključali, ili resetirali.
 
-Možete uključiti/isključiti tu značajku bilo kada u Postavkama."</string>
+Možete uključiti/isključiti tu značajku bilo kada u Postavkama.
+"</string>
   <string name="find_device_enabling">Uključivanje…</string>
   <string name="find_device_error_network">Provjerite svoju podatkovnu vezu i pokušajte ponovno</string>
   <string name="find_device_error_server">Greška poslužitelja</string>
@@ -150,6 +152,7 @@ Možete uključiti/isključiti tu značajku bilo kada u Postavkama."</string>
   <string name="sync_dspt">Omogući sinkr.</string>
   <string name="sync_dspt_provision">"Mi Cloud sinkronizira vaše fotografije, SMS poruke, bilješke, i još mnogo toga između svih vaših Mi uređaja. Također im možete pristupiti s bilo kojeg preglednika na "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
+  <string name="sync_dspt_provision2_int">mi.com/micloud</string>
   <string name="sync_dspt_provision3">".
 
 Možete uključiti/isključiti tu značajku bilo kada u Postavkama

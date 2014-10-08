@@ -612,6 +612,20 @@
         <item>Unutarnja memorija</item>
         <item>Vanjska memorija</item>
     </string-array>
+    <string-array name="tts_rate_xunfei_entries">
+        <item>Jako sporo</item>
+        <item>Sporo</item>
+        <item>Normalni</item>
+        <item>Brzo</item>
+        <item>Brže</item>
+    </string-array>
+    <string-array name="tts_rate_xunfei_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+    </string-array>
 	<string-array name="miracast_policies">
         <item>Kraća odgoda</item>
         <item>Standardno</item>

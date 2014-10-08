@@ -86,14 +86,14 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="ext_media_badremoval_notification_title">"USB pohrana je neočekivano uklonjena"</string>
   <string name="ext_media_checking_notification_message">"Traženje pogrešaka."</string>
   <string name="ext_media_checking_notification_title">"Pripremanje USB pohrane"</string>
-  <string name="ext_media_mountable_notification_message">"Dodirnite 'Idi na Explorer'"</string>
+  <string name="ext_media_mountable_notification_message">"Dodirnite za otvaranje u Exploreru"</string>
   <string name="ext_media_mountable_notification_title">Uređaj USB pohrane je povezan</string>
   <string name="ext_media_nofs_notification_message">"USB pohrana je prazna ili ima nepodržani datotečni sustav."</string>
   <string name="ext_media_nofs_notification_title">Prazna USB pohrana</string>
   <string name="ext_media_nomedia_notification_message">USB pohrana je uklonjena. Umetnite novi medij.</string>
   <string name="ext_media_nomedia_notification_title">Uklonjena je USB pohrana</string>
   <string name="ext_media_safe_remove">Ukloni na siguran način</string>
-  <string name="ext_media_safe_unmount_notification_message">"Možete ukloniti USB pohranu na siguran način."</string>
+  <string name="ext_media_safe_unmount_notification_message">"Možete sada ukloniti USB pohranu na siguran način."</string>
   <string name="ext_media_safe_unmount_notification_title">USB pohrana se može ukloniti na siguran način</string>
   <string name="ext_media_unmountable_notification_message">USB pohrana je oštećena. Možda ćete je morati iznova formatirati.</string>
   <string name="ext_media_unmountable_notification_title">Oštećena USB pohrana</string>

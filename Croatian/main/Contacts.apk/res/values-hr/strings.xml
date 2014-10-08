@@ -694,7 +694,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="pickerNewContactText">Kreiraj novi kontakt</string>
   <string name="picker_all_list_empty">Nema kontakata</string>
   <string name="picker_contact_title">Izaberi kontakt</string>
-  <string name="picker_email_title">Izaberi e-poštu</string>
+  <string name="picker_email_title">Izaberi adresu e-pošte</string>
   <string name="picker_favorites_list_empty">"Nema favorita."</string>
   <string name="picker_groups_list_empty">Nema grupa</string>
   <string name="picker_join_title">Odaberi kontakt za združivanje s %s</string>
@@ -786,8 +786,8 @@ Za dodavanje kontakta na listu favorita :
   <string name="recentCalls_removeFromRecentList">"Ukloni iz zapisnika poziva"</string>
   <string name="recentCalls_shareVoicemail">"Podijeli govornu poštu"</string>
   <string name="recentCalls_trashVoicemail">"Brisanje govorne pošte"</string>
-  <string name="recent_contacts_label">"Nedavni"</string>
-  <string name="recent_number">"Nedavni"</string>
+  <string name="recent_contacts_label">"Nedavno"</string>
+  <string name="recent_number">"Nedavno"</string>
   <string name="recent_updates">Nedavna ažuriranja</string>
   <string name="redirect_calls_to_vm_confirm_message">Prije postavljanja vašeg pretinca e-pošte, provjerite pravila i odredbe vašeg ugovora s mobilnim operaterom.</string>
   <string name="redirect_calls_to_vm_confirm_text">"U redu"</string>
@@ -995,7 +995,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="share_visible_contacts">"Dijeli kontakte"</string>
   <string name="shortcutActivityTitle">Izaberi prečac kontakta</string>
   <string name="shortcutContact">"Kontakt"</string>
-  <string name="shortcutDialContact">Izravno biranje</string>
+  <string name="shortcutDialContact">"Izravno biranje"</string>
   <string name="shortcutMessageContact">Izravna poruka</string>
   <string name="showAllContactsJoinItem">"Prikaži sve kontakte"</string>
   <string name="simContacts_airplaneMode">"Za uvoz kontakata sa SIM kartice prvo isključite način rada u zrakoplovu."</string>

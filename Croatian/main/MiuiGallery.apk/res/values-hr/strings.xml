@@ -103,7 +103,9 @@
   <string name="cloud_gallery_recyclebin_full">Kanta za smeće u puna,ispraznite koš na i.mi.com.</string>
   <string name="cloud_gallery_space_full">Nema dovoljno prostora u vašem cloudu</string>
   <string name="cloud_media_set_set">Cloud</string>
-  <string name="cloud_owner_album_share_guide">Podijelite ovaj album sa prijateljima</string>
+  <string name="cloud_owner_album_share_guide">"Podijelite ovaj album 
+  
+  sa prijateljima"</string>
   <string name="cloud_screenshots_display_name">Snimke zaslona</string>
   <string name="cloud_share_guide_message">"Podijelite vaše fotografije sa
 prijateljima.
@@ -335,12 +337,13 @@ svoj album s bilo kojeg mjesta.
   <string name="must_pick_file">Odaberi sliku</string>
   <string name="negative">Negativan</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
-  <string name="new_device_tips">Dodirnite za prikaz uređaja</string>
+  <string name="new_device_tips">"Dodirnite za prikaz 
+uređaja"</string>
   <string name="no">Ne</string>
   <string name="no_albums_alert">Nema dostupnih albuma.</string>
-  <string name="no_connectivity">"Neke lokacije nisu se mogle identificirati zbog poteškoća s mrežnom."</string>
+  <string name="no_connectivity">"Neke lokacije nisu mogle biti identificirane zbog poteškoća s mrežom."</string>
   <string name="no_location">Nema lokacije</string>
-  <string name="no_map_app">Nema apliakcija za obradu tražene radnje</string>
+  <string name="no_map_app">Nema aplikacija za obradu tražene radnje</string>
   <string name="no_network_connected">Nema dostupnih mrežnih veza</string>
   <string name="no_picture_or_video">Prazno</string>
   <string name="no_storage_disable_cloud_albums">Cloud je nedostupan.</string>
