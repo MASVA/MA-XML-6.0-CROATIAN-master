@@ -32,7 +32,7 @@
     <string name="err_init_settings">Greška prilikom dobivanja trenutnih postavki</string>
     <string name="err_reset">Greška prilikom resetiranja postavki.</string>
     <string name="err_saving">Pogreška kod spremanja postavki.</string>
-    <string name="howtouse_text">"1. Koristite "Drag'n'Drop" način da posložite prečace po svojoj želji.
+    <string name="howtouse_text">"1. Koristite "Drag\'n\'Drop" način da posložite prečace po svojoj želji.
 2. Pritisnite tipku \"Spremi\".
 4. Gotovo!"</string>
     <string name="howtouse_text1">Tipka \"Resetiraj\" će vratiti raspored prečaca na zadane postavke.</string>
