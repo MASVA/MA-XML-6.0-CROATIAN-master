@@ -13,7 +13,7 @@
   <string name="add_to_cloud_failed_message_with_count">%2$s stavaka ne može biti dodano u cloud : %1$s.</string>
   <string name="add_to_cloud_file_exist_message">Fotografija već postoji u odredišnom albumu.</string>
   <string name="add_to_cloud_folder">Dodaj u mapu</string>
-  <string name="add_to_cloud_image_limit_exceeded_message">Ograničenje slike premašenao</string>
+  <string name="add_to_cloud_image_limit_exceeded_message">Ograničenje slike premašeno</string>
   <string name="add_to_cloud_local_space_full_message">Pohrana puna ili nije spremna.</string>
   <string name="add_to_cloud_reasons"/>
   <string name="add_to_cloud_space_full_message">Cloud album je pun.</string>
@@ -126,19 +126,19 @@ svoj album s bilo kojeg mjesta.
   <string name="comfirm_delete_current_album">Izbrisati ovaj album?</string>
   <string name="comma">, </string>
   <string name="confirm">U redu</string>
-  <string name="confirm_delete">Izbrisati %s fotografije?</string>
-  <string name="confirm_delete_album" formatted="false">Izbrisati %s albume (ukupno %s)?</string>
-  <string name="confirm_delete_has_cloud_image_video">Izbrisati stavke %s u cloudu?</string>
-  <string name="confirm_delete_has_cloud_local_image_video">Izbrisati stavke %s u oblaku ?</string>
-  <string name="confirm_delete_has_local_image_video">Izbrisati %s stavku?</string>
-  <string name="confirm_delete_home_merge_item">Izbrisati slike %s lokalno i na Mi Cloudu?</string>
+  <string name="confirm_delete">Izbrisati fotografije: %s?</string>
+  <string name="confirm_delete_album" formatted="false">Izbrisati albume: %s (ukupno %s)?</string>
+  <string name="confirm_delete_has_cloud_image_video">Izbrisati stavke u cloudu; %s?</string>
+  <string name="confirm_delete_has_cloud_local_image_video">Izbrisati stavke u oblaku: %s?</string>
+  <string name="confirm_delete_has_local_image_video">Izbrisati stavku: %s?</string>
+  <string name="confirm_delete_home_merge_item">Izbrisati slike lokalno i na Mi Cloudu: %s?</string>
   <string name="confirm_delete_init_message">Slike će biti izbrisane iz MiClouda i iz vašeg uređaja. Da biste ih izbrisali samo s uređaja, prijeđite na karticu \"Lokalno\".</string>
   <string name="confirm_delete_init_title">Izbriši slike</string>
-  <string name="confirm_delete_pictures">Izbrisati %s slika?</string>
+  <string name="confirm_delete_pictures">Izbrisati slike: %s?</string>
   <string name="confirm_delete_system_album">%s je album sustava</string>
   <string name="confirm_delete_this_picture">Izbrisati odabranu sliku?</string>
   <string name="confirm_delete_this_video">Izbrisati odabran videozapis?</string>
-  <string name="confirm_delete_videos">Izbrisati %s videozapise</string>
+  <string name="confirm_delete_videos">Izbrisati videozapise: %s</string>
   <string name="confirm_download">Morate preuzeti %s.</string>
   <string name="confirm_download_video_message">Morate završiti s preuzimanjem ovog videozapisa prije nego što ga možete pogledati. Preuzimanje će se nastaviti kada je WLAN dostupan.</string>
   <string name="confirm_download_video_title">Preuzmi videozapis</string>
@@ -256,7 +256,7 @@ svoj album s bilo kojeg mjesta.
   <string name="home_my_captured_items">" snimaka fotoaparata"</string>
   <string name="home_page_tab_cloud">Cloud</string>
   <string name="home_page_tab_local">Lokalno</string>
-  <string name="home_page_tab_photo">Fotografije</string>
+  <string name="home_page_tab_photo">Fotografija</string>
   <string name="how_many_pics">%d fotogr.</string>
   <string name="how_many_sub_folders">%d mapa</string>
   <string name="how_many_videos">%d videozapisa</string>
@@ -515,7 +515,7 @@ uređaja"</string>
   <string name="sync_album_error">"Ne mogu sinkronizirati fotografije u ovom albumu. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
   <string name="sync_album_in_proecess">Sinkronizacija albuma…</string>
   <string name="sync_album_set_error">Ne mogu sinkronizirati ove albume. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
-  <string name="sync_album_summary">Učitajte svoje fotografije vaš Cloud</string>
+  <string name="sync_album_summary">Učitajte svoje fotografije na vaš Cloud</string>
   <string name="sync_history_power_on">Sinkroniziraj povijest slika samo tijekom punjenja</string>
   <string name="sync_in_progress_message">Sinkronizacija…</string>
   <string name="sync_only_in_wifi">Koristi samo WLAN za učitavanje fotografija</string>
