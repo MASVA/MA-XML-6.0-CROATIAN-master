@@ -1122,7 +1122,7 @@ Neke aplikacije neće raditi dok ih ne ažuriraju njihovi razvijatelji."</string
   <string name="last_synced">Zadnja sinkronizacija: %1$s</string>
   <string name="later">Kasnije</string>
   <string name="launch_count_label">Broj</string>
-  <string name="launching_cit">Pokrećem cit, pričekajte.</string>
+  <string name="launching_cit">Pokrećem CIT</string>
   <string name="launching_pho">Pokrećem podatke uređaja…</string>
   <string name="launching_rep">Slanje zapisa o pogrešci…</string>
   <string name="led_colors_summary">Obavijesti</string>

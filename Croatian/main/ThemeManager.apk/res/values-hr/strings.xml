@@ -111,7 +111,7 @@
     <string name="resource_detail_comment_title">Komentari</string>
     <string name="resource_detail_jump_to_online_title">Mrežno</string>
     <string name="resource_detail_jump_to_same_author_title">Isti autor</string>
-    <string name="resource_detail_recommend_desiner_other_themes">Ostale teme dizajnirao %1$s</string>
+    <string name="resource_detail_recommend_desiner_other_themes">Teme dizajnirao %1$s</string>
     <string name="resource_detail_recommend_desiner_themes">%1$s tema</string>
     <string name="resource_detail_recommend_other_themes">Korisnicima se još sviđa</string>
     <string name="resource_detail_update_log_title">Ažuriranja</string>

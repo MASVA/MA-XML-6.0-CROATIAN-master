@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_contact_backup_info">Podaci Google računa, MiRačuna i kontakata</string>
+  <string name="account_contact_backup_info">Podaci Google računa, Mi Računa i kontakata</string>
   <string name="account_login">Prijavite se</string>
-  <string name="account_summary">Pohrana MiRačun, Google računa i ostalih korisničkih podataka</string>
+  <string name="account_summary">Pohrana Mi Računa, Google računa i ostalih korisničkih podataka</string>
   <string name="already_enable_encrypt">Šifriranje omogućeno</string>
   <string name="app_name">Pohrana</string>
   <string name="auto_backup">Automatski napravi pohranu</string>
@@ -104,10 +104,10 @@
   <string name="local_select_sysdata">Sustav</string>
   <string name="local_select_userapp">Aplikacije</string>
   <string name="menu_patch_delete">Obrisane pohrane</string>
-  <string name="miliao_account_guide">Napravite Mi račun da uživate svim Xiaomi online uslugama</string>
-  <string name="miliao_account_login">Prijavite se s MiTalk</string>
+  <string name="miliao_account_guide">Koristite svoj Mi Račun za prijavu na Mi Cloud, MIUI Trgovinu Tema, te druge MI Usluge, s bilo kojeg mjesta.</string>
+  <string name="miliao_account_login">Prijavite se s Mi Talk</string>
   <string name="mms_title">MMS</string>
-  <string name="multi_select_title">%1$s odabrano</string>
+  <string name="multi_select_title">Odabrano: %1$s</string>
   <string name="no_encrypt_password">Nema zaporki</string>
   <string name="no_network">"Ne mogu se spojiti na mrežu.</string>
   <string name="note_title">Bilješke</string>

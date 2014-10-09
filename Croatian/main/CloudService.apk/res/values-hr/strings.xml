@@ -182,6 +182,7 @@ Možete uključiti/isključiti tu značajku bilo kada u Postavkama
   <string name="user_agreement_p8">.</string>
   <string name="vcode">Provjera koda</string>
   <string name="verify">Potvrdi</string>
+  <string name="view_storage_title">Prikaži cloud prostor</string>
   <string name="wifi">WLAN</string>
   <string name="wifi_disconnected">WLAN isključen</string>
   <string name="wifi_sync">WLAN sinkr.</string>

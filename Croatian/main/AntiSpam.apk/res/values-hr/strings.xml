@@ -44,7 +44,7 @@
   <string name="ad_update_time">Zadnje ažuriranje: %s</string>
   <string name="ad_update_time_unKnown">Zadnje ažuriranje: nepoznato</string>
   <string name="ad_update_title">Automatski ažuriraj</string>
-  <string name="address_choose_hint">%1$s、%2$s i %3$d lokacije</string>
+  <string name="address_choose_hint">%1$s, %2$s i %3$d</string>
   <string name="addwhitelist">Dodaj u iznimke</string>
   <string name="all_address_choose_hint">Sve lokacije</string>
   <string name="app_name">Lista zabranjenih</string>
@@ -144,7 +144,7 @@
   <string name="note_list_none">Nema liste za uređivanje</string>
   <string name="note_preference_delete">Način rada je u uporabi, ne može se izbrisati</string>
   <string name="note_sms_none">Nema SMS-a za uređivanje</string>
-  <string name="one_address_choose_hint">%s1 lokacija</string>
+  <string name="one_address_choose_hint">%s1</string>
   <string name="open_callwait">Uključeno</string>
   <string name="sim_not_ready">SIM kartica nije spremna</string>
   <string name="sms_delete_hint">Ukloniti sve blokirane SMS s odabranog broja?</string>
@@ -259,7 +259,7 @@
   <string name="toast_keyword_blank">Unesite ključnu riječ</string>
   <string name="toast_keyword_exist">Ključna riječ dodana</string>
   <string name="toast_keyword_invalid">Pogrešna ključna riječ</string>
-  <string name="two_address_choose_hint">%1$s, %2$s2 lokacije</string>
+  <string name="two_address_choose_hint">%1$s, %2$s2</string>
   <string name="user_define_title">Prilagođeno</string>
   <string name="whitelist_prefix_add_hint">Dodati sve brojeve s predbrojem u iznimke</string>
   <string name="wl_no_whitelist">Nema dozvoljenih brojeva</string>

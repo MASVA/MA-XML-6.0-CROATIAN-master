@@ -315,6 +315,7 @@
   <string name="vp_standard_definition">SD</string>
   <string name="vp_super_definition">Viša</string>
   <string name="vp_support_by">Podršku pruža %1$s</string>
+  <string name="vp_toast_downloadapk">Preuzimanje aplikacije u pozadini …</string>
   <string name="vp_unknown_source">Nepoznat izvor</string>
   <string name="vp_using_16_9">Nametni 16:9</string>
   <string name="vp_using_4_3">Nametni 4:3</string>

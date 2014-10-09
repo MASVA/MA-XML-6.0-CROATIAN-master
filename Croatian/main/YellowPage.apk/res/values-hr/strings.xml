@@ -169,6 +169,7 @@ Provjerite svoj broj za praćenje."</string>
   <string name="gallery">Galerija</string>
   <string name="general_cancel_favorite_ok">Favorit uklonjen</string>
   <string name="general_delete_recent_ok">Nedavno izbrisano</string>
+  <string name="general_favorite_ok">Favorit dodan</string>
   <string name="general_favorite_title">Favoriti</string>
   <string name="general_menu_delete_recent">Izbriši nedavne</string>
   <string name="general_menu_unfavorite">Ukloni iz favorita</string>
@@ -205,6 +206,7 @@ Provjerite svoj broj za praćenje."</string>
   <string name="menu_enroll_in_yellow_page">Prijavite se za Mi Žute stranice</string>
   <string name="menu_remove_black_list">Ukloniti s liste zabranjenih</string>
   <string name="menu_remove_from_favorite">Ukloni iz favorita</string>
+  <string name="menu_save_contact">Spremi broj kontaktu</string>
   <string name="minimum_price">Od %d RMB</string>
   <string name="mishop_web_payment_title">MiStore blagajna</string>
   <string name="more_coupons">Svi kuponi</string>

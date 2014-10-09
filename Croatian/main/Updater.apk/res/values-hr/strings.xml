@@ -138,9 +138,9 @@
   <string name="space_not_enough_title">Nema dovoljno prostora</string>
   <string name="stable_build">Stable</string>
   <string name="submit">Pošalji</string>
-  <string name="submit_fail">Slanje nije uspjelo</string>
+  <string name="submit_fail">"Ne mogu poslati"</string>
   <string name="submit_progress">Slanje…</string>
-  <string name="submit_success">Uspješno poslano</string>
+  <string name="submit_success">Poslano</string>
   <string name="test">Test</string>
   <string name="timer_title">Uređaj će se ponovno pokrenuti za %d sek.</string>
   <string name="top_secret_build">Tajno</string>
