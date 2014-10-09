@@ -56,7 +56,7 @@
     <string name="hours">%s sati</string>
     <string name="keep_screen_on">Drži zaslon upaljen</string>
     <string name="label">Upiši tekst</string>
-    <string name="label_pref_summary">Tekst ovoga alarm</string>
+    <string name="label_pref_summary">Tekst ovoga alarma</string>
     <string name="lap">Krug</string>
     <string name="lap_num">Krug</string>
     <string name="legal_workday">Radni dan</string>
@@ -82,7 +82,7 @@
     <string name="shutdown_alarm_enable_summary">Uključeno gašenje alarma</string>
     <string name="shutdown_alarm_title">Isključi alarm</string>
     <string name="silent_alarm_summary">Bešumno</string>
-    <string name="slider_text">Klizni gore za zatvaranje</string>
+    <string name="slider_text">Povuci gore za zatvaranje</string>
     <string name="snooze_confirm_cancel">Otkaži odgodu</string>
     <string name="snooze_duration_title">Trajanje odgode</string>
     <string name="snooze_message">Odgodi za %d min</string>
@@ -92,7 +92,7 @@
     <string name="stopwatch_title">Štoperica</string>
     <string name="system_time_setting">Postavke</string>
     <string name="time">Vrijeme</string>
-    <string name="timer_alert_alert_silenced">Kronometar će se ugasiti za %d minuta.</string>
+    <string name="timer_alert_alert_silenced">Kronometar će se ugasiti za %d min.</string>
     <string name="timer_continue">Nastavi</string>
     <string name="timer_got_it">U redu</string>
     <string name="timer_item_duration_display">%1$d Min %2$d Sek</string>

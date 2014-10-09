@@ -281,7 +281,7 @@
   <string name="vp_confirm">Instaliraj</string>
   <string name="vp_content_description">Opis</string>
   <string name="vp_device_list">Uređaji</string>
-  <string name="vp_download_connect_fail">"ne mogu pronaći URL.Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
+  <string name="vp_download_connect_fail">"Ne mogu pronaći URL.Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
   <string name="vp_download_file_fail">"Ne mogu preuzeti datoteku. Pobrinite se da ima dovoljno prostora na unutarnjoj 
   pohrani vašeg uređaja ili SD kartici."</string>
   <string name="vp_exit">Izlaz</string>

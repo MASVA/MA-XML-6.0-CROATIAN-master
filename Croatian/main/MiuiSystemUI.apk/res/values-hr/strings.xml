@@ -134,8 +134,8 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="notification_otg_unknow_out">OTG uređaj nije povezan</string>
   <string name="reject_call">Odbijanje poziva</string>
   <string name="return_to_incall_screen">Povratak na poziv</string>
-  <string name="screen_button_disabled_message">Navigacijski gumbi su onemogućeni. Za ponovno omogućavanje, istovremeno pritisnite tipke Početna stranica i Napajanje.</string>
-  <string name="screen_button_enabled_message">Navigacijski gumbi su omogućeni.</string>
+  <string name="screen_button_disabled_message">Navigacijske tipke su onemogućene. Za ponovno omogućavanje, istovremeno pritisnite tipke Početna stranica i Napajanje.</string>
+  <string name="screen_button_enabled_message">Navigacijske tipke su omogućene.</string>
   <string name="screen_rotation_freeze_message">Automatska rotacija je onemogućena.</string>
   <string name="screenshot_failed_text">Nije moguće spremiti snimak zaslona. Pohrana je možda u upotrebi.</string>
   <string name="screenshot_saved_text">"Dodirnite za prikaz vaše snimke zaslona."</string>
@@ -154,11 +154,11 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_recent_apps">"Nema nedavnih aplikacija"</string>
   <string name="status_bar_notification_inspect_item_title">Informacije o aplikaciji</string>
-  <string name="status_bar_recent_guide_all">"Kliznite gore za zatvaranje
+  <string name="status_bar_recent_guide_all">"Povucite gore za zatvaranje
   
-Kliznite dolje za zaključavanje"</string>
-  <string name="status_bar_recent_guide_bottom">Kliznite dolje za zaključavanje</string>
-  <string name="status_bar_recent_guide_top">Kliznite gore za zatvaranje</string>
+Povucite dolje za zaključavanje"</string>
+  <string name="status_bar_recent_guide_bottom">Povucite dolje za zaključavanje</string>
+  <string name="status_bar_recent_guide_top">Povucite gore za zatvaranje</string>
   <string name="status_bar_recent_inspect_item_title">Informacije o aplikaciji</string>
   <string name="status_bar_recent_memory_info">%1$s / %2$s dostupno</string>
   <string name="status_bar_recent_memory_info2">" %s dostupno"</string>
@@ -234,7 +234,7 @@ Kliznite dolje za zaključavanje"</string>
   <string name="usb_ptp_text">Fotografije</string>
   <string name="usb_share_net_info">Koristi internetsku vezu računala</string>
   <string name="usb_storage_error_message">Došlo je do pogreške pri pokušaju prikaza vašeg uređaja kao USB masovne pohrane.</string>
-  <string name="usb_storage_message">"Povezali ste se s računalom putem USB-a. Dodirnite donji gumb ako želite kopirati datoteke između računala i USB pohrane svog uređaja Android."</string>
+  <string name="usb_storage_message">"Povezali ste se s računalom putem USB-a. Dodirnite donju tipku ako želite kopirati datoteke između računala i USB pohrane svog uređaja Android."</string>
   <string name="usb_storage_notification_message">"Dodirnite za kopiranje datoteka na računalo ili s računala."</string>
   <string name="usb_storage_notification_title">"USB povezan"</string>
   <string name="usb_storage_stop_message">"Prije isključivanja USB pohrane uklonite (\"izbacite\") USB pohranu svojeg Android uređaja iz računala."</string>

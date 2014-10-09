@@ -1105,8 +1105,8 @@ Neke aplikacije neće raditi dok ih ne ažuriraju njihovi razvijatelji."</string
   <string name="keep_screen_on">Zadrži u aktivnom stanju</string>
   <string name="keep_screen_on_summary">Zaslon nikad neće prijeći u mirovanje tijekom punjenja</string>
   <string name="kernel_version">Verzija jezgre</string>
-  <string name="key_settings">Gumbi</string>
-  <string name="key_settings_title">Gumbi</string>
+  <string name="key_settings">Tipke</string>
+  <string name="key_settings_title">Tipke</string>
   <string name="keyboard_layout_default_label">Zadano</string>
   <string name="keyboard_layout_dialog_setup_button">Postavljanje izgleda tipkovnice</string>
   <string name="keyboard_layout_dialog_switch_hint">Za prijelaz pritisnite Ctrl i razmaknicu.</string>
@@ -1277,7 +1277,7 @@ Trenutno ste prijavljeni na sljedeće račune:
   <string name="master_clear_personal_data_sdcard">"Izbrisati vaše osobne informacije i sadržaj? Radnja se ne može poništiti!"</string>
   <string name="master_clear_summary">Briše sve podatke na uređaju</string>
   <string name="master_clear_title">Vraćanje na tvorničko stanje</string>
-  <string name="media_button">Medijski gumb</string>
+  <string name="media_button">Medijska tipka</string>
   <string name="media_feedback_enable_title">Vibriraj uz ritam</string>
   <string name="media_format_button_text">Izbriši USB pohranu</string>
   <string name="media_format_desc">Izbrisati čitavu USB memoriju? Izgubiti ćete &lt;b&gt;sve&lt;/b&gt; pohranjene podatke!</string>
@@ -1484,7 +1484,7 @@ i pokrenite ga."</string>
   <string name="not_installed">Nije instalirano</string>
   <string name="notification_breathing_light_color_title">Boja LED-a kod obavijesti</string>
   <string name="notification_breathing_light_freq_title">Frekvencija treperenja LED-a kod obavijest</string>
-  <string name="notification_listener_security_warning_summary">%1$s moći će čitati sve obavijesti koje objavi sustav ili bilo koja instalirana aplikacija, a obavijesti mogu uključivati osobne podatke, primjerice, imena kontakata i tekstove poruka koje su vam poslane. Također će moći odbaciti te obavijesti ili dodirnuti u njima sadržane gumbe radnji.</string>
+  <string name="notification_listener_security_warning_summary">%1$s moći će čitati sve obavijesti koje objavi sustav ili bilo koja instalirana aplikacija, a obavijesti mogu uključivati osobne podatke, primjerice, imena kontakata i tekstove poruka koje su vam poslane. Također će moći odbaciti te obavijesti ili dodirnuti u njima sadržane tipke radnji.</string>
   <string name="notification_listener_security_warning_title">Omogućiti uslugu %1$s?</string>
   <string name="notification_pulse_title">Pulsno svjetlo obavijesti</string>
   <string name="notification_sound_dialog_title">Zadani zvuk obavijesti</string>
@@ -1812,10 +1812,10 @@ Ova postavka utječe na sve korisnike na ovom uređaju."</string>
   <string name="screen_color_temperature_and_saturation">Boje &amp; zasićenje</string>
   <string name="screen_compatibility_label">Kompatibilnost zaslona</string>
   <string name="screen_compatibility_text">Ta aplikacija možda nije dizajnirana za vaš zaslon. Ovdje možete provjeriti kako se prilagođava vašem zaslonu.</string>
-  <string name="screen_key_long_press">Dugi pritisak na navigacijske gumbe</string>
+  <string name="screen_key_long_press">Dugi pritisak na navigacijske tipke</string>
   <string name="screen_key_long_press_action">Pokreni funkciju</string>
   <string name="screen_key_long_press_timeout">Definiraj vrijeme dugog pritiska</string>
-  <string name="screen_key_press">Pritisnite navigacijske gumbe</string>
+  <string name="screen_key_press">Pritisnite navigacijske tipke</string>
   <string name="screen_key_press_action">Funkcije pritiska</string>
   <string name="screen_never_timeout_title">Nikada ne miruj</string>
   <string name="screen_on_proximity_sensor_summary">Uređaj se automatski zaključava kada je stavljen u džep</string>
@@ -2040,10 +2040,10 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="status_bar_filter_item_preview_image">Pregled</string>
   <string name="status_bar_key_position_custom">Prilagođena pozicija tipki</string>
   <string name="status_bar_screen_button_key">Virtualne tipke zaslona</string>
-  <string name="status_bar_screen_key_back">Gumb Natrag</string>
-  <string name="status_bar_screen_key_home">Gumb Početna</string>
-  <string name="status_bar_screen_key_menu">Gumb Izbornik</string>
-  <string name="status_bar_screen_key_recent_apps">Gumb Nedavne aplikacije</string>
+  <string name="status_bar_screen_key_back">Natrag</string>
+  <string name="status_bar_screen_key_home">Početna</string>
+  <string name="status_bar_screen_key_menu">Izbornik</string>
+  <string name="status_bar_screen_key_recent_apps">Nedavne aplikacije</string>
   <string name="status_bar_settings">Obavijesti</string>
   <string name="status_bar_settings_advanced">"Dodatne postavke"</string>
   <string name="status_bar_settings_all_app_display_loading">Učitavanje…</string>
@@ -2362,7 +2362,7 @@ Bilo koji korisnik može prihvatiti ažurirane dozvole aplikacija u ime svih dru
   <string name="user_dict_settings_context_menu_edit_title">"Uredi"</string>
   <string name="user_dict_settings_edit_dialog_title">Uredi riječ</string>
   <string name="user_dict_settings_empty_text">"Nemate nijednu riječ u korisničkom rječniku. 
-Riječ možete dodati dodirom na gumb Dodaj (+)"</string>
+Riječ možete dodati dodirom na tipku Dodaj (+)"</string>
   <string name="user_dict_settings_more_languages">Više jezika…</string>
   <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_title">Osobni rječnik</string>
@@ -2516,7 +2516,7 @@ Riječ možete dodati dodirom na gumb Dodaj (+)"</string>
   <string name="wfd_menu_teardown">"Zaustavi"</string>
   <string name="wfd_settings_description">Poveži se na zaslon preko WLAN-a</string>
   <string name="wfd_settings_title">WLAN zaslon</string>
-  <string name="wfd_wps_keypad">Željena je autentifikacija pritiskom gumba</string>
+  <string name="wfd_wps_keypad">Željena je autentifikacija pritiskom tipke</string>
   <string name="wfd_wps_pbc">Željena je autentifikacija unosom PIN-a</string>
   <string name="widget_picker_title">Odaberite widget</string>
   <string name="wifi_access_points">WLAN mreže</string>
@@ -2609,7 +2609,7 @@ Riječ možete dodati dodirom na gumb Dodaj (+)"</string>
   <string name="wifi_menu_p2p">Izravni WLAN</string>
   <string name="wifi_menu_scan">Skeniraj</string>
   <string name="wifi_menu_wfd">WLAN zaslon</string>
-  <string name="wifi_menu_wps_pbc">WPS gumb</string>
+  <string name="wifi_menu_wps_pbc">WPS tipka</string>
   <string name="wifi_menu_wps_pin">Unos WPS PIN-a</string>
   <string name="wifi_more">"Više"</string>
   <string name="wifi_network_prefix_length">Duljina mrežnog prefiksa</string>
@@ -2817,7 +2817,7 @@ Postavljanje uređaja može zahtijevati znatnu mrežnu aktivnost."</string>
   <string name="wifi_wps_failed_tkip">Sigurnosna postavka bežičnog usmjerivača (TKIP) nije podržana</string>
   <string name="wifi_wps_failed_wep">Sigurnosna postavka (WEP) bežičnog usmjerivača nije podržana</string>
   <string name="wifi_wps_in_progress">WPS je već u tijeku, a do završetka može proteći do dvije minute</string>
-  <string name="wifi_wps_onstart_pbc">Pritisnite gumb za zaštićeno postavljanje WLAN mreže na svom usmjerivaču. Može se zvati \"WPS\" ili sadržavati ovaj simbol:</string>
+  <string name="wifi_wps_onstart_pbc">Pritisnite tipku za zaštićeno postavljanje WLAN mreže na svom usmjerivaču. Može se zvati \"WPS\" ili sadržavati ovaj simbol:</string>
   <string name="wifi_wps_onstart_pin">Unesite PIN %1$s sa vašeg WLAN usmjerivača. Postavljanje može potrajati do dvije minute.</string>
   <string name="wifi_wps_overlap_error">Otkrivena je još jedna WLAN sesija. Pokušajte ponovo za nekoliko minuta.</string>
   <string name="wifi_wps_setup_msg">Pokretanje WPS-a…</string>
