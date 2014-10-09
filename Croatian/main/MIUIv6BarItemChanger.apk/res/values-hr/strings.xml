@@ -21,8 +21,8 @@
     <string name="data_mobile">Podaci</string>
     <string name="data_rotate">Rotacija</string>
     <string name="data_screenshot">Snimka zaslona</string>
-    <string name="data_silent">Bešumno</string>
-    <string name="data_sound">Ne smetaj</string>
+    <string name="data_silent">Ne smetaj</string>
+    <string name="data_sound">Bešumno</string>
     <string name="data_speed">Perfomanse</string>
     <string name="data_sync">Sink.</string>
     <string name="data_vibration">Vibracija</string>
