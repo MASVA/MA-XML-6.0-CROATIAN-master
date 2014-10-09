@@ -2039,6 +2039,7 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="status_bar_filter_item_description">Za podešavanje obavijesti, idite u izbornik Opće postavke &gt; Obavijesti &gt; Upravljanje obavijestima</string>
   <string name="status_bar_filter_item_preview_image">Pregled</string>
   <string name="status_bar_key_position_custom">Prilagođena pozicija tipki</string>
+  <string name="status_bar_toggle_arrangement">Upravitelj prečaca</string>
   <string name="status_bar_screen_button_key">Virtualne tipke zaslona</string>
   <string name="status_bar_screen_key_back">Natrag</string>
   <string name="status_bar_screen_key_home">Početna</string>
