@@ -6,9 +6,11 @@
   <string name="account">Račun</string>
   <string name="account_bind_devices">Aktivni uređaj</string>
   <string name="account_bind_settings">Računi</string>
-  <string name="account_dspt">Koristite svoj Mi Račun za prijavu na Mi Cloud, MIUI Trgovinu Tema, te druge MI Usluge, s bilo kojeg mjesta.</string>
-  <string name="account_dspt_provision"/>
+  <string name="account_dspt">Koristite svoj Mi Račun za prijavu na Mi Cloud, MIUI Trgovinu Tema, te druge Mi Usluge, s bilo kojeg mjesta.</string>
+  <string name="account_dspt_provision">"Koristite svoj Mi Račun za prijavu na Mi Cloud, MIUI Trgovinu Tema, te druge Mi Usluge, s bilo kojeg mjesta."</string>
+  <string name="account_dspt_provision2">Saznajte više</string>
   <string name="account_hint_text">E-pošta ili Tel. broj</string>
+  <string name="account_learn_more_title">Napravite Mi Račun</string>
   <string name="account_name">Račun: %1$s</string>
   <string name="account_not_activated">"Račun još nije aktiviran"</string>
   <string name="account_sec_dspt"/>
@@ -119,6 +121,7 @@ Dovršite svoj ​​profil koristeći osobne informacije kroz %s."</string>
   <string name="choose_which_one_sim">Odaberite broj telefona</string>
   <string name="cloud_messaging">Mi Poruke</string>
   <string name="cloud_service">Mi Cloud</string>
+  <string name="cloud_service_dspt">Sinkronizirajte vaše fotografije, kontakte, bilješke, aplikacije i više između svih vaših uređaja.</string>
   <string name="completed">Završeno</string>
   <string name="confirm">U redu</string>
   <string name="confirm_unbind">Potvrditi rastavljanje?</string>
@@ -177,6 +180,7 @@ Dovršite svoj ​​profil koristeći osobne informacije kroz %s."</string>
   <string name="login_notice">Prijava…</string>
   <string name="login_step2_title">Potvrda u 2 koraka</string>
   <string name="login_title">Prijavite se u vaš Mi Račun</string>
+  <string name="mi_account_dspt_provision">Prijavite se na Mi Cloud, MIUI Trgovinu Tema i druge Mi Usluge s jednim računom.</string>
   <string name="mibi_balance">Mi Kredita %s</string>
   <string name="micloud_account">Mi Račun</string>
   <string name="micloud_account_details">Detalji računa</string>
@@ -296,6 +300,8 @@ Da biste aktivirali vaš račun, slijedite
   <string name="skip_setup_account_title">Preskoči postavljanje</string>
   <string name="sync_off">Isklj.</string>
   <string name="sync_on">Uklj.</string>
+  <string name="theme_store">MIUI Trgovina Tema</string>
+  <string name="theme_store_dspt">Odaberite svoj ​​izgled. Stotine slobodnih prilagodljivih tema kako bi vaš telefon izgledao jedinstven.</string>
   <string name="title_reg">Izradi račun</string>
   <string name="trust_device">Vjerujte ovom uređaju</string>
   <string name="unactivated_user">Još malo…</string>

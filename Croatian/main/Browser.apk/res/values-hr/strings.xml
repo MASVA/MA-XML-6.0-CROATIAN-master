@@ -71,6 +71,10 @@
   <string name="autologin_bar_text">Prijavite se kao</string>
   <string name="back">Natrag</string>
   <string name="block">Blokiraj</string>
+  <string name="block_ads_choice_block">Blokiraj</string>
+  <string name="block_ads_choice_continue">Nastavi</string>
+  <string name="block_ads_message">Želite li blokirati poruke s ove web stranice?</string>
+  <string name="block_ads_title">Sadržaj može sadržavati reklame</string>
   <string name="bookmark_URL_already_exisit">"Već ste označili ovaj URL"</string>
   <string name="bookmark_add_group_text_header">Dodaj odabrano %1$d u grupu</string>
   <string name="bookmark_add_to">Dodaj u</string>

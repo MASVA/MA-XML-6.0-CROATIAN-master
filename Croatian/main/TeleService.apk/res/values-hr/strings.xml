@@ -450,6 +450,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="msim_not_set_summary">Nije postavljeno</string>
   <string name="msim_pref_title_data">Internet</string>
   <string name="msim_pref_title_voice">Biranje</string>
+  <string name="msim_select_default_time_left">(%d s)</string>
   <string name="msim_set_icc_card_error">Pogreška ICC kartice</string>
   <string name="msim_set_sub_not_supported_phone_in_call">"Ne mogu podesiti tijekom poziva"</string>
   <string name="msim_set_sub_not_supported_slot_id_error">Pogreška SIM kartice</string>
@@ -460,6 +461,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="msim_setting_sim_info_editor_title">Uredi podatke SIM kartice</string>
   <string name="msim_sim_lock">Zaključano</string>
   <string name="msim_sim_radio_off">Onemogućeno</string>
+  <string name="msim_switch_data_conn_toast">Osigurajte normalan pristup Internetu, tip mreže je promijenjen da je preferirana 4G mreža (preferira 3G mreža), možete mijenjati u SIM informacijama.</string>
   <string name="multi_category_disable">Onemogućena je višestruka kategorija</string>
   <string name="multi_category_enable">Omogućena je višestruka kategorija</string>
   <string name="name">Ime</string>

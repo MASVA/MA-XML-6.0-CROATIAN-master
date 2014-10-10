@@ -30,7 +30,7 @@
   <string name="error_unsupport_content">Ova bilješka sadrži nepodržani sadržaj, dodirnite ovdje za ažuriranje zahtjevane aplikacije</string>
   <string name="error_widget_exist_for_send_to_desktop">Ova se bilješka već nalazi na vašem Početnom zaslonu</string>
   <string name="folder_exist">Mapa s istim imenom već postoji</string>
-    <string name="format_move_notes_to_folder">Premješteno %1$d bilješki u %2$s</string>
+  <string name="format_move_notes_to_folder">Premješteno %1$d bilješki u %2$s</string>
   <string name="hint_foler_name">Ime</string>
   <string name="info_note_enter_desktop">Dodano na Početni zaslon</string>
   <string name="login_sync">Prijavi se &amp; sinkr.</string>
@@ -100,5 +100,5 @@
   <string name="unknown_source">Nepoznat izvor</string>
   <string name="widget_content_loading">Učitavanje…</string>
   <string name="widget_havenot_content">Nema povezanih bilješki. Dodirnite za kreiranje povezane bilješke. Za promjenu veličine, zadržite &amp; povucite rub.</string>
-  <string name="widget_under_visit_mode">"Ne mogu prikazati bilješku u Gost načinu rada"</string>
+  <string name="widget_under_privacy_mode">"Ne mogu prikazati bilješku u Gost načinu rada"</string>
 </resources> 

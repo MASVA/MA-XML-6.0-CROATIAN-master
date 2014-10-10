@@ -18,8 +18,8 @@
   <string name="camera_problem5">Fotoaparat je prestao raditi</string>
   <string name="cta_cancel">Odustani</string>
   <string name="cta_confirm">U redu</string>
-  <string name="cta_dialog_content">Prijava grešaka može se spojiti na mrežu za pružanje usluga, uključujući ali ne samo internet. Potvrditi nastavak?</string>
-  <string name="cta_dialog_title">Obavijest mreže</string>
+  <string name="cta_dialog_content">Ovoj je aplikaciji potrebno povezivanje s internetom da funkcionira normalno.</string>
+  <string name="cta_dialog_title">Internet povezivanje</string>
   <string name="cta_not_show_again">"Ne prikazuj ponovo"</string>
   <string name="description">"Ako ne vidite svoj problem u uobičajenim greškama, opišite ga ovdje"</string>
   <string name="discard_draft_dialog_button_cancel">Odustani</string>

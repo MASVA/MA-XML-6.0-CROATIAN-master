@@ -551,6 +551,9 @@ Onemogućiti plutajuće prozore?"</string>
   <string name="clear_failed_dlg_text">Brisanje podataka za aplikaciju nije uspjelo.</string>
   <string name="clear_failed_dlg_title">Izbriši podatke</string>
   <string name="clear_user_data_text">Izbriši podatke</string>
+  <string name="cmcc_dm_settings_disable_summary">Onemogući auto. pokretnaje</string>
+  <string name="cmcc_dm_settings_enable_summary">emogući auto. pokretnaje</string>
+  <string name="cmcc_dm_settings_title">Upravljanje Dopuštenja uređaja</string>
   <string name="color_black">Crna</string>
   <string name="color_blue">Plava</string>
   <string name="color_calibration_none">Prirodno</string>

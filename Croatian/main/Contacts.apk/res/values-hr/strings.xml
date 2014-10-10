@@ -356,6 +356,7 @@ Podaci o kontaktima pohranjeni u vašem Mi Cloud računu će također biti izbri
   <string name="export_sim_contacts_dialog_message">Vaša SIM kartica može pohraniti ovoliko kontakata: %d</string>
   <string name="export_to_sdcard">"Izvoz u pohranu"</string>
   <string name="export_to_sim">Izvoz na SIM karticu</string>
+  <string name="export_to_sim1">Izvoz na SIM karticu 1</string>
   <string name="export_to_sim2">Izvoz na SIM karticu 2</string>
   <string name="export_to_sim_title">Izvoz na SIM karticu…</string>
   <string name="export_vcard_description">Izvezi vCard u unutarnju pohranu uređaja</string>
@@ -429,6 +430,7 @@ Razlog: \"%s\""</string>
   <string name="import_from_other_phone">Uvezi s drugog uređaja</string>
   <string name="import_from_sdcard">"Uvezi iz pohrane"</string>
   <string name="import_from_sim">Uvezi sa SIM kartice</string>
+  <string name="import_from_sim1">Uvezi sa SIM kartice 1</string>
   <string name="import_from_sim2">Uvezi sa SIM kartice 2</string>
   <string name="import_multiple_vcard_string">Uvezi više vCard datoteka</string>
   <string name="import_name">Ime</string>
@@ -716,11 +718,12 @@ Za dodavanje kontakta na listu favorita :
   <string name="pref_key_photo_word_title">Fotografije za sve</string>
   <string name="pref_key_rebuild_t9_index_message">Ponovo izgradi indeks da se uklone problemi pretrage</string>
   <string name="pref_key_rebuild_t9_index_title">Ponovo izgraditi podatke indeksa</string>
-  <string name="pref_key_sim_manage">Upravljanje SIM karticom</string>
-  <string name="pref_key_sim_manage2">Upravljanje SIM karticom 2</string>
-  <string name="pref_summary_import_from_account">Premjesti kontakte sa Google i Exchange računa na moj Xiaomi račun</string>
+  <string name="pref_key_sim_manage">Konfiguracija SIM kartice</string>
+  <string name="pref_key_sim_manage1">Konfiguracija SIM kartice 1</string>
+  <string name="pref_key_sim_manage2">Konfiguracija SIM kartice 2</string>
+  <string name="pref_summary_import_from_account">Premjesti kontakte sa Google i Exchange računa na moj Mi Račun</string>
   <string name="pref_title_account_import">Uvezi iz računa</string>
-  <string name="pref_title_import_from_account">Uvezi iz Xiaomi računa</string>
+  <string name="pref_title_import_from_account">Uvezi iz Mi Računa</string>
   <string name="preference_auto_ip_summary_disable">Onemogućeno</string>
   <string name="preference_auto_ip_summary_on">IP prefiks operatera: %s</string>
   <string name="preference_auto_ip_title">Automatski IP prefiks</string>
