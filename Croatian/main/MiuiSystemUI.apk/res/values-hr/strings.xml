@@ -132,7 +132,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="notification_otg_trackball_out">Mišji trbuh nije povezan</string>
   <string name="notification_otg_unknow_in">OTG uređaj je povezan</string>
   <string name="notification_otg_unknow_out">OTG uređaj nije povezan</string>
-  <string name="reject_call">Odbijanje poziva</string>
+  <string name="reject_call">Poziv odbijen</string>
   <string name="return_to_incall_screen">Povratak na poziv</string>
   <string name="screen_button_disabled_message">Navigacijske tipke su onemogućene. Za ponovno omogućavanje, istovremeno pritisnite tipke Početna stranica i Napajanje.</string>
   <string name="screen_button_enabled_message">Navigacijske tipke su omogućene.</string>
