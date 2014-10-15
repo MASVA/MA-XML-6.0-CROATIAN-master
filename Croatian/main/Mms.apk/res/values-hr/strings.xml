@@ -175,6 +175,7 @@
   <string name="has_invalid_recipient">Nevažeći primatelj(i): %1$s</string>
   <string name="hidden_sender_address">Skrivena adresa pošiljatelja</string>
   <string name="hint_search_sms">%d SMS-a</string>
+  <string name="hms_add_image_progress_message">Obrada. Pričekajte…</string>
   <string name="hms_first_use_tips">Za primanje poruka usluga mora biti povezana na WLAN mrežu</string>
   <string name="importing_progress_private_message">Uvoz poruka u privatni sandučić</string>
   <string name="in_sms">Poruka</string>
@@ -511,6 +512,7 @@ Provedeni pokušaj: %s."</string>
   <string name="user_agreement5">Dodirivanjem "U redu", slažete se s uvjetima navedenima u ovim dokumentima.</string>
   <string name="view">Prikaži</string>
   <string name="view_bookmark">Prikaži originalnu poruku</string>
+  <string name="view_hms_attachment_fail">Preuzimanje slike nije uspjelo.</string>
   <string name="view_hms_details">Detalji</string>
   <string name="view_message_details">Prikaži pojedinosti</string>
   <string name="wap_push_title">"[WAP Push] "</string>

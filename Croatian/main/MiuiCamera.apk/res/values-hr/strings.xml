@@ -28,6 +28,7 @@
   <string name="auto">Automatski</string>
   <string name="bg_replacement_message">"Odložite uređaj na stabilnu površinu i
 iskoračite iz prikaza na trenutak"</string>
+  <string name="burst_shoot_exit_button_text">Zatvori Brzo Okidanje</string>
   <string name="camera_disabled">Fotoaparat je onemogućen</string>
   <string name="camera_error_title">Greška fotoaparata</string>
   <string name="camera_label">Fotoaparat</string>
@@ -45,6 +46,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="confirm_change_to_simple_mode_message">Prebaciti na jednostavan način?</string>
   <string name="confirm_location_message">Označiti fotografije i video zapise
  na mjestima gdje su snimljene?</string>
+  <string name="confirm_location_title">Spremite podatke vaše lokacije</string>
   <string name="confirm_restore_message">"Obnoviti na zadane postavke Fotoaparata?"</string>
   <string name="confirm_restore_title">Obnovi na zadane postavke</string>
   <string name="connect_wifi">Poveži se na ovu WLAN mrežu</string>
@@ -168,7 +170,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="no_thumbnail">Bez minijatura</string>
   <string name="not_enough_space">Unutarnja pohrana je puna.</string>
   <string name="not_selectable_in_scene_mode">Ne može se odabrati u načinu scene.</string>
-  <string name="object_track_enable_toast">Kliznite na zaslonu pregleda kako bi omogućili praćenje objekta.</string>
+  <string name="object_track_enable_toast">Kliknite na oba kraja objekta s dva prsta kako bi ga pratili.</string>
   <string name="ok">U redu</string>
   <string name="orientation">Zakretanje</string>
   <string name="pano_dialog_panorama_failed">"Ne mogu spremiti panoramu."</string>
@@ -189,6 +191,7 @@ panoramske fotografije.</string>
   <string name="pref_advanced_settings">Napredno</string>
   <string name="pref_audio_indicator_entry_off">Zvuk isklj.</string>
   <string name="pref_audio_indicator_entry_on">Zvuk uklj.</string>
+  <string name="pref_burst_shoot_title">Brzo okidanje</string>
   <string name="pref_camcorder_settings">Podešavanje kamere</string>
   <string name="pref_camcorder_settings_category">Postavke fotoaparata</string>
   <string name="pref_camera_ae_bracket_hdr_default">Isklj.</string>
@@ -409,6 +412,10 @@ panoramske fotografije.</string>
   <string name="pref_capture_settings">Nastavenie Fotoaparátu</string>
   <string name="pref_exposure_title">Ekspozicija</string>
   <string name="pref_face_beauty_title">Nijanse kože</string>
+  <string name="pref_front_mirror_default">auto</string>
+  <string name="pref_front_mirror_entry_auto">Auto</string>
+  <string name="pref_front_mirror_entry_off">Isklj.</string>
+  <string name="pref_front_mirror_entry_on">Uklj.</string>
   <string name="pref_front_mirror_title">Zrcalna prednja kamera</string>
   <string name="pref_grp_advanced_settings">Napredne postavke</string>
   <string name="pref_grp_capture_settings">Postavke snimanja</string>

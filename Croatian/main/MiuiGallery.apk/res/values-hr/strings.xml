@@ -327,6 +327,7 @@ svoj album s bilo kojeg mjesta.
   <string name="mipc_1">Džepni fotoaparat</string>
   <string name="mishop_saved_folder_display_name">MiStore spremljen</string>
   <string name="miui_capture_screen_folder_display_name">Snimak zaslona</string>
+  <string name="miui_wallpaper">Pozadina</string>
   <string name="modified_time">Promjenjeno</string>
   <string name="more">Više</string>
   <string name="move">Premjesti</string>
@@ -559,6 +560,7 @@ uređaja"</string>
   <string name="view_sharers">Pogledaj sudionike</string>
   <string name="vignette">Vinjeta</string>
   <string name="wallpaper">Slika pozadine</string>
+  <string name="wandoujia">SnapPea</string>
   <string name="warn">Upozorenje</string>
   <string name="weikan_weikan">Weikan TV</string>
   <string name="where_is_barcode">Gdje je QR kod?</string>

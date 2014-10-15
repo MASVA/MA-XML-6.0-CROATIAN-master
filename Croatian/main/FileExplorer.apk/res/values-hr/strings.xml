@@ -88,7 +88,7 @@
   <string name="favorite_photo">Fotografije</string>
   <string name="favorite_ringtone">Zvukovi zvona</string>
   <string name="favorite_screen_cap">Snimak zaslona</string>
-  <string name="fileSizeSuffix">%1$s%2$s</string>
+  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="file_already_downlaoded">Datoteka spremljena u \"%1$s\"</string>
   <string name="file_info_canread">Čitljivo:</string>
   <string name="file_info_canwrite">Pisljivo:</string>
@@ -267,15 +267,15 @@ Dodano slobodnog prostora %1$s"</string>
   <string name="storage_sd_card">SD kartica</string>
   <string name="storage_usb">USB pohrana</string>
   <string name="storage_warning">"Ne mogu koristiti vanjsku pohranu"</string>
-  <string name="sys_size_enable">Omogući</string>
+  <string name="sys_size_enable">" dostupno"</string>
   <string name="system_alert">Podsjeti</string>
   <string name="tab_category">Kategorije</string>
   <string name="tab_expand">Proširi</string>
   <string name="tab_local">Lokalno</string>
-  <string name="tab_path">Pohrana</string>
+  <string name="tab_path">MAPE</string>
   <string name="terabyteShort">TB</string>
   <string name="toast_file_not_can_read">Nisu pronađene aplikacije za izvršenje ove radnje.</string>
-  <string name="tools">Alati</string>
+  <string name="tools">ALATI</string>
   <string name="trans_task">Mrežni prijenos</string>
   <string name="transing">Slanje…</string>
   <string name="trash_box_capacity">Koš za smeće %1$s</string>

@@ -4,7 +4,7 @@
   <string name="access_token_expired_warning">Weibo račun je istekao</string>
   <string name="access_token_invalid_warning">Weibo račun je nevažeći</string>
   <string name="account">Račun</string>
-  <string name="account_bind_devices">Aktivni uređaj</string>
+  <string name="account_bind_devices">Uređaji</string>
   <string name="account_bind_settings">Računi</string>
   <string name="account_dspt">Koristite svoj Mi Račun za prijavu na Mi Cloud, MIUI Trgovinu Tema, te druge Mi Usluge, s bilo kojeg mjesta.</string>
   <string name="account_dspt_provision">"Koristite svoj Mi Račun za prijavu na Mi Cloud, MIUI Trgovinu Tema, te druge Mi Usluge, s bilo kojeg mjesta."</string>
@@ -296,7 +296,7 @@ Da biste aktivirali vaš račun, slijedite
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Preskoči prijavu</string>
   <string name="skip_login_u">Preskoči prijavu</string>
-  <string name="skip_register">Preskoči prijavu</string>
+  <string name="skip_register">Preskoči</string>
   <string name="skip_setup_account_msg">Možete postaviti Mi Račun kasnije u Postavkama.</string>
   <string name="skip_setup_account_title">Preskoči postavljanje</string>
   <string name="sync_off">Isklj.</string>
@@ -332,6 +332,6 @@ s "</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">"Neke stavke nisu bile sinkronizirane."</string>
   <string name="wrong_captcha">Kôd koji ste unijeli je netočan</string>
-  <string name="wrong_phone_number_format">Format broja telefona koji ste unijeli nije valjan</string>
+  <string name="wrong_phone_number_format">Broj telefona koji ste unijeli nije valjan</string>
   <string name="wrong_vcode">Kôd provjere koji ste unijeli je netočan</string>
 </resources>
