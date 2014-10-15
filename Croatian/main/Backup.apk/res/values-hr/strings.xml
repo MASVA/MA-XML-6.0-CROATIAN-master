@@ -52,7 +52,7 @@
   <string name="cancel_restore">Odustani</string>
   <string name="cloud_app_name">Pohrani na Mi Cloud</string>
   <string name="cloud_backup_hint">Za pristup vašim pohranama, prijavite se sada</string>
-  <string name="cloud_backup_login">Prijavite se koristeći vaš Mi račun</string>
+  <string name="cloud_backup_login">Prijavite se koristeći vaš Mi Račun</string>
   <string name="cloud_backup_window_title">Mi Cloud pohrana</string>
   <string name="cloud_home_title">Mi Cloud</string>
   <string name="cloud_item_info_summary">" (Lokalno : %1$s | Mi Cloud : %2$s)"</string>
@@ -80,10 +80,11 @@
   <string name="enable_encrypt_fail">Neuspješno uključivanje</string>
   <string name="enable_encrypt_indicator">Dodirnite za šifriranje.</string>
   <string name="enable_encrypt_ok">U redu</string>
-  <string name="enable_encrypt_summery1">Morate se prijaviti sa svojim  Mi računom za pristup šifriranim pohranama.</string>
-  <string name="enable_encrypt_summery2">"Nova će pohrana biti automatski šifrirana.Morate se prijaviti sa svojim  Mi računom za pristup šifriranim pohranama.</string>
+  <string name="enable_encrypt_summery1">Morate se prijaviti sa svojim  Mi Računom za pristup šifriranim pohranama.</string>
+  <string name="enable_encrypt_summery2">"Nova će pohrana biti automatski šifrirana. Morate se prijaviti sa svojim  Mi Računom za pristup šifriranim pohranama.</string>
   <string name="enable_encrypt_title">Omogućiti šifriranje</string>
   <string name="enable_encrypt_xiaomi_account">Pohrana od %1$s, obrišite trenutni račun, i prijavite se kao %2$s da vratite korisničke podatke.</string>
+  <string name="every_day">Svaki dan</string>
   <string name="exchange_account">Promijeni račun</string>
   <string name="fail">Nije uspjelo</string>
   <string name="findlost_contact">Vrati kontakte</string>
@@ -93,7 +94,7 @@
   <string name="import_from_xiaomi_account_hint2">Ako već imate napravljenu pohranu, dodirnite Dalje.</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Preuzmite MiTalk aplikaciju i prijavite se.
 \u0009http://www.miliao.com
-2.\u0009Idite u MiTalk postavke i odaberite ”Pohrani kontakte na Mi račun”"</string>
+2.\u0009Idite u MiTalk postavke i odaberite ”Pohrani kontakte na Mi Račun”"</string>
   <string name="import_from_xiaomi_account_hint_title">Koristite MiTalk za pohranu kontakata između uređaja</string>
   <string name="local_app_name">Pohrana</string>
   <string name="local_backup_window_title">Lokalna pohrana</string>
@@ -108,6 +109,7 @@
   <string name="miliao_account_login">Prijavite se s Mi Talk</string>
   <string name="mms_title">MMS</string>
   <string name="multi_select_title">Odabrano: %1$s</string>
+  <string name="never">Nikad</string>
   <string name="no_encrypt_password">Nema zaporki</string>
   <string name="no_network">"Ne mogu se spojiti na mrežu.</string>
   <string name="note_title">Bilješke</string>
@@ -137,7 +139,7 @@
   <string name="sc_internal_server_error">Interna greška poslužitelja</string>
   <string name="sc_network_unavailable">Greška mrežne veze</string>
   <string name="sc_others">Došlo je do pogreške</string>
-  <string name="sc_precondition_failed">Vaš Mi račun nije povezan s adresom e-pošte</string>
+  <string name="sc_precondition_failed">Vaš Mi Račun nije povezan s adresom e-pošte</string>
   <string name="sc_request_timeout">Zahtjev je istekao</string>
   <string name="sc_service_unavailable">Mi Cloud nedostupan</string>
   <string name="sc_unaccess_password_file">Ne spremaj zaporke WLAN-a</string>

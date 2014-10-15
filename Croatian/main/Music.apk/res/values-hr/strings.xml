@@ -111,6 +111,7 @@
   <string name="fragment_title_channel">FM</string>
   <string name="fragment_title_recommend">Izbor urednika</string>
   <string name="function_error">"Pa, ovo je sramota! Ova značajka još nije spremna (radimo na njoj)."</string>
+  <string name="headset_settings">Postavke slušalica</string>
   <string name="high_quality">Viša</string>
   <string name="higher_quality_music">Visoka kvaliteta zvuka</string>
   <string name="higher_quality_music_summary">Stream i preuzimanje datoteka veće brzine prijenosa</string>
@@ -139,7 +140,6 @@
   <string name="metered_allow">Stream</string>
   <string name="metered_disallow">Odustani</string>
   <string name="metered_play_toast">Korištenje mobilnu podatkovnu vezu za streaming</string>
-  <string name="mi_effect">MiSound</string>
   <string name="min_sleep_time">1</string>
   <string name="music_browser_label">Glazba</string>
   <string name="music_quality">Kvaliteta glazbe</string>

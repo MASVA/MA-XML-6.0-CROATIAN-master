@@ -55,6 +55,7 @@ U mreži operatora, preuzimanje će koštati puno."</string>
   <string name="preference_record_type_title">Tip snimanja</string>
   <string name="preference_scenes">Postavke za scene</string>
   <string name="preference_silent_mode">Tihi način snimanja</string>
+  <string name="record_back_pressed_hint">Dodirnite ponovno za zaustavljanje snimanja</string>
   <string name="record_download">Preuzmi s MiClouda</string>
   <string name="record_download_activity">Premještanje snimaka</string>
   <string name="record_download_complete">Završeno</string>

@@ -172,6 +172,7 @@ Dovršite svoj ​​profil koristeći osobne informacije kroz %s."</string>
   <string name="internet_comm">Usluge poruka</string>
   <string name="license_host_unreachable">"Ne mogu se spojiti na mrežu. Možete vidjeti ovu stranicu na %s."</string>
   <string name="loading">Učitavanje…</string>
+  <string name="loading_micloud_sync_data">Učitavanje…</string>
   <string name="loading_mili_center">Učitavanje…</string>
   <string name="login">Prijavite se</string>
   <string name="login_failed">"Ne mogu se prijaviti"</string>

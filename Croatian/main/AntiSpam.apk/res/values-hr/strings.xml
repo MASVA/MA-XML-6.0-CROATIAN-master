@@ -34,6 +34,7 @@
   <string name="SMS_MODENAME">Zadana lista blokiranih</string>
   <string name="SMS_PREFIX">Lista blokiranih predbrojeva</string>
   <string name="SMSpass">Dopusti SMS</string>
+  <string name="STRANGER_BLOCK">Lista blokiranih nep. brojeva</string>
   <string name="ad_block_hint">Blokirano: %d</string>
   <string name="ad_install_monitor">Pregled aplikacija za reklamama</string>
   <string name="ad_install_monitor_hint">Provjera reklama kod instaliranja aplikacije</string>
@@ -57,6 +58,7 @@
   <string name="blacklist_prefix_add_hint">Dodati sve brojeve s predbrojem na listu zabranjenih</string>
   <string name="block_message_number">SMS-a:%d</string>
   <string name="block_phone_number">Poziva:%d</string>
+  <string name="button_to_setting">Postavke</string>
   <string name="call_delete_hint">Ukloniti sve blokirane pozive s tog broja?</string>
   <string name="cancle">Odustani</string>
   <string name="close_callwait">Isključeno</string>
@@ -88,6 +90,7 @@
   <string name="dlg_import_blacklist">Dodajem na listu zabranjenih…</string>
   <string name="dlg_import_whitelist">Dodajem u iznimke…</string>
   <string name="dlg_keyword_ok">Spremljeno</string>
+  <string name="dlg_message_not_open_stranger_identify">Morate omogućiti Prepoznaj nepoznate brojeve u Telefon &gt; Postavke, prije nego što možete označiti broj.</string>
   <string name="dlg_no_block">Odblokirati ovaj broj?</string>
   <string name="dlg_no_block_ok">Odblokiraj</string>
   <string name="dlg_remove_address_blacklist">Ukloniti ovu lokaciju s liste blokiranih i vratiti dolazne SMS?</string>
@@ -99,6 +102,7 @@
   <string name="dlg_remove_whitelist_ing">Uklanjanje s liste dopuštenih…</string>
   <string name="dlg_retore">Vratiti SMS aplikaciji?</string>
   <string name="dlg_retore_ok">Vraćam</string>
+  <string name="dlg_title_not_open_stranger_identify">Omogući Prepoznaj nepoznate brojeve</string>
   <string name="dlg_white_address_antispam_message">Dodati ovu lokaciju u iznimke?</string>
   <string name="dlg_white_antispam_hint">Iznimke</string>
   <string name="dlg_white_antispam_message">Dodati ovu poruku u iznimke?</string>
@@ -115,6 +119,18 @@
   <string name="info_unantispam_sms">Dopusti SMS</string>
   <string name="label_callwait">Poziv na čekanju</string>
   <string name="log_count">(%d)</string>
+  <string name="mark_agent">Prodavač</string>
+  <string name="mark_agent_block">Označen kao prodavač</string>
+  <string name="mark_express">Dostavljač</string>
+  <string name="mark_express_block">Označen kao dostavljač</string>
+  <string name="mark_fraud">Prevarant</string>
+  <string name="mark_fraud_block">Označen kao prevatant</string>
+  <string name="mark_meal">Dostava hrane</string>
+  <string name="mark_meal_block">Označen kao dostava hrane</string>
+  <string name="mark_number_info">"
+Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potrazi za stanom). Blokirajte samo one brojeve iz kojih nikada ne želite primati pozive."</string>
+  <string name="mark_sell">Telemarketer</string>
+  <string name="mark_sell_block">Označen kao telemarketer</string>
   <string name="marked_by_others">"%d ostali korisnici su je označili kao "</string>
   <string name="marked_by_user">" označili ste je kao "</string>
   <string name="menu_add">Dodaj</string>
@@ -242,6 +258,7 @@
   <string name="st_title_man_editwhitelist">Izaberite kod lokacije za dodavanje u iznimke</string>
   <string name="st_title_man_head_addblacklist">Dodati predbroj broja telefona na listu blokiranih</string>
   <string name="st_title_man_head_addwhitelist">Dodati predbroj broja telefona u iznimke</string>
+  <string name="st_title_markednumber_group">Označen broj liste blokiranih</string>
   <string name="st_title_mode_choose_group">Odaberi način rada</string>
   <string name="st_title_not_sim">Prazno</string>
   <string name="st_title_open_antispam">Lista blokiranih</string>

@@ -18,6 +18,7 @@
    <string name="mipay_bank_card_number_error">Provjerite vaš broj računa</string>
    <string name="mipay_bank_card_phone">Telefon</string>
    <string name="mipay_bank_card_phone_hint">"Bankovni računi odgovarajući osobnom broju telefona"</string>
+   <string name="mipay_bank_card_quick_pass_alert">Možete kopirati brojeve bankovnih kartica koje podržavaju Instapay, dodirujući karticu stražnjom stranom vašeg uređaja</string>
    <string name="mipay_bank_card_safe_info">Ova usluga je šifrirana i ovlaštena od strane Xiaomi i banke</string>
    <string name="mipay_bank_card_support_list">Podržane banke</string>
    <string name="mipay_bank_card_tail_number">Kartica br. %1$s</string>
@@ -38,7 +39,7 @@
    <string name="mipay_button_next">Dalje</string>
    <string name="mipay_button_ok">Potvrdi</string>
    <string name="mipay_button_pay">Plati</string>   
-   <string name="mipay_button_unbind_bank_card">Odveži</string>
+   <string name="mipay_button_unbind_bank_card">Razdvoji</string>
    <string name="mipay_button_update">Ažuriraj</string>
    <string name="mipay_cancel_bind_bank_card">Odustajete od vezivanja bank. kartice?</string>
    <string name="mipay_cancel_forget_password">Odustajete od traženja zaporke za plaćanje?</string>

@@ -148,6 +148,7 @@ Maks.: %1$s%2$s preostalo | %3$s iskorišteno"</string>
   <string name="notification_title">%1$s-%2$s: o %3$s iskorišteno</string>
   <string name="ok_button">U redu</string>
   <string name="online_chat">Chat</string>
+  <string name="online_read">Vijesti</string>
   <string name="online_read">Čitanje</string>
   <string name="online_songs">glazba</string>
   <string name="per_month_pkg_traffic_settings">Podesi ograničenje podataka</string>

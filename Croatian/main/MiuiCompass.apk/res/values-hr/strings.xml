@@ -4,7 +4,7 @@
   <string name="altitude_title">Nadm. visina</string>
   <string name="altitude_unit">m</string>
   <string name="app_label">Kompas</string>
-  <string name="calibrate_altitude">Kalibriranje nad. visine</string>
+  <string name="calibrate_altitude">Kalibriranje…</string>
   <string name="calibrate_failed_no_location">"Ne mogu kalibrirati"</string>
   <string name="calibrate_failed_timeout">"Ne mogu se povezati na poslužitelj"</string>
   <string name="calibrate_success">Kalibriranje završeno</string>
@@ -21,10 +21,15 @@
   <string name="direction_west">Z</string>
   <string name="do_not_show_next_time">"Ne pokazuj ponovo"</string>
   <string name="getting_location">Kalibriranje…</string>
-  <string name="guide_toast">Da napravite kalibriranje, pomičite vaš telefon pokretima prikazanima ispod</string>
+  <string name="guide_toast">Da kalibrirate, pomičite vaš telefon pokretima prikazanima ispod</string>
   <string name="latitude">ŠIR</string>
   <string name="location_east">I</string>
+  <string name="location_enable">Omogući</string>
+  <string name="location_enable_later">Ne sada</string>
+  <string name="location_enabled">Usluga je otvorena, možete je isključiti u postavkama lokacije</string>
   <string name="location_north">S</string>
+  <string name="location_not_enabled_summary">Direktorij treba pronaći vašu lokaciju da pravilno funkcionira.</string>
+  <string name="location_not_enabled_title">Omogući uslugu lociranja</string>
   <string name="location_south">J</string>
   <string name="location_west">Z</string>
   <string name="longitude">DUŽ</string>

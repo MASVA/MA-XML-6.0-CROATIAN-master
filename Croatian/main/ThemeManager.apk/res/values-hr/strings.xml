@@ -21,7 +21,6 @@
     <string name="close">Zatvori</string>
     <string name="component_category_finest_title">OPĆE</string>
     <string name="component_category_more_title">NAPREDNO</string>
-    <string name="default_name">Zadano</string>
     <string name="deleting">Brišem…</string>
     <string name="description_author">Autor:</string>
     <string name="description_designer">Dizajner:</string>
@@ -43,7 +42,6 @@
     <string name="lockscreen_wallpaper">Zaklj. zaslon</string>
     <string name="lockstyle_personal_settings">Uređivanje</string>
     <string name="long_ringtone_resource">Dugo</string>
-    <string name="maml_component_customization_title">Postavke</string>
     <string name="mi_wallpaper">MIUI Slika pozadine</string>
     <string name="online_no_network">"Ne mogu se spojiti na mrežu"</string>
     <string name="online_search_hint">Pretraživanje za online resursima</string>
