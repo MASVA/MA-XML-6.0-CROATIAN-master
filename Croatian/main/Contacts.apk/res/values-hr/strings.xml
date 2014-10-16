@@ -297,7 +297,7 @@
   <string name="device_version_title">Odaberi model</string>
   <string name="dial">Biraj</string>
   <string name="dialerDialpadHintText">"Biraj broj za dodavanje poziva"</string>
-  <string name="dialerIconLabel">"Nedavni"</string>
+  <string name="dialerIconLabel">"Nedavno"</string>
   <string name="dialerKeyboardHintText">"Birajte pomoću tipkovnice"</string>
   <string name="dialer_addAnotherCall">"Dodaj poziv"</string>
   <string name="dialer_empty_text_loading">"Učitavanje…"</string>

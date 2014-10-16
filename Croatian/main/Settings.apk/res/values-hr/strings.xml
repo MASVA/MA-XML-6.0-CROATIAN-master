@@ -60,7 +60,7 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="accessibility_toggle_screen_magnification_preference_title">Uvećanje zaslona</string>
   <string name="accessibility_toggle_speak_password_preference_title">Izgovori zaporke</string>
   <string name="account_add">Dodaj</string>
-  <string name="account_autostar_label">Automatsko pokretanje</string>
+  <string name="account_autostar_label">Autom. pokretanje</string>
   <string name="account_list">Sve</string>
   <string name="account_settings">Računi</string>
   <string name="account_sync_settings_title">Sinkronizacija</string>
@@ -142,10 +142,8 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="app_factory_reset_dlg_text">Sva ažuriranja ove aplikacije sustava Android bit će deinstalirana.</string>
   <string name="app_factory_reset_dlg_title">Deinstalirati ažuriranja?</string>
   <string name="app_feedback">Prijavi grešku</string>
-  <string name="app_floating_window_dlg_enable">„Omogućavanje postavki plutajućih prozora aplikacije %1$s zahtijeva njeno ponovno pokretanje. Pokrenutu aplikaciju također možete ručno zaustaviti. 
-Omogućiti plutajuće prozore?"</string>
-  <string name="app_floating_window_dlg_disable">„Onemogućavanje postavki plutajućih prozora aplikacije %1$s će zaustaviti aplikaciju. 
-Onemogućiti plutajuće prozore?"</string>
+  <string name="app_floating_window_dlg_disable">"Onemogućavanje postavki plutajućih prozora aplikacije %1$s će zaustaviti aplikaciju."</string>
+<string name="app_floating_window_dlg_enable">"Omogućavanje postavki plutajućih prozora aplikacije %1$s zahtijeva njeno ponovno pokretanje."</string>
   <string name="app_forward_locked">Aplikacija je zaštićena od kopiranja.</string>
   <string name="app_install_location_summary">Promijenite željenu lokaciju instalacije za nove aplikacije.</string>
   <string name="app_install_location_title">Željena lokacije instalacije</string>
@@ -849,7 +847,7 @@ Onemogućiti plutajuće prozore?"</string>
   <string name="dolby_bassboost_normal">Normalno</string>
   <string name="dolby_bassboost_title">Pojačanje basova</string>
   <string name="dolby_effects">Dolby efekti</string>
-  <string name="dolby_eq_enter_alert_msg">EQ možete koristiti samo u Dolby glazbenom načinu. „Omogući ga sada?"</string>
+  <string name="dolby_eq_enter_alert_msg">Uključiti Dolby glazbeni način rada za korištenje EQ-a?</string>
   <string name="dolby_eq_enter_alert_title">Uključi Dolby glazbeni način</string>
   <string name="dolby_mode_movie">"Videozapis"</string>
   <string name="dolby_mode_music">"Glazba"</string>
@@ -886,7 +884,7 @@ Onemogućiti plutajuće prozore?"</string>
   <string name="enable_adb_summary">Uklanjanje pogrešaka s priključenim USB-om</string>
   <string name="enable_compatibility">Skaliranje aplikacije</string>
   <string name="enable_drive_mode">Automobilski način</string>
-  <string name="enable_mobile_data_when_opening_hotspot">Omogućiti mobilnu podatkovnu vezu također?</string>
+  <string name="enable_mobile_data_when_opening_hotspot">Uključiti mobilnu podatkovnu vezu također?</string>
   <string name="enable_opengl_traces_title">Omogući OpenGL praćenja</string>
   <string name="enable_service_title">Želite li upotrijebiti uslugu %1$s?</string>
   <string name="enable_snapshot_screenlock">Dugo pritisnite Natrag za Fotoaparat</string>
@@ -973,8 +971,8 @@ Neke aplikacije neće raditi dok ih ne ažuriraju njihovi razvijatelji."</string
   <string name="free_wifi_speed_title">Spora veza?</string>
   <string name="free_wifi_summary">Dodirnite za povezivanje na %1$s.</string>
   <string name="free_wifi_user_agreement">Kada koristite WiWide za povezivanje na mrežu, telefonski broj će se koristiti kako bi potvrdili vaš ​​identitet.</string>
-  <string name="free_wifi_user_agreement_allow">Slažem se</string>
-  <string name="free_wifi_user_agreement_title">Uvjeti korištenja</string>
+  <string name="free_wifi_user_agreement_allow">Dopusti</string>
+  <string name="free_wifi_user_agreement_title">Upozorenje privatnosti</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
   <string name="frequently_fragment_delete">Ukloni</string>
   <string name="frequently_fragment_tempty">Često korištene stavke će biti popisane ovdje</string>
@@ -1416,18 +1414,18 @@ i pokrenite ga."</string>
   <string name="msg_wlan_signal_found">WLAN pristupna točka %s dostupna, poveži sada?</string>
   <string name="mtp_ptp_mode_summary">MTP ili PTP radnja je aktivna</string>
   <string name="multi_touch_points_category_title">Točke višestrukog dodira</string>
-  <string name="multi_touch_points_preference">Ponovno pokrenite da omogućite</string>
-  <string name="music_audio_effect_settings">Postavke efekta zvuka</string>
-  <string name="music_dirac_mode_earbuds">Mi slušalice</string>
+  <string name="multi_touch_points_preference">Ova postavka će stupiti na snagu nakon što ponovno pokrenete uređaj</string>
+  <string name="music_audio_effect_settings">Postavke efekata</string>
+  <string name="music_dirac_mode_earbuds">Mi Slušalice</string>
   <string name="music_dirac_mode_general">Općenito</string>
-  <string name="music_dirac_mode_general_earbuds">Općenite slušalice</string>
-  <string name="music_dirac_mode_general_inear">Općenite inear</string>
-  <string name="music_dirac_mode_in_ear">Mi in-ear slušalice</string>
-  <string name="music_dirac_mode_piston_100">Mi piston-1</string>
-  <string name="music_dirac_mode_piston_2">Mi piston-2</string>
-  <string name="music_dirac_mode_piston_youth">Mi piston-youth</string>
+  <string name="music_dirac_mode_general_earbuds">Općenito</string>
+  <string name="music_dirac_mode_general_inear">Općenite In-Ear</string>
+  <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
+  <string name="music_dirac_mode_piston_100">Mi Piston-1</string>
+  <string name="music_dirac_mode_piston_2">Mi Piston-2</string>
+  <string name="music_dirac_mode_piston_youth">Mi Youth</string>
   <string name="music_equalizer">Equalizer</string>
-  <string name="music_headphone_settings">Postavke vrste slušalice</string>
+  <string name="music_headphone_settings">Odaberite vrstu slušalica</string>
   <string name="music_headset_button_settings">Podešavanje tipki</string>
   <string name="music_headset_calibrate">Podešavanje tipki</string>
   <string name="music_headset_calibrate_apply">Upotrijebi</string>
@@ -1571,18 +1569,18 @@ i pokrenite ga."</string>
   <string name="pref_volume_wake_summary">Klik na tipke za podešavanje glasnoće budi uređaj</string>
   <string name="pref_volume_wake_title">Probudi tipkama za glasnoću</string>
   <string name="preference_change_password_title">Promijeni zaporku</string>
-  <string name="preferred_app_settings">Zadane aplikacije</string>
+  <string name="preferred_app_settings">Zadano</string>
   <string name="preferred_app_settings_default">Zadano</string>
   <string name="preferred_app_settings_reset">"Obnovi zadano"</string>
-  <string name="preferred_app_settings_reset_message">Postavke zadanih aplikacija će biti vraćena na MIUI postavke</string>
+  <string name="preferred_app_settings_reset_message">Podešenja zadanih aplikacija će biti vraćene na MIUI tvornička podešenja</string>
   <string name="preferred_application_title">Željena: %s</string>
   <string name="preferred_application_warning_message">Zamjena vaše zadane aplikacije %1$s može povećati potrošnju baterije, smanjiti brzinu, te kontakte uređaja izložiti riziku. U zamjenu koristi %2$s.</string>
   <string name="preferred_application_warning_replace">"Zamijeni"</string>
   <string name="preferred_application_warning_title">"Zamijeni zadano: %s"</string>
   <string name="preferred_application_warning_use_system">Koristi %s</string>
   <string name="preferred_media_app_summary">"Odaberite apl. za reprodukciju glazbe"</string>
-  <string name="preferred_sms_settings">This app will be set as your default app for reading and composing text messages.</string>
-  <string name="preferred_sms_title">Default messaging app</string>
+  <string name="preferred_sms_settings">Ova aplikacija će biti postavljena kao zadana aplikacija za čitanje i pisanje SMS poruka.</string>
+  <string name="preferred_sms_title">Zadana aplikacija SMS-a</string>
   <string name="preferred_sms_warning_message">Korištenje \"%1$s\" kao zadane aplikacija za razmjenu poruka može povećati uporabube podataka ili ugroziti sigurnost vaših podataka.</string>
   <string name="preferred_sms_warning_use_system">"Nemoj upotrijebiti"</string>
   <string name="print_blocked_state_title_template">Pisač je blokirao %1$s</string>
@@ -2124,7 +2122,7 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="sync_calendar">Kalendar</string>
   <string name="sync_contacts">"Kontakti"</string>
   <string name="sync_disabled">Sinkr. ISKLJUČENA</string>
-  <string name="sync_enable">Omogući autom. sinkr.</string>
+  <string name="sync_enable">Sinkr.</string>
   <string name="sync_enabled">Sink. UKLJUČENA</string>
   <string name="sync_error">Pogreška sinkr.</string>
   <string name="sync_failed">Sinkronizacija nije uspjela</string>
@@ -2644,7 +2642,7 @@ Riječ možete dodati dodirom na tipku Dodaj (+)"</string>
   <string name="wifi_password">Zaporka</string>
   <string name="wifi_poor_network_detection">Izbjegavaj slabe veze</string>
   <string name="wifi_poor_network_detection_summary">Ne upotrebljavaj WLAN mrežu ako internetska veza nije zadovoljavajuća</string>
-  <string name="wifi_priority_changed" formatted="false">Stara vrijednost prednosti = %s, nova vrijednost = %s</string>
+  <string name="wifi_priority_changed" formatted="false">Stara vrijednost %s | Nova vrijednost %s</string>
   <string name="wifi_priority_label">Prednost</string>
   <string name="wifi_priority_settings_label">Postavke prednosti</string>
   <string name="wifi_priority_settings_summary">Odaberite radi postavljanja prednosti za svaku pristupnu točku</string>

@@ -8,7 +8,7 @@
   <string name="alert_message_delete_folders">Izbrisati mape: %1$s?</string>
   <string name="alert_message_delete_folders_notes">Izbrisati ovoliko mapa: %1$s i ovoliko bilješki: %2$s?</string>
   <string name="alert_message_delete_note">Izbrisati ovu bilješku?</string>
-  <string name="alert_message_delete_notes">Izbrisati %1$s bilješki?</string>
+  <string name="alert_message_delete_notes">Izbrisati bilješki: %1$s?</string>
   <string name="alert_message_edit_anyway">Ako uredite ovu bilješku, nešto od sadržaja može biti izgubljeno.</string>
   <string name="alert_title_edit_anyway">Ova bilješka sadrži nepodržani sadržaj</string>
   <string name="app_name">Bilješke</string>
@@ -29,7 +29,7 @@
   <string name="error_note_not_exist">Bilješka ne postoji</string>
   <string name="error_unsupport_content">Ova bilješka sadrži nepodržani sadržaj, dodirnite ovdje za ažuriranje zahtjevane aplikacije</string>
   <string name="error_widget_exist_for_send_to_desktop">Ova se bilješka već nalazi na vašem Početnom zaslonu</string>
-  <string name="folder_exist">Mapa s istim imenom već postoji</string>
+  <string name="folder_exist">Mapa s istim nazivom već postoji</string>
   <string name="format_move_notes_to_folder">Premješteno %1$d bilješki u %2$s</string>
   <string name="hint_foler_name">Ime</string>
   <string name="info_note_enter_desktop">Dodano na Početni zaslon</string>
@@ -53,7 +53,7 @@
   <string name="note_link_tel">"Nazovi"</string>
   <string name="note_link_web">Pregledaj internet</string>
   <string name="notealert_enter">Pogledaj</string>
-  <string name="notealert_ok">"U redu"</string>
+  <string name="notealert_ok">"Ignoriraj"</string>
   <string name="notelist_menu_new">Dodaj bilješku</string>
   <string name="notelist_string_info">...</string>
   <string name="notify_alarm_title">Podsjetnik bilješke</string>
