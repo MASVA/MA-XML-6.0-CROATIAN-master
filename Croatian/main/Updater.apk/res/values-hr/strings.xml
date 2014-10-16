@@ -38,7 +38,7 @@
   <string name="dialog_no">Odustani</string>
   <string name="dialog_ok">U redu</string>
   <string name="dialog_yes">U redu</string>
-  <string name="download_again">Preuzmi ponovono</string>
+  <string name="download_again">Pokušaj ponovno</string>
   <string name="download_cancel">Odustani</string>
   <string name="download_current_rom">Instaliraj ažuriranje</string>
   <string name="download_diff">Preuzimanje razlike</string>
@@ -56,7 +56,7 @@
   <string name="expect">Očekivanja</string>
   <string name="experimental_build">Testno</string>
   <string name="file_not_found_error_message">"Ne mogu pristupiti ovoj datoteci. Pokušajte preuzeti ponovno."</string>
-  <string name="finish">Finish</string>
+  <string name="finish">Dovršeno</string>
   <string name="fourgrid_hint_text">Hvala vam na korištenju razvojne MIUI verzije! Kažite nam svoje mišljenje i pomozite nam da MIUI bude još bolji.</string>
   <string name="fourgrid_no_notificaiont">"Ne prikazuj u statusnoj traci"</string>
   <string name="fourgrid_notificaiont">Prikaži u statusnoj traci</string>
