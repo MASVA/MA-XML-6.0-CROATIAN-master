@@ -24,17 +24,17 @@
   <string name="data_usage_disabled_dialog">"Dosegli ste ograničenje uporabe podataka. 
 
 Korištenje više od planiranog ograničenja podataka vašeg davatelja usluga može dovesti do povećanih troškova."</string>
-  <string name="data_usage_disabled_dialog_enable">Omogući podatke</string>
+  <string name="data_usage_disabled_dialog_enable">Upozorenje uporabe podataka</string>
   <string name="data_usage_leisure_warning_body">Dodirnite za pregled pojedinosti uporabe podataka.</string>
   <string name="data_usage_leisure_warning_title">Ograničenje uporabe podataka</string>
-  <string name="data_usage_limit_body">Dodirnite za omogućavanje mobilnih podataka.</string>
-  <string name="data_usage_limit_snoozed_body">"Premašili ste ograničenje uporabe podataka."</string>
-  <string name="data_usage_mobile_limit_snoozed_title">Premašeno ograničenje uporabe podataka</string>
+  <string name="data_usage_limit_body">Dodirnite za uključivanje mobilnih podataka.</string>
+  <string name="data_usage_limit_snoozed_body">Premašeno ograničenje uporabe podataka za ovaj mjesec.</string>
+  <string name="data_usage_mobile_limit_snoozed_title">Uporaba podataka premašena</string>
   <string name="data_usage_mobile_limit_title">Mobilni podaci su onemogućeni</string>
   <string name="data_usage_no_total_package_body">Dodirnite za postavljanje ograničenja uporabe podataka</string>
   <string name="data_usage_no_total_package_body_dual">Dodirnite za postavljanje ograničenja uporabe podataka za %s?</string>
-  <string name="data_usage_no_total_package_title">Uporaba podataka</string>
-  <string name="data_usage_restricted_body">Dodirnite da omogućite pozadinske podatke</string>
+  <string name="data_usage_no_total_package_title">Nema ograničenja Uporabe podataka</string>
+  <string name="data_usage_restricted_body">Dodirnite da uključite pozadinske podatke</string>
   <string name="data_usage_restricted_title">Pozadinski podaci ograničeni</string>
   <string name="data_usage_warning_body">Dodirnite da biste vidjeli pojedinosti uporabe podataka.</string>
   <string name="data_usage_warning_title">Upozorenje uporabe podataka</string>
@@ -141,7 +141,7 @@ Maks.: %1$s%2$s preostalo | %3$s iskorišteno"</string>
   <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
   <string name="mi_service_traffic_detail">Okvirni detalji</string>
   <string name="network_assistant_upgraded_body">Dodirnite za prikaz detalja.</string>
-  <string name="network_assistant_upgraded_title">Ažuriranje završeno</string>
+  <string name="network_assistant_upgraded_title">Ažurirano</string>
   <string name="network_control">Prikaz postavki aplikacije</string>
   <string name="none_mi_service_app_detail">Prazno</string>
   <string name="notification_content_title">Iskorišteno %1$s tijekom zaklj. uređaja</string>
@@ -181,8 +181,8 @@ Maks.: %1$s%2$s preostalo | %3$s iskorišteno"</string>
   <string name="pref_free_traffic_exceed_limit">Obavijesti me kada uporaba podataka dostigne ograničenje</string>
   <string name="pref_free_traffic_limit_warn">Upozorenje uporabe podataka</string>
   <string name="pref_free_traffic_settings">Postavke uporabe podataka</string>
-  <string name="pref_leisure_no_overlay">Omogućeno</string>
-  <string name="pref_leisure_not_opened">Onemogućeno</string>
+  <string name="pref_leisure_no_overlay">Uključeno</string>
+  <string name="pref_leisure_not_opened">Isključeno</string>
   <string name="pref_manual_adjust">Postavi statistiku uporabe podataka ručno</string>
   <string name="pref_month_begin_date">Datum resetiranja ciklusa uporabe</string>
   <string name="pref_month_first_day">Prvog dana u mjesecu</string>
@@ -223,6 +223,8 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg davatelja mobilnih
   <string name="pref_traffic_saving_whitelist_hint">"Podignite ograničenja podataka za odabranu skupinu aplikacija"</string>
   <string name="pref_version">Verzija %s</string>
   <string name="pref_warning_values">Stupanj upozorenja uporabe podataka</string>
+  <string name="privacy_declare_dialog_message">"Korištenjem ove usluge, slažete se s Opera &lt;a href=http://max.oupeng.com/eula.html&gt; Uvjeti i Odredbe&lt;/a&gt;."</string>
+  <string name="privacy_declare_dialog_title">Uvjeti i Odredbe</string>
   <string name="read_number">86 predmeta</string>
   <string name="read_unit">" predmeta"</string>
   <string name="right_precent">100%</string>
@@ -292,8 +294,8 @@ Prema vašem operateru iskoristili ste %1$s od vašeg maks. podataka ovog mjesec
   <string name="traffic_protection_use_data">Podaci omogućeni</string>
   <string name="traffic_saving_button_sorted">Grafikon</string>
   <string name="traffic_saving_button_sorted_chose_simcard">Poredaj po</string>
-  <string name="traffic_saving_button_start">Aktiviraj</string>
-  <string name="traffic_saving_button_stop">Deaktiviraj</string>
+  <string name="traffic_saving_button_start">Uključi</string>
+  <string name="traffic_saving_button_stop">Isključi</string>
   <string name="traffic_saving_history_title">Povijest</string>
   <string name="traffic_saving_history_total_money">Ukupno ušteđeno</string>
   <string name="traffic_saving_history_total_money_unit">¥</string>
@@ -308,8 +310,8 @@ Prema vašem operateru iskoristili ste %1$s od vašeg maks. podataka ovog mjesec
   <string name="traffic_saving_msg_not_started">Isključeno</string>  
   <string name="traffic_saving_msg_today">Danas</string>
   <string name="traffic_saving_notify_start_content">Ušteđeno ovaj mjesec %s</string>
-  <string name="traffic_saving_notify_start_title">Ušteda podataka</string>
-  <string name="traffic_saving_tecsupport">Powered by Opera Max</string> 
+  <string name="traffic_saving_notify_start_title">Vaša uporaba podataka je smanjena</string>
+  <string name="traffic_saving_tecsupport">Powered by Opera</string> 
   <string name="traffic_saving_title">Ušteda podataka</string>
   <string name="traffic_saving_toast_start_mobile">Ušteda podataka uključena</string>
   <string name="traffic_saving_toast_start_none_mobile">Ušteda počinje prilikom korištenja mobilnih podataka</string>
@@ -336,7 +338,7 @@ Prema vašem operateru iskoristili ste %1$s od vašeg maks. podataka ovog mjesec
   <string name="traffic_setting_fragment_sms_content">Sadržaj poruke</string>
   <string name="traffic_setting_fragment_sms_content_tips">Ovdje upišite svoju poruku</string>
   <string name="traffic_setting_fragment_template">Predložak poruke</string>
-  <string name="traffic_setting_fragment_title">Postavke upita uporabe podataka</string>
+  <string name="traffic_setting_fragment_title">Upit uporabe podataka</string>
   <string name="usage_sorted_activity_lable">Uporaba podataka</string>
   <string name="usage_sorted_empty_text">Prazno</string>
   <string name="usage_sorted_loading_text">Učitavanje…</string>

@@ -85,7 +85,7 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="HIPS_Perm_AutoStart_Hint">%1$s aplikacija se može automatski pokrenuti kada se uređaj uključuje</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity">Bluetooth</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Aplikacija može uključiti Bluetooth</string>
-  <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">%1$s  aplikacija može uključiti Bluetooth</string>
+  <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">%1$s aplikacija može uključiti Bluetooth</string>
   <string name="HIPS_Perm_Calendar">Kalendar</string>
   <string name="HIPS_Perm_Calendar_Desc">Aplikacija može vidjeti vaš kalendar</string>
   <string name="HIPS_Perm_Calendar_Hint">%1$s aplikacija može vidjeti vaš kalendar</string>
@@ -127,7 +127,7 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="HIPS_Perm_MMS">MMS</string>
   <string name="HIPS_Perm_MMS_Access">Aplikacija može pristupiti vašim MMS podacima</string>
   <string name="HIPS_Perm_MMS_Desc">Aplikacija može vidjeti vaš MMS</string>
-  <string name="HIPS_Perm_MMS_Hint">%1$s Aplikacija može vidjeti vaš MMS</string>
+  <string name="HIPS_Perm_MMS_Hint">%1$s aplikacija može vidjeti vaš MMS</string>
   <string name="HIPS_Perm_MobileNetwork">Podatkovna veza</string>
   <string name="HIPS_Perm_MobileNetwork_Desc">Aplikacija može koristiti mobilnu podatkovnu vezu za spajanje na internet</string>
   <string name="HIPS_Perm_MobileNetwork_Hint">%1$s aplikacija može koristiti mobilnu podatkovnu vezu za spajanje na internet</string>
@@ -175,7 +175,7 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="HIPS_Perm_SendSMS_Content">Sadržaj</string>
   <string name="HIPS_Perm_SendSMS_Data">SMS Sadržaj %1$s:%2$d</string>
   <string name="HIPS_Perm_SendSMS_Desc">Dopustiti aplikaciji slanje SMS-a</string>
-  <string name="HIPS_Perm_SendSMS_Hint">%1$s  aplikacija može poslati SMS</string>
+  <string name="HIPS_Perm_SendSMS_Hint">%1$s aplikacija može poslati SMS</string>
   <string name="HIPS_Perm_SendSMS_Port">Port</string>
   <string name="HIPS_Perm_SendSMS_Recipient">Primatelj</string>
   <string name="HIPS_Perm_SendSMS_SMSC">SMSC broj</string>
@@ -197,7 +197,7 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="HIPS_Perm_WIFINetwork_Hint">%1$s aplikacija može koristiti WLAN za povezivanje s internetom</string>
   <string name="HIPS_Perm_WIFI_Connectivity">WLAN</string>
   <string name="HIPS_Perm_WIFI_Connectivity_Desc">Aplikacija možete uključiti WLAN</string>
-  <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s aplikacija možete uključiti WLAN</string>
+  <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s možete uključiti WLAN</string>
   <string name="HIPS_Perm_Wakelock">Stanje Mirovanja</string>
   <string name="HIPS_Perm_Wakelock_Desc">Aplikacija može spriječiti uređaj od odlaska u stanje mirovanja</string>
   <string name="HIPS_Perm_Wakelock_Hint">%1$s aplikacija može spriječiti uređaj od odlaska u stanje mirovanja</string>
@@ -229,9 +229,9 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="Privacy_App_Trust_Summary_On">Pitaj kada ova aplikacija pokušava pristupiti drugim dijelovima sustava</string>
   <string name="Privacy_App_Uninstall">Deinstaliraj</string>
   <string name="Privacy_Perm_Count">Dopušteno: %1$d Odbijeno: %2$d</string>
-  <string name="Su_Enable_Dialog">%1$s traži root pristup.</string>
-  <string name="Su_Package_Forbidden">"%1$s nema root pristup."</string>
-  <string name="Su_Unavailable">Root pristup nije dostupan u MIUI stabilnoj verziji. Instalirajte MIUI developer verziju za dobivanje ROOT pristupa.</string>
+  <string name="Su_Enable_Dialog">%1$s traži ROOT pristup.</string>
+  <string name="Su_Package_Forbidden">"%1$s aplikacija nema ROOT pristup."</string>
+  <string name="Su_Unavailable">ROOT pristup nije dostupan u MIUI stabilnoj verziji. Instalirajte MIUI developer verziju za dobivanje ROOT pristupa.</string>
   <string name="SysOpt_Boost_AutoStart">Dopuštenja autom. pokretanja</string>
   <string name="SysOpt_Boost_AutoStart_Group">Automatsko pokretanje</string>
   <string name="SysOpt_Boost_Boot">Pokretanje</string>

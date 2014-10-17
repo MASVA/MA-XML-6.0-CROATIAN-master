@@ -15,7 +15,7 @@
   <string name="miui_terms_no_network">Nema mrežne veze. Pogledajte Uvjete pružanja usluge na %s</string>
   <string name="multisim_settings_category">Postavke poželjne SIM kartice</string>
   <string name="multisim_settings_title">Otkrivene 2 SIM kartice</string>
-  <string name="network_access_warning">Trebate mrežnu povezivost prilikom aktiviranja vašeg uređaja</string>
+  <string name="network_access_warning">Morate se povezati s internetom kako biste aktivirali Mi Usluge.</string>
   <string name="next">Dalje</string>
   <string name="other_settings">Dodatne postavke</string>
   <string name="other_settings_location">Lokacije</string>
@@ -27,7 +27,7 @@
   <string name="pref_title_voice_slot">Poželjne glas. usluge SIM kartice</string>
   <string name="privacy_policy">Pravila o privatnosti</string>
   <string name="provision_inputmethod_policy_description">"Pregled odabranih tipkovnica "</string>
-  <string name="provision_inputmethod_policy_description1">Pravila o privatnosti</string>
+  <string name="provision_inputmethod_policy_description1">Pravila o Privatnosti</string>
   <string name="setting_locale">Postavljanje zemlje…</string>
   <string name="shut_down">Isključivanje</string>
   <string name="sim_card_detecting">Provjeravam SIM karticu…</string>
@@ -39,9 +39,9 @@
   <string name="summary_sim_card">Kartica %1$d%2$s</string>
   <string name="terms_of_service">Uvjeti pružanja usluge</string>
   <string name="terms_of_use">Uvjeti pružanja usluge</string>
-  <string name="terms_of_use_label">"Vaša privatnost nama je vrlo važna. Pročitajte Uvjeti korištenja i Pravila o privatnosti da razumijete koje podatke prikupljamo, kako ćemo ih koristiti i koji su vam izbori dostupni.
+  <string name="terms_of_use_label">"Vaša privatnost nama je vrlo važna. Pročitajte naše Uvjeti Korištenja i Pravila o Privatnosti da razumijete koje informacije prikupljamo, kako ćemo ih koristiti i koji su vam izbori dostupni.
 
-Morate se složiti s Korisnički sporazum i Pravila o privatnosti prije nego što možete koristiti MIUI."</string>
-  <string name="user_agreement">Korisnički sporazum</string>
+Morate se složiti s Korisnički Sporazum i Pravila o Privatnosti prije nego što možete koristiti MIUI."</string>
+  <string name="user_agreement">Uvjeti pružanja usluge</string>
   <string name="welcome">Dobrodošli u</string>
 </resources> 
