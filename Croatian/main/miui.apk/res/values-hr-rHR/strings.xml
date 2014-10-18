@@ -22,7 +22,7 @@
     <string name="date_picker_label_year" />
     <string name="date_time_done">Gotovo</string>
     <string name="date_time_picker_dialog_title">Podesi datum i vrijeme</string>
-    <string name="deselect_all">Poništi odabir za sve</string>
+    <string name="deselect_all">Poništi odabir</string>
     <string name="early_morning">AM</string>
     <string name="empty" />
     <string name="eras_ad">AD</string>

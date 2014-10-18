@@ -155,7 +155,7 @@ koristeći %s"</string>
   <string name="data_usage_warning_title">Upozorenje o upotrebi podataka</string>
   <string name="data_usage_wifi_limit_snoozed_title">Prekorač. Wi-Fi ogranič. pod.</string>
   <string name="data_usage_wifi_limit_title">Wi-Fi podaci onemogućeni</string>
-  <string name="date_and_time" formatted="false">%H:%M:%S %-e.%b.%Y.</string>
+  <string name="date_and_time" formatted="false">%-k:%M:%S %-e.%-m.%Y</string>
   <string name="date_picker_decrement_day_button">Smanjenje dana</string>
   <string name="date_picker_decrement_month_button">Smanjenje mjeseca</string>
   <string name="date_picker_decrement_year_button">Smanjenje godine</string>
@@ -1150,7 +1150,7 @@ za račun %s."</string>
   <string name="permlab_writeSocialStream">pisanje društvenog streama</string>
   <string name="permlab_writeSyncSettings">uključivanje/isključivanje sinkronizacije</string>
   <string name="perms_description_app">Omogućuje aplikacija %1$s.</string>
-  <string name="perms_new_perm_prefix">&lt;font size="12" fgcolor="#ff33b5e5"&gt;NOVO: &lt;/font&gt;</string>
+  <string name="perms_new_perm_prefix">NOVO</string>
   <string name="petabyteShort">PB</string>
   <string name="phoneTypeAssistant">Pomoćnik</string>
   <string name="phoneTypeCallback">Povratni poziv</string>
