@@ -1,5 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="welcome_notes_content">
+        <item>"Sada možete jednostavno pribilježiti ideje, bilješke, misli pomoću
+"</item>
+        <item>"Priložite fotografije ili kontakte
+"</item>
+        <item>"Prekrižite izvršene zadatke prstom
+"</item>
+        <item>"I još puno velikih mogućnosti!
+  - Sinkronizacija s Mi Cloud
+  - Postavljanje podsjetnika
+ 
+Ako želite saznati više, posjetite
+http://www.miui.com/forum.php?lang=1
+"</item>
+    </string-array>
     <string-array name="contact_entries">
         <item>Ime</item>
         <item>Nadimak</item>
@@ -19,25 +34,4 @@
         <item>Veliko</item>
         <item>Ogromno</item>
     </string-array>
-    <string-array name="welcome_notes_content">
-        <item>"Sada možete jednostavno pribilježiti ideje, bilješke, misli pomoću
-"</item>
-        <item>"Priložite fotografije ili kontakte
-"</item>
-        <item>"Prekrižite izvršene zadatke prstom
-"</item>
-        <item>"I još puno velikih mogućnosti!
-  - Sinkronizacija s Mi Cloud
-  - Postavljanje podsjetnika
- 
-Ako želite saznati više, posjetite
-http://www.miui.com/forum.php?lang=1
-"</item>
-    </string-array>
-    <integer-array name="welcome_notes_color">
-        <item>0</item>
-        <item>1</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
 </resources> 

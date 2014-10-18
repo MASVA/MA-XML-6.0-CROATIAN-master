@@ -66,9 +66,9 @@
   <string name="go_on_download">Nastavi</string>
   <string name="install">Instaliraj</string>
   <string name="install_failed">Ažuriranje nije uspjelo</string>
-  <string name="install_file_explorer">Morate instalirati Datoteke aplikaciju</string>
+  <string name="install_file_explorer">Morate instalirati aplikaciju Datoteke</string>
   <string name="install_local">Instaliraj lokalno</string>
-  <string name="install_qq">"Nabavite Tencent's Weibo aplikaciju"</string>
+  <string name="install_qq">"Nabavite Tencent Weibo aplikaciju"</string>
   <string name="internal_build">Interno</string>
   <string name="later">Kasnije</string>
   <string name="loading">Zahtjev…</string>
@@ -78,7 +78,7 @@
   <string name="menu_title_download_current_rom">Preuzimanje paketa ažuriranja</string>
   <string name="menu_title_pick_rom_file">Odaberite paket ažuriranja</string>
   <string name="menu_title_recovery">Ponovno pokretanje u Recovery mode</string>
-  <string name="miui_summary_has_new_version">"  Dostupno je ažuriranje  "</string>
+  <string name="miui_summary_has_new_version">" Dostupno je ažuriranje "</string>
   <string name="miui_summary_no_new_version">Nema dostupnih ažuriranja</string>
   <string name="miui_summary_now_version">"Trenutna verzija "</string>
   <string name="monthly_build">Mjesečno</string>
@@ -119,7 +119,7 @@
   <string name="set_installfail_msg">Preuzimanje ovog ažuriranja preko mobilne podatkovne veze će povećati uporabu podataka.</string>
   <string name="set_installfail_title">Pokušati ponovno preuzeti ažuriranja?</string>
   <string name="set_installfail_title_full">Ažuriranje nije uspjelo</string>
-  <string name="set_network_msg">Poveži se s WLAN mrežom prije preuzimanja ovog ažuriran.</string>
+  <string name="set_network_msg">Poveži se s WLAN mrežom prije preuzimanja ovog ažuriranja.</string>
   <string name="set_network_title">Poveži se na mrežu</string>
   <string name="set_only_wifi">Postavi Samo WLAN Provjera</string>
   <string name="share">Podijeli</string>

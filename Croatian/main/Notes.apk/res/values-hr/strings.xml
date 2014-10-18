@@ -71,7 +71,6 @@
   <string name="search_setting_description">Tekst u vašim bilješkama</string>
   <string name="select_account_prompt">Sink. bilješke</string>
   <string name="sina_share_fail">Slanje nije uspjelo</string>
-  <string name="sina_share_fail_content_repeat">"Ne mogu podijeliti, sadržaj već postoji…"</string>
   <string name="sina_share_pendding">Šaljem…</string>
   <string name="sina_share_success">Poslano</string>
   <string name="sina_token_expired_warning">Weibo je istekao: Obnovite račun</string>
@@ -99,6 +98,6 @@
   <string name="undo">Poništi</string>
   <string name="unknown_source">Nepoznat izvor</string>
   <string name="widget_content_loading">Učitavanje…</string>
-  <string name="widget_havenot_content">Nema povezanih bilješki. Dodirnite za kreiranje povezane bilješke. Za promjenu veličine, zadržite &amp; povucite rub.</string>
+  <string name="widget_havenot_content">Nema povezanih bilješki.</string>
   <string name="widget_under_privacy_mode">"Ne mogu prikazati bilješku u Gost načinu rada"</string>
 </resources> 

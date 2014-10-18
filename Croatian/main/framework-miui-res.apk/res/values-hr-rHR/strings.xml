@@ -8,9 +8,9 @@
   <string name="app_notificaiton_on_statusBar_and_notificationBar">Lista ili Panel obavijesti</string>
   <string name="arbor_day">Dan sadnje stabala</string>
   <string name="armed_forces_day">Dan oružanih snaga (Kina)</string>
-  <string name="auto_start_warning_allow">Povoliť</string>
-  <string name="auto_start_warning_deny">Odmietnuť</string>
-  <string name="auto_start_warning_title">Povoliť %s spúšťať sa automaticky?</string>
+  <string name="auto_start_warning_allow">Dopusti</string>
+  <string name="auto_start_warning_deny">Odbij</string>
+  <string name="auto_start_warning_title">Dopustiti %s automatsko pokretanje?</string>
   <string name="autumn_begins">Početak jeseni (Kina)</string>
   <string name="autumn_equinox">Jesenska ravnodnevnica (Kina)</string>
   <string name="call_record_or">" Ili "</string>
