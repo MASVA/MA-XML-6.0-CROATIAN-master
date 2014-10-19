@@ -3,7 +3,7 @@
   <string name="accept">U redu</string>
   <string name="app_name">Xiaomi Aktivacija</string>
   <string name="activate">Aktiviraj</string>
-  <string name="activate_feature_call_log_sync">Sinkr. zapis poziva</string>
+  <string name="activate_feature_call_log_sync">Sinkr. zapisnika poziva</string>
   <string name="activate_feature_find_device">Pronađi uređaj</string>
   <string name="activate_feature_mms_sync">SMS sinkr.</string>
   <string name="activate_feature_mx">Mi Poruke</string>
@@ -28,7 +28,7 @@
   <string name="activate_popup_desc_new_intl_sim_card">"Izgleda da ste se promijenili SIM kartice. 2 aktivacijska SMS-a će biti poslana da se omogući %s. Moguće dodatne naknade od strane vašeg mobilnog operatera."</string>
   <string name="activate_popup_desc_new_mixed_sim_cards">"Izgleda da ste se promijenili SIM kartice. 2 aktivacijska SMS-a će biti poslana da se omogući %s. Moguće dodatne naknade od strane vašeg mobilnog operatera."</string>
   <string name="activate_popup_desc_new_sim_card">"Izgleda da ste se promijenili SIM kartice. Aktivacijski SMS će biti poslan da se omogući %s. Moguće redovne naknade od strane vašeg mobilnog operatera."</string>
-  <string name="activate_popup_desc_new_sim_card_downlink">"Izgleda da ste se promijenili SIM kartice. Unesite broj telefona povezan s novom SIM kartice da se omogući %s"</string>
+  <string name="activate_popup_desc_new_sim_card_downlink">"Izgleda da ste se promijenili SIM kartice. Unesite broj telefona povezan s novom SIM karticom da se omogući %s"</string>
   <string name="activate_popup_desc_register_account">Vaš mobilni operater može vam naplatiti SMS poruku korištenu za izradu Mi Računa.</string>
   <string name="activate_popup_desc_register_account_downlink">Unesite vaš broj telefona</string>
   <string name="activate_popup_desc_register_account_intl">Vaš mobilni operater može vam naplatiti međunarodnu SMS poruku korištenu za izradu Mi Računa.</string>
@@ -40,7 +40,7 @@
   <string name="activate_popup_title_failed_send_sms">"Ne mogu poslati SMS"</string>
   <string name="activate_popup_title_failed_server">Pogreška poslužitelja</string>
   <string name="activate_popup_title_manual">Aktiviraj %s</string>
-  <string name="activate_popup_title_new_sim_card">Reactivate %s</string>
+  <string name="activate_popup_title_new_sim_card">Reaktiviraj %s</string>
   <string name="activate_popup_title_register_account">Izradi Mi Račun</string>
   <string name="activate_status_desc_acquire_phone_number">Dobivanje broja telefona s poslužitelja</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Došlo je do pogreške na poslužitelju pri dobivanju broja telefona</string>
