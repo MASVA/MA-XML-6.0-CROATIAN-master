@@ -2114,7 +2114,6 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="strict_mode">Omogućen strogi način</string>
   <string name="strict_mode_summary">Bljeskanje zaslona kada aplikacije izvršavaju duge operacije na glavnoj niti</string>
   <string name="sum_carrier_select">"Odaberite mrežnog operatera"</string>
-  <string name="summary_font_size">%1$s</string>
   <string name="supplicant_state_label">Stanje molbodavca:</string>
   <string name="symbols_not_allowed_for_password">"Zaporka ne može sadržavati simbole"</string>
   <string name="sync_active">Sinkronizacija aktivna</string>
@@ -2160,7 +2159,6 @@ Googleov pristup sinkronizaciji podataka za mogućnost pristupa kontaktima, sast
   <string name="tether_settings_title_wifi">Prijenosni hotspot</string>
   <string name="tethering_help_button_text">Pomoć</string>
   <string name="time_picker_title">Vrijeme</string>
-  <string name="time_zone_auto_stub">Odaberi vremensku zonu</string>
   <string name="timezone_settings">Vremenska zona</string>
   <string name="title_color_calibration">Način Korekcija boja</string>
   <string name="title_dolby_control">Dolby digital plus</string>
@@ -2169,7 +2167,7 @@ Googleov pristup sinkronizaciji podataka za mogućnost pristupa kontaktima, sast
   <string name="title_local_resource">Lokalni resursi</string>
   <string name="title_system_resource">Resursi sistema</string>
   <string name="toast_lockscreen_glogin_empty_password">Unesite zaporku</string>
-  <string name="toast_need_login">Prijavite se Na vaš Mi Račun</string>
+  <string name="toast_need_login">Prijavite se na vaš Mi Račun</string>
   <string name="total_size">Ukupno %s</string>
   <string name="total_size_label">Ukupno</string>
   <string name="touch_sensitive_summary">"Učini zaslon posebno osjetljivim na dodir kako bi se omogućilo korištenje u rukavicama"</string>

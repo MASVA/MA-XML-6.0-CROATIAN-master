@@ -5,7 +5,6 @@
   <string name="cabl_enable_summary_on">Pozadinsko će se osvjetljenje podešavati na temelju sadržaja zaslona</string>
   <string name="cabl_enable_title">Omogućite prilagodljivo pozadinsko osvjetljenje</string>
   <string name="cabl_info_default">Nepoznato</string>
-  <string name="cabl_level_default">Auto</string>
   <string name="cabl_levels_summary">Niža razina znači više spremljene energije, ali može uzrokovati da će zaslon biti tamniji od očekivanog</string>
   <string name="cabl_levels_title">Razine energije</string>
   <string name="cabl_settings_title">Postavke sadržaja prilagodljivog pozadinskog osvjetljenja</string>

@@ -15,7 +15,6 @@
   <string name="abc_searchview_description_voice">Glasovna pretraga</string>
   <string name="abc_shareactionprovider_share_with">Dijeli s</string>
   <string name="abc_shareactionprovider_share_with_application">Dijeli s %s</string>
-  <string name="account_cache_provider">Račun Davatelja memorije</string>
   <string name="account_duplicate_dlg_message_fmt">To korisničko ime već upotrebljavate za račun \"%s\".</string>
   <string name="account_duplicate_dlg_title">Dvostruki račun</string>
   <string name="account_folder_list_summary_drafts">Skice</string>
@@ -273,7 +272,6 @@
   <string name="collapse_recipient_details">Sažmi podatke o primatelju</string>
   <string name="colon">:</string>
   <string name="compose">Nova poruka</string>
-  <string name="compose_help_context">sastavi</string>
   <string name="compose_send">Pošalji</string>
   <string name="compose_sent">Poruka poslana</string>
   <string name="confirm">Potvrdi</string>
@@ -307,7 +305,6 @@
   <string name="contextmenu_send_mail">Pošalji e-poštu</string>
   <string name="contextmenu_sharelink">Dijeli vezu</string>
   <string name="contextmenu_sms_dot">SMS…</string>
-  <string name="conversation_content_provider">Razgovori davatelja sadržaja</string>
   <string name="conversation_folder_moved">Premješteno u mapu %1$s</string>
   <string name="conversation_item_mark_read">Pročitano</string>
   <string name="conversation_item_mark_unread">Nepročitano</string>
@@ -376,7 +373,6 @@
   <string name="elided_padding_token"> </string>
   <string name="email_feedback_uri"/>
   <string name="email_package_name">com.android.email</string>
-  <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_account_tip">"Ne mogu naći račun"</string>
   <string name="empty_email_tip">"Ne mogu poslati praznu e-poštu"</string>
   <string name="empty_spam">Pražnjenje neželjenih sadržaja</string>
@@ -430,7 +426,6 @@
   <string name="forward_attribution_no_headers">---------- Proslijeđena poruka ----------</string>
   <string name="forward_download_failed_ticker">Jedan ili više privitaka nije bilo moguće proslijediti.</string>
   <string name="forward_download_failed_title">Privitak nije proslijeđen</string>
-  <string name="forward_subject_label">Fwd:</string>
   <string name="from">Šalje</string>
   <string name="from_heading">"Šalje: "</string>
   <string name="general_preference_confirm_delete_label">Potvrdite prije brisanja</string>
@@ -486,14 +481,6 @@
   <string name="mailbox_name_display_starred">Označeno zvjezdicom</string>
   <string name="mailbox_name_display_trash">Smeće</string>
   <string name="mailbox_name_display_unread">Nepročitano</string>
-  <string name="mailbox_name_server_all_unread">Nepročitano</string>
-  <string name="mailbox_name_server_drafts">Skice</string>
-  <string name="mailbox_name_server_inbox">Pristigla pošta</string>
-  <string name="mailbox_name_server_junk">Otpad</string>
-  <string name="mailbox_name_server_outbox">Paslana pošta</string>
-  <string name="mailbox_name_server_sent">Pošalji</string>
-  <string name="mailbox_name_server_starred">Označeno</string>
-  <string name="mailbox_name_server_trash">Smeće</string>
   <string name="mailbox_settings_activity_title">Opcije sinkronizacije</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Opcije sinkronizacije (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Broj dana pošte za sinkronizaciju</string>
@@ -566,7 +553,6 @@ Kopija: %4$s
   <string name="message_saved">Poruka je spremljena kao skica.</string>
   <string name="message_type_name">E-pošta</string>
   <string name="message_view_attachment_background_load">Jedan ili više privitaka u proslijeđenoj poruci preuzet će se prije slanja.</string>
-  <string name="mock_content_provider">Lažan davatelj sadržaja</string>
   <string name="more_atts_total">%1$d privitaka</string>
   <string name="more_info_attachment">Informacije</string>
   <string name="more_string">+%1$s</string>
@@ -663,7 +649,6 @@ Kopija: %4$s
   <string name="policy_screen_timeout">Zahtijeva stanjemirovanja uređaja za zaključavanje svog ​​zaslona</string>
   <string name="policy_text_truncation">Ograničiti veličinu teksta e-pošte</string>
   <string name="pop3_name">POP3</string>
-  <string name="prefDefault_autoAdvance">popis</string>
   <string name="prefDialogTitle_conversationListIcon">Slika pošiljatelja</string>
   <string name="prefDialogTitle_removal_action">Radnje arhiviranja i brisanja</string>
   <string name="preference_removal_action_title">Radnje arhiviranja i brisanja</string>
@@ -713,14 +698,9 @@ Kopija: %4$s
   <string name="reply">Odgovor</string>
   <string name="reply_all">Odgovori svima</string>
   <string name="reply_attribution" formatted="false">Dana %s osoba %s napisala je:</string>
-  <string name="reply_subject_label">Re:</string>
   <string name="replyto_heading">"Odgovori: "</string>
   <string name="report">Prijavi</string>
   <string name="report_phishing">Prijavite krađu identiteta</string>
-  <string name="report_rendering_improvement">Izgleda dobro</string>
-  <string name="report_rendering_improvement_desc">Ova poruka izgleda dobro.</string>
-  <string name="report_rendering_problem">Izgleda loše</string>
-  <string name="report_rendering_problem_desc">Ova poruka izgleda loše.</string>
   <string name="report_spam">Prijavite neželjenu poštu</string>
   <string name="request_entity_large">Datoteka je prevelika</string>
   <string name="require_manual_sync_message">Pozadinska sinkronizacija za ovaj račun onemogućena je u roamingu.</string>
@@ -843,11 +823,9 @@ Dodirnite "&lt;b&gt;Sinkroniziraj sada&lt;/b&gt; da biste po&amp;#353;tu sinkron
   <string name="wait_for_sync_body_txt_array_5">.</string>
   <string name="wait_for_sync_note">Dodirnite obavijest za dovršetak postavljanja.</string>
   <string name="wait_for_sync_title">Čekanje na sinkronizaciju</string>
-  <string name="wait_help_context">čekaj</string>
   <string name="widget_all_mail">Sva E-pošta</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Ostalo</string>
-  <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
   <string name="wrong_password">Zaporka koju ste unijeli nije točna</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_external_storage_unavailable">Pohrana nedostupna, provjerite SD karticu.</string>
