@@ -155,7 +155,7 @@ koristeći %s"</string>
   <string name="data_usage_warning_title">Upozorenje o upotrebi podataka</string>
   <string name="data_usage_wifi_limit_snoozed_title">Prekorač. Wi-Fi ogranič. pod.</string>
   <string name="data_usage_wifi_limit_title">Wi-Fi podaci onemogućeni</string>
-  <string name="date_and_time" formatted="false">%-k:%M:%S %-e.%-m.%Y</string>
+  <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
   <string name="date_picker_decrement_day_button">Smanjenje dana</string>
   <string name="date_picker_decrement_month_button">Smanjenje mjeseca</string>
   <string name="date_picker_decrement_year_button">Smanjenje godine</string>
@@ -163,7 +163,7 @@ koristeći %s"</string>
   <string name="date_picker_increment_day_button">Povećanje dana</string>
   <string name="date_picker_increment_month_button">Povećanje mjeseca</string>
   <string name="date_picker_increment_year_button">Povećanje godine</string>
-  <string name="date_time">%2$s %1$s</string>
+  <string name="date_time">%1$s, %2$s</string>
   <string name="date_time_done">Gotovo</string>
   <string name="date_time_set">Postavi</string>
   <string name="day">dan</string>
