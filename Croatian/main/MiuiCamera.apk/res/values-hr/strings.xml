@@ -409,7 +409,6 @@ panoramske fotografije.</string>
   <string name="pref_capture_settings">Nastavenie Fotoaparátu</string>
   <string name="pref_exposure_title">Ekspozicija</string>
   <string name="pref_face_beauty_title">Nijanse kože</string>
-  <string name="pref_front_mirror_default">auto</string>
   <string name="pref_front_mirror_entry_auto">Auto</string>
   <string name="pref_front_mirror_entry_off">Isklj.</string>
   <string name="pref_front_mirror_entry_on">Uklj.</string>
