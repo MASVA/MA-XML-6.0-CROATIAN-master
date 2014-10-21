@@ -733,10 +733,7 @@ Vaša SIM kartica bit će izbrisani nakon još jednog neuspjelog pokušaja."</st
   <string name="sip_accounts">Računi za internetske pozive (SIP)</string>
   <string name="sip_accounts_title">Računi</string>
   <string name="sip_add_account_tip_text">Za korištenje internet poziva, dodajte SIP račun</string>
-  <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-  <string name="sip_always">SIP_ALWAYS</string>
   <string name="sip_always_send_keepalive">Uvijek šalji</string>
-  <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
   <string name="sip_call_options_entry_1">Za sve pozive kada je podatkovna mreža dostupna</string>
   <string name="sip_call_options_entry_2">Samo za internetske pozive</string>
   <string name="sip_call_options_entry_3">Upit za svaki poziv</string>

@@ -548,10 +548,7 @@
   <string name="sip_account_list">Računi za internet pozivanje</string>
   <string name="sip_accounts">Računi za internet pozivanje (SIP)</string>
   <string name="sip_accounts_title">Računi</string>
-  <string name="sip_address_only">SIP_ADRESA_SAMO</string>
-  <string name="sip_always">SIP_UVIJEK</string>
   <string name="sip_always_send_keepalive">Uvijek pošalji</string>
-  <string name="sip_ask_me_each_time">SIP_PITAJ_ME_SVAKI_PUT</string>
   <string name="sip_call_options_entry_1">Za sve pozive kada je mreža dostupna</string>
   <string name="sip_call_options_entry_2">Samo za internet pozive</string>
   <string name="sip_call_options_entry_3">Pitaj za svaki poziv</string>
@@ -640,7 +637,6 @@
   <string name="voicemail_default">Moj operater</string>
   <string name="voicemail_notification_ringtone_title">Melodija zvona</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Vibracija</string>
-  <string name="voicemail_notification_vibrate_when_default">nikad</string>
   <string name="voicemail_notification_vibrate_when_title">Vibracija</string>
   <string name="voicemail_number_not_set">Nije podešeno</string>
   <string name="voicemail_provider">Usluge Govorne pošte</string>

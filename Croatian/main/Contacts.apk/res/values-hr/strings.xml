@@ -153,13 +153,9 @@
   <string name="composer_failed_to_get_database_infomation">"Dohvaćanje podataka iz baze podataka nije uspjelo."</string>
   <string name="composer_has_no_exportable_contact">"Nema kontakata koji se mogu izvoziti. Ako na svojem telefonuu imate kontakte, neki davatelji podataka možda ne dopuštaju izvoz kontakata s tog telefona."</string>
   <string name="composer_not_initialized">"Sastavljač za vCard nije se ispravno pokrenuo."</string>
-  <string name="config_export_dir">/mnt/sdcard</string>
   <string name="config_export_extensions_to_consider"/>
-  <string name="config_export_file_extension">vcf</string>
   <string name="config_export_file_prefix"/>
   <string name="config_export_file_suffix"/>
-  <string name="config_export_vcard_type">zadano</string>
-  <string name="config_import_vcard_type">zadano</string>
   <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">Izbrisati sve zapisnike poziva?</string>
   <string name="confirm_delete_selected_all_call_logs">Izbrisati sve zapisnike poziva?</string>
