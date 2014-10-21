@@ -3,7 +3,7 @@
   <string name="accept">U redu</string>
   <string name="add_to_contacts">Dodaj u kontakte</string>
   <string name="address">Adresa:</string>
-  <string name="allow_check_website_security">Provjerite sigurnost web stranice</string>
+  <string name="allow_check_website_security">"Provjerite sigurnost povezane web stranice"</string>
   <string name="app_details">Aplikacija:</string>
   <string name="app_name">Skener</string>
   <string name="back">Natrag</string>

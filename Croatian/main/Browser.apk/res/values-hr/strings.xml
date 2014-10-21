@@ -75,7 +75,6 @@
   <string name="block_ads_choice_continue">Nastavi</string>
   <string name="block_ads_message">Želite li blokirati poruke s ove web stranice?</string>
   <string name="block_ads_title">Sadržaj može sadržavati reklame</string>
-  <string name="bookmark_URL_already_exisit">"Već ste označili ovaj URL"</string>
   <string name="bookmark_add_group_text_header">Dodaj odabrano %1$d u grupu</string>
   <string name="bookmark_add_to">Dodaj u</string>
   <string name="bookmark_cannot_save_url">"Ovaj se URL ne može spremiti kao oznaka."</string>
@@ -85,7 +84,6 @@
   <string name="bookmark_needs_title">Oznaka mora imati ime.</string>
   <string name="bookmark_needs_url">Oznaka mora imati lokaciju.</string>
   <string name="bookmark_not_saved">"Nije bilo moguće spremiti oznaku."</string>
-  <string name="bookmark_page">Označi posljednju prikazanu stranicu</string>
   <string name="bookmark_rename_group">Preimenuj grupu</string>
   <string name="bookmark_saved">Spremljeno u oznake</string>
   <string name="bookmark_this_page_to_readmodelist">Dodaj stranicu na popis čitanja</string>
@@ -94,6 +92,7 @@
   <string name="bookmark_to_readmodelist_not_saved">"Nije uspjelo spremanje na popis čitanja."</string>
   <string name="bookmark_to_readmodelist_saved">Spremljeno na popis čitanja.</string>
   <string name="bookmark_url">URL http://</string>
+  <string name="bookmark_URL_already_exisit">"Već ste označili ovaj URL"</string>
   <string name="bookmark_url_lable">URL</string>
   <string name="bookmark_url_not_valid">"Ovaj URL nije valjan."</string>
   <string name="bookmarks">Oznake</string>
@@ -417,7 +416,6 @@
   <string name="pref_development_normal_rendering">Normalno rendiranje</string>
   <string name="pref_development_reset_prelogin">Resetiraj pred-prijavu</string>
   <string name="pref_development_single_column_rendering">Rendiranje jednog stupca</string>
-  <string name="pref_development_title">Ispravljanje grešaka</string>
   <string name="pref_development_trace">Omogući praćenje</string>
   <string name="pref_development_viewport">Koristite širok pregled</string>
   <string name="pref_development_visual_indicator">Omogućite vizualni pokazatelj</string>
@@ -454,16 +452,14 @@
   <string name="pref_inverted">Obrnuto renderiranje zaslona</string>
   <string name="pref_inverted_category">Obrnuto renderiranje zaslona</string>
   <string name="pref_inverted_contrast">Kontrast</string>
-  <string name="pref_inverted_summary">Crno postaje bijelo i obrnuto</string>
   <string name="pref_key_gesture_title">Gumbi &amp; gesta</string>
   <string name="pref_key_title">Postavke gumba</string>
   <string name="pref_link_prefetch_dialogtitle">Predučitavanje web stranica</string>
   <string name="pref_link_prefetch_summary">Dopustiti pregledniku  povezanih web stranica u pozadini</string>
   <string name="pref_link_prefetch_title">Predučitavanje web stranica</string>
   <string name="pref_link_prefetch_value_never_summary">Nikad ne predučitavaj povezane web stranice</string>
-  <string name="pref_min_font_size">Najmanja veličina fonta</string>
   <string name="pref_min_font_size_value">%dpt</string>
-  <string name="pref_other_title">Other</string>
+  <string name="pref_other_title">Ostalo</string>
   <string name="pref_privacy_clear_cache">Brisanje predmemorije</string>
   <string name="pref_privacy_clear_cache_dlg">Ovo će obrisati spremljeni sadržaj u lokalnoj predmemoriji i bazama podataka?</string>
   <string name="pref_privacy_clear_cache_summary">Brisanje lokalne predmemorije i baze podataka</string>
@@ -504,7 +500,6 @@
   <string name="pref_security_show_security_warning_summary">"Prikaži upozorenje ako postoji problem sa sigurnošću stranice"</string>
   <string name="pref_set_homepage_to">Postavi na</string>
   <string name="pref_setting_title">Postavke stranice</string>
-  <string name="pref_text_zoom">Skaliranje teksta</string>
   <string name="pref_ua_mione_entry">MiOne</string>
   <string name="pref_ua_string">Niz korisničkog agenta</string>
   <string name="pref_ua_title">Upravljanje korisničkim agentom</string>
@@ -526,7 +521,7 @@
   <string name="profiler_stopped_toast">Profiler je završio. Rezultati su u datoteci %1$s.</string>
   <string name="progress_dialog_setting_wallpaper">Podešavanje pozadinske slike…</string>
   <string name="qr_code_title">QR Kod</string>
-  <string name="quicklink_bookmark_save">Spremi kao:</string>
+  <string name="quicklink_bookmark_save">Spremi u</string>
   <string name="quicklink_not_saved">"Ne mogu dodati na početnu stranicu"</string>
   <string name="quicklink_saved">Dodano na početnu stranicu</string>
   <string name="quicklink_saved_before">Stranica dodana na početnu stranicu</string>
@@ -605,8 +600,8 @@
   <string name="send_bookmark_to_home_screen">Pošalji na početni zaslon</string>
   <string name="send_to_popular">Popularno</string>
   <string name="set_as_homepage">Postavi kao početnu stranicu</string>
-  <string name="share_link">dijeli vezu</string>
-  <string name="share_page">dijeli stranicu</string>
+  <string name="share_link">Dijeli vezu</string>
+  <string name="share_page">Dijeli stranicu</string>
   <string name="share_page_text">"Uživam u 【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">Ovaj URL web stranice će biti poslan na Xiaomi poslužitelj kako bi provjerili njezinu sigurnost. Možete isključili tu značajku u bilo koje vrijeme u postavkama.</string>
   <string name="show_check_security_url_check_tip_dialog_title">Sigurnost URL-a</string>

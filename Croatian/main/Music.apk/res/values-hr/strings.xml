@@ -145,8 +145,8 @@
   <string name="music_quality">Kvaliteta glazbe</string>
   <string name="music_settings">Glazba</string>
   <string name="my_account">Mi Račun</string>
-  <string name="my_music">Moja glazba</string>
-  <string name="my_music_empty">Vaš popis pjesama je prazan! Dodajte pjesme iz kartice Online.</string>
+  <string name="my_music">Glazba</string>
+  <string name="my_music_empty">Popis pjesama je prazan.</string>
   <string name="my_playlist">Moj popis pjesama</string>
   <string name="network_error">"Ne mogu se spojiti na mrežu."</string>
   <string name="network_failure">"Ne mogu se spojiti na mrežu. Provjerite vašu podatkovnu vezu i pokušajte ponovno."</string>

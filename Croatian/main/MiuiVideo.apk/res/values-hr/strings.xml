@@ -73,8 +73,9 @@
   <string name="count_ge_result">Rezultata: %d</string>
   <string name="count_ji_quan">Sve %d Ep.</string>
   <string name="day">Dan</string>
-  <string name="declaration">Uvjeti korištenja</string>
-  <string name="declaration_content">Korištenjem ovih usluga, pristajete na uvjete korištenja navedenih od strane Sohu Video, iQiyi i ostalih pružatelja video sadržaja</string>
+  <string name="declaration">Uvjeti pružanja usluge</string>
+  <string name="declaration_content">"Korištenjem ovih usluga, pristajete na uvjete korištenja navedenih od strane Sohu Video, iQiyi i ostalih pružatelja video sadržaja"&lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;Uvjeti pružanja usluge&lt;/a&gt;.</string>
+  <string name="declaration_content_td_custom">"Neke od značajki ove aplikacije potrebna je internetska veza da funkcioniraju normalno."</string>
   <string name="defaults">Zadano</string>
   <string name="delete">Izbriši</string>
   <string name="delete_addon">Izbriši</string>

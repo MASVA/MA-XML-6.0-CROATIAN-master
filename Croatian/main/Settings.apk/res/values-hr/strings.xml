@@ -169,7 +169,7 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="application_item_permission">+</string>
   <string name="application_restrictions">Dopuštanje aplikacija i sadržaja</string>
   <string name="application_size_label">Aplikacija</string>
-  <string name="applications_settings">Upravljanje aplikacijama</string>
+  <string name="applications_settings">Dodatne postavke</string>
   <string name="applications_settings_header">Postavke aplikacije</string>
   <string name="applications_settings_summary">Upravljanje aplikacijama, postavljanje prečaca za brzo pokretanje</string>
   <string name="apply_now_button_text">Ažuriraj</string>
@@ -1024,7 +1024,7 @@ Neke aplikacije neće raditi dok ih ne ažuriraju njihovi razvijatelji."</string
   <string name="header_category_device">UREĐAJ</string>
   <string name="header_category_personal">OSOBNO</string>
   <string name="header_category_system">SUSTAV</string>
-  <string name="header_category_wireless_networks">BEŽIČNO &amp; MREŽE</string>
+  <string name="header_category_wireless_networks">Mreža</string>
   <string name="header_data_and_synchronization">Podaci &amp; sinkronizacija</string>
   <string name="headset_calibrate">Kalibracija tipaka</string>
   <string name="heavy_weight_stop_description">Ova se aplikacija ne može sigurno zaustaviti. Ako je zaustavite, mogli biste izgubiti trenutačan rad.</string>
@@ -1122,7 +1122,6 @@ Neke aplikacije neće raditi dok ih ne ažuriraju njihovi razvijatelji."</string
   <string name="language_settings_category">Postavke jezika</string>
   <string name="large_font">Veliko</string>
   <string name="last_synced">Zadnja sinkronizacija: %1$s</string>
-  <string name="later">Kasnije</string>
   <string name="launch_count_label">Broj</string>
   <string name="launching_cit">Pokrećem CIT</string>
   <string name="launching_pho">Pokrećem podatke uređaja…</string>
@@ -1175,6 +1174,7 @@ Neke aplikacije neće raditi dok ih ne ažuriraju njihovi razvijatelji."</string
   <string name="lock_intro_message">Lock_intro_message</string>
   <string name="lock_screen_unlock_show">Preskoči povlačenje zaslona</string>
   <string name="lock_screen_unlock_show_summary">Nakon buđenja idi izravno na Početni zaslon ili unos zaporke</string>
+  <string name="lock_settings">Zaključavanje zaslona</string>
   <string name="lock_settings_common_title">Postavke zaključavanja</string>
   <string name="lock_settings_picker_settings">Postavi zaključavanje zaslona</string>
   <string name="lock_settings_picker_title">Odaberi zaključavanje zaslona</string>
@@ -1510,6 +1510,8 @@ i pokrenite ga."</string>
   <string name="onscreen_keyboard_settings_summary">Postavke zaslonske tipkovnice</string>
   <string name="open_wifi_connect_summary">"Dotaknite za upravljanje"</string>
   <string name="open_wifi_connect_title">Poveži se na otvorenu mrežu %1$s</string>
+  <string name="other_advanced_settings">Dodatne postavke</string>
+  <string name="other_personal_settings">Dodatne postavke</string>
   <string name="other_relative">Ostalo</string>
   <string name="overlay_display_devices_title">Simuliraj sekundarne zaslone</string>
   <string name="owner_info_settings_edit_text_hint">Unesite tekst za prikaz na zaključanom zaslonu</string>
@@ -1702,7 +1704,7 @@ i pokrenite ga."</string>
   <string name="radioInfo_service_out">Ne radi</string>
   <string name="radioInfo_unknown">nepoznato</string>
   <string name="radio_controls_summary">Upravljanje značajkama WLAN, Bluetooth, način rada u zrakoplovu, mobilne mreže &amp; VPN-ovi</string>
-  <string name="radio_controls_title">"Više"</string>
+  <string name="radio_controls_title">Dodatne postavke</string>
   <string name="radio_info_band_mode_label">Odaberite radijsku frekvenciju</string>
   <string name="radio_info_call_redirect_label">Preusmjeravanje poziva:</string>
   <string name="radio_info_call_status_label">Status poziva:</string>
@@ -2015,7 +2017,6 @@ Možda je PIN netočan."</string>
   <string name="sort_order_alpha">Poredaj po nazivu</string>
   <string name="sort_order_size">Poredaj po veličini</string>
   <string name="sound_category_call_ringtone_vibrate_title">"Melodija zvona &amp; vibracija"</string>
-  <string name="sound_category_calls_and_notification_title">Melodija zvona &amp; obavijesti</string>
   <string name="sound_category_notification_title">Obavijesti</string>
   <string name="sound_category_sound_title">Općenito</string>
   <string name="sound_category_system_title">Sustav</string>
@@ -2826,6 +2827,8 @@ Postavljanje uređaja može zahtijevati znatnu mrežnu aktivnost."</string>
   <string name="wimax_settings">4G</string>
   <string name="window_animation_scale_title">Razmjer animacije prozora</string>
   <string name="wireless_networks_settings_title">Bežično &amp; mreže</string>
+  <string name="wireless_off">Isključeno</string>
+  <string name="wireless_on">Uključeno</string>
   <string name="wizard_back">Natrag</string>
   <string name="wizard_finish">Završi</string>
   <string name="wizard_next">"Dalje"</string>

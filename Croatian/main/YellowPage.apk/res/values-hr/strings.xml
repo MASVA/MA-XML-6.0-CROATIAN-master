@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_fraud_num_online_identification">O toj značajki</string>
+  <string name="about_fraud_num_online_identification">O blokiranju telemarketera</string>
   <string name="about_smart_antispam_summary">O toj značajki</string>
   <string name="about_telephone_fraud">O telefonskoj prijevari</string>
   <string name="account_address">Adrese</string>
