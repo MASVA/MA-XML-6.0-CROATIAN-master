@@ -155,7 +155,7 @@ koristeći %s"</string>
   <string name="data_usage_warning_title">Upozorenje o upotrebi podataka</string>
   <string name="data_usage_wifi_limit_snoozed_title">Prekorač. Wi-Fi ogranič. pod.</string>
   <string name="data_usage_wifi_limit_title">Wi-Fi podaci onemogućeni</string>
-  <string name="date_and_time" formatted="false">%H:%M:%S %-e.%b.%Y.</string>
+  <string name="date_and_time" formatted="false">%-k:%M:%S %-e.%-m.%Y</string>
   <string name="date_picker_decrement_day_button">Smanjenje dana</string>
   <string name="date_picker_decrement_month_button">Smanjenje mjeseca</string>
   <string name="date_picker_decrement_year_button">Smanjenje godine</string>
@@ -381,7 +381,7 @@ Jeste li sigurni da želite napustiti ovu stranicu?"</string>
   <string name="keyguard_password_enter_pin_prompt">Novi PIN kôd</string>
   <string name="keyguard_password_enter_puk_code">Unesite PUK i novi PIN kôd</string>
   <string name="keyguard_password_enter_puk_prompt">PUK kôd</string>
-  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Dodirnite za tipkanje zaporke&lt;/font&gt;</string>
+  <string name="keyguard_password_entry_touch_hint">Dodirnite za tipkanje zaporke</string>
   <string name="keyguard_password_wrong_pin_code">Netočan PIN kôd.</string>
   <string name="kg_emergency_call_label">Hitan poziv</string>
   <string name="kg_enter_confirm_pin_hint">Potvrdite željeni PIN kôd</string>
@@ -397,7 +397,7 @@ Jeste li sigurni da želite napustiti ovu stranicu?"</string>
   <string name="kg_invalid_sim_puk_hint">PUK kôd treba imati 8 brojeva ili više.</string>
   <string name="kg_login_account_recovery_hint">"Zaboravili ste korisničko ime ili zaporku?
 Posjetite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
-  <string name="kg_login_checking_password">Provjera računa...</string>
+  <string name="kg_login_checking_password">Provjera računa…</string>
   <string name="kg_login_instructions">Za otključavanje prijavite se Google računom.</string>
   <string name="kg_login_invalid_input">Nevažeće korisničko ime ili zaporka.</string>
   <string name="kg_login_password_hint">Zaporka</string>
