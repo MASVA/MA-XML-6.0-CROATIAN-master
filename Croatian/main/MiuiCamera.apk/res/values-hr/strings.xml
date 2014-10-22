@@ -250,7 +250,6 @@ panoramske fotografije.</string>
   <string name="pref_camera_exposuretime_entry_60">1/60s</string>
   <string name="pref_camera_exposuretime_entry_8">1/8s</string>
   <string name="pref_camera_exposuretime_entry_auto">Auto</string>
-  <string name="pref_camera_exposuretime_title">Vrijeme ekspozicije</string>
   <string name="pref_camera_facedetection_entry_off">Isključeno</string>
   <string name="pref_camera_facedetection_entry_on">Uključeno</string>
   <string name="pref_camera_facedetection_title">Prepoznavanje lica</string>
@@ -403,10 +402,10 @@ panoramske fotografije.</string>
   <string name="pref_camera_whitebalance_entry_measure">Mjerenje</string>
   <string name="pref_camera_whitebalance_k_value_title">Vrijednost K Balansa bijele</string>
   <string name="pref_camera_whitebalance_title">Balans bijele</string>
-  <string name="pref_camera_zsl_entry_off">Vypnutá (Odporúčané)</string>
-  <string name="pref_camera_zsl_entry_on">Zapnutá</string>
-  <string name="pref_camera_zsl_title">ZSL (uzávierka bez omeškania)</string>
-  <string name="pref_capture_settings">Nastavenie Fotoaparátu</string>
+  <string name="pref_camera_zsl_entry_off">Isključeno (Zadano)</string>
+  <string name="pref_camera_zsl_entry_on">Uključeno</string>
+  <string name="pref_camera_zsl_title">ZSL (zatvaranje bez odgode)</string>
+  <string name="pref_capture_settings">Postavke Fotoaparata</string>
   <string name="pref_exposure_title">Ekspozicija</string>
   <string name="pref_face_beauty_title">Nijanse kože</string>
   <string name="pref_front_mirror_entry_auto">Auto</string>
@@ -417,7 +416,7 @@ panoramske fotografije.</string>
   <string name="pref_grp_capture_settings">Postavke snimanja</string>
   <string name="pref_grp_picture_settings">Postavke slike</string>
   <string name="pref_grp_restore_settings">Obnova zadanih postavki</string>
-  <string name="pref_manual_exposure_title">Ručna ekspozicijae</string>
+  <string name="pref_manual_exposure_title">Vrijeme ekspozicije</string>
   <string name="pref_priority_storage_title">Spremi na SD karticu</string>
   <string name="pref_qc_focus_position_title">Izoštravanje</string>
   <string name="pref_scan_qrcode_entry_off">Isklj.</string>
@@ -521,7 +520,7 @@ panoramske fotografije.</string>
   <string name="time_lapse_error">"Ne mogu koristiti ovu video-veličinu za vrijeme-lapse snimanja"</string>
   <string name="times">Vremena</string>
   <string name="title">Naziv</string>
-  <string name="toast_burst_snap_finished_end">fotografije</string>
+  <string name="toast_burst_snap_finished_end">fotografija</string>
   <string name="toast_burst_snap_finished_start">Brzo uzastopno snimanje završeno</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Brzo uzastopno snimanje nije podržano kada je snimanje zvuka UKLJUČENO.</string>
   <string name="toast_burst_snap_forbidden_when_face_beauty_open">Brzo uzastopno snimanje nije podržano kada je aktiviran način poboljšanja lica.</string>

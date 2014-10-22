@@ -1152,9 +1152,9 @@ Neke aplikacije neće raditi dok ih ne ažuriraju njihovi razvijatelji."</string
   <string name="location_high_battery_use">Visoka potrošnja baterije</string>
   <string name="location_loading_injected_setting">Dohvaćanje…</string>
   <string name="location_low_battery_use">Niska potrošnja baterije</string>
-  <string name="location_mode_battery_saving_description">Za određivanje lokacije upotrebljavaju se WiFi i mobilne mreže</string>
+  <string name="location_mode_battery_saving_description">Za određivanje lokacije upotrebljavaju se WLAN i mobilne mreže</string>
   <string name="location_mode_battery_saving_title">Štednja baterije</string>
-  <string name="location_mode_high_accuracy_description">Za određivanje lokacije upotrebljavaju se GPS, WiFi i mobilne mreže</string>
+  <string name="location_mode_high_accuracy_description">Za određivanje lokacije upotrebljavaju se GPS, WLAN i mobilne mreže</string>
   <string name="location_mode_high_accuracy_title">Visoka preciznost</string>
   <string name="location_mode_location_off_title">Lokacija je isključena</string>
   <string name="location_mode_screen_title">Način lokacije</string>
@@ -2063,6 +2063,7 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="status_bar_settings_show_flow_info">Prikaži detalje toka</string>
   <string name="status_bar_settings_show_network_speed">Prikaži brzinu veze</string>
   <string name="status_bar_settings_show_notificationBar_notification">Prikaži u panelu obavijesti</string>
+  <string name="status_bar_settings_show_notification_icon">Prikaži ikonu obavijesti</string>
   <string name="status_bar_settings_show_screenshot_notification">Prikaži obavijest o snimci zaslona</string>
   <string name="status_bar_settings_show_statusBar_notification">Prikaži na zaključanom zaslonu i u padajućem</string>
   <string name="status_bar_settings_show_statusBar_notification_summary">Prikaži obavijesti na zaključanom zaslonu i u padajućem pregledu</string>
