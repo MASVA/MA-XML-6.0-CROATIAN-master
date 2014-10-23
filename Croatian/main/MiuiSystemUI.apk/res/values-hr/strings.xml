@@ -47,9 +47,6 @@
   <string name="always_use_accessory">"Koristi se kao zadana postavka za ovaj USB dodatak"</string>
   <string name="always_use_device">"Koristi se kao zadana postavka za ovaj USB uređaj"</string>
   <string name="app_label">"UI Sustava"</string>
-  <string name="audio_effect_custom">Konfiguriraj</string>
-  <string name="audio_effect_info">Optimizacija zvuka</string>
-  <string name="audio_effect_settings">Postavljanje tipa slušalica</string>
   <string name="battery_low_percent_format">preostalo %d%%</string>
   <string name="battery_low_subtitle">Baterija je gotovo prazna.</string>
   <string name="battery_low_title">"Priključite punjač"</string>
@@ -135,10 +132,6 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="notification_otg_trackball_out">Mišji trbuh nije povezan</string>
   <string name="notification_otg_unknow_in">OTG uređaj je povezan</string>
   <string name="notification_otg_unknow_out">OTG uređaj nije povezan</string>
-  <string name="oldman_airplane_mode_text">zrakoplovni</string>
-  <string name="oldman_incall_text">incall</string>
-  <string name="oldman_status_bar_time_format_12">h:mm</string>
-  <string name="oldman_status_bar_time_format_24">HH:mm</string>
   <string name="reject_call">Poziv odbijen</string>
   <string name="return_to_incall_screen">Povratak na poziv</string>
   <string name="screenshot_failed_text">Nije moguće spremiti snimak zaslona. Pohrana je možda u upotrebi.</string>
