@@ -15,7 +15,7 @@
   <string name="account_not_activated">"Račun još nije aktiviran"</string>
   <string name="account_sec_dspt"/>
   <string name="account_sec_dspt2"/>
-  <string name="account_settings">Postavke računa</string>
+  <string name="account_settings">Račun</string>
   <string name="account_xiaomi_service">Usluge</string>
   <string name="activate_desc_2_intl_sim_cards">2 međunarodna SMS-a će biti poslana za aktiviranje SIM kartice</string>
   <string name="activate_desc_2_sim_cards">2 SMS-a će biti poslana za aktiviranje SIM kartice</string>
@@ -132,6 +132,7 @@ Dovršite svoj ​​profil koristeći osobne informacije kroz %s."</string>
   <string name="dirty_mms_count">Poruka: %d</string>
   <string name="dirty_note_count">Bilješka: %d</string>
   <string name="email_already_be_used">Ova adresa e-pošte je već povezana s drugim računom.</string>
+  <string name="email_or_id_hint_text">Adresa e-pošte ili Mi Račun ID</string>
   <string name="email_reg_success_summary">%1$s je dodan na vaš račun Mi Račun. Možete ga koristiti za prijavu ili za resetiranje zaporke.</string>
   <string name="enable_sync">Omogući</string>
   <string name="enable_sync_dspt">Sinkronizacija je isključena</string>
@@ -145,7 +146,7 @@ Dovršite svoj ​​profil koristeći osobne informacije kroz %s."</string>
   <string name="error_phone_error">Nevažeći broj telefona</string>
   <string name="error_server">Pogreška poslužitelja</string>
   <string name="error_sim_not_ready">"Ne mogu pronaći SIM karticu"</string>
-  <string name="error_ssl_hand_shake">Pogreška s poslužiteljem. Pokušajte postaviti ​​datum/vrijeme vašeg sustava na trenutačno vrijeme.</string>
+  <string name="error_ssl_hand_shake">Pogreška s poslužiteljem. Pokušajte postaviti ​​datum/vrijeme vašeg sustava na vrijeme lokacije na kojoj se trenutno nalazite.</string>
   <string name="error_unknown">"Ne mogu se prijaviti"</string>
   <string name="error_user_name">Nevažeće korisničko ime</string>
   <string name="error_verify_code">Kôd koji ste unijeli nije točan</string>
@@ -154,7 +155,6 @@ Dovršite svoj ​​profil koristeći osobne informacije kroz %s."</string>
   <string name="failed_to_send_activate_email">"Ne mogu poslati aktivacijsku e-poštu"</string>
   <string name="find_device_dspt">Zaključajte ili obrišite ovaj uređaj na daljinu.</string>
   <string name="find_password_on_web_msg">Molimo vas da posjetite account.xiaomi.com za resetiranje svoje zaporke</string>
-  <string name="foreign_login">Kôd zemlje</string>
   <string name="forget_password">Zaboravljena zaporka</string>
   <string name="get_back_pwd">Dobivanje zaporke računa</string>
   <string name="get_verify_code">Nabavite kôd</string>
@@ -168,7 +168,6 @@ Dovršite svoj ​​profil koristeći osobne informacije kroz %s."</string>
   <string name="input_vcode_hint">Unesite kôd za provjeru</string>
   <string name="input_vcode_prompt">Unesite kôd za provjeru</string>
   <string name="input_verify_code_hint">Unesite kôd za provjeru</string>
-  <string name="int_phone_user_notice">Dodajte kôd zemlje prilikom korištenja broj mobitela za prijavu.</string>
   <string name="internet_comm">Usluge poruka</string>
   <string name="license_host_unreachable">"Ne mogu se spojiti na mrežu. Možete vidjeti ovu stranicu na %s."</string>
   <string name="loading">Učitavanje…</string>
@@ -181,6 +180,7 @@ Dovršite svoj ​​profil koristeći osobne informacije kroz %s."</string>
   <string name="login_notice">Prijava…</string>
   <string name="login_step2_title">Potvrda u 2 koraka</string>
   <string name="login_title">Prijavite se u vaš Mi Račun</string>
+  <string name="login_with_email_or_id">Prijavite se s drugim računom</string>
   <string name="mi_account_dspt_provision">Prijavite se na Mi Cloud, MIUI Trgovinu Tema i druge Mi Usluge s jednim računom.</string>
   <string name="mibi_balance">Mi Kredita %s</string>
   <string name="micloud_account">Mi Račun</string>
@@ -229,7 +229,7 @@ Da biste aktivirali vaš račun, slijedite
   <string name="micloud_password_req_notice">Zaporka mora biti duga 8~16 znakova i mora sadržavati i brojeve i slova (velika i mala slova).</string>
   <string name="micloud_reg_new">Napravite Mi Račun</string>
   <string name="micloud_resend_active_email">Ponovno pošalji aktivacijsku e-poštu</string>
-  <string name="micloud_space_info">%s preostalo</string>
+  <string name="micloud_space_info">%s dostupno</string>
   <string name="micloud_sync_info">Stavaka nije sinkronizirano: %d</string>
   <string name="micloud_sync_info_synced">Sinkronizirano</string>
   <string name="micloud_user_base_info">Korisničke informacije</string>
@@ -288,7 +288,6 @@ Da biste aktivirali vaš račun, slijedite
   <string name="remove_unactivated_account_notice">"Vaš račun još nije aktiviran."</string>
   <string name="removing_account">Odjava…</string>
   <string name="scan_barcode_title">Da bi se prijavili na svoj Mi Račun, skenirajte QR kod</string>
-  <string name="seperator_forget_and_foreign">" | "</string>
   <string name="service_error">Pogreška usluge</string>
   <string name="show_password">Prikaži zaporku</string>
   <string name="sim_changed_notification_content">"SIM kartica još nije aktivirana"</string>

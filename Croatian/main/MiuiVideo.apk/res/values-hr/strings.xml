@@ -72,18 +72,18 @@
   <string name="count_ge_media">Videozapisa: %d</string>
   <string name="count_ge_result">Rezultata: %d</string>
   <string name="count_ji_quan">Sve %d Ep.</string>
-  <string name="datastream_alert_download">Preuzimate videozapis preko 2G/3G/4G mreže, što može rezultirati višim troškovima</string>
-  <string name="datastream_alert_hint">Možete podesiti u Postavke -> Aplikacije sustava -> Video, zatvorite savjet</string>
+  <string name="datastream_alert_download">Korištenje vaše mobilne podatkovne veze za preuzimanje videozapisa će povećati uporabu podataka. Ako prekoračite svoje mjesečno ograničenje, vaš davatelj usluga vam može naplatiti dodatne troškove.</string>
+  <string name="datastream_alert_hint">Možete isključiti obavijesti o uporabi podataka u bilo kojem trenutku u Postavkama</string>
   <string name="datastream_alert_negative_button">Odustani</string>
-  <string name="datastream_alert_positive_button">Nastavi</string>
-  <string name="datastream_alert_title">Savjet prometa</string>
+  <string name="datastream_alert_positive_button">Preuzmi</string>
+  <string name="datastream_alert_title">Upozorenje uporabe prometa</string>
   <string name="day">Dan</string>
   <string name="declaration">Uvjeti korištenja</string>
-  <string name="declaration_content">1.Korištenjem ove usluge, pristajete na &lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;&amp;#12298;Uvjeti korištenja&amp;#12299;&lt;/a&gt;"Sohu Video, iQiyi i ostalih pružatelja video sadržaja.
-2.Za poboljšanje iskustva reprodukcije, dio podataka opreme i reprodukcije će biti poslane
-3.Mi ćemo instalirati HD dodatak za vas
-4.Hoće li pristati na spajanje na internet prilikom korištenja videozapisa?"</string>
-  <string name="declaration_content_td_custom">Hoćete li pristati na spajanje na internet, prilikom korištenja Videa?</string>
+  <string name="declaration_content">"1.Korištenjem ove usluge, pristajete na Sohu Video, iQiyi i ostale pružatelje video sadržaja" &lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;Uvjeti Korištenja&lt;/a&gt;".
+2.Pomozite nam poboljšati ovaj proizvod, automatskim slanjem dijagnostičkih i podataka korištenja Xiaomi-u.
+3.Naš HD video dodatak će se automatski instalirati.
+4.Ova usluga treba povezivanje s internetom da funkcionira ispravno."</string>
+  <string name="declaration_content_td_custom">Ova značajka treba povezivanje s internetom da funkcionira ispravno</string>
   <string name="defaults">Zadano</string>
   <string name="delete">Izbriši</string>
   <string name="delete_addon">Izbriši</string>
@@ -177,15 +177,15 @@
   <string name="not_login">Prijavite se</string>
   <string name="nowifi_alert_dialog_continue">Shvaćam</string>
   <string name="nowifi_alert_dialog_exit">Izađi</string>
-  <string name="nowifi_alert_dialog_message">Korištenje vaše mobilne podatkovne veze za streaming videa će povećati upotrebu podataka. Prekoračenja propisane uporabe podataka vašeg operatera više od planiranog može dovesti do velikih dodatnih troškova</string>
+  <string name="nowifi_alert_dialog_message">Korištenje vaše mobilne podatkovne veze za gledanje videa će povećati upotrebu podataka. Ako prekoračite svoje mjesečno ograničenje, vaš davatelj usluga vam može naplatiti dodatne troškove.</string>
   <string name="nowifi_alert_dialog_title">Upozorenje uporabe podataka</string>
   <string name="offline">Izvanmrežno</string>
-  <string name="offline_alert_title">Optimiziranje uporabe podataka</string>
+  <string name="offline_alert_title">Smanjite uporabu podataka</string>
   <string name="offline_alert_wifi">"Kako bi smanjili svoju uporabu podataka, preuzimanja su zaustavljena i nastavit će se kada budete spojeni na WLAN."</string>
   <string name="offline_max_promote">Čekanje na završetak drugih zadataka…</string>
   <string name="offline_media_empty_hint">Prazno</string>
   <string name="offline_no_source">"Ne može se vidjeti u izvanmrežnom načinu"</string>
-  <string name="offline_no_wifi">Niste spojeni na WLAN, izaberite učitavanje u  postavkama mobilne mreže za nastavak.</string>
+  <string name="offline_no_wifi">"Niste spojeni na WLAN.  Za preuzimanje ovog videozapisa, uključite \"Koristi mobilnu podatkovnu vezu\" u Postavkama."</string>
   <string name="offline_setting">Izvanmrežni sadržaj</string>
   <string name="ok">U redu</string>
   <string name="online_video">Internet</string>
@@ -265,10 +265,10 @@
   <string name="updatedalready">Ažurirano</string>
   <string name="upgrade">Nadogradi</string>
   <string name="use_cellular_network">Koristiti mobilnu mrežu</string>
-  <string name="use_cellular_network_summary">Koristi mobilnu mrežu za preuzimanje videozapisa. Može uzrokovati naplatu prometa</string>
-  <string name="use_cellular_play_summary">Prijedlozi kako bi se uštedjeli troškove</string>
-  <string name="use_cellular_play_title">Savjeti emitiranja preko 2G/3G/4G mreže</string>
-  <string name="userdata_alert_content">Korištenje vaše mobilne podatkovne veze za gledanje videa će povećati uporabu podataka. Ako mislite potrošiti više od mjesečnog limita, vaš mobilni operater vam može naplatiti dodatne troškove.</string>
+  <string name="use_cellular_network_summary">Koristiti mobilnu mrežu za gledanje videozapisa. Može uzrokovati naplatu prometa</string>
+  <string name="use_cellular_play_summary">Prikaži obavijest prilikom korištenja mobilne mreže za gledanje ili preuzimanje videozapisa</string>
+  <string name="use_cellular_play_title">Obavijesti uporabe podataka</string>
+  <string name="userdata_alert_content">Korištenje vaše mobilne podatkovne veze za gledanje videozapisa će povećati uporabu podataka. Ako mislite potrošiti više od mjesečnog limita, vaš mobilni operater vam može naplatiti dodatne troškove.</string>
   <string name="userdata_alert_ok">Reproduciraj</string>
   <string name="userdata_alert_title">Upozorenje uporabe podataka</string>
   <string name="video">Videozapis</string>
@@ -293,8 +293,8 @@
   <string name="vp_closedialog">Instaliraj</string>
   <string name="vp_confirm">Instaliraj</string>
   <string name="vp_content_description">Opis</string>
-  <string name="vp_datastream_alert_hint">Možete podesiti u Postavke -> Aplikacije sustava -> Video, zatvorite savjet</string>
-  <string name="vp_datastream_alert_play">Reproducirate videozapis preko 2G/3G/4G mreže, što može dovesti do velikih dodatnih troškova</string>
+  <string name="vp_datastream_alert_hint">Možete isključiti obavijesti o uporabi podataka bilo koje vrijeme u Postavkama.</string>
+  <string name="vp_datastream_alert_play">Korištenje vaše mobilne podatkovne veze za gledanje videa će povećati upotrebu podataka. Ako prekoračite svoje mjesečno ograničenje, vaš davatelj usluga vam može naplatiti dodatne troškove.</string>
   <string name="vp_device_list">Uređaji</string>
   <string name="vp_download_connect_fail">"Ne mogu pronaći URL.Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
   <string name="vp_download_file_fail">"Ne mogu preuzeti datoteku. Pobrinite se da ima dovoljno prostora na unutarnjoj 

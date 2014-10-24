@@ -274,6 +274,9 @@
   <string name="last_checked_date2">Skenirano prije %d dana</string>
   <string name="last_checked_default">Skenirano prije %s dana</string>
   <string name="legal_workday">Praznik</string>
+  <string name="legal_workday_invalidate">Podaci istekli(Trenutno zvoni Pon. do Pet.)</string>
+  <string name="legal_workday_invalidate_message">(Podaci istekli, kliknite za ažuriranje interkonekcije)</string>
+  <string name="legal_workday_message">(Preskoči praznike pametno)</string>
   <string name="memeory_check_content">Apl.: %1$d, Memorija: %2$s</string>
   <string name="menu_item_about_content">Verzija: %s</string>
   <string name="menu_item_about_summary">Verzija: %s</string>

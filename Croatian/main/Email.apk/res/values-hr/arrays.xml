@@ -6,12 +6,12 @@
         <item>Dalje</item>
     </string-array>
     <string-array name="sync_status">
-        <item>Uspjeh</item>
-        <item>Nema veze.</item>
-        <item>Prijava nije bila moguća.</item>
-        <item>Sigurnosna pogreška.</item>
-        <item>Sinkronizacija nije bila moguća.</item>
-        <item>Interna pogreška</item>
+        <item>Sinkr. uspjela</item>
+        <item>Pogreška u mrežnoj vezi.</item>
+        <item>Neuspješna prijava.</item>
+        <item>Pogreška u sigurnosti veze.</item>
+        <item>Neuspješna sinkr.</item>
+        <item>Pogreška poslužitelja.</item>
     </string-array>
     <string-array name="moveto_folder_sections">
         <item>Sustav</item>
@@ -39,11 +39,11 @@
         <item>Prikaži arhiviranje i brisanje</item>
     </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
-        <item>Sićušan tekst</item>
-        <item>Mali tekst</item>
-        <item>Tekst normalne veličine</item>
-        <item>Veliki tekst</item>
-        <item>Ogroman tekst</item>
+        <item>Sićušan</item>
+        <item>Mali</item>
+        <item>Normalne veličine</item>
+        <item>Veliki</item>
+        <item>Ogroman</item>
     </string-array>
 	<string-array name="menu_att_mgr_sort_string_array">
         <item>Nedavno</item>
