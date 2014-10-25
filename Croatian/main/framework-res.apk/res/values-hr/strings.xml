@@ -106,7 +106,7 @@
   <string name="bugreport_title">Izradi izvješće o bugu</string>
   <string name="byteShort">B</string>
   <string name="cancel">Odustani</string>
-  <string name="candidates_style">&lt;u&gt;kandidati&lt;/u&gt;</string>
+  <string name="candidates_style">kandidati</string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">Kako bi sadržaj aplikacije bio pristupačniji, mogu se instalirati skripte.</string>
   <string name="capability_desc_canRequestFilterKeyEvents">Uključuje osobne podatke kao što su brojevi kreditnih kartica i zaporke.</string>
   <string name="capability_desc_canRequestTouchExploration">Dodirnute stavke izgovorit će se naglas, a zaslon se može istraživati pokretima.</string>
@@ -123,7 +123,7 @@
   <string name="cfTemplateForwardedTime">{0}: {1} nakon {2} s</string>
   <string name="cfTemplateNotForwarded">{0}: Nije proslijeđeno</string>
   <string name="cfTemplateRegistered">{0}: Nije proslijeđeno</string>
-  <string name="cfTemplateRegisteredTime">{0}: nije proslijeđeno</string>
+  <string name="cfTemplateRegisteredTime">{0}: Nije proslijeđeno</string>
   <string name="chooseActivity">Odaberi radnju</string>
   <string name="chooseUsbActivity">Odabir aplikacije za USB uređaj</string>
   <string name="choose_account_label">Odaberite račun</string>
@@ -137,7 +137,7 @@
   <string name="content_description_sliding_handle">Klizna ručka. Dodirnite i držite.</string>
   <string name="continue_to_enable_accessibility">Nastavite držati s dva prsta kako biste omogućili pristupačnost.</string>
   <string name="copy">Kopiraj</string>
-  <string name="copyUrl">Kopiraj URL</string>
+  <string name="copyUrl">Kopiraj URL adresu</string>
   <string name="create_contact_using">"Stvori kontakt
 koristeći %s"</string>
   <string name="cut">Izreži</string>
@@ -155,7 +155,7 @@ koristeći %s"</string>
   <string name="data_usage_warning_title">Upozorenje o upotrebi podataka</string>
   <string name="data_usage_wifi_limit_snoozed_title">Prekorač. Wi-Fi ogranič. pod.</string>
   <string name="data_usage_wifi_limit_title">Wi-Fi podaci onemogućeni</string>
-  <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
+  <string name="date_and_time" formatted="false">%-k:%M:%S %-e.%-m.%Y</string>
   <string name="date_picker_decrement_day_button">Smanjenje dana</string>
   <string name="date_picker_decrement_month_button">Smanjenje mjeseca</string>
   <string name="date_picker_decrement_year_button">Smanjenje godine</string>
@@ -163,7 +163,7 @@ koristeći %s"</string>
   <string name="date_picker_increment_day_button">Povećanje dana</string>
   <string name="date_picker_increment_month_button">Povećanje mjeseca</string>
   <string name="date_picker_increment_year_button">Povećanje godine</string>
-  <string name="date_time">%1$s, %2$s</string>
+  <string name="date_time">%2$s %1$s</string>
   <string name="date_time_done">Gotovo</string>
   <string name="date_time_set">Postavi</string>
   <string name="day">dan</string>
@@ -287,7 +287,7 @@ koristeći %s"</string>
   <string name="heavy_weight_notification_detail">Dodirnite da biste se prebacili na aplikaciju</string>
   <string name="heavy_weight_switcher_text">Već se izvodi neka druga aplikacija koja se mora zaustaviti prije pokretanja nove.</string>
   <string name="heavy_weight_switcher_title">Izmijeniti aplikacije?</string>
-  <string name="hour">h</string>
+  <string name="hour">sat</string>
   <string name="hour_ampm" formatted="false">%-l %P</string>
   <string name="hour_cap_ampm" formatted="false">%-l %p</string>
   <string name="hours">h</string>
@@ -369,7 +369,7 @@ Jeste li sigurni da želite napustiti ovu stranicu?"</string>
   <string name="keyguard_accessibility_unlock_area_collapsed">Područje za otključavanje sažeto je.</string>
   <string name="keyguard_accessibility_unlock_area_expanded">Područje za otključavanje prošireno je.</string>
   <string name="keyguard_accessibility_user_selector">Birač korisnika</string>
-  <string name="keyguard_accessibility_widget">%1$s widget.</string>
+  <string name="keyguard_accessibility_widget">Widget %1$s</string>
   <string name="keyguard_accessibility_widget_changed">%1$s. Widget %2$d od %3$d.</string>
   <string name="keyguard_accessibility_widget_deleted">Widget %1$s izbrisan je.</string>
   <string name="keyguard_accessibility_widget_empty_slot">Prazno</string>
@@ -382,7 +382,7 @@ Jeste li sigurni da želite napustiti ovu stranicu?"</string>
   <string name="keyguard_password_enter_pin_prompt">Novi PIN kôd</string>
   <string name="keyguard_password_enter_puk_code">Unesite PUK i novi PIN kôd</string>
   <string name="keyguard_password_enter_puk_prompt">PUK kôd</string>
-  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Dodirnite za tipkanje zaporke&lt;/font&gt;</string>
+  <string name="keyguard_password_entry_touch_hint">Dodirnite za unos zaporke</string>
   <string name="keyguard_password_wrong_pin_code">Netočan PIN kôd.</string>
   <string name="kg_emergency_call_label">Hitan poziv</string>
   <string name="kg_enter_confirm_pin_hint">Potvrdite željeni PIN kôd</string>
@@ -591,7 +591,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="mediasize_japanese_oufuku">Oufuku</string>
   <string name="mediasize_japanese_you4">You4</string>
   <string name="mediasize_na_foolscap">Foolscap</string>
-  <string name="mediasize_na_gvrnmt_letter">Government Letter</string>
+  <string name="mediasize_na_gvrnmt_letter">Veliko slovo</string>
   <string name="mediasize_na_index_3x5">Kartica indeksa 3 x 5</string>
   <string name="mediasize_na_index_4x6">Kartica indeksa 4 x 6</string>
   <string name="mediasize_na_index_5x8">Kartica indeksa 5 x 8</string>
@@ -611,7 +611,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="menu_space_shortcut_label">razmak</string>
   <string name="midnight">ponoć</string>
   <string name="minute">min</string>
-  <string name="minutes">min</string>
+  <string name="minutes">min.</string>
   <string name="mismatchPin">PIN-ovi koje ste unijeli međusobno se ne podudaraju.</string>
   <string name="mmiComplete">MMI dovršen.</string>
   <string name="mmiError">Problem s vezom ili nevažeći MMI kôd.</string>
@@ -1345,7 +1345,7 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="sms_short_code_confirm_deny">Odustani</string>
   <string name="sms_short_code_confirm_message">&lt;b&gt;%1$s&lt;/b&gt; želi poslati poruku na &lt;b&gt;%2$s&lt;/b&gt;.</string>
   <string name="sms_short_code_confirm_never_allow">Ne dopuštaj nikada</string>
-  <string name="sms_short_code_details">Ovo &lt;font fgcolor="#ffffb060"&gt;&amp;#263;e se mo&amp;#382;da napla&amp;#263;ivati&lt;/font&gt; putem va&amp;#353;eg mobilnog ra&amp;#269;una.</string>
+  <string name="sms_short_code_details">Ovo će se možda naplaćivati putem vašeg mobilnog računa.</string>
   <string name="sms_short_code_remember_choice">Zapamti odabir</string>
   <string name="sms_short_code_remember_undo_instruction">Kasnije to možete promijeniti u odjeljku Postavke &gt; Aplikacije</string>
   <string name="smv_application">Aplikacija %1$s (proces %2$s) prekršila je vlastito pravilo StrictMode.</string>
@@ -1453,24 +1453,14 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="webviewchromium_accessibility_time_picker_second">Sekunda</string>
   <string name="webviewchromium_actionbar_share">Dijeli</string>
   <string name="webviewchromium_actionbar_web_search">Pretraživanje weba</string>
-  <string name="webviewchromium_color_picker_button_black">Crna</string>
-  <string name="webviewchromium_color_picker_button_blue">Plava</string>
   <string name="webviewchromium_color_picker_button_cancel">Odustani</string>
-  <string name="webviewchromium_color_picker_button_cyan">Cijan</string>
-  <string name="webviewchromium_color_picker_button_green">Zelena</string>
-  <string name="webviewchromium_color_picker_button_magenta">Magenta</string>
   <string name="webviewchromium_color_picker_button_more">Više</string>
-  <string name="webviewchromium_color_picker_button_red">Crvena</string>
   <string name="webviewchromium_color_picker_button_set">Postavi</string>
-  <string name="webviewchromium_color_picker_button_white">Bijela</string>
-  <string name="webviewchromium_color_picker_button_yellow">Žuta</string>
   <string name="webviewchromium_color_picker_dialog_title">Odabir boje</string>
   <string name="webviewchromium_color_picker_hue">Ton</string>
   <string name="webviewchromium_color_picker_saturation">Zasićenost</string>
   <string name="webviewchromium_color_picker_value">Vrijednost</string>
-  <string name="webviewchromium_copy_to_clipboard_failure_message">Kopiranje nije uspjelo</string>
   <string name="webviewchromium_date_picker_dialog_clear">Izbriši</string>
-  <string name="webviewchromium_date_picker_dialog_other_button_label">Ostalo</string>
   <string name="webviewchromium_date_picker_dialog_set">Postavi</string>
   <string name="webviewchromium_date_picker_dialog_title">Postavljanje datuma</string>
   <string name="webviewchromium_date_time_picker_dialog_title">Postavljanje datuma i vremena</string>
@@ -1478,11 +1468,11 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="webviewchromium_media_player_error_button">U redu</string>
   <string name="webviewchromium_media_player_error_text_invalid_progressive_playback">Videozapis nije valjan za strujanje na ovom uređaju.</string>
   <string name="webviewchromium_media_player_error_text_unknown">Videozapis se ne može reproducirati.</string>
-  <string name="webviewchromium_media_player_error_title">Video se ne može reproducirati</string>
-  <string name="webviewchromium_media_player_loading_video">Učitavanje videa</string>
+  <string name="webviewchromium_media_player_error_title">Videozapis se ne može reproducirati</string>
+  <string name="webviewchromium_media_player_loading_video">Učitavanje videozapisa</string>
   <string name="webviewchromium_month_picker_dialog_title">Postavljanje mjeseca</string>
   <string name="webviewchromium_opening_file_error">Odabrana datoteka nije otvorena</string>
-  <string name="webviewchromium_private_browsing_warning">Ta funkcija nije podržana na ovoj verziji Androida.</string>
+  <string name="webviewchromium_private_browsing_warning">Ta funkcija nije podržana na ovoj verziji Androidaá.</string>
   <string name="webviewchromium_week_picker_dialog_title">Postavljanje tjedna</string>
   <string name="week">tjedan</string>
   <string name="weeks">tjedna</string>

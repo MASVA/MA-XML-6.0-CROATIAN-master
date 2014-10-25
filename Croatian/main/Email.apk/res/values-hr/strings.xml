@@ -194,7 +194,7 @@
   <string name="add_file_attachment">Priloži datoteku</string>
   <string name="add_label">Dodaj mapu</string>
   <string name="add_photo_attachment">Priloži sliku</string>
-  <string name="add_star">Zvjezdica</string>
+  <string name="add_star">Odznači</string>
   <string name="add_video_attachment">Priloži videozapis</string>
   <string name="address_display_format">%1$s, %2$s</string>
   <string name="address_display_format_with_via_domain">%1$s, %2$s putem %3$s</string>
@@ -320,15 +320,15 @@
   <string name="date_message_received">%1$s %2$s</string>
   <string name="date_message_received_today">Danas u %1$s</string>
   <string name="date_message_received_yesterday">Jučer u %1$s</string>
-  <string name="debug_clear_webview_cache">Clear WebView cache</string>
+  <string name="debug_clear_webview_cache">Očisti WebView predmemoriju</string>
   <string name="debug_disable_graphics_acceleration_label">Disable hardware graphics acceleration</string>
-  <string name="debug_enable_debug_logging_label">Enable extra debug logging?</string>
-  <string name="debug_enable_file_logging_label">Enable sd card logging?</string>
-  <string name="debug_enable_strict_mode_label">Enable strict mode (with logging)</string>
-  <string name="debug_enable_verbose_logging_label">Enable extremely verbose logging?</string>
-  <string name="debug_force_one_minute_refresh_label">Force 1-minute refresh for POP/IMAP</string>
+  <string name="debug_enable_debug_logging_label">Omogućiti dodatne zapise ispravljanja grešaka?</string>
+  <string name="debug_enable_file_logging_label">Omogućiti zapise SD kartice?</string>
+  <string name="debug_enable_strict_mode_label">Omogućiti strogi način (s prijavom)</string>
+  <string name="debug_enable_verbose_logging_label">Omogućiti izuzetno verbose zapise?</string>
+  <string name="debug_force_one_minute_refresh_label">Forsiraj 1-minutno osvježavanje za POP/IMAP</string>
   <string name="debug_title">Otklanjanje pogrešaka</string>
-  <string name="default_">DEFAULT</string>
+  <string name="default_">ZADANO</string>
   <string name="default_exchange">EXCHANGE</string>
   <string name="default_imap">IMAP</string>
   <string name="default_pop3">POP3</string>
@@ -526,7 +526,7 @@
   <string name="menu_photo_save_all">Spremi sve</string>
   <string name="menu_photo_share">Dijeli</string>
   <string name="menu_photo_share_all">Dijeli sve</string>
-  <string name="menu_resend_all">Resend all</string>
+  <string name="menu_resend_all">Pošalji sve opet</string>
   <string name="menu_search">Pretraživanje</string>
   <string name="menu_settings">Postavke</string>
   <string name="menu_show_original">Vrati izvornu verziju</string>
@@ -680,7 +680,7 @@ Kopija: %4$s
   <string name="protocol_pop3">pop3</string>
   <string name="provider_note_live">Samo neki računi usluge \"Plus\" uključuju POP pristup koji ovom programu omogućuje povezivanje. Ako se ne možete prijaviti sa svojom ispravnom adresom e-pošte i zaporkom, možda nemate plaćeni račun usluge \"Plus\". Pokrenite web-preglednik kako biste dobili pristup tim računima e-pošte.</string>
   <string name="provider_note_t_online">Prije postavljanja ovog računa e-pošte posjetite web-lokaciju T-Online i stvorite zaporku za POP3 pristup e-pošti.</string>
-  <string name="pull_to_refresh">Povucite dolje za osvježenje</string>
+  <string name="pull_to_refresh">Povucite dolje za osvježiti</string>
   <string name="quick_1">Hvala!</string>
   <string name="quick_2">Izvrsno!</string>
   <string name="quick_3">Pročitat ću to kasnije i javiti vam se.</string>
@@ -690,14 +690,14 @@ Kopija: %4$s
   <string name="quote_begin">&lt;div class=\"citiraj\"&gt;</string>
   <string name="quoted_text">Obuhvati citirani tekst</string>
   <string name="quoted_text_label">Citirani tekst</string>
-  <string name="read_string">razgovor je pročitan</string>
+  <string name="read_string">Razgovor je pročitan</string>
   <string name="recent_folders_heading">Nedavne mape</string>
   <string name="recipient_error_dialog_title">Pogreška primatelja</string>
   <string name="recipient_needed">Dodajte barem 1 primatelja.</string>
   <string name="refresh">Osvježi</string>
   <string name="refreshing">Sinkroniziram…</string>
   <string name="refreshing_done">Završeno</string>
-  <string name="release_to_refresh">Pustite za osvježavanje</string>
+  <string name="release_to_refresh">Pustite za osvježiti</string>
   <string name="remote_folders_heading">Mape poslužitelja</string>
   <string name="remote_search">Sve poruke e-pošte na poslužitelju</string>
   <string name="remote_search_result">%s poruke e-pošte pronađene od svih poruka e-pošte na poslužitelju</string>
@@ -776,12 +776,12 @@ Kopija: %4$s
   <string name="spaceChar">" "</string>
   <string name="status_network_error">"Ne mogu se spojiti na mrežu. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
   <string name="storage">Pohrana</string>
-  <string name="str_select_all">Odabri sve</string>
-  <string name="str_select_none">Poništi odabir za sve</string>
+  <string name="str_select_all">Odaberi sve</string>
+  <string name="str_select_none">Poništi odabir</string>
   <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Predmet</string>
   <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
-  <string name="swipe_down_to_refresh">Prijeđite prstom prema dolje za osvježivanje</string>
+  <string name="swipe_down_to_refresh">Prijeđite prstom prema dolje za osvježiti</string>
   <string name="sync_error">Sinkronizacija nije bila moguća.</string>
   <string name="sync_error_message">Uređaj nema dovoljno prostora za pohranu za sinkronizaciju.</string>
   <string name="system_account_create_failed">Izrada računa nije uspjela. Pokušajte ponovo.</string>
@@ -790,7 +790,7 @@ Kopija: %4$s
   <string name="system_folders_sent_title">Mapa poslanih stavki</string>
   <string name="system_folders_title">Mape sustava</string>
   <string name="system_folders_trash_dlg">Odaberite mapu za otpad poslužitelja</string>
-  <string name="system_folders_trash_summary">Odaberite mapu za otpad poslužitelja</string>
+  <string name="system_folders_trash_summary">Odaberite mapu za otpad s poslužitelja</string>
   <string name="system_folders_trash_title">Mapa za otpad</string>
   <string name="tablet">tablet</string>
   <string name="tap_to_configure">Dodirnite za postavljanje</string>
@@ -812,7 +812,7 @@ Kopija: %4$s
   <string name="turn_auto_sync_on_dialog_confirm_btn">Uključi</string>
   <string name="turn_auto_sync_on_dialog_title">Želite li uključiti automatsku sinkronizaciju?</string>
   <string name="undo">Poništi</string>
-  <string name="unread_string">razgovor nije pročitan</string>
+  <string name="unread_string">Razgovor nije pročitan</string>
   <string name="unsent_messages_in_outbox">Broj neposlanih poruka u mapi %2$s: %1$s</string>
   <string name="updated_at">Zadnje ažuriranje: %1$s</string>
   <string name="updated_just_now">Upravo ažurirano</string>
@@ -824,12 +824,12 @@ Kopija: %4$s
   <string name="via_domain">putem %1$s</string>
   <string name="view_more_conversations">Prikaži više razgovora</string>
   <string name="wait_for_manual_sync_body">"Ovaj račun nije postavljen za automatsku sinkronizaciju.
-Dodirnite "&lt;b&gt;Sinkroniziraj sada&lt;/b&gt; da biste po&amp;#353;tu sinkronizirali jednom ili &lt;b&gt;Promjena sinkronizacije&lt;/b&gt; da biste ovaj ra&amp;#269;un postavili za automatsku sinkronizaciju po&amp;#353;te.</string>
+Dodirnite "&lt;b&gt;Sinkroniziraj sada&lt;/b&gt; da biste poštu sinkronizirali jednom ili &lt;b&gt;Promjena sinkronizacije&lt;/b&gt; da biste ovaj račun postavili za automatsku sinkronizaciju pošte.</string>
   <string name="wait_for_sync_body">Vaša će se e-pošta uskoro pojaviti.</string>
   <string name="wait_for_sync_body_2">Poslužitelj Exchange će se vas upitati za 1-30 sekundi. Potvrdite sigurnosne postavke i aktivirajte svoj ​​poštanski sandučić.</string>
-  <string name="wait_for_sync_body_txt_array_1">Poslužitelj razmjena će vas zatražiti u roku</string>
+  <string name="wait_for_sync_body_txt_array_1">Poslužitelj Exchange će vas zatražiti u roku</string>
   <string name="wait_for_sync_body_txt_array_2">1–30</string>
-  <string name="wait_for_sync_body_txt_array_3">sekundi. Potvrdite sigurnosne postavke i aktivirajte.Obratite pozornost na</string>
+  <string name="wait_for_sync_body_txt_array_3">sekundi. Potvrdite sigurnosne postavke i aktivirajte. Obratite pozornost na</string>
   <string name="wait_for_sync_body_txt_array_4">upozorenja sustava</string>
   <string name="wait_for_sync_body_txt_array_5">.</string>
   <string name="wait_for_sync_note">Dodirnite za dovršetak postavljanja.</string>

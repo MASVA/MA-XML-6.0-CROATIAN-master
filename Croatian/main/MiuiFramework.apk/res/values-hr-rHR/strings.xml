@@ -30,9 +30,9 @@
   <string name="double_seventh_day"/>
   <string name="easter">Uskrs</string>
   <string name="first_back_long_press_message">Dugi pritisak na Natrag će zaustaviti trenutni proces i njegove pozadinske usluge. Za omogućavanje ove funkcije, idite na Postavke &gt; Sustav &gt; Gumbi</string>
-  <string name="fm_record_smaple_prefix_miui">FM snimanje</string>
+  <string name="fm_record_smaple_prefix_miui">FM_Snimanje</string>
   <string name="fools_day">Prvi travnja</string>
-  <string name="force_exit_message">Zatvoreno: \"%1$s</string>
+  <string name="force_exit_message">Uspješno zatvorena aplikacija: \"%1$s</string>
   <string name="force_exit_skip_message">%1$s je aplikacija sustava i ne može biti prekinut.</string>
   <string name="global_actions_airplane_mode">"Način rada u zrakoplovu"</string>
   <string name="global_actions_reboot">"Ponovno pokreni"</string>
@@ -47,7 +47,7 @@
   <string name="group_name_contacts">Kontakti</string>
   <string name="group_name_coworkers">Kolege</string>
   <string name="group_name_family">Rodbina</string>
-  <string name="group_name_friends">Priatelji</string>
+  <string name="group_name_friends">Prijatelji</string>
   <string name="heavy_snow"/>
   <string name="hksar_establishment_day"/>
   <string name="hoar_frost_falls"/>
@@ -104,7 +104,6 @@
   <string name="reboot_confirm_title">Sigurno želite ponovno pokretanje telefona?</string>
   <string name="reboot_progress">Ponovno pokretanje…</string>
   <string name="replace">Zamijeni</string>
-  <string name="resource_select">Odaberi</string>
   <string name="retrocession_day"/>
   <string name="screen_button_disabled_message">Navigacijski gumbi su onemogućeni. Da ih ponovo omogućite, dodirnite gumb \"Početna\" i \"Napajanje\" istovremeno.</string>
   <string name="screen_button_enabled_message">Navigacijski gumbi su omogućeni.</string>
