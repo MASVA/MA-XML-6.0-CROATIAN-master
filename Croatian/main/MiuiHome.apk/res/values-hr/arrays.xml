@@ -1,37 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="widget_sizes">
-        <item>prostor_uredjivanja_pocetnog_zaslona_1_1</item>
-        <item>prostor_uredjivanja_pocetnog_zaslona_1_2</item>
-        <item>prostor_uredjivanja_pocetnog_zaslona_1_3</item>
-        <item>prostor_uredjivanja_pocetnog_zaslona_1_4</item>
-        <item>prostor_uredjivanja_pocetnog_zaslona_2_1</item>
-        <item>prostor_uredjivanja_pocetnog_zaslona_2_2</item>
-        <item>prostor_uredjivanja_pocetnog_zaslona_2_3</item>
-        <item>prostor_uredjivanja_pocetnog_zaslona_2_4</item>
-        <item>prostor_uredjivanja_pocetnog_zaslona_3_1</item>
-        <item>prostor_uredjivanja_pocetnog_zaslona_3_2</item>
-        <item>prostor_uredjivanja_pocetnog_zaslona_3_3</item>
-        <item>prostor_uredjivanja_pocetnog_zaslona_3_4</item>
-        <item>prostor_uredjivanja_pocetnog_zaslona_4_1</item>
-        <item>prostor_uredjivanja_pocetnog_zaslona_4_2</item>
-        <item>prostor_uredjivanja_pocetnog_zaslona_4_3</item>
-        <item>prostor_uredjivanja_pocetnog_zaslona_4_4</item>
-    </string-array>
-    <array name="item_shake_animation_scaler">
-        <item>0.0dip</item>
-        <item>-4.0dip</item>
-        <item>2.0dip</item>
-        <item>-1.0dip</item>
-        <item>0.0dip</item>
-    </array>
-    <array name="app_locating_animation_scaler">
-        <item>1.0</item>
-        <item>1.4</item>
-        <item>0.9</item>
-        <item>1.1</item>
-        <item>1.0</item>
-    </array>
     <string-array name="transformation_entries">
         <item>Klasično klizanje</item>
         <item>Klasično klizanje (bez prebacivanja)</item>
@@ -42,29 +10,11 @@
         <item>Rotacija</item>
         <item>Kocka</item>
     </string-array>
-    <string-array name="transformation_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>5</item>
-        <item>7</item>
-        <item>8</item>
-        <item>4</item>
-    </string-array>
     <string-array name="wallpaper_scroll_entries">
         <item>Zadane postavke teme</item>
         <item>Sredina</item>
         <item>Lijevo</item>
         <item>Desno</item>
-    </string-array>
-    <string-array name="cell_layout_size_entries">
-        <item>4x4</item>
-        <item>4x5</item>
-    </string-array>
-    <string-array name="cell_layout_size_values">
-        <item>4x4</item>
-        <item>4x5</item>
     </string-array>
     <string-array name="gadget_weather_theme_type_entries">
         <item>Zadano</item>
@@ -102,11 +52,5 @@
         <item>Widgeti</item>
         <item>Pozadina</item>
         <item>Efekti</item>
-    </string-array>
-    <string-array name="editing_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
     </string-array>
 </resources> 
