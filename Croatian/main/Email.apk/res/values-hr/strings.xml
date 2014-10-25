@@ -321,7 +321,7 @@
   <string name="date_message_received_today">Danas u %1$s</string>
   <string name="date_message_received_yesterday">Jučer u %1$s</string>
   <string name="debug_clear_webview_cache">Očisti WebView predmemoriju</string>
-  <string name="debug_disable_graphics_acceleration_label">Disable hardware graphics acceleration</string>
+  <string name="debug_disable_graphics_acceleration_label">Onemogući hardversko ubrzanje grafike</string>
   <string name="debug_enable_debug_logging_label">Omogućiti dodatne zapise ispravljanja grešaka?</string>
   <string name="debug_enable_file_logging_label">Omogućiti zapise SD kartice?</string>
   <string name="debug_enable_strict_mode_label">Omogućiti strogi način (s prijavom)</string>
