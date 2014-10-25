@@ -19,12 +19,12 @@
   <string name="add_to_cloud_space_full_message">Cloud album je pun.</string>
   <string name="add_to_cloud_successfully_message">Dodano u Cloud album.</string>
   <string name="add_to_cloud_type_not_support_message">"Ova vrsta datoteke nije podržana"</string>
-  <string name="add_to_cloud_unfinished_message_with_count">Stavaka nije dodano na cloud: %1$s</string>
+  <string name="add_to_cloud_unfinished_message_with_count">Nije dodano na cloud: %1$s</string>
   <string name="add_to_cloud_unknow_reasons">Nepoznata greška</string>
   <string name="add_to_secret_failed_message_with_count">"%2$s stavaka ne može biti dodano u taj. album: %1$s."</string>
   <string name="add_to_secret_successfully_message">Dodano u tajni album</string>
   <string name="add_to_secret_unfinished_message_with_count">Stavaka nije dodano u taj. album: %1$s</string>
-  <string name="adding_recipients">Dodavanje primatelja.…</string>
+  <string name="adding_recipients">Dodavanje primatelja…</string>
   <string name="album_member">Član albuma %s</string>
   <string name="album_name">Naziv albuma</string>
   <string name="album_quota_fulfiled">Previše albuma. Izbrišite neke albume i pokušajte ponovno.</string>
@@ -72,9 +72,8 @@
   <string name="by_sms">SMS</string>
   <string name="camera_connected">Fotoaparat uključen.</string>
   <string name="camera_disconnected">Fotoaparat je isključen.</string>
-  <string name="camera_folder_display_name">Slike Fotoaparata</string>
-  <string name="camera_path">/DCIM/Fotoaparat</string>
-  <string name="camera_setas_wallpaper">Slika pozadine</string>
+  <string name="camera_folder_display_name">Fotoaparat</string>
+  <string name="camera_setas_wallpaper">Pozadine</string>
   <string name="camera_view_none_message">Snimljene fotografije će ovdje biti prikazane.</string>
   <string name="cancel">Odustani</string>
   <string name="cancel_hint">Radnja otkazana</string>
@@ -94,11 +93,10 @@
   <string name="cloud_album_more_settings">Sinkronizraj s Mi Cloud</string>
   <string name="cloud_album_set_create">Novo</string>
   <string name="cloud_album_set_scan_qr_code">QR kod</string>
-  <string name="cloud_albums">Cloud albumi</string>
+  <string name="cloud_albums">Cloud Albumi</string>
   <string name="cloud_be_shared_guide_message">"Pregledajte fotografije svojih prijatelja, i dodajte fotografije u album također."</string>
   <string name="cloud_be_shared_guide_title">Ovaj album je podijelio prijatelj</string>
   <string name="cloud_camera_display_name">Fotografije fotoaparata</string>
-  <string name="cloud_folder_chooser_move">Izbriši slike iz originalnog albuma</string>
   <string name="cloud_gallery_no_pictures">Nema fotografija u MiCloudu</string>
   <string name="cloud_gallery_recyclebin_full">Kanta za smeće u puna,ispraznite koš na i.mi.com.</string>
   <string name="cloud_gallery_space_full">Nema dovoljno prostora u vašem cloudu</string>
@@ -126,7 +124,7 @@ svoj album s bilo kojeg mjesta.
   <string name="comfirm_delete_current_album">Izbrisati ovaj album?</string>
   <string name="comma">, </string>
   <string name="confirm">U redu</string>
-  <string name="confirm_delete">Izbrisati fotografije: %s?</string>
+  <string name="confirm_delete">Izbrisati (%s)?</string>
   <string name="confirm_delete_album" formatted="false">Izbrisati albume: %s (ukupno %s)?</string>
   <string name="confirm_delete_has_cloud_image_video">Izbrisati stavke u cloudu; %s?</string>
   <string name="confirm_delete_has_cloud_local_image_video">Izbrisati stavke u oblaku: %s?</string>
@@ -163,8 +161,8 @@ svoj album s bilo kojeg mjesta.
   <string name="dcim_viva_pics">VIVA</string>
   <string name="defalt_local_mobile">Mobilno</string>
   <string name="delete">Izbriši</string>
-  <string name="delete_file">Izbrisati %1$d datoteke?</string>
-  <string name="delete_files_and_folders">Izbrisati %1$d datoteke i %2$d mape?</string>
+  <string name="delete_file">Izbrisati datoteke (%1$d)?</string>
+  <string name="delete_files_and_folders">Izbrisati datoteke (%1$d) i mape (%2$d)?</string>
   <string name="delete_folder">Izbrisati %1$d datoteku?</string>
   <string name="delete_smb_file_fail">"Ne mogu obrisati SMB datoteku"</string>
   <string name="deleting_files">Brisanje datoteka…</string>
@@ -174,7 +172,7 @@ svoj album s bilo kojeg mjesta.
   <string name="deselect_all">Poniši</string>
   <string name="details">Pojedinosti</string>
   <string name="details_sharer">Podijeljeno od</string>
-  <string name="details_title">%1$d od ukupno stavki: %2$d</string>
+  <string name="details_title">%1$d od ukupno : %2$d</string>
   <string name="device_model">Uređaj</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="documentary">Dokumentarni</string>
@@ -274,7 +272,7 @@ svoj album s bilo kojeg mjesta.
   <string name="initial_cloud_text">Pohranite i pregledajte vaše slike s bilo kojeg mjesta.</string>
   <string name="initializing_cloud">Pokretanje…</string>
   <string name="input_cloudfolder_name">Naziv mape</string>
-  <string name="internal_camera_folder_display_name">Fotografije Unutarnje kamere</string>
+  <string name="internal_camera_folder_display_name">Unutarnje fotografije</string>
   <string name="internal_miui_capture_screen_folder_display_name">Unutarnje slike zaslona</string>
   <string name="internal_sd_card">Unutarnja pohrana</string>
   <string name="internal_sd_card_hm">Pohrana telefona</string>
@@ -338,8 +336,7 @@ svoj album s bilo kojeg mjesta.
   <string name="must_pick_file">Odaberi sliku</string>
   <string name="negative">Negativan</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
-  <string name="new_device_tips">"Dodirnite za prikaz 
-uređaja"</string>
+  <string name="new_device_tips">"Dodirnite za prikaz uređaja"</string>
   <string name="no">Ne</string>
   <string name="no_albums_alert">Nema dostupnih albuma.</string>
   <string name="no_connectivity">"Neke lokacije nisu mogle biti identificirane zbog poteškoća s mrežom."</string>
@@ -476,7 +473,8 @@ uređaja"</string>
   <string name="set_screensaver_path_title">Dijaprojekcija čuvara zaslona</string>
   <string name="set_wallpaper">Postavljanje slike pozadine…</string>
   <string name="settings">Postavke</string>
-  <string name="settings_i_xiaomi_com">Pohranite i pregledajte slike u vašem cloud na i.mi.com</string>
+  <string name="settings_i_xiaomi_com">Pohranite i pregledajte slike u vašem 
+cloudu na i.mi.com</string>
   <string name="shadow">Sjenčanje</string>
   <string name="share_album">Podijeli album</string>
   <string name="share_album_owner">Vlasnik</string>
@@ -495,7 +493,7 @@ uređaja"</string>
   <string name="show_videos_only">Samo videozapisi</string>
   <string name="sina_weibo_save">Weibo</string>
   <string name="size_above">%1$s ili više</string>
-  <string name="size_below">%1$s ili niže</string>
+  <string name="size_below">%1$s ili manje</string>
   <string name="size_between">%1$s do %2$s</string>
   <string name="skip_hide_special_album">"Ne mogu sakriti albume sustava (npr. Fotoaparat, Snimke zaslona)"</string>
   <string name="slideshow">Dijaprojekcija</string>
@@ -535,6 +533,7 @@ uređaja"</string>
   <string name="there_is_no_image">Nema slika u ovoj mapi</string>
   <string name="tieba">Tie Ba</string>
   <string name="time">Vrijeme</string>
+  <string name="time_line_view">Kronologija</string>
   <string name="times">Vremena</string>
   <string name="tint">Svijetlija nijansa</string>
   <string name="title">Naslov</string>
@@ -550,7 +549,7 @@ uređaja"</string>
   <string name="ucdownloads_screenshot">UC Preglednik</string>
   <string name="unit_mm">mm</string>
   <string name="unpublish_failed">"Ne mogu poništiti objavljivanje"</string>
-  <string name="unpublish_succeeded">Album neobjavljen!</string>
+  <string name="unpublish_succeeded">Album nije objavljen!</string>
   <string name="unpublishing">Otkazivanje…</string>
   <string name="untagged">Neoznačeno</string>
   <string name="user_alias_self">Sam</string>
