@@ -58,12 +58,6 @@
         <item>Lijevo</item>
         <item>Desno</item>
     </string-array>
-    <string-array name="wallpaper_scroll_values">
-        <item>ovisno o temi</item>
-        <item>sredina</item>
-        <item>lijevo</item>
-        <item>desno</item>
-    </string-array>
     <string-array name="cell_layout_size_entries">
         <item>4x4</item>
         <item>4x5</item>
