@@ -272,7 +272,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg davatelja mobilnih
   <string name="tips_message">"Ako su vam nejasni detalji Vašeg bežičnog plana, možete ih pogledati pozivom na %2$s (%1$s) (Samo Kina)"</string>
   <string name="traffic_config_alert_body">"Prema vašem operateru, vaše mjesečno ograničenje uporabe podataka je %s.
 Koristiti ovaj broj za postavljanje vašeg mjesečnog ograničenja uporabe podataka?"</string>
-  <string name="traffic_config_alert_body_leisure">"Prema vašem operateru, vaš mjesečni maks. ograničenja uporabe podataka je %s.
+  <string name="traffic_config_alert_body_leisure">"Prema vašem operateru, vaš mjesečni maks. ograničenja uporabe podataka je %1$s.
 To se razlikuje od %2$s ograničenja što ste podesili ručno."</string>
   <string name="traffic_config_alert_body_leisure_notset">"
 Prema vašem operateru još imate %s preostalih podataka do maksimuma. Niste postavili ograničenje maks. podataka."</string>
