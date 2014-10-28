@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Settings_title_anti_spam">Antispam Postavke</string>
+  <string name="Settings_title_anti_spam">Postavke liste blokiranih</string>
   <string name="Settings_title_anti_virus">Postavke AntiVirusa</string>
-  <string name="Settings_title_garbage_cleanup">Postavke čišćenja smeća</string>
-  <string name="Settings_title_network_assistants">Postavke suradnika mreže</string>
-  <string name="Settings_title_power_center">Postavke napajanja</string>
+  <string name="Settings_title_garbage_cleanup">Postavke Čištaća</string>
+  <string name="Settings_title_network_assistants">Postavke uporabe podataka</string>
+  <string name="Settings_title_power_center">Postavke baterije</string>
   <string name="activity_title_ad">Reklama</string>
   <string name="activity_title_antispam">AntiSpam</string>
   <string name="activity_title_antivirus">AntiVirus</string>
@@ -274,9 +274,9 @@
   <string name="last_checked_date2">Skenirano prije %d dana</string>
   <string name="last_checked_default">Skenirano prije %s dana</string>
   <string name="legal_workday">Praznik</string>
-  <string name="legal_workday_invalidate">Podaci istekli(Trenutno zvoni Pon. do Pet.)</string>
-  <string name="legal_workday_invalidate_message">(Podaci istekli, kliknite za ažuriranje interkonekcije)</string>
-  <string name="legal_workday_message">(Preskoči praznike pametno)</string>
+  <string name="legal_workday_invalidate">Pon.-Pet.(Informacije o praznicima istekli)</string>
+  <string name="legal_workday_invalidate_message">Dodirnite za ažuriranje informacija o praznicima</string>
+  <string name="legal_workday_message">(Preskoči praznike)</string>
   <string name="memeory_check_content">Apl.: %1$d, Memorija: %2$s</string>
   <string name="menu_item_about_content">Verzija: %s</string>
   <string name="menu_item_about_summary">Verzija: %s</string>

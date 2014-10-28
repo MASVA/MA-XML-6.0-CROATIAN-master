@@ -141,6 +141,8 @@
     <string name="organization">Organizacija</string>
     <string name="perm_payment_dspt">Dopustiti aplikaciji plaćanje preko Mi Usluge plaćanja</string>
     <string name="perm_payment_lab">Mi Usluge plaćanja</string>
+    <string name="permdesc_sendSmsNoConfirmation">Dopušta aplikaciji slanje SMS poruka. To može dovesti do neočekivanih troškova. Zlonamjerne aplikacije mogu vas napraviti dodatne troškove slanjem poruka bez vaše potvrde.</string>
+    <string name="permlab_sendSmsNoConfirmation">Slanje SMS poruka bez potvrde</string>
     <string name="phone">Telefon</string>
     <string name="pm">PM</string>
     <string name="privacy_policy">Pravila o Privatnosti</string>

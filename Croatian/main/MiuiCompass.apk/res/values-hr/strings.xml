@@ -5,6 +5,7 @@
   <string name="altitude_unit">m</string>
   <string name="app_label">Kompas</string>
   <string name="calibrate_altitude">Kalibriranje…</string>
+  <string name="calibrate_failed">Ne mogu kalibrirati visinu</string>
   <string name="calibrate_failed_no_location">"Ne mogu kalibrirati"</string>
   <string name="calibrate_failed_timeout">"Ne mogu se povezati na poslužitelj"</string>
   <string name="calibrate_success">Kalibriranje završeno</string>
@@ -39,4 +40,8 @@
   <string name="pressure">%.1f</string>
   <string name="pressure_title">Tlak</string>
   <string name="pressure_unit">hPa</string>
+  <string name="using_camera_confirm_cancel">Izlaz</string>
+  <string name="using_camera_confirm_message">Koristiti će se kamera uređaja za tijekom korištenja aplikacije Kompas.</string>
+  <string name="using_camera_confirm_ok">Slažem se i nastavi</string>
+  <string name="using_camera_confirm_title">Uvjeti i Sporazumi</string>
 </resources>

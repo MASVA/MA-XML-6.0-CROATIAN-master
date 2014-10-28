@@ -10,7 +10,7 @@
   <string name="input_method_setting">Odaberite zadanu tipkovnicu</string>
   <string name="locale_picker_desc">"Ako želite kasnije promijeniti vašu zemlju, morat ćete obaviti vraćanje uređaja na tvorničko stanje"</string>
   <string name="locale_picker_title">Odaberite Vašu zemlju</string>
-  <string name="logo_congratulation">"Bravo. Sve ste postavili!"</string>
+  <string name="logo_congratulation">"Čestitamo. Sve ste postavili!"</string>
   <string name="miui_privacy_policy_no_network">Nema mrežne veze. Pogledajte Pravila o privatnosti na %s</string>
   <string name="miui_terms_no_network">Nema mrežne veze. Pogledajte Uvjete pružanja usluge na %s</string>
   <string name="multisim_settings_category">Postavke poželjne SIM kartice</string>

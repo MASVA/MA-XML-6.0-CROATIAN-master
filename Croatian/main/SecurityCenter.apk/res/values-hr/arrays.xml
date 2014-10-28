@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="cache_sort_type">
+        <item>Veličina</item>
+        <item>Naziv</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>Veličina</item>
+        <item>Naziv</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>Često korišteno</item>
+        <item>Veličina</item>
+    </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Nakon 1 minute</item>
         <item>Nakon 5 minuta</item>

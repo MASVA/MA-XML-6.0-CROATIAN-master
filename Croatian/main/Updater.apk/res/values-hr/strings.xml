@@ -60,7 +60,7 @@
   <string name="fourgrid_hint_text">Hvala vam na korištenju razvojne MIUI verzije! Kažite nam svoje mišljenje i pomozite nam da MIUI bude još bolji.</string>
   <string name="fourgrid_no_notificaiont">"Ne prikazuj u statusnoj traci"</string>
   <string name="fourgrid_notificaiont">Prikaži u statusnoj traci</string>
-  <string name="get_auto">Nabavite Autom. način</string>
+  <string name="get_auto">Koristi mobilnu mrežu ili WLAN</string>
   <string name="get_current">Nabavite trenutni</string>
   <string name="get_update_error">Dohvaćanje informacija o ažuriranju nije uspjelo.</string>
   <string name="go_on_download">Nastavi</string>
@@ -95,6 +95,10 @@
   <string name="no_wifi_msg">"Više niste povezani s WLAN-om. Nastavljajući sa preuzimanjem preko mobilne podatkovne veze će povećati uporabu podataka."</string>
   <string name="no_wifi_title">Upozorenje uporabe podataka</string>
   <string name="notification_downloading">Preuzimanje ažuriranja…</string>
+  <string name="notification_load_body_alpha">Prijavite se vašim Mi Računom da biste ažurirali svoj ​​uređaj.</string>
+  <string name="notification_load_body_dev">"Prijavite se vašim Mi Računom kako bi bili sigurni da dobivate odgovarajuća ažuriranja."</string>
+  <string name="notification_load_title_alpha">Prijavite se u vaš Mi Račun</string>
+  <string name="notification_load_title_dev">Prijavite se u vaš Mi Račun</string>
   <string name="notification_new_version">Ažuriraj na %s</string>
   <string name="notification_reboot_btn">Ponovno pokreni</string>
   <string name="notification_reboot_des">Ponovno pokrenite da biste ažurirali na %s.</string>
@@ -114,14 +118,14 @@
   <string name="reboot">Ponovno pokreni</string>
   <string name="reboot_to_new_system">Ponovno pokreni u novu verziju</string>
   <string name="repeat">Pokušaj ponovo</string>
-  <string name="set_auto">Podesi Autom. način</string>
+  <string name="set_auto">Provjeri ima li ažuriranja automatski</string>
   <string name="set_installfail_full_msg">"Ne mogu ažurirati u ovom trenutku. Dodirnite \"U redu\" kako bi prijavili ovu pogrešku našim inženjerima."</string>
   <string name="set_installfail_msg">Preuzimanje ovog ažuriranja preko mobilne podatkovne veze će povećati uporabu podataka.</string>
   <string name="set_installfail_title">Pokušati ponovno preuzeti ažuriranja?</string>
   <string name="set_installfail_title_full">Ažuriranje nije uspjelo</string>
   <string name="set_network_msg">Poveži se s WLAN mrežom prije preuzimanja ovog ažuriranja.</string>
   <string name="set_network_title">Poveži se na mrežu</string>
-  <string name="set_only_wifi">Postavi Samo WLAN Provjera</string>
+  <string name="set_only_wifi">Koristi samo WLAN</string>
   <string name="share">Podijeli</string>
   <string name="share_qq">Objavi preko Tencent Weibo</string>
   <string name="share_sina">Objavi preko Sina Weibo</string>
@@ -155,6 +159,7 @@
   <string name="update_feedback_end_sum">Možete se pridružiti svakog utorka.</string>
   <string name="update_feedback_expired">"Propustili ste ovu priliku da kažete svoje mišljenje.
 Ali možete sudjelovati sljedeći utorak"</string>
+  <string name="update_feedback_need_update">Trenutno ne koristite najnoviju razvojnu verziju, nadogradite na najnoviju razvojnu verziju prije glasovanja</string>
   <string name="update_feel">Što vi mislite?</string>
   <string name="update_general">Tako-tako</string>
   <string name="update_happy">Super!</string>
@@ -163,6 +168,8 @@ Ali možete sudjelovati sljedeći utorak"</string>
   <string name="update_success">Ažuriranje završeno! :)</string>
   <string name="update_success_body">Verzija: %s</string>
   <string name="update_success_title">Uređaj je ažuriran</string>
+  <string name="updater_nolog">Nema zapisnika</string>
+  <string name="updater_nonetwork">Povežite se na mrežu kako bi dobili zapisnik</string>
   <string name="upgrade_close">Zatvori</string>
   <string name="upgrade_kernel">Trenutan kernel zahtjeva ažuriranje</string>
   <string name="upgrade_kernel_msg">"Trenutna verzija kernela ne odgovara MIUI ROM-u. Morate nadograditi kernel ručno. Pogledajte Xiaomi postupak nadogradnje: 

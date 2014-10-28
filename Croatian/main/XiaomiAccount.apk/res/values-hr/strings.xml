@@ -106,8 +106,7 @@
   <string name="bind_sns_description">Dovršite svoj ​​profil koristeći osobne informacije kroz %s.</string>
   <string name="bind_weibo_description">"Pronađi kontakte telefona i prijatelje pomoću Wiebo</string>
   <string name="binded">Račun dodan</string>
-  <string name="binded_description" formatted="false">"%s je uspješno povezan.
-Dovršite svoj ​​profil koristeći osobne informacije kroz %s."</string>
+  <string name="binded_description" formatted="false">%s je dodan na vaš Mi Račun. Vaš profil je ažuriran sa informacijama iz vašeg %s Račun.</string>
   <string name="btn_activate">Aktiviraj</string>
   <string name="btn_return">Natrag</string>
   <string name="button_cancel">Odustani</string>
@@ -124,7 +123,7 @@ Dovršite svoj ​​profil koristeći osobne informacije kroz %s."</string>
   <string name="cloud_service_dspt">Sinkronizirajte vaše fotografije, kontakte, bilješke, aplikacije i više između svih vaših uređaja.</string>
   <string name="completed">Završeno</string>
   <string name="confirm">U redu</string>
-  <string name="confirm_unbind">Potvrditi rastavljanje?</string>
+  <string name="confirm_unbind">Ukloniti ovaj račun?</string>
   <string name="data_keep_in_device">Zadrži podatke na ovom uređaju</string>
   <string name="data_wipe_from_device">Izbriši iz ovog uređaja</string>
   <string name="dirty_contacts_count">Kontakata: %d</string>
@@ -151,7 +150,7 @@ Dovršite svoj ​​profil koristeći osobne informacije kroz %s."</string>
   <string name="error_user_name">Nevažeće korisničko ime</string>
   <string name="error_verify_code">Kôd koji ste unijeli nije točan</string>
   <string name="facebook">Facebook</string>
-  <string name="failed_get_mibi_info">Nije uspjelo dobivanje Mi Kredita</string>
+  <string name="failed_get_mibi_info">"Ne mogu dobiti stanje"</string>
   <string name="failed_to_send_activate_email">"Ne mogu poslati aktivacijsku e-poštu"</string>
   <string name="find_device_dspt">Zaključajte ili obrišite ovaj uređaj na daljinu.</string>
   <string name="find_password_on_web_msg">Molimo vas da posjetite account.xiaomi.com za resetiranje svoje zaporke</string>
@@ -306,8 +305,8 @@ Da biste aktivirali vaš račun, slijedite
   <string name="trust_device">Vjerujte ovom uređaju</string>
   <string name="unactivated_user">Još malo…</string>
   <string name="unbind">Odjava</string>
-  <string name="unbind_sns_description">Nakon rastavljanja, nećete se prijaviti u vaš Mi Račun pomoću %s</string>
-  <string name="unbind_weibo_description">Nakon rastavljanja, nećete sinkronizirati vaše kontakte, a također se nećete prijaviti u vaš Mi račun koristeći Sina Weibo</string>
+  <string name="unbind_sns_description">Nakon što uklonite ovaj račun, nećete biti u mogućnosti koristiti informacije vašeg %s Račun, za prijavu u vaš Mi Račun."</string>
+  <string name="unbind_weibo_description">Nakon što uklonite ovaj račun, nećete biti u mogućnosti sinkronizirati vaše kontakte iz Weibo, ili koristiti Sina Weibo Račun za prijavu."</string>
   <string name="update_contacts">Ažuriranje imenika</string>
   <string name="update_contacts_description">Neka Sina Weibo koristi vaš Mi Račun za sinkronizaciju informacija kontakta između platformi.</string>
   <string name="updated_contacts">Ažurirano %s kontakata</string>

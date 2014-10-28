@@ -462,6 +462,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="msim_sim_lock">Zaključano</string>
   <string name="msim_sim_radio_off">Isključeno</string>
   <string name="msim_switch_data_conn_toast">Postavke mreže su promijenjene da je preferirana 4G mreža. Možete promijeniti tu postavku u postavkama SIM kartice.</string>
+  <string name="msim_switch_data_conn_toast_for_h2xct">SIM utor 2 podržava samo GSM mreže. Poželjna vrsta mreža za ovaj utor je promijenjen na \"Samo 2G mreža\".</string>
   <string name="multi_category_disable">Onemogućena je višestruka kategorija</string>
   <string name="multi_category_enable">Omogućena je višestruka kategorija</string>
   <string name="name">Ime</string>

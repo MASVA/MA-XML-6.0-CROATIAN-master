@@ -262,8 +262,8 @@
   <string name="mx_enable_popup_msg">Besplatno šaljite i primajte poruke s drugim korisnicima koji koriste ovu značajku.</string>
   <string name="mx_msg">Mi Poruke</string>
   <string name="mx_offline">Bez mreže</string>
-  <string name="mx_on_sim_1">Mi Poruke sa SIM utora %s</string>
-  <string name="mx_on_sim_2">Mi Poruke sa SIM utora %s</string>
+  <string name="mx_on_sim_1">Mi Poruke sa SIM utora 1</string>
+  <string name="mx_on_sim_2">Mi Poruke sa SIM utora 2</string>
   <string name="mx_online">Mrežno</string>
   <string name="mx_reactivate">Ponovno aktivirajte Mi Poruke</string>
   <string name="mx_recommend_msg">Dodirnite da uključite Mi Poruke</string>

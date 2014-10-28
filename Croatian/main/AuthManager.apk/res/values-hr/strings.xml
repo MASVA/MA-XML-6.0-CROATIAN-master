@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Dashboard_App">Aplik.</string>
-  <string name="Dashboard_HIPS_Disable_Content">"Onemogućavanje će učiniti da MIUI prestane nadzirati zahtjeve aplikacija i više neće štititi vašu sigurnost i privatnost.
-Sigurno to želite onemogućiti?"</string>
+  <string name="Dashboard_HIPS_Disable_Content">"MIUI neće nadzirati zahtjeve dopuštenja aplikacija"</string>
   <string name="Dashboard_HIPS_Disable_Title">Dopuštenja</string>
   <string name="Dashboard_Log">Zapisi</string>
   <string name="Dashboard_Log_Clear_Content">Svi zapisi će biti izbrisani.</string>
@@ -23,17 +22,14 @@ Sigurno to želite onemogućiti?"</string>
   <string name="Dashboard_Perm_SU_Desc">Nadgledanje %1$d aplikacija za ROOT dopuštenja</string>
   <string name="Dashboard_Perm_SU_Disabled">ROOT dopuštenje onemogućeno</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT dopuštenje nije dostupno u stabilnim MIUI verzijama</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Odobravanje ROOT pristupa stranim aplikacijama može uzrokovati nestabilnost sustava, gubitak korisničkih podataka ili čak i oštećenje hardvera.
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Odobravanje ROOT dopuštenja stranim aplikacijama može uzrokovati nestabilnost sustava, gubitak korisničkih podataka ili čak i oštećenje hardvera.
 
 Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Preuzmi MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/getrom.php</string>
   <string name="Dashboard_Perm_SU_Switch">ROOT Dopuštenja</string>
-  <string name="Dashboard_Su_Enable_Content">"Uključivanje će omogućiti aplikacijama zahtjev za ROOT dopuštenja.
-  Napomena: Aplikacije s dopuštenjem mogu uzrokovati nestabilnost sustava, pa čak i gubitak osobnih podataka, sustava ili oštećenja hardvera, budite oprezni. 
-  Jeste li sigurni da želite to omogućiti?
-  </string>
-  <string name="Dashboard_Su_Enable_Title">ROOT Dopuštenja</string>
+  <string name="Dashboard_Su_Enable_Content">"Odobravanje ROOT pristupa stranim aplikacijama može uzrokovati nestabilnost sustava, gubitak korisničkih podataka pa čak i oštećenja hardvera.</string>
+  <string name="Dashboard_Su_Enable_Title">Upozorenje ROOT pristupa</string>
   <string name="Generic_Canceling">Otkazivanje…</string>
   <string name="Generic_Check">Provjera</string>
   <string name="Generic_Clean">Očistiti</string>
@@ -72,7 +68,7 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="HIPS_Group_Location">Lokacija</string>
   <string name="HIPS_Group_PIM">Osobne informacije</string>
   <string name="HIPS_Group_PhoneID">Uređaj</string>
-  <string name="HIPS_Group_ROOT">ROOT</string>
+  <string name="HIPS_Group_ROOT">ROOT pristup</string>
   <string name="HIPS_Perm_AdjustRingerVolume">Aplikacija može podešavati glasnoću zvona</string>
   <string name="HIPS_Perm_AdjustVolumeInCall">Aplikacija može podešavati glasnoću poziva</string>
   <string name="HIPS_Perm_AllowAll">Dopustiti sve</string>
@@ -100,8 +96,8 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="HIPS_Perm_CallState">Stanje telefona</string>
   <string name="HIPS_Perm_CallState_Desc">Dopustiti aplikaciji pogledati vaš status poziva (npr. dolazno, zauzeto)</string>
   <string name="HIPS_Perm_CallState_Hint">%1$s aplikacija može pogledati vaš status poziva</string>
-  <string name="HIPS_Perm_Call_Desc">Dopustiti aplikaciji zvanje, odgovor i prekidanje poziva</string>
-  <string name="HIPS_Perm_Call_Hint">%1$s aplikacija može zvati, odgovoriti i prekidati pozive</string>
+  <string name="HIPS_Perm_Call_Desc">Dopustiti aplikaciji upućivanje poziva</string>
+  <string name="HIPS_Perm_Call_Hint">%1$s aplikacija može upućivati pozive</string>
   <string name="HIPS_Perm_Call_Number">Poziv %1$s</string>
   <string name="HIPS_Perm_CancelMissedCalls">Aplikacija može izbrisati propuštene pozive</string>
   <string name="HIPS_Perm_Contact">Kontakti</string>
@@ -154,10 +150,10 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="HIPS_Perm_PhoneID_IMSI">"Aplikacija može dobiti IMSI broj uređaja"</string>
   <string name="HIPS_Perm_PhoneID_Number">"Aplikacija može dobiti ID broj uređaja"</string>
   <string name="HIPS_Perm_PromptAll">Pitaj sve</string>
-  <string name="HIPS_Perm_ROOT">ROOT</string>
-  <string name="HIPS_Perm_ROOT_Desc">Aplikacija može dobiti ROOT Dopuštenje</string>
-  <string name="HIPS_Perm_ROOT_Hint">%1$s aplikacija može dobiti ROOT Dopuštenje</string>
-  <string name="HIPS_Perm_ROOT_Title">Aplikacija može dobiti ROOT Dopuštenje</string>
+  <string name="HIPS_Perm_ROOT">ROOT pristup</string>
+  <string name="HIPS_Perm_ROOT_Desc">Aplikacija može dobiti ROOT pristup</string>
+  <string name="HIPS_Perm_ROOT_Hint">%1$s aplikacija ima ROOT pristup</string>
+  <string name="HIPS_Perm_ROOT_Title">Aplikacija ima ROOT pristup</string>
   <string name="HIPS_Perm_Recorder_Audio">Aplikacija može snimati zvuk</string>
   <string name="HIPS_Perm_Recorder_AudioVideo">Aplikacija može snimati zvuk i video</string>
   <string name="HIPS_Perm_Recorder_Camera">Aplikacija može snimati fotografije</string>
@@ -166,8 +162,8 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="HIPS_Perm_RejectAll">Odbij sve</string>
   <string name="HIPS_Perm_SMS">SMS</string>
   <string name="HIPS_Perm_SMS_Access">Aplikacija može pristupiti vašim SMS podacima</string>
-  <string name="HIPS_Perm_SMS_Desc">Aplikacija može vidjeti vaše SMS poruke</string>
-  <string name="HIPS_Perm_SMS_Hint">%1$s aplikacija može vidjeti vaše SMS poruke</string>
+  <string name="HIPS_Perm_SMS_Desc">Aplikacija može vidjeti vaše SMS i MMS poruke</string>
+  <string name="HIPS_Perm_SMS_Hint">%1$s aplikacija može vidjeti vaše SMS i MMS poruke</string>
   <string name="HIPS_Perm_SendMMS">Pošalji MMS</string>
   <string name="HIPS_Perm_SendMMS_Desc">Dopušta aplikaciji slanje MMS-a</string>
   <string name="HIPS_Perm_SendMMS_Hint">%1$s aplikacija može poslati MMS</string>
@@ -225,8 +221,8 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="Privacy_App_Trust">Pitaj za dopuštenje</string>
   <string name="Privacy_App_TrustDialog_Content">"Nećete biti upitani za dopuštenje kada ova aplikacija pristupa drugim dijelovima sustava."</string>
   <string name="Privacy_App_TrustDialog_Title">Dopuštenja aplikacija</string>
-  <string name="Privacy_App_Trust_Summary_Off">Pitaj kada ova aplikacija pokušava pristupiti drugim dijelovima sustava</string>
-  <string name="Privacy_App_Trust_Summary_On">Pitaj kada ova aplikacija pokušava pristupiti drugim dijelovima sustava</string>
+  <string name="Privacy_App_Trust_Summary_Off">Prikaži obavijest kada ova aplikacija pokušava pristupiti drugim dijelovima sustava</string>
+  <string name="Privacy_App_Trust_Summary_On">Prikaži obavijest kada ova aplikacija pokušava pristupiti drugim dijelovima sustava</string>
   <string name="Privacy_App_Uninstall">Deinstaliraj</string>
   <string name="Privacy_Perm_Count">Dopušteno: %1$d Odbijeno: %2$d</string>
   <string name="Su_Enable_Dialog">%1$s traži ROOT pristup.</string>
@@ -236,5 +232,5 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="SysOpt_Boost_AutoStart_Group">Automatsko pokretanje</string>
   <string name="SysOpt_Boost_Boot">Pokretanje</string>
   <string name="SysOpt_Boost_Receiver">Pozadina</string>
-  <string name="app_name">Dopuštenja</string>
+  <string name="app_name">Upravitelj Dopuštenja</string>
 </resources>

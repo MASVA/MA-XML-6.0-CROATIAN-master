@@ -513,7 +513,7 @@ cloudu na i.mi.com</string>
   <string name="sync_album">Sinkr. albume</string>
   <string name="sync_album_error">"Ne mogu sinkronizirati fotografije u ovom albumu. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
   <string name="sync_album_in_proecess">Sinkronizacija albuma…</string>
-  <string name="sync_album_set_error">Ne mogu sinkronizirati ove albume. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
+  <string name="sync_album_set_error">Ne mogu sinkronizirati fotografije. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
   <string name="sync_album_summary">Učitajte svoje fotografije na vaš Cloud</string>
   <string name="sync_history_power_on">Sinkroniziraj povijest slika samo tijekom punjenja</string>
   <string name="sync_in_progress_message">Sinkronizacija…</string>

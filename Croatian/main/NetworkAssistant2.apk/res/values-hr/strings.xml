@@ -43,7 +43,7 @@ Korištenje više od planiranog ograničenja podataka vašeg davatelja usluga mo
   <string name="datausage_purchase_banner_title">%s ponuda nadoplate (ekskluzivno)</string>
   <string name="datausage_purchase_buy">Kupi</string>
   <string name="datausage_purchase_confirm_tip">Vaša narudžba:</string>
-  <string name="datausage_purchase_get_captcha">Dobivanje koda za provjeru(%d)</string>
+  <string name="datausage_purchase_get_captcha">Dobivanje koda (%d)</string>
   <string name="datausage_purchase_get_captcha_again">Pošalji novi kod</string>
   <string name="datausage_purchase_get_captcha_failed">"Nije bilo moguće dobiti kod za provjeru. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
   <string name="datausage_purchase_goto_monthsetting">Uredi detalje paketa</string>
@@ -228,6 +228,8 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg davatelja mobilnih
   <string name="read_number">86 predmeta</string>
   <string name="read_unit">" predmeta"</string>
   <string name="right_precent">100%</string>
+  <string name="sc_allow_network_dialog_message">Morate dopustiti aplikaciji povezivanje na internet da funkcionira normalno.</string>
+  <string name="sc_allow_network_dialog_tiltle">"Ne mogu koristiti Uštedu podataka"</string>
   <string name="setting_traffic_pkg">Podesite paket podataka</string>
   <string name="settings">Postavke uporabe podataka</string>
   <string name="songs_number">18 pjesama</string>
@@ -268,9 +270,10 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg davatelja mobilnih
   <string name="text_day">". dan"</string>
   <string name="tips_dialog_title">"Ne znate svoje ograničenje?"</string>
   <string name="tips_message">"Ako su vam nejasni detalji Vašeg bežičnog plana, možete ih pogledati pozivom na %2$s (%1$s) (Samo Kina)"</string>
-  <string name="traffic_config_alert_body">"Prema vašem operateru iskoristili ste %s podataka.
-Ažurirati detalje uporabe podataka?"</string>
-  <string name="traffic_config_alert_body_leisure">"Prema vašem operateru iskoristili ste %1$s od vašeg maks. podataka ovog mjeseca, a to se razlikuje od %2$s što ste podesili ručno."</string>
+  <string name="traffic_config_alert_body">"Prema vašem operateru, vaše mjesečno ograničenje uporabe podataka je %s.
+Koristiti ovaj broj za postavljanje vašeg mjesečnog ograničenja uporabe podataka?"</string>
+  <string name="traffic_config_alert_body_leisure">"Prema vašem operateru, vaš mjesečni maks. ograničenja uporabe podataka je %s.
+To se razlikuje od %2$s ograničenja što ste podesili ručno."</string>
   <string name="traffic_config_alert_body_leisure_notset">"
 Prema vašem operateru još imate %s preostalih podataka do maksimuma. Niste postavili ograničenje maks. podataka."</string>
   <string name="traffic_config_alert_body_normal">"

@@ -98,7 +98,7 @@
   <string name="dlg_remove_address_whitelist">Ukloniti ovu lokaciju iz iznimaka?</string>
   <string name="dlg_remove_blacklist">Odblokirati ovaj broj?</string>
   <string name="dlg_remove_blacklist_ing">Uklanjanje s liste blokiranih…</string>
-  <string name="dlg_remove_blacklist_ok">Odblokiraj</string>
+  <string name="dlg_remove_blacklist_ok">Ukloni</string>
   <string name="dlg_remove_whitelist">Ukloniti ove brojeve iz iznimaka?</string>
   <string name="dlg_remove_whitelist_ing">Uklanjanje s liste dopuštenih…</string>
   <string name="dlg_retore">Vratiti SMS aplikaciji?</string>

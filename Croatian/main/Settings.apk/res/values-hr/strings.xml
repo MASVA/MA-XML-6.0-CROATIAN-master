@@ -169,7 +169,7 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="application_item_permission">+</string>
   <string name="application_restrictions">Dopuštanje aplikacija i sadržaja</string>
   <string name="application_size_label">Aplikacija</string>
-  <string name="applications_settings">Dodatne postavke</string>
+  <string name="applications_settings">Instalirane aplikacije</string>
   <string name="applications_settings_header">Postavke aplikacije</string>
   <string name="applications_settings_summary">Upravljanje aplikacijama, postavljanje prečaca za brzo pokretanje</string>
   <string name="apply_now_button_text">Ažuriraj</string>
@@ -1522,9 +1522,9 @@ i pokrenite ga."</string>
   <string name="password_guard">Zaporka</string>
   <string name="percentage">%d%%</string>
   <string name="permission_detail_info">Dopuštenja</string>
-  <string name="permission_detail_info_summary">Dopuštenja: Sigurnost %1$d，Privatnost %2$d，Ostalo %3$d</string>
-  <string name="permission_manage">Upravljaj dopuštenjima</string>
-  <string name="permission_manage_summary">Upravljanje automatskog pokretanja, ROOT pristupa i ostalih dopuštenja aplikacija</string>
+  <string name="permission_detail_info_summary">%1$d sigurnost | %2$d privatnost | %3$d ostalo</string>
+  <string name="permission_manage">Upravitelj dopuštenja</string>
+  <string name="permission_manage_summary">Pitaj za dopuštenje prije nego se dopusti aplikacijama čitanje vaših kontakata, prikaz vašeg zapisnika poziva, promjeni postavki sustava, ili pristupu kameri i ostalim resursima uređaja</string>
   <string name="permission_manage_title">Dopuštenja %s</string>
   <string name="permission_manager">Dopuštenja</string>
   <string name="permission_mgr">Dopuštenja</string>
@@ -1975,7 +1975,7 @@ Ova postavka utječe na sve korisnike na ovom uređaju."</string>
   <string name="sim_bad_pin">Netočan PIN</string>
   <string name="sim_change_failed">"Nije moguće promijeniti PIN. 
 Možda je PIN netočan."</string>
-  <string name="sim_change_failed_enable_sim_lock">Omogući zaključavanje SIM kartice radi promjene PIN-a</string>
+  <string name="sim_change_failed_enable_sim_lock">Ukljući sada zaključavanje SIM kartice</string>
   <string name="sim_change_pin">SIM PIN</string>
   <string name="sim_change_succeeded">Uspješno je promijenjen PIN SIM-a</string>
   <string name="sim_disable_sim_lock">Otključaj SIM karticu</string>
@@ -2093,9 +2093,9 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="status_serialno">Identifikacijski broj</string>
   <string name="status_service_state">Stanje usluge</string>
   <string name="status_signal_strength">Jakost signala</string>
-  <string name="status_sim">SIM Status</string>
-  <string name="status_sim_1">SIM1</string>
-  <string name="status_sim_2">SIM2</string>
+  <string name="status_sim">Status SIM kartice</string>
+  <string name="status_sim_1">SIM 1</string>
+  <string name="status_sim_2">SIM 2</string>
   <string name="status_summary">Dodirnite za prikaz detalja</string>
   <string name="status_unavailable">Nedostupno</string>
   <string name="status_up_time">Vrijeme aktivnosti</string>
@@ -2306,7 +2306,7 @@ Googleov pristup sinkronizaciji podataka za mogućnost pristupa kontaktima, sast
   <string name="usb_label_installer_cd">Instaliraj alate za prijenos datoteka</string>
   <string name="usb_msd_driver_installer_summary">Pribavi upravljačke programe za Windows i OSX</string>
   <string name="usb_msd_driver_installer_title">Disk za instalaciju upravljačkih programa (MSD).</string>
-  <string name="usb_msd_summary">Prenesi datoteke preko Windowsa ili OSX-a</string>
+  <string name="usb_msd_summary">Prenesi datoteke koristeći Windows ili OSX</string>
   <string name="usb_msd_title">Uređaj za masovnu pohranu</string>
   <string name="usb_mtp_summary">Omogućuje prijenos medijskih datoteka u OS Windows ili Androidovim prijenosom datoteka na Mac (pogledajte www.android.com/filetransfer)</string>
   <string name="usb_mtp_title">Uređaj za medije (MTP)</string>

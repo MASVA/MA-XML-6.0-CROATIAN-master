@@ -65,7 +65,13 @@
         <item>TD-SCDMA</item>
         <item>LTE</item>
         <item>Trostruki način</item>
-	</string-array>
+		</string-array>
+    <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>Trostruki način</item>
+    </string-array>
     <string-array name="uplmn_prefer_network_mode_values">
         <item>0</item>
         <item>1</item>

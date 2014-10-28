@@ -132,8 +132,8 @@
   <string name="xunlei_brand">Powered by Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
   <string name="xunlei_gaosu">Xunlei ubrzanje preuzimanja</string>
-  <string name="xunlei_member_annual_fee">1 godina</string>
-  <string name="xunlei_member_one_month">1 mjesec</string>
+  <string name="xunlei_member_annual_fee">Godišnje</string>
+  <string name="xunlei_member_one_month">Mjesečno</string>
   <string name="xunlei_speed_service">Xunlei ubrzanje preuzimanja</string>
   <string name="xunlei_switch">Xunlei alat preuzimanja</string>
 </resources>

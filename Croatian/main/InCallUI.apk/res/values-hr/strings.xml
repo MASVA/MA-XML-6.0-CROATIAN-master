@@ -129,13 +129,6 @@
   <string name="deleting_fdn_contact">Brisanje broja za fiksno biranje…</string>
   <string name="description_delete_button">natrag</string>
   <string name="description_dial_button">zovi</string>
-  <string name="description_direction_down_left">Dolje lijevo</string>
-  <string name="description_direction_down_right">Dolje desno</string>
-  <string name="description_direction_left">Lijevo za %s.</string>
-  <string name="description_direction_right">Desno za %s.</string>
-  <string name="description_direction_up">Gore za %s.</string>
-  <string name="description_direction_up_left">Gore lijevo</string>
-  <string name="description_direction_up_right">Gore desno</string>
   <string name="description_image_button_eight">osam</string>
   <string name="description_image_button_five">pet</string>
   <string name="description_image_button_four">četiri</string>
@@ -148,12 +141,6 @@
   <string name="description_image_button_three">tri</string>
   <string name="description_image_button_two">dva</string>
   <string name="description_image_button_zero">nula</string>
-  <string name="description_target_answer">Odgovori</string>
-  <string name="description_target_answer_rx_video">Odgovori s RX Video</string>
-  <string name="description_target_answer_tx_video">Odgovori s TX Video</string>
-  <string name="description_target_answer_video">Odgovori s videom</string>
-  <string name="description_target_decline">Odbiti</string>
-  <string name="description_target_send_sms">Pošalji SMS</string>
   <string name="dial_emergency_empty_error">Poziv nije uspostavljen, nazovite hitni broj!</string>
   <string name="dial_emergency_error">Poziv nije uspostavljen, %s nije hitan broj!</string>
   <string name="dial_pad_autocomplete">Automatsko popunjavanje biranja</string>
@@ -219,9 +206,6 @@
   <string name="eo_enable">Mogućnosti zapošljavanja omogućene</string>
   <string name="error_updating_title">Pogreška postavki poziva</string>
   <string name="exception_error">Pogreška Mreže ili SIM kartice.</string>
-  <string name="fake_phone_activity_infoText_text">Dolazni telefonski broj</string>
-  <string name="fake_phone_activity_phoneNumber_text">(385) 123-4567</string>
-  <string name="fake_phone_activity_placeCall_text">Lažni dolazni poziv</string>
   <string name="fdn">FDN lista</string>
   <string name="fdn_activation">FDN aktivacija</string>
   <string name="fdn_check_failure">"Postavke FDN vašeg telefona su omogućene. Neke značajke nisu dostupne."</string>
@@ -267,7 +251,6 @@
   <string name="incoming_call_forwarded_title">Preusmjeri proslijeđeni poziv</string>
   <string name="international_disable">Međunarodne vijesti onemogućene</string>
   <string name="international_enable">Međunarodne vijesti omogućene</string>
-  <string name="internet_phone">Internetski poziv</string>
   <string name="invalidPin">Upišite PIN koji ima od 4 do 8 znamenaka.</string>
   <string name="invalidPin2">Upišite PIN2 koji ima od 4 do 8 znamenaka.</string>
   <string name="invalidPuk2">Upišite PUK2 koji ima od 4 do 8 znamenaka.</string>
@@ -340,8 +323,6 @@
   <string name="no_change">Nema promjena.</string>
   <string name="no_internet_available">Za upućivanje internetskog poziva, provjerite internetsku vezu</string>
   <string name="no_internet_available_title">Nema Internet veze</string>
-  <string name="no_sip_account_found">Nema računa za internetske pozive na ovom telefonu. Dodati jedan sada?</string>
-  <string name="no_sip_account_found_title">Nema računa za internet pozivanje</string>
   <string name="no_vm_number">Nedostaje broj govorne pošte</string>
   <string name="no_vm_number_msg">Nema spremljenog broja govorne pošte na SIM kartici.</string>
   <string name="no_voip">Internet pozivi nisu podržani</string>
@@ -442,8 +423,6 @@
   <string name="phone_in_ecm_call_notification_text">Data povezivost isključena</string>
   <string name="phone_in_ecm_notification_title">Način hitnog poziva ECM</string>
   <string name="phone_info_divider">"  |  "</string>
-  <string name="pick_outgoing_call_phone_type">Uspostavi poziv</string>
-  <string name="pick_outgoing_sip_phone">Koristite račun za Internet pozive:</string>
   <string name="pin2_changed">PIN2 uspješno promijenjen</string>
   <string name="pin2_invalid">"FDN nije ažuriran jer ste unijeli pogrešan PIN."</string>
   <string name="pin2_or_fdn_invalid">"FDN nije ažuriran. PIN2 je nevažeći, ili je telefonski broj odbijen."</string>
@@ -476,7 +455,6 @@
   <string name="progress_dialog_exiting_ecm">Isključivanje ECM</string>
   <string name="proxy_address">ProxyAddress</string>
   <string name="proxy_address_title">Adresa proxy</string>
-  <string name="pstn_phone">Poziv s mobilnog uređaja</string>
   <string name="puk2_requested">Netočna zaporka, SIM kartica je zaključana! Potreban PUK2.</string>
   <string name="puk_requested">Netočna zaporka, PIN2 Blokiran! Potreban PUK2.</string>
   <string name="puk_unlocked">Vaša SIM kartica je odblokirana</string>
@@ -498,11 +476,9 @@
   <string name="registration_status_registering">Prijava…</string>
   <string name="registration_status_server_unreachable">Prijava računa nije uspjela: provjerite naziv poslužitelja</string>
   <string name="registration_status_still_trying">Još pokušavam…</string>
-  <string name="remember_my_choice">Uvijek koristi za uspostavu internet poziva</string>
   <string name="remove_sip_account">Ukloni račun</string>
   <string name="removing_account">Uklanjanje računa…</string>
   <string name="requesting_unlock">Zahtjev za otključavanje mreže…</string>
-  <string name="reset_my_choice_hint">Koristite Postavke poziva da promijenite zadani račun poziva preko interneta</string>
   <string name="respond_via_sms_canned_response_1">"Žao mi je, ne mogu javiti na telefon. Nazovem te kasnije."</string>
   <string name="respond_via_sms_canned_response_2">"Nazovem te kasnije."</string>
   <string name="respond_via_sms_canned_response_3">"Nazvat ću te kasnije."</string>
@@ -548,7 +524,6 @@
   <string name="sip_account_list">Računi za internet pozivanje</string>
   <string name="sip_accounts">Računi za internet pozivanje (SIP)</string>
   <string name="sip_accounts_title">Računi</string>
-  <string name="sip_always_send_keepalive">Uvijek pošalji</string>
   <string name="sip_call_options_entry_1">Za sve pozive kada je mreža dostupna</string>
   <string name="sip_call_options_entry_2">Samo za internet pozive</string>
   <string name="sip_call_options_entry_3">Pitaj za svaki poziv</string>
@@ -563,7 +538,6 @@
   <string name="sip_receive_calls">Primi dolazni poziv</string>
   <string name="sip_receive_calls_summary">Smanjuje vijek trajanje baterije</string>
   <string name="sip_settings">Postavke Internetskog poziva</string>
-  <string name="sip_system_decide">Automatski</string>
   <string name="sports_news_settings">Vijesti iz sporta</string>
   <string name="stk_cc_ss_to_dial_error">SS zahtjev promijenjen za DIAL zahtjev.</string>
   <string name="stk_cc_ss_to_ss_error">SS zahtjev promijenjen za novi SS zahtjev.</string>
