@@ -1799,10 +1799,10 @@ Ova postavka utječe na sve korisnike na ovom uređaju."</string>
   <string name="rssi_label">RSSI:</string>
   <string name="running_process_item_removed_user_label">Uklonjeni korisnik</string>
   <string name="running_process_item_user_label">Korisnik: %1$s</string>
-  <string name="running_processes_item_description_p_p">%1$d procesa i %2$d usluga</string>
-  <string name="running_processes_item_description_p_s">%1$d procesa i %2$d usluga</string>
-  <string name="running_processes_item_description_s_p">%1$d proces i %2$d usluga</string>
-  <string name="running_processes_item_description_s_s">%1$d proces i %2$d usluga</string>
+  <string name="running_processes_item_description_p_p">Procesa: %1$d; Usluga: %2$d</string>
+  <string name="running_processes_item_description_p_s">Procesa: %1$d; Usluga: %2$d</string>
+  <string name="running_processes_item_description_s_p">Procesa: %1$d; Usluga: %2$d</string>
+  <string name="running_processes_item_description_s_s">Procesa: %1$d; Usluga: %2$d</string>
   <string name="runningservicedetails_processes_title">Procesi</string>
   <string name="runningservicedetails_services_title">Usluge</string>
   <string name="runningservicedetails_settings_title">Pokrenuta aplikacija</string>

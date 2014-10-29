@@ -145,8 +145,8 @@
   <string name="music_quality">Kvaliteta glazbe</string>
   <string name="music_settings">Glazba</string>
   <string name="my_account">Mi Račun</string>
-  <string name="my_music">Glazba</string>
-  <string name="my_music_empty">Popis pjesama je prazan.</string>
+  <string name="my_music_empty">Popis pjesama je prazan!</string>
+  <string name="my_music_empty_goto_online">Popis pjesama je prazan! Dodajte pjesme iz kartice Online</string>
   <string name="my_playlist">Moj popis pjesama</string>
   <string name="network_error">"Ne mogu se spojiti na mrežu."</string>
   <string name="network_failure">"Ne mogu se spojiti na mrežu. Provjerite vašu podatkovnu vezu i pokušajte ponovno."</string>
@@ -154,6 +154,7 @@
   <string name="no_favorites_songs">Prazno</string>
   <string name="no_local_songs">Prazno</string>
   <string name="no_local_songs_selected">"Ne mogu poslati pjesme, jer one nisu preuzete"</string>
+  <string name="no_local_source_find">"Ne mogu pronaći lokalne resurse, slanje nije uspjelo!"</string>
   <string name="no_online_song_selected">Nema odabranih pjesama</string>
   <string name="no_results_return">Nema rezultata pretraživanja</string>
   <string name="no_song_downloaded">"Ne mogu se spojiti na poslužitelj"</string>
