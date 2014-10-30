@@ -205,7 +205,7 @@ Provjerite svoj broj za praćenje."</string>
   <string name="hms_no_subject_view">(Nema predmeta)</string>
   <string name="hms_notification">Poruke</string>
   <string name="loading">Učitavanje…</string>
-  <string name="loading_resource_detail_fail">"Can't load resource"</string>
+  <string name="loading_resource_detail_fail">"Ne mogu učitati resurse"</string>
   <string name="loading_resource_detail_info">Učitavanje…</string>
   <string name="locating_fail">"Ne mogu pronaći vašu lokaciju"</string>
   <string name="login_before_use">Morate se prvo prijaviti</string>
