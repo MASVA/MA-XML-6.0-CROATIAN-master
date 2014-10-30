@@ -158,8 +158,8 @@
   <string name="update_feedback_end">"Propustili ste anketu ovog tjedna."</string>
   <string name="update_feedback_end_sum">Možete se pridružiti svakog utorka.</string>
   <string name="update_feedback_expired">"Propustili ste ovu priliku da kažete svoje mišljenje.
-Ali možete sudjelovati sljedeći utorak"</string>
-  <string name="update_feedback_need_update">Trenutno ne koristite najnoviju razvojnu verziju, nadogradite na najnoviju razvojnu verziju prije glasovanja</string>
+Ali možete sudjelovati sljedeći utorak."</string>
+  <string name="update_feedback_need_update">Morate prvo ažurirati svoj ​​sustav na najnoviju razvojnu verziju.</string>
   <string name="update_feel">Što vi mislite?</string>
   <string name="update_general">Tako-tako</string>
   <string name="update_happy">Super!</string>

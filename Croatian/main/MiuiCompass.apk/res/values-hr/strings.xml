@@ -22,15 +22,15 @@
   <string name="direction_west">Z</string>
   <string name="do_not_show_next_time">"Ne pokazuj ponovo"</string>
   <string name="getting_location">Kalibriranje…</string>
-  <string name="guide_toast">Da kalibrirate, pomičite vaš telefon pokretima prikazanima ispod</string>
+  <string name="guide_toast">"Da kalibrirate, pomičite vaš telefon pokretima ispod"</string>
   <string name="latitude">ŠIR</string>
   <string name="location_east">I</string>
-  <string name="location_enable">Omogući</string>
-  <string name="location_enable_later">Ne sada</string>
-  <string name="location_enabled">Usluga je otvorena, možete je isključiti u postavkama lokacije</string>
+  <string name="location_enable">Dopusti</string>
+  <string name="location_enable_later">Kasnije</string>
+  <string name="location_enabled">Možete isključiti usluge lokacije u bilo kojem trenutku u izborniku Postavke.</string>
   <string name="location_north">S</string>
-  <string name="location_not_enabled_summary">Direktorij treba pronaći vašu lokaciju da pravilno funkcionira.</string>
-  <string name="location_not_enabled_title">Omogući uslugu lociranja</string>
+  <string name="location_not_enabled_summary">Direktorij treba informacije vaše lokacije da radi normalno.</string>
+  <string name="location_not_enabled_title">Usluge lociranja</string>
   <string name="location_south">J</string>
   <string name="location_west">Z</string>
   <string name="longitude">DUŽ</string>
@@ -40,8 +40,8 @@
   <string name="pressure">%.1f</string>
   <string name="pressure_title">Tlak</string>
   <string name="pressure_unit">hPa</string>
-  <string name="using_camera_confirm_cancel">Izlaz</string>
-  <string name="using_camera_confirm_message">Koristiti će se kamera uređaja za tijekom korištenja aplikacije Kompas.</string>
-  <string name="using_camera_confirm_ok">Slažem se i nastavi</string>
-  <string name="using_camera_confirm_title">Uvjeti i Sporazumi</string>
+  <string name="using_camera_confirm_cancel">Zatvori</string>
+  <string name="using_camera_confirm_message">"Kompas treba koristiti fotoaparat vašeg uređaja za normalan rad."</string>
+  <string name="using_camera_confirm_ok">Slažem se</string>
+  <string name="using_camera_confirm_title">Pristup fotoaparatu</string>
 </resources>

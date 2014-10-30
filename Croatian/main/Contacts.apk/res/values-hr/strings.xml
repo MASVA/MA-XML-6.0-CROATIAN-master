@@ -987,8 +987,9 @@ Za dodavanje kontakta na listu favorita :
   <string name="separatorJoinAggregateSuggestions">Predloženi kontakti</string>
   <string name="service_provider">"Imenik"</string>
   <string name="set_default">Postavi zadano</string>
-  <string name="set_photo_failed_msg">Pridjeljivanje fotografije nije uspjelo.</string>
+  <string name="set_photo_failed_msg">"Ne mogu dodijeliti sliku."</string>
   <string name="share_error">Ovaj se kontakt ne može dijeliti.</string>
+  <string name="share_over_limit">"Preko ograničenja, ne mogu dijeliti"</string>
   <string name="share_via">"Pošalji"</string>
   <string name="share_visible_contacts">"Dijeli kontakte"</string>
   <string name="shortcutActivityTitle">Izaberi prečac kontakta</string>
@@ -1005,7 +1006,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="sim_capacity_content" formatted="false">Ukupno %d | %d iskorišteno</string>
   <string name="sim_card_no_free_space_message">Nema dovoljno prostora</string>
   <string name="sim_card_no_free_space_title">"SIM kartica je puna"</string>
-  <string name="sim_contact_dropdown_menu_deselect_all_miui">"Poništi odabir za sve"</string>
+  <string name="sim_contact_dropdown_menu_deselect_all_miui">"Poništi odabir"</string>
   <string name="sim_contact_dropdown_menu_select_all_miui">"Odaberi sve"</string>
   <string name="sim_contact_existing">Kontakt već postoji</string>
   <string name="sim_contact_invalid">Nevažeći SIM kontakt</string>

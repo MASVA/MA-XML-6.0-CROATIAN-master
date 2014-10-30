@@ -78,6 +78,9 @@
   <string name="snippet_image_stub">[Slika]</string>
   <string name="snippet_image_template">[Slika %1$s]</string>
   <string name="sns_action_send">Pošalji</string>
+  <string name="sns_choose_quality_high">Visoka (%1$s)</string>
+  <string name="sns_choose_quality_low">Niska</string>
+  <string name="sns_choose_quality_title">Odaberite kvalitetu slike</string>
   <string name="sns_content_default">Dijeli sliku</string>
   <string name="sns_desc_preview_wechat">Pregled WeChat poruke</string>
   <string name="sns_desc_preview_weibo">Pregled Weibo poruke</string>

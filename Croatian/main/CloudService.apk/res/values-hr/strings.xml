@@ -14,6 +14,8 @@
   <string name="bad_authentication">Pogrešno korisničko ime ili zaporka</string>
   <string name="btn_return">Natrag</string>
   <string name="button_cancel">Odustani</string>
+  <string name="buy_space_expire">Kupljen prostor će isteći za %s</string>
+  <string name="buy_space_expire_concat">%1$s do %2$s</string>
   <string name="buy_space_sulotion_auto_renew">Obnovi automatski</string>
   <string name="buy_space_sulotion_message">Kupite %sGB dodatnog prostora za pohranu</string>
   <string name="buy_space_sulotion_not_auto_renew">"Ne obnavljaj automatski"</string>
@@ -89,6 +91,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="less_flow_mode">Ušteda podataka</string>
   <string name="license_host_unreachable">"Ne mogu se spojiti na mrežu. Da biste vidjeli ove podatke sada, idite na %s."</string>
   <string name="loading">Učitavanje…</string>
+  <string name="loading_hint">Učitavanje</string>
   <string name="master_alert_notif_dspt_add">Stavki za sinkr.: %s</string>
   <string name="master_alert_notif_dspt_no">Sinkronizirano</string>
   <string name="master_alert_notif_title">Zadnja sinkr. prije dana %s</string>

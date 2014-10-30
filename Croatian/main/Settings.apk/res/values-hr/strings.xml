@@ -1447,6 +1447,7 @@ i pokrenite ga."</string>
   <string name="mvno_match_data">Vrijednost MVNO-a</string>
   <string name="mvno_type">Vrsta MVNO-a</string>
   <string name="nearby_wifi">"Dostupne mreže"</string>
+  <string name="need_reboot_now">Potrebno ponovo pokretanje uređaja za dovršetak ažuriranja, sada ponovno pokrenite!</string>
   <string name="network_assistant">Uporaba podataka</string>
   <string name="network_detail">Detalji mreže %s</string>
   <string name="network_error">Pogreška mreže.</string>

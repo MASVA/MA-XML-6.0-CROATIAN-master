@@ -19,7 +19,7 @@
   <string name="activity_main_refresh_time">Ažuriranje %1$s</string>
   <string name="activity_main_refresh_timeout">Ažuriranje nije uspjelo</string>
   <string name="activity_main_update_time">Ažurirano %1$s</string>
-  <string name="activity_main_update_time_right_now">Sada</string>
+  <string name="activity_main_update_time_right_now">Upravo sada</string>
   <string name="activity_weather_main_null_data">- -</string>
   <string name="activity_weathermain_locationg">Lociranje…</string>
   <string name="activity_weathermain_locationg_error">"Ne mogu locirati"</string>
@@ -35,8 +35,8 @@
   <string name="aqi_quality_index_pure">AQI %1$s</string>
   <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
   <string name="button_abandon">Odbaci promjene</string>
-  <string name="button_allow">Dopusti</string>
-  <string name="button_not_allow">Odbij</string>
+  <string name="button_allow">U redu</string>
+  <string name="button_not_allow">Odstani</string>
   <string name="edit_city">Uredi</string>
   <string name="gps_hint">Trenutna lokacija</string>
   <string name="loading_weather">Učitavanje…</string>
