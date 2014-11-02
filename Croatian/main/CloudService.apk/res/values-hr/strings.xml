@@ -74,7 +74,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="find_device_success_title">Pronađi uređaj</string>
   <string name="finish">U redu</string>
   <string name="flight_mode">Način rada u zrakoplovu</string>
-  <string name="free_space_has_received">Već ste dodali slodoban prostor ovaj mjesec</string>
+  <string name="free_space_has_received">Već ste dodali slobodan prostor ovaj mjesec</string>
   <string name="free_space_receive_fail">"Ne mogu nadograditi"</string>
   <string name="full_space">Nema dovoljno prostora</string>
   <string name="get_first_month_gb">Dobijte %s slobodnog prostora</string>

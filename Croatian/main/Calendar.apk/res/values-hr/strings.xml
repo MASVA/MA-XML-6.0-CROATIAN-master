@@ -119,7 +119,7 @@
   <string name="event_info_descrip">"Opis: "</string>
   <string name="event_info_organizer">Organizator:</string>
   <string name="event_info_reminders_label">Podsjetnik</string>
-  <string name="event_info_repeat">"Vraćeno: "</string>
+  <string name="event_info_repeat">"Ponavljanje: "</string>
   <string name="event_info_title">Prikaži događaj</string>
   <string name="event_info_title_invite">Pozivnica za sastanak</string>
   <string name="event_info_when">"Kada: "</string>

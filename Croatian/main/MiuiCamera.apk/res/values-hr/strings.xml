@@ -529,7 +529,7 @@ panoramske fotografije.</string>
   <string name="toast_burst_snap_forbidden_when_face_beauty_open">Brzo uzastopno snimanje nije podržano kada je aktiviran način poboljšanja lica.</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Brzo uzastopno snimanje nije podržano kada je HDR UKLJUČEN.</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Brzo uzastopno snimanje nije podržano kada ISO nije 'automatski'."</string>
-  <string name="toast_cannot_preview_image_when_screen_locked">Nije moguće pregledavati fotografije ili video ako je zaslon zaključan.</string>
+  <string name="toast_cannot_preview_image_when_screen_locked">Nije moguće pregledavati fotografije ili video ako je zaslon zaključan sa zaporkom.</string>
   <string name="toast_start_audio_capture">Napravite zvuk na okidanju</string>
   <string name="ubi_focus_capture_fail">"Ne mogu snimiti fotografiju"</string>
   <string name="ubi_focus_exit_button_text">Zatvori</string>

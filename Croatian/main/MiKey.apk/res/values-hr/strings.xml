@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="action_baidusearch">Baidu Pretraživanje</string>
+  <string name="action_baidusearch">Baidu</string>
   <string name="action_capture_video">Videozapis</string>
   <string name="action_clear_call_list">Izbriši povijest poziva</string>
   <string name="action_clear_memory">Isprazni RAM</string>
   <string name="action_clear_sms_inbox">Izbriši SMS poruke</string>
-  <string name="action_close">Zatvori</string>
-  <string name="action_home">KUĆI</string>
+  <string name="action_close">Izlaz</string>
+  <string name="action_home">Natrag</string>
   <string name="action_key_back">Natrag</string>
   <string name="action_key_back_long">Natrag (Dugi pritisak)</string>
   <string name="action_key_call">Zovi</string>
@@ -37,6 +37,7 @@
   <string name="action_phone">Poziv</string>
   <string name="action_qrcode">QR kod</string>
   <string name="action_screen_shot">Snimak zaslona</string>
+  <string name="action_search">Pretraži</string>
   <string name="action_send_text_message">Pošalji SMS</string>
   <string name="action_share_to_miliao">MiTalk</string>
   <string name="action_share_to_miliao_wall">MiTalk</string>
@@ -55,12 +56,12 @@
   <string name="call_to">Poziv</string>
   <string name="cancel">Odustani</string>
   <string name="category_0">Apl.</string>
-  <string name="category_1">Sustav</string>
+  <string name="category_1">Postavke sustava</string>
   <string name="category_2">Tipke</string>
   <string name="category_app">Aplikacije</string>
-  <string name="category_system_settings">Postavke</string>
+  <string name="category_system_settings">Postavke sustava</string>
   <string name="chooser_dust_cap">MiKey (Zaštita od prašine)</string>
-  <string name="clean_memory">Očisti memoriju</string>
+  <string name="clean_memory">Memorija obrisana</string>
   <string name="click_count_union">Puta</string>
   <string name="click_to_open">Otvori</string>
   <string name="click_type_0">0</string>
@@ -74,7 +75,7 @@
   <string name="click_type_7">7</string>
   <string name="click_type_8">8</string>
   <string name="click_type_9">9</string>
-  <string name="close_all">Zatvori sve</string>
+  <string name="close_all">Zatvori</string>
   <string name="close_flash_error">Onemogućavanje bljeskalice nije uspjelo!</string>
   <string name="close_recorder">Zatvori snimač</string>
   <string name="cn_0">0</string>
@@ -94,7 +95,7 @@
   <string name="cn_9">9</string>
   <string name="company">Firma:</string>
   <string name="confirm">U redu</string>
-  <string name="copy">Kopirati</string>
+  <string name="copy">Kopiraj</string>
   <string name="copy_succeed">Kopiranje uspješno</string>
   <string name="default_action_title">Zadana radnja</string>
   <string name="delete">Izbriši</string>
@@ -166,6 +167,12 @@ Tijekom uporabe, ostale funkcije MiKey su nedostupne."</string>
   <string name="scan_fail">Skeniranje neuspjelo!</string>
   <string name="scan_result">Rezultati skeniranja</string>
   <string name="sdcard">SD kartica</string>
+  <string name="search_baidu_text">Baidu</string>
+  <string name="search_cancel_text">Odustani</string>
+  <string name="search_go_text">Tekst</string>
+  <string name="search_iciba_text">Iciba</string>
+  <string name="search_select_title">Pretraži tekst</string>
+  <string name="search_taobao_text">TaoBao</string>
   <string name="select_baidusearch">Baidu Pretraživanje</string>
   <string name="select_baiduvoicesearch">Baidu glasovno pretraživanje</string>
   <string name="select_camera">Odaberi kameru</string>
@@ -180,7 +187,7 @@ To može uzrokovati veću potrošnju baterije"</string>
   <string name="setting_keeplive_text">Rad u pozadini</string>
   <string name="setting_silent_mode">Bez zvuka</string>
   <string name="setting_silent_mode_default">Način rada slušalica (odaberite MiKey)</string>
-  <string name="setting_silent_mode_desc">"Za spajanje slušalica, odaberite način rada slušalice i odvojite MiKey. U protivnom to neće raditi ispravno na audio izlaz."</string>
+  <string name="setting_silent_mode_desc">"Za spajanje slušalica, odaberite način rada slušalice i odvojite MiKey. U protivnom audio izlaz neće raditi ispravno."</string>
   <string name="setting_silent_mode_dust_cap">Način rada čepova</string>
   <string name="setting_speed_desc">Brzina pritiska gumba</string>
   <string name="setting_speed_max_time">1000</string>
@@ -195,7 +202,7 @@ To može uzrokovati veću potrošnju baterije"</string>
 Dugi pristisak za brisanje.
 Napravite vašu vlastitu alatnu traku!
 Otvorite alatnu traku,
-S vrha zaslona povucite prema dolje da ga koristite."</string>
+S vrha zaslona povucite prema dolje da je koristite."</string>
   <string name="setting_vibrate_desc">"Telefon će vibrirati kao obavijest kad je radnja izvršena</string>
   <string name="setting_vibrate_text">Odaziv vibracije</string>
   <string name="settings">Postavke</string>
@@ -211,20 +218,22 @@ S vrha zaslona povucite prema dolje da ga koristite."</string>
   <string name="short_click_9">9x</string>
   <string name="showSlip">Prikaži u skočnom prozoru</string>
   <string name="silent_mode_tip_main">Tihi način rada je omogućen</string>
-  <string name="silent_mode_tip_sub">Uključite ga u postavkama</string>
+  <string name="silent_mode_tip_sub"/>
   <string name="sms_sent_done">SMS poslan</string>
   <string name="sms_template">SMS poruka</string>
-  <string name="sms_to">Pošalji SMS na:</string>
+  <string name="sms_to">SMS</string>
   <string name="splash_mikey_sprite">"Postavite MiKey Čarobnjak bilo gdje
 Pritiskom na MiKey simulirajte dodir na odabranom mjestu"</string>
   <string name="splash_tip">Poveži MiKey</string>
-  <string name="super_difficult_click">"Otpornost "</string>
+  <string name="super_difficult_click">"Otpornost klika"</string>
   <string name="tab_mikey">MiKey</string>
   <string name="tab_mikey_sprite">MiKey Čarobnjak</string>
   <string name="task_title_prefix">Zadatak %1$s: %2$s</string>
   <string name="test_user_entry">Test</string>
   <string name="times">puta</string>
   <string name="title">Naslov:</string>
+  <string name="toast_audio_record_start">Pokreni snimanje</string>
+  <string name="toast_audio_record_stop">Završi snimanje</string>
   <string name="toast_close">Zatvori</string>
   <string name="toast_open">Otvori</string>
   <string name="toggle_bluetooth">Bluetooth</string>
@@ -242,6 +251,6 @@ Pritiskom na MiKey simulirajte dodir na odabranom mjestu"</string>
   <string name="unsupport_title">Ova značajka nije podržana</string>
   <string name="update_message">Ažuriranje!</string>
   <string name="vcard_prompt">Nije moguće dodati kontakt, jer nema imena</string>
-  <string name="web">Web:</string>
-  <string name="write_pic_fail">Neuspjelo spremanje slike</string>
+  <string name="web">Web-stranica:</string>
+  <string name="write_pic_fail">Neuspjelo spremanje slike!</string>
 </resources>

@@ -210,6 +210,7 @@
   <string name="archived">Arhivirano</string>
   <string name="att_download_failed_content">"Ne mogu preuzeti privitak za ovu poruku."</string>
   <string name="att_download_failed_title">"Ne mogu preuzeti privitak."</string>
+  <string name="att_file_not_exists">Datoteka %s nije pronađena!</string>
   <string name="att_mgr_no_attachment">Nema privitaka!</string>
   <string name="att_mgr_title_order_mime">Format</string>
   <string name="att_mgr_title_order_name">Ime</string>
@@ -221,9 +222,12 @@
   <string name="attachment_application_pdf">PDF</string>
   <string name="attachment_application_vnd_ms_excel">Proračunska tablica</string>
   <string name="attachment_application_vnd_ms_powerpoint">Prezentacija</string>
-  <string name="attachment_audio">Audio</string>
+  <string name="attachment_audio">Zvuk</string>
+  <string name="attachment_canceling">Otkazuje se, pričekajte minutu!</string>
+  <string name="attachment_decoding">Privitak je preuzet u potpunosti, u tijeku je dekodiranje, pričekajte.</string>
   <string name="attachment_image">Slika</string>
   <string name="attachment_mgr_name">Privici</string>
+  <string name="attachment_not_exists">Privitak nije dostupan!</string>
   <string name="attachment_not_found">"Ne mogu preuzeti privitak."</string>
   <string name="attachment_text">Tekst</string>
   <string name="attachment_type_blocked">Nažalost, ne možete spremiti niti otvoriti tu vrstu privitka.</string>
@@ -395,7 +399,7 @@
   <string name="fetching_attachment">Dohvaćanje privitka</string>
   <string name="file_deleted_success">Datoteka izbrisana</string>
   <string name="file_not_found">"Ne mogu pronaći datoteku"</string>
-  <string name="file_not_found_reDownload">"Ne mogu pronaći datoteku"</string>
+  <string name="file_not_found_redownload">"Ne mogu pronaći datoteku"</string>
   <string name="file_rar_not_support">"Ne mogu otvoriti šifriranu rar datoteku"</string>
   <string name="filtered_tag">[%1$s]%2$s</string>
   <string name="folder_drafts_name_cn0">草稿</string>
@@ -530,6 +534,7 @@
   <string name="menu_search">Pretraživanje</string>
   <string name="menu_settings">Postavke</string>
   <string name="menu_show_original">Vrati izvornu verziju</string>
+  <string name="merged_mailbox_compose_select_account">Odaberite račun</string>
   <string name="message_body_auto_download_complete">Preuzimanje pošte koristeći WLAN mrežu</string>
   <string name="message_body_auto_download_tip">"Vaša pošta će se automatski preuzeti ako ste spojeni na WLAN mrežu"</string>
   <string name="message_body_download_failed">"Ne mogu preuzeti poštu. Veza je prekinuta."</string>
@@ -600,7 +605,11 @@ Kopija: %4$s
   <string name="outbox_alert_description_http_error">HTTP Pogreška tijekom izlazne sinkronizacije</string>
   <string name="outbox_alert_description_provision_error">Pogreška Odredaba s poslužitelja tijekom izlazne sinkronizacije</string>
   <string name="outbox_alert_description_sent_failed">"Veličina privitka prelazi ograničenje primatelja."</string>
+  <string name="outbox_alert_duplicate_click">"Don't duplicate click, mail is synchronizing"</string>
+  <string name="outbox_alert_edit_resend">Uredi i ponovo pošalji</string>
+  <string name="outbox_alert_failed_edit_resend">Slanje nije uspjelo, uredi i ponovo pošaljite</string>
   <string name="outbox_alert_mailbox_not_found">Adresa E-pošte nije pronađena</string>
+  <string name="outbox_alert_select_operation">Odaberite radnju</string>
   <string name="outbox_alert_title_sent_failed">"Ne mogu poslati e-poštu"</string>
   <string name="outbox_no_mails">Prazno</string>
   <string name="parase_setup_data">Dobivanje podataka…</string>
@@ -694,6 +703,7 @@ Kopija: %4$s
   <string name="recent_folders_heading">Nedavne mape</string>
   <string name="recipient_error_dialog_title">Pogreška primatelja</string>
   <string name="recipient_needed">Dodajte barem 1 primatelja.</string>
+  <string name="recipient_null_dialog_title">Upozorenje</string>
   <string name="refresh">Osvježi</string>
   <string name="refreshing">Sinkroniziram…</string>
   <string name="refreshing_done">Završeno</string>
@@ -812,6 +822,7 @@ Kopija: %4$s
   <string name="turn_auto_sync_on_dialog_confirm_btn">Uključi</string>
   <string name="turn_auto_sync_on_dialog_title">Želite li uključiti automatsku sinkronizaciju?</string>
   <string name="undo">Poništi</string>
+  <string name="unread_from_someone">Nepročitano od [%s]</string>
   <string name="unread_string">Razgovor nije pročitan</string>
   <string name="unsent_messages_in_outbox">Broj neposlanih poruka u mapi %2$s: %1$s</string>
   <string name="updated_at">Zadnje ažuriranje: %1$s</string>

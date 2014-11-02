@@ -172,8 +172,8 @@
   <string name="handle_text_cache">Predmemorija</string>
   <string name="handle_text_memory">Memorija</string>
   <string name="handle_text_system">Sustav</string>
-  <string name="header_antivirus">"Korištenjem ove značajke, pristajete na Tencent "&lt;a href="http://misc.3g.qq.com/g/agreement/index.jsp?id=7"&gt;Uvjeti pružanja usluge&lt;/a&gt;</string>
-  <string name="header_optimizer">"Korištenjem ove značajke, pristajete na Clean Master "&lt;a href="http://www.cmcm.com/about/privacy_zh.html?p=cm"&gt;Uvjeti pružanja usluge&lt;/a&gt;</string>
+  <string name="header_antivirus">"Korištenjem ove značajke, pristajete na Tencent "href="http://misc.3g.qq.com/g/agreement/index.jsp?id=7" Uvjeti pružanja usluge</string>
+  <string name="header_optimizer">"Korištenjem ove značajke, pristajete na Clean Master "href="http://www.cmcm.com/about/privacy_zh.html?p=cm" Uvjeti pružanja usluge</string>
   <string name="hints_ad_header_left">Reklama: %d</string>
   <string name="hints_apk_header_left">Instal.aplik.: %d</string>
   <string name="hints_apk_version">Verzija: %s</string>

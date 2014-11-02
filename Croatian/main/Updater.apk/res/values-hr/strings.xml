@@ -63,7 +63,7 @@
   <string name="get_auto">Koristi mobilnu mrežu ili WLAN</string>
   <string name="get_current">Nabavite trenutni</string>
   <string name="get_update_error">Dohvaćanje informacija o ažuriranju nije uspjelo.</string>
-  <string name="go_on_download">Nastavi</string>
+  <string name="go_on_download">Preuzmi</string>
   <string name="install">Instaliraj</string>
   <string name="install_failed">Ažuriranje nije uspjelo</string>
   <string name="install_file_explorer">Morate instalirati aplikaciju Datoteke</string>
@@ -92,11 +92,11 @@
   <string name="next">Dalje</string>
   <string name="no_log">Nema dostupnih sažetaka</string>
   <string name="no_proper_updates">Nema dostupnih ažuriranja</string>
-  <string name="no_wifi_msg">"Više niste povezani s WLAN-om. Nastavljajući sa preuzimanjem preko mobilne podatkovne veze će povećati uporabu podataka."</string>
+  <string name="no_wifi_msg">"Korištenje vaše mobilne podatkovne veze za preuzimanje ažuriranja će povećati vašu uporabu podataka."</string>
   <string name="no_wifi_title">Upozorenje uporabe podataka</string>
   <string name="notification_downloading">Preuzimanje ažuriranja…</string>
-  <string name="notification_load_body_alpha">Prijavite se vašim Mi Računom da biste ažurirali svoj ​​uređaj.</string>
-  <string name="notification_load_body_dev">"Prijavite se vašim Mi Računom kako bi bili sigurni da dobivate odgovarajuća ažuriranja."</string>
+  <string name="notification_load_body_alpha">Nabavite najnovija ažuriranja za vaš uređaj.</string>
+  <string name="notification_load_body_dev">Nabavite najnovija ažuriranja za vaš uređaj</string>
   <string name="notification_load_title_alpha">Prijavite se u vaš Mi Račun</string>
   <string name="notification_load_title_dev">Prijavite se u vaš Mi Račun</string>
   <string name="notification_new_version">Ažuriraj na %s</string>
@@ -120,7 +120,7 @@
   <string name="repeat">Pokušaj ponovo</string>
   <string name="set_auto">Provjeri ima li ažuriranja automatski</string>
   <string name="set_installfail_full_msg">"Ne mogu ažurirati u ovom trenutku. Dodirnite \"U redu\" kako bi prijavili ovu pogrešku našim inženjerima."</string>
-  <string name="set_installfail_msg">Preuzimanje ovog ažuriranja preko mobilne podatkovne veze će povećati uporabu podataka.</string>
+  <string name="set_installfail_msg">Korištenje vaše mobilne podatkovne veze za preuzimanje ažuriranja će povećati vašu uporabu podataka.</string>
   <string name="set_installfail_title">Pokušati ponovno preuzeti ažuriranja?</string>
   <string name="set_installfail_title_full">Ažuriranje nije uspjelo</string>
   <string name="set_network_msg">Poveži se s WLAN mrežom prije preuzimanja ovog ažuriranja.</string>
@@ -138,7 +138,7 @@
   <string name="sina_share_success">Slanje uspješno!</string>
   <string name="sina_token_expired_warning">Weibo račun je istekao. Morate se ponovno prijaviti</string>
   <string name="sina_token_invalid_warning">Weibo račun je istekao. Morate se ponovno prijaviti</string>
-  <string name="space_not_enough_msg">"Nema dovoljno prostora za pohranu na uređaju za preuzimanje ovog ažuriranja."</string>
+  <string name="space_not_enough_msg">"Nema dovoljno prostora za pohranu na vašem uređaju."</string>
   <string name="space_not_enough_title">Nema dovoljno prostora</string>
   <string name="stable_build">Stable</string>
   <string name="submit">Pošalji</string>

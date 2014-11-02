@@ -145,6 +145,7 @@
   <string name="music_quality">Kvaliteta glazbe</string>
   <string name="music_settings">Glazba</string>
   <string name="my_account">Mi Račun</string>
+  <string name="my_music">Lokalno</string>
   <string name="my_music_empty">Popis pjesama je prazan!</string>
   <string name="my_music_empty_goto_online">Popis pjesama je prazan! Dodajte pjesme iz kartice Online</string>
   <string name="my_playlist">Moj popis pjesama</string>
@@ -194,7 +195,7 @@
   <string name="sleep_mode_summary">Zaustavite reprodukciju nakon proteklog vremena</string>
   <string name="sleep_mode_title">Sleep timer</string>
   <string name="song_not_find">"Ne mogu se spojiti na mrežu ili je ova pjesma nije dostupna."</string>
-  <string name="source_from">Izvor : %1$s</string>
+  <string name="source_from">Izvor: %1$s</string>
   <string name="streamloadingtext">Povezivanje na %s</string>
   <string name="tab_album_list">Albumi</string>
   <string name="tab_artist_list">Izvođači</string>
