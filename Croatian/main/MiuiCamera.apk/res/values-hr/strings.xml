@@ -5,7 +5,7 @@
   <string name="accessibilit_camera_video_switch_picker_and_state">Birač fotoaparat/video (trenutno koristite %s)</string>
   <string name="accessibility_camera_auto_flashmode">Autom. bljeskalica</string>
   <string name="accessibility_camera_flash_closemode">Bez bljeskalice</string>
-  <string name="accessibility_camera_flashmode">Uvijek bljeskalica</string>
+  <string name="accessibility_camera_flashmode">Uvijek</string>
   <string name="accessibility_camera_picker">Sklopka prednje i stražnje kamere</string>
   <string name="accessibility_close_more_ptions">Onemogući više opcija</string>
   <string name="accessibility_ev_control">Balansiranje kontrole ekspozicije</string>
@@ -170,7 +170,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="no_thumbnail">Bez minijatura</string>
   <string name="not_enough_space">Unutarnja pohrana je puna.</string>
   <string name="not_selectable_in_scene_mode">Ne može se odabrati u načinu scene.</string>
-  <string name="object_track_enable_toast">Kliknite na oba kraja objekta s dva prsta kako bi ga pratili.</string>
+  <string name="object_track_enable_toast">Dodirnite na oba kraja objekta s dva prsta kako bi ga pratili.</string>
   <string name="ok">U redu</string>
   <string name="orientation">Zakretanje</string>
   <string name="pano_dialog_panorama_failed">"Ne mogu spremiti panoramu."</string>
@@ -529,7 +529,7 @@ panoramske fotografije.</string>
   <string name="toast_burst_snap_forbidden_when_face_beauty_open">Brzo uzastopno snimanje nije podržano kada je aktiviran način poboljšanja lica.</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Brzo uzastopno snimanje nije podržano kada je HDR UKLJUČEN.</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Brzo uzastopno snimanje nije podržano kada ISO nije 'automatski'."</string>
-  <string name="toast_cannot_preview_image_when_screen_locked">Nije moguće pregledavati fotografije ili video ako je zaslon zaključan sa zaporkom.</string>
+  <string name="toast_cannot_preview_image_when_screen_locked">"Ne mogu se pregledavati fotografije ako je uređaj zaključan."</string>
   <string name="toast_start_audio_capture">Napravite zvuk na okidanju</string>
   <string name="ubi_focus_capture_fail">"Ne mogu snimiti fotografiju"</string>
   <string name="ubi_focus_exit_button_text">Zatvori</string>

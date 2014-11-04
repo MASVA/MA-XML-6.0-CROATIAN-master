@@ -25,6 +25,9 @@
   <string name="deselect_all">Odznači sve</string>
   <string name="determine">U redu</string>
   <string name="dialog_cannot_resume">Preuzimanje prekinuto i ne može biti nastavljeno.</string>
+  <string name="dialog_confirm_delete_checkbox_message">Izbriši lokalne datoteke također</string>
+  <string name="dialog_confirm_delete_downloads_message">Izbrisati zadatak: %d?</string>
+  <string name="dialog_confirm_delete_the_download_item_message">Izbriši ove zadatke</string>
   <string name="dialog_failed_body">Želite li ponovno pokušati preuzeti datoteku kasnije ili izbrisati s reda čekanja?</string>
   <string name="dialog_file_already_exists">Ne može se skinuti, odredišna datoteka već postoji.</string>
   <string name="dialog_file_missing_body">Preuzetu datoteku nije moguće pronaći</string>

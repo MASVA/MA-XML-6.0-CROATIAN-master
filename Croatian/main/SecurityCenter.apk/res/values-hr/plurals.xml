@@ -12,4 +12,8 @@
         <item quantity="other">"%d min "</item>
         <item quantity="one">"%d min "</item>
     </plurals>
+	<plurals name="summary_app_update">
+        <item quantity="other">Ažuriranja dostupna za apl.: %d.</item>
+        <item quantity="one">Ažuriranja dostupna za apl.: %d.</item>
+    </plurals>
 </resources>

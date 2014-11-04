@@ -102,6 +102,17 @@
   <string name="favourite_music_left_half">Za dodavanje pjesama na popis pjesama, dodirnite</string>
   <string name="favourite_music_right_half">Ikonu favorita s desne strane naslova pjesme</string>
   <string name="file_not_found">"Datoteka ne postoji"</string>
+  <string name="filter_by_duration">Filtriraj po trajanju</string>
+  <string name="filter_by_duration_format">%2$dmin%5$2dsek</string>
+  <string name="filter_by_duration_max">5 min</string>
+  <string name="filter_by_duration_min">0 sek</string>
+  <string name="filter_by_duration_prefix">"Minimalno trajanje: "</string>
+  <string name="filter_by_duration_summary">"Ne prikazuj kratke audio datoteke"</string>
+  <string name="filter_by_size">Filtriraj po veličini</string>
+  <string name="filter_by_size_max">2MB</string>
+  <string name="filter_by_size_min">0KB</string>
+  <string name="filter_by_size_prefix">"Minimalna veličina: "</string>
+  <string name="filter_by_size_summary">Ne prikazuj male audio datoteke"</string>
   <string name="find_music">Traži pjesme~</string>
   <string name="format_unsupported">"Ovaj format nije podržan."</string>
   <string name="fragment_more">Više</string>
@@ -139,9 +150,10 @@
   <string name="metered_alert_msg">"Korištenje vaše mobilne podatkovne veze za slušanje glazbe će povećati vašu uporabu podataka. Ako prekoračite vaše mjesečno ograničenje, to može dovesti do visokih dodatnih troškova."</string>
   <string name="metered_allow">Stream</string>
   <string name="metered_disallow">Odustani</string>
-  <string name="metered_play_toast">Korištenje mobilnu podatkovnu vezu za streaming</string>
+  <string name="metered_play_toast">Korištenje mobilne podatkovne veze za streaming</string>
   <string name="min_sleep_time">1</string>
   <string name="music_browser_label">Glazba</string>
+  <string name="music_filter">Filtriranje datoteka</string>
   <string name="music_quality">Kvaliteta glazbe</string>
   <string name="music_settings">Glazba</string>
   <string name="my_account">Mi Račun</string>
@@ -155,7 +167,6 @@
   <string name="no_favorites_songs">Prazno</string>
   <string name="no_local_songs">Prazno</string>
   <string name="no_local_songs_selected">"Ne mogu poslati pjesme, jer one nisu preuzete"</string>
-  <string name="no_local_source_find">"Ne mogu pronaći lokalne resurse, slanje nije uspjelo!"</string>
   <string name="no_online_song_selected">Nema odabranih pjesama</string>
   <string name="no_results_return">Nema rezultata pretraživanja</string>
   <string name="no_song_downloaded">"Ne mogu se spojiti na poslužitelj"</string>

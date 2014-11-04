@@ -267,7 +267,8 @@
   <string name="mx_online">Mrežno</string>
   <string name="mx_reactivate">Ponovno aktivirajte Mi Poruke</string>
   <string name="mx_recommend_msg">Dodirnite da uključite Mi Poruke</string>
-  <string name="need_download">Čekanje sinkronizacije…</string>
+  <string name="my_bookmark">Oznake</string>
+  <string name="need_download">Sinkroniziram…</string>
   <string name="new_message">Nova poruka</string>
   <string name="new_message_arrived">Primljena nova poruka</string>
   <string name="new_phrase">Novi izraz</string>
