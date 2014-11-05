@@ -418,7 +418,7 @@ svoj album s bilo kojeg mjesta.
   <string name="remove_from_secret_failed_message_with_count">"%2$s stavaka ne može biti uklonjeno iz taj. albuma: %1$s."</string>
   <string name="remove_from_secret_successfully_message">Uklonjeno iz tajnog albuma</string>
   <string name="remove_from_secret_unfinished_message_with_count">%1$s nije uklonjeno iz taj. albuma</string>
-  <string name="remove_hidden_album">Otkrij album</string>
+  <string name="remove_hidden_album">Prikaži</string>
   <string name="remove_recent_album">Ukloni iz omiljenih albuma</string>
   <string name="rename_failed">"Ne mogu preimenovati"</string>
   <string name="rename_failed_duplicated_name">Datoteka s istim imenom već postoji.</string>
@@ -459,8 +459,8 @@ svoj album s bilo kojeg mjesta.
   <string name="send_multiple_files_hint_format">Pošalji (%s)</string>
   <string name="send_public_url">Pošalji URL albuma</string>
   <string name="sepia">Sepija</string>
-  <string name="set_hidden_album">Skriveni album</string>
-  <string name="set_image">Postavi sliku kao</string>
+  <string name="set_hidden_album">Skrij</string>
+  <string name="set_image">Postavi sliku za</string>
   <string name="set_label_all_albums">Sve</string>
   <string name="set_label_local_albums">Lokalno</string>
   <string name="set_label_mtp_devices">MTP uređaji</string>

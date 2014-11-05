@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?> 
 <resources>
-    <string-array name="weeks">
-        <item>Pon.</item> 
-        <item>Uto.</item> 
-        <item>Sri.</item> 
-        <item>Čet.</item> 
-        <item>Pet.</item> 
-        <item>Sub.</item> 
-        <item>Ned.</item> 
-     </string-array>
-    <string-array name="weeks_short">
-        <item>Pon.</item> 
-        <item>Uto.</item> 
-        <item>Sri.</item> 
-        <item>Čet.</item> 
-        <item>Pet.</item> 
-        <item>Sub.</item> 
-        <item>Ned.</item> 
+    <string-array name="fortune">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
     </string-array>
     <string-array name="months">
         <item>Siječanj</item> 
@@ -38,66 +32,30 @@
         <item>Od Pon. do Pet.</item>
         <item>Prilagođeno</item>
     </string-array>
-    <string-array name="fortune">
-        <item>"Lako je postići cilj za jedan dan, ali je teško za svaki dan."</item>
-        <item>"Nije to jednostavno postizati novi cilj svaki dan."</item>
-        <item>Radite novi rekord svakodnevno!</item>
-        <item>Uživajte u izgradnji boljeg ja!</item>
-        <item>Nikada nisi gubitnik sve dok ne prestaneš pokušavati.</item>
-        <item>Ono smo što smo u više navrata činimo. Izvrsnost, dakle, nije čin, nego navika.</item>
-        <item>Postignite jedan cilj dnevno.</item>
-        <item>Držati izazov samom sebi da budete bolji danas.</item>
-        <item>Učini to.</item>
-        <item>Nastavi vježbati, pobjeda će voditi brigu o sebi.</item>
-    </string-array>
       <string-array name="weather_aqi_descriptions">
-        <item>Izvrsno</item>
+        <item>Odlično</item>
         <item>Dobro</item>
-        <item>Svjetlosno onečišćenje</item>
-        <item>Umjereno onečišćenje</item>
-        <item>Visoka razina kontaminacije</item>
-        <item>Teško zagađenje</item>
+        <item>Umjereno</item>
+        <item>Oprez</item>
+        <item>Nezdravo</item>
+        <item>Jako nezdravo</item>
     </string-array>
-    <string-array name="weather_rains">
-        <item>Pljusak</item>
-        <item>Oluja</item>
-        <item>Kiša</item>
-        <item>Kiša</item>
-        <item>Kiša</item>
-        <item>Pljusak</item>
-        <item>Pljusak</item>
-        <item>Ledena kiša</item>
-        <item>Kiša s tučom</item>
+    <string-array name="weeks">
+        <item>Pon.</item> 
+        <item>Uto.</item> 
+        <item>Sri.</item> 
+        <item>Čet.</item> 
+        <item>Pet.</item> 
+        <item>Sub.</item> 
+        <item>Ned.</item> 
     </string-array>
-    <string-array name="weather_rain_snows">
-        <item>Kiša s snijegom</item>
-    </string-array>
-    <string-array name="weather_snows">
-        <item>Kiša s snijegom</item>
-        <item>Snijeg</item>
-        <item>Snijeg</item>
-        <item>Snijeg</item>
-        <item>Oluja</item>
-    </string-array>
-    <string-array name="weather_sands">
-        <item>浮尘</item>
-        <item>扬沙</item>
-        <item>沙尘暴</item>
-        <item>强沙尘暴</item>
-    </string-array>
-    <string-array name="weather_fine">
-        <item>Vedro</item>
-    </string-array>
-    <string-array name="weather_cloudy">
-        <item>Pljuskovi</item>
-    </string-array>
-    <string-array name="weather_overcast">
-        <item>Oblačno</item>
-    </string-array>
-    <string-array name="weather_fog">
-        <item>Magla</item>
-    </string-array>
-    <string-array name="weather_haze">
-        <item>Sumaglica</item>
+    <string-array name="weeks_short">
+        <item>Pon.</item> 
+        <item>Uto.</item> 
+        <item>Sri.</item> 
+        <item>Čet.</item> 
+        <item>Pet.</item> 
+        <item>Sub.</item> 
+        <item>Ned.</item> 
     </string-array>
 </resources>

@@ -641,10 +641,10 @@
   <string name="sync_item_browser_summary">Sink. podataka na vaš cloud, i učinite korištenje preglednika na različitim uređajima jednostavnim</string>
   <string name="sync_item_browser_title">Sink. preglednik</string>
   <string name="tab_history">Povijest</string>
+  <string name="tab_hotpage">U trendu</string>
   <string name="tab_most_visited">Najposjećenije</string>
   <string name="tab_quicklinks">Korisno</string>
   <string name="tab_snapshots">Spremljene stranice</string>
-  <string name="tab_videopage">Video</string>
   <string name="tab_yellowpage">Popularno</string>
   <string name="time_picker_dialog_am">AM</string>
   <string name="time_picker_dialog_hour_minute_separator">:</string>

@@ -50,7 +50,7 @@
   <string name="addwhitelist">Dodaj u iznimke</string>
   <string name="all_address_choose_hint">Sve lokacije</string>
   <string name="app_name">Lista zabranjenih</string>
-  <string name="backsound_set_hint">Postaviti svoju odlaznu poruku za %s?</string>
+  <string name="backsound_set_hint">Postaviti svoju poruku \"Odsutan sam\" za %s?</string>
   <string name="baidu_thanks">Powered By Baidu</string>
   <string name="bl_block_info" formatted="false">Poziva %d| SMS-a: %d</string>
   <string name="bl_no_blacklist">Nema blokiranih brojeva.</string>

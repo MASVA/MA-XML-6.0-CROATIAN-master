@@ -42,7 +42,7 @@
   <string name="compress_fail">Sažimanje nije uspjelo: datoteka s istim imenom već postoji.</string>
   <string name="compress_message">Sažimanje na…</string>
   <string name="compress_title">Sažimanje</string>
-  <string name="confirm">Potvrdi</string>
+  <string name="confirm">U redu</string>
   <string name="connect_network_setting_des">Podsjeti prilikom pristupa mreži</string>
   <string name="confirm_know">U redu</string>
   <string name="copy_failed">"Ne mogu kopirati"</string>

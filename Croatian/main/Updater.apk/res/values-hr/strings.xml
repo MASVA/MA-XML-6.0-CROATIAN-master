@@ -19,7 +19,7 @@
   <string name="button_text_check">Provjeri</string>
   <string name="button_text_later_reboot">Kasnije</string>
   <string name="button_text_reboot">Sada ponovno pokrenite uređaj</string>
-  <string name="button_text_reboot_hm">Poslije</string>
+  <string name="button_text_reboot_hm">Sada ponovno pokrenite uređaj</string>
   <string name="button_text_update">Ažuriraj</string>
   <string name="cancel_download">Zaustaviti preuzimanje ovog ažuriranja?</string>
   <string name="cancel_download_buton_text">Odustani</string>
