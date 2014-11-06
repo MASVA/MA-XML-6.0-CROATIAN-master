@@ -598,8 +598,6 @@ Kopija: %4$s
   <string name="no_conversations">Nema poruka.</string>
   <string name="no_mails">Nema e-pošte.</string>
   <string name="no_matched_attachment">Nema rezultata.</string>
-  <string name="no_mails">Prazno</string>
-  <string name="no_matched_attachment">Nema podudaranih privitaka</string>
   <string name="no_wifi_promot">"Trenutno koriste mobilnu podatkovnu vezu"</string>
   <string name="non_synced_folder_description">Za prikaz razgovora sinkronizirajte ovu mapu.</string>
   <string name="not_subject">(Nema predmeta)</string>
