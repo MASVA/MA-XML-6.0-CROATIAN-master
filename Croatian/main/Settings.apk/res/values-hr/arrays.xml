@@ -611,6 +611,18 @@
         <item>100</item>
         <item>150</item>
         <item>200</item>
+	</string-array>
+    <string-array name="whetstone_level_entries">
+       <item>Isključeno</item>
+       <item>Nisko</item>
+       <item>Srednje</item>
+       <item>Visoko</item>
+    </string-array>
+    <string-array name="whetstone_level_values">
+       <item>0</item>
+       <item>1</item>
+       <item>2</item>
+       <item>3</item>
     </string-array>
 	<string-array name="miracast_policies">
         <item>Kraća odgoda</item>

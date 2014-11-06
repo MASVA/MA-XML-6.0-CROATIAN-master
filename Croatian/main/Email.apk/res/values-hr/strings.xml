@@ -35,19 +35,19 @@
   <string name="account_set_up_notice">Postavite račun e-pošte u samo nekoliko koraka</string>
   <string name="account_settings_action">Postavke računa</string>
   <string name="account_settings_background_attachments_label">Preuzimanje privitaka</string>
-  <string name="account_settings_background_attachments_summary">Automatsko preuzimanje privitaka uz nedavne poruke Wi-Fi mrežom</string>
+  <string name="account_settings_background_attachments_summary">Preuzimanje privitaka uz nedavne poruke koristeći WLAN mrežu</string>
   <string name="account_settings_data_usage">Potrošnja podataka</string>
   <string name="account_settings_description_label">Naziv računa</string>
   <string name="account_settings_edit_quick_responses_label">Brzi odgovori</string>
-  <string name="account_settings_edit_quick_responses_summary">Uredite tekst koji često umećete prilikom pisanja e-pošte</string>
-  <string name="account_settings_enforced_label">Pravila provedena</string>
+  <string name="account_settings_edit_quick_responses_summary">Uredite kratke poruke da ih možete zalijepiti u svoju e-poštu</string>
+  <string name="account_settings_enforced_label">Pravila</string>
   <string name="account_settings_enforced_summary">Ništa</string>
   <string name="account_settings_exit_server_settings">Odbaciti nespremljene promjene?</string>
   <string name="account_settings_incoming_label">Dolazne postavke</string>
   <string name="account_settings_incoming_summary">Korisničko ime, zaporka i ostale postavke dolaznog poslužitelja</string>
   <string name="account_settings_list_title">Odaberite davatelja usluga e-pošte:</string>
   <string name="account_settings_login_dialog_content_fmt">Netočno je korisničko ime ili zaporka za račun %s. Želite li to ažurirati sada?</string>
-  <string name="account_settings_login_dialog_reason_fmt" formatted="false">Nije uspjela vaša prijava na račun %s; ovo je poruka poslužitelja: %s Želite li ažurirati korisničko ime i/ili zaporku?</string>
+  <string name="account_settings_login_dialog_reason_fmt" formatted="false">"Ne mogu se prijaviti u %s; Ovo je poruka poslužitelja: %s"</string> 
   <string name="account_settings_login_dialog_title">Neuspjela prijava</string>
   <string name="account_settings_mail_check_frequency_label">Frekvencija sinkronizacije</string>
   <string name="account_settings_name_label">Vaše ime</string>
@@ -59,7 +59,7 @@
   <string name="account_settings_param">Postavke računa</string>
   <string name="account_settings_policies">Sigurnosna pravila</string>
   <string name="account_settings_retry_label">Pokušaj sinkronizaciju</string>
-  <string name="account_settings_retry_summary">Dodirnite ovdje za sinkronizaciju tog računa</string>
+  <string name="account_settings_retry_summary">Dodirnite za sinkronizaciju računa</string>
   <string name="account_settings_ringtone">Odaberite melodiju zvona</string>
   <string name="account_settings_servers">Postavke poslužitelja</string>
   <string name="account_settings_summary">Učestalost sinkronizacije, obavijesti itd.</string>
@@ -120,7 +120,7 @@
   <string name="account_setup_incoming_imap_path_prefix_hint">Izborno</string>
   <string name="account_setup_incoming_imap_path_prefix_label">Prefiks IMAP putanje</string>
   <string name="account_setup_incoming_mail_adress_label">Adresa e-pošte</string>
-  <string name="account_setup_incoming_mail_domain_hint">Ne može biti prazno</string>
+  <string name="account_setup_incoming_mail_domain_hint">Ovo polje ne može biti prazno</string>
   <string name="account_setup_incoming_mail_domain_label">Domena</string>
   <string name="account_setup_incoming_password_label">Zaporka</string>
   <string name="account_setup_incoming_port_label">Port</string>
@@ -211,7 +211,7 @@
   <string name="att_download_failed_content">"Ne mogu preuzeti privitak za ovu poruku."</string>
   <string name="att_download_failed_title">"Ne mogu preuzeti privitak."</string>
   <string name="att_file_not_exists">Datoteka %s nije pronađena!</string>
-  <string name="att_mgr_no_attachment">Nema privitaka!</string>
+  <string name="att_mgr_no_attachment">Nema privitaka.</string>
   <string name="att_mgr_title_order_mime">Format</string>
   <string name="att_mgr_title_order_name">Ime</string>
   <string name="att_mgr_title_order_rev_date">Datum</string>
@@ -225,6 +225,7 @@
   <string name="attachment_audio">Zvuk</string>
   <string name="attachment_canceling">Otkazuje se, pričekajte minutu!</string>
   <string name="attachment_decoding">Privitak je preuzet u potpunosti, u tijeku je dekodiranje, pričekajte.</string>
+  <string name="attachment_download_all">Preuzmi sve</string>
   <string name="attachment_image">Slika</string>
   <string name="attachment_mgr_name">Privici</string>
   <string name="attachment_not_exists">Privitak nije dostupan!</string>
@@ -261,7 +262,7 @@
   <string name="cc_attribution">Kopija: %1$s&lt;br&gt;</string>
   <string name="cc_bcc">Cc/Bcc</string>
   <string name="cc_heading">"Kopija: "</string>
-  <string name="change_account_confirm">Račun \"%1$s\" će biti uklonjen iz WPSMail-a.</string>
+  <string name="change_account_confirm">Račun \"%1$s\" će biti uklonjen iz Pošte.</string>
   <string name="change_account_type">Promijenite vrstu računa</string>
   <string name="change_folders_selection_dialog_title">Promjena mapa</string>
   <string name="change_sync_settings">Promjena sinkronizacije</string>
@@ -273,6 +274,7 @@
   <string name="clear_display_images_whitelist_dialog_message">Prestani prikazivati slike u tekstu od pošiljatelja koji su prethodno bili dopušteni.</string>
   <string name="clear_display_images_whitelist_dialog_title">Želite li izbrisati odobrenja za slike?</string>
   <string name="clear_display_images_whitelist_title">Brisanje odobrenja za slike</string>
+  <string name="click_download_all_content">[ Dodirnite za preuzimanje sadržaja ]</string>
   <string name="collapse_recipient_details">Sažmi podatke o primatelju</string>
   <string name="colon">:</string>
   <string name="compose">Nova poruka</string>
@@ -281,7 +283,7 @@
   <string name="confirm">U redu</string>
   <string name="confirm_delete">Izbrisati ovu poruku ?</string>
   <string name="confirm_discard_text">Odbaciti ovu poruku?</string>
-  <string name="confirm_response">Slanje odgovora…</string>
+  <string name="confirm_response">Slanje…</string>
   <string name="confirm_save_message_no">Odbaci</string>
   <string name="confirm_save_message_title">Spremiti poruku kao skicu?</string>
   <string name="confirm_save_message_yes">Spremi</string>
@@ -339,7 +341,7 @@
   <string name="default_setup">ZADANE POSTAVKE</string>
   <string name="default_signature">Poslano s mog Mi Telefona</string>
   <string name="delete">Izbriši</string>
-  <string name="delete_conversation_hint_message">%1$d %2$s je bilo izbrisano</string>
+  <string name="delete_conversation_hint_message">%1$d %2$s izbrisano</string>
   <string name="deleted">Izbrisano</string>
   <string name="device_activity_btn_str">Aktiviraj</string>
   <string name="device_activity_lint_str">Omogućite kompletno ažuriranje usluge E-pošte i aktivirajte sigurnosne postavke</string>
@@ -357,20 +359,20 @@
   <string name="dismiss_tip_hover_text">Odbacivanje savjeta</string>
   <string name="done">Gotovo</string>
   <string name="done_action">Gotovo</string>
+  <string name="download_again">Preuzmi ponovo</string>
+  <string name="download_before_sharing">" još nije završeno preuzimanje."</string>
+  <string name="download_before_view">"Ova poruka još nije preuzeta."</string>
   <string name="downlaod_cancel_confirm_download">Zaustavi</string>
   <string name="downlaod_cancel_continue_download">Natrag</string>
-  <string name="download_before_view">"Stavka još nije preuzeta, preuzmite je najprije!"</string>
   <string name="download_cancel_confirm_title">Preuzimanje će biti zaustavljeno</string>
   <string name="downlaod_confirm_download">Preuzmi</string>
-  <string name="downlaod_nonWifi_confirm_message">Koristiti mobilnu podatkovnu vezu za preuzimanje ovog privitka?</string>
-  <string name="download_again">Preuzmi ponovo</string>
-  <string name="download_before_sharing">" još nije završeno preuzimanje"</string>
-  <string name="download_complete_not_cancel">Preuzimanje završeno</string>
   <string name="download_confirm_message">Preuzeti %1$s privitak?</string>
   <string name="download_confirm_title">Preuzimanje privitka</string>
+  <string name="download_complete_not_cancel">Preuzimanje završeno</string>
   <string name="download_failed">"Ne mogu preuzeti. Dodirnite za ponovni pokušaj."</string>
-  <string name="downloading_message_body">Preuzimanje e-pošte…</string>
-  <string name="draft_count_format"> (%1$s)</string>
+  <string name="downlaod_nonWifi_confirm_message">Koristiti mobilnu podatkovnu vezu za preuzimanje ovog privitka?</string> 
+  <string name="downloading_message_body">Preuzimanje…</string>  
+  <string name="draft_count_format"> (%1$s)</string>  
   <string name="drawer_close">Zatvaranje pretinca za navigaciju</string>
   <string name="drawer_open">Otvaranje pretinca za navigaciju</string>
   <string name="eas_template">domena\\korisnik</string>
@@ -378,7 +380,7 @@
   <string name="elided_padding_token"> </string>
   <string name="email_feedback_uri"/>
   <string name="email_package_name">com.android.email</string>
-  <string name="empty_account_tip">"Ne mogu naći račun"</string>
+  <string name="empty_account_tip">"Ne mogu pronaći račun"</string>
   <string name="empty_email_tip">"Ne mogu poslati praznu e-poštu"</string>
   <string name="empty_spam">Pražnjenje neželjenih sadržaja</string>
   <string name="empty_spam_dialog_title">Želite li isprazniti neželjene sadržaje?</string>
@@ -402,6 +404,11 @@
   <string name="file_not_found_redownload">"Ne mogu pronaći datoteku"</string>
   <string name="file_rar_not_support">"Ne mogu otvoriti šifriranu rar datoteku"</string>
   <string name="filtered_tag">[%1$s]%2$s</string>
+  <string name="flow_saved_dlg_do_not_show">"Ne prikazuj ponovo"</string>
+  <string name="flow_saved_dlg_i_know">U redu</string>
+  <string name="flow_saved_dlg_message">Novih poruka: %1$d. Spremljeno %2$s (mobilni podaci).</string>
+  <string name="flow_saved_dlg_title">Smanjena vaša uporaba podataka</string>
+  <string name="flow_saved_preference_total">Spremljeno %1$s.</string>
   <string name="folder_drafts_name_cn0">草稿</string>
   <string name="folder_drafts_name_cn1">草稿箱</string>
   <string name="folder_drafts_name_en0">Skice</string>
@@ -449,6 +456,7 @@
   <string name="header_category_other">Dodatne postavke</string>
   <string name="header_label_general_preferences">Opće postavke</string>
   <string name="help_and_info">Pomoć</string>
+  <string name="hide_atts_remaining">Sakrij %1$d privitaka</string>
   <string name="hide_elided">▼ Sakrij citirani tekst</string>
   <string name="hide_folders">Sakrij mape</string>
   <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -470,9 +478,9 @@
   <string name="load_more">Učitaj više</string>
   <string name="loading_conversation">Učitavanje…</string>
   <string name="loading_conversations">Učitavanje…</string>
-  <string name="loading_from_remote">Pretraživanja na poslužitelju…</string>
+  <string name="loading_from_remote">Pretraživanje…</string>
   <string name="local_search">Lokalno pretraživanje</string>
-  <string name="local_search_result">%s pronađeno poruka e-pošte iz svih lokalnih poruka e-pošte</string>
+  <string name="local_search_result">Pronađeno poruka e-pošte na vašem uređaju: %s </string>
   <string name="login">Prijavite se</string>
   <string name="login_failed_ticker">Prijava računa %s neuspješna.</string>
   <string name="login_failed_title">"Neuspjela prijava"</string>
@@ -480,6 +488,11 @@
   <string name="long_string">duuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuugo</string>
   <string name="mail">E-pošta</string>
   <string name="mail_body_turncated">Ova poruka je prevelika za učitavanje, prikazati će se samo dio te je pročitajte na PC-u kasnije</string>
+  <string name="mail_header_downloading_message_body">Preuzimanje…</string>
+  <string name="mail_header_message_body_auto_download_complete">Preuzeti sadržaj e-pošte putem WLAN-a.</string>
+  <string name="mail_header_message_body_auto_download_tip">Sadržaj e-pošte će se preuzeti putem WLAN-a.</string>
+  <string name="mail_header_message_body_download_failed">Istek vremena povezivanja.</string>
+  <string name="mail_header_network_not_available">"Nemate mrežnu vezu."</string>
   <string name="mailbox_list_account_selector_combined_view">Kombinirani prikaz</string>
   <string name="mailbox_name_display_drafts">Skice</string>
   <string name="mailbox_name_display_inbox">Pristigla pošta</string>
@@ -538,6 +551,7 @@
   <string name="message_body_auto_download_complete">Preuzimanje pošte koristeći WLAN mrežu</string>
   <string name="message_body_auto_download_tip">"Vaša pošta će se automatski preuzeti ako ste spojeni na WLAN mrežu"</string>
   <string name="message_body_download_failed">"Ne mogu preuzeti poštu. Veza je prekinuta."</string>
+  <string name="message_body_loading">[ Učitavanje… ]</string>
   <string name="message_compose_fwd_header_fmt">"
 
 -------- Izvorna poruka --------
@@ -562,6 +576,8 @@ Kopija: %4$s
   <string name="message_saved">Poruka je spremljena kao skica.</string>
   <string name="message_type_name">Poruke</string>
   <string name="message_view_attachment_background_load">Jedan ili više privitaka u proslijeđenoj poruci preuzet će se prije slanja.</string>
+  <string name="mock_content_provider">Mock Content Provider</string>
+  <string name="more_atts_remaining">%1$d još preostalo</string>
   <string name="more_atts_total">%1$d privitaka</string>
   <string name="more_info_attachment">Informacije</string>
   <string name="more_string">+%1$s</string>
@@ -578,7 +594,10 @@ Kopija: %4$s
   <string name="no">Ne</string>
   <string name="no_address_email">noaddressemail@123.com</string>
   <string name="no_application_found">Nema nađenih aplikacija za otvaranje ovog privitka.</string>
+  <string name="no_contacts">Nema kontakata.</string>
   <string name="no_conversations">Nema poruka.</string>
+  <string name="no_mails">Nema e-pošte.</string>
+  <string name="no_matched_attachment">Nema rezultata.</string>
   <string name="no_mails">Prazno</string>
   <string name="no_matched_attachment">Nema podudaranih privitaka</string>
   <string name="no_wifi_promot">"Trenutno koriste mobilnu podatkovnu vezu"</string>
@@ -605,9 +624,9 @@ Kopija: %4$s
   <string name="outbox_alert_description_http_error">HTTP Pogreška tijekom izlazne sinkronizacije</string>
   <string name="outbox_alert_description_provision_error">Pogreška Odredaba s poslužitelja tijekom izlazne sinkronizacije</string>
   <string name="outbox_alert_description_sent_failed">"Veličina privitka prelazi ograničenje primatelja."</string>
-  <string name="outbox_alert_duplicate_click">"Don't duplicate click, mail is synchronizing"</string>
+  <string name="outbox_alert_duplicate_click">"Još sinkroniziram…"</string>
   <string name="outbox_alert_edit_resend">Uredi i ponovo pošalji</string>
-  <string name="outbox_alert_failed_edit_resend">Slanje nije uspjelo, uredi i ponovo pošaljite</string>
+  <string name="outbox_alert_failed_edit_resend">"Ne mogu poslati. Uredi i pokušaj ponovo."</string>
   <string name="outbox_alert_mailbox_not_found">Adresa E-pošte nije pronađena</string>
   <string name="outbox_alert_select_operation">Odaberite radnju</string>
   <string name="outbox_alert_title_sent_failed">"Ne mogu poslati e-poštu"</string>
@@ -622,9 +641,9 @@ Kopija: %4$s
   <string name="password_expired_dialog_content_fmt">Podaci za račun %s brišu se s vašeg uređaja. Možete ih vratiti promjenom PIN-a ili zaporke za zaključavanje. Želite li to promijeniti sada?</string>
   <string name="password_expired_dialog_title">Istekla zap. za zaklj. zasl.</string>
   <string name="password_expired_ticker">PIN ili zaporka za zaključavanje zaslona istekli su.</string>
-  <string name="perference_change_pw">Ažuriranje zaporke</string>
-  <string name="perference_change_pw_notnull_tips">Polje zaporke ne može biti prazno</string>
-  <string name="perference_change_pw_ok_tips">Uspješno ažuriranje zaporke</string>
+  <string name="perference_change_pw">Promjena zaporke</string>
+  <string name="perference_change_pw_notnull_tips">Unesite vašu zaporku</string>
+  <string name="perference_change_pw_ok_tips">Zaporka promjenjena</string>
   <string name="permission_access_provider_desc">Aplikaciji omogućuje pristup podatkovnoj bazi vaše e-pošte, uključujući primljene poruke, poslane poruke, korisnička imena i zaporke.</string>
   <string name="permission_access_provider_label">Pristup podacima o davatelju usluge e-pošte</string>
   <string name="permission_read_attachment_desc">Omogućuje aplikaciji da čita vaše privitke e-pošte.</string>
@@ -666,8 +685,10 @@ Kopija: %4$s
   <string name="policy_text_truncation">Ograničiti veličinu teksta e-pošte</string>
   <string name="pop3_name">POP3</string>
   <string name="prefDialogTitle_conversationListIcon">Slika pošiljatelja</string>
-  <string name="prefDialogTitle_removal_action">Radnje arhiviranja i brisanja</string>
-  <string name="preference_removal_action_title">Radnje arhiviranja i brisanja</string>
+  <string name="prefDialogTitle_removal_action">Radnje arhiviranja &amp; brisanja</string>
+  <string name="preference_head_load_description">Preuzmi samo naslove poruka prilikom korištenja mobilnih podataka.</string>
+  <string name="preference_head_load_title">Smanji uporabu podataka</string>
+  <string name="preference_removal_action_title">Radnje arhiviranja &amp; brisanja</string>
   <string name="preference_sender_image_description">"Prikaži slike profila pored imena pošiljatelja u pristigloj pošti"</string>
   <string name="preference_sender_image_title">Slike profila</string>
   <string name="preference_swipe_description">Povucite lijevo da označite ili izbrišete razgovor u pristigloj pošti</string>
@@ -676,7 +697,7 @@ Kopija: %4$s
   <string name="preferences_default_reply_all_summary">Upotrijebi kao zadano za odgovore na poruke</string>
   <string name="preferences_default_reply_all_title">Odgovori svima</string>
   <string name="preferences_signature_dialog_title">Potpis</string>
-  <string name="prefetched_got_it">"Razumijem"</string>
+  <string name="prefetched_got_it">U redu</string>
   <string name="preferences_signature_summary_not_set">Nije postavljeno</string>
   <string name="preferences_signature_title">Potpis</string>
   <string name="preview_attachment">Pregled</string>
@@ -705,14 +726,14 @@ Kopija: %4$s
   <string name="recipient_needed">Dodajte barem 1 primatelja.</string>
   <string name="recipient_null_dialog_title">Upozorenje</string>
   <string name="refresh">Osvježi</string>
-  <string name="refreshing">Sinkroniziram…</string>
+  <string name="refreshing">Osvježavam…</string>
   <string name="refreshing_done">Završeno</string>
   <string name="release_to_refresh">Pustite za osvježiti</string>
   <string name="remote_folders_heading">Mape poslužitelja</string>
   <string name="remote_search">Sve poruke e-pošte na poslužitelju</string>
-  <string name="remote_search_result">%s poruke e-pošte pronađene od svih poruka e-pošte na poslužitelju</string>
+  <string name="remote_search_result">%s poruke e-pošte pronađeno na poslužitelju</string>
   <string name="remove_account">Ukloni račun</string>
-  <string name="remove_account_confirm">\"%1$s\" će biti uklonjen iz WPS Maila.</string>
+  <string name="remove_account_confirm">\"%1$s\" će biti uklonjen iz Pošte.</string>
   <string name="remove_folder">Ukloni iz %1$s</string>
   <string name="remove_star">Odznači</string>
   <string name="reply">Odgovor</string>
@@ -723,7 +744,7 @@ Kopija: %4$s
   <string name="report_phishing">Prijavite krađu identiteta</string>
   <string name="report_spam">Prijavite neželjenu poštu</string>
   <string name="request_entity_large">Datoteka je prevelika</string>
-  <string name="require_manual_sync_message">Pozadinska sinkronizacija za ovaj račun onemogućena je u roamingu.</string>
+  <string name="require_manual_sync_message">Sinkronizacija za ovaj račun je isključena u roamingu.</string>
   <string name="respond_inline">Odgovori u tekstu</string>
   <string name="resume_draft">Uredi</string>
   <string name="retry">Pokušajte ponovo</string>
@@ -758,12 +779,12 @@ Kopija: %4$s
   <string name="sending">Slanje…</string>
   <string name="sending_message">Slanje poruke…</string>
   <string name="sent_folder_selection_title">Odaberite mapu za poslane stavke poslužitelja za %s</string>
-  <string name="ser_resp_err_map_certificate_validator_err">"Nije uspjelo potvrditi certifikat poslužitelja
-\u0009 (Provjerite postavku 'Auto sink. vremena')"</string>
+  <string name="ser_resp_err_map_certificate_validator_err">"Ne mogu potvrditi certifikat poslužitelja
+\u0009 (Provjerite dal je 'Auto sink. vremena' uključena u Postavkama.)"</string>
   <string name="ser_resp_err_map_connect_err">Pogreška mrežne veze. Pokušajte drugu mrežu</string>
-  <string name="ser_resp_err_map_nouser">Nema takvog korisnika</string>
+  <string name="ser_resp_err_map_nouser">"Korisnik ne postoji"</string>
   <string name="ser_resp_err_map_or">ili</string>
-  <string name="ser_resp_err_map_serclosed">Poslužitelj zatvoren</string>
+  <string name="ser_resp_err_map_serclosed">Poslužitelj je zatvoren</string>
   <string name="ser_resp_err_map_ssl">"Odaberite 'SSL/TLS (Prihvati sve certifikate)' u 'Vrsta sigurnosti'"</string>
   <string name="set_network">Postavljanje mreže</string>
   <string name="settings_activity_title">E-pošta</string>
@@ -822,12 +843,12 @@ Kopija: %4$s
   <string name="turn_auto_sync_on_dialog_confirm_btn">Uključi</string>
   <string name="turn_auto_sync_on_dialog_title">Želite li uključiti automatsku sinkronizaciju?</string>
   <string name="undo">Poništi</string>
-  <string name="unread_from_someone">Nepročitano od [%s]</string>
+  <string name="unread_from_someone">Nepročitana pošta od %s</string>
   <string name="unread_string">Razgovor nije pročitan</string>
   <string name="unsent_messages_in_outbox">Broj neposlanih poruka u mapi %2$s: %1$s</string>
-  <string name="updated_at">Zadnje ažuriranje: %1$s</string>
-  <string name="updated_just_now">Upravo ažurirano</string>
-  <string name="validation_failed_prompt">Provjera nije uspjela, provjerite %s postavke poslužitelja</string>
+  <string name="updated_at">Osvježeno u: %1$s</string>
+  <string name="updated_just_now">Osvježeno upravo sada</string>
+  <string name="validation_failed_prompt">"Ne mogu provjeriti. Provjerite postavke %s"</string>
   <string name="veiled_address"/>
   <string name="veiled_alternate_text"/>
   <string name="veiled_alternate_text_unknown_person"/>
@@ -849,15 +870,6 @@ Dodirnite "&lt;b&gt;Sinkroniziraj sada&lt;/b&gt; da biste poštu sinkronizirali 
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Ostalo</string>
   <string name="wrong_password">Zaporka koju ste unijeli nije točna</string>
-  <string name="xiaomi_bytes_unit">%1$sB</string>
-  <string name="xiaomi_external_storage_unavailable">Pohrana nedostupna, provjerite SD karticu.</string>
-  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-  <string name="xiaomi_megabytes_unit">%1$sMB</string>
-  <string name="xiaomi_update_dialog_message">"Predstavljamo verziju %1$s
-Veličina: %2$s"</string>
-  <string name="xiaomi_update_dialog_message_diff">"Predstavljamo verziju %1$s
-Veličina delta ažuriranja: %2$s"</string>
-  <string name="xiaomi_update_dialog_title">%1$s ažuriranje!</string>
   <string name="yes">Da</string>
-  <string name="zip_viewer_no_file">Prazno</string>
+  <string name="zip_viewer_no_file">Nema datoteka</string>
 </resources>

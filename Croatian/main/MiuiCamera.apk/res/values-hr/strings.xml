@@ -97,7 +97,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="error_app_unsupported_hfr_720p">720P može podržati do 90FPS</string>
   <string name="error_app_unsupported_hfr_codec">Samo H264 video enkodiranje nije podržano kada je HFR UKLJUČEN</string>
   <string name="error_app_unsupported_raw_wavelet">Uklanjanje šuma neće imati učinka pri snimanju RAW fotografija</string>
-  <string name="error_fail_to_start_audio_capture">Nije uspjelo pokretanje snimanja zvuka.</string>
+  <string name="error_fail_to_start_audio_capture">"Ne mogu pokrenuti snimanje zvuka."</string>
   <string name="exposure_time">Vrijeme ekspozicije</string>
   <string name="face_analyze_info">%1$s %2$s godina</string>
   <string name="face_analyze_info_female">Žena</string>
@@ -298,7 +298,7 @@ panoramske fotografije.</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_on">Snimanje</string>
   <string name="pref_camera_long_pressing_burst_shooting_title">Dugi pritisak na tipku okidača</string>
   <string name="pref_camera_manual_mode_title">Ručno</string>
-  <string name="pref_camera_movie_solid_title">Film solidan</string>
+  <string name="pref_camera_movie_solid_title">Stabilizacija slike</string>
   <string name="pref_camera_multilevel_entry_high">Visoki</string>
   <string name="pref_camera_multilevel_entry_higher">Viši</string>
   <string name="pref_camera_multilevel_entry_highest">Najviši</string>
@@ -309,7 +309,7 @@ panoramske fotografije.</string>
   <string name="pref_camera_multilevel_entry_normal">Normalan</string>
   <string name="pref_camera_multiple_face_beauty_entry_off">Jedno lice</string>
   <string name="pref_camera_multiple_face_beauty_entry_on">Dva lica</string>
-  <string name="pref_camera_multiple_face_beauty_title">Poboljšanje lica</string>
+  <string name="pref_camera_multiple_face_beauty_title">Tonovi kože</string>
   <string name="pref_camera_panoramamode_title">Panorama</string>
   <string name="pref_camera_picture_format_entry_jpeg">JPEG</string>
   <string name="pref_camera_picture_format_entry_raw">RAW</string>
@@ -343,12 +343,12 @@ panoramske fotografije.</string>
   <string name="pref_camera_raw_data_title">RAW</string>
   <string name="pref_camera_recordlocation_entry_off">Isključeno</string>
   <string name="pref_camera_recordlocation_entry_on">Uključeno</string>
-  <string name="pref_camera_recordlocation_title">Pohraniti detalje lokacije fotografija</string>
+  <string name="pref_camera_recordlocation_title">Spremanje lokacije</string>
   <string name="pref_camera_redeyereduction_entry_auto">Auto</string>
   <string name="pref_camera_redeyereduction_entry_disable">Onemogući</string>
   <string name="pref_camera_redeyereduction_entry_enable">Omogući</string>
   <string name="pref_camera_redeyereduction_title">Smanjenje efekta crvenih očiju</string>
-  <string name="pref_camera_referenceline_title">Referentna linija</string>
+  <string name="pref_camera_referenceline_title">Prikaži crte rešetke</string>
   <string name="pref_camera_saturation_title">Saturacija</string>
   <string name="pref_camera_scenedetect_title">Automatsko otkrivanje scena</string>
   <string name="pref_camera_scenemode_entry_auto">Automatski</string>
@@ -393,7 +393,7 @@ panoramske fotografije.</string>
   <string name="pref_camera_volumekey_function_entry_shutter">Okidač</string>
   <string name="pref_camera_volumekey_function_entry_volume">Glasnoća</string>
   <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
-  <string name="pref_camera_volumekey_function_title">Funkcije tipkaka glasnoće</string>
+  <string name="pref_camera_volumekey_function_title">Funkcija tipaka glasnoće</string>
   <string name="pref_camera_watermark_title">Oznaka vremena</string>
   <string name="pref_camera_whitebalance_entry_auto">Auto</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Oblačan</string>
@@ -426,7 +426,7 @@ panoramske fotografije.</string>
   <string name="pref_scan_qrcode_title">Skeniraj QR kod</string>
   <string name="pref_setting_title">Postavke</string>
   <string name="pref_settings_mode">Način rada kamere</string>
-  <string name="pref_video_captrue_ability_title">Sposobnost Snimanja</string>
+  <string name="pref_video_captrue_ability_title">Snimanje fotografija tijekom snimanja</string>
   <string name="pref_video_focusmode_entry_auto">Dodir</string>
   <string name="pref_video_focusmode_entry_continuous">Kontinuirano izoštravanje</string>
   <string name="pref_video_focusmode_title">Način izoštravanja</string>
@@ -498,7 +498,7 @@ panoramske fotografije.</string>
   <string name="simple_mode_button_text_chroma_flash">Zatvori</string>
   <string name="simple_mode_button_text_color_effect">Zatvori filter</string>
   <string name="simple_mode_button_text_countdown">Zatvori odbrojavanje</string>
-  <string name="simple_mode_button_text_face_beauty">Zatvori</string>
+  <string name="simple_mode_button_text_face_beauty">Zatvori tonove kože</string>
   <string name="simple_mode_button_text_fast_video">Zatvori</string>
   <string name="simple_mode_button_text_hand_night">Zatvori HHT</string>
   <string name="simple_mode_button_text_hdr">Zatvori HDR</string>
@@ -525,11 +525,11 @@ panoramske fotografije.</string>
   <string name="title">Naziv</string>
   <string name="toast_burst_snap_finished_end">fotografija</string>
   <string name="toast_burst_snap_finished_start">Brzo uzastopno snimanje završeno</string>
-  <string name="toast_burst_snap_forbidden_when_audio_capture_open">Brzo uzastopno snimanje nije podržano kada je snimanje zvuka UKLJUČENO.</string>
-  <string name="toast_burst_snap_forbidden_when_face_beauty_open">Brzo uzastopno snimanje nije podržano kada je aktiviran način poboljšanja lica.</string>
-  <string name="toast_burst_snap_forbidden_when_hdr_open">Brzo uzastopno snimanje nije podržano kada je HDR UKLJUČEN.</string>
-  <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Brzo uzastopno snimanje nije podržano kada ISO nije 'automatski'."</string>
-  <string name="toast_cannot_preview_image_when_screen_locked">"Ne mogu se pregledavati fotografije ako je uređaj zaključan."</string>
+  <string name="toast_burst_snap_forbidden_when_audio_capture_open">"Brzo uzastopno snimanje nije podržano kada je snimanje zvuka uključeno."</string>
+  <string name="toast_burst_snap_forbidden_when_face_beauty_open">"Brzo uzastopno snimanje nije podržano kada je aktiviran način tonovi kože."</string>
+  <string name="toast_burst_snap_forbidden_when_hdr_open">"Brzo uzastopno snimanje nije podržano kada je uključen HDR način."</string>
+  <string name="toast_burst_snap_forbidden_when_iso_not_auto">Podesite prvo ISO na \"auto\".</string>
+  <string name="toast_cannot_preview_image_when_screen_locked">""Ne mogu pregledavati slike dok je uređaj zaključan"</string>
   <string name="toast_start_audio_capture">Napravite zvuk na okidanju</string>
   <string name="ubi_focus_capture_fail">"Ne mogu snimiti fotografiju"</string>
   <string name="ubi_focus_exit_button_text">Zatvori</string>

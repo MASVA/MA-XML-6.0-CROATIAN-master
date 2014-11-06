@@ -1415,6 +1415,7 @@ i pokrenite ga."</string>
   <string name="mtp_ptp_mode_summary">MTP ili PTP radnja je aktivna</string>
   <string name="multi_touch_points_category_title">Točke višestrukog dodira</string>
   <string name="multi_touch_points_preference">Ova postavka će stupiti na snagu nakon što ponovno pokrenete uređaj</string>
+  <string name="music_HiFi_title">Hi-Fi audio</string>
   <string name="music_audio_effect_settings">Postavke efekata</string>
   <string name="music_dirac_mode_earbuds">Mi Slušalice</string>
   <string name="music_dirac_mode_general">Općenito</string>
@@ -2522,6 +2523,9 @@ Riječ možete dodati dodirom na tipku Dodaj (+)"</string>
   <string name="wfd_settings_title">Bežični zaslon</string>
   <string name="wfd_wps_keypad">Željena je autentifikacija pritiskom tipke</string>
   <string name="wfd_wps_pbc">Željena je autentifikacija unosom PIN-a</string>
+  <string name="whetstone_level_reboot">Ova postavka će stupiti na snagu kada ponovno pokrenete vaš uređaj</string>
+  <string name="whetstone_level_reboot_OK">Ponovno pokreni</string>
+  <string name="whetstone_level_title">Optimiziranje memorije sustava</string>
   <string name="widget_picker_title">Odaberite widget</string>
   <string name="wifi_access_points">WLAN mreže</string>
   <string name="wifi_add_network">Dodaj mrežu</string>

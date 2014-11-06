@@ -101,6 +101,7 @@
   <string name="file_too_large">Datoteka prevelika za učitavanje.</string>
   <string name="finished">Završeno</string>
   <string name="folder_exist">Mapa već postoji</string>
+  <string name="folder_name_illegal">Nevažeći naziv mape</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Dodirni&lt;/a&gt;za ići u smeće</string>
   <string name="ftp_account_req_notice">4~16 znakova, slova i znamenke , mala i velika slova</string>
   <string name="ftp_anonymous_login">Anonimna prijava</string>

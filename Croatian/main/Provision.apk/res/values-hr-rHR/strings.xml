@@ -8,8 +8,8 @@
   <string name="ime_privacy_policy_no_network">Nema mrežne veze. Pogledajte Pravila o privatnosti za ovu tipkovnicu na %s.</string>
   <string name="input_method_category">"Odaberite zadanu tipkovnicu koju ćete koristiti prilikom pisanja poruka e-pošte, bilješki, i svugdje drugdje. Također možete instalirati druge tipkovnice kasnije."</string>
   <string name="input_method_setting">Odaberite zadanu tipkovnicu</string>
-  <string name="locale_picker_confirm_dialog_desc">Potvrditi odabrano %s kao vašu lokaciju?</string>
-  <string name="locale_picker_confirm_dialog_title">Postavke lokacije</string>
+  <string name="locale_picker_confirm_dialog_desc">"Podesiti %s kao vašu lokaciju?"</string>
+  <string name="locale_picker_confirm_dialog_title">Odaberite vašu lokaciju</string>
   <string name="locale_picker_desc">"Ako želite kasnije promijeniti vašu zemlju, morat ćete resetirati uređaj na tvorničke postavke."</string>
   <string name="locale_picker_title">Odaberite Vašu zemlju</string>
   <string name="logo_congratulation">"Čestitamo. Sve ste postavili!"</string>
