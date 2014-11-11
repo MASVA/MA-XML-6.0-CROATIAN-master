@@ -59,6 +59,7 @@
   <string name="blacklist_prefix_add_hint">Dodati sve brojeve s predbrojem na listu zabranjenih</string>
   <string name="block_message_number">SMS-a:%d</string>
   <string name="block_phone_number">Poziva:%d</string>
+  <string name="button_text_delete">Izbriši</string>
   <string name="button_to_setting">Postavke</string>
   <string name="call_delete_hint">Ukloniti sve blokirane pozive s ovog broja?</string>
   <string name="cancle">Odustani</string>

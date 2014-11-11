@@ -35,6 +35,7 @@
   <string name="menu_settings">Postavke</string>
   <string name="message_file_size_error">Snimanje je dostiglo maksimalnu duljinu snimanja podržanu za %s</string>
   <string name="minute">%d minuta</string>
+  <string name="no_downloading_file">Nema preuzetih datoteka</string>
   <string name="no_file">Prazno</string>
   <string name="notification_message_all_paused">Čekanje na WLAN vezu.</string>
   <string name="notification_playback">Reprodukcija snimke…</string>
@@ -56,7 +57,7 @@
   <string name="preference_silent_mode">Isključi zvuk zvona tijekom snimanja</string>
   <string name="record_back_pressed_hint">Za zaustavljanje snimanja, dodirnite Natrag ponovo</string>
   <string name="record_download">Preuzmi s MiClouda</string>
-  <string name="record_download_activity">Preuzimanja</string>
+  <string name="record_download_activity">Popis preuzimanja</string>
   <string name="record_download_complete">Završeno</string>
   <string name="record_download_failed">Nije uspjelo</string>
   <string name="record_download_manager">Upravitelj preuzimanja</string>

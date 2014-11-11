@@ -2058,6 +2058,7 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="status_bar_settings_custom_notification">Upravljaj obavijestima</string>
   <string name="status_bar_settings_custom_wifi_name">Uredi naziv WLAN-a</string>
   <string name="status_bar_settings_expandable_under_keyguard">Prikaži na zaključanom zaslonu</string>
+  <string name="status_bar_settings_long_click_sort">Dugi klik za sortiranje</string>
   <string name="status_bar_settings_no_carrier">Ništa</string>
   <string name="status_bar_settings_notification_bar">Panel obavijesti</string>
   <string name="status_bar_settings_show_carrier">Prikaži naziv davatelja usluga</string>
@@ -2076,6 +2077,7 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="status_bar_settings_toggle_layout_style_applying">Promjena stila…</string>
   <string name="status_bar_settings_toggle_layout_style_compact">Linija</string>
   <string name="status_bar_settings_toggle_layout_style_single_page">Stranica</string>
+  <string name="status_bar_settings_toggle_position">Položaj prečaca</string>
   <string name="status_bar_style_settings">Obavijesti</string>
   <string name="status_bt_address">Bluetooth adresa</string>
   <string name="status_data_state">Stanje mobilne mreže</string>
