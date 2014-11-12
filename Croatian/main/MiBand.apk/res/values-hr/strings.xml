@@ -41,6 +41,7 @@ Uvjeti pružanja usluge: %2$s"</string>
   <string name="bind_bracelet">Mi Band uparen</string> 
   <string name="bind_bracelet_ok">Uspješno upareno</string> 
   <string name="bind_new_mili">Poveži s novim  Mi Bandom</string> 
+  <string name="bind_qq">Dodaj QQ</string>
   <string name="bind_qq_health">Sink. s QQ Health Center</string>
   <string name="bind_qq_health_tip">"Za sinkronizaciju informacija koraka i spavanja za QQ Health Platform,
 trebate dostupnu mrežu."</string>
@@ -60,7 +61,7 @@ zatim dodirnite Slijedi."</string>
   <string name="bind_weixin_title">Sinkronizirajte za dijeljenje i natjecanje se s prijateljima</string>
   <string name="blue">Plava</string> 
   <string name="bluetooth">Bluetooth </string> 
-  <string name="bmenu_my">Ja</string> 
+  <string name="body">Vrat</string>
   <string name="bracelet_info_battery">%s%%</string> 
   <string name="bracelet_info_deviceid">%s</string> 
   <string name="bracelet_info_fw_version">"Firmware: %1$s Uvjeti pružanja usluge: %2$s"</string>  
@@ -82,6 +83,7 @@ Adresa: %2$s"</string>
   <string name="cm">cm</string> 
   <string name="come_from_xiaomi_bracelet">Mi Band</string> 
   <string name="confirm">U redu</string> 
+  <string name="confirm_lazy_day">Označiti današnji dan lijenim?</string>
   <string name="connect_bracelet_now">Povezivanje…</string> 
   <string name="content_too_short">Unesite sadržaj poruke</string> 
   <string name="continue_reach_goal"> ciljevi</string> 
@@ -245,13 +247,15 @@ cilj za danas."</string>
   <string name="lab_factory_share_photo_menu_camera">Fotoaparat</string>
   <string name="lab_factory_share_photo_menu_gallery">Galerija</string>
   <string name="lab_factory_share_photo_menu_title">Odaberi fotografiju iz</string>
-  <string name="lab_factory_sport_analyser_activity_not_found">Nije uspjelo učitavanje UI</string>
-  <string name="lab_factory_sport_attention_punish_cheating">&lt;font color="#ff0000"&gt;Nema varanja! Mi vas gledamo...&lt;/font&gt;</string>
+  <string name="lab_factory_sport_accumulate">%d ukupno</string>
+  <string name="lab_factory_sport_analyser_activity_not_found">"Ne mogu učitati UI"</string>
   <string name="lab_factory_sport_average_rate_per_minute">Brzina &lt;b&gt;%d&lt;/b&gt; vrijeme/min</string>
   <string name="lab_factory_sport_best_record">Osobni Najbolji:</string>
   <string name="lab_factory_sport_button_restart">Restart</string>
   <string name="lab_factory_sport_button_stop">Stop</string>
-  <string name="lab_factory_sport_come_on">Dođi stvoriti osobni rekord</string>
+  <string name="lab_factory_sport_come_on">Samo nastavi tako!</string>
+  <string name="lab_factory_sport_continuous_ropeskipping">Pogodak</string>
+  <string name="lab_factory_sport_continuous_situp">Pogodak</string>
   <string name="lab_factory_sport_device_preparing">Priprema</string>
   <string name="lab_factory_sport_finish_desc">Kraj</string>
   <string name="lab_factory_sport_gb_count">Najbolji osobni %d puta</string>
@@ -293,6 +297,7 @@ cilj za danas."</string>
   <string name="lab_factory_sport_type_pingpong">Ping Pong</string>
   <string name="lab_factory_sport_type_riding">Jahanje</string>
   <string name="lab_factory_sport_type_ropeskipping">Preskakanje užeta</string>
+  <string name="lab_factory_sport_type_running">Trčanje</string>
   <string name="lab_factory_sport_type_situp">Sit-up</string>
   <string name="lab_factory_sport_type_skidding">Tegljenje</string>
   <string name="lab_factory_sport_type_sliding">Klizanje</string>
@@ -300,7 +305,11 @@ cilj za danas."</string>
   <string name="lab_factory_sport_type_tennis">Tenis</string>
   <string name="lab_factory_sport_type_volleyball">Odbojka</string>
   <string name="lab_factory_sport_unit">Vremena</string>
+  <string name="lab_factory_sport_vote_desc">Glasajte za vaš omiljeni sport</string>
   <string name="lab_factory_sport_vote_others_hint">Unesite vaš omiljeni sport</string>
+  <string name="lab_factory_sport_vote_result_desc">Hvala što ste glasali</string>
+  <string name="lab_factory_sport_vote_result_sub_desc">Glasali ste za</string>
+  <string name="lab_factory_sport_vote_sub_desc">Dolazi uskoro</string>
   <string name="lab_factory_sport_without_pb_info">&lt;font color=#f57130&gt;%1$s&lt;/font&gt;</string>
   <string name="lab_factory_title">Fitnes Centar</string>
   <string name="left_hand">Lijeva ruka</string>
@@ -354,9 +363,11 @@ Odlično!"</string>
   <string name="new_version_available">Dostupna nova verzija</string> 
   <string name="next_step">Dalje</string> 
   <string name="no_network_connection">"Ne mogu se spojiti na mrežu"</string>
+  <string name="no_network_connection_retry">Dodirnite za ponovno povezivanje.</string>
   <string name="no_wear_bracelet">"Mi Band nije nošen jučer"</string> 
   <string name="no_wear_user_modified">Ručno dodajte pojedinosti o mom spavanja</string>
   <string name="noti_bracelet_low_battery_content">Baterija je na manje od 5%, priključite punjač</string> 
+  <string name="noti_bracelet_low_battery_content_low">Baterija je jako slaba, morate napuniti svoj band.</string>
   <string name="noti_bracelet_low_battery_content_none">Priključite na punjač</string> 
   <string name="noti_bracelet_low_battery_title">Slaba baterija</string> 
   <string name="noti_bracelet_low_battery_title_none">Mi Band je isključen.</string>
@@ -375,6 +386,7 @@ Odlično!"</string>
   <string name="one_min">1 minutu ranije</string> 
   <string name="one_week">Ovaj tjedan </string> 
   <string name="orange">Narančasta</string> 
+  <string name="percent_mark">%</string>
   <string name="person_info_finished_info">"OK, sve je postavljeno!"</string>
   <string name="person_info_goal_info">"Stručnjaci preporučuju 40 minuta vježbanja 
 ili oko 8.000 koraka dnevno za aktivan, zdrav stil života. "</string>
@@ -419,7 +431,8 @@ ili oko 12.000 koraka dnevno za aktivan, zdrav stil života. "</string>
   <string name="set_mili_name_ok">Naziv Mi Banda prihvaćen!</string> 
   <string name="set_person_goal">Postavite cilj</string> 
   <string name="set_sport_goal">Postavite ciljeve</string> 
-  <string name="setting_about_app">Verzija aplikacije: </string> 
+  <string name="setting_about_app">Verzija aplikacije:
+ Tweaked by dezmen3"</string>
   <string name="setting_about_fw">Verzija </string> 
   <string name="setting_feedback_address">Kontakt</string> 
   <string name="setting_feedback_hint">Hvala vam na vešim povratnim informacijama.</string> 
@@ -438,9 +451,8 @@ ili oko 12.000 koraka dnevno za aktivan, zdrav stil života. "</string>
   <string name="share_continue_goal_format">"Prohodano %1$s, %2$s koraka dnevno.
 %3$s
 %4$s"</string>
-  <string name="share_continue_goal_format_run">"Prohodano %1$s, pretrčano %2$s.
-%3$s
-%4$s"</string>  
+  <string name="share_continue_goal_format_run">"Prohodano %1$s, pretrčano %2$s, %3$s.
+%4$s"</string>
   <string name="share_goal_tips_fail">Hladan dan za mene.</string>
   <string name="share_goal_tips_succ">Danas sam postigao svoj cilj!</string>
   <string name="share_miliao_too_old">MiTalk verzija je prestara.</string>
@@ -455,17 +467,16 @@ Zaspao u %5$s | Probudio se u %6$s"</string>
   <string name="share_sleep_title_daily">Spavanje</string>  
   <string name="share_step_description">"Prohodano %1$s, potrošeno %2$s kal.
 "</string>  
+  <string name="share_step_description_monthly">"%1$s, %2$s.
+ Potrošeno %3$s kal, uštedjeli ste %4$s litara benzina. Prethodni rekord je bio %6$s koraka, postavljen %5$s."</string>
   <string name="share_step_description_monthly_run">"%1$s, trčano %2$s
-%3$s, uštedjeli ste %4$s litara benzina.
 Prethodni rekord je bio %6$s koraka, postavljen %5$s."</string>
  <string name="share_step_description_run">"Prohodano %1$s, pretrčano %2$s.
 Potrošeno %3$scal.
 "</string>
   <string name="share_step_description_weekly">"%1$s%2$s
-Potrošeno %3$s kal. Prethodni rekord je bio
  %4$s koraka, postavljen %4$s."</string>
-  <string name="share_step_description_weekly_run">"%1$s, pretrčano %2$s.%3$s Prethodni rekord je bio
- %5$s koraka, postavljen %4$s."</string>
+  <string name="share_step_description_weekly_run">%1$s, trčano %2$s,%3$s. Prethodni rekord je bio %5$s koraka, postavljen %4$s.</string>
   <string name="share_step_goal_failed_title">Ukupno</string> 
   <string name="share_step_goal_failed_title_today">Danas</string> 
   <string name="share_step_goal_succ_title">Postignite cilj</string> 
@@ -481,10 +492,26 @@ Potrošeno %3$s kal. Prethodni rekord je bio
   <string name="share_to_title">Mi Band</string>
   <string name="share_to_topic">\#Mi Band#</string>
   <string name="share_uninstall_client">"Ova aplikacija nije instalirana."</string>
+  <string name="signal_strength">Jačina signala: </string>
   <string name="smart_alarm_clock">Alarm</string> 
   <string name="smart_alarm_notify">Alarm</string>
   <string name="smart_wake_up">Alarm</string>
   <string name="smart_wake_up_info">"Probudi me 30 minuta prije određenog vremena.</string>
+  <string name="sport_new_record_ropeskipping">Novi rekord</string>
+  <string name="sport_ranking_desc_great">WOW, sada si nepobjediv!</string>
+  <string name="sport_ranking_desc_normal" formatted="false">Pobijedio &lt;b&gt;%s%&lt;/b&gt; si %s korisnika.</string>
+  <string name="sport_ranking_desc_poor">Svaki %s korisnik te može pobijediti, zapni malo jače!</string>
+  <string name="sport_running_distance_detail">%s Kilometara</string>
+  <string name="sport_running_helper">pomoćnik kod trčanja</string>
+  <string name="sport_running_no_gps">GPS bi trebao biti uključen kako bi snimio svoj trag. Uključiti GPS?</string>
+  <string name="sport_running_pace">Tempo</string>
+  <string name="sport_running_pace_detail">%s/KM</string>
+  <string name="sport_running_set_dist">Podsjetnik udaljenosti</string>
+  <string name="sport_running_set_goal">Podsjetnik ciljeva</string>
+  <string name="sport_running_set_speed">Podsjetnik brzine</string>
+  <string name="sport_running_speed">Brzina</string>
+  <string name="sport_running_speed_detail">%dKM/H</string>
+  <string name="sport_share">Podijeli sada</string>
   <string name="start">Start</string> 
   <string name="start_download">Preuzimanje…</string> 
   <string name="start_weixin">Otvori WeChat</string>

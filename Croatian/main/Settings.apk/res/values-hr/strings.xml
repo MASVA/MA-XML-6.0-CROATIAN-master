@@ -133,7 +133,7 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="apn_settings">APN-ovi</string>
   <string name="apn_type">Vrsta APN-a</string>
   <string name="apn_user">Korisničko ime</string>
-  <string name="app_backup">Pohrana</string>
+  <string name="app_backup">Sig. kopija</string>
   <string name="app_disable_dlg_text">Ako onemogućite ugrađenu aplikaciju, druge aplikacije mogu se ponašati nepredviđeno.</string>
   <string name="app_disable_dlg_title">Onemogući ugrađenu aplikaciju?</string>
   <string name="app_disable_notifications_dlg_text">Ako isključite obavijesti za ovu aplikaciju, možda ćete propustiti važna upozorenja i ažuriranja.</string>
@@ -215,7 +215,7 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="backup_lock_settings_picker_title">Odabir sig. zaključ.</string>
   <string name="backup_pw_cancel_button_text">Odustani</string>
   <string name="backup_pw_set_button_text">Postavi zaporku za sigurnosnu kopiju</string>
-  <string name="backup_section_title">Pohrana &amp; vraćanje</string>
+  <string name="backup_section_title">Sig. kopija &amp; vraćanje</string>
   <string name="band_mode_failed">Neuspješno</string>
   <string name="band_mode_loading">Učitavanje popisa mrežnih postavki…</string>
   <string name="band_mode_set">Postavi</string>
@@ -586,12 +586,12 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="credential_storage_type_software">Samo softverski</string>
   <string name="credentials_configure_lock_screen_hint">Trebate postaviti PIN za zaključavanje zaslona ili zaporku prije nego što ćete moći upotrebljavati pohranu vjerodajnica.</string>
   <string name="credentials_enabled">Pohranjivanje vjerodajnica je omogućeno.</string>
-  <string name="credentials_erased">Pohrana vjerodajnica je izbrisana.</string>
+  <string name="credentials_erased">Sig. kopija vjerodajnica je izbrisana.</string>
   <string name="credentials_install">Instaliraj iz pohrane</string>
   <string name="credentials_install_gesture_explanation">Da biste potvrdili instalaciju vjerodajnica, trebate nacrtati svoj obrazac za otključavanje.</string>
   <string name="credentials_install_gesture_prompt">Iscrtajte uzorak za otključavanje</string>
   <string name="credentials_install_summary">Instaliraj certifikate iz pohrane</string>
-  <string name="credentials_not_erased">Pohrana vjerodajnica nije mogla biti izbrisana.</string>
+  <string name="credentials_not_erased">Sig. kopija vjerodajnica nije mogla biti izbrisana.</string>
   <string name="credentials_old_password">Trenutačna zaporka:</string>
   <string name="credentials_password_too_short">Zaporka treba imati barem 8 znakova.</string>
   <string name="credentials_reset">Izbriši vjerodajnice</string>
@@ -599,7 +599,7 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="credentials_reset_summary">Uklanjanje svih certifikata</string>
   <string name="credentials_reset_warning">Pogrešna zaporka. Imate još jedan pokušaj prije brisanja pohrane vjerodajnica.</string>
   <string name="credentials_reset_warning_plural">Pogrešna zaporka. Još imate ovoliko pokušaja prije brisanja pohrane vjerodajnica:%1$d.</string>
-  <string name="credentials_title">Pohrana vjerodajnica</string>
+  <string name="credentials_title">Sig. kopija vjerodajnica</string>
   <string name="credentials_unlock"/>
   <string name="credentials_unlock_hint">Upišite zaporku za pohranu vjerodajnica.</string>
   <string name="credentials_wrong_password">Pogrešna zaporka.</string>
@@ -1141,7 +1141,7 @@ Neke aplikacije neće raditi dok ih ne ažuriraju njihovi razvijatelji."</string
   <string name="local_backup_password_toast_confirmation_mismatch">Nova zaporka i potvrda se ne podudaraju</string>
   <string name="local_backup_password_toast_success">Nova zaporka sigurnosne kopije je postavljena</string>
   <string name="local_backup_password_toast_validation_failure">Nije uspjelo postavljanje zaporke sigurnosne kopije</string>
-  <string name="local_backup_section_summary">Pohrana postavki sustava, detalja računa, i aplikacija</string>
+  <string name="local_backup_section_summary">Sig. kopija postavki sustava, detalja računa, i aplikacija</string>
   <string name="local_backup_section_title">Lokalna pohrana</string>
   <string name="locale_default">Zadano</string>
   <string name="location_access_summary">Omogućite da aplikacije koje su tražile vaše dopuštenje upotrebljavaju informacije o vašoj lokaciji</string>
@@ -1624,8 +1624,8 @@ i pokrenite ga."</string>
   <string name="privacy_mode_enable_title">Gost način</string>
   <string name="privacy_protect_title">Zaštita privatnosti</string>
   <string name="privacy_relative">Privatnost</string>
-  <string name="privacy_settings">Stvori Pohranu &amp; poništi</string>
-  <string name="privacy_settings_title">Stvori Pohranu &amp; poništi</string>
+  <string name="privacy_settings">Stvori Sig. kopiju &amp; poništi</string>
+  <string name="privacy_settings_title">Stvori Sig. kopiju &amp; poništi</string>
   <string name="private_gallery_need_to_unlock">Potrebna je zaporka:</string>
   <string name="private_gallery_recording_intro_header">Iscrtajte uzorak otključavanja:</string>
   <string name="private_gallery_reset_by_account">Za poništavanje zaporke, prijavite se na vaš Xiaomi račun</string>
@@ -1748,7 +1748,7 @@ i pokrenite ga."</string>
   <string name="recompute_size">Ponovni izračun veličine…</string>
   <string name="regulatory_info_text"/>
   <string name="regulatory_information">Informacije o propisima</string>
-  <string name="remove_account_failed">Ovaj je račun potreban za neke aplikacije. Možete ga ukloniti samo vraćanjem uređaja na tvorničke postavke (čime ćete izbrisati sve osobne podatke) na zaslonu Postavke &gt; Pohrana &amp; poništavanje.</string>
+  <string name="remove_account_failed">Ovaj je račun potreban za neke aplikacije. Možete ga ukloniti samo vraćanjem uređaja na tvorničke postavke (čime ćete izbrisati sve osobne podatke) na zaslonu Postavke &gt; Sig. kopija &amp; poništavanje.</string>
   <string name="remove_account_label">"Brisanje računa"</string>
   <string name="remove_device_admin">Deaktiviraj</string>
   <string name="remove_from_frequently_fragment">Ukloniti %s iz brzih postavki?</string>
@@ -2106,12 +2106,12 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="status_wifi_mac_address">MAC adresa WLAN-a</string>
   <string name="status_wimax_mac_address">4G MAC adresa</string>
   <string name="storage_format">Format</string>
-  <string name="storage_label">"Pohrana"</string>
+  <string name="storage_label">"Sig. kopija"</string>
   <string name="storage_low_summary">Neke funkcije sustava, kao što je sinkroniziranje, možda neće ispravno funkcionirati. Pokušajte osloboditi prostor brisanjem stavki ili ih otkvačite, primjerice aplikacije ili medijski sadržaj.</string>
   <string name="storage_low_title">Ponestaje prostora za pohranu</string>
   <string name="storage_menu_usb">Povezivanje USB-a i računala</string>
   <string name="storage_other_users">Drugi korisnici</string>
-  <string name="storage_settings">"Pohrana"</string>
+  <string name="storage_settings">"Sig. kopija"</string>
   <string name="storage_settings_summary">Isključi USB pohranu, prikaži dostupnu pohranu</string>
   <string name="storage_settings_title">Postavke pohrane</string>
   <string name="storage_title_usb">Povezivanje USB-a i računala</string>
@@ -2146,7 +2146,7 @@ Googleov pristup sinkronizaciji podataka za mogućnost pristupa kontaktima, sast
   <string name="sync_wifi_only">Samo na WLAN-u</string>
   <string name="system">Sustav</string>
   <string name="system_app_settings">Aplikacije sustava</string>
-  <string name="system_backup_section_title">Pohrana</string>
+  <string name="system_backup_section_title">Sig. kopija</string>
   <string name="system_package">Ažuriranja sustava nije moguće instalirati na vanjskom mediju.</string>
   <string name="system_storage">Unutarnja pohrana</string>
   <string name="system_update_settings_list_item_summary"/>

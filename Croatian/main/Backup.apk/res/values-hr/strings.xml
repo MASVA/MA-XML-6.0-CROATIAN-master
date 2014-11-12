@@ -171,13 +171,13 @@
   <string name="task_finished">Sig. kopija uspješno završena</string>
   <string name="task_local_backup_cancel_dialog">Sig. kopija nije završena. Svejedno otkazati?</string>
   <string name="task_pending">U tijeku…</string>
-  <string name="task_post_running">Stavranje Sig. kopije…</string>
+  <string name="task_post_running">Stvaranje Sig. kopije…</string>
   <string name="task_pre_running">Pokretanje…</string>
   <string name="task_progress">Napredak</string>
   <string name="task_restore_cancel_dialog">Otkazivanje u ovom trenutku može dovesti do gubljenja podataka</string>
   <string name="task_restore_cancel_progress">Otkazivanje…</string>
   <string name="task_restore_finished_local">Vraćanje završeno</string>
-  <string name="task_restore_none">Ništa Sig. kopije za vraćanje</string>
+  <string name="task_restore_none">Nema Sig. kopija za vraćanje</string>
   <string name="task_running_backup_dialog">Izvođenje Sig. kopije je u tijeku. Dodirnite U redu za pregled.</string>
   <string name="task_running_backup_hint">Taj proces je već pokrenut u pozadini!</string>
   <string name="task_running_dialog">Sig. kopija i vraćanje su u tijeku. Dodirnite U redu za pregled.</string>
