@@ -11,6 +11,16 @@
   <string name="cit_accelermeter_sensor_check_summary">"Pomičite uređaj brzo u jednom smjeru. X，Y，Z vrijednosti se prikazuju ispod. (kada je telefon u pokretu: X predstavlja lijevo/desno, y predstavlja ispred/iza, z predstavlja gore i dolje).
 Prije kalibracije uređaja, stavite ga na ravnu površinu."</string>
   <string name="cit_accelermeter_sensor_check_title">Testiranje ubrzanja</string>
+  <string name="cit_aud_spkcal">Kalibriraj</string>
+  <string name="cit_audio_cali_done">Kalibriranje završeno!</string>
+  <string name="cit_audio_cali_failed">Kalibriranje nije uspjelo, pokušajte ponovo!</string>
+  <string name="cit_audio_cali_file_existed">Glazbena datoteka ne postoji, ne mogu kalibrirati!</string>
+  <string name="cit_audio_cali_playing">Pritisnite tipku za početak kalibriranja</string>
+  <string name="cit_audio_cali_summary">Kalibriraj PA zvučnik</string>
+  <string name="cit_audio_cali_title">Test kalibriranja PA zvučnika</string>
+  <string name="cit_audio_cali_valueF0">F0:</string>
+  <string name="cit_audio_cali_valueR">Impedancija:</string>
+  <string name="cit_audio_cali_valueT">tCoef:</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Testiranje stražnjeg zvučnika mikrofona</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Testiranje glavnog zvučnika mikrofona</string>
   <string name="cit_audio_lb_phonecall_title">Imitacija poziva</string>

@@ -539,9 +539,6 @@
   <string name="sip_receive_calls_summary">Smanjuje vijek trajanje baterije</string>
   <string name="sip_settings">Postavke Internetskog poziva</string>
   <string name="sports_news_settings">Vijesti iz sporta</string>
-  <string name="stk_cc_ss_to_dial_error">SS zahtjev promijenjen za DIAL zahtjev.</string>
-  <string name="stk_cc_ss_to_ss_error">SS zahtjev promijenjen za novi SS zahtjev.</string>
-  <string name="stk_cc_ss_to_ussd_error">SS zahtjev promijenjen za USSD zahtjev.</string>
   <string name="stock_quotes_disable">Vrijednosti dionica onemogućene</string>
   <string name="stock_quotes_enable">Vrijednosti dionica omogućene</string>
   <string name="sub_1">SUB 1</string>

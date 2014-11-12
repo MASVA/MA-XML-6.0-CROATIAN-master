@@ -259,8 +259,8 @@
   <string name="empty_alert">Polje %s obavezno je i ne može ostati prazno.</string>
   <string name="empty_networks_list">Nije pronađena mreža.</string>
   <string name="enable">Omogući</string>
-  <string name="enable_antispam_strange_summary">Utišaj prvi poziv s nepoznatog broja</string>
-  <string name="enable_antispam_strange_title">Utišaj nepoznate brojeve</string>
+  <string name="enable_antispam_strange_summary">Utišaj prvo zvono za pozive s nepoznatog broja</string>
+  <string name="enable_antispam_strange_title">Utišaj prvo zvono</string>
   <string name="enable_disable_administrative">Administracija</string>
   <string name="enable_disable_advertisements">Oglašavanje</string>
   <string name="enable_disable_atr">Izvješća o području prometa</string>
@@ -651,7 +651,7 @@ Vaša SIM kartica bit će izbrisani nakon još jednog neuspjelog pokušaja."</st
   <string name="registration_status_server_unreachable">Prijava računa nije uspjela: provjerite naziv poslužitelja.</string>
   <string name="registration_status_still_trying">Još pokušavam…</string>
   <string name="reject_via_sms">Brzi odgovori</string>
-  <string name="reject_via_sms_summary">Uredi prethodno napisane odgovore</string>
+  <string name="reject_via_sms_summary">Uredi prethodno napisane poruke</string>
   <string name="reject_via_sms_title">Brzi odgovori</string>
   <string name="remember_my_choice">Uvijek upotrijebi za internetske pozive</string>
   <string name="remove">Izbrisati</string>
@@ -841,7 +841,8 @@ Vaša SIM kartica bit će izbrisani nakon još jednog neuspjelog pokušaja."</st
   <string name="updating_fdn_contact">Ažuriranje broja za fiksno biranje…</string>
   <string name="updating_settings">Ažuriranje postavki…</string>
   <string name="uplmn_list_setting_add_plmn">Novi PLMN</string>
-  <string name="uplmn_list_setting_title">Željene mreže</string>
+  <string name="uplmn_list_setting_title">Poželjne mreže</string>
+  <string name="uplmn_numeric_is_empty">Unesite ID mreže</string>
   <string name="username">Korisničko ime</string>
   <string name="username_title">Korisničko ime</string>
   <string name="ussdRunning">Pokrenut je USSD kôd…</string>
