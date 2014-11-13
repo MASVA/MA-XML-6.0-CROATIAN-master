@@ -22,6 +22,9 @@
   <string name="action_key_play_prev">Prethodno</string>
   <string name="action_key_power">Energija</string>
   <string name="action_key_power_long">Energija (Dugi pritisak)</string>
+  <string name="action_key_vol">Tipke za glasnoću</string>
+  <string name="action_key_vol_down">Glasnoća -</string>
+  <string name="action_key_vol_up">Glasnoća +</string>
   <string name="action_kuaidi">Brzi taxi</string>
   <string name="action_lock_screen">Zaklj. zaslon</string>
   <string name="action_open_camera">Fotoaparat</string>
@@ -178,6 +181,7 @@ Tijekom uporabe, ostale funkcije MiKey su nedostupne."</string>
   <string name="select_camera">Odaberi kameru</string>
   <string name="select_device">Odaberi uređaj</string>
   <string name="select_direction">Smjerovi</string>
+  <string name="select_vol">Odaberite tipke za glasnoću</string>
   <string name="setting_buy">Kupi MiKey</string>
   <string name="setting_feedback">Pov. informacija</string>
   <string name="setting_instant_photo_desc">"Prije snimanja fotografije, fotoaparat će fokusirati"</string>
@@ -251,6 +255,15 @@ Pritiskom na MiKey simulirajte dodir na odabranom mjestu"</string>
   <string name="unsupport_title">Ova značajka nije podržana</string>
   <string name="update_message">Ažuriranje!</string>
   <string name="vcard_prompt">Nije moguće dodati kontakt, jer nema imena</string>
+  <string name="wallpaper_action">Promjena slike pozadine</string>
+  <string name="wallpaper_change_both">Početni zaslon + Zaklj. zaslon</string>
+  <string name="wallpaper_change_desktop">Slika pozadine počet. zaslona</string>
+  <string name="wallpaper_change_failed">Promjena nije uspjela</string>
+  <string name="wallpaper_change_home">Slika pozadine Zaklj. zaslona</string>
+  <string name="wallpaper_change_home_failed">Promjena nije uspjela</string>
+  <string name="wallpaper_change_ok">Slika pozadine promjenjena</string>
+  <string name="wallpaper_changing">Promjena slike pozadine…</string>
+  <string name="wallpaper_no_more">Ne mijenjaj sliku pozadine</string>
   <string name="web">Web-stranica:</string>
   <string name="write_pic_fail">Neuspjelo spremanje slike!</string>
 </resources>

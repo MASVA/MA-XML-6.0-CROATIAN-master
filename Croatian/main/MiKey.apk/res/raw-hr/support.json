@@ -21,6 +21,12 @@
     "name" : "com.xiaomi.miclick.core.action.VideoRecorderAction",
     "sortId" : 4
   },
+  { "mutex" : [ "com.xiaomi.miclick.core.action.WallpaperAction"],
+    "groupId" : 1,
+    "groupName" : "Aplikacija",
+    "name" : "com.xiaomi.miclick.core.action.WallpaperAction",
+    "sortId" : 14
+    },
   { "groupId" : 1,
     "groupName" : "Aplikacija",
     "mutex" : [ "com.xiaomi.miclick.core.action.Camera360CaptureAction",
@@ -78,6 +84,12 @@
     "groupName" : "Aplikacija",
     "name" : "com.xiaomi.miclick.core.action.OpenAppAction",
     "sortId" : 13
+     },
+  { "mutex" : [ "com.xiaomi.miclick.core.action.WallpaperAction"],
+     "groupId" : 1,
+     "groupName" : "Aplikacija",
+     "name" : "com.xiaomi.miclick.core.action.WallpaperAction",
+     "sortId" : 14
   },
   { "groupId" : 2,
     "groupName" : "Sustav",
@@ -198,10 +210,15 @@
        "groupName" : "Tipke",
        "name" : "com.xiaomi.miclick.core.action.key.DirectionAction",
        "sortId" : 24
-     },
-        { "groupId" : 3,
-          "groupName" : "Tipke",
-          "name" : "com.xiaomi.miclick.core.action.key.EnterAction",
-          "sortId" : 25
-        }
+  },
+  { "groupId" : 3,
+    "groupName" : "Tipke",
+    "name" : "com.xiaomi.miclick.core.action.key.EnterAction",
+    "sortId" : 25
+  },
+	{ "groupId" : 3,
+     "groupName" : "Tipke",
+     "name" : "com.xiaomi.miclick.core.action.key.SoundAction",
+     "sortId" : 26
+  }
 ]
