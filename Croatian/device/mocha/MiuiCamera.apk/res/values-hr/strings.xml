@@ -399,7 +399,6 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="pref_camera_whitebalance_entry_incandescent">Usijan</string>
   <string name="pref_camera_whitebalance_entry_manual">Ručno</string>
   <string name="pref_camera_whitebalance_entry_measure">Mjerenje</string>
-  <string name="pref_camera_whitebalance_k_value_title">Vrijednost K Balansa bijele</string>
   <string name="pref_camera_whitebalance_title">Balans bijele</string>
   <string name="pref_camera_zsl_entry_off">Isključeno</string>
   <string name="pref_camera_zsl_entry_on">Uključeno</string>
