@@ -37,7 +37,8 @@
   <string name="bestv">Bestv</string>
   <string name="buffering">Međupohrana…</string>
   <string name="buffering_video_netplay_label_v5">Međupohrana…</string>
-  <string name="cancel">odustani</string>
+  <string name="cancel">Odustani</string>
+  <string name="cancel_button">Odustani</string>
   <string name="cancel_favorite_success">Neoznačeno</string>
   <string name="channel_choice_empty_hint">Prazno</string>
   <string name="channel_empty_hint">Prazno</string>
@@ -135,6 +136,8 @@
   <string name="gong_count_xiang">"Broj stavki: %d "</string>
   <string name="good">U redu</string>
   <string name="guess_you_like">Preporučeno</string>
+  <string name="hint_can_not_get_source_info">"Ne mogu dobiti informacija o videozapisu"</string>
+  <string name="hint_without_selected_set">Pronađi izvor sadržaja automatski</string>
   <string name="hot_recommend">U trendu</string>
   <string name="icntv">iCNTV</string>
   <string name="imports">Uvezi</string>
@@ -190,6 +193,7 @@
   <string name="ok">U redu</string>
   <string name="online_video">Internet</string>
   <string name="other_setting">Ostalo</string>
+  <string name="partner_specials">Sadržaj partnera</string>
   <string name="pause">Pauza</string>
   <string name="percent_status">%.1f%%</string>
   <string name="pick_addon_to_delete">Odaberite stavke</string>
@@ -225,6 +229,7 @@
   <string name="see_all_count_comment">%d još komentara</string>
   <string name="select_all">Odaberi sve</string>
   <string name="select_count_xiang">%d odabrano</string>
+  <string name="select_media_source">Odaberi izvor</string>
   <string name="select_none">Poništi odabir</string>
   <string name="select_offline_media">Prikaži preuzimanja</string>
   <string name="select_tv">Odaberi kanal</string>
@@ -261,7 +266,12 @@
   <string name="unfavorite">Odznači</string>
   <string name="unknown_source">Nepoznat izvor</string>
   <string name="update">Ažurirano</string>
+  <string name="update_apk_statusbar">Preuzimanje…</string>
+  <string name="update_button">Ažuriranje</string>
+  <string name="update_size_prefix">Size:</string>
+  <string name="update_title">Dostupno ažuriranje</string>
   <string name="update_to_count_ji">Ažurirano na Ep S. %s</string>
+  <string name="update_version_prefix">Ažuriraj na verziju:</string>
   <string name="updatedalready">Ažurirano</string>
   <string name="upgrade">Nadogradi</string>
   <string name="use_cellular_network">Koristiti mobilnu mrežu</string>

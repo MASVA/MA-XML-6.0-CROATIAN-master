@@ -94,6 +94,7 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="allow_bind_app_widget_activity_always_allow_bind">Uvijek dopusti aplikaciji %1$s izradu widgeta i pristupanje njihovim podacima</string>
   <string name="allow_mock_location">Dopusti probne lokacije</string>
   <string name="allow_mock_location_summary">Dopusti probne lokacije</string>
+  <string name="alpha_build">" | Alpha"</string>
   <string name="always_allow_bind_appwidgets_text">"Odlučili ste dopustiti ovoj aplikaciji izradu widgeta i pristupanje njihovim podacima."</string>
   <string name="android_beam_disabled_summary">Nije dostupno jer je NFC isključen</string>
   <string name="android_beam_explained">Kada je ta značajka uključena, možete emitirati sadržaj aplikacije na drugi uređaj na kojem je omogućen NFC tako da držite uređaje jedan uz drugi. Na primjer, možete emitirati stranice Preglednika, videozapise s YouTubea, kontakte s Osoba i više.</string>
@@ -371,7 +372,6 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="bluetooth_enter_pin_msg">"Za uparivanje s uređajem:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Upišite potreban PIN uređaja:"</string>
   <string name="bluetooth_enter_pin_other_device">Možda ćete ovaj PIN trebati unijeti i na drugi uređaj.</string>
   <string name="bluetooth_error_title"/>
-  <string name="experimental_build">(Probno)</string>
   <string name="bluetooth_headset_profile_summary_connected">Povezano sa telefonskim zvukom</string>
   <string name="bluetooth_headset_profile_summary_use_for">Koristi za telefonski zvuk</string>
   <string name="bluetooth_hid_profile_summary_connected">Povezano s ulaznim uređajem</string>
@@ -729,6 +729,7 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="details_title">Pojedinosti korištenja</string>
   <string name="dev_settings_warning_message">Ove su postavke namijenjene samo razvojnim programerima. One mogu uzrokovati kvar ili neželjeno ponašanje vašeg uređaja i aplikacija na njemu.</string>
   <string name="dev_settings_warning_title">Dopustiti postavke razvojnih programera?</string>
+  <string name="developer_build">" | Raz.programer"</string>
   <string name="development_enable">Opcije za razvojne programere</string>
   <string name="development_settings_not_available">Opcije razvojnih programera nisu dostupne za ovog korisnika</string>
   <string name="development_settings_summary">Postavljanje opcija za razvoj aplikacije</string>
@@ -2039,6 +2040,7 @@ Za više informacija kontaktirajte vašeg administratora.</string>
   <string name="ssl_ca_cert_warning">Mreža se možda nadzire</string>
   <string name="ssl_ca_cert_warning_message">"Treća je strana u mogućnosti pratiti vašu mrežnu aktivnost, uključujući e-poštu, aplikacije i sigurne web-lokacije. 
 To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</string>
+  <string name="stable_build">" | Stabilno"</string>
   <string name="status_awake_time">Vrijeme bez mirovanja</string>
   <string name="status_bar_and_notification_bar">Panel obavijesti i statusna traka</string>
   <string name="status_bar_filter_item_description">Za podešavanje obavijesti, idite u izbornik Opće postavke &gt; Obavijesti &gt; Upravljanje obavijestima</string>

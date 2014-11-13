@@ -97,6 +97,7 @@
   <string name="add_account">Dodaj račun</string>
   <string name="alert_title_remove_account">Ukloniti račun?</string>
   <string name="app_name">Mi Račun</string>
+  <string name="authorize_title">Autorizacija</string>
   <string name="bad_authentication">Pogrešno korisničko ime ili zaporka</string>
   <string name="barcode_add_account_prompt">Da biste dodali račun, skenirajte QR kôd ponovno nakon što se prijavite.</string>
   <string name="bind_facebook">Dodaj Facebook račun</string>

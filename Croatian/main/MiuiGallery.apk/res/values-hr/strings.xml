@@ -196,6 +196,7 @@ svoj album s bilo kojeg mjesta.
   <string name="error_invalid_link">Veza nije valjana</string>
   <string name="error_not_acceptable">Sinkr. je onemogućena</string>
   <string name="error_repeat_apply">Ovaj je album već podijeljen</string>
+  <string name="error_share_not_support">Spajanje dijeljenog albuma privremeno nije podržano</string>
   <string name="error_share_with_creator">Ovaj je album već podijeljen s vama</string>
   <string name="error_should_not_select_image">"Vrsta datoteke nije podržana"</string>
   <string name="error_should_not_select_video">"Vrsta datoteke nije podržana"</string>

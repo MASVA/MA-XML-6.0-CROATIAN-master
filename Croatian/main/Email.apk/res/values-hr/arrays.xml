@@ -52,4 +52,52 @@
         <item>Pošiljatelj</item>
         <item>Datum</item>
      </string-array>
+     <string-array name="signature_normal_string_array">
+         <item>Blog:</item>
+         <item>Stranica:</item>
+         <item>E-pošta:</item>
+         <item>Mobitel:</item>
+         <item>telefon:</item>
+         <item>T:</item>
+         <item>www.</item>
+         <item>F:</item>
+         <item>E:</item>
+         <item>E-pošta:</item>
+         <item>Tel:</item>
+         <item>Fax:</item>
+         <item>E-pošta:</item>
+         <item>QQ:</item>
+         <item>MSN:</item>
+     </string-array>
+     <string-array name="signature_normal_string_array_next">
+         <item>Adresa:</item>
+         <item>Tel:</item>
+         <item>Ime:</item>
+         <item>E-pošta:</item>
+         <item>Mobitel:</item>
+         <item>WeChat:</item>
+         <item>Fax:</item>
+         <item>Poštanski broj:</item>
+     </string-array>
+     <string-array name="signature_special_string_array">
+         <item>Odricanje:</item>
+         <item>E-pošta Odricanje</item>
+         <item>Pošalji via WPSMail</item>
+         <item>Poslano sa</item>
+         <item>Poslano s</item>
+         <item>Hvala,</item>
+         <item>Srdačan pozdrav</item>
+     </string-array>
+     <string-array name="signature_special_string_array_next">
+         <item>Hvala,</item>
+         <item>Srdačan pozdrav</item>
+         <item>Poslano s mog</item>
+         <item>Originalna poruka</item>
+         <item>Poslano s mog</item>
+         <item>Poslano sa</item>
+         <item>Sa</item>
+         <item>Ova poruka</item>
+         <item>Odricanje</item>
+         <item>E-pošta Odricanje</item>
+     </string-array>
 </resources>
