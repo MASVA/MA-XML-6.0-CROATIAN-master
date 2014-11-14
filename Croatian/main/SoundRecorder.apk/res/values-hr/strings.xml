@@ -24,7 +24,7 @@
   <string name="error_app_internal_title">Snimanje zvuka greška</string>
   <string name="error_file_access">"Datoteka ne postoji ili je oštećena"</string>
   <string name="error_filename_illegal_char">Naziv datoteke sadrži ilegalne znakove.</string>
-  <string name="error_filename_too_long">Naziv datoteke e predugo.</string>
+  <string name="error_filename_too_long">Naziv datoteke je predugačak.</string>
   <string name="error_sdcard_access">"Ne mogu pristupiti prostoru za pohranu"</string>
   <string name="error_sdcard_unmounted">Umetnite SD karticu</string>
   <string name="fm_record">Snimke FM-a (%d)</string>
