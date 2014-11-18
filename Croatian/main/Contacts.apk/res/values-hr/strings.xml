@@ -148,7 +148,7 @@
   <string name="click_close">Dotaknite ekran da biste zatvorili</string>
   <string name="clip_dialog_title">Birati kopirani broj?</string>
   <string name="close_dial_pad">Zatvori tipkovnicu za biranje</string>
-  <string name="cloud_antispam_mark">Prijavi neželjeno</string>
+  <string name="cloud_antispam_mark">Prijavi</string>
   <string name="cloud_antispam_title">Prepoznaj nepoznate brojeve</string>
   <string name="composer_failed_to_get_database_infomation">"Dohvaćanje podataka iz baze podataka nije uspjelo."</string>
   <string name="composer_has_no_exportable_contact">"Nema kontakata koji se mogu izvoziti. Ako na svojem telefonuu imate kontakte, neki davatelji podataka možda ne dopuštaju izvoz kontakata s tog telefona."</string>
@@ -694,7 +694,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="picker_email_title">Izaberi adresu e-pošte</string>
   <string name="picker_favorites_list_empty">"Nema favorita."</string>
   <string name="picker_groups_list_empty">Nema grupa</string>
-  <string name="picker_join_title">Odaberi kontakt za združivanje s %s</string>
+  <string name="picker_join_title">Združi s %s</string>
   <string name="picker_number_title">Odaberi broj</string>
   <string name="picker_postal_title">Odaberi poštanski broj</string>
   <string name="picker_recent_list_empty">"Nema nedavnih kontakata"</string>

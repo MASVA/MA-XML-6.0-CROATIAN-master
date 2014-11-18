@@ -36,4 +36,9 @@
         <item>Vibracija kad je zvuk utišan</item>
         <item>Uvijek vibriraj</item>
     </string-array>
+    <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Isključi</item>
+        <item>Otvori</item>
+        <item>Drži uključenim</item>
+    </string-array>
 </resources>

@@ -80,7 +80,8 @@
   <string name="datastream_alert_title">Upozorenje uporabe prometa</string>
   <string name="day">Dan</string>
   <string name="declaration">Uvjeti korištenja</string>
-  <string name="declaration_content">"1.Korištenjem ove usluge, pristajete na Sohu Video, iQiyi i ostale pružatelje video sadržaja" &lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;Uvjeti Korištenja&lt;/a&gt;".
+  <string name="declaration_allow">Slažem se</string>
+  <string name="declaration_content">"1.Korištenjem ove usluge, slažete se sa Sohu Video, iQiyi i ostale pružatelje video sadržaja" href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1" Uvjeti Korištenja".
 2.Pomozite nam poboljšati ovaj proizvod, automatskim slanjem dijagnostičkih i podataka korištenja Xiaomi-u.
 3.Naš HD video dodatak će se automatski instalirati.
 4.Ova usluga treba povezivanje s internetom da funkcionira ispravno."</string>

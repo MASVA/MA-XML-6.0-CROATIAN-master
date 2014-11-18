@@ -107,7 +107,7 @@
   <string name="delete_phrase">Izbrisati frazu</string>
   <string name="delete_unlocked">Izbriši zaključane poruke</string>
   <string name="delivery_report_activity">Izvješće o isporuci</string>
-  <string name="delivery_toast_body">Poruka isporučena %s.</string>
+  <string name="delivery_toast_body">Poruku je primio %s.</string>
   <string name="disable_notifications_dialog_message">Prestati s dupliciranjem obavijesti putem tekstualnih poruka iz zadane aplikacije za slanje poruka?</string>
   <string name="discard">Odbaciti</string>
   <string name="discard_message">Odbaciti poruku</string>

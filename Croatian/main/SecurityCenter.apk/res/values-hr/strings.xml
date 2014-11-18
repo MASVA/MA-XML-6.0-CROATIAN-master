@@ -189,12 +189,12 @@
   <string name="hints_auto_start_warning_info">"Ako ograničite Autom. pokretanje, neke aplikacija i usluge neće moći primati obavijesti."</string>
   <string name="hints_cache_header_left">Predmemorija: %d</string>
   <string name="hints_cleanning_text">Čišćenje…</string>
-  <string name="hints_finish_quick_cleanup">Završetak čišćenja</string>
-  <string name="hints_finish_quick_cleanup_title">Završetak čišćenja %s otpada</string>
-  <string name="hints_finish_quick_scan">Skeniranje gotovo</string>
-  <string name="hints_garbage_cleanup_result_danger">Opasno</string>
-  <string name="hints_garbage_cleanup_result_risk">Rizično</string>
-  <string name="hints_garbage_cleanup_result_safe">Sigurno</string>
+  <string name="hints_finish_quick_cleanup">Prikaži detalje</string>
+  <string name="hints_finish_quick_cleanup_title">Očišćeno %s otpada</string>
+  <string name="hints_finish_quick_scan">Skeniranje završeno</string>
+  <string name="hints_garbage_cleanup_result_danger">Očistite nagomilani otpad</string>
+  <string name="hints_garbage_cleanup_result_risk">Očistite nagomilani otpad</string>
+  <string name="hints_garbage_cleanup_result_safe">Sve izgleda uredno</string>
   <string name="hints_garbage_handle_item_content">%1$d stavaka, %2$s</string>
   <string name="hints_garbage_handle_item_empty_content">Prazno</string>
   <string name="hints_handle_item_text_risk">Rizika: %d</string>
@@ -433,6 +433,7 @@
   <string name="power_dialog_screen_brightness_title">Svjetlina</string>
   <string name="power_dialog_sleep_title">Mirovanje</string>
   <string name="power_dialog_vibration_title">Vibracija</string>
+  <string name="power_dialog_wifi_title">WLAN</string>
   <string name="power_exitlowbattery_whencharge">Onemogući kada je priključeno</string>
   <string name="power_idle">Uređaj u mirovanju</string>
   <string name="power_mode_airplane_mode">Način rada u zrakoplovu</string>
@@ -454,6 +455,7 @@
   <string name="power_mode_cpu_state_save_desc">Baterija ima prioritet nad performansama</string>
   <string name="power_mode_gps">GPS</string>
   <string name="power_mode_internet">2G/3G</string>
+  <string name="power_mode_keep_state">Drži uključenim</string>
   <string name="power_mode_my_mode">Moj profil</string>
   <string name="power_mode_my_mode_summary">Spremiti vaše trenutne postavke baterije</string>
   <string name="power_mode_screen_brightness">Svjetlina</string>

@@ -2,21 +2,21 @@
 <resources>
     <string-array name="reminder_methods_labels">
         <item>Obavijest</item>
-        <item>"E-pošta"</item>
-        <item>"SMS"</item>
-        <item>"Alarm"</item>
+        <item>E-pošta</item>
+        <item>SMS</item>
+        <item>Alarm</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
-        <item>0 minuta</item>
-        <item>"1 minuta"</item>
-        <item>"5 minuta"</item>
-        <item>"10 minuta"</item>
-        <item>"15 minuta"</item>
-        <item>"20 minuta"</item>
+        <item>Bez podsjetnika</item>
+        <item>1 minuta</item>
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>15 minuta</item>
+        <item>20 minuta</item>
         <item>1 sat</item>
         <item>12 sati</item>
-        <item>1 day</item>
-        <item>2 days</item>
+        <item>1 dan</item>
+        <item>2 dana</item>
         <item>1 tjedan</item>
         <item>2 tjedna</item>
     </string-array>
@@ -35,14 +35,14 @@
         <item>20160</item>
     </integer-array>
     <string-array name="preferences_default_reminder_labels">
-        <item>Ništa</item>
+        <item>Bez podsjetnika</item>
         <item>0 minuta</item>
         <item>5 minuta</item>
         <item>10 minuta</item>
         <item>15 minuta</item>
         <item>30 minuta</item>
         <item>1 sat</item>
-        <item>12 sata</item>
+        <item>12 sati</item>
         <item>1 dan</item>
         <item>2 dana</item>
         <item>1 tjedan</item>
@@ -78,7 +78,7 @@
         <item>Arizona</item>
         <item>Chihuahua</item>
         <item>Mountain Time</item>
-        <item>Central America</item>
+        <item>Srednja Amerika</item>
         <item>Central Time</item>
         <item>Mexico City</item>
         <item>Saskatchewan</item>
@@ -133,7 +133,7 @@
         <item>Yangon</item>
         <item>Krasnoyarsk</item>
         <item>Bangkok</item>
-        <item>Beijing</item>
+        <item>Peking</item>
         <item>Hongkong</item>
         <item>Irkutsk</item>
         <item>Kuala Lumpur</item>

@@ -25,7 +25,7 @@
   <string name="cancel_download_buton_text">Odustani</string>
   <string name="check_new_version">Provjeri</string>
   <string name="check_update_policy">Postavke</string>
-  <string name="check_update_when_wifi_available">Provjeri samo koristeći WLAN</string>
+  <string name="check_update_when_wifi_available">Provjeri koristeći samo WLAN</string>
   <string name="check_update_when_wifi_available_sum">"Provjeri za ažuriranja samo kada je povezano na WLAN"</string>
   <string name="comment_invalid">Ocijeni ovo ažuriranje (dodirni zvijezdu)</string>
   <string name="comment_publish">Pošalji</string>
@@ -94,6 +94,7 @@
   <string name="no_proper_updates">Nema dostupnih ažuriranja</string>
   <string name="no_wifi_msg">"Korištenje vaše mobilne podatkovne veze za preuzimanje ažuriranja će povećati vašu uporabu podataka."</string>
   <string name="no_wifi_title">Upozorenje uporabe podataka</string>
+  <string name="not_open">Isključeno</string>
   <string name="notification_downloading">Preuzimanje ažuriranja…</string>
   <string name="notification_load_body_alpha">Nabavite najnovija ažuriranja za vaš uređaj.</string>
   <string name="notification_load_body_dev">Nabavite najnovija ažuriranja za vaš uređaj</string>
@@ -111,6 +112,7 @@
   <string name="notification_updating">Ažuriranje…</string>
   <string name="now">Ažuriraj sada</string>
   <string name="on_checking">Provjeravam ažuriranja…</string>
+  <string name="open_now">Uključeno</string>
   <string name="particular_build">Osobito</string>
   <string name="pause">Pauza</string>
   <string name="previous">Prethodno</string>
@@ -119,6 +121,8 @@
   <string name="reboot_to_new_system">Ponovno pokreni u novu verziju</string>
   <string name="repeat">Pokušaj ponovo</string>
   <string name="set_auto">Provjeri ima li ažuriranja automatski</string>
+  <string name="set_auto_msg">Preuzimanje ažuriranja automatski preko WLAN-a</string>
+  <string name="set_auto_update_title">Preuzimanje ažuriranja automatski</string>
   <string name="set_installfail_full_msg">"Ne mogu ažurirati u ovom trenutku. Dodirnite \"U redu\" kako bi prijavili ovu pogrešku našim inženjerima."</string>
   <string name="set_installfail_msg">Korištenje vaše mobilne podatkovne veze za preuzimanje ažuriranja će povećati vašu uporabu podataka.</string>
   <string name="set_installfail_title">Pokušati ponovno preuzeti ažuriranja?</string>
@@ -147,6 +151,7 @@
   <string name="submit_success">Poslano</string>
   <string name="test">Test</string>
   <string name="timer_title">Uređaj će se ponovno pokrenuti za %d sek.</string>
+  <string name="title_toast_auto">Ažuriranja će se preuzeti automatski</string>
   <string name="top_secret_build">Tajno</string>
   <string name="unkown_error_title">Nešto nije u redu…</string>
   <string name="unstable_build">Nestabilno</string>

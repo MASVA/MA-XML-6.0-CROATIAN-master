@@ -164,6 +164,7 @@ Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potraz
   <string name="note_sms_none">Nema SMS-a</string>
   <string name="one_address_choose_hint">%s1</string>
   <string name="open_callwait">Uključeno</string>
+  <string name="read_all_sms">Označi kao pročitano</string>
   <string name="sim_not_ready">SIM kartica nije spremna</string>
   <string name="sms_delete_hint">Izbrisati sve blokirane SMS poruke s ovog broja?</string>
   <string name="st_advanced_setting_group">Napredno</string>
