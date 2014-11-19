@@ -155,8 +155,9 @@ Da biste to riješili, možete ili očistiti neke stare datoteke kako bi napravi
   <string name="micloud_warn_full_title">Prostor za pohranu je pun!</string>
   <string name="micloud_warn_low_sum">"Vaš Mi Cloud iskorišten 90%."</string>
   <string name="micloud_warn_low_title">Nizak prostor za pohranu…</string>
+  <string name="micloud_web_discription">Prijavite se na i.mi.com da pohranite i pristupite vašim datotekama s bilo kojeg mjesta</string>
   <string name="micloud_web_discription_01">Prijavite se na i.mi.com</string>
-  <string name="micloud_web_discription_02">za pohranu i pristup vašim datotekama s bilo kojeg mjesta</string>
+  <string name="micloud_web_discription_02">da pohranite i pristupite vašim datotekama s bilo kojeg mjesta</string>
   <string name="microsoft_cloud">Microsoft Cloud Service</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">Oko 80 RMB godišnje</string>

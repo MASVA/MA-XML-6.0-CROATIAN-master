@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="confirm_pin_msg">Unesite PIN ponovo</string>
     <string name="default_lockscreen_unlock_hint_text">Povucite gore za otključavanje</string>
     <string name="delete">Izbrisati</string>
     <string name="emergency_call_string">SOS</string>
@@ -20,6 +21,7 @@
     <string name="input_password_hint_text">Unesite zaporku</string>
     <string name="input_pin_code">Unesite PIN</string>
     <string name="input_puk_code">Unesite PUK</string>
+	 <string name="invalid_confirm_pin_hint">"PIN-ovi se ne podudaraju"</string>
 	<string name="keyguard_torch_cover_text">Da zadržite svjetiljku upaljenom, pritisnite gumb za uključivanje</string>
     <string name="lock_screen_date">EEEE, dd.MM.yyyy</string>
     <string name="lockscreen_access_pattern_cell_added">Ćelija dodana</string>
@@ -29,7 +31,7 @@
     <string name="lockscreen_charging_msg">Punjenje</string>
     <string name="lockscreen_emergency_call">Hitan poziv</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Netočno ste pokušali otključati telefon %d puta. Nakon još %d neuspjelih pokušaja, telefon će se resetirati na tvorničke postavke i svi korisnički podaci će biti izgubljeni.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Netočno ste unijeli zaporku %d puta. Nakon još %d neuspjelih pokušaja, od vas će se tražiti  prijava na vaš račun kako bi otključali telefon .
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Netočno ste unijeli zaporku %d puta. Nakon još %d neuspjelih pokušaja, od vas će se tražiti prijava na vaš račun kako bi otključali telefon .
 Pokušajte ponovo za %d sek."</string>
     <string name="lockscreen_failed_attempts_now_wiping">Netočno ste pokušali otključati telefon %d puta. Telefon će se vratiti na tvorničke postavke.</string>
     <string name="lockscreen_glogin_checking_password">Provjera…</string>

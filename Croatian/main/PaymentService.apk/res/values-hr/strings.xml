@@ -1,9 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_detail">"Xiaomi račun:
-%1$s"</string>
   <string name="app_name">Mi Kredit</string>
-  <string name="balance_payment">Mi Kredita %1$s</string>
+  <string name="balance_payment">Stanje: Mi Kredita %1$s</string>
   <string name="balance_title">Stanje</string>
   <string name="bankcall_bank_account">Bankovna kartica:</string>
   <string name="bankcall_call_hint">Primiti ćete poziv od UnionPay-a (020-96585) uskoro.
@@ -54,14 +52,15 @@ Slijedite upute kako biste dovršili narudžbu.</string>
   <string name="btn_wait_confirm_count">Čekam (%1$s)</string>
   <string name="button_bind_phone">Poveži sada</string>
   <string name="button_call">Zovi</string>
-  <string name="button_cancel">Otkaži</string>
+  <string name="button_cancel">Odustani</string>
   <string name="button_confirm">Potvrdi</string>
-  <string name="button_count_down_reget">Dobivanje kôda za provjeru(%1$s)</string>
+  <string name="button_count_down_finish">U redu(%1$s)</string>
+  <string name="button_count_down_reget">%1$s</string>
+  <string name="button_custom_service_phone">Razumijem</string>  
   <string name="button_next">Dalje</string>
-  <string name="button_pay">Otkaži</string>
-  <string name="button_recharge">Nadoplata</string>
-  <string name="button_recharge_pay">Otkaži</string>
-  <string name="button_reget">Dobivanje kôda za provjeru</string>
+  <string name="button_pay">Potvrdi</string>
+  <string name="button_recharge_pay">Potvrdi</string>
+  <string name="button_reget">Pošalji ponovo</string>
   <string name="button_retry">Pokušaj ponovo</string>
   <string name="button_sms_code">Potvrdi</string>
   <string name="cancel">Odustani</string>
@@ -119,7 +118,7 @@ Kontaktirajte Xiaomi službu za korisnike."</string>
   <string name="giftcard_expire">%1$s isteklo</string>
   <string name="giftcard_hint">"Mi Krediti dodani putem poklon bona će biti
 potrošeni prvi automatski"</string>
-  <string name="giftcard_payment">Mi Kredita %1$s</string>
+  <string name="giftcard_payment">Poklon bon: Mi Kredita %1$s</string>
   <string name="giftcard_push_notification_prime_title">"Primili ste poklon certifikat"</string>
   <string name="giftcard_push_notification_sub_title">%1$s: %2$s Mi Kredit podjela.</string>
   <string name="giftcard_record">Moje poklon kartice</string>
@@ -187,20 +186,23 @@ potrošeni prvi automatski"</string>
   <string name="msg_telecom_picker_hint_2_2">Uskoro ćete dobiti SMS potvrde.</string>
   <string name="msg_telecom_sending">Kontaktiranje vašeg davatelja usluga…</string>
   <string name="order_price">%1$s Mi Kredita</string>
-  <string name="partner_giftcard_payment">%1$s Mi Kredita（Samo za %2$s）</string>
+  <string name="partner_giftcard_payment">%1$s:%2$sMi Kredita</string>
   <string name="password_error">Zaporka nije točna.</string>
   <string name="password_forget">Zaboravljena zaporka?</string>
   <string name="password_hint">Unesite zaporku računa</string>
   <string name="pay_record_empty">Nema zapisa plaćanja.</string>
   <string name="pay_record_typeall">Sve</string>
-  <string name="payment_actionbar_title">Potvrdite</string>
+  <string name="payment_recharge_group_familiar">Odaberite način nadoplate</string>
+  <string name="payment_recharge_group_favorite">Način nadoplate</string>
+  <string name="payment_success_label">"Platili ste%1$sMi Kredita"</string>
+  <string name="payment_success_title">Uplata primljena</string>
+  <string name="payment_title">Detalji primanja uplate</string>
+  <string name="payment_with_login_title">Unesite zaporku vašeg Mi Računa</string>
   <string name="paytool_alipay">Alipay</string>
   <string name="paytool_error_install">Neuspjelo instaliranje %1$s plugina mobilne sigurnosti</string>
   <string name="paytool_error_msp">%1$s neuspjeko</string>
   <string name="paytool_msp_not_installed">Nemate instaliran %1$s plugin mobilne sigurnosti, instalirati ga sada?</string>
   <string name="paytool_tenpay">Tenpay</string>
-  <string name="pc_pay_login">Pijavite se</string>
-  <string name="pc_pay_website">mibi.xiaomi.com</string>
   <string name="prepaid_card_order_info">%1$s nadoplata bona: RMB %2$s</string>
   <string name="prepaid_carriers_picker_hint">Odaberite operatera</string>
   <string name="prepaid_edit_limit">brojke</string>
@@ -250,6 +252,7 @@ Informacije na broj: 400-100-5678 "</string>
   <string name="recharge_grid_edit_limit">%1$s~%2$s yuan</string>
   <string name="recharge_grid_edit_upper_limit">"Ne može biti veći od %1$s yuan"</string>
   <string name="recharge_grid_error_denomination">Unesite točan iznos između ￥%1$s~%2$s</string>
+  <string name="recharge_grid_item_more">Više</string>
   <string name="recharge_grid_picker_hint">Odaberite iznos</string>
   <string name="recharge_group_favorite">Koristite prethodan način nadoplate</string>
   <string name="recharge_group_familiar">Uobičajeni načini</string>
@@ -270,13 +273,16 @@ Informacije na broj: 400-100-5678 "</string>
   <string name="scan_prompt_retry">Držite kôd mirno</string>
   <string name="scan_prompt_voucher">Skeniraj Mi Kredit zaporku</string>
   <string name="security_setting">Postavke</string>
-  <string name="sms_code_error">Pogreška koda za ovjeru, pokušajte ponovno</string>
-  <string name="sms_code_hint">Kod za ovjeru</string>
+  <string name="sms_code_empty">Unesite kôd za ovjeru poslan na vaš telefon.</string>
+  <string name="sms_code_error">Pogreška kôda za ovjeru, pokušajte ponovno</string>
+  <string name="sms_code_hint">Unesite 6 znamenkasti kôd za ovjeru</string>
   <string name="summary_bind_phone">Da bi osigurali svoj korisnički račun, dovršite plaćanje nakon povezivanja broj telefona.</string>
+  <string name="summary_custom_service_phone">Tel:</string>
   <string name="summary_lockpattern">Potreban uzorak otključavanja za Mi Kredite</string>
-  <string name="summary_sms_code">Da bi osigurali svoj korisnički račun, unesite kôd za provjeru koji ste dobili na % 1$s, a zatim izvršite plaćanje</string>
+  <string name="summary_sms_code">Unesite kôd za ovjeru poslan na %1$s, i zatim završite plaćanje</string>
   <string name="title_bind_phone">Povezivanje brojeva telefona</string>
   <string name="title_change_lockpattern">Promijeni uzorak zaključavanja</string>
+  <string name="title_custom_service_phone">Kontaktirajte korisničku podršku</string>
   <string name="title_discounts">Popusti</string>
   <string name="title_gesture">Uzorak zaključavanja</string>
   <string name="title_giftcard">Promocije</string>

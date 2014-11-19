@@ -1514,7 +1514,7 @@ i pokrenite ga."</string>
   <string name="open_wifi_connect_summary">"Dotaknite za upravljanje"</string>
   <string name="open_wifi_connect_title">Poveži se na otvorenu mrežu %1$s</string>
   <string name="other_advanced_settings">Dodatne postavke</string>
-  <string name="other_personal_settings">Dodatne postavke</string>
+  <string name="other_personal_settings">Osobne postavke</string>
   <string name="other_relative">Ostalo</string>
   <string name="overlay_display_devices_title">Simuliraj sekundarne zaslone</string>
   <string name="owner_info_settings_edit_text_hint">Unesite tekst za prikaz na zaključanom zaslonu</string>
@@ -1707,7 +1707,7 @@ i pokrenite ga."</string>
   <string name="radioInfo_service_out">Ne radi</string>
   <string name="radioInfo_unknown">nepoznato</string>
   <string name="radio_controls_summary">Upravljanje značajkama WLAN, Bluetooth, način rada u zrakoplovu, mobilne mreže &amp; VPN-ovi</string>
-  <string name="radio_controls_title">Dodatne postavke</string>
+  <string name="radio_controls_title">Više</string>
   <string name="radio_info_band_mode_label">Odaberite radijsku frekvenciju</string>
   <string name="radio_info_call_redirect_label">Preusmjeravanje poziva:</string>
   <string name="radio_info_call_status_label">Status poziva:</string>
@@ -1906,7 +1906,7 @@ Ova postavka utječe na sve korisnike na ovom uređaju."</string>
   <string name="security_keyguard_category_name">Zaključan zaslon</string>
   <string name="security_password_category_name">Zaporka</string>
   <string name="security_passwords_title">Zaporke</string>
-  <string name="security_privacy_settings_title">Sigurnost</string>
+  <string name="security_privacy_settings_title">Privatnost</string>
   <string name="security_relative">Sigurnost</string>
   <string name="security_settings_billing_desc">Ova aplikacija može naplaćivati upotrebu:</string>
   <string name="security_settings_desc">Ova aplikacija može pristupiti sljedećim stavkama na vašem uređaju:</string>

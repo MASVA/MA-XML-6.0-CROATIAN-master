@@ -26,6 +26,10 @@
   <string name="account_manager_type_legacy_imap">com.android.email</string>
   <string name="account_manager_type_pop3">com.android.email</string>
   <string name="account_name_toast">Račun s istim imenom već postoji.</string>
+  <string name="account_options_acc_title">Račun</string>
+  <string name="account_options_common_title">Opće postavke</string>
+  <string name="account_options_only_title">Preuzimanje samo zaglavlja korištenjem mobilne mreže</string>
+  <string name="account_options_sync_title">Postavke sinkr.</string>
   <string name="account_password_spaces_error">"Ova zaporka počinje ili završava s jednim ili više znakova razmaka. Mnogi poslužitelji ne podržavaju zaporke s razmacima."</string>
   <string name="account_security_dialog_content_fmt">Račun %s zahtijeva da ažurirate svoje sigurnosne postavke.</string>
   <string name="account_security_dialog_title">Sigurnosno ažuriranje</string>
@@ -46,7 +50,7 @@
   <string name="account_settings_enforced_summary">Ništa</string>
   <string name="account_settings_exit_server_settings">Odbaciti nespremljene promjene?</string>
   <string name="account_settings_incoming_label">Dolazne postavke</string>
-  <string name="account_settings_incoming_summary">Korisničko ime, zaporka i ostale postavke dolaznog poslužitelja</string>
+  <string name="account_settings_incoming_summary">Korisničko ime, zaporka i ostale postavke poslužitelja</string>
   <string name="account_settings_list_title">Odaberite davatelja usluga e-pošte:</string>
   <string name="account_settings_login_dialog_content_fmt">Netočno je korisničko ime ili zaporka za račun %s. Želite li to ažurirati sada?</string>
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">"Ne mogu se prijaviti u %s; Ovo je poruka poslužitelja: %s"</string> 
@@ -176,6 +180,7 @@
   <string name="account_setup_outgoing_username_label">Korisničko ime</string>
   <string name="account_setup_security_policies_required_fmt">Poslužitelj %s zahtijeva da mu omogućite daljinsko upravljanje nekim sigurnosnim značajkama svojeg Android uređaja. Želite li dovršiti postavljanje ovog računa?</string>
   <string name="account_setup_security_required_title">Sigurnosna administracija na daljinu</string>
+  <string name="account_setup_server_acc_manager_title">Upravitelj računa</string>
   <string name="account_setup_service_not_set">"Račun nije postavljen"</string>
   <string name="account_setup_username_password_toast">Upišite važeću adresu e-pošte i zaporku.</string>
   <string name="account_setup_username_uneditable_error">Ne možete promijeniti korisničko ime računa. Da biste dodali račun s nekim drugim korisničkim imenom, dodirnite \"Dodaj račun\".</string>
@@ -474,6 +479,10 @@
   <string name="general_preference_text_zoom_small">Malen</string>
   <string name="general_preference_text_zoom_tiny">Sitan</string>
   <string name="generic_attachment_problem">"Ne mogu priložiti datoteku."</string>
+  <string name="head_only_enable_dialog_message">Samo naslov (umjesto cijele e-pošte) je preuzet bez klika pod prometom.</string>
+  <string name="head_only_enable_dialog_nagative">Odbij</string>
+  <string name="head_only_enable_dialog_positive">Prihvati</string>
+  <string name="head_only_enable_dialog_title">Ušteda prometa</string>
   <string name="header_category_account">Računi</string>
   <string name="header_category_other">Dodatne postavke</string>
   <string name="header_label_general_preferences">Opće postavke</string>
@@ -670,7 +679,10 @@ Kopija: %4$s
   <string name="password_expired_ticker">PIN ili zaporka za zaključavanje zaslona istekli su.</string>
   <string name="perference_change_pw">Promjena zaporke</string>
   <string name="perference_change_pw_notnull_tips">Unesite vašu zaporku</string>
-  <string name="perference_change_pw_ok_tips">Zaporka promjenjena</string>
+  <string name="perference_change_pw_ok_tips">Zaporka je promjenjena</string>
+  <string name="perference_setup_pop_del">Ukloni poštu s poslužitelja</string>
+  <string name="perference_setup_recv_tag">Poslužitelj dolazne pošte</string>
+  <string name="perference_setup_send_tag">Poslužitelj odlazne pošte</string>
   <string name="permission_access_provider_desc">Aplikaciji omogućuje pristup podatkovnoj bazi vaše e-pošte, uključujući primljene poruke, poslane poruke, korisnička imena i zaporke.</string>
   <string name="permission_access_provider_label">Pristup podacima o davatelju usluge e-pošte</string>
   <string name="permission_read_attachment_desc">Omogućuje aplikaciji da čita vaše privitke e-pošte.</string>
@@ -713,8 +725,11 @@ Kopija: %4$s
   <string name="pop3_name">POP3</string>
   <string name="prefDialogTitle_conversationListIcon">Slika pošiljatelja</string>
   <string name="prefDialogTitle_removal_action">Radnje arhiviranja &amp; brisanja</string>
+  <string name="preference_eas_tips">Dolazna stranica aktivacije je zatražena od poslužitelja e-pošte, ponovno pokrenite svoj uređaj za aktiviranje.</string>
   <string name="preference_head_load_description">Preuzmi samo naslove poruka prilikom korištenja mobilnih podataka.</string>
   <string name="preference_head_load_title">Smanji uporabu podataka</string>
+  <string name="preference_imap_tips"/>
+  <string name="preference_pop_tips">Privitak (ci) će se preuzeti sa sadržajem e-pošte budući da to obvezno zahtjeva POP3 protokol. Vodite računa da to koristite u mobilnim podacima.</string>
   <string name="preference_removal_action_title">Radnje arhiviranja &amp; brisanja</string>
   <string name="preference_sender_image_description">"Prikaži slike profila pored imena pošiljatelja u pristigloj pošti"</string>
   <string name="preference_sender_image_title">Slike profila</string>
