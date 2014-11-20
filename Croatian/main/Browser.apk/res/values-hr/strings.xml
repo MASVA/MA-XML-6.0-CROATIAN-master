@@ -28,6 +28,10 @@
   <string name="actionbar_share">Podijeli</string>
   <string name="actionbar_web_search">Pretraživanje weba</string>
   <string name="adblock_notification">Blokirano reklama %d</string>
+  <string name="adblock_rules_number_text">Blokirano stavaka %d</string>
+  <string name="adblock_rules_restore">Vrati</string>
+  <string name="adblock_websites_settings_empyt_hint">Prazno pravilo</string>
+  <string name="adblock_websites_settings_title">Prilagođeno pravilo</string>
   <string name="add_bookmark">Nova oznaka</string>
   <string name="add_bookmark_group">Dodaj grupu</string>
   <string name="add_folder">Dodaj mapu</string>
@@ -117,6 +121,10 @@
   <string name="clear_history_group">Očisti svu povijest</string>
   <string name="clear_search_history">Očisti povijest</string>
   <string name="clip_dialog_title">Otvoriti kopiranu vezu?</string>
+  <string name="close_ads_choice_no">Ne</string>
+  <string name="close_ads_choice_yes">Da</string>
+  <string name="close_ads_message">Zatvoriti će te ovaj sadržaj。Blokirati ovaj sadržaj automatski kasnije? Sadržaj koji je blokiran će biti prikazan u Postavke &gt; Napredno &gt; Prilagođena pravila</string>
+  <string name="close_ads_title">Savjet</string>
   <string name="close_all_tab_alert_message">Zatvoriti sve kartice?</string>
   <string name="close_all_tab_alert_title">Zatvori sve kartice</string>
   <string name="close_cloud_tab_tip">Zatvoriti cloud kartice na %s?</string>
