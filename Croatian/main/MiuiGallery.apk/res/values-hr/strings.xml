@@ -385,8 +385,6 @@ svoj album s bilo kojeg mjesta.
   <string name="paint_crop_cancel_context">Želite li spremiti rezultat obrezivanja?</string>
   <string name="paint_crop_cancel_title">Odbaciti promjene</string>
   <string name="paint_crop_tips">Da dobijete bolju sliku, pokušajte staviti njegove interesne dijelove na mrežne točke promjenom veličine i pomicanjem.</string>
-  <string name="paint_cancel_context">Otkazati uređivanje?</string>
-  <string name="paint_cancel_title">Otkaži uređivanje</string>
   <string name="path">Putanja</string>
   <string name="people">Osobe</string>
   <string name="photo_page_always_rotate">Automatsko zakretanje slika</string>
