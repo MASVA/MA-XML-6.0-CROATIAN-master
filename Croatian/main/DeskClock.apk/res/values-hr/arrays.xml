@@ -28,19 +28,6 @@
         <item>Pon - Pet</item>
         <item>Prilagođeno</item>
     </string-array>
-    <integer-array name="alarm_repeat_type_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
-    <integer-array name="alarm_repeat_type_no_workdays_values">
-        <item>0</item>
-        <item>1</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
     <string-array name="alarm_set">
         <item>"Alarm je od ovog trenutka postavljen za manje od 1 minute."</item>
         <item>"Alarm je od ovog trenutka postavljen za %1$s."</item>
@@ -60,15 +47,6 @@
         <item>25 minuta</item>
         <item>30 minuta</item>
     </string-array>
-    <string-array name="snooze_duration_values">
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>20</item>
-        <item>25</item>
-        <item>30</item>
-    </string-array>
     <string-array name="auto_silence_entries">
         <item>Nikad</item>
         <item>1 minuta</item>
@@ -79,24 +57,17 @@
         <item>25 minuta</item>
         <item>30 minuta</item>
     </string-array>
-    <string-array name="auto_silence_values">
-        <item>-1</item>
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>20</item>
-        <item>25</item>
-        <item>30</item>
-    </string-array>
     <string-array name="volume_button_setting_entries">
         <item>"Ne poduzimaj ništa"</item>
         <item>"Odbaci"</item>
         <item>"Odgodi alarm"</item>
     </string-array>
-    <string-array name="volume_button_setting_values">
-        <item>0</item>
+    <string-array name="alarm_count_entries">
         <item>1</item>
         <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>Isklj.</item>
     </string-array>
 </resources> 

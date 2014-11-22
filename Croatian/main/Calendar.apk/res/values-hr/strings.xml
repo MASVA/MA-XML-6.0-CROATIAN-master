@@ -47,7 +47,7 @@
   <string name="birthday_notification_text_three_days_later">3 dana do %3$s (%4$s)</string>
   <string name="birthday_notification_text_today">"Ne zaboravite čestitati !"</string>
   <string name="birthday_notification_title_three_days_later">"Približava se %1$s's %2$s"</string>
-  <string name="birthday_notification_title_today">"%1$s %3$s"</string>
+  <string name="birthday_notification_title_today">"%1$s ima %3$s"</string>
   <string name="birthday_notification_type_term_lunar"/>
   <string name="birthday_metric"/>
   <string name="birthday_term">rođendan</string>

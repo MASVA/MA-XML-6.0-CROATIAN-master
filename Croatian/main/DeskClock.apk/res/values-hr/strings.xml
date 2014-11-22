@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add_alarm">Dodaj alarm</string>
-	<string name="alarm_alert">Zadani zvuk alarma</string>
+    <string name="alarm_alert">Zadani zvuk alarma</string>
     <string name="alarm_alert_alert_silenced">Alarm utišan nakon %d min.</string>
     <string name="alarm_alert_snooze_set">Odgođeno za %d minuta.</string>
     <string name="alarm_ascending_mode_summary">Glasnoća alarma će rasti postepeno</string>
@@ -48,12 +48,12 @@
     <string name="delete_timezone_title">Izbrisati vremensku zonu</string>
     <string name="dialog_confirm_abort">Odbaciti promjene?</string>
     <string name="done">Gotovo</string>
-	<string name="edit_systemtime">Uredi vrijeme sustava</string>
+    <string name="edit_systemtime">Uredi vrijeme sustava</string>
     <string name="elapsed_time_format">+%s</string>
     <string name="every_day">Svaki dan</string>
     <string name="full_wday_month_day_no_year">EEEE, d.MMMM</string>
     <string name="hour">1 sat</string>
-    <string name="hour_unit">S +</string>
+    <string name="hour_unit">S</string>
     <string name="hours">%s sati</string>
     <string name="keep_screen_on">Drži zaslon upaljen</string>
     <string name="label">Upiši tekst</string>
@@ -104,7 +104,7 @@
     <string name="timer_message_with_hour">%1$d sati i %2$d min.</string>
     <string name="timer_message_with_seconds">%1$d sek.</string>
     <string name="timer_new_item">Dodaj Kronometar</string>
-	<string name="timer_notify_text">Odgodi ili odbaci Kronometar.</string>
+    <string name="timer_notify_text">Odgodi ili odbaci Kronometar.</string>
     <string name="timer_start_alarm">"Vrijeme je isteklo!"</string>
     <string name="timer_title">Kronometar</string>
     <string name="timezone_exist_error_message">"Već prikazujete tu vremensku zonu"</string>

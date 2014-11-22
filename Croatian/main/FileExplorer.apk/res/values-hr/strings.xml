@@ -206,7 +206,7 @@
   <string name="operation_create_folder_message">Imenuj mapu</string>
   <string name="operation_decompressing">Raspakiravanje…</string>
   <string name="operation_delete">Izbriši</string>
-  <string name="operation_delete_confirm_message">Izbrisati mapu?</string>
+  <string name="operation_delete_confirm_message">Izbrisati stavku?</string>
   <string name="operation_delete_confirm_message_folder">"Sav sadržaj mape biti će izbrisan."</string>
   <string name="operation_deleting">Brisanje…</string>
   <string name="operation_deleting_detail">Brisanje (%1$d/%2$d)</string>
