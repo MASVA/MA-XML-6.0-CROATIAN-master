@@ -474,7 +474,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="network_message">Mrežna poruka</string>
   <string name="network_settings_auto_select_title">"Nemoj automatski odabirati mrežu"</string>
   <string name="network_settings_automatically_option">Automatski odaberi željenog operatera (%s)</string>
-  <string name="network_settings_confirm_message">Mreža možda nedostupna.</string>
+  <string name="network_settings_confirm_message">Mreža je možda nedostupna.</string>
   <string name="network_settings_data_connected_change">Nije moguće promijeniti mrežu dok je podatkovna veza u upotrebi. Prestati koristiti trenutnu podatkovnu vezu i prebaciti na drugu mrežu?</string>
   <string name="network_settings_duringcall">"Radnja nije dozvoljena tijekom poziva"</string>
   <string name="network_settings_forbidden">%s (zabranjeno)</string>
