@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add_alarm">Dodaj alarm</string>
     <string name="alarm_alert">Zadani zvuk alarma</string>
@@ -53,9 +53,9 @@
     <string name="every_day">Svaki dan</string>
     <string name="full_wday_month_day_no_year">EEEE, d.MMMM</string>
     <string name="hour">1 sat</string>
-    <string name="hour_unit">S</string>
+    <string name="hour_unit">Sati</string>
     <string name="hours">%s sati</string>
-    <string name="keep_screen_on">Drži zaslon upaljen</string>
+    <string name="keep_screen_on">Drži zaslon upaljenim</string>
     <string name="label">Upiši tekst</string>
     <string name="label_pref_summary">Tekst ovoga alarma</string>
     <string name="lap">Krug</string>
@@ -67,7 +67,6 @@
     <string name="loading_ringtone">Učitavam melodiju alarma…</string>
     <string name="menu_add_worldclock">Dodaj sat</string>
     <string name="menu_desk_clock">Stolni sat</string>
-    <string name="menu_edit_systemtime">Vrijeme sustava</string>
     <string name="menu_edit_timer_item">Uredi zadatak Kronometra</string>
     <string name="menu_item_dock_settings">Postavke Docka</string>
     <string name="minute">1 minuta</string>
@@ -75,7 +74,7 @@
     <string name="never">Jednom</string>
     <string name="pause">Pauza</string>
     <string name="remind_ringtone">Melodija zvona</string>
-    <string name="reset">Poništi</string>
+    <string name="reset">Resetiraj</string>
     <string name="revert">Obnovi</string>
     <string name="set_alarm">Podesi alarm</string>
     <string name="settings">Postavke</string>
