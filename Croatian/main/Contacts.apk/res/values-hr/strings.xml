@@ -528,7 +528,7 @@ Razlog: \"%s\""</string>
   <string name="menu_done">"U redu"</string>
   <string name="menu_editContact">"Uredi"</string>
   <string name="menu_editGroup">"Uredi"</string>
-  <string name="menu_edit_mode">"Uredi"</string>
+  <string name="menu_edit_mode">"Uredi prije pozivanja"</string>
   <string name="menu_help">Pomoć</string>
   <string name="menu_import_export">"Uvoz/izvoz"</string>
   <string name="menu_joinAggregate">Združi</string>
