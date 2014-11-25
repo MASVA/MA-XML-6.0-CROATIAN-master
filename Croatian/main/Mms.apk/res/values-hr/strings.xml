@@ -198,14 +198,14 @@
   <string name="menu_delete_messages">Izbriši poruke</string>
   <string name="menu_edit">Uredi</string>
   <string name="menu_forward">Proslijedi</string>
-  <string name="menu_lock">Zaključavanje</string>
+  <string name="menu_lock">Označi</string>
   <string name="menu_mark">Označi</string>
   <string name="menu_more">Više</string>
   <string name="menu_new_contact">Novi kontakt</string>
   <string name="menu_new_manual">Unesite broj ručno</string>
   <string name="menu_pick_from_contact">Odabrati iz kontkata</string>
   <string name="menu_preferences">Postavke</string>
-  <string name="menu_unlock">Otključavanje</string>
+  <string name="menu_unlock">Odznači</string>
   <string name="menu_view_contact">Prikaži kontakt</string>
   <string name="menu_yellowpage">Prikaži %s</string>
   <string name="message_class_label">"Klasa poruke: "</string>

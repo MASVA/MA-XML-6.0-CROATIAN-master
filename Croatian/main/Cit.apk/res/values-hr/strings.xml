@@ -111,7 +111,9 @@ Držite telefon kao da ste odgovorili na poziv, pričajte u mikrofon. Trebali bi
   <string name="cit_gps_check_title">Testiranje GPS-a</string>
   <string name="cit_gps_disabled">"GPS nije omogućen, 
 
-  uključite GPS iz prečaca…"</string>
+  Dodirnite zaslon za početak GPS-a…"</string>
+  <string name="cit_gps_first_fix_time">Fixed_time: %s</string>
+  <string name="cit_gps_location">Lokacija: %s</string>
   <string name="cit_gps_satellite_count">GPS Sateliti: %d</string>
   <string name="cit_gps_satellite_prn">PRN: %s</string>
   <string name="cit_gps_satellite_snr">SNR: %s</string>

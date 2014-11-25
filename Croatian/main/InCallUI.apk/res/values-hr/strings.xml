@@ -95,7 +95,7 @@
   <string name="cdma_activate_device">Aktivirati uređaj</string>
   <string name="cdma_lte_data_service">Postavljanje podatkovne usluge</string>
   <string name="cdma_options">CDMA Opcije</string>
-  <string name="cdma_subscription_dialogtitle">pretplata</string>
+  <string name="cdma_subscription_dialogtitle">Pretplata</string>
   <string name="cdma_subscription_summary">Promjena između UIM i NV</string>
   <string name="cdma_subscription_title">CDMA pretplata</string>
   <string name="cdma_system_select_dialogtitle">Odabir sistema</string>
@@ -278,6 +278,7 @@
   <string name="list_language_summary">Odaberite jezik vijesti</string>
   <string name="list_language_title">Jezik</string>
   <string name="livetalk_provider_info">Pruža vam %s</string>
+  <string name="livetalk_waiting">Na čekanju…</string>
   <string name="load_networks_progress">Pretraživanje…</string>
   <string name="local_disable">Lokalne vijesti onemogućene</string>
   <string name="local_enable">Lokalne vijesti omogućene</string>

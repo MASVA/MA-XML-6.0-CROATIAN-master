@@ -39,14 +39,14 @@
   <string name="anniversary_term">godišnjica</string>
   <string name="app_label">Kalendar</string>
   <string name="attendees_label">Gosti</string>
-  <string name="birthday_calendar_display_name">Podsjetnik rođendana</string>
+  <string name="birthday_calendar_display_name">Podsjetnik Rođendana</string>
   <string name="birthday_event_description">Danas %1$s ima %4$s!</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
   <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_three_days_later">3 dana do %3$s (%4$s)</string>
   <string name="birthday_notification_text_today">"Ne zaboravite čestitati !"</string>
-  <string name="birthday_notification_title_three_days_later">"Približava se %1$s's %2$s"</string>
+  <string name="birthday_notification_title_three_days_later">"Približava se %1$s %2$s"</string>
   <string name="birthday_notification_title_today">"%1$s ima %3$s"</string>
   <string name="birthday_notification_type_term_lunar"/>
   <string name="birthday_metric"/>
@@ -56,6 +56,9 @@
   <string name="button_week">T</string>
   <string name="calendar_refresh">Osvježi</string>
   <string name="calendar_server_error">Greška poslužitelja</string>
+  <string name="can_not_modify_allday_event">Cjelodnevni događaj ne može se mijenjati</string>
+  <string name="can_not_modify_event">Ne može se mijenjati</string>
+  <string name="can_not_modify_repeating_acrossing_days_event">Ponavljanje događaja i događaj prijelaznih dana ne može se mijenjati</string>
   <string name="change_response_title">Promijenite odgovor</string>
   <string name="chongsha"/>
   <string name="copy_db">Pošalji bazu podataka</string>
@@ -96,6 +99,7 @@
   <string name="edit_event_confirm_message">Odbaciti promjene za događaj?</string>
   <string name="edit_event_from_label">Od</string>
   <string name="edit_event_label">"Pojedinosti"</string>
+  <string name="edit_event_reminder_off_toast">Nema nijednog zadanog podsjetnika</string>
   <string name="edit_event_show_all">Prikaži sve</string>
   <string name="edit_event_to_label">Do</string>
   <string name="edit_label">"Uredi"</string>
@@ -136,15 +140,13 @@
   <string name="hint_description">Opis</string>
   <string name="hint_what">Sadržaj podsjetnika događaja</string>
   <string name="hint_where">Lokacija</string>
-  <string name="holiday_label">Praznik</string>
   <string name="huangli_bad_type"/>
   <string name="huangli_good_type"/>
-  <string name="huangli_label">Huang Li</string>
   <string name="jump_date">Skoči</string>
   <string name="jump_date_full">Skoči na datum</string>
   <string name="label_recent_events">Nedavni događaji</string>
   <string name="loading">"Učitavanje…"</string>
-  <string name="local_calendar_display_name">Lokalni kalendar</string>
+  <string name="local_calendar_display_name">Lokalni Kalendar</string>
   <string name="local_owner_account_name">Lokalni račun</string>
   <string name="lunar_date">Mjesečev datum</string>
   <string name="menu_about_preferences">O Kalendaru</string>
@@ -241,6 +243,7 @@
   <string name="select_synced_calendars_button">Kalendari za sinkronizaciju</string>
   <string name="select_synced_calendars_title">Kalendari za sinkronizaciju</string>
   <string name="select_visible_calendars_title">Kalendari za prikaz</string>
+  <string name="setting_wifi_mode">Sinkr. samo preko WLAN-a</string>
   <string name="show_all_lunar">Lunarno (Kina)</string>
   <string name="show_almanac">Almanah (Kina)</string>
   <string name="show_controls">Pokaži kontrole</string>
@@ -279,6 +282,7 @@
   <string name="widget_select_style">Odaberite stil</string>
   <string name="work_day_indication"/>
   <string name="wuxing"/>
+  <string name="xiaomi_calendar_display_name">Xiaomi Kalendar</string>
   <string name="xingxiu"/>
   <string name="yearly">Godišnje (na %s)</string>
   <string name="yearly_plain">Godišnje</string>

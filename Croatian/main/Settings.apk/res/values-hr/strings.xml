@@ -753,7 +753,7 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="device_name">Naziv uređaja</string>
   <string name="device_name_input_error">"Ne mogu spremiti naziv uređaja"</string>
   <string name="device_name_input_hint">Unesi naziv</string>
-  <string name="device_name_usage_point">Ovaj će naziv biti vidljiv drugim Bluetooth uređajima u blizini</string>
+  <string name="device_name_usage_point">Ovaj će naziv biti vidljiv drugim uređajima u blizini</string>
   <string name="device_picker">Odabir Bluetooth uređaja</string>
   <string name="device_sd_memory">SD kartica</string>
   <string name="device_status">Status</string>
@@ -762,7 +762,7 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="dialog_content_login">Potreban je Xiaomi račun za ažuriranja, sigurno se želite prijaviti?</string>
   <string name="dialog_no">"Ne"</string>
   <string name="dialog_title_color_calibration">Odabir korekcije boja</string>
-  <string name="dialog_title_font_size">veličina fonta</string>
+  <string name="dialog_title_font_size">Veličina fonta</string>
   <string name="dialog_title_hdmi_color_calibration">Odabir korekcije boja</string>
   <string name="dialog_title_login">Prijavite se u Xiaomi račun</string>
   <string name="dialog_yes">Da</string>
@@ -2108,12 +2108,12 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="status_wifi_mac_address">MAC adresa WLAN-a</string>
   <string name="status_wimax_mac_address">4G MAC adresa</string>
   <string name="storage_format">Format</string>
-  <string name="storage_label">"Sig. kopija"</string>
+  <string name="storage_label">Pohrana</string>
   <string name="storage_low_summary">Neke funkcije sustava, kao što je sinkroniziranje, možda neće ispravno funkcionirati. Pokušajte osloboditi prostor brisanjem stavki ili ih otkvačite, primjerice aplikacije ili medijski sadržaj.</string>
   <string name="storage_low_title">Ponestaje prostora za pohranu</string>
   <string name="storage_menu_usb">Povezivanje USB-a i računala</string>
   <string name="storage_other_users">Drugi korisnici</string>
-  <string name="storage_settings">"Sig. kopija"</string>
+  <string name="storage_settings">Pohrana</string>
   <string name="storage_settings_summary">Isključi USB pohranu, prikaži dostupnu pohranu</string>
   <string name="storage_settings_title">Postavke pohrane</string>
   <string name="storage_title_usb">Povezivanje USB-a i računala</string>

@@ -20,7 +20,6 @@
   <string name="Call_ADRESS">Lokalna lista blokiranih</string>
   <string name="Call_BLACKLIST">Lista blokiranih poziva</string>
   <string name="Call_DEFAULT">Pametno blokiranje</string>
-  <string name="Call_MODENAME">Zadana lista blokiranih</string>
   <string name="Call_PREFIX">Lista blokiranih predbrojeva</string>
   <string name="Call_PRIVATE_CALL">Privatni pozivi</string>
   <string name="NACaddnumcontent">Upišite broj telefona</string>
@@ -31,7 +30,6 @@
   <string name="SMS_BLACKLIST">Lista blokiranih SMS-a</string>
   <string name="SMS_DEFAULT">Pametno blokiranje</string>
   <string name="SMS_KEYWORDS">Lista blokiranih ključnih riječi</string>
-  <string name="SMS_MODENAME">Zadana lista blokiranih</string>
   <string name="SMS_SERVICE">Usluga liste blokiranih</string>
   <string name="SMS_PREFIX">Lista blokiranih predbrojeva</string>
   <string name="SMSpass">Dopusti SMS</string>
@@ -62,6 +60,9 @@
   <string name="button_text_delete">Izbriši</string>
   <string name="button_to_setting">Postavke</string>
   <string name="call_delete_hint">Ukloniti sve blokirane pozive s ovog broja?</string>
+  <string name="call_transfer_block">Blokiraj proslijeđene pozive</string>
+  <string name="call_transfer_block_type">Blokiraj proslijeđene pozive</string>
+  <string name="call_transfer_info">Blokiraj pozive proslijeđene od nepoznatih brojeva</string>
   <string name="cancle">Odustani</string>
   <string name="close_callwait">Isključeno</string>
   <string name="customizer_mode_user_define_name">Prilagođeno</string>
@@ -120,9 +121,10 @@
   <string name="info_unantispam_phone_sms">Dopusti pozive i SMS</string>
   <string name="info_unantispam_sms">Dopusti SMS</string>
   <string name="label_callwait">Obavijesti poziva na čekanju</string>
-  <string name="log_count">(%d)</string>
   <string name="mark_agent">Prodavač</string>
   <string name="mark_agent_block">Prijavljen kao prodavač</string>
+  <string name="mark_banking_insurance">Prodaja osiguranja</string>
+  <string name="mark_banking_insurance_block">Prijavljen kao prodavač osiguranja</string>
   <string name="mark_express">Dostavljač</string>
   <string name="mark_express_block">Prijavljen kao dostavljač</string>
   <string name="mark_fraud">Prevarant</string>
@@ -165,8 +167,14 @@ Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potraz
   <string name="one_address_choose_hint">%s1</string>
   <string name="open_callwait">Uključeno</string>
   <string name="read_all_sms">Označi kao pročitano</string>
+  <string name="report_error">"Ne mogu prijaviti poruku"</string>
+  <string name="report_error_not_net">"Ne mogu se povezati na mrežu"</string>
+  <string name="report_only">Odaberite poruku za prijaviti</string>
+  <string name="report_sms">Prijava poruke</string>
+  <string name="report_success">Poruka prijavljena</string>
   <string name="sim_not_ready">SIM kartica nije spremna</string>
   <string name="sms_delete_hint">Izbrisati sve blokirane poruke s ovog broja?</string>
+  <string name="special_number_group">Blokiraj specijalne brojeve</string>
   <string name="st_advanced_setting_group">Napredno</string>
   <string name="st_antispam_black_adress_add">Odaberi područje</string>
   <string name="st_antispam_bw_adress_add">Odaberi lokaciju</string>
@@ -266,6 +274,7 @@ Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potraz
   <string name="st_title_mode_choose_group">Odaberi način rada</string>
   <string name="st_title_not_sim">Prazno</string>
   <string name="st_title_open_antispam">Lista blokiranih</string>
+  <string name="st_title_other_group">Ostalo</string>
   <string name="st_title_settings_other_group">Dodatne postavke</string>
   <string name="st_title_show_antispamnotification">Obavijesti liste blokiranih</string>
   <string name="st_title_sim_card">%1$s - SIM %2$s</string>

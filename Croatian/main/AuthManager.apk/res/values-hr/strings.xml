@@ -58,10 +58,12 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="Generic_Version">Verzija %1$s</string>
   <string name="HIPS_Action_Accept">Dopusti</string>
   <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Dopusti&lt;/font&gt;</string>
+  <string name="HIPS_Action_Accept_Once">Dopusti jednom</string>
   <string name="HIPS_Action_Prompt">Pitaj</string>
   <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Pitaj&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject">Odbij</string>
   <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Odbij&lt;/font&gt;</string>
+  <string name="HIPS_Action_Reject_Once">Odbij jednom</string>
   <string name="HIPS_Group_DataPrivacy">Privatnost</string>
   <string name="HIPS_Group_Expense">Sigurnost</string>
   <string name="HIPS_Group_Internet">Pristup Internetu</string>
@@ -154,6 +156,18 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="HIPS_Perm_ROOT_Desc">dobivanje ROOT pristupa</string>
   <string name="HIPS_Perm_ROOT_Hint">%1$s aplikacija ima ROOT pristup</string>
   <string name="HIPS_Perm_ROOT_Title">Aplikacija ima ROOT pristup</string>
+  <string name="HIPS_Perm_Read_Call_Log">Čitanje zapisnika poziva</string>
+  <string name="HIPS_Perm_Read_Call_Log_Desc">čitanje zapisnika poziva</string>
+  <string name="HIPS_Perm_Read_Call_Log_Hint">%1$s  aplikacijamože čitati vaš zapisnik poziva</string>
+  <string name="HIPS_Perm_Read_Contact">Čitanje vaših kontakata</string>
+  <string name="HIPS_Perm_Read_Contact_Desc">čitanje vaših kontakata</string>
+  <string name="HIPS_Perm_Read_Contact_Hint">%1$s aplikacija može čitati vaše kontakte</string>
+  <string name="HIPS_Perm_Read_MMS">Čitanje MMS poruka</string>
+  <string name="HIPS_Perm_Read_MMS_Desc">čitanje vaših MMS poruka</string>
+  <string name="HIPS_Perm_Read_MMS_Hint">%1$s aplikacija može čitati vaše MMS poruke</string>
+  <string name="HIPS_Perm_Read_SMS">Čitanje SMS poruka</string>
+  <string name="HIPS_Perm_Read_SMS_Desc">čitanje vaših SMS poruka</string>
+  <string name="HIPS_Perm_Read_SMS_Hint">%1$s aplikacija može čitati vaše SMS poruke</string>
   <string name="HIPS_Perm_Recorder_Audio">pristup mikrofonu za snimanje zvuka</string>
   <string name="HIPS_Perm_Recorder_AudioVideo">pristup fotoaparatu za fotografiranje i snimanje zvuka</string>
   <string name="HIPS_Perm_Recorder_Camera">pristup fotoaparatu za fotografiranje</string>
@@ -197,8 +211,12 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="HIPS_Perm_Wakelock">Spriječiti uređaj od mirovanja</string>
   <string name="HIPS_Perm_Wakelock_Desc">spriječiti uređaj od odlaska u stanje mirovanja</string>
   <string name="HIPS_Perm_Wakelock_Hint">%1$s aplikacija može spriječiti uređaj od odlaska u stanje mirovanja</string>
+  <string name="HIPS_Perm_Xiaomi_Account">Xiaomi Račun</string>
+  <string name="HIPS_Perm_Xiaomi_Account_Desc">Pristup vašem Xiaomi računu</string>
+  <string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s aplikacija može pristupiti vašem Xiaomi računu</string>
   <string name="HIPS_SecurityPrompt_Accept">Dopusti (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Dopusti</string>
+  <string name="HIPS_SecurityPrompt_Accept_Once">Dopusti jednom (%d)</string>
   <string name="HIPS_SecurityPrompt_Caption">Sigurnosno upozorenje</string>
   <string name="HIPS_SecurityPrompt_Next">Dalje</string>
   <string name="HIPS_SecurityPrompt_ROOT_Caption">ROOT pristup</string>
@@ -209,6 +227,7 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Odobravate ROOT pristup aplikacijama na vlastitu odgovornost.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6">Odobriti %1$s ROOT pristup?</string>
   <string name="HIPS_SecurityPrompt_Reject">Odbij (%d)</string>
+  <string name="HIPS_SecurityPrompt_Reject_Once">Odbij jednom (%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">Zapamti pojedinosti.</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s pokušava da %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d dopuštenja</string>
@@ -233,4 +252,5 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="SysOpt_Boost_Boot">Pokretanje</string>
   <string name="SysOpt_Boost_Receiver">Pozadina</string>
   <string name="app_name">Upravitelj Dopuštenja</string>
+  <string name="permisson_reject_notice_toast_text">"\"%1$s\" nema dopuštenje za %2$s. Možete promijeniti dopuštenja za aplikacije u bilo kada u Sigurnost &gt; Dopuštenja."</string>
 </resources>
