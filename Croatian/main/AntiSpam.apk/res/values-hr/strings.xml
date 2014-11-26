@@ -121,6 +121,7 @@
   <string name="info_unantispam_phone_sms">Dopusti pozive i SMS</string>
   <string name="info_unantispam_sms">Dopusti SMS</string>
   <string name="label_callwait">Obavijesti poziva na čekanju</string>
+  <string name="log_count">(%d)</string>
   <string name="mark_agent">Prodavač</string>
   <string name="mark_agent_block">Prijavljen kao prodavač</string>
   <string name="mark_banking_insurance">Prodaja osiguranja</string>

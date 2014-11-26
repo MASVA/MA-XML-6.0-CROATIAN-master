@@ -247,6 +247,10 @@
   <string name="filename_empty_alert_message">"Naziv ne može biti prazan"</string>
   <string name="filename_illegal_alert_message">Nevažeći znak je uklonjen iz naziva datoteke.</string>
   <string name="find_on_page">Pronađi na stranici</string>
+  <string name="find_on_page_cancel">Odustani</string>
+  <string name="find_on_page_matches">Podudaranja %d</string>
+  <string name="find_on_page_next">Dalje</string>
+  <string name="find_on_page_prev">Natrag</string>
   <string name="folder_name">Naziv mape</string>
   <string name="forward">Proslijedi</string>
   <string name="general_set_default_browser_dialog_close_txt">Zatvori</string>
@@ -290,6 +294,7 @@
   <string name="location">Adresa</string>
   <string name="low_memory_error">Nema dovoljno memorije za dovršenje tog zadatka</string>
   <string name="max_tabs_warning">Nema dostupnih kartica</string>
+  <string name="maximum_input_alert">Maksimalni unos 2048 znakova</string>
   <string name="media_player_error_button">U redu</string>
   <string name="media_player_error_text_invalid_progressive_playback">Ovaj videozapis nije valjan za streaming na ovom uređaju.</string>
   <string name="media_player_error_text_unknown">Nije moguće reproducirati taj videozapis.</string>
@@ -667,6 +672,8 @@
   <string name="up_to_loading_tips">Otpusti za osvježiti</string>
   <string name="uploads_disabled">Učitavanje datoteka je onemogućeno</string>
   <string name="url_copy_done">URL kopiran u međuspremnik</string>
+  <string name="url_find_on_page_result">Prikaži u Pregledniku</string>
+  <string name="url_find_on_page_result_item">Prikaži sav tekst za \"%s\"</string>
   <string name="url_hint">Pretraži ili upiši URL</string>
   <string name="url_opened_in_background">Otvori u pozadinskoj kartici</string>
   <string name="url_suggest_indicator_bookmark">Oznake/Povijest</string>
