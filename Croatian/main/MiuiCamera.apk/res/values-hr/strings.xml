@@ -13,7 +13,6 @@
   <string name="burst_shoot_exit_button_text">Zatvori Brzo Okidanje</string>
   <string name="camera_disabled">Fotoaparat je onemogućen</string>
   <string name="camera_error_title">Pogreška Fotoaparata</string>
-  <string name="camera_face_beauty_simple_mode_open">i:2</string>
   <string name="camera_label">Fotoaparat</string>
   <string name="camera_settings_label">Fotoaparat</string>
   <string name="cannot_connect_camera_once">"Ne mogu se spojiti s kamerom."</string>
@@ -62,7 +61,7 @@
   <string name="pano_too_fast_prompt">Prebrzo</string>
   <string name="pref_advance_settings">Dodatne postavke</string>
   <string name="pref_audio_focus_entry_front">Prednji</string>
-  <string name="pref_audio_focus_entry_general">Normal</string>
+  <string name="pref_audio_focus_entry_general">Normalno</string>
   <string name="pref_audio_focus_entry_rear">Stražnji</string>
   <string name="pref_audio_focus_title">Izoštravanje zvuka</string>
   <string name="pref_audio_indicator_entry_off">Zvuk isklj.</string>
@@ -278,7 +277,6 @@
   <string name="pref_video_speed_fast_title">Brzo</string>
   <string name="pref_video_speed_slow_title">Sporo</string>
   <string name="pref_video_speed_title">Brzina Snimanja videa</string>
-  <string name="pref_video_time_lapse_frame_interval_default">120</string>
   <string name="pref_video_time_lapse_frame_interval_entry_10">Interval od 0.3 sek. (10 puta)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_120">Interval od 4 sek. (120 puta)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_150">Interval od 5 sek. (150 puta)</string>
