@@ -258,6 +258,16 @@
   <string name="ivr_menu_dialing_msg_no_mute">Idite na odabranu uslugu…[Automatsko ispravljanje pogrešaka je omogućeno]</string>
   <string name="ivr_menu_list_sub_menu_count_format">Pritisnite %s</string>
   <string name="ivr_menu_list_title">Glasovni izbornik</string>
+  <string name="jeejen_answer_call_text">Odgovori na poziv</string>
+  <string name="jeejen_card_title_call_cancel">Otkaži poziv</string>
+  <string name="jeejen_card_title_call_ended">Poziv je završen</string>
+  <string name="jeejen_card_title_dialing">Pozivanje</string>
+  <string name="jeejen_card_title_in_call"/>
+  <string name="jeejen_card_title_incoming_call">Dolazni poziv</string>
+  <string name="jeejen_card_title_on_hold"/>
+  <string name="jeejen_end_call_text">Završi poziv</string>
+  <string name="jeejen_reject_call_text">Odbij poziv</string>
+  <string name="jeejen_toggle_dialpad_text">Tipkovnica</string>
   <string name="labelCDMAMore">CDMA postavke poziva</string>
   <string name="labelCF">Prosljeđivanje poziva</string>
   <string name="labelCFB">Proslijedi tokom zauzeća</string>

@@ -652,7 +652,6 @@ Za dodavanje kontakta na listu favorita :
   <string name="non_phone_add_to_contacts">"Dodaj u kontakte"</string>
   <string name="non_phone_caption">Telefonski broj</string>
   <string name="non_phone_close">"Zatvori"</string>
-  <string name="none_found">Nema pronađenih uređaja</string>
   <string name="none_paired">Nema trenutno uparenih uređaja</string>
   <string name="not_applied">"Ne mogu primjeniti"</string>
   <string name="notification_action_voicemail_play">"Reproduciraj"</string>
@@ -963,7 +962,6 @@ Za dodavanje kontakta na listu favorita :
   <string name="scan_merge">Pretraživanje dvostrukih kontakata…</string>
   <string name="scan_qrcode_card_hint1">Skeniraj QR kod</string>
   <string name="scan_qrcode_card_hint2">Dodaj moje informacije svojim kontaktima</string>
-  <string name="scanning">Skeniranje…</string>
   <string name="scanning_sdcard_failed_message">Razlog: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">Pohrana se ne može skenirati.</string>
   <string name="sdcard_not_mounted_dialog_message">"Umetnite SD karticu.
@@ -974,7 +972,6 @@ Za dodavanje kontakta na listu favorita :
   <string name="search_settings_description">Imena vaših kontakata</string>
   <string name="searching_vcard_message">"Traženje vCard podataka u pohrani…"</string>
   <string name="select_all">"Odaberi sve"</string>
-  <string name="select_device">Odaberi uređaj</string>
   <string name="select_groups">Odaberi grupe</string>
   <string name="select_new_photo_from_photo_package">Pregledaj mape</string>
   <string name="select_none">Ništa nije odabrano</string>

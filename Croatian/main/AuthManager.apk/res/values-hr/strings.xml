@@ -211,9 +211,9 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="HIPS_Perm_Wakelock">Spriječiti uređaj od mirovanja</string>
   <string name="HIPS_Perm_Wakelock_Desc">spriječiti uređaj od odlaska u stanje mirovanja</string>
   <string name="HIPS_Perm_Wakelock_Hint">%1$s aplikacija može spriječiti uređaj od odlaska u stanje mirovanja</string>
-  <string name="HIPS_Perm_Xiaomi_Account">Xiaomi Račun</string>
-  <string name="HIPS_Perm_Xiaomi_Account_Desc">Pristup vašem Xiaomi računu</string>
-  <string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s aplikacija može pristupiti vašem Xiaomi računu</string>
+  <string name="HIPS_Perm_Xiaomi_Account">Mi Račun</string>
+  <string name="HIPS_Perm_Xiaomi_Account_Desc">pristup vašem Mi Računu</string>
+  <string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s aplikacija može pristupiti vašem Mi Računu</string>
   <string name="HIPS_SecurityPrompt_Accept">Dopusti (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Dopusti</string>
   <string name="HIPS_SecurityPrompt_Accept_Once">Dopusti jednom (%d)</string>

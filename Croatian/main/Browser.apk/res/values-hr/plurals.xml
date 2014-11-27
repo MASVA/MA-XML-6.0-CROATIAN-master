@@ -7,6 +7,14 @@
     <plurals name="webview_last_num_days">
         <item quantity="other">Posljednjih %d dana</item>
     </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d podudaranja</item>
+        <item quantity="one">%d podudarnost</item>
+    </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">Blokirano stavki: %d</item>
+        <item quantity="one">%d stavka blokirana</item>
+    </plurals>
 	<plurals name="v5_edit_mode_title">
        <item quantity="other">Odabrano: %1$d</item>
        <item quantity="one">Odabrano: %1$d</item>
