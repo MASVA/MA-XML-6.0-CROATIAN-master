@@ -10,9 +10,7 @@
   <string name="action_pop_person_info">Profil</string> 
   <string name="action_pop_smart_alarms">Alarm</string> 
   <string name="action_pop_unlock_screen">Otključaj zaslon</string> 
-  <string name="action_pop_weixin_enter">Sinkr. s Wechat</string> 
-  <string name="age">Dob</string> 
-  <string name="ages">godina</string> 
+  <string name="action_pop_weixin_enter">Dodaj Wechat</string> 
   <string name="agree">Slažem se</string>
   <string name="alarm">Alarm</string> 
   <string name="alarm_cycle">Ponavljaj</string> 
@@ -59,6 +57,7 @@ zatim dodirnite Slijedi."</string>
   <string name="bind_weixin_tips_1">Dodirnite Generiraj QR kod za generiranje i spremanje QR kod u Galeriju.</string>
   <string name="bind_weixin_tips_2">Dodirnite Otvori Wechat, unesite Skeniraj QR kod i dotaknite Album za odabir spremanja QR kôd.</string>
   <string name="bind_weixin_title">Sinkronizirajte za dijeljenje i natjecanje se s prijateljima</string>
+  <string name="birthday">Rođendan</string>
   <string name="blue">Plava</string> 
   <string name="bluetooth">Bluetooth </string> 
   <string name="body">Vrat</string>
@@ -74,12 +73,15 @@ Adresa: %2$s"</string>
   <string name="bracelet_not_connected_bat_unknown">Mi Band nije uparen</string> 
   <string name="bracelet_not_found_info">"Pretražite ponovo kada vidite da jedna od LED-a Mi Banda počne treperiti crveno."</string> 
   <string name="bracelet_not_found_title">"Pobrinite se da je baterija napunjena."</string> 
+  <string name="bracelet_store_desc">Band trgovina</string>
   <string name="bt_operation_failed_tips">Bluetooth ne radi ispravno. Pričekajte minutu ili dvije i pokušajte ponovno.</string> 
+  <string name="buy_bracelet_desc">Kupite si band.</string>
   <string name="cal">kal</string> 
   <string name="cancel">Odustani</string> 
   <string name="check_upgrade">Provjeri za ažuriranja</string> 
   <string name="checking_new_apk">Provjeravam ažuriranja…</string> 
   <string name="clock_closed">Isključeno</string> 
+  <string name="closed">Zatvoreno</string>
   <string name="cm">cm</string> 
   <string name="come_from_xiaomi_bracelet">Mi Band</string> 
   <string name="confirm">U redu</string> 
@@ -323,8 +325,8 @@ cilj za danas."</string>
   <string name="look_device_list">Otkrij band u blizini</string>
   <string name="main_ui_share_tips">"Vježbao sam %1$s%2$s danas.
 %3$s"</string>
-  <string name="main_ui_sleep_share_tips">"Laganog sna: %1$s%2$s
-Zaspao sam u %3$s, prebudio se u %4$s."</string>
+  <string name="main_ui_sleep_share_tips">"Lagani san: %1$s%2$s
+Zaspao sam u %3$s |Prebudio se u %4$s"</string>
   <string name="male">Muškarac</string>
   <string name="marathon_format_0">" isto %1$s maratona."</string>
   <string name="marathon_format_1">" preko %1$s maratona."</string>
@@ -481,6 +483,7 @@ Potrošeno %3$scal.
   <string name="share_step_goal_failed_title_today">Danas</string> 
   <string name="share_step_goal_succ_title">Postignite cilj</string> 
   <string name="share_step_goal_succ_title_today">Danas sam postigao svoj cilj!</string>
+  <string name="share_step_ranking">Pobijedili ste &lt;b&gt;%s&lt;/b&gt; korisnika.</string>
   <string name="share_step_walk"/>
   <string name="share_to_content">Podijelite svoj napredak</string>
   <string name="share_to_content_sleep">Detalji mog spavanja</string>
@@ -497,20 +500,41 @@ Potrošeno %3$scal.
   <string name="smart_alarm_notify">Alarm</string>
   <string name="smart_wake_up">Alarm</string>
   <string name="smart_wake_up_info">"Probudi me 30 minuta prije određenog vremena.</string>
+  <string name="sport_coming_soon">Provjeri vijesti!</string>
   <string name="sport_new_record_ropeskipping">Novi rekord</string>
   <string name="sport_ranking_desc_great">WOW, sada si nepobjediv!</string>
   <string name="sport_ranking_desc_normal" formatted="false">Pobijedio &lt;b&gt;%s%&lt;/b&gt; si %s korisnika.</string>
   <string name="sport_ranking_desc_poor">Svaki %s korisnik te može pobijediti, zapni malo jače!</string>
+  <string name="sport_running_altitude">Visina</string>
+  <string name="sport_running_average_speed">Prosjek</string>
+  <string name="sport_running_burn">Potroši</string>
+  <string name="sport_running_cost_cal">%.1f Kcal</string>
+  <string name="sport_running_distance">Udaljenost</string>
   <string name="sport_running_distance_detail">%s Kilometara</string>
-  <string name="sport_running_helper">pomoćnik kod trčanja</string>
+  <string name="sport_running_end_time">Završeno</string>
+  <string name="sport_running_gps_cancel">Odustani</string>
+  <string name="sport_running_gps_turnon">Uključi</string>
+  <string name="sport_running_helper">Pomoćnik kod trčanja</string>
+  <string name="sport_running_helper_test">Test trčanja</string>
+  <string name="sport_running_history">Povijest</string>
+  <string name="sport_running_history_date" formatted="false">%d/%d/%d</string>
+  <string name="sport_running_history_no_data">Nema podataka</string>
+  <string name="sport_running_history_title">Povijest</string>
   <string name="sport_running_no_gps">GPS bi trebao biti uključen kako bi snimio svoj trag. Uključiti GPS?</string>
   <string name="sport_running_pace">Tempo</string>
   <string name="sport_running_pace_detail">%s/KM</string>
+  <string name="sport_running_prepare_map">Priprema mape za dijeljenje…</string>
   <string name="sport_running_set_dist">Podsjetnik udaljenosti</string>
   <string name="sport_running_set_goal">Podsjetnik ciljeva</string>
   <string name="sport_running_set_speed">Podsjetnik brzine</string>
+  <string name="sport_running_settings">Postavke</string>
+  <string name="sport_running_slider_prompt">&gt;&gt;&gt;Povuci desno za otključavanje</string>
   <string name="sport_running_speed">Brzina</string>
-  <string name="sport_running_speed_detail">%dKM/H</string>
+  <string name="sport_running_speed_detail">%.0fkm/h</string>
+  <string name="sport_running_start">Start</string>
+  <string name="sport_running_start_time">Start</string>
+  <string name="sport_running_step">Koraka</string>
+  <string name="sport_running_time_desc">Vrijeme</string>
   <string name="sport_share">Podijeli sada</string>
   <string name="start">Start</string> 
   <string name="start_download">Preuzimanje…</string> 
@@ -558,7 +582,7 @@ Potrošeno %3$scal.
   <string name="state_unbind_success">Uklonjen QQ Račun</string>
   <string name="state_unbinded">Odjavljeno</string>
   <string name="statistic">Statistika</string> 
-  <string name="statistic_day_average">Prosj. po danu</string> 
+  <string name="statistic_day_average">Dnevni prosjek</string> 
   <string name="statistic_detail">Detalji</string> 
   <string name="statistic_total">Ukupno</string> 
   <string name="step">koraka</string> 
@@ -579,7 +603,7 @@ Potrošeno %3$scal.
   <string name="unbind_short">Raspari</string> 
   <string name="unbinding">Rasparivanje…</string> 
   <string name="unit_calorie">kal</string> 
-  <string name="unit_hour">hrs</string>
+  <string name="unit_hour">s</string>
   <string name="unit_kilometer">Km</string>
   <string name="unit_meter">m</string>
   <string name="unit_min">min</string>
@@ -611,6 +635,8 @@ Postavke &gt; Sigurnost."</string>
   <string name="user_agreement">Izjava korisnika i Pravila o privatnosti</string>
   <string name="user_agreement_prefix">"Da biste koristili ovaj proizvod, morate pristati na naše
 "</string>
+  <string name="vibrate_notify">Vibriracija kod obavijesti</string>
+  <string name="vibrate_notify_tips">Zavibriraj band kad primite obavijest</string>
   <string name="visit_micom">Posjetite službenu stranicu</string> 
   <string name="wait">Pričekajte trenutak…</string> 
   <string name="walked">Prohodano </string> 
