@@ -34,6 +34,7 @@
   <string name="launch_wechat">Pokreni WeChat</string>
   <string name="name">Ime:</string>
   <string name="nickname">Prezime:</string>
+  <string name="not_insert_contact">Umetanje kontakta nije uspjelo</string>
   <string name="not_recommend_access_web_url">Nastavi svejedno na web stranicu</string>
   <string name="not_tips">Zapamti ovaj izbor</string>
   <string name="note">Bilješka:</string>

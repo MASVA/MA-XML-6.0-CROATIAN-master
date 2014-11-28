@@ -45,7 +45,7 @@
   <string name="face_beauty_intelligent_level_1">+1</string>
   <string name="face_beauty_intelligent_level_2">+2</string>
   <string name="face_beauty_intelligent_level_3">+3</string>
-  <string name="find_other_qrcode">Pronađi drugi QR kod</string>
+  <string name="find_other_qrcode">QR kod pronađen</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="no_save">Ne hvala</string>
   <string name="no_storage">Umetnite SD karticu prije korištenja fotoaparata.</string>
