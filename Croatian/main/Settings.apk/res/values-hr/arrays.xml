@@ -351,6 +351,16 @@
         <item>Animacija razmjera 5x</item>
         <item>Animacija razmjera 10x</item>
     </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Ništa</item>
+        <item>720x480 mdpi</item>
+        <item>720x480 mdpi (sigurno)</item>
+        <item>1280x720 tvdpi</item>
+        <item>1280x720 tvdpi (sigurno)</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1920x1080 xhdpi (sigurno)</item>
+        <item>1280x720 tvdpi i 1920x1080 xhdpi</item>
+    </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Ništa</item>
         <item>Logcat</item>

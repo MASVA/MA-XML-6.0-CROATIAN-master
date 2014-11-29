@@ -40,7 +40,6 @@
   <string name="action_phone">Poziv</string>
   <string name="action_qrcode">QR kod</string>
   <string name="action_screen_shot">Snimak zaslona</string>
-  <string name="action_search">Pretraži</string>
   <string name="action_send_text_message">Pošalji SMS</string>
   <string name="action_share_to_miliao">MiTalk</string>
   <string name="action_share_to_miliao_wall">MiTalk</string>
@@ -145,6 +144,7 @@ Tijekom uporabe, ostale funkcije MiKey su nedostupne."</string>
   <string name="key_direction_left">Lijevo</string>
   <string name="key_direction_right">Desno</string>
   <string name="key_direction_up">Gore</string>
+  <string name="know_it">U redu</string>
   <string name="long_click">Pritisni i drži</string>
   <string name="message_photo_end">Slika spremljena</string>
   <string name="name">Ime:</string>
@@ -169,6 +169,9 @@ Tijekom uporabe, ostale funkcije MiKey su nedostupne."</string>
   <string name="running_notification">Xiaomi MiKey</string>
   <string name="scan_fail">Skeniranje neuspjelo!</string>
   <string name="scan_result">Rezultati skeniranja</string>
+  <string name="screenshot_crop">Obreži</string>
+  <string name="screenshot_full">Cijeli zaslon</string>
+  <string name="scrennshot_select_title">Odaberite način Snimke zaslona</string>
   <string name="sdcard">SD kartica</string>
   <string name="search_baidu_text">Baidu</string>
   <string name="search_cancel_text">Odustani</string>
@@ -189,14 +192,13 @@ Tijekom uporabe, ostale funkcije MiKey su nedostupne."</string>
   <string name="setting_keeplive_desc">"Ova opcija omogućuje aplikaciji rad u pozadini i da brzo reagira na vaše naredbe.
 To može uzrokovati veću potrošnju baterije"</string>
   <string name="setting_keeplive_text">Rad u pozadini</string>
-  <string name="setting_silent_mode">Bez zvuka</string>
+  <string name="setting_proximity_desc">Spriječite slučajnu uporabu MiKey u džepu.</string>
+  <string name="setting_proximity_text">Upotrijebite senzor udaljenosti</string>
+  <string name="setting_silent_mode">Tihi način rada</string>
   <string name="setting_silent_mode_default">Način rada slušalica (odaberite MiKey)</string>
   <string name="setting_silent_mode_desc">"Za spajanje slušalica, odaberite način rada slušalice i odvojite MiKey. U protivnom audio izlaz neće raditi ispravno."</string>
   <string name="setting_silent_mode_dust_cap">Način rada čepova</string>
-  <string name="setting_speed_desc">Brzina pritiska gumba</string>
-  <string name="setting_speed_max_time">1000</string>
-  <string name="setting_speed_middle_time">500ms</string>
-  <string name="setting_speed_min_time">0</string>
+  <string name="setting_speed_desc">Brzina klikanja gumba</string>
   <string name="setting_speed_quick">Brzo</string>
   <string name="setting_speed_slow">Sporo</string>
   <string name="setting_speed_text">Brzina</string>
