@@ -2,10 +2,18 @@
 <resources>
     <plurals name="timer_item_duration_display_seconds">
         <item quantity="other">%1$d sek.</item>
-        <item quantity="one">1 sekunda</item>
+        <item quantity="one">%1$d sekunda</item>
     </plurals>
     <plurals name="timer_item_duration_display_minutes">
         <item quantity="other">%1$d min.</item>
         <item quantity="one">1 minuta</item>
+    </plurals>
+    <plurals name="timer_message_with_minutes">
+        <item quantity="other">%1$d min.</item>
+        <item quantity="one">%1$d minuta</item>
+    </plurals>
+    <plurals name="timer_message_with_seconds">
+        <item quantity="other">%1$d sek.</item>
+        <item quantity="one">%1$d sekunda</item>
     </plurals>
 </resources> 

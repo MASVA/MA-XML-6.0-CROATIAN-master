@@ -34,7 +34,7 @@
   <string name="launch_wechat">Pokreni WeChat</string>
   <string name="name">Ime:</string>
   <string name="nickname">Prezime:</string>
-  <string name="not_insert_contact">Umetanje kontakta nije uspjelo</string>
+  <string name="not_insert_contact">"Ne mogu dodati kontakt"</string>
   <string name="not_recommend_access_web_url">Nastavi svejedno na web stranicu</string>
   <string name="not_tips">Zapamti ovaj izbor</string>
   <string name="note">Bilješka:</string>
@@ -54,7 +54,7 @@
   <string name="settings">Postavke</string>
   <string name="success_message_import_from_account">Uvezeno</string>
   <string name="tips_message">"Povežite se s internetom kako bi provjerili da li je web stranica koju želite posjetiti sigurna."</string>
-  <string name="tips_title">Internet je potreban</string>
+  <string name="tips_title">Poveži se na internet</string>
   <string name="title">Titula:</string>
   <string name="url_is_phish">Ova je web stranica osumnjičena za krađu identiteta podataka.</string>
   <string name="url_is_safety">Ova je web stranica sigurna.</string>

@@ -1,10 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="access_error">""Ne mogu snimati u Gost načinu rada"</string>
   <string name="alert_message_delete_record">Obrisati odabrane snimke?</string>
   <string name="app_name">Snimač</string>
   <string name="back">Natrag</string>
-  <string name="button_ok">OK</string>
   <string name="button_queue_for_wifi">Čekaj</string>
   <string name="button_start_now">Preuzimanje</string>
   <string name="call_record">Snimljenih poziva (%d)</string>
@@ -28,14 +26,8 @@
   <string name="error_sdcard_access">"Ne mogu pristupiti prostoru za pohranu"</string>
   <string name="error_sdcard_unmounted">Umetnite SD karticu</string>
   <string name="fm_record">Snimke FM-a (%d)</string>
-  <string name="hour">%d sati</string>
-  <string name="loading_recording">Učitavanje</string>
   <string name="low_battery_error">Manje od 5% baterije preostalo, da snimanje ne bude izgubljeno, snimanje je bilo zaustavljeno i spremljeno.</string>
-  <string name="low_battery_message_title">Slaba baterija</string>
-  <string name="low_battery_warning">Snimanje može biti izgubljeno ako vaša baterija ostane bez energije.</string>
-  <string name="menu_settings">Postavke</string>
   <string name="message_file_size_error">Snimanje je dostiglo maksimalnu duljinu snimanja podržanu za %s</string>
-  <string name="minute">%d minuta</string>
   <string name="no_downloading_file">Nema preuzetih datoteka</string>
   <string name="no_file">Prazno</string>
   <string name="notification_message_all_paused">Čekanje na WLAN vezu.</string>
@@ -46,7 +38,6 @@
   <string name="notification_title_all_paused">Preuzimanje pauzirano</string>
   <string name="notification_warning">Premalo pohrane (preostalo manje %d minuta)</string>
   <string name="pause">Pauza</string>
-  <string name="play_record">Reproduciraj</string>
   <string name="preference_enable_earpiece_summary">Koristite zvučnik za vanjsku reprodukciju</string>
   <string name="preference_enable_earpiece_title">Koristite prijemnik za reprodukciju zvuka</string>
   <string name="preference_led_indicator">Obavijesti zaključanog zaslona</string>
@@ -61,7 +52,6 @@
   <string name="record_download_activity">Popis preuzimanja</string>
   <string name="record_download_complete">Završeno</string>
   <string name="record_download_failed">Nije uspjelo</string>
-  <string name="record_download_manager">Upravitelj preuzimanja</string>
   <string name="record_download_msg">Snimke se mogu reproducirati tek nakon što je završilo preuzimanje.</string>
   <string name="record_download_msg_reload">"Taj snimak ne postoji."</string>
   <string name="record_download_paused">Pauzirano</string>
@@ -76,26 +66,18 @@
   <string name="record_list_cloud_call">Sinkr. Snimljeni pozivi</string>
   <string name="record_list_cloud_fm">Sinkr. snimke FM-a</string>
   <string name="record_list_fm">FM Snimke</string>
-  <string name="record_loading">Učitavanje…</string>
   <string name="record_name_hour">.</string>
-  <string name="record_picker_title">Odaberi snimku</string>
-  <string name="record_saving">Spremam snimke, molim pričekajte!</string>
   <string name="recording">Snimanje…</string>
   <string name="recording_stopped">Zaustavljeno</string>
   <string name="rename">Preimenuj</string>
   <string name="rename_dialog_title">Preimenuj snimku</string>
-  <string name="rename_duplicate">Snimka s istim imenom već postoji</string>
+  <string name="rename_duplicate">Snimka s istim imenom već postoji.</string>
   <string name="retry">Pokušaj ponovo</string>
-  <string name="search_for_recordings_in_folders">Pretraživanje mape za snimanje</string>
-  <string name="second">%d sekundi</string>
-  <string name="send_to">Pošalji</string>
-  <string name="sound_recorder_settings">Postavke snimanja</string>
+  <string name="sound_recorder_settings">Postavke</string>
   <string name="start">Nastavi</string>
-  <string name="start_recording">Početak snimanja</string>
   <string name="status_bar_back">Dodirnite za povratak na Snimač</string>
   <string name="status_bar_recording">Snimanje…</string>
   <string name="status_bar_recording_pause">"Snimanje je zaustavljeno."</string>
-  <string name="stop_recording">Zaustavi snimanje</string>
   <string name="sync_only_in_wifi">Koristiti samo WLAN za sinkr.</string>
   <string name="sync_only_in_wifi_summary">Snimač neće koristiti mobilne podatke za preuzimanje ili učitavanje snimaka</string>
   <string name="sync_records">Sinkr. s MiCloud</string>
@@ -103,7 +85,6 @@
   <string name="toast_file_is_downloading">Još se preuzima</string>
   <string name="toast_max_record_time">%1$s može snimiti za oko %2$s</string>
   <string name="toast_uninstall_fileexplorer">"Aplikacija Datoteke nije instalirana"</string>
-  <string name="view_list_of_recordings">Pogledaj snimke</string>
   <string name="wifi_recommended_body" formatted="false">"Korištenje vaše mobilne podatkovne veze za preuzimanje ove datoteke  (%s) će povećati vašu uporabu podataka. Ako prekoračite vašu mjesečno ograničenje, vaš mobilni operater vam može naplatiti dodatne naknade.
 Za čekanje WLAN veze za preuzimanje ove datoteke, dodirnite %s."</string>
   <string name="wifi_recommended_title">Upozorenje uporabe podataka</string>

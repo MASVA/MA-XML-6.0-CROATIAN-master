@@ -86,6 +86,11 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="master_alert_notif_dspt_add">Stavki za sinkr.: %s</string>
   <string name="master_alert_notif_dspt_no">Sinkronizirano</string>
   <string name="master_alert_notif_title">Zadnja sinkr. prije dana %s</string>
+  <string name="micloud_check_sim_notify_text">"Izgleda da ste promijenili SIM kartice. Prijavite se
+na vaš Mi Račun za aktiviranje Mi Cloud."</string>
+  <string name="micloud_check_sim_notify_title">Ponovno aktiviraj Mi Cloud</string>
+  <string name="micloud_check_sim_title">"Izgleda da ste promijenili SIM kartice. Prijavite se
+na vaš Mi Račun za aktiviranje Mi Cloud."</string>
   <string name="micloud_detail_fail">Nije uspjeo</string>
   <string name="micloud_detail_lastest">Sinkronizirano</string>
   <string name="micloud_detail_pending">Na čekanju</string>
@@ -106,7 +111,7 @@ Na taj način, ako izgubite ili oštetite uređaj, vaši podaci će i dalje biti
 
 Kada je vaš cloud pun, vaši stari podaci neće ići nikamo. Međutim, svaki novi dodani sadržaj (primjerice fotografije, videozapisi, bilješke i aplikacije) neće biti pohranjene.
 
-Da biste to riješili, možete ili očistiti neke stare datoteke kako bi napravili mjesta za nove, ili možete kupiti dodatni prostor za pohranu."</string>
+Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravili mjesta za nove, ili možete kupiti dodatni prostor za pohranu."</string>
   <string name="micloud_full_influence_title">Kada je vaš Mi Cloud pun…</string>
   <string name="micloud_intro_01_part_01">Uštedite na mobilnim podacima!</string>
   <string name="micloud_intro_01_part_02">Slanje poruka u Cloudu preko interneta</string>
@@ -124,6 +129,7 @@ Da biste to riješili, možete ili očistiti neke stare datoteke kako bi napravi
   <string name="micloud_main_space_risk">Imate još %d podataka za sinkr. Ažurirajte prostor za pohranu.</string>
   <string name="micloud_main_stop_sync">Zaustavi sinkr.</string>
   <string name="micloud_main_suggest_sync">"Neke stavke nisu sinkronizirane s vašim Mi Cloudom"</string>
+  <string name="micloud_main_sync_exception">pogreška sinkr.</string>
   <string name="micloud_main_sync_now">Sinkroniziraj sada</string>
   <string name="micloud_main_sync_on_wifi">Samo putem WLAN-a</string>
   <string name="micloud_main_sync_pause">Pauziraj sinkr.</string>

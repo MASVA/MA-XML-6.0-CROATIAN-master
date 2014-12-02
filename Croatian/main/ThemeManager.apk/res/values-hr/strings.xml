@@ -35,14 +35,14 @@
     <string name="download_preview_failed">"Ne mogu učitati pregled"</string>
     <string name="download_success">Preuzimanje dovršeno!</string>
     <string name="fail_to_add_account">"Ne mogu dodati račun"</string>
-    <string name="live_wallpaper">Animirana slika pozadine</string>
+    <string name="live_wallpaper">Animirana pozadina</string>
     <string name="loading">Učitavam…</string>
     <string name="loading_resource_detail_fail">"Ne mogu učitati resurse!"</string>
     <string name="loading_resource_detail_info">Učitavam…</string>
     <string name="lockscreen_wallpaper">Zaklj. zaslon</string>
     <string name="lockstyle_personal_settings">Uređivanje</string>
     <string name="long_ringtone_resource">Dugo</string>
-    <string name="mi_wallpaper">MIUI Slika pozadine</string>
+    <string name="mi_wallpaper">MIUI pozadina</string>
     <string name="online_no_network">"Ne mogu se spojiti na mrežu"</string>
     <string name="online_search_hint">Pretraživanje za online resursima</string>
     <string name="payment_info">Mi Krediti</string>

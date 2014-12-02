@@ -44,8 +44,8 @@
   <string name="alert_init_merged_message">"Fotografije ovog uređaja i fotografije pohranjenih na Mi Cloudu prikazuju se zajedno u kartici Fotografije."</string>
   <string name="alert_init_merged_title">Sve vaše fotografije. Zajedno napokon.</string>
   <string name="alert_message_open_sync">Morate prvo omogućiti sinkronizaciju</string>
-  <string name="alert_secret_album_message">Možete pomaknuti cloud album u tajni album.</string>
-  <string name="alert_secret_album_title">Tajni Album</string>
+  <string name="alert_secret_album_message">Prijeđite prstom prema gore pri dnu vaših albuma za prikaz skrivenih albuma.</string>
+  <string name="alert_secret_album_title">Skriveni albumi</string>
   <string name="already_apply_album">Otvoriti %1$s?</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
   <string name="androidesk_wallpapers">Android slike pozadine</string>
@@ -58,7 +58,7 @@
   <string name="auto_create_recent_album_confirm">"Galerija će izbrisati podatke omiljenih albuma. Albumi koji ste označili ručno kao omiljene biti pogođeni."</string>
   <string name="auto_create_recent_album_over_ten_times">Album će biti označen kao omiljen nakon otvaranja više od 10 puta</string>
   <string name="auto_upload_album_comfirm_to_share">To je album koji će biti automatski učitan, jeste li sigurni da ga želite podijeliti?</string>
-  <string name="auto_upload_tip">Album s istim imenom će biti izrađen nakon što se omogući. Postojeći album (uključujući dijeljeni album kojeg dijelite s drugima) s istim imenom će se spojiti.</string>
+  <string name="auto_upload_tip">Ako album s istim imenom već postoji u cloudu, albumi će biti spojeni.</string>
   <string name="auto_upload_title">Učitaj automatski</string>
   <string name="autofix">Aut. popravak</string>
   <string name="autohomemain">Autohomemain</string>
@@ -101,7 +101,7 @@
   <string name="cloud_be_shared_guide_message">"Pregledajte fotografije svojih prijatelja, i dodajte fotografije u album također."</string>
   <string name="cloud_be_shared_guide_title">Ovaj album je podijelio prijatelj</string>
   <string name="cloud_camera_display_name">Fotografije fotoaparata</string>
-  <string name="cloud_gallery_no_pictures">Nema fotografija u MiCloudu</string>
+  <string name="cloud_folder_chooser_move">Izbriši slike iz izvornog albuma</string>
   <string name="cloud_gallery_recyclebin_full">Kanta za smeće u puna,ispraznite koš na i.mi.com.</string>
   <string name="cloud_gallery_space_full">Nema dovoljno prostora u vašem cloudu</string>
   <string name="cloud_media_set_set">Cloud</string>
@@ -109,12 +109,6 @@
   
   sa prijateljima"</string>
   <string name="cloud_screenshots_display_name">Snimke zaslona</string>
-  <string name="cloud_share_guide_message">"Podijelite vaše fotografije sa
-prijateljima.
-Pregledajte i ažurirajte 
-svoj album s bilo kojeg mjesta.
-"</string>
-  <string name="cloud_share_guide_title">Dijeljenje je jednostavno</string>
   <string name="cloud_tab_albums">Albumi</string>
   <string name="cloud_tab_all">Sve</string>
   <string name="cloudfolder_already_exists">Mapa s istim nazivom već postoji</string>
@@ -129,7 +123,7 @@ svoj album s bilo kojeg mjesta.
   <string name="confirm">U redu</string>
   <string name="confirm_delete">Izbrisati (%s)?</string>
   <string name="confirm_delete_album" formatted="false">Izbrisati albume: %s (ukupno %s)?</string>
- <string name="confirm_delete_has_cloud_image_video">" "&lt;Data&gt; Izbrisati &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; stavke u &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;cloudu&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;?&lt;/Data&gt;" "</string>
+  <string name="confirm_delete_has_cloud_image_video">" "&lt;Data&gt; Izbrisati &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; stavke u &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;cloudu&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;?&lt;/Data&gt;" "</string>
   <string name="confirm_delete_has_cloud_local_image_video">" "&lt;Data&gt; Izbrisati &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; stavke &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;lokalno i u cloudu&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;?&lt;/Data&gt;" "</string>
   <string name="confirm_delete_has_local_image_video">Izbrisati stavku: %s?</string>
   <string name="confirm_delete_init_message">Slike će biti izbrisane iz MiClouda i iz vašeg uređaja. Da biste ih izbrisali samo s uređaja, prijeđite na karticu \"Lokalno\".</string>
@@ -173,7 +167,7 @@ svoj album s bilo kojeg mjesta.
   <string name="details_title">%1$d od ukupno : %2$d</string>
   <string name="device_model">Uređaj</string>
   <string name="directory_info_divider">"  |  "</string>
-  <string name="do_not_save">Ne spremaj</string>
+  <string name="do_not_save">"Nemoj spremiti"</string>
   <string name="documentary">Dokumentarni</string>
   <string name="done">Gotovo</string>
   <string name="doodle">Crtarija</string>
@@ -191,12 +185,12 @@ svoj album s bilo kojeg mjesta.
   <string name="enable_cloud_for_sharing">Omogućite MiCloud album za pregled zajedničkih slika.</string>
   <string name="enter_email_hint">"Unesite adresu E-pošte "</string>
   <string name="error_album_not_exist">"Album ne postoji."</string>
-  <string name="error_cloud_not_active">Nema fotografija u cloudu</string>
+  <string name="error_cloud_not_active">Nema fotografija u cloudu.</string>
   <string name="error_forbidden">Sinkronizacija je onemogućena zbog problema s vašim Mi Računom.</string>
   <string name="error_invalid_link">Veza nije valjana</string>
   <string name="error_not_acceptable">Sinkr. je onemogućena</string>
   <string name="error_repeat_apply">Ovaj je album već podijeljen</string>
-  <string name="error_share_not_support">Spajanje dijeljenog albuma privremeno nije podržano</string>
+  <string name="error_share_not_support">"Ova značajka nije još podržana"</string>
   <string name="error_share_with_creator">Ovaj je album već podijeljen s vama</string>
   <string name="error_should_not_select_image">"Vrsta datoteke nije podržana"</string>
   <string name="error_should_not_select_video">"Vrsta datoteke nije podržana"</string>
@@ -309,13 +303,13 @@ svoj album s bilo kojeg mjesta.
   <string name="manual">Ručno</string>
   <string name="me">ja</string>
   <string name="menu_item_sort">Poredaj po</string>
-  <string name="menu_item_sort_date">Po datumu</string>
+  <string name="menu_item_sort_date">Datumu</string>
   <string name="menu_item_sort_date_asc">Datumu (ulazno)</string>
   <string name="menu_item_sort_date_desc">Datumu (silazno)</string>
-  <string name="menu_item_sort_name">Po nazivu</string>
+  <string name="menu_item_sort_name">Nazivu</string>
   <string name="menu_item_sort_name_asc">Nazivu (ulazno)</string>
   <string name="menu_item_sort_name_desc">Nazivu (silazno)</string>
-  <string name="menu_item_sort_size">Po veličini</string>
+  <string name="menu_item_sort_size">Veličini</string>
   <string name="menu_item_sort_size_asc">Veličini (ulazno)</string>
   <string name="menu_item_sort_size_desc">Veličini (silazno)</string>
   <string name="menu_view_contact">Prikaži kontakt</string>
@@ -382,7 +376,7 @@ svoj album s bilo kojeg mjesta.
   <string name="owner_album_subtitle">Podijeljeno s %1$s članova</string>
   <string name="paint_cancel_context">"Odbaciti promjene napravaljene na ovoj slici?"</string>
   <string name="paint_cancel_title">Odbaciti promjene</string>
-  <string name="paint_crop_cancel_context">Želite li spremiti rezultat obrezivanja?</string>
+  <string name="paint_crop_cancel_context">Spremiti obrezanu sliku?</string>
   <string name="paint_crop_cancel_title">Odbaciti promjene</string>
   <string name="paint_crop_tips">Da dobijete bolju sliku, pokušajte staviti njegove interesne dijelove na mrežne točke promjenom veličine i pomicanjem.</string>
   <string name="path">Putanja</string>
@@ -474,7 +468,7 @@ svoj album s bilo kojeg mjesta.
   <string name="set_label_all_albums">Sve</string>
   <string name="set_label_local_albums">Lokalno</string>
   <string name="set_label_mtp_devices">MTP uređaji</string>
-  <string name="set_lock_and_wallpaper">Postavljanje za sliku pozadine…</string>
+  <string name="set_lock_and_wallpaper">Postavljanje slike pozadine…</string>
   <string name="set_lock_or_wallpaper">Postavljanje slike pozadine</string>
   <string name="set_lockscreen">Postavljanje zaključanog zaslona</string>
   <string name="set_recent_album">Postavi kao nedavni album</string>
@@ -528,7 +522,7 @@ cloudu na i.mi.com</string>
   <string name="sync_in_progress_message">Sinkronizacija…</string>
   <string name="sync_only_in_wifi">Koristi samo WLAN za učitavanje fotografija</string>
   <string name="sync_only_in_wifi_alert">Isključivanje ove opcije može povećati vašu uporabu podataka.</string>
-  <string name="sync_only_in_wifi_summary">Spriječi Galeriju od učitavanja fotografija preko vaše mobilne podatkovne veze</string>
+  <string name="sync_only_in_wifi_summary">Nikada ne koristi mobilnu podatkovnu vezu za učitavanje fotografija</string>
   <string name="system_album">Album sustava</string>
   <string name="tab_all_text">Postavi oboje</string>
   <string name="tab_lockscreen_text">Zaključani zaslon</string>

@@ -156,7 +156,7 @@
     </string-array>
     <string-array name="availability">
         <item>Zauzeto</item>
-        <item>"Dostupno"</item>
+        <item>Dostupno</item>
         <item>Privremeno</item>
     </string-array>
     <string-array name="visibility">
@@ -173,9 +173,9 @@
     </string-array>
     <string-array name="response_labels1">
         <item>Nema odgovora</item>
-        <item>"Da"</item>
-        <item>"Možda"</item>
-        <item>"Ne"</item>
+        <item>Da</item>
+        <item>Možda</item>
+        <item>Ne</item>
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>Samo ovaj događaj</item>
@@ -208,7 +208,7 @@
         <item>Nikad</item>
     </string-array>
     <string-array name="widget_style_list">
-        <item>Transparentno crna</item>
+        <item>Transparentna</item>
         <item>Bijela pozadina</item>
     </string-array>
 </resources> 

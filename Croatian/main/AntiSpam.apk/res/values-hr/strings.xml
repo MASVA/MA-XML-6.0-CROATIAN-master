@@ -55,8 +55,8 @@
   <string name="bl_no_block_call">Nema blokiranih poziva.</string>
   <string name="bl_no_block_sms">Nema blokiranih SMS-a.</string>
   <string name="blacklist_prefix_add_hint">Dodati sve brojeve s predbrojem na listu zabranjenih</string>
-  <string name="block_message_number">SMS-a:%d</string>
-  <string name="block_phone_number">Poziva:%d</string>
+  <string name="block_message_number">SMS-a: %d</string>
+  <string name="block_phone_number">Poziva: %d</string>
   <string name="button_text_delete">Izbriši</string>
   <string name="button_to_setting">Postavke</string>
   <string name="call_delete_hint">Ukloniti sve blokirane pozive s ovog broja?</string>
@@ -177,12 +177,12 @@ Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potraz
   <string name="sms_delete_hint">Izbrisati sve blokirane poruke s ovog broja?</string>
   <string name="special_number_group">Blokiraj specijalne brojeve</string>
   <string name="st_advanced_setting_group">Napredno</string>
-  <string name="st_antispam_black_adress_add">Odaberi područje</string>
-  <string name="st_antispam_bw_adress_add">Odaberi lokaciju</string>
-  <string name="st_antispam_bw_choose_modes">Odaberi način</string>
+  <string name="st_antispam_black_adress_add">Dodaj lokacije</string>
+  <string name="st_antispam_bw_adress_add">Dodaj lokacije</string>
+  <string name="st_antispam_bw_choose_modes">Dodaj na popis</string>
   <string name="st_antispam_bw_head_add">Dodaj predbroj</string>
   <string name="st_antispam_bw_man_add">Dodaj broj telefona</string>
-  <string name="st_antispam_bw_pick_add">Odaberi kontakt</string>
+  <string name="st_antispam_bw_pick_add">Dodaj kontakte</string>
   <string name="st_antispam_delete">Izbrisati</string>
   <string name="st_antispam_des_anti">Blokiraj</string>
   <string name="st_antispam_des_permit">Dopusti</string>
@@ -249,7 +249,7 @@ Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potraz
   <string name="st_title_adblock_setting">Postavke Blokatora reklama</string>
   <string name="st_title_addblacklist">Dodano na listu blokiranih</string>
   <string name="st_title_addwhitelist">Dodano u iznimke</string>
-  <string name="st_title_adress">Odaberi lokalno</string>
+  <string name="st_title_adress">Dodaj lokacije</string>
   <string name="st_title_adress_num">Odabrano: %d</string>
   <string name="st_title_anticomintcall_backsound_setting">Reproduciraj poruku za blokirane brojeve</string>
   <string name="st_title_antispam_mode">Pravilo</string>

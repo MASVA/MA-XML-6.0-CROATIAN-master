@@ -16,8 +16,8 @@
   <string name="accessibility_remove_reminder">Ukloni podsjetnik</string>
   <string name="accessibility_repeats">Ponavljanje</string>
   <string name="accessibility_sync_cal">Sinkronizacija kalendara</string>
-  <string name="account_and_calendar">Račun &amp; kalendar</string>
-  <string name="account_and_calendar_to_display">Račun &amp; kalendar za prikaz</string>
+  <string name="account_and_calendar">Računi</string>
+  <string name="account_and_calendar_to_display">Odaberite kalendare za prikaz</string>
   <string name="accounts">Računi &amp; sinkronizacija</string>
   <string name="acct_not_synced">Ovaj se račun ne sinkronizira pa vaši kalendari možda nisu ažurni.</string>
   <string name="acessibility_cal_notification">Obavijesti Kalendara</string>
@@ -39,14 +39,14 @@
   <string name="anniversary_term">godišnjica</string>
   <string name="app_label">Kalendar</string>
   <string name="attendees_label">Gosti</string>
-  <string name="birthday_calendar_display_name">Podsjetnik Rođendana</string>
+  <string name="birthday_calendar_display_name">Podsjetnik rođendana</string>
   <string name="birthday_event_description">Danas %1$s ima %4$s!</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
   <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_three_days_later">3 dana do %3$s (%4$s)</string>
-  <string name="birthday_notification_text_today">"Ne zaboravite čestitati !"</string>
-  <string name="birthday_notification_title_three_days_later">"Približava se %1$s %2$s"</string>
+  <string name="birthday_notification_text_today">"Ne zaboravite čestitati!"</string>
+  <string name="birthday_notification_title_three_days_later">"Približava se %1$s %2$s."</string>
   <string name="birthday_notification_title_today">"%1$s ima %3$s"</string>
   <string name="birthday_notification_type_term_lunar"/>
   <string name="birthday_metric"/>
@@ -56,9 +56,9 @@
   <string name="button_week">T</string>
   <string name="calendar_refresh">Osvježi</string>
   <string name="calendar_server_error">Greška poslužitelja</string>
-  <string name="can_not_modify_allday_event">Cjelodnevni događaj ne može se mijenjati</string>
-  <string name="can_not_modify_event">Ne može se mijenjati</string>
-  <string name="can_not_modify_repeating_acrossing_days_event">Ponavljanje događaja i događaj prijelaznih dana ne može se mijenjati</string>
+  <string name="can_not_modify_allday_event">"Ne mogu promijeniti cjelodnevni događaj"</string>
+  <string name="can_not_modify_event">"Ne mogu promijeniti događaj"</string>
+  <string name="can_not_modify_repeating_acrossing_days_event">"Ne mogu promijeniti ponavljanje događaja i događaj prijelaznih dana"</string>
   <string name="change_response_title">Promijenite odgovor</string>
   <string name="chongsha"/>
   <string name="copy_db">Pošalji bazu podataka</string>
@@ -70,17 +70,17 @@
 • Stvorite sigurnosnu kopiju svojih događaja.</string>
   <string name="creating_event">Događaj stvoren</string>
   <string name="creating_event_with_guest">Pozivnica će biti poslana</string>
-  <string name="cta_notice_checkbox">"Ne prikazuj ponovo"</string>
-  <string name="cta_notice_message">Trebamo pristup vašim kontaktima za korištenje funkcije \"Podsjetnik Rođendana\". Slažete se?</string>
-  <string name="cta_notice_ok">Slažem se &amp; Nastavi</string>
-  <string name="cta_notice_title">Pristup kontaktima</string>
-  <string name="cta_notify_settings">Pitaj prilikom pristupa kontaktima</string>
+  <string name="cta_notice_checkbox">"Zapamti ovaj izbor"</string>
+  <string name="cta_notice_message">"Kalendar treba pristup vašim kontaktima za korištenje funkcije podsjetnik rođendana"</string>
+  <string name="cta_notice_ok">Dopusti</string>
+  <string name="cta_notice_title">Traženje dopuštenja</string>
+  <string name="cta_notify_settings">Pitaj prilikom pristupa</string>
   <string name="custom">"Prilagođeno (ne može se prilagoditi na telefonu)"</string>
   <string name="daily">Dnevno</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="day_view">Dan</string>
   <string name="day_view_new_event_hint">Novi događaj</string>
-  <string name="default_reminder_mode">Zadani način podsjetnika</string>
+  <string name="default_reminder_mode">Podsjetnici</string>
   <string name="delete_calendar">Izbrisati</string>
   <string name="delete_label">Izbrisati</string>
   <string name="delete_recurring_event_title">Izbrisati %s?</string>
@@ -99,7 +99,7 @@
   <string name="edit_event_confirm_message">Odbaciti promjene za događaj?</string>
   <string name="edit_event_from_label">Od</string>
   <string name="edit_event_label">"Pojedinosti"</string>
-  <string name="edit_event_reminder_off_toast">Nema nijednog zadanog podsjetnika</string>
+  <string name="edit_event_reminder_off_toast">Podsjetnici su isključeni</string>
   <string name="edit_event_show_all">Prikaži sve</string>
   <string name="edit_event_to_label">Do</string>
   <string name="edit_label">"Uredi"</string>
@@ -130,7 +130,7 @@
   <string name="event_not_found">Događaj nije pronađen.</string>
   <string name="event_show_more">Prikaži</string>
   <string name="event_view">Prikaži događaj</string>
-  <string name="every_weekday">Svaki dan (pon–pet)</string>
+  <string name="every_weekday">Radnim danima (pon–pet)</string>
   <string name="exist_calendar">Kalendar već postoji</string>
   <string name="gadget_no_events">Nema skorih događaja kalendara</string>
   <string name="gadget_title">Kalendar</string>
@@ -138,7 +138,7 @@
   <string name="hide_controls">Sakrij kontrole</string>
   <string name="hint_attendees">Gosti</string>
   <string name="hint_description">Opis</string>
-  <string name="hint_what">Sadržaj podsjetnika događaja</string>
+  <string name="hint_what">Naziv događaja</string>
   <string name="hint_where">Lokacija</string>
   <string name="huangli_bad_type"/>
   <string name="huangli_good_type"/>
@@ -146,8 +146,8 @@
   <string name="jump_date_full">Skoči na datum</string>
   <string name="label_recent_events">Nedavni događaji</string>
   <string name="loading">"Učitavanje…"</string>
-  <string name="local_calendar_display_name">Lokalni Kalendar</string>
-  <string name="local_owner_account_name">Lokalni račun</string>
+  <string name="local_calendar_display_name">Lokalni kalendar</string>
+  <string name="local_owner_account_name">Spremljeno na ovom uređaju</string>
   <string name="lunar_date">Mjesečev datum</string>
   <string name="menu_about_preferences">O Kalendaru</string>
   <string name="menu_general_preferences">Opće postavke</string>
@@ -173,7 +173,7 @@
   <string name="month_medium_september">Ruj</string>
   <string name="month_view">Mjesec</string>
   <string name="monthly">Mjesečno</string>
-  <string name="monthly_on_day">Mjesečno (na dan %s)</string>
+  <string name="monthly_on_day">Mjesečno (isti datum)</string>
   <string name="monthly_on_day_count">Mjesečno (%1$s %2$s)</string>
   <string name="more_string">+%1$s</string>
   <string name="movable_list_header_label">Kratak uvod</string>
@@ -189,10 +189,10 @@
   <string name="pengzu"/>
   <string name="prefDialogTitle_vibrateWhen">Vibracija</string>
   <string name="pref_error_no_ringtone_select">Melodija zvona nije odabrana</string>
-  <string name="pref_title_alarm_remind">Podsjetnik alarma</string>
-  <string name="pref_title_alert_remind">Skočni podsjetnik</string>
+  <string name="pref_title_alarm_remind">Podsjetnici alarma</string>
+  <string name="pref_title_alert_remind">Skočni podsjetnici</string>
   <string name="pref_title_no_remind">Nema podsjetnika</string>
-  <string name="pref_title_notification_remind">Podsjetnik obavijesti</string>
+  <string name="pref_title_notification_remind">Podsjetnici obavijesti</string>
   <string name="preferences_about_title">O kalendaru</string>
   <string name="preferences_alerts_popup_title">Skočne obavijesti</string>
   <string name="preferences_alerts_ringtone_title">Zvuk</string>
@@ -200,7 +200,7 @@
   <string name="preferences_alerts_vibrateWhen_title">Vibracija</string>
   <string name="preferences_build_version">Verzija izrade</string>
   <string name="preferences_category_account_title">Račun</string>
-  <string name="preferences_category_general_title">Općenito</string>
+  <string name="preferences_category_general_title">Opće postavke</string>
   <string name="preferences_clear_search_history_summary">"Uklonite sve vaše pretrage"</string>
   <string name="preferences_clear_search_history_title">Očisti povijest pretaživanja</string>
   <string name="preferences_default_reminder_default">10</string>
@@ -264,7 +264,7 @@
   <string name="timezone_label">Vremenska zona</string>
   <string name="today">Danas</string>
   <string name="today_at_time_fmt">Danas u %s</string>
-  <string name="today_no_events">Nema događaja za danas</string>
+  <string name="today_no_events">Nema događaja</string>
   <string name="tomorrow">Sutra</string>
   <string name="tomorrow_at_time_fmt">Sutra u %s</string>
   <string name="view_all_matches">Prikaži sve</string>
@@ -277,14 +277,14 @@
   <string name="what_label">Što</string>
   <string name="when_label">Kad</string>
   <string name="where_label">Gdje</string>
-  <string name="widget_events">Nadolazeći događaji</string>
-  <string name="widget_no_events">Nema nadolazećih događaja</string>
+  <string name="widget_events">Nadolazeći događaj</string>
+  <string name="widget_no_events">Nema događaja</string>
   <string name="widget_select_style">Odaberite stil</string>
   <string name="work_day_indication"/>
   <string name="wuxing"/>
-  <string name="xiaomi_calendar_display_name">Xiaomi Kalendar</string>
+  <string name="xiaomi_calendar_display_name">Kalendar</string>
   <string name="xingxiu"/>
-  <string name="yearly">Godišnje (na %s)</string>
+  <string name="yearly">Godišnje (svake %s)</string>
   <string name="yearly_plain">Godišnje</string>
   <string name="zhushen"/>
 </resources> 

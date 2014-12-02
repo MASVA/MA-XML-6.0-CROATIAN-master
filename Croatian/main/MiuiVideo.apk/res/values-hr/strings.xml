@@ -190,7 +190,7 @@
   <string name="offline_media_empty_hint">Prazno</string>
   <string name="offline_no_source">"Ne može se vidjeti u izvanmrežnom načinu"</string>
   <string name="offline_no_wifi">"Niste spojeni na WLAN.  Za preuzimanje ovog videozapisa, uključite \"Koristi mobilnu podatkovnu vezu\" u Postavkama."</string>
-  <string name="offline_setting">Izvanmrežni sadržaj</string>
+  <string name="offline_setting">Uporaba podataka</string>
   <string name="ok">U redu</string>
   <string name="online_video">Internet</string>
   <string name="other_setting">Ostalo</string>
@@ -277,8 +277,10 @@
   <string name="upgrade">Nadogradi</string>
   <string name="use_cellular_network">Koristiti mobilnu mrežu</string>
   <string name="use_cellular_network_summary">Koristiti mobilnu mrežu za gledanje videozapisa. Može uzrokovati naplatu prometa</string>
-  <string name="use_cellular_play_summary">Prikaži obavijest prilikom korištenja mobilne mreže za gledanje ili preuzimanje videozapisa</string>
-  <string name="use_cellular_play_title">Obavijesti uporabe podataka</string>
+  <string name="use_cellular_offlinedownload_summary">Prikaži obavijest kada se koristi mobilni podaci za preuzimanje videozapisa</string>
+  <string name="use_cellular_offlinedownload_title">Obavijesti preuzimanja</string>
+  <string name="use_cellular_play_summary">Prikaži obavijest kada se koriste mobilni podaci za gledanje videozapisa</string>
+  <string name="use_cellular_play_title">Obavijesti streaminga</string>  
   <string name="userdata_alert_content">Korištenje vaše mobilne podatkovne veze za gledanje videozapisa će povećati uporabu podataka. Ako mislite potrošiti više od mjesečnog limita, vaš mobilni operater vam može naplatiti dodatne troškove.</string>
   <string name="userdata_alert_ok">Reproduciraj</string>
   <string name="userdata_alert_title">Upozorenje uporabe podataka</string>

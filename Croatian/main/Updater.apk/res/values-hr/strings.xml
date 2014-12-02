@@ -11,6 +11,15 @@
   <string name="apply_update_dialog_cancel_button">Odustani</string>
   <string name="apply_update_dialog_update_button">Ažuriraj</string>
   <string name="apply_upload_info_message">Vaš će se uređaj ponovno pokrenuti i odmah instalirati ažuriranje.</string>
+  <string name="auto_agree_clause">"Naša ažurirana Pravila o privatnosti su već stupila na snagu. "</string>
+  <string name="auto_button_examine">Prikaži</string>
+  <string name="auto_button_examine_immediately">Prikaži</string>
+  <string name="auto_button_sure_cancel">Odustani</string>
+  <string name="auto_check_clause_button">Prikaži</string>
+  <string name="auto_check_clause_msg">"Morate se složiti s našim ažuriranim Pravila o privatnosti prije nego što možete ažurirati svoj sustav. "</string>
+  <string name="auto_dialog_msg">"Ažurirali smo naša Pravila o privatnosti. Molimo, pročitajte ih pažljivo prije ažuriranja sustava. "</string>
+  <string name="auto_dialog_msg_check_again">"Morate se složiti s našim ažuriranim Pravila o privatnosti prije nego što možete ažurirati svoj sustav. "</string>
+  <string name="auto_dialog_title_check_again">Otkazati ažuriranje?</string>
   <string name="auto_update">Preuzimanje ažuriranja automatski</string>
   <string name="auto_update_sum">Automatski odaberi najbolje vrijeme za preuzimanje ažuriranja</string>
   <string name="autosetmode">Postavke ažuriranja</string>
@@ -64,6 +73,7 @@
   <string name="get_current">Nabavite trenutni</string>
   <string name="get_update_error">Dohvaćanje informacija o ažuriranju nije uspjelo.</string>
   <string name="go_on_download">Preuzmi</string>
+  <string name="important_suggestion">Pravila o privatnosti su promijenjene</string>
   <string name="install">Instaliraj</string>
   <string name="install_failed">Ažuriranje nije uspjelo</string>
   <string name="install_file_explorer">Morate instalirati aplikaciju Datoteke</string>
@@ -173,9 +183,9 @@ Ali možete sudjelovati sljedeći utorak."</string>
   <string name="update_success">Ažuriranje završeno! :)</string>
   <string name="update_success_body">Verzija: %s</string>
   <string name="update_success_title">Uređaj je ažuriran</string>
-  <string name="updater_nolog">Nema zapisnika</string>
-  <string name="updater_nonetwork">Povežite se na mrežu kako bi dobili zapisnik</string>
-  <string name="upgrade_close">Zatvori</string>
+  <string name="updater_nolog">Nema promjena zapisnika</string>
+  <string name="updater_nonetwork">Poveži se na mrežu za pregled promjena zapisnika</string>
+  <string name="updater_nonetwork_clause">Poveži se na mrežu za pregled ažuriranih Pravila o privatnosti</string>
   <string name="upgrade_kernel">Trenutan kernel zahtjeva ažuriranje</string>
   <string name="upgrade_kernel_msg">"Trenutna verzija kernela ne odgovara MIUI ROM-u. Morate nadograditi kernel ručno. Pogledajte Xiaomi postupak nadogradnje: 
 "</string>
