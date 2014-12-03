@@ -435,7 +435,7 @@ Razlog: \"%s\""</string>
   <string name="import_sim_entries_finish">Završen uvoz kontakata sa SIM kartice</string>
   <string name="import_sim_entry_miui">"Uvoz"</string>
   <string name="import_to_xiaomi_account_confirm">"Uvoz"</string>
-  <string name="import_to_xiaomi_account_progress_finish">Uvoz je završen</string>
+  <string name="import_to_xiaomi_account_progress_finish">Kontakti uvezeni</string>
   <string name="import_to_xiaomi_account_progress_message">"Uvoz…"</string>
   <string name="import_to_xiaomi_account_progress_title">Uvezi kontakte u Mi Račun</string>
   <string name="import_to_xiaomi_account_title">Želite li uvesti sljedeće kontakte u vaš Mi Račun?</string>
@@ -712,9 +712,9 @@ Za dodavanje kontakta na listu favorita :
   <string name="pref_key_photo_word_title">Fotografije za sve</string>
   <string name="pref_key_rebuild_t9_index_message">Ponovo izgradi indeks da se uklone problemi pretrage</string>
   <string name="pref_key_rebuild_t9_index_title">Ponovo izgraditi podatke indeksa</string>
-  <string name="pref_key_sim_manage">Konfiguracija SIM kartice</string>
-  <string name="pref_key_sim_manage1">Konfiguracija SIM kartice 1</string>
-  <string name="pref_key_sim_manage2">Konfiguracija SIM kartice 2</string>
+  <string name="pref_key_sim_manage">SIM kartice</string>
+  <string name="pref_key_sim_manage1">Postavljenje SIM kartice 1</string>
+  <string name="pref_key_sim_manage2">Postavljenje SIM kartice 2</string>
   <string name="pref_summary_import_from_account">Premjesti kontakte sa Google i Exchange računa na moj Mi Račun</string>
   <string name="pref_title_account_import">Uvezi iz računa</string>
   <string name="pref_title_import_from_account">Uvezi iz Mi Računa</string>
@@ -1072,8 +1072,8 @@ Za dodavanje kontakta na listu favorita :
   <string name="strequentList">"Omiljeni"</string>
   <string name="success_message_import_from_account">Kontakt uvezen</string>
   <string name="summary_kind_title">Sažetak</string>
-  <string name="t9_search_guide_pinyin">Upišite 7 i 5 u potrazi za Severina</string>
-  <string name="t9_search_guide_zhuyin">Upišite 7 i 5 u potrazi za Severina</string>
+  <string name="t9_search_guide_pinyin">Upišite 2 i 8 u potrazi za Severina</string>
+  <string name="t9_search_guide_zhuyin">Upišite 2 i 8 u potrazi za Severina</string>
   <string name="take_new_photo">Snimi novu fotografiju</string>
   <string name="take_photo">Snimi fotografiju</string>
   <string name="titleJoinContactDataWith">Spoji kontakte</string>

@@ -389,7 +389,7 @@
   <string name="pref_autologin_progress_in_background">Prijava na Google u pozadini putem %s.</string>
   <string name="pref_autologin_title">Automatska prijava na Google</string>
   <string name="pref_category_title_version">Verzija</string>
-  <string name="pref_check_security_url_summary">Pošalji URL Web stranice na Xiaomi poslužitelj radi provjere</string>
+  <string name="pref_check_security_url_summary">Pošalji URL Web stranice na Xiaomi poslužitelje radi provjere da je li siguran</string>
   <string name="pref_check_security_url_title">Provjeri sigurnost URL-a</string>
   <string name="pref_clear_adblock_statistics">Izbriši broj blokiranih reklama</string>
   <string name="pref_clear_adblock_statistics_dlg">Izbrisati broj blokiranih reklama?</string>
@@ -621,8 +621,8 @@
   <string name="share_link">Dijeli vezu</string>
   <string name="share_page">Dijeli stranicu</string>
   <string name="share_page_text">"Uživam u 【%1$s】 | %2$s"</string>
-  <string name="show_check_security_url_check_tip_dialog_description">Ovaj URL web stranice će biti poslan na Xiaomi poslužitelj kako bi provjerili njezinu sigurnost. Možete isključili tu značajku u bilo koje vrijeme u postavkama.</string>
-  <string name="show_check_security_url_check_tip_dialog_title">Sigurnost URL-a</string>
+  <string name="show_check_security_url_check_tip_dialog_description">Ovaj URL web stranice će biti poslan na Xiaomi poslužitelje radi provjere da li je siguran. Možete isključili tu značajku u bilo koje vrijeme u postavkama.</string>
+  <string name="show_check_security_url_check_tip_dialog_title">Provjeri sigurnost URL-a</string>
   <string name="sign_in_to" formatted="false">Prijavite se u %s1 \"%s2\"</string>
   <string name="snapshot_failed">"Ne mogu spremiti za izvanmrežno čitanje"</string>
   <string name="snapshot_go_live">Idi uživo</string>
@@ -675,7 +675,7 @@
   <string name="url_copy_done">URL kopiran u međuspremnik</string>
   <string name="url_find_on_page_result">Prikaži u Pregledniku</string>
   <string name="url_find_on_page_result_item">Prikaži sav tekst za \"%s\"</string>
-  <string name="url_hint">Pretraži ili upiši URL</string>
+  <string name="url_hint">Unesi ili pretraži URL</string>
   <string name="url_opened_in_background">Otvori u pozadinskoj kartici</string>
   <string name="url_suggest_indicator_bookmark">Oznake/Povijest</string>
   <string name="url_suggest_indicator_hoturl">Popularno</string>

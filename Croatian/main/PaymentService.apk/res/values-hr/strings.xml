@@ -154,7 +154,7 @@ potrošeni prvi automatski"</string>
   <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Zaboravljena zaporka uzorka&lt;/u&gt;</string>
   <string name="login">Prijava</string>
   <string name="memu_refresh">Osvježi</string>
-  <string name="mibi_license_message">"Spremate se koristiti Mi Kredit, što je usluga koju pruža Xiaomi Inc. Prije nego što možete koristiti ovu uslugu, morate pristati na uvjete pružanja usluge navedeno u %1$s. Dodirnite U redu ako se slažete s odredbama i uvjetima opisanima u %1$s. Potrebna vam je internetska veza za korištenje Mi kredita."</string>
+  <string name="mibi_license_message">"Spremate se koristiti Mi Kredit, što je usluga koju pruža Xiaomi Inc. Prije nego što možete koristiti ovu uslugu, morate pristati na uvjete pružanja usluge navedeno u %1$s. Dodirnite "Slažem se" ako se slažete s odredbama i uvjetima opisanima u %1$s. Potrebna vam je internetska veza za korištenje Mi Kredita."</string>
   <string name="mibi_license_message_span">Mi Credit Korisnički sporazum</string>
   <string name="mibi_license_title">Uvjeti i odredbe</string>
   <string name="mili_center">Mi Kredit</string>
