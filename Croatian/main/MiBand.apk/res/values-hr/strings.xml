@@ -518,7 +518,6 @@ Potrošeno %3$s cal. Prethodni rekord je bio %5$s koraka, postavljen %4$s."</str
   <string name="sport_running_burn">Potroši</string>
   <string name="sport_running_cost_cal">%.1f Kcal</string>
   <string name="sport_running_distance">Udaljenost</string>
-  <string name="sport_running_distance_detail">%s Kilometara</string>
   <string name="sport_running_distance_detail">%.2fkm</string>
   <string name="sport_running_end_time">Završeno</string>
   <string name="sport_running_gps_cancel">Odustani</string>
