@@ -39,16 +39,16 @@
         <item>Prilagođeno</item>
     </string-array>
     <string-array name="fortune">
-        <item>There is no substitute for consistency.</item>
-        <item>Strive for progress, not perfection.</item>
-        <item>Repetition is the father of success.</item>
-        <item>Energy and persistence conquer all things.</item>
-        <item>"The world wasn't formed in a day, and neither were we. Set small goals and build upon them."</item>
-        <item>Every journey begins with a single step.</item>
-        <item>Achieve one goal a day.</item>
-        <item>"No matter how slow you go, you're still lapping everybody on the couch."</item>
-        <item>Run when you can. Walk if you have to. Crawl if you must. Just never give up.</item>
-        <item>Remember, the feeling you get from a good workout is far better than the feeling you get from sitting around wishing you had worked out.</item>
+        <item>Ne postoji zamjena za dosljednost.</item>
+        <item>Težite napretku, a ne savršenstvu.</item>
+        <item>Ponavljanje je otac uspjeha.</item>
+        <item>Energija i upornost osvajaju sve stvari.</item>
+        <item>"Svijet nije formiran u jednom danu, niti smo mi. Postavite male ciljeve i gradite se po njima."</item>
+        <item>Svako putovanje počinje s jednim korakom.</item>
+        <item>Postignite jedan cilj dnevno.</item>
+        <item>"Bez obzira na to koliko ste spori, još ste uvijek brži od svih koji leže na kauču."</item>
+        <item>Trčite kada možete. Prošetajte ako trebate. Puzite ako morate. Samo nikada nemojte odustati.</item>
+        <item>Zapamtite, osjećaj koji dobijete od dobre tjelovježbe je daleko bolji nego osjećaj koji dobijtete sjedeći i željeti da ste izvodili tjelovježbu.</item>
     </string-array>
       <string-array name="weather_aqi_descriptions">
         <item>Odlično</item>

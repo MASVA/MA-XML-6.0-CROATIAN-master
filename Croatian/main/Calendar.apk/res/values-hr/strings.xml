@@ -43,13 +43,13 @@
   <string name="birthday_event_description">Danas %1$s ima %4$s!</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
+  <string name="birthday_metric"/>
   <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_three_days_later">3 dana do %3$s (%4$s)</string>
   <string name="birthday_notification_text_today">"Ne zaboravite čestitati!"</string>
   <string name="birthday_notification_title_three_days_later">"Približava se %1$s %2$s."</string>
   <string name="birthday_notification_title_today">"%1$s ima %3$s"</string>
   <string name="birthday_notification_type_term_lunar"/>
-  <string name="birthday_metric"/>
   <string name="birthday_term">rođendan</string>
   <string name="button_day">D</string>
   <string name="button_month">M</string>
@@ -140,8 +140,10 @@
   <string name="hint_description">Opis</string>
   <string name="hint_what">Naziv događaja</string>
   <string name="hint_where">Lokacija</string>
+  <string name="holiday_label">Praznik</string>
   <string name="huangli_bad_type"/>
   <string name="huangli_good_type"/>
+  <string name="huangli_label">Huang Li</string>
   <string name="jump_date">Skoči</string>
   <string name="jump_date_full">Skoči na datum</string>
   <string name="label_recent_events">Nedavni događaji</string>

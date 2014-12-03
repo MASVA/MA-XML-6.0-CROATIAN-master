@@ -146,6 +146,7 @@ Tijekom uporabe, ostale funkcije MiKey su nedostupne."</string>
   <string name="key_direction_up">Gore</string>
   <string name="know_it">U redu</string>
   <string name="long_click">Pritisni i drži</string>
+  <string name="mikey_sprite_toggle_title">MiKey Čarobnjak otvoren</string>
   <string name="message_photo_end">Slika spremljena</string>
   <string name="name">Ime:</string>
   <string name="nickname">Nadimak:</string>
@@ -172,6 +173,7 @@ Tijekom uporabe, ostale funkcije MiKey su nedostupne."</string>
   <string name="screenshot_crop">Obreži</string>
   <string name="screenshot_full">Cijeli zaslon</string>
   <string name="scrennshot_select_title">Odaberite način Snimke zaslona</string>
+  <string name="screenkey_title">Shield tipka</string>
   <string name="sdcard">SD kartica</string>
   <string name="search_baidu_text">Baidu</string>
   <string name="search_cancel_text">Odustani</string>
@@ -267,5 +269,7 @@ Pritiskom na MiKey simulirajte dodir na odabranom mjestu"</string>
   <string name="wallpaper_changing">Promjena slike pozadine…</string>
   <string name="wallpaper_no_more">Ne mijenjaj sliku pozadine</string>
   <string name="web">Web-stranica:</string>
+  <string name="webpage_input_title">Unesi URL</string>
+  <string name="webpage_title">Otvori web stranicu</string>
   <string name="write_pic_fail">Neuspjelo spremanje slike!</string>
 </resources>
