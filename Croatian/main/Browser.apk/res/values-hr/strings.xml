@@ -35,10 +35,10 @@
   <string name="add_bookmark_group">Dodaj grupu</string>
   <string name="add_folder">Dodaj mapu</string>
   <string name="add_new_bookmark">Dodaj oznaku</string>
-  <string name="add_new_quicklink">Dodaj bziu poveznicu</string>
+  <string name="add_new_quicklink">Dodaj na početnu stranicu</string>
   <string name="add_ql_bm_title">Spremi</string>
   <string name="add_quicklink_to_popular">Dodaj na početnu stranicu</string>
-  <string name="add_quicklinks">Dodaj</string>
+  <string name="add_quicklinks">na početnu stranicu</string>
   <string name="add_to_bookmark">Dodaj u oznake</string>
   <string name="add_to_quicklink">Dodaj na početnu stranicu</string>
   <string name="added_to_bookmarks">Dodano u oznake.</string>
@@ -389,7 +389,7 @@
   <string name="pref_autologin_progress_in_background">Prijava na Google u pozadini putem %s.</string>
   <string name="pref_autologin_title">Automatska prijava na Google</string>
   <string name="pref_category_title_version">Verzija</string>
-  <string name="pref_check_security_url_summary">Pošalji URL Web stranice na Xiaomi poslužitelje radi provjere da je li siguran</string>
+  <string name="pref_check_security_url_summary">Pošalji URL Web stranice na Xiaomi poslužitelje radi provjere da je li siguran.</string>
   <string name="pref_check_security_url_title">Provjeri sigurnost URL-a</string>
   <string name="pref_clear_adblock_statistics">Izbriši broj blokiranih reklama</string>
   <string name="pref_clear_adblock_statistics_dlg">Izbrisati broj blokiranih reklama?</string>
@@ -675,7 +675,7 @@
   <string name="url_copy_done">URL kopiran u međuspremnik</string>
   <string name="url_find_on_page_result">Prikaži u Pregledniku</string>
   <string name="url_find_on_page_result_item">Prikaži sav tekst za \"%s\"</string>
-  <string name="url_hint">Unesi ili pretraži URL</string>
+  <string name="url_hint">Unesi URL ili pretraži web</string>
   <string name="url_opened_in_background">Otvori u pozadinskoj kartici</string>
   <string name="url_suggest_indicator_bookmark">Oznake/Povijest</string>
   <string name="url_suggest_indicator_hoturl">Popularno</string>

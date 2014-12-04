@@ -78,7 +78,7 @@ Svi postojeći podaci aplikacije će biti spremljeni."</string>
   <string name="uninstall_confirm_question">Deinstalirati ovu aplikaciju?</string>
   <string name="uninstall_done">Aplikacija deinstalirana</string>
   <string name="uninstall_failed">"Ne mogu deinstalirati ovu aplikaciju"</string>
-  <string name="uninstall_failed_device_policy_manager">"Ne mogu deinstalirati: ovaj paket je aktivan Administrator uređaja."</string>
+  <string name="uninstall_failed_device_policy_manager">"Ne mogu deinstalirati paket koji je aktivan administrator uređaja."</string>
   <string name="uninstall_failed_msg">Aplikaciju %1$s nije moguće deinstalirati.</string>
   <string name="uninstall_failed_retained_app_msg">"Ova je aplikacija izmijenjena i ne može se deinstalirati u svom sadašnjem obliku"</string>
   <string name="uninstall_update_text">Ova će aplikacija biti zamijenjena s originalnom verzijom.</string>

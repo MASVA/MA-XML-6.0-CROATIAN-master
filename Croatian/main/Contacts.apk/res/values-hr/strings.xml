@@ -1072,8 +1072,8 @@ Za dodavanje kontakta na listu favorita :
   <string name="strequentList">"Omiljeni"</string>
   <string name="success_message_import_from_account">Kontakt uvezen</string>
   <string name="summary_kind_title">Sažetak</string>
-  <string name="t9_search_guide_pinyin">Upišite 2 i 8 u potrazi za Severina</string>
-  <string name="t9_search_guide_zhuyin">Upišite 2 i 8 u potrazi za Severina</string>
+  <string name="t9_search_guide_pinyin">Upišite 6 i 2 u potrazi za MASVA</string>
+  <string name="t9_search_guide_zhuyin">Upišite 6 i 2 u potrazi za MASVA</string>
   <string name="take_new_photo">Snimi novu fotografiju</string>
   <string name="take_photo">Snimi fotografiju</string>
   <string name="titleJoinContactDataWith">Spoji kontakte</string>

@@ -45,7 +45,7 @@
         <TextView android:textSize="13.0sp" android:textColor="@color/content_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="45.0dip" android:text="@string/unlock_for_smartlock_tip_step2" />
         <TextView android:textSize="13.0sp" android:textColor="@color/content_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="45.0dip" android:text="@string/unlock_for_smartlock_tip_step3" />
         <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
-            <Button android:textSize="@dimen/click_button_text_size" android:textColor="#fffff5ee" android:layout_gravity="bottom|center" android:id="@id/start_setting" android:background="@drawable/click_btn_bg" android:layout_width="@dimen/click_button_w" android:layout_height="@dimen/click_button_h" android:layout_marginBottom="25.0dip" android:text="Nastavenia" android:onClick="onStartSettingClick" />
+            <Button android:textSize="@dimen/click_button_text_size" android:textColor="#fffff5ee" android:layout_gravity="bottom|center" android:id="@id/start_setting" android:background="@drawable/click_btn_bg" android:layout_width="@dimen/click_button_w" android:layout_height="@dimen/click_button_h" android:layout_marginBottom="25.0dip" android:text="Postavke" android:onClick="onStartSettingClick" />
         </FrameLayout>
     </LinearLayout>
     <LinearLayout android:gravity="bottom" android:orientation="vertical" android:id="@id/unlock_screen_mask_view" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent">

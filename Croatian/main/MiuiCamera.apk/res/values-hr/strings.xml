@@ -167,7 +167,7 @@
   <string name="pref_camera_multilevel_entry_normal">Normalan</string>
   <string name="pref_camera_multiple_face_beauty_entry_off">Jedno lice</string>
   <string name="pref_camera_multiple_face_beauty_entry_on">Dva lica</string>
-  <string name="pref_camera_multiple_face_beauty_title">Tonovi kože</string>
+  <string name="pref_camera_multiple_face_beauty_title">Istaknuće tonova kože</string>
   <string name="pref_camera_panoramamode_title">Panorama</string>
   <string name="pref_camera_picture_format_entry_jpeg">JPEG</string>
   <string name="pref_camera_picture_format_entry_raw">RAW</string>
@@ -250,7 +250,7 @@
   <string name="pref_camera_zsl_entry_off">Isključeno (Zadano)</string>
   <string name="pref_camera_zsl_entry_on">Uključeno</string>
   <string name="pref_capture_settings">Fotoaparat</string>
-  <string name="pref_face_beauty_title">Nijanse kože</string>
+  <string name="pref_face_beauty_title">Istaknuće tonova</string>pref_video_speed_title
   <string name="pref_front_mirror_entry_auto">Auto</string>
   <string name="pref_front_mirror_entry_off">Isklj.</string>
   <string name="pref_front_mirror_title">Zrcalna prednja kamera</string>
@@ -277,7 +277,7 @@
   <string name="pref_video_speed_entry_slow">Sporo</string>
   <string name="pref_video_speed_fast_title">Brzo</string>
   <string name="pref_video_speed_slow_title">Sporo</string>
-  <string name="pref_video_speed_title">Brzina Snimanja videa</string>
+  <string name="pref_video_speed_title">Brzina snimanja videozapisa</string>
   <string name="pref_video_time_lapse_frame_interval_entry_10">Interval od 0.3 sek. (10 puta)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_120">Interval od 4 sek. (120 puta)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_150">Interval od 5 sek. (150 puta)</string>

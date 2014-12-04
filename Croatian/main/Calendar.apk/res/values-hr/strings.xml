@@ -64,7 +64,7 @@
   <string name="copy_db">Pošalji bazu podataka</string>
   <string name="copy_email">Kopiranje e-adrese</string>
   <string name="copy_number">Kopiranje telefonskog broja</string>
-  <string name="create_an_account_desc">Kalendar radi bolje s Google računom.
+  <string name="create_an_account_desc">Kalendar radi bolje s Mi Računom.
 
 • Pristupite mu iz bilo kojeg web-preglednika.
 • Stvorite sigurnosnu kopiju svojih događaja.</string>
@@ -224,7 +224,7 @@
   <string name="privacy_label">"Privatnost"</string>
   <string name="quick_response_custom_msg">Napišite vlastiti…</string>
   <string name="quick_response_dialog_title">Odaberite brzi odgovor</string>
-  <string name="quick_response_email_failed">Traženje programa e-pošte nije uspjelo</string>
+  <string name="quick_response_email_failed">"Ne mogu pronaći aplikaciju E-pošta"</string>
   <string name="quick_response_settings">"Brzi odgovori"</string>
   <string name="quick_response_settings_edit_title">Brzi odgovor</string>
   <string name="quick_response_settings_summary">Uređivanje zad. odgovora pri slanju gostima</string>

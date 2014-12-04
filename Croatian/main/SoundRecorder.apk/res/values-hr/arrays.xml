@@ -20,4 +20,9 @@
         <item>Glazba</item>
         <item>Glas</item>
     </string-array>
+    <string-array name="x5_record_scenes_entries">
+        <item>Glazba</item>
+        <item>Glas</item>
+        <item>Intervju</item>
+    </string-array>
 </resources>

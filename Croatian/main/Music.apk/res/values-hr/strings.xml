@@ -37,12 +37,12 @@
   <string name="data_usage_warning_summary">Korištenje vaše mobilne podatkovne veze za streaming visoko kvalitetne glazbe može povećati troškove uporabe podataka.</string>
   <string name="dialog_button_create_playlist">Izradi popis pjesama</string>
   <string name="dialog_button_editor_choice">Istaknuto</string>
-  <string name="dialog_button_find_music">Otkrij novu glazbu</string>
+  <string name="dialog_button_find_music">Otkrij</string>
   <string name="dialog_button_login">Prijavite se i sinkronizirajte vašu glazbu</string>
   <string name="dialog_button_scan_tracks">Pretraživanje glazbe na ovom uređaju</string>
   <string name="dialog_delete_descript">Izbrisati %s?</string>
   <string name="dialog_hint_music_error">Nema pjesama.</string>
-  <string name="dialog_hint_network_error">Provjerite vaše podatkovnu vezu i pokušajte ponovno.</string>
+  <string name="dialog_hint_network_error">"Ne mogu se povezati na mrežu."</string>
   <string name="dialog_remove_descript">Ukloniti %s?</string>
   <string name="dialog_title_add_playlist">Dodaj popis pjesama</string>
   <string name="dialog_title_delete_tracks">Izbrisati</string>
