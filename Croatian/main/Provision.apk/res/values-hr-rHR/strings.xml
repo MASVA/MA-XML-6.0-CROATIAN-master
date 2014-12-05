@@ -1,8 +1,8 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="agree">Slažem se</string>
-  <string name="congratulation_label">Uživajte u svom ​​novom telefonu :)</string>
-  <string name="congratulation_next">Započnite koristiti MIUI</string>
+  <string name="congratulation_label">Uživajte u svom ​Mi uređaju</string>
+  <string name="congratulation_next">U redu</string>
   <string name="disagree">Odustani</string>
   <string name="ime_privacy_policy">Pravila o privatnosti za odabrane tipkovnice</string>
   <string name="ime_privacy_policy_no_network">Nema mrežne veze. Pogledajte Pravila o privatnosti za ovu tipkovnicu na %s.</string>

@@ -593,7 +593,7 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="credentials_install_summary">Instaliraj certifikate iz pohrane</string>
   <string name="credentials_not_erased">Sig. kopija vjerodajnica nije mogla biti izbrisana.</string>
   <string name="credentials_old_password">Trenutačna zaporka:</string>
-  <string name="credentials_password_too_short">Zaporka treba imati barem 8 znakova.</string>
+  <string name="credentials_password_too_short">minimalno 8 znakova</string>
   <string name="credentials_reset">Izbriši vjerodajnice</string>
   <string name="credentials_reset_hint">Ukloniti sve sadržaje?</string>
   <string name="credentials_reset_summary">Uklanjanje svih certifikata</string>
@@ -729,7 +729,7 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="details_title">Pojedinosti korištenja</string>
   <string name="dev_settings_warning_message">Ove su postavke namijenjene samo razvojnim programerima. One mogu uzrokovati kvar ili neželjeno ponašanje vašeg uređaja i aplikacija na njemu.</string>
   <string name="dev_settings_warning_title">Dopustiti postavke razvojnih programera?</string>
-  <string name="developer_build">" | Raz.programer"</string>
+  <string name="developer_build">" | Beta"</string>
   <string name="development_enable">Opcije za razvojne programere</string>
   <string name="development_settings_not_available">Opcije razvojnih programera nisu dostupne za ovog korisnika</string>
   <string name="development_settings_summary">Postavljanje opcija za razvoj aplikacije</string>
@@ -1449,7 +1449,7 @@ i pokrenite ga."</string>
   <string name="mvno_match_data">Vrijednost MVNO-a</string>
   <string name="mvno_type">Vrsta MVNO-a</string>
   <string name="nearby_wifi">"Dostupne mreže"</string>
-  <string name="need_reboot_now">Potrebno ponovo pokretanje uređaja za dovršetak ažuriranja, sada ponovno pokrenite!</string>
+  <string name="need_reboot_now">Ponovo pokretnite uređaj za instaliranje ažuriranja.</string>
   <string name="network_assistant">Uporaba podataka</string>
   <string name="network_detail">Detalji mreže %s</string>
   <string name="network_error">Pogreška mreže.</string>
@@ -1482,7 +1482,7 @@ i pokrenite ga."</string>
   <string name="no_services">Nije aktivno</string>
   <string name="no_update_found">Najnovija verzija se već koristi</string>
   <string name="no_updates_found">"Već koristite najnoviju verziju MIUI."</string>
-  <string name="no_updates_warning">Nisu pronađena ažuriranja za vaš uređaj.</string>
+  <string name="no_updates_warning">Vaš sustav je ažuran.</string>
   <string name="no_updates_warning2">"Opustite se, obavijestiti ćemo vas ako bude ažuriranja."</string>
   <string name="noise_suppression">Utišavanje okolne buke</string>
   <string name="normal_date_format">Regionalno (%s)</string>
@@ -1825,7 +1825,7 @@ Ova postavka utječe na sve korisnike na ovom uređaju."</string>
   <string name="screen_key_press">Pritisnite navigacijske tipke</string>
   <string name="screen_key_press_action">Funkcije pritiska</string>
   <string name="screen_never_timeout_title">Nikada ne miruj</string>
-  <string name="screen_on_proximity_sensor_summary">Uređaj se automatski zaključava kada je stavljen u džep</string>
+  <string name="screen_on_proximity_sensor_summary">Automatski zaključaj kada se stavi u džep</string>
   <string name="screen_on_proximity_sensor_title">Spriječi slučajno biranje u džepu</string>
   <string name="screen_saturation">Zasićenje</string>
   <string name="screen_timeout">Mirovanje</string>
@@ -2102,7 +2102,7 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="status_sim">Status SIM kartice</string>
   <string name="status_sim_1">SIM 1</string>
   <string name="status_sim_2">SIM 2</string>
-  <string name="status_summary">Dodirnite za prikaz detalja</string>
+  <string name="status_summary">Dodirnite za prikaz detalja.</string>
   <string name="status_unavailable">Nedostupno</string>
   <string name="status_up_time">Vrijeme aktivnosti</string>
   <string name="status_wifi_mac_address">MAC adresa WLAN-a</string>
@@ -2527,7 +2527,7 @@ Riječ možete dodati dodirom na tipku Dodaj (+)"</string>
   <string name="wfd_settings_title">Bežični zaslon</string>
   <string name="wfd_wps_keypad">Željena je autentifikacija pritiskom tipke</string>
   <string name="wfd_wps_pbc">Željena je autentifikacija unosom PIN-a</string>
-  <string name="whetstone_level_reboot">Ova postavka će stupiti na snagu kada ponovno pokrenete vaš uređaj</string>
+  <string name="whetstone_level_reboot">Ova postavka će stupiti na snagu nakon što ponovno pokrenete vaš uređaj</string>
   <string name="whetstone_level_reboot_OK">Ponovno pokreni</string>
   <string name="whetstone_level_title">Optimiziranje memorije sustava</string>
   <string name="widget_picker_title">Odaberite widget</string>

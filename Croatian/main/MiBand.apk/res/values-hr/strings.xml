@@ -40,7 +40,7 @@ Uvjeti pružanja usluge: %2$s"</string>
   <string name="bind_bracelet_ok">Uspješno upareno</string> 
   <string name="bind_devices">Upari uređaje</string>
   <string name="bind_mi_band">Upari Mi Band</string>
-  <string name="bind_mi_band_about">&lt;Data&gt;&amp;lt;a href=http://www.mi.com&amp;gt;Pregledaj Web stranicu Mi Binda&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
+  <string name="bind_mi_band_about">&lt;Data&gt;&amp;lt;a href=http://www.mi.com&amp;gt; Mi Bind Web stranica&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
   <string name="bind_new_mili">Poveži s novim  Mi Bandom</string> 
   <string name="bind_qq">Dodaj QQ</string>
   <string name="bind_qq_health">Sink. s QQ Health Center</string>
@@ -651,8 +651,8 @@ Potrošeno %3$s cal. Prethodni rekord je bio %5$s koraka, postavljen %4$s."</str
 Postavke &gt; Sigurnost."</string>
   <string name="unlock_screen_not_connect">Još uvijek trebate upariti svoj ​​band s ovim uređajem.</string>
   <string name="unlock_screen_set_password">Postavljanje uzorka otključavanja</string>
-  <string name="unlock_screen_set_password_tips_has_set">Uzorak otključavanja potvrđen.</string>
-  <string name="unlock_screen_set_password_tips_set">Postavite uzorka otključavanja</string>
+  <string name="unlock_screen_set_password_tips_has_set">Uzorak otključavanja je potvrđen.</string>
+  <string name="unlock_screen_set_password_tips_set">Postavite uzorak otključavanja</string>
   <string name="unlock_screen_set_success">Možete otključati ovaj uređaj sa svojim bandom.</string>
   <string name="unlock_screen_set_use_bracelet">Otključaj ovaj uređaj sa svojim bandom</string>
   <string name="unlock_screen_set_use_bracelet_tips">Potvrdi uzorak otključavanja</string>

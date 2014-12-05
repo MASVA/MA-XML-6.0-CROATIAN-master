@@ -182,7 +182,7 @@
   <string name="login_title">Prijavite se u vaš Mi Račun</string>
   <string name="login_with_email_or_id">Prijavite se s drugim računom</string>
   <string name="logout_failed">"Ne mogu se odjaviti"</string>
-  <string name="mi_account_dspt_provision">Prijavite se na Mi Cloud, MIUI Trgovinu Tema i druge Mi Usluge s jednim računom.</string>
+  <string name="mi_account_dspt_provision">"Prijavite se na Mi Cloud, MIUI Trgovinu Tema i druge Mi Usluge, od bilo kuda."</string>
   <string name="mibi_balance">Mi Kredita %s</string>
   <string name="micloud_account">Mi Račun</string>
   <string name="micloud_account_details">Detalji računa</string>
@@ -326,7 +326,7 @@ Da biste aktivirali vaš račun, slijedite
   <string name="user_agreement_p4">Pravila o privatnosti</string>
   <string name="user_agreement_p5">"Izradom računa, slažete se 
 s "</string>
-  <string name="user_agreement_p6">"Suglasni ste s našim
+  <string name="user_agreement_p6">"Suglasni ste s
   "</string>
   <string name="vcode">Kôd za provjeru</string>
   <string name="vcode_notification_title">Provjera nije potpuna</string>

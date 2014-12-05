@@ -14,8 +14,8 @@
   <string name="autumn_begins"/>
   <string name="autumn_equinox"/>
   <string name="call_record_or">" Ili "</string>
-  <string name="call_record_sample_prefix_miui">Glas</string>
-  <string name="caller_info_name_delimiter">" Ili "</string>
+  <string name="call_record_sample_prefix_miui">Poziv</string>
+  <string name="caller_info_name_delimiter">" ili "</string>
   <string name="childrens_day"/>
   <string name="chinese_youth_day"/>
   <string name="christmas_day"/>
@@ -29,8 +29,9 @@
   <string name="device_xiaomi">Mi Telefon</string>
   <string name="double_seventh_day"/>
   <string name="easter">Uskrs</string>
-  <string name="first_back_long_press_message">"Pritisnite &amp; držite tipku Natrag za isključivanje trenutnog procesa i njegovih pozadinskih usluga. Za uključivanje ove značajke, idite na Postavke &gt; Dodatne postavke &gt; Tipke</string>
-  <string name="fm_record_smaple_prefix_miui">FM_Snimanje</string>
+  <string name="first_back_long_press_message">"Pritisnite &amp; držite tipku Natrag za isključivanje trenutnog procesa i njegovih pozadinskih usluga. 
+Za uključivanje ove značajke, idite na Postavke &gt; Dodatne postavke &gt; Tipke</string>
+  <string name="fm_record_smaple_prefix_miui">FM Snimanje</string>
   <string name="fools_day">1. travanj</string>
   <string name="force_exit_message">Uspješno zatvorena aplikacija: \"%1$s</string>
   <string name="force_exit_skip_message">"Ne mogu isključiti %1$s zato jer je potrebno sustavu."</string>
@@ -92,7 +93,7 @@
   <string name="national_day"/>
   <string name="national_father_day"/>
   <string name="new_years_day"/>
-  <string name="no_notification_tips">Bez upozorenja</string>
+  <string name="no_notification_tips">Bez obavijesti</string>
   <string name="partys_day"/>
   <string name="paste">Zalijepi</string>
   <string name="peace_day"/>
@@ -104,6 +105,7 @@
   <string name="reboot_confirm_title">Vaš uređaj će se ponovno pokrenuti</string>
   <string name="reboot_progress">Ponovno pokretanje…</string>
   <string name="replace">Zamijeni</string>
+  <string name="resource_select">Odaberi</string>
   <string name="retrocession_day"/>
   <string name="screen_button_disabled_message">Navigacijske tipke su isključene. Da ih ponovo uključite, dodirnite tipku \"Početna\" i \"Napajanje\" istovremeno.</string>
   <string name="screen_button_enabled_message">Navigacijske tipke su isključene.</string>
