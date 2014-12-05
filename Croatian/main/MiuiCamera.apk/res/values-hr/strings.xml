@@ -250,7 +250,7 @@
   <string name="pref_camera_zsl_entry_off">Isključeno (Zadano)</string>
   <string name="pref_camera_zsl_entry_on">Uključeno</string>
   <string name="pref_capture_settings">Fotoaparat</string>
-  <string name="pref_face_beauty_title">Istaknuće tonova</string>pref_video_speed_title
+  <string name="pref_face_beauty_title">Istaknuće tonova</string>
   <string name="pref_front_mirror_entry_auto">Auto</string>
   <string name="pref_front_mirror_entry_off">Isklj.</string>
   <string name="pref_front_mirror_title">Zrcalna prednja kamera</string>
