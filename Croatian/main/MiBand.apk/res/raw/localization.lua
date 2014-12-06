@@ -11,15 +11,25 @@ zh_CN = 'zh_CN'
 zh_TW = 'zh_TW'
 en_US = 'en_US'
 en_GB = 'en_GB'
+cs_CZ = 'cs_CZ'
+sk_SK = 'sk_SK'
+pl_PL = 'pl_PL'
 hr_HR = 'hr_HR'
 en = 'en'
+cs = 'cs'
+sk = 'sk'
+pl = 'pl'
 hr = 'hr'
-
 g_CurLocale = ""
+DEBUG = false
 -------------Globals----------------
 
 __log = nil
 function log(msg, right)
+    if DEBUG == false then
+        return
+    end
+
     if __log == nil then __log = luajava.bindClass("android.util.Log") end
 
     if right == 'w' then
@@ -42,9 +52,12 @@ end
 
 localization_table = {
     en = localization_English_table,
-	hr_HR = localization_Croatian_table,
+    cs = localization_Czech_table,
+    sk = localization_Slovak_table,
+    pl = localization_Polish_table,
+	hr = localization_Croatian_table,
     zh_CN = localization_Chinese_table,
-    zh_TW = localization_zh_rTW_table,  
+    zh_TW = localization_zh_rTW_table,
 }
 
 function getString(string_locale)
@@ -54,10 +67,16 @@ function getString(string_locale)
         curTable = localization_table[zh_CN];
     elseif (getCurLocale() == en_US or getCurLocale() == en_GB) then
         curTable = localization_table[en];
-	if (getCurLocale() == hr_HR) then
-        curTable = localization_table[hr_HR];	
     elseif (getCurLocale() == zh_TW) then
         curTable = localization_table[zh_TW];
+    elseif (getCurLocale() == cs_CZ) then
+        curTable = localization_table[cs];
+    elseif (getCurLocale() == sk_SK) then
+        curTable = localization_table[sk];
+    elseif (getCurLocale() == pl_PL) then
+        curTable = localization_table[pl];
+	elseif (getCurLocale() == hr_HR) then
+        curTable = localization_table[hr];
     end
 
     return curTable[string_locale];

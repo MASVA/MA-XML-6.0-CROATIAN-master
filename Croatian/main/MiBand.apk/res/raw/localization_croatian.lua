@@ -167,7 +167,7 @@ localization_Croatian_table = {
 
     ok='U redu',
 
-    hour='sati',
+    hour='sat',
     minute='min',
     month='mjesec',
     day='dan',
@@ -188,7 +188,7 @@ localization_Croatian_table = {
     take_a_walk="Prošetajte s vašim Mi Bandom",
     take_a_walk_info="Vaš band evidentira svaki vaš korak tijekom dana.",
     unlock_hint="Sezame otvori se!",
-    unlock_hint_info="Koristite svoj band kako biste automatski otključali svoj uređaj.",
+    unlock_hint_info="Koristite svoj band da automatski otključate svoj uređaj.",
     no_data_hint_0="Nastavite se kretati, neka sport postane dijelom vašeg života.",
     no_data_hint_1="Ponavljanje je otac uspjeha.",
     no_data_hint_2="Težite napretku, a ne savršenstvu.",
