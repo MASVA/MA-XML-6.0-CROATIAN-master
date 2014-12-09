@@ -113,11 +113,11 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="HIPS_Perm_GetCallState">može precizno pristupiti stanju telefona</string>
   <string name="HIPS_Perm_ListenCallState">može precizno pročitati stanje telefona</string>
   <string name="HIPS_Perm_Location">Lokacija</string>
-  <string name="HIPS_Perm_Location_Access">dobivanje precizne lokacije (bazirano na GP-u i mreži)</string>
+  <string name="HIPS_Perm_Location_Access">dobivanje precizne lokacije (bazirano na GPS-u i mreži)</string>
   <string name="HIPS_Perm_Location_CellInfo">približna lokacija korištenjem baze podataka stanice</string>
   <string name="HIPS_Perm_Location_CellLocation">približna lokacija korištenjem bazne lokacije stanice</string>
-  <string name="HIPS_Perm_Location_Desc">dobivanje precizne lokacije (bazirano na GP-u i mreži)</string>
-  <string name="HIPS_Perm_Location_Hint">%1$s aplikacija može dobiti vašu preciznu lokaciju (bazirano na GP-u i mreži)</string>
+  <string name="HIPS_Perm_Location_Desc">dobivanje precizne lokacije (bazirano na GPS-u i mreži)</string>
+  <string name="HIPS_Perm_Location_Hint">%1$s aplikacija može dobiti vašu preciznu lokaciju (bazirano na GPS-u i mreži)</string>
   <string name="HIPS_Perm_Location_Monitor">praćenje vaše lokacije</string>
   <string name="HIPS_Perm_Location_Source_Cellular">približna lokacija korištenjem mobilne bazne stanice</string>
   <string name="HIPS_Perm_Location_Source_GPS">dobivanje vaše precizne lokacije pomoću GPS-a</string>

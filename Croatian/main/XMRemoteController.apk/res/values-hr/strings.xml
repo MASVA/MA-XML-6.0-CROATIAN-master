@@ -5,7 +5,7 @@
   <string name="add">Dodaj</string>
   <string name="add_control">Upari</string>
   <string name="add_device">Upari novi uređaj</string>
-  <string name="add_device_match_desc_bottom">    3. Odaberite funkciju: %1$s</string>
+  <string name="add_device_match_desc_bottom">    3. Odaberite funkciju</string>
   <string name="add_device_match_desc_center">    2. Kliknite na gumb za slanje prijenosa</string>
   <string name="add_device_match_desc_top">    1. Usredotočite svoj uređaj %1$s</string>
   <string name="add_device_remote">Upari %1$s</string>
@@ -53,11 +53,11 @@
   <string name="confirm">Dopusti</string>
   <string name="connected">Povezano</string>
   <string name="continue_to_add_other_rc">Dodaj još jedan uređaj</string>
-  <string name="di"/>
   <string name="control_vol_by_cellphone">Koristite uređaj za kontrolu glasnoće</string>
   <string name="delete">Izbrisati</string>
   <string name="delete_confirm">Raspariti uređaj?</string>
   <string name="delete_desc">Nećete biti u mogućnosti kontrolirati “%s” pomoću Mi Remote.</string>
+  <string name="di"/>
   <string name="download_times">Preuzimanja: %1$d</string>
   <string name="dpad_down">Dolje</string>
   <string name="dpad_left">Lijevo</string>
@@ -197,7 +197,7 @@
   <string name="splash_desc">Xiaomi telefon može zamijeniti vaš daljinski upravljač kod kuće.</string>
   <string name="stb">STB</string>
   <string name="steps">Pokušaj #%d</string>
-  <string name="succeed_content">Nakon koraka %1$s a %2$s, uspješno ste dodali uređaj %3$s %4$s</string>
+  <string name="succeed_content">Nakon koraka %1$s i %2$s, uspješno ste dodali uređaj %3$s %4$s</string>
   <string name="succeed_finish">Završeno</string>
   <string name="succeed_title">Uspjeh</string>
   <string name="supporting_soon">Biti će podržano</string>
