@@ -56,7 +56,7 @@
   <string name="cloud_backup_window_title">Mi Cloud sig. kopija</string>
   <string name="cloud_home_title">Mi Cloud</string>
   <string name="cloud_item_info_summary">" (Lokalno : %1$s | Mi Cloud : %2$s)"</string>
-  <string name="cloud_last_backup">Posljednja  sig. kopija:</string>
+  <string name="cloud_last_backup">"Posljednja  sig. kopija "</string>
   <string name="cloud_no_backup">Nema sig. kopija</string>
   <string name="cloud_restore_guide">Za vraćanje korisničkih podataka za %s, dodirnite Vraćanje</string>
   <string name="cloud_restore_title">Vraćanje podataka Sig. kopije</string>
@@ -65,16 +65,16 @@
   <string name="compute_backup_info">Prikupljam podatke Sig. kopije…</string>
   <string name="compute_delete_contact_info">Prikupljanje informacija…</string>
   <string name="contact_title">Kontakti</string>
-  <string name="current_account">Bok, %s</string>
+  <string name="current_account">Bok %s</string>
   <string name="current_sim">Trenutna SIM kartica</string>
   <string name="data_no_enough_space">Nedovoljno prostora</string>
   <string name="data_no_enough_space_message">"Nema dovoljno prostora na unutarnjoj memoriji vašeg uređaja."</string>
-  <string name="date_format">dd-MM-yyyy HH:mm:ss</string>
+  <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
   <string name="delete">Obrisati</string>
   <string name="delete_backup_process">Brisanje…</string>
   <string name="delete_failed_backup_confirm">Ova sig. kopija sadrži pogreške.</string>
   <string name="deselect_all">Poništi odabir za sve</string>
-  <string name="dir_date_format">dd-MM-yyyy_HH-mm-ss</string>
+  <string name="dir_date_format">HHmmss_MMddyyyy</string>
   <string name="disable_encrypt_title">Isključiti šifriranje</string>
   <string name="enable_encrypt">Uključiti šifriranje</string>
   <string name="enable_encrypt_fail">Neuspješno uključivanje</string>
@@ -95,7 +95,7 @@
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Preuzmite Mi Talk aplikaciju i prijavite se.
 \u0009http://www.miliao.com
 2.\u0009Idite u Mi Talk postavke i odaberite ”Pohrani kontakte na Mi Račun”"</string>
-  <string name="import_from_xiaomi_account_hint_title">Koristite MiTalk za Sig. kopiju kontakata između uređaja</string>
+  <string name="import_from_xiaomi_account_hint_title">Koristite Mi Talk za Sig. kopiju kontakata između uređaja</string>
   <string name="local_app_name">Sig. kopija</string>
   <string name="local_backup_window_title">Lokalna sig. kopija</string>
   <string name="local_home_title">Lokalne Sig. kopije</string>
@@ -111,7 +111,7 @@
   <string name="multi_select_title">Odabrano: %1$s</string>
   <string name="never">Nikad</string>
   <string name="no_encrypt_password">Nema zaporki</string>
-  <string name="no_network">"Ne mogu se spojiti na mrežu.</string>
+  <string name="no_network">"Ne mogu se povezati na mrežu."</string>
   <string name="note_title">Bilješke</string>
   <string name="nothing_searched">Nema rezultata</string>
   <string name="progress_backup_hint">"Stvaranje Sig. kopije: "</string>
@@ -164,12 +164,12 @@
   <string name="task_canceled">Otkazano</string>
   <string name="task_canceled_all_local">Otkaži sve zadatke</string>
   <string name="task_canceled_local">Sig. kopija nepotpuna (%s)</string>
-  <string name="task_cloud_backup_cancel_dialog">"Sig. kopija nije završena. Svejedno otkazati?"</string>
+  <string name="task_cloud_backup_cancel_dialog">"Sig. kopija nije završena. Svejedno zaustaviti?"</string>
   <string name="task_failed">"Ne mogu napraviti sig. kopiju"</string>
   <string name="task_failed_all_local">"Ne mogu napraviti sig. kopiju"</string>
   <string name="task_failed_local">Sig. kopija nepotpuna (%s)</string>
   <string name="task_finished">Sig. kopija uspješno završena</string>
-  <string name="task_local_backup_cancel_dialog">Sig. kopija nije završena. Svejedno otkazati?</string>
+  <string name="task_local_backup_cancel_dialog">Sig. kopija nije završena. Svejedno zaustaviti?</string>
   <string name="task_pending">U tijeku…</string>
   <string name="task_post_running">Stvaranje Sig. kopije…</string>
   <string name="task_pre_running">Pokretanje…</string>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="alert_frequency_duplicate">Ova frekvencija već postoji</string>
   <string name="alert_invalid_frequency">Nevaljana frekvencija</string>
   <string name="alert_message_delete_station">Ova postaja će biti izbrisana.</string>
   <string name="app_name">FM Radio</string>

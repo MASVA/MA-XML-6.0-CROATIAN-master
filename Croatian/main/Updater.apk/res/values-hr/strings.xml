@@ -114,8 +114,10 @@
   <string name="notification_reboot_btn">Ponovno pokreni</string>
   <string name="notification_reboot_des">Ponovno pokrenite da biste ažurirali na %s.</string>
   <string name="notification_reboot_seccess_des">Dodirnite za dijeljenje detalja ažuriranja.</string>
-  <string name="notification_reboot_seccess_title">Ponovno pokrenite da primjenite ažuriranje</string>
-  <string name="notification_reboot_title">Ažuriranje završeno</string>
+  <string name="notification_reboot_seccess_title">Uređaj je ažuriran</string>
+  <string name="notification_reboot_summary_hm">Dodirnite da ponovo pokrenete vaš uređaj.</string>
+  <string name="notification_reboot_title">Ponovno pokrenite da primjenite ažuriranje</string>
+  <string name="notification_reboot_title_hm">Ponovno pokrenite da primjenite ažuriranje</string>
   <string name="notification_share">Podijeli</string>
   <string name="notification_update_new_version">Dostupno je ažuriranje</string>
   <string name="notification_update_now">Ažurirati sada</string>

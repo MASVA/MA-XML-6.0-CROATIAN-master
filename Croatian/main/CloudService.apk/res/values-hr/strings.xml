@@ -22,8 +22,8 @@
   <string name="buy_space_sulotion_renew_title">Obnovite pretplatu</string>
   <string name="buy_space_sulotion_title">Kupite prostor za pohranu</string>
   <string name="cloud_find_device">Pronađi Uređaj</string>
-  <string name="cloud_space_upgrade_message">Dodirnite za dodavanje %sGB na vaš cloud</string>
-  <string name="cloud_space_upgrade_no_quota_info">Nije uspjelo učitavanje. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+  <string name="cloud_space_upgrade_message">Dodirnite za dodavanje %sGB na vaš cloud.</string>
+  <string name="cloud_space_upgrade_no_quota_info">"Ne mogu dobiti detalje prostora za pohranu"</string>
   <string name="cloud_space_upgrade_title">Više prostora za Mi Cloud</string>
   <string name="cloud_sync_setting_summary_standard">Standardno: na WLAN-u sink. fotografija, videozapisa, MMS-a, podataka aplikacija i slika kontakata, sinkr. drugih podataka preko mobilne mreže</string>
   <string name="cloud_sync_setting_summary_wlan">Samo na WLAN-u: Sinkr. svih podataka samo preko WLAN-a</string>
@@ -91,7 +91,7 @@ na vaš Mi Račun za aktiviranje Mi Cloud."</string>
   <string name="micloud_check_sim_notify_title">Ponovno aktiviraj Mi Cloud</string>
   <string name="micloud_check_sim_title">"Izgleda da ste promijenili SIM kartice. Prijavite se
 na vaš Mi Račun za aktiviranje Mi Cloud."</string>
-  <string name="micloud_detail_fail">Nije uspjeo</string>
+  <string name="micloud_detail_fail">"Ne mogu sinkr."</string>
   <string name="micloud_detail_lastest">Sinkronizirano</string>
   <string name="micloud_detail_pending">Na čekanju</string>
   <string name="micloud_detail_preference_syncing">Sinkroniziram</string>
@@ -198,7 +198,7 @@ Možete uključiti/isključiti tu značajku bilo kada u Postavkama."</string>
   <string name="sub_sync_item_sms_title_wifi_only">Sinkronizacija MMS-a samo preko WLAN-a</string>
   <string name="success_upgraded_space">%s dodano</string>
   <string name="sync_dspt">Sinkr.</string>
-  <string name="sync_dspt_provision">"Mi Cloud sinkronizira vaše fotografije, SMS poruke, bilješke, i još mnogo toga između svih vaših Mi uređaja. Također im možete pristupiti s bilo kojeg preglednika na "</string>
+  <string name="sync_dspt_provision">"Mi Cloud sinkronizira vaše fotografije, SMS poruke, bilješke, podatke aplikacija i još mnogo toga između svih vaših Mi uređaja. Također im možete pristupiti s bilo kojeg preglednika na "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">mi.com/micloud</string>
   <string name="sync_dspt_provision3">".

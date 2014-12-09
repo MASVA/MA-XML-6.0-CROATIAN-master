@@ -7,6 +7,10 @@
   <string name="auth_notif_message">Upiši šifru sesije za %1$s</string>
   <string name="auth_notif_ticker">Zahtjev za provjeru autentičnosti Obex protokola</string>
   <string name="auth_notif_title">Šifra sesije</string>
+  <string name="bluetooth_preference_connected_devices">Povezani uređaji</string>
+  <string name="bluetooth_preference_found_devices">Dostupni uređaji</string>
+  <string name="bluetooth_preference_scan_title">Skeniraj za uređaje</string>
+  <string name="bluetooth_search_for_devices">Pretraži za uređaje</string>
   <string name="bluetooth_share_file_name">bluetooth_content_share</string>
   <string name="bt_enable_cancel">"Odustani"</string>
   <string name="bt_enable_line1">Prije upotrebe Bluetooth usluga, prvo morate uključiti Bluetooth.</string>
@@ -28,6 +32,7 @@
   <string name="defaultnumber">000000</string>
   <string name="deleteAll_record">Izbriši sve zapise</string>
   <string name="delete_record">Izbriši zapis</string>
+  <string name="device_picker">Biratelj Bluetooth uređaja</string>
   <string name="download_cancel">"Zaustavi"</string>
   <string name="download_fail_line1">Datoteka nije primljena</string>
   <string name="download_fail_line2">Datoteka: %1$s</string>
@@ -94,6 +99,7 @@ Prihvaćate li datoteku?"</string>
   <string name="permlab_bluetoothWhitelist">Stavi pristup Bluetooth uređaja na popis dopuštenih pristupa.</string>
   <string name="permlab_handoverStatus">Primaj prijenose s Bluetooth uređaja.</string>
   <string name="process"/>
+  <string name="progress_scanning">Pretraživanje</string>
   <string name="sharedUserId"/>
   <string name="start_server">Pokreni TCP poslužitelj</string>
   <string name="status_canceled">Korisnik je otkazao prijenos.</string>
