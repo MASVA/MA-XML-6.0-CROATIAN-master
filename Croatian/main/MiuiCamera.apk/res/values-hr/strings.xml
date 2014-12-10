@@ -154,6 +154,9 @@
   <string name="pref_camera_jpegquality_entry_low">Niska</string>
   <string name="pref_camera_jpegquality_entry_normal">Standardna</string>
   <string name="pref_camera_jpegquality_title">Kvaliteta slike</string>
+  <string name="pref_camera_long_press_shutter_feature_title">Dugo pritisnite tipku okidača</string>
+  <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Brzo snimanje</string>
+  <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Fokus</string>
   <string name="pref_camera_long_pressing_shutter_title">Pritisnite &amp; držite tipku okidača za zaključavanje AE/AF/AWB</string>
   <string name="pref_camera_manual_mode_title">Ručno</string>
   <string name="pref_camera_movie_solid_title">Stabilizacija slike</string>

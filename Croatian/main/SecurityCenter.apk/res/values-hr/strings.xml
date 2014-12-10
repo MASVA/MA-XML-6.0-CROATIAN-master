@@ -257,14 +257,6 @@
   <string name="info_and_call">Pozivi i poruke</string>
   <string name="item_app_permission">Dopuštenja aplikacija</string>
   <string name="item_dev_mode">Opcije Raz. programera</string>
-  <string name="item_garbage_size_1000m">1GB</string>
-  <string name="item_garbage_size_100m">100MB</string>
-  <string name="item_garbage_size_300m">300MB</string>
-  <string name="item_garbage_size_500m">500MB</string>
-  <string name="item_garbage_time_3d">Svaka 3 dana</string>
-  <string name="item_garbage_time_7d">Svakih 7 dana</string>
-  <string name="item_garbage_time_daily">Dnevno</string>
-  <string name="item_garbage_time_never">Nikad</string>
   <string name="item_install_monitor">Instaliraj nadzor</string>
   <string name="item_mms">Filtriraj neželjene poruke</string>
   <string name="item_title_garbage_size">Veličina alarma</string>

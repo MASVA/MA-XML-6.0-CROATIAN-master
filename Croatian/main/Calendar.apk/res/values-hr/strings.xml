@@ -56,6 +56,7 @@
   <string name="button_week">T</string>
   <string name="calendar_refresh">Osvježi</string>
   <string name="calendar_server_error">Greška poslužitelja</string>
+  <string name="can_not_create_long_event">Sadržaj događaja je predugačak</string>
   <string name="can_not_modify_allday_event">"Ne mogu promijeniti cjelodnevni događaj"</string>
   <string name="can_not_modify_event">"Ne mogu promijeniti događaj"</string>
   <string name="can_not_modify_repeating_acrossing_days_event">"Ne mogu promijeniti ponavljanje događaja i događaj prijelaznih dana"</string>
@@ -132,6 +133,7 @@
   <string name="event_view">Prikaži događaj</string>
   <string name="every_weekday">Radnim danima (pon–pet)</string>
   <string name="exist_calendar">Kalendar već postoji</string>
+  <string name="from_google_group_calendar">Google kalendar</string>
   <string name="gadget_no_events">Nema skorih događaja kalendara</string>
   <string name="gadget_title">Kalendar</string>
   <string name="goto_today">Danas</string>

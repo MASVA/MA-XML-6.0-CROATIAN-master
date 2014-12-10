@@ -118,6 +118,10 @@
   <string name="pref_summary_no_limit_popup">Neograničeno</string>
   <string name="pref_title_enable_max_bytes_popup">Prikaži upozorenje uporabe podataka</string>
   <string name="preferences_title">Postavke</string>
+  <string name="privacy_tip_cancel">Odustani</string>
+  <string name="privacy_tip_content">"Koristiti Xunlei Accelerator za ubrzanje preuzimanja? URL domaćina preuzimanja će biti učitan na Xunlei poslužitelje. Detalji vašeg Mi Računa će biti učitani radi provjere je li imate aktivne pretplate na ovu uslugu."</string>
+  <string name="privacy_tip_ok">U redu</string>
+  <string name="privacy_tip_title">Koristiti Xunlei Accelerator?</string>
   <string name="remove_download">Ukloni</string>
   <string name="restart_download">Ponovno pokreni</string>
   <string name="resume_download">Nastavi</string>

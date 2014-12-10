@@ -12,6 +12,9 @@
         <item quantity="other">%d pjesama će biti preuzeto</item>
         <item quantity="one">1 pjesma će biti preuzeta</item>
     </plurals>
+	<plurals name="Nnew_tracks_count">
+        <item quantity="other">%d novo</item>
+    </plurals>
     <plurals name="Ntracks_count">
         <item quantity="other">Pjesama: %d</item>
         <item quantity="one">%d pjesma</item>

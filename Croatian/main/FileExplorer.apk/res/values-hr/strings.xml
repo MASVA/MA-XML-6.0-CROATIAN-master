@@ -59,6 +59,7 @@
   <string name="decompress_success">Raspakiranje završeno</string>
   <string name="decompress_to">Raspakiraj u…</string>
   <string name="decompress_to_here">Raspakiraj ovdje…</string>
+  <string name="delete_dialog_button">Izbriši</string>
   <string name="delete_failed">"Ne mogu izbrisati"</string>
   <string name="delete_file">Izbrisati ovu datoteku?</string>
   <string name="delete_files">Izbrisati datoteke %1$d ?</string>

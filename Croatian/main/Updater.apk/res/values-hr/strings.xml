@@ -51,7 +51,7 @@
   <string name="download_cancel">Odustani</string>
   <string name="download_current_rom">Instaliraj ažuriranje</string>
   <string name="download_diff">Preuzimanje razlike</string>
-  <string name="download_error">Pogreška preuzimanja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+  <string name="download_error">Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="download_failed">"Ne mogu preuzeti"</string>
   <string name="download_full">Preuzimanje završeno</string>
   <string name="download_title">Preuzimanje (%s)</string>
@@ -165,7 +165,7 @@
   <string name="timer_title">Uređaj će se ponovno pokrenuti za %d sek.</string>
   <string name="title_toast_auto">Ažuriranja će se preuzeti automatski</string>
   <string name="top_secret_build">Tajno</string>
-  <string name="unkown_error_title">Nešto nije u redu…</string>
+  <string name="unkown_error_title">"Ne mogu preuzeti"</string>
   <string name="unstable_build">Nestabilno</string>
   <string name="update_comment_hint"/>
   <string name="update_comment_title">Komentar</string>

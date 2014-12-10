@@ -12,6 +12,17 @@
         <item>Često korišteno</item>
         <item>Veličina</item>
     </string-array>
+    <string-array name="auto_clean_time">
+        <item>Dnevno</item>
+        <item>Svaka 3 dana</item>
+        <item>Svakih 7 dana</item>
+    </string-array>
+    <string-array name="auto_clean_size">
+        <item>100MB</item>
+        <item>300MB</item>
+        <item>500MB</item>
+        <item>1GB</item>
+    </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Nakon 1 minute</item>
         <item>Nakon 5 minuta</item>

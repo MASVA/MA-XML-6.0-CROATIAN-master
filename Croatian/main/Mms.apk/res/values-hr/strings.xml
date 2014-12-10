@@ -253,12 +253,12 @@
   <string name="mx_auto_resend_sms">Pošalji kao SMS poruku</string>
   <string name="mx_auto_resend_sms_summary">Pošalji kao SMS poruku preko mobilne podatkovne veze kada niste spojeni na WLAN. Snosite redovite troškove vašeg davatelja usluga.</string>
   <string name="mx_btn_enable">Aktiviraj</string>
-  <string name="mx_btn_enable_now">Uključi</string>
+  <string name="mx_btn_enable_now">Aktiviraj</string>
   <string name="mx_count_dspt">Poslali ste %1$d SMS-a i %2$d MMS-a</string>
   <string name="mx_current_status">Online</string>
-  <string name="mx_dspt">Mi Poruke vam omogućuju da šaljete i primate poruke s bilo kim drugim koristeći MIUI</string>
+  <string name="mx_dspt">Mi Poruke omogućuju vam da šaljete poruke drugim MIUI korisnicima bez nastanka SMS troškova</string>
   <string name="mx_enable">Mi Poruke</string>
-  <string name="mx_enable_popup_msg">Besplatno šaljite i primajte poruke s drugim korisnicima koji koriste ovu značajku.</string>
+  <string name="mx_enable_popup_msg">Mi Poruke omogućuju vam da šaljete poruke drugim MIUI korisnicima bez nastanka SMS troškova</string>
   <string name="mx_msg">Mi Poruke</string>
   <string name="mx_offline">Bez mreže</string>
   <string name="mx_on_sim_1">Mi Poruka sa SIM utora 1</string>
@@ -266,7 +266,7 @@
   <string name="mx_online">Online</string>
   <string name="mx_reactivate">Ponovno aktivirajte Mi Poruke</string>
   <string name="mx_recommend_msg">Dodirnite da uključite Mi Poruke</string>
-  <string name="mx_type_guide">Besplatni Internet omogućuje slanje besplatnih SMS poruka između MIUI korisnika putem WLAN-a ili mobilne podatkovne mreže</string>
+  <string name="mx_type_guide">Mi Poruke omogućuju vam da šaljete poruke drugim MIUI korisnicima bez nastanka SMS troškova</string>
   <string name="my_bookmark">Oznake</string>
   <string name="need_download">Sinkroniziram…</string>
   <string name="new_message">Nova poruka</string>

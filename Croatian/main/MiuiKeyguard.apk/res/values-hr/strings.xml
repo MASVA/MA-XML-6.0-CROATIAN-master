@@ -21,7 +21,7 @@
     <string name="input_password_hint_text">Unesite zaporku</string>
     <string name="input_pin_code">Unesite PIN</string>
     <string name="input_puk_code">Unesite PUK</string>
-	 <string name="invalid_confirm_pin_hint">"PIN-ovi se ne podudaraju"</string>
+	<string name="invalid_confirm_pin_hint">"PIN-ovi se ne podudaraju"</string>
 	<string name="keyguard_torch_cover_text">Da zadržite svjetiljku upaljenom, pritisnite gumb za uključivanje</string>
     <string name="lock_screen_date">EEEE, dd.MM.yyyy</string>
     <string name="lockscreen_access_pattern_cell_added">Ćelija dodana</string>
@@ -31,7 +31,7 @@
     <string name="lockscreen_charging_msg">Punjenje</string>
     <string name="lockscreen_emergency_call">Hitan poziv</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Netočno ste pokušali otključati telefon %d puta. Nakon još %d neuspjelih pokušaja, telefon će se resetirati na tvorničke postavke i svi korisnički podaci će biti izgubljeni.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Netočno ste unijeli zaporku %d puta. Nakon još %d neuspjelih pokušaja, od vas će se tražiti prijava na vaš račun kako bi otključali telefon .
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Netočno ste unijeli zaporku %d puta. Nakon još %d neuspjelih pokušaja, od vas će se tražiti prijava na vaš račun kako bi otključali telefon .
 Pokušajte ponovo za %d sek."</string>
     <string name="lockscreen_failed_attempts_now_wiping">Netočno ste pokušali otključati telefon %d puta. Telefon će se vratiti na tvorničke postavke.</string>
     <string name="lockscreen_glogin_checking_password">Provjera…</string>
@@ -46,6 +46,7 @@ Pokušajte ponovo za %d sek."</string>
     <string name="phone_locked_timeout_minutes_string">Pokušajte ponovo za %s min.</string>
     <string name="phone_locked_timeout_seconds_string">Pokušajte ponovo za %s sek.</string>
     <string name="unlock_sim_string">Otključaj SIM</string>
+	<string name="unlock_string">Otključaj</string>
     <string name="unlocking_sim_card">Otključavanje SIM kartice</string>
     <string name="unlockscreen_low_battery">Priključite punjač</string>
     <string name="unlockscreen_recharge_completed">Baterija puna</string>

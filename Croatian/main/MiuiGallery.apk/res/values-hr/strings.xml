@@ -58,7 +58,6 @@
   <string name="auto_create_recent_album_confirm">"Galerija će izbrisati podatke omiljenih albuma. Albumi koji ste označili ručno kao omiljene biti pogođeni."</string>
   <string name="auto_create_recent_album_over_ten_times">Album će biti označen kao omiljen nakon otvaranja više od 10 puta</string>
   <string name="auto_upload_album_comfirm_to_share">To je album koji će biti automatski učitan, jeste li sigurni da ga želite podijeliti?</string>
-  <string name="auto_upload_tip">Ako album s istim imenom već postoji u cloudu, albumi će biti spojeni.</string>
   <string name="auto_upload_title">Učitaj automatski</string>
   <string name="autofix">Aut. popravak</string>
   <string name="autohomemain">Autohomemain</string>
@@ -316,15 +315,21 @@
   <string name="message_no_delete_access">"Nemate dopuštenje za brisanje %s"</string>
   <string name="message_no_delete_access_with_count">Nemate dopuštenje za brisanje %s datoteka"</string>
   <string name="messagelist_sender_self">Ja</string>
+  <string name="miliao">MiTalk</string>
   <string name="miliao_folder_display_name">MiTalk</string>
   <string name="miliao_painting_folder_display_name">MiTalk bojanje</string>
   <string name="miliao_saved_folder_display_name">MiTalk spremljen</string>
   <string name="mimetype">Vrsta MIME-a</string>
+  <string name="mishop">MiShop</string>
   <string name="mipc_1">Džepni fotoaparat</string>
   <string name="mishop_saved_folder_display_name">MiStore spremljen</string>
   <string name="miui_capture_screen_folder_display_name">Snimak zaslona</string>
   <string name="miui_wallpaper">Pozadina</string>
   <string name="modified_time">Promjenjeno</string>
+  <string name="moman">MomanCamera</string>
+  <string name="moman_camera_drawing">Moman Camera crtanje</string>
+  <string name="moman_camera_icon">Moman Camera emotikon</string>
+  <string name="moman_camera_picture">Moman Camera slike</string>
   <string name="more">Više</string>
   <string name="move">Premjesti</string>
   <string name="move_to_cloud_album">Premjesti u</string>
@@ -404,6 +409,7 @@
   <string name="picker_tab_photo">Fotografija</string>
   <string name="pocket_camera_picture">Slike džepne kamere</string>
   <string name="pocket_camera_video">Videozapisi džepne kamere</string>
+  <string name="pocketcamera">Džepnakamera</string>
   <string name="posterize">Posterizacija</string>
   <string name="ppmm_gallery">PPMM</string>
   <string name="preparing_data_to_delete">Priprema za brisanje slika…</string>
@@ -414,8 +420,11 @@
   <string name="publish_failed">"Ne mogu objaviti"</string>
   <string name="publish_succeeded">Album je objavljen</string>
   <string name="publishing">Objavljivanje…</string>
+  <string name="qq">QQ</string>
   <string name="qqbrowser_img">QQ Preglednik</string>
   <string name="qsbk_save">QSBK</string>
+  <string name="quotation">\"%s\"</string>
+  <string name="qzone">QZone</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recognizing_image">Prepoznavanje slike…</string>
   <string name="redeye">Crvene oči</string>
@@ -495,7 +504,7 @@ cloudu na i.mi.com</string>
   <string name="show_images_only">Samo slike</string>
   <string name="show_on_map">Pokaži na karti</string>
   <string name="show_videos_only">Samo videozapisi</string>
-  <string name="sina_weibo_save">Weibo</string>
+  <string name="sina_weibo">Weibo</string>
   <string name="size_above">%1$s ili više</string>
   <string name="size_below">%1$s ili manje</string>
   <string name="size_between">%1$s do %2$s</string>
@@ -523,6 +532,7 @@ cloudu na i.mi.com</string>
   <string name="sync_only_in_wifi">Koristi samo WLAN za učitavanje fotografija</string>
   <string name="sync_only_in_wifi_alert">Isključivanje ove opcije može povećati vašu uporabu podataka.</string>
   <string name="sync_only_in_wifi_summary">Nikada ne koristi mobilnu podatkovnu vezu za učitavanje fotografija</string>
+  <string name="sync_third_party_app_pic_summary">Učitaj automatski fotografije u mapi neke aplikacije na vaš cloud</string>
   <string name="system_album">Album sustava</string>
   <string name="tab_all_text">Postavi oboje</string>
   <string name="tab_lockscreen_text">Zaključani zaslon</string>
@@ -548,6 +558,7 @@ cloudu na i.mi.com</string>
   <string name="ubifocus_refocus_data_missing">"Ne mogu ponovno fokusirati jer neki podaci ove slike nedostaju"</string>
   <string name="ubifocus_refocus_download_tip">"Morate preuzeti podatke o ovoj slici prije ponovnog fokusiranja."</string>
   <string name="ubifocus_refocus_map_error">"Ne mogu ponovno fokusirati jer neki podaci ove slike  pogreške"</string>
+  <string name="uc">UC</string>
   <string name="ucdownloads_screenshot">UC Preglednik</string>
   <string name="unit_mm">mm</string>
   <string name="unpublish_failed">"Ne mogu poništiti objavljivanje"</string>
@@ -562,6 +573,8 @@ cloudu na i.mi.com</string>
   <string name="wallpaper">Slika pozadine</string>
   <string name="wandoujia">SnapPea</string>
   <string name="warn">Upozorenje</string>
+  <string name="wechat">WeChat</string>
+  <string name="weibo">Weibo</string>
   <string name="weikan_weikan">Weikan TV</string>
   <string name="weixin">WeChat</string>
   <string name="where_is_barcode">Gdje je QR kod?</string>
@@ -571,6 +584,7 @@ cloudu na i.mi.com</string>
   <string name="widget_type_photo">Odaberi sliku</string>
   <string name="widget_type_shuffle">Nasumično prikaži sve slike</string>
   <string name="width">Širina</string>
+  <string name="wps">WPS</string>
   <string name="yellow_page">Direktorij</string>
   <string name="yes">Da</string>
   <string name="yunyi_pocket_camera">Džepna kamera</string>
