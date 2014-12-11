@@ -128,11 +128,6 @@ Provjerite vaš lokalni datum i pokušajte ponovno."</string>
    <string name="mipay_nfc_warning_toast_move">"To je prebrzo"</string>
    <string name="mipay_nfc_warning_toast_support">"Ova kartica nije podržana"</string>
    <string name="mipay_nfc_warning_toast_unknown">Nešto je pošlo po krivu</string>
-   <string name="mipay_nfc_trans_card_details_title">Trans kartica</string>
-   <string name="mipay_nfc_warning">Držite ponovno karticu na stražnjoj strani uređaja</string>
-   <string name="mipay_nfc_warning_suport">*Ova funkcija podržava samo dodatnu trans karticu</string>
-   <string name="mipay_nfc_warning_toast_move">Prebrzo pomičete</string>
-   <string name="mipay_nfc_warning_toast_support">Ova kartica nije podržana</string>
    <string name="mipay_order_bank_card_info">%1$s %2$s (Kartica br. %3$s) %4$s</string>
    <string name="mipay_order_change">Zamijeni</string>
    <string name="mipay_order_choose">Koristi:</string>
