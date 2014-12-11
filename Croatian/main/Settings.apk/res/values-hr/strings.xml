@@ -943,6 +943,9 @@ Neke aplikacije neće raditi dok ih ne ažuriraju njihovi razvijatelji."</string
   <string name="font_size_save">"U redu"</string>
   <string name="font_size_small">Malo</string>
   <string name="font_size_summary">Promijeni veličinu fonta operativnog sustava</string>
+  <string name="font_size_summary1">"
+Nezadovoljni? Pokušajte"</string>
+  <string name="font_size_summary2">JeeJen Home</string>
   <string name="force_hw_ui">Prisilno GPU renderiranje</string>
   <string name="force_hw_ui_summary">Prisilna upotreba GPU-a za 2D iscrtavanje</string>
   <string name="force_msaa">Nametni 4x MSAA</string>
@@ -2170,6 +2173,8 @@ Googleov pristup sinkronizaciji podataka za mogućnost pristupa kontaktima, sast
   <string name="timezone_settings">Vremenska zona</string>
   <string name="title_color_calibration">Način Korekcija boja</string>
   <string name="title_dolby_control">Dolby digital plus</string>
+  <string name="title_font">Font</string>
+  <string name="title_font_current">Trenutan</string>
   <string name="title_font_size">Veličina fonta</string>
   <string name="title_hdmi_color_calibration">Pohranjene postavke korekcije boje</string>
   <string name="title_local_resource">Lokalni resursi</string>

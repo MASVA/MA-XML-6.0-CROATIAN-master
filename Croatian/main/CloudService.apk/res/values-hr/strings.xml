@@ -179,6 +179,8 @@ Možete uključiti/isključiti tu značajku bilo kada u Postavkama."</string>
   <string name="only_in_wlan">Samo preko WLAN-a</string>
   <string name="other_settings">Ostale postavke</string>
   <string name="password">Unesite zaporku</string>
+  <string name="phone_number_may_required_dspt_provision">"Ova usluga može zahtijevati vaš broj telefona. "</string>
+  <string name="phone_number_required_dspt_provision">"Ova usluga zahtijeva vaš broj telefona. "</string>
   <string name="photo">Fotografije</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">"Sinkronizacija slike kontakata samo kada ste povezani na WLAN mreže"</string>
   <string name="pref_title_sync_contacts_title">Sinkroniziraj kontakte</string>

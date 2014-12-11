@@ -182,8 +182,8 @@
   <string name="handle_text_cache">Predmemorija</string>
   <string name="handle_text_memory">Memorija</string>
   <string name="handle_text_system">Sustav</string>
-  <string name="header_antivirus">"Korištenjem ove značajke, pristajete na Tencent "href="http://misc.3g.qq.com/g/agreement/index.jsp?id=7" Uvjeti pružanja usluge</string>
-  <string name="header_optimizer">"Korištenjem ove značajke, pristajete na Clean Master "href="http://www.cmcm.com/about/privacy_zh.html?p=cm" Uvjeti pružanja usluge</string>
+  <string name="header_antivirus">"Korištenjem ove značajke, pristajete na Tencent "href="http://www.tencent.com/en-us/zc/privacypolicy.shtml"&gt;Pravila o Privatnosti&lt;/a&gt;.</string>
+  <string name="header_optimizer">"Korištenjem ove značajke, pristajete na Cheetah Mobile "&lt;a href="https://www.cmcm.com/protocol/site/privacy.html"&gt;Pravila o Privatnosti&lt;/a&gt;.</string>
   <string name="hints_ad_header_left">Reklama: %d</string>
   <string name="hints_apk_header_left">Instal.aplik.: %d</string>
   <string name="hints_apk_version">Verzija %s</string>
@@ -320,6 +320,8 @@
   <string name="msg_update_error_code_no_newer_db">Čistač je u toku s ažuriranjima</string>
   <string name="msg_update_error_code_success">Ažurirano uspješno</string>
   <string name="msg_update_error_code_unknown_error">Nepoznata greška.</string>
+  <string name="name_antivirus">"Tencent Pravila o Privatnosti"</string> 
+  <string name="name_optimizer">"Cheetah Mobile Pravila o Privatnosti"</string>
   <string name="never">Jedanput</string>
   <string name="notification_button_text_of_low_memory">Očisti</string>
   <string name="notification_summary_of_garbage_cleanup">Veličina smeća je preko %s.</string>
@@ -551,7 +553,7 @@
   <string name="st_title_mode_choose_group">Odaberi profil</string>
   <string name="suffix_virus_count_bottom">ukupno</string>
   <string name="suffix_virus_count_top">rizika</string>
-  <string name="summary_antivirus">Pošaljite i skenirajte nazive aplikacija koristeći online definicije virusa</string>
+  <string name="summary_antivirus">Pošaljite i skenirajte nazive aplikacija koristeći online definicije virusa.</string>
   <string name="summary_cleaner_cloudscan">Pošaljite i usporedite nepoznate nazive datoteka s online definicijama</string>
   <string name="summary_cloud_account">Dobijte najviše od Vašeg Mi Uređaja.</string>
   <string name="summary_cloud_service">Sinkronizirajte vaše fotografije, kontakte, i više na svim vašim uređajima</string>
@@ -565,7 +567,7 @@
   <string name="summary_install_virus">Provjerite aplikacije za virusima prije instalacije</string>
   <string name="summary_miui_update">Ažuriranje dostupno za %s.</string>
   <string name="summary_mms">Filtriraj neželjene poruke (prodaja, oglasi, itd.)</string>
-  <string name="summary_optimizer">Pošaljite i usporedite nepoznate nazive datoteka s online definicijama</string>
+  <string name="summary_optimizer">"Ova značajka učitava nazive nepoznatih datoteka da ažurira Cleaner online bazu podataka te zahtijeva ID vašeg uređaja</string>
   <string name="summary_permission">Zaštiti moju privatnost od drugih aplikacija</string>
   <string name="summary_permission_root">Vaš uređaj i osobni podaci su ranjiviji na napad od aplikacija koje imaju ROOT pristup.</string>
   <string name="summary_power_optimizer">"Smanjite performanse vašeg uređaja kada je baterija na niskoj razini"</string>
@@ -578,9 +580,9 @@
   <string name="summary_virus_update">Automatsko ažuriranje virusnih definicija kada je spojen na WLAN</string>
   <string name="system_check_content">%1$d sumnjivih stavki</string>
   <string name="system_header_title">Čišćenjem %1$d procesa oslobođeno %2$s memorije</string>
-  <string name="text_antivirus">Koristite online definicije virusa</string>
-  <string name="text_optimizer">Koristite online Čistač</string>
-  <string name="title_antivirus">Skeniranje virusa</string>
+  <string name="text_antivirus">Učitaj nazive aplikacija i detalje</string>
+  <string name="text_optimizer">Učitaj nazive nepoznatih datoteka</string>
+  <string name="title_antivirus">Uvjeti i Odredbe</string>
   <string name="title_app_update">Dostupna ažuriranja</string>
   <string name="title_app_update_no">Pronađeno ažuriranja: %d</string>
   <string name="title_app_update_yes">Nema pronađenih ažuriranja</string>
@@ -603,7 +605,7 @@
   <string name="title_miui_update_yes">Nema pronađenih ažuriranja</string>
   <string name="title_mms_no">Filter poruka je isključen</string>
   <string name="title_mms_yes">Filter poruka je uključen</string>
-  <string name="title_optimizer">Čistač</string>
+  <string name="title_optimizer">Uvjeti i Odredbe</string>
   <string name="title_permission_no">Upravitelj dopuštenja isključen</string>
   <string name="title_permission_root">Upozorenje ROOT pristupa</string>
   <string name="title_permission_yes">Upravitelj dopuštenja uključen</string>
