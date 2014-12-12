@@ -260,6 +260,6 @@
   <string name="ultra_high_quality">Najviša</string>
   <string name="unknown_album_name">Nepoznati album</string>
   <string name="unknown_artist_name">Nepoznati izvođač</string>
-  <string name="valid_period">"Valjani: "</string>
+  <string name="valid_period">"Vrijedi do: "</string>
   <string name="vip_recommend_title">Nabavite višu kvalitetu glazbe</string>
 </resources> 
