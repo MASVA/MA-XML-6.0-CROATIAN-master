@@ -1530,7 +1530,7 @@ i pokrenite ga."</string>
   <string name="permission_detail_info">Dopuštenja</string>
   <string name="permission_detail_info_summary">%1$d sigurnost | %2$d privatnost | %3$d ostalo</string>
   <string name="permission_manage">Upravitelj dopuštenja</string>
-  <string name="permission_manage_summary">Pitaj za dopuštenje prije nego se dopusti aplikacijama čitanje vaših kontakata, prikaz vašeg zapisnika poziva, promjeni postavki sustava, ili pristupu kameri i ostalim resursima uređaja</string>
+  <string name="permission_manage_summary">Pitaj za dopuštenje prije nego se dopusti aplikacijama čitanje vaših kontakata, prikaz vaše povijesti poziva, promjeni postavki sustava, ili pristupu kameri i ostalim resursima uređaja</string>
   <string name="permission_manage_title">Dopuštenja %s</string>
   <string name="permission_manager">Dopuštenja</string>
   <string name="permission_mgr">Dopuštenja</string>

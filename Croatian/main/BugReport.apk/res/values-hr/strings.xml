@@ -75,6 +75,10 @@
   <string name="section_screenshot">Snimka zaslona</string>
   <string name="signal_problem1">Nema signala</string>
   <string name="signal_problem2">Slabi signal</string>
+  <string name="submit_dialog_cancel">Odustani</string>
+  <string name="submit_dialog_confirm">Pošalji</string>
+  <string name="submit_dialog_content">"Vaše povratne informacije, zajedno s izvješćima pogrešaka i priloženim slikama, biti će poslani na Xiaomi poslužitelje."</string>
+  <string name="submit_dialog_title">Pošalji izvješće Xiaomi-u</string>
   <string name="suggestion_description">Napišite ovdje svoj prijedlog</string>
   <string name="suggestion_problem1">"Recite nam koje značajke bi željeli vidjeti u budućnosti"</string>
   <string name="system_app_select">MIUI aplikacije</string>
@@ -83,7 +87,7 @@
   <string name="title_hot_problem">Nedavne greške</string>
   <string name="toast_description_required">Potreban je opis</string>
   <string name="toast_feedback_network_unavailable">"Ne mogu se spojiti na mrežu"</string>
-  <string name="toast_feedback_pending_wlan">"Izvješće će biti poslano kada budete povezani na WLAN mrežu. Korisničko mišljenje će biti poslano kada WLAN mreža bude dostupna."</string>
+  <string name="toast_feedback_pending_wlan">"Izvješće će biti poslano kada budete povezani na WLAN mrežu. Pov. informacija će biti poslana kada WLAN mreža bude dostupna."</string>
   <string name="toast_feedback_submitted">Izvješće je poslano</string>
   <string name="toast_feedbackservice_in_submit">Slanje prethodnih informacija…</string>
   <string name="toast_pending_log_collection">Još prikupljam zapise…</string>

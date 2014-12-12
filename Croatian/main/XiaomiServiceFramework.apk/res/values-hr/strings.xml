@@ -3,9 +3,9 @@
   <string name="accept">U redu</string>
   <string name="app_name">Xiaomi Aktivacija</string>
   <string name="activate">Aktiviraj</string>
-  <string name="activate_feature_call_log_sync">Sinkr. zapisnika poziva</string>
+  <string name="activate_feature_call_log_sync">Sinkr. povijest poziva</string>
   <string name="activate_feature_find_device">Pronađi uređaj</string>
-  <string name="activate_feature_mms_sync">SMS sinkr.</string>
+  <string name="activate_feature_mms_sync">Sinkr. SMS</string>
   <string name="activate_feature_mx">Mi Poruke</string>
   <string name="activate_phone_failed_notif_title">"Ne mogu aktivirati SIM karticu"</string>
   <string name="activate_phone_failed_notif_title_msim">"Ne mogu aktivirati SIM karticu %s"</string>

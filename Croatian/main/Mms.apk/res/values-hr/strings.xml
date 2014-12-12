@@ -238,6 +238,7 @@
   <string name="msglist_release_to_more">Otpustite da bi vidjeli više</string>
   <string name="multimedia_message">MMS</string>
   <string name="multimedia_notification">Obavijest o MMS-u</string>
+  <string name="mx_activate_dlg_title">Aktiviraj Mi Poruke</string>
   <string name="mx_activate_error_malformed_info">Morate ponovno aktivirati Mi Poruke</string>
   <string name="mx_activate_error_server">"Ne mogu aktivirati"</string>
   <string name="mx_activate_error_sim_change">SIM kartica je promjenjena. Morate ponovno aktivirati Mi Poruke.</string>
@@ -248,6 +249,7 @@
   <string name="mx_activate_int_hint_malformed_info">Vaš davatelj usluga vam može naplatiti međunarodni SMS korišten za ponovno aktiviranje Mi Poruka.</string>
   <string name="mx_activate_int_hint_server">Vaš davatelj usluga vam može naplatiti međunarodni SMS korišten za ponovno aktiviranje Mi Poruka.</string>
   <string name="mx_activate_int_hint_sim_change">Izgleda da ste promijenili SIM kartice. Vaš davatelj usluga vam može naplatiti SMS korišten za ponovno aktiviranje Mi Poruka."</string>
+  <string name="mx_activate_user_agreement_p1">"Korištenjem ove usluge, slažete se s Mi Poruke "</string>
   <string name="mx_auto_resend_mms">Automatski ponovo pošalji MMS</string>
   <string name="mx_auto_resend_mms_summary">Pošalji kao MMS poruku preko mobilne podatkovne veze kada niste spojeni na WLAN. Snosite redovite troškove vašeg davatelja usluga.</string>
   <string name="mx_auto_resend_sms">Pošalji kao SMS poruku</string>
@@ -257,6 +259,7 @@
   <string name="mx_count_dspt">Poslali ste %1$d SMS-a i %2$d MMS-a</string>
   <string name="mx_current_status">Online</string>
   <string name="mx_dspt">Mi Poruke omogućuju vam da šaljete poruke drugim MIUI korisnicima bez nastanka SMS troškova</string>
+  <string name="mx_dspt_provision">Mi Poruke omogućuju vam da šaljete poruke drugim MIUI korisnicima bez nastanka SMS troškova. Vaš davatelj usluga vam može naplatiti SMS poruku korištenu za aktiviranje ove usluge.</string>
   <string name="mx_enable">Mi Poruke</string>
   <string name="mx_enable_popup_msg">Mi Poruke omogućuju vam da šaljete poruke drugim MIUI korisnicima bez nastanka SMS troškova</string>
   <string name="mx_msg">Mi Poruke</string>
@@ -507,7 +510,7 @@ Provedeni pokušaj: %s."</string>
   <string name="unsticked_conversation">Trenutan razgovor već odznačen</string>
   <string name="unsupported_media_format">Nepodržani %1$s format</string>
   <string name="user_agreement1">Pročitajte važeće uvjete pažljivo prije nego li instalirate dodatan softver ili koristite ovaj proizvod.</string>
-  <string name="user_agreement2">" Korisnički Sporazum"</string>
+  <string name="user_agreement2">Korisnički Sporazum</string>
   <string name="user_agreement3">" i "</string>
   <string name="user_agreement4">Pravila o Privatnosti</string>
   <string name="user_agreement5">Dodirivanjem "U redu", slažete se s našim Korisnički Sporazum i Pravila o Privatnosti.</string>
