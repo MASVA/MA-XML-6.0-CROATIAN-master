@@ -172,7 +172,7 @@
   <string name="music_quality">Kvaliteta glazbe</string>
   <string name="music_settings">Glazba</string>
   <string name="my_account">Mi Račun</string>
-  <string name="my_music">Lokalno</string>
+  <string name="my_music">Moja Glazba</string>
   <string name="my_music_empty">Popis pjesama je prazan</string>
   <string name="my_music_empty_goto_online">Nema pronađenih pjesama</string>
   <string name="my_playlist">Moj popis pjesama</string>
@@ -192,7 +192,7 @@
   <string name="not_login">Niste prijavljeni</string>
   <string name="not_selected">Odaberi pjesmu</string>
   <string name="ok">"U redu"</string>
-  <string name="online_music">Online</string>
+  <string name="online_music">Online Glazba</string>
   <string name="online_playlist_is_empty">Popis pjesama je prazan</string>
   <string name="order_process_fail">"Nije bilo moguće autorizirati vaš račun. Pričekajte nekoliko minuta i pokušajte ponovno."</string>
   <string name="payment_fail">Plaćanje nije uspjelo</string>
