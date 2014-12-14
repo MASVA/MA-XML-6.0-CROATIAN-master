@@ -390,7 +390,7 @@
   <string name="power_chooser_mine_title">Prilagođeno</string>
   <string name="power_chooser_sleep_summary">Onemogući sve funkcije (telefon, SMS, WLAN i podatkovne usluge), osim alarma</string>
   <string name="power_chooser_sleep_title">Mirovanje</string>
-  <string name="power_chooser_smart_summary">Izbriši procese koji se izvode u pozadini kod zaključavanog zaslona</string>
+  <string name="power_chooser_smart_summary">Izbriši procese koji se izvode u pozadini kod zaključanog zaslona</string>
   <string name="power_chooser_smart_title">Zadano</string>
   <string name="power_chooser_standby_summary">Onemogući WLAN i podatkovne usluge</string>
   <string name="power_chooser_standby_title">Maraton</string>
@@ -600,8 +600,8 @@
   <string name="summary_usb">Izbjegavajte širenje virusa putem USB veze</string>
   <string name="summary_virus">Otkriveno virusa: %2$d</string>
   <string name="summary_virus_cloudscan">Pošaljite i skenirajte nazive i detalje aplikacija koristeći online definicije virusa</string>
-  <string name="summary_virus_update">Automatsko ažuriranje virusnih definicija kada je spojen na WLAN</string>
-  <string name="system_check_content">%1$d sumnjivih stavki</string>
+  <string name="summary_virus_update">Automatsko ažuriranje virusnih definicija kada je povezano na WLAN</string>
+  <string name="system_check_content">sumnjivih stavki %1$d</string>
   <string name="system_header_title">Čišćenjem %1$d procesa oslobođeno %2$s memorije</string>
   <string name="text_antivirus">Učitaj nazive aplikacija i detalje</string>
   <string name="text_antivirus_oversea">Update virus definitions</string>
