@@ -27,13 +27,13 @@ Svi postojeći podaci aplikacije će biti spremljeni."</string>
   <string name="install_confirm_question">Instalirati ovu aplikaciju?</string>
   <string name="install_done">Aplikacija instalirana</string>
   <string name="install_failed">Aplikacija nije instalirana</string>
-  <string name="install_failed_cpu_abi_incompatible">"Ova aplikacija nije kompatibilna s vašim telefonom."</string>
+  <string name="install_failed_cpu_abi_incompatible">"Ova aplikacija nije kompatibilna s vašim uređajem."</string>
   <string name="install_failed_file_not_found">Odabrani paket je izbrisan prije nego što se instalacija mogla biti dovršiti.</string>
   <string name="install_failed_inconsistent_certificates">Već je instaliran postojeći paket s istim imenom i konfliktnim potpisom.</string>
   <string name="install_failed_invalid_apk">Čini se da je paket oštećen.</string>
-  <string name="install_failed_msg">Aplikaciju %1$s nije moguće instalirati na vaš telefon.</string>
+  <string name="install_failed_msg">Aplikaciju %1$s nije moguće instalirati na vaš uređaj.</string>
   <string name="install_failed_older_sdk">Ovaj paket funkcionira samo na novijim verzijama Androida.</string>
-  <string name="install_failed_system_incompatible">"Ova aplikacije nije kompatibilna s MIUI"</string>
+  <string name="install_failed_system_incompatible">"Ova aplikacija nije kompatibilna s MIUI"</string>
   <string name="install_failed_verify_failed">Paket nije prošao provjeru i ne može se instalirati.</string>
   <string name="install_failed_verify_timeout">Isteklo je vrijeme za pokušaj potvrde ovog paketa. Pokušajte ga kasnije ponovo instalirati.</string>
   <string name="installing">Instaliranje…</string>
@@ -51,17 +51,17 @@ Svi postojeći podaci aplikacije će biti spremljeni."</string>
   <string name="perm_action_reject">Odbij</string>
   <string name="perm_notice">Pažnja</string>
   <string name="perm_privacy_app_finish">U redu</string>
-  <string name="perm_privacy_app_installed">Aplikacija instalirana</string>
+  <string name="perm_privacy_app_installed">Aplikacija je instalirana</string>
   <string name="perm_privacy_app_launch">Pokreni</string>
   <string name="perm_privacy_app_trust">Pitaj za dopuštenje</string>
-  <string name="perm_privacy_app_trust_summary">Pitaj me kada je ova aplikacija pokušava pristupiti drugim dijelovima sustava</string>
+  <string name="perm_privacy_app_trust_summary">Pitaj me kada ova aplikacija pokušava pristupiti drugim dijelovima sustava</string>
   <string name="perm_sysopt_boost_auto_start">Dopuštenja automatskog pokretanja</string>
   <string name="perm_sysopt_boost_auto_start_summary">Ova se aplikacija može pokrenuti automatski</string>
   <string name="permission_action_accept">Dopusti</string>
   <string name="permission_action_prompt">Pitaj</string>
   <string name="permission_action_reject">Odbij</string>
   <string name="permission_group_title_charges_related">Telefon</string>
-  <string name="permission_group_title_media_related">Medija</string>
+  <string name="permission_group_title_media_related">Medij</string>
   <string name="permission_group_title_others">Ostalo</string>
   <string name="permission_group_title_privacy_related">Privatnost</string>
   <string name="permission_group_title_settings_related">Postavke</string>
@@ -90,7 +90,7 @@ Svi postojeći podaci aplikacije će biti spremljeni."</string>
   <string name="unknown_installer">Nepoznat PC alat</string>
   <string name="virus_scan_caller_unknown">Nepoznato</string>
   <string name="virus_scan_clear">Ukloni</string>
-  <string name="virus_scan_install">&lt;u&gt;Instaliraj svejedno&lt;/u&gt;</string>
+  <string name="virus_scan_install">Instaliraj svejedno</string>
   <string name="virus_scan_is_risk">"Ovaj aplikacija predstavlja rizik za sigurnost vašeg uređaja."</string>
-  <string name="virus_scan_is_virus">Ova aplikacija sadrži virus,</string>
+  <string name="virus_scan_is_virus">Ova aplikacija sadrži virus.</string>
 </resources>

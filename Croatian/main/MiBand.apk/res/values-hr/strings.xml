@@ -30,6 +30,7 @@ Uvjeti pružanja usluge: %2$s"</string>
   <string name="awake_format">, probudio se %1$s puta.</string>
   <string name="awake_format_1">, probudio se jednom.</string>
   <string name="back">Natrag</string> 
+  <string name="band">MiBand</string>
   <string name="battery">baterije</string>
   <string name="battery_charge_full">Baterija napunjena</string> 
   <string name="battery_charging">Punjenje…</string> 
@@ -47,6 +48,7 @@ Uvjeti pružanja usluge: %2$s"</string>
   <string name="bind_qq_health_tip">"Za sinkronizaciju informacija koraka i spavanja za QQ Health Platform,
 trebate dostupnu mrežu."</string>
   <string name="bind_qq_health_title">Dodaj QQ Račun</string>
+  <string name="bind_weight_scale">Povežite ljestvice težine</string>
   <string name="bind_weixin_failed">"Ne mogu generirati QR kod"</string>
   <string name="bind_weixin_new_disable_tips">"Da biste podijeliti svoje fitness podatke sa svojim prijateljima,
 dodajte vaš WeChat Račun i zatim slijedite Mi Band Service Account."</string>
@@ -79,6 +81,10 @@ Adresa: %2$s"</string>
   <string name="bracelet_not_found_title">"Pobrinite se da je baterija napunjena."</string> 
   <string name="bracelet_store_desc">Band trgovina</string>
   <string name="bt_operation_failed_tips">Bluetooth ne radi ispravno. Pričekajte minutu ili dvije i pokušajte ponovno.</string> 
+  <string name="btn_confirm">Da</string>
+  <string name="btn_continue">Ne</string>
+  <string name="btn_delete">Izbriši</string>
+  <string name="btn_save">Spremi</string>
   <string name="buy_bracelet_desc">Kupite si band.</string>
   <string name="cal">kal</string> 
   <string name="cancel">Odustani</string> 
@@ -91,6 +97,8 @@ Adresa: %2$s"</string>
   <string name="confirm">U redu</string> 
   <string name="confirm_lazy_day">Označiti današnji dan lijenim?</string>
   <string name="connect_bracelet_now">Povezivanje…</string> 
+  <string name="connected_broadcast">连接中广播</string>
+  <string name="connected_broadcast_tips">用于测试门禁的使用</string>
   <string name="content_too_short">Unesite sadržaj poruke</string> 
   <string name="continue_reach_goal"> ciljevi</string> 
   <string name="continue_reach_goal_new_record">Postignut novi rekord</string>
@@ -113,10 +121,12 @@ Adresa: %2$s"</string>
   <string name="date_yesterday">Jučer</string> 
   <string name="day">Dana</string> 
   <string name="day_active_detail">Detalji</string> 
+  <string name="debug_host_label">添加测试主机地址：</string>
   <string name="device_list">Dostupni uređaji</string> 
   <string name="device_not_found_not_knocked">"Ne mogu pronaći band. Za uparivanje, dodirnite metalni dio banda kada zatreperi."</string> 
   <string name="device_not_response">"Svjetla ne trepere?"</string> 
   <string name="disable_debug_log">Zapis ispravljanja grešaka isključen</string>
+  <string name="disable_hidden_feature">Skrivena aktivnost onemogućena</string>
   <string name="discard">Odbaciti promjene?</string>
   <string name="discard_alarm_change">Odbaciti promjene?</string>
   <string name="distance">Udaljenost</string> 
@@ -159,7 +169,9 @@ Adresa: %2$s"</string>
   <string name="dynamic_tip_unweared">Bez Mi Banda</string> 
   <string name="dynamic_title_sleep">Prethodna noć</string> 
   <string name="dynamic_title_step">Danas</string> 
+  <string name="dynamic_title_weight">Težina</string>
   <string name="enable_debug_log">Zapis ispravljanja grešaka uključen</string> 
+  <string name="enable_hidden_feature">Skrivena aktivnost omogućena</string>
   <string name="error_code">Pogreška</string> 
   <string name="everyday">Svaki dan</string> 
   <string name="exit_app">Izlaz</string> 
@@ -215,6 +227,9 @@ Adresa: %2$s"</string>
   <string name="help_title_1">"Provjerite bateriju banda"</string>
   <string name="help_title_2">Ponovno pokrenite Bluetooth</string>
   <string name="help_title_3">Je li ovaj band uparen s drugim uređajem?</string>
+  <string name="host_can_not_be_empty">主机地址不能为空</string>
+  <string name="host_change_error">切换主机地址错误</string>
+  <string name="host_change_success">切换主机地址成功</string>
   <string name="hot_des">Energija</string> 
   <string name="hour_1"/>
   <string name="in">U </string>  
@@ -222,7 +237,7 @@ Adresa: %2$s"</string>
   <string name="incoming_call_notify_tips">"Zavibriraj ako ne odgovorim nakon %s sek."</string>
   <string name="input_precise_person_info">Napravite svoj profil</string>
   <string name="instruction_tip_1">"Pogledajte svoj napredak 
-na prvi pogled!"</string>
+u jednom pogledu!"</string>
   <string name="instruction_tip_2_1">"Manje od
 1/3 vašeg cilja"</string>
   <string name="instruction_tip_2_2">"Preko
@@ -238,7 +253,7 @@ cilj za danas."</string>
   <string name="kilogram">kg</string>
   <string name="km">km</string> 
   <string name="lab_factory_cancel_deauthorize">Raspari</string>
-  <string name="lab_factory_cheat_toast">"Nemojte varati~"</string>
+  <string name="lab_factory_cheat_toast">"Nemojte varati!"</string>
   <string name="lab_factory_disconnected_reminder">Isključi podsjetnik</string>
   <string name="lab_factory_disconnected_reminder_disconnect">Prije promjena postavki, uparite band</string>
   <string name="lab_factory_disconnected_reminder_tips">Kada je veza izgubljena, band će zavibrirati</string>
@@ -268,7 +283,7 @@ cilj za danas."</string>
   <string name="lab_factory_sport_finish_desc">Kraj</string>
   <string name="lab_factory_sport_gb_count">Najbolji osobni %d puta</string>
   <string name="lab_factory_sport_group_finish_desc">Trenutna runda %s završena</string>
-  <string name="lab_factory_sport_group_record">Grupna brojka:</string>
+  <string name="lab_factory_sport_group_record">"Rekord grupe: "</string>
   <string name="lab_factory_sport_group_time_cost" formatted="false">Trenutna runda %s košta %s</string>
   <string name="lab_factory_sport_hour">%d H</string>
   <string name="lab_factory_sport_hour_min" formatted="false">%d H%d M</string>
@@ -276,26 +291,26 @@ cilj za danas."</string>
   <string name="lab_factory_sport_hour_sec" formatted="false">%d H%d S</string>
   <string name="lab_factory_sport_min">%d M</string>
   <string name="lab_factory_sport_min_sec" formatted="false">%d M%d S</string>
-  <string name="lab_factory_sport_monitor_bracelet_offline">Band nije izvan mreže</string>
+  <string name="lab_factory_sport_monitor_bracelet_offline">"Band nije povezan"</string>
   <string name="lab_factory_sport_monitor_bracelet_offline_notice">Može učiniti %s nakon što je band povezan odjednom</string>
   <string name="lab_factory_sport_monitor_cancelled_notice">Započeti će automatski brojati kada radite %s s Xiaomi Ring</string>
   <string name="lab_factory_sport_monitor_timeout_notice">Nema otkrivenih događaja u roku od 5 minuta</string>
   <string name="lab_factory_sport_more_sport_favorite_notice">Odaberite samo jedan sport</string>
   <string name="lab_factory_sport_more_sport_favorite_vote">Glasajte za više sportova</string>
-  <string name="lab_factory_sport_pb_count">Neprekidan PB &lt;b&gt;%d&lt;/b&gt;</string>
-  <string name="lab_factory_sport_pb_desc">Neprekidan osobni najbolji od %s</string>
+  <string name="lab_factory_sport_pb_count">Osobni rekord &lt;b&gt;%d&lt;/b&gt;</string>
+  <string name="lab_factory_sport_pb_desc">Osobni rekord: %s</string>
   <string name="lab_factory_sport_pb_ropeskipping">Preskakanje užeta</string>
   <string name="lab_factory_sport_pb_situp">Sit-up</string>
-  <string name="lab_factory_sport_result_cost_cal">Dođe %d Kcal</string>
+  <string name="lab_factory_sport_result_cost_cal">Potrošeno %d Kcal</string>
   <string name="lab_factory_sport_result_dot">", "</string>
   <string name="lab_factory_sport_sec">%d S</string>
-  <string name="lab_factory_sport_share_info_accumulated_time">Akumuliraj</string>
-  <string name="lab_factory_sport_share_info_accumulated_time_once">Akumuliraj</string>
+  <string name="lab_factory_sport_share_info_accumulated_time">Ukupno</string>
+  <string name="lab_factory_sport_share_info_accumulated_time_once">Ukupno</string>
   <string name="lab_factory_sport_share_info_current_accumulation">Akumuliraj</string>
   <string name="lab_factory_sport_share_info_group_record">Rekord grupe</string>
-  <string name="lab_factory_sport_share_info_history_best_record">Povijesni rekord:</string>
-  <string name="lab_factory_sport_share_info_new_record">Bravo</string>
-  <string name="lab_factory_sport_steps_converted">jednako %d koraka</string>
+  <string name="lab_factory_sport_share_info_history_best_record">"Povijesni rekord: "</string>
+  <string name="lab_factory_sport_share_info_new_record">Novi rekord</string>
+  <string name="lab_factory_sport_steps_converted">oko %d koraka</string>
   <string name="lab_factory_sport_timeout">Nema otkrivenih događaja u roku od 2 minute</string>
   <string name="lab_factory_sport_type_badminton">Badminton</string>
   <string name="lab_factory_sport_type_basketball">Košarka</string>
@@ -307,12 +322,12 @@ cilj za danas."</string>
   <string name="lab_factory_sport_type_ropeskipping">Preskakanje užeta</string>
   <string name="lab_factory_sport_type_running">Trčanje</string>
   <string name="lab_factory_sport_type_situp">Sit-up</string>
-  <string name="lab_factory_sport_type_skidding">Tegljenje</string>
-  <string name="lab_factory_sport_type_sliding">Klizanje</string>
+  <string name="lab_factory_sport_type_skidding">Klizanje</string>
+  <string name="lab_factory_sport_type_sliding">Skateboarding</string>
   <string name="lab_factory_sport_type_swimming">Plivanje</string>
   <string name="lab_factory_sport_type_tennis">Tenis</string>
   <string name="lab_factory_sport_type_volleyball">Odbojka</string>
-  <string name="lab_factory_sport_unit">Vremena</string>
+  <string name="lab_factory_sport_unit">puta</string>
   <string name="lab_factory_sport_vote_desc">Glasajte za vaš omiljeni sport</string>
   <string name="lab_factory_sport_vote_others_hint">Unesite vaš omiljeni sport</string>
   <string name="lab_factory_sport_vote_result_desc">Hvala što ste glasali</string>
@@ -423,12 +438,17 @@ ili oko 12.000 koraka dnevno za aktivan, zdrav stil života. "</string>
   <string name="retry">Pokušaj ponovo</string> 
   <string name="right_hand">Desni</string> 
   <string name="runed">Trčanje</string>
+  <string name="running_no_track_desc">"Niste se pomaknuli niti malo. Jeste li sigurni da želite otkazati?"</string>
+  <string name="running_set_pace_desc">Mi band će vibrirati ako je vaš tempo sporiji od postavljenog</string>
+  <string name="running_short_track_desc">Upravo ste se pomaknuli %d m. Jeste li sigurni da želite otkazati?</string>
   <string name="s_mili">Mi Band</string> 
   <string name="search_bracelet">Pretraživanje</string> 
   <string name="search_bracelet_again">Novo pretraživanje</string> 
   <string name="search_bracelet_ok">Mi Band pronađen!</string> 
   <string name="search_devices_info">Stavite Mi Band i držite uređaj u blizini</string> 
   <string name="search_devices_title">Dodaj Mi Banda</string> 
+  <string name="search_weight_scale">Traži ljestvicu težine</string>
+  <string name="search_weight_scale_info">Ostanite u blizini ljestvice težine</string>
   <string name="second">Sekunda</string>
   <string name="select_from_camera">Fotoaparat</string> 
   <string name="select_from_local">Odaberite iz Galerije</string>
@@ -440,6 +460,7 @@ ili oko 12.000 koraka dnevno za aktivan, zdrav stil života. "</string>
   <string name="set_mili_name_ok">Naziv Mi Banda prihvaćen!</string> 
   <string name="set_person_goal">Postavite cilj</string> 
   <string name="set_sport_goal">Postavite ciljeve</string> 
+  <string name="set_unit">Postavite mjeru</string>
   <string name="setting_about_app">Verzija aplikacije:
  Tweaked by dezmen3"</string>
   <string name="setting_about_fw">Verzija </string> 
@@ -518,9 +539,12 @@ Potrošeno %3$s cal. Prethodni rekord je bio %5$s koraka, postavljen %4$s."</str
   <string name="sport_running_burn">Potroši</string>
   <string name="sport_running_cost_cal">%.1f Kcal</string>
   <string name="sport_running_distance">Udaljenost</string>
+  <string name="sport_running_distance_desc">Kilometara</string>
   <string name="sport_running_distance_detail">%.2fkm</string>
+  <string name="sport_running_distance_unit">Udaljenost(km)</string>
   <string name="sport_running_end_time">Završeno</string>
   <string name="sport_running_gps_cancel">Odustani</string>
+  <string name="sport_running_gps_locating">GPS lociranje...</string>
   <string name="sport_running_gps_turnon">Uključi</string>
   <string name="sport_running_helper">Pomoćnik kod trčanja</string>
   <string name="sport_running_helper_test">Test trčanja</string>
@@ -528,26 +552,34 @@ Potrošeno %3$s cal. Prethodni rekord je bio %5$s koraka, postavljen %4$s."</str
   <string name="sport_running_history_date" formatted="false">%d/%d/%d</string>
   <string name="sport_running_history_no_data">Nema podataka</string>
   <string name="sport_running_history_title">Povijest</string>
+  <string name="sport_running_kilometers">km</string>
+  <string name="sport_running_kilometers_per_hour">km/h</string>
+  <string name="sport_running_lable_km_slowest">Km najsporije</string>
+  <string name="sport_running_lable_miles_fastest">Km najbrže</string>
   <string name="sport_running_no_gps">Koristite GPS za praćenje vaše rute</string>
   <string name="sport_running_pace">Tempo</string>
   <string name="sport_running_pace_detail">%s/KM</string>
+  <string name="sport_running_pace_lable">Tempo</string>
   <string name="sport_running_pause">Pauza</string>
-  <string name="sport_running_prepare_map">Priprema mape za dijeljenje…</string>
+  <string name="sport_running_per_kilometers">/km</string>
+  <string name="sport_running_prepare_map">Priprema podataka za dijeljenje…</string>
   <string name="sport_running_prompt_come_on">Kreni!!</string>
   <string name="sport_running_prompt_great">Super!!</string>
   <string name="sport_running_prompt_per_kilometer" formatted="false">Pretrčali ste %s km. To košta %s. Tempo je %s.%s</string>
-  <string name="sport_running_real_time_pace">Stvarni osjećaj tempa</string>
+  <string name="sport_running_real_time_pace">Tempo(m/km)</string>
   <string name="sport_running_resume">Nastavi</string>
   <string name="sport_running_set_dist">Podsjetnik udaljenosti</string>
   <string name="sport_running_set_goal">Podsjetnik ciljeva</string>
+  <string name="sport_running_set_pace">Podesi tempo</string>
   <string name="sport_running_set_speed">Podsjetnik brzine</string>
   <string name="sport_running_settings">Postavke</string>
   <string name="sport_running_slider_prompt">&gt;&gt;&gt;Povuci desno za otključavanje</string>
   <string name="sport_running_speed">Brzina</string>
   <string name="sport_running_speed_detail">%.0fkm/h</string>
+  <string name="sport_running_speed_with_unit">Brzina(km/h)</string>
   <string name="sport_running_start">Start</string>
   <string name="sport_running_start_time">Start</string>
-  <string name="sport_running_step">Koracu</string>
+  <string name="sport_running_step">Koraka</string>
   <string name="sport_running_stop">Stop</string>
   <string name="sport_running_time_desc">Vrijeme</string>
   <string name="sport_share">Podijeli sada</string>
@@ -556,13 +588,13 @@ Potrošeno %3$s cal. Prethodni rekord je bio %5$s koraka, postavljen %4$s."</str
   <string name="start_weixin">Otvori WeChat</string>
   <string name="start_weixin_not_installed">WeChat (nije instaliran)</string>
   <string name="stat_sleep">U krevetu za</string>
-  <string name="stat_sleep_average">Prosj. Ukupno</string>
+  <string name="stat_sleep_average">Ukupan prosjek</string>
   <string name="stat_sleep_deep">Dubok san</string>
-  <string name="stat_sleep_deep_average">Prosj. Dubok san</string>
+  <string name="stat_sleep_deep_average">Prosj. Dubokog sna</string>
   <string name="stat_sleep_rise_time">Probudio se u</string>
   <string name="stat_sleep_rise_time_average">Probudio se u</string>
   <string name="stat_sleep_shallow">Lagan san</string>
-  <string name="stat_sleep_shallow_average">Prosj. Lagan san</string>
+  <string name="stat_sleep_shallow_average">Prosj. Laganog sna</string>
   <string name="stat_sleep_time">Zaspao u</string>
   <string name="stat_sleep_time_average">Zaspao u</string>
   <string name="stat_sleep_wake">Probudio se za</string>
@@ -581,7 +613,7 @@ Potrošeno %3$s cal. Prethodni rekord je bio %5$s koraka, postavljen %4$s."</str
   <string name="stat_step_run_calorie">Potrošeno trčanjem</string>
   <string name="stat_step_run_calories_average">Prosj. Potrošeno trčanjem</string>
   <string name="stat_step_run_distance">Trčano Udaljenost</string>
-  <string name="stat_step_run_distance_average">Prosj. Run Udaljenost</string>
+  <string name="stat_step_run_distance_average">Prosj. Udaljenost trčanja</string>
   <string name="stat_step_run_duration">Vrijeme trčanja</string>
   <string name="stat_step_run_duration_average">Prosj. Vrijeme trčanja</string>
   <string name="stat_step_total">Ukupno koraka</string>
@@ -591,11 +623,13 @@ Potrošeno %3$s cal. Prethodni rekord je bio %5$s koraka, postavljen %4$s."</str
   <string name="stat_step_walk_distance_average">Prosj. Šetnja Udaljenost</string>
   <string name="stat_step_walk_duration">Vrijeme šetanja</string>
   <string name="stat_step_walk_duration_average">Prosj. Vrijeme šetanja</string>
+  <string name="state_authorization_doing">Autorizacija ...</string>
   <string name="state_authorization_error">Neuspjela autorizacija!</string>
   <string name="state_authorization_success">Uspješno autorizirano!</string>
   <string name="state_bind_failed">"Ne mogu dodati račun"</string>
   <string name="state_binded">Prijavljeno</string>
   <string name="state_binded_nickname">Dodan QQ Račun %s</string>
+  <string name="state_deauthorization_doing">Poništavaje autorizacije ...</string>
   <string name="state_deauthorization_error">Neuspjelo poništavanje autorizacije!</string>
   <string name="state_deauthorization_success">Uspješno poništavanje autorizacije!</string>
   <string name="state_unbind_success">Uklonjen QQ Račun</string>
@@ -628,7 +662,8 @@ Potrošeno %3$s cal. Prethodni rekord je bio %5$s koraka, postavljen %4$s."</str
   <string name="unit_meter">m</string>
   <string name="unit_min">min</string>
   <string name="unit_min_short">m</string> 
-  <string name="unit_step">koraka</string> 
+  <string name="unit_sec_short">s</string>
+  <string name="unit_step">koraka</string>
   <string name="unlock_for_smartlock_pair_fail_tip">Povezivanje narukvica nije uspjelo</string>
   <string name="unlock_for_smartlock_pair_start_tip">Povezivanje s narukvicom...</string>
   <string name="unlock_for_smartlock_pair_success_tip">Smart Lock postavljanje uspješno</string>
@@ -681,8 +716,11 @@ Postavke &gt; Sigurnost."</string>
   <string name="weather_description_sand">Pješčana oluja</string>
   <string name="weather_description_snow">Snijeg</string>
   <string name="week"/>
+  <string name="weight_device_list">Ljestvice težine u blizini</string>
+  <string name="weight_scale">Ljestvica težine</string>
   <string name="weight_test_dynamic_detail">Težina：%1$s%2$s</string>
   <string name="weight_test_dynamic_title">%1$s</string>
+  <string name="weight_unbinded">Raskini Ljestvice težine</string>
   <string name="welcom_back">Dobrodošli natrag</string> 
   <string name="welcome">Pozdrav</string> 
   <string name="wrong_system_time">"Vrijeme sustava vašeg uređaja je netočno."</string>
