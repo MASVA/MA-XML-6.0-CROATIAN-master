@@ -12,7 +12,7 @@
   <string name="act_weather_find_city_click_retry">Pokušaj ponovo</string>
   <string name="act_weather_find_city_connect_net">"Ne mogu se povezati na mrežu."</string>
   <string name="act_weather_find_city_net_no_good">"Ne mogu se povezati na mrežu."</string>
-  <string name="act_weather_find_city_no_result">Nema rezutata</string>
+  <string name="act_weather_find_city_no_result">Nema rezultata</string>
   <string name="act_weather_find_city_searching">Pretraživanje…</string>
   <string name="activity_find_city_dialog_cancel">Odustani</string>
   <string name="activity_find_city_dialog_message">Neka Vrijeme koristi uslugu lociranja</string>

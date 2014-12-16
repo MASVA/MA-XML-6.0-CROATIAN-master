@@ -183,7 +183,7 @@
   <string name="connect_disconnect_vibrate_none">Ništa</string>
   <string name="connect_disconnect_vibrate_normal">Normalno</string>
   <string name="connect_disconnect_vibrate_summary">"Zavibriraj kada osoba koju zovete odgovori na poziv"</string>
-  <string name="connect_disconnect_vibrate_title">Zavibriraj kada se ogovori na vaš poziv</string>
+  <string name="connect_disconnect_vibrate_title">Zavibriraj kada se odgovori na vaš poziv</string>
   <string name="connect_disconnect_vibrate_weak">Slaba vibracija</string>
   <string name="connect_later">Povezivanje s tom mrežom trenutačno nije moguće. Pokušajte kasnije.</string>
   <string name="contactAddFailed">"Ne mogu dodati kontakt na SIM karticu"</string>
@@ -337,8 +337,8 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="gsm_umts_options">Opcije za GSM/UMTS</string>
   <string name="hac_mode_summary">Uključi kompatibilnost za pomoć osobama oštećenog sluha</string>
   <string name="hac_mode_title">Pomoć za osobe oštećenog sluha</string>
-  <string name="handon_ringer_summary">Zaustavi vibriranje za dolazne pozive kada se podigne telefon</string>
-  <string name="handon_ringer_title">Zaustavi vibriranje kada je podignut</string>
+  <string name="handon_ringer_summary">"Smanjite glasnoću zvona za dolazne pozive kada je telefon podignut. Ova značajka ne radi kada je vibracija za dolazne pozive uključena."</string>
+  <string name="handon_ringer_title">Utišaj zvono kada je podignut</string>
   <string name="importAllSimEntries">Uvezi sve</string>
   <string name="importSimEntry">Uvezi</string>
   <string name="importToFDNfromContacts">Uvezi iz kontakata</string>
@@ -487,6 +487,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
 Koristiti će se željena mreža umjesto toga."</string>
   <string name="network_settings_turn_off">Isključi</string>
   <string name="network_settings_warn_message">Vaš uređaj će se povezati samo na mreže koje odaberete ručno</string>
+  <string name="network_unlock">Otključaj</string>
   <string name="networks">Mrežni operateri</string>
   <string name="networks_title">Mobilne mreže</string>
   <string name="new_password_label">Nova 4-znamenkasta zaporka</string>
@@ -603,6 +604,7 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="preferred_network_mode_dialogtitle">Željena vrsta mreže</string>
   <string name="preferred_network_mode_summary">Promijenite način rada mreže</string>
   <string name="preferred_network_mode_title">Željena vrsta mreže</string>
+  <string name="preferred_network_restrict_network_changed_incall">"Ne mogu promijeniti mobilnu mrežu tijekom poziva"</string>
   <string name="preferred_network_type_3g_only_warning">Vaša SIM kartica mora podržavati 3G povezivanje na mrežu.</string>
   <string name="preferred_network_type_cdma">CDMA</string>
   <string name="preferred_network_type_pref_entries_3g_preferred">Poželjno 3G</string>
@@ -723,7 +725,9 @@ Vaša SIM kartica bit će izbrisani nakon još jednog neuspjelog pokušaja."</st
   <string name="settings_label">Postavke mreže</string>
   <string name="simContacts_airplaneMode">Za uvoz kontakata sa SIM kartice, isključite Način rada u zrakoplovu.</string>
   <string name="simContacts_emptyLoading">Čitanje…</string>
-  <string name="simContacts_title">Upravljanje kontakata SIM kartice</string>
+  <string name="simContacts_title">Upravljanje kontaktima SIM kartice</string>
+  <string name="sim_cards_network_mode_changed_summary">Dodirnite za prikaz postavki SMS-a i poziva.</string>
+  <string name="sim_cards_network_mode_changed_title">Otkrivena nova SIM kartica</string>
   <string name="sim_contact_name">Ime</string>
   <string name="sim_contact_number">Broj</string>
   <string name="sim_ndp_dismiss_text">Odbaci</string>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="action_baidusearch">Baidu</string>
+  <string name="action_baidusearch">Baidu pretraživanje</string>
   <string name="action_capture_video">Videozapis</string>
   <string name="action_clear_call_list">Izbriši povijest poziva</string>
   <string name="action_clear_memory">Isprazni RAM</string>
@@ -40,6 +40,7 @@
   <string name="action_phone">Poziv</string>
   <string name="action_qrcode">QR kod</string>
   <string name="action_screen_shot">Snimak zaslona</string>
+  <string name="action_search">Traži</string>
   <string name="action_send_text_message">Pošalji SMS</string>
   <string name="action_share_to_miliao">MiTalk</string>
   <string name="action_share_to_miliao_wall">MiTalk</string>
@@ -146,8 +147,8 @@ Tijekom uporabe, ostale funkcije MiKey su nedostupne."</string>
   <string name="key_direction_up">Gore</string>
   <string name="know_it">U redu</string>
   <string name="long_click">Pritisni i drži</string>
-  <string name="mikey_sprite_toggle_title">MiKey Čarobnjak otvoren</string>
   <string name="message_photo_end">Slika spremljena</string>
+  <string name="mikey_sprite_toggle_title">MiKey Čarobnjak otvoren</string>
   <string name="name">Ime:</string>
   <string name="nickname">Nadimak:</string>
   <string name="no_usage">…</string>
@@ -163,6 +164,9 @@ Tijekom uporabe, ostale funkcije MiKey su nedostupne."</string>
   <string name="phone">Telefon:</string>
   <string name="picker_lable">Galerija</string>
   <string name="place_barcode_into_rectangle">Postavite QR kod ili barkod unutar tražila pravokutnika</string>
+  <string name="privacy_mode_end">Privatan način onemogućen</string>
+  <string name="privacy_mode_started">Privatan način omogućen</string>
+  <string name="privacy_mode_title">Privatan način</string>
   <string name="rank_prefix">"Rejting: "</string>
   <string name="rank_suffix">" bodova"</string>
   <string name="recognize">Prepoznaj</string>
@@ -170,6 +174,8 @@ Tijekom uporabe, ostale funkcije MiKey su nedostupne."</string>
   <string name="running_notification">Xiaomi MiKey</string>
   <string name="scan_fail">Skeniranje neuspjelo!</string>
   <string name="scan_result">Rezultati skeniranja</string>
+  <string name="screenkey_disabled">Tipka zaslona onemogućena</string>
+  <string name="screenkey_enabled">Tipka zaslona omogućena</string>
   <string name="screenshot_crop">Obreži</string>
   <string name="screenshot_full">Cijeli zaslon</string>
   <string name="scrennshot_select_title">Odaberite način Snimke zaslona</string>
@@ -194,12 +200,15 @@ Tijekom uporabe, ostale funkcije MiKey su nedostupne."</string>
   <string name="setting_keeplive_desc">"Ova opcija omogućuje aplikaciji rad u pozadini i da brzo reagira na vaše naredbe.
 To može uzrokovati veću potrošnju baterije"</string>
   <string name="setting_keeplive_text">Rad u pozadini</string>
-  <string name="setting_proximity_desc">Spriječite slučajnu uporabu MiKey u džepu.</string>
-  <string name="setting_proximity_text">Upotrijebite senzor udaljenosti</string>
+  <string name="setting_proximity_desc">Koristi senzor blizine da spriječite slučajnu uporabu MiKey u džepu.</string>
+  <string name="setting_proximity_text">Koristi senzor blizine</string>
   <string name="setting_silent_mode">Tihi način rada</string>
   <string name="setting_silent_mode_default">Način rada slušalica (odaberite MiKey)</string>
   <string name="setting_silent_mode_desc">"Za spajanje slušalica, odaberite način rada slušalice i odvojite MiKey. U protivnom audio izlaz neće raditi ispravno."</string>
   <string name="setting_silent_mode_dust_cap">Način rada čepova</string>
+  <string name="setting_speed_desc">Brzina klikanja tipke</string>
+  <string name="setting_speed_max_time">1000</string>
+  <string name="setting_speed_middle_time">500ms</string>
   <string name="setting_speed_desc">Brzina klikanja gumba</string>
   <string name="setting_speed_quick">Brzo</string>
   <string name="setting_speed_slow">Sporo</string>

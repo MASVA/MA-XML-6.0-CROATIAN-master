@@ -117,6 +117,7 @@
   <string name="choosertitle_sharevia">Dijeli putem</string>
   <string name="clear">Očisti</string>
   <string name="clear_history">Očisti povijest</string>
+  <string name="clear_history_by_group_alert">Očistiti povijest iz %s?</string>
   <string name="clear_history_group">Očisti svu povijest</string>
   <string name="clear_search_history">Očisti povijest</string>
   <string name="clip_dialog_title">Otvoriti kopiranu vezu?</string>
