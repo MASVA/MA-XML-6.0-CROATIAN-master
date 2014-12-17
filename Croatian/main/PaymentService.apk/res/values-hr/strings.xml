@@ -116,6 +116,8 @@ Kontaktirajte Xiaomi službu za korisnike."</string>
   <string name="giftcard_denom_frozen">Mi Kredit blokiran</string>
   <string name="giftcard_empty">Nema poklon bon.</string>
   <string name="giftcard_expire">%1$s isteklo</string>
+  <string name="giftcard_expire_notification_prime_title">Kod istječe uskoro…</string>
+  <string name="giftcard_expire_notification_sub_title">Mi Credit Poklon bon istječe %1$s</string>
   <string name="giftcard_hint">"Mi Krediti dodani putem poklon bona će biti
 potrošeni prvi automatski"</string>
   <string name="giftcard_payment">Poklon bon: Mi Kredita %1$s</string>

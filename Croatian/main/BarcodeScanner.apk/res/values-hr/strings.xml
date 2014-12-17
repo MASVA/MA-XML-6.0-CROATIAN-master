@@ -11,6 +11,7 @@
   <string name="birthday">Rođendan:</string>
   <string name="camera_error">"Nešto nije u redu s fotoaparatom"</string>
   <string name="cancel">Odustani</string>
+  <string name="choose_picture">Odaberite sliku QR koda</string>
   <string name="close_flash_error">"Ne mogu isključiti svjetiljku"</string>
   <string name="cloud_album_details">Detalji albuma:</string>
   <string name="company">Tvrtka:</string>

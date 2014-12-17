@@ -241,6 +241,7 @@
   <string name="attachment_mgr_name">Privici</string>
   <string name="attachment_not_exists">Privitak nije dostupan!</string>
   <string name="attachment_not_found">"Ne mogu preuzeti privitak."</string>
+  <string name="attachment_stop_all">Zaustavi</string>
   <string name="attachment_text">Tekst</string>
   <string name="attachment_type_blocked">Nažalost, ne možete spremiti niti otvoriti tu vrstu privitka.</string>
   <string name="attachment_unknown">%s datoteka</string>
