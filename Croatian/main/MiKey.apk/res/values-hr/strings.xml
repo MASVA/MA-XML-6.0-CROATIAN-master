@@ -209,7 +209,6 @@ To može uzrokovati veću potrošnju baterije"</string>
   <string name="setting_speed_desc">Brzina klikanja tipke</string>
   <string name="setting_speed_max_time">1000</string>
   <string name="setting_speed_middle_time">500ms</string>
-  <string name="setting_speed_desc">Brzina klikanja gumba</string>
   <string name="setting_speed_quick">Brzo</string>
   <string name="setting_speed_slow">Sporo</string>
   <string name="setting_speed_text">Brzina</string>
