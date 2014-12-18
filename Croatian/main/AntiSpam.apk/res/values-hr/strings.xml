@@ -175,7 +175,7 @@ Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potraz
   <string name="report_success">Poruka prijavljena</string>
   <string name="sim_not_ready">SIM kartica nije spremna</string>
   <string name="sms_delete_hint">Izbrisati sve blokirane poruke s ovog broja?</string>
-  <string name="special_number_group">Blokiraj specijalne brojeve</string>
+  <string name="special_number_group">Blokiraj prijavljene brojeve</string>
   <string name="st_advanced_setting_group">Napredno</string>
   <string name="st_antispam_black_adress_add">Dodaj lokacije</string>
   <string name="st_antispam_bw_adress_add">Dodaj lokacije</string>

@@ -89,6 +89,7 @@ svejedno zaustaviti?"</string>
   <string name="menu_item_sort_name">Naziv</string>
   <string name="menu_item_sort_size">Veličina</string>
   <string name="miui_device_name">Android</string>
+  <string name="name_model">"%1$s %2$s"</string>
   <string name="no_app_to_backup">Nema aplikacija za pohranu</string>
   <string name="no_backup">Nema Sig. kopija</string>
   <string name="open_wifi">Uključite sada WLAN</string>

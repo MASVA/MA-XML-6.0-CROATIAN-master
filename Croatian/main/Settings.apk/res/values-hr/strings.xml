@@ -128,7 +128,7 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="apn_password">Zaporka</string>
   <string name="apn_protocol">APN protokol</string>
   <string name="apn_roaming_protocol">Protokol APN-a za roaming</string>
-  <string name="apn_save">Spremiti?</string>
+  <string name="apn_save">Spremiti promjene?</string>
   <string name="apn_save_msg">Spremiti promjene APN-a?</string>
   <string name="apn_server">Poslužitelj</string>
   <string name="apn_settings">APN-ovi</string>
@@ -944,8 +944,8 @@ Neke aplikacije neće raditi dok ih ne ažuriraju njihovi razvijatelji."</string
   <string name="font_size_small">Malo</string>
   <string name="font_size_summary">Promijeni veličinu fonta operativnog sustava</string>
   <string name="font_size_summary1">"
-Nezadovoljni? Pokušajte"</string>
-  <string name="font_size_summary2">JeeJen Home</string>
+Ako je tekst vašeg sustava još uvijek premalen, pokušajte koristiti "</string>
+  <string name="font_size_summary2">Lite način</string>
   <string name="force_hw_ui">Prisilno GPU renderiranje</string>
   <string name="force_hw_ui_summary">Prisilna upotreba GPU-a za 2D iscrtavanje</string>
   <string name="force_msaa">Nametni 4x MSAA</string>
@@ -1130,9 +1130,9 @@ Nezadovoljni? Pokušajte"</string>
   <string name="launching_cit">Pokrećem CIT</string>
   <string name="launching_pho">Pokrećem podatke uređaja…</string>
   <string name="launching_rep">Slanje zapisa o pogrešci…</string>
-  <string name="layout_size_large">Velik</string>
-  <string name="layout_size_medium">Srednji</string>
-  <string name="layout_size_normal">Normalan</string>
+  <string name="layout_size_large">Ogroman</string>
+  <string name="layout_size_medium">Velik</string>
+  <string name="layout_size_normal">Srednji</string>
   <string name="layout_size_small">Malen</string>
   <string name="led_colors_summary">Obavijesti</string>
   <string name="led_frequence_summary">Postavi interval između LED treptaja</string>
@@ -1143,6 +1143,9 @@ Nezadovoljni? Pokušajte"</string>
   <string name="line_breaking_summary">Optimiziraj prelamanje linija u odlomku</string>
   <string name="line_breaking_title">Optimiziraj tekst</string>
   <string name="link_speed_label">Brzina veze:</string>
+  <string name="local_auto_backup_off">Isključi</string>
+  <string name="local_auto_backup_on">Uključi</string>
+  <string name="local_auto_backup_section_title">Auto Sig. kopija</string>
   <string name="local_backup_password_summary_change">Odaberite za promjenu ili uklanjanje zaporke u potpunim sigurnosnim kopijama na stolnom računalu</string>
   <string name="local_backup_password_summary_none">Potpune sigurnosne kopije na stolnom računalu trenutačno nisu zaštićene</string>
   <string name="local_backup_password_title">Zaporka sigurnosne kopije na stolnom računalu</string>
@@ -1534,7 +1537,7 @@ i pokrenite ga."</string>
   <string name="owner_info_settings_summary"/>
   <string name="owner_info_settings_title">Info o vlasniku</string>
   <string name="packages_subtitle">Uključeni paketi</string>
-  <string name="page_layout_1">Ned 16/08</string>
+  <string name="page_layout_1">Ned 28/12</string>
   <string name="page_layout_10">Vijesti</string>
   <string name="page_layout_11">Sigurnost</string>
   <string name="page_layout_12">Postavke</string>
@@ -1542,16 +1545,16 @@ i pokrenite ga."</string>
   <string name="page_layout_14">Igre</string>
   <string name="page_layout_15">Apk</string>
   <string name="page_layout_16">Teme</string>
-  <string name="page_layout_17">Život</string>
+  <string name="page_layout_17">Mi Život</string>
   <string name="page_layout_18">Nedavno</string>
   <string name="page_layout_19">Kontakti</string>
   <string name="page_layout_2">Fotoaparat</string>
   <string name="page_layout_20">Direktorij</string>
-  <string name="page_layout_21">816 kontakata</string>
+  <string name="page_layout_21">182 kontakata</string>
   <string name="page_layout_22">Podesi moj profil</string>
   <string name="page_layout_23">Moje grupe</string>
   <string name="page_layout_24">FAVORITI</string>
-  <string name="page_layout_25">Tata</string>
+  <string name="page_layout_25">Charles Babbage</string>
   <string name="page_layout_26">Zoey Hannah</string>
   <string name="page_layout_27">Lian Josie</string>
   <string name="page_layout_28">Zhaohad</string>
@@ -1565,9 +1568,7 @@ i pokrenite ga."</string>
   <string name="page_layout_7">Bilješke</string>
   <string name="page_layout_8">Kalendar</string>
   <string name="page_layout_9">E-pošta</string>
-  <string name="page_layout_confirm_message">"Gustoća zaslona je promijenjena, izgled radne površine će se ažurirati. 
-To vam može potrajati 1 minutu.
-Jeste li sigurni da želite promijeniti?"</string>
+  <string name="page_layout_confirm_message">"Promjeniti postavke prikaza vašeg sustava? Primjena ove promjene traje oko 1 minutu."</string>
 <string name="page_layout_confirm_title">Promjena prikaza mjerenja</string>
   <string name="passwordIncorrect">Zaporka koju ste unijeli nije točna</string>
   <string name="password_guard">Zaporka</string>
@@ -2219,10 +2220,10 @@ Googleov pristup sinkronizaciji podataka za mogućnost pristupa kontaktima, sast
   <string name="title_color_calibration">Način Korekcija boja</string>
   <string name="title_dolby_control">Dolby digital plus</string>
   <string name="title_font">Font</string>
-  <string name="title_font_current">Trenutan</string>
+  <string name="title_font_current">Odaberite font sustava</string>
   <string name="title_font_size">Veličina fonta</string>
   <string name="title_hdmi_color_calibration">Pohranjene postavke korekcije boje</string>
-  <string name="title_layout_current">Korištenje izgleda</string>
+  <string name="title_layout_current">Odabeite veličinu fonta</string>
   <string name="title_local_resource">Lokalni resursi</string>
   <string name="title_system_resource">Resursi sistema</string>
   <string name="toast_lockscreen_glogin_empty_password">Unesite zaporku</string>
@@ -2580,7 +2581,7 @@ Riječ možete dodati dodirom na tipku Dodaj (+)"</string>
   <string name="wfd_wps_pbc">Željena je autentifikacija unosom PIN-a</string>
   <string name="whetstone_level_reboot">Ova postavka će stupiti na snagu nakon što ponovno pokrenete vaš uređaj</string>
   <string name="whetstone_level_reboot_OK">Ponovno pokreni</string>
-  <string name="whetstone_level_title">Optimiziranje memorije sustava</string>
+  <string name="whetstone_level_title">Optimiziranje memorije</string>
   <string name="widget_picker_title">Odaberite widget</string>
   <string name="wifi_access_points">WLAN mreže</string>
   <string name="wifi_add_network">Dodaj mrežu</string>
