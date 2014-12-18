@@ -2577,8 +2577,8 @@ Riječ možete dodati dodirom na tipku Dodaj (+)"</string>
   <string name="wfd_menu_teardown">"Zaustavi"</string>
   <string name="wfd_settings_description">Poveži se na zaslon koristeći WLAN</string>
   <string name="wfd_settings_title">Bežični zaslon</string>
-  <string name="wfd_wps_keypad">Željena je autentifikacija pritiskom tipke</string>
-  <string name="wfd_wps_pbc">Željena je autentifikacija unosom PIN-a</string>
+  <string name="wfd_wps_keypad">Poželjna je autentikacija pritiskom tipke</string>
+  <string name="wfd_wps_pbc">Poželjna je autentikacija unosom PIN-a</string>
   <string name="whetstone_level_reboot">Ova postavka će stupiti na snagu nakon što ponovno pokrenete vaš uređaj</string>
   <string name="whetstone_level_reboot_OK">Ponovno pokreni</string>
   <string name="whetstone_level_title">Optimiziranje memorije</string>

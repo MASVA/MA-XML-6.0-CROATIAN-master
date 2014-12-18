@@ -35,7 +35,7 @@
   <string name="audio_mode_wired_headset">Žičane slušalice</string>
   <string name="auth_username">AuthUserName</string>
   <string name="auth_username_summary">Korisničko ime korišteno za autentifikaciju</string>
-  <string name="auth_username_title">Autentifikacija korisničkog imena</string>
+  <string name="auth_username_title">Autentikacija korisničkog imena</string>
   <string name="auto_retry_mode_summary">Omogućite način "Automatsko Ponovno biranje"</string>
   <string name="auto_retry_mode_title">Automatski ponovo pokušaj</string>
   <string name="badPin">Stari PIN koji ste unijeli nije točan. Pokušajte ponovno.</string>

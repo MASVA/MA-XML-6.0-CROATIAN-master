@@ -291,7 +291,7 @@ koristeći %s"</string>
   <string name="hour_cap_ampm" formatted="false">%-l %p</string>
   <string name="hours">sati</string>
   <string name="httpError">Došlo je pogreška mreže.</string>
-  <string name="httpErrorAuth">Autentifikacija nije moguća.</string>
+  <string name="httpErrorAuth">Autentikacija nije moguća.</string>
   <string name="httpErrorBadUrl">Stranicu nije moguće otvoriti zbog nevažećeg URL-a.</string>
   <string name="httpErrorConnect">Povezivanje s poslužiteljem nije moguće.</string>
   <string name="httpErrorFailedSslHandshake">Sigurnu vezu nije moguće uspostaviti.</string>
