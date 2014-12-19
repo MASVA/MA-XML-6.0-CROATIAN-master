@@ -89,7 +89,7 @@
     <string name="label">MIUI SDK</string>
     <string name="license_host_unreachable">"Nije moguće povezivanje s mrežom. Da biste vidjeli ove informacije, idite na: %s."</string>
     <string name="loading">Učitavanje…</string>
-    <string name="mibi_license">Mi Credit Korisnički Sporazum</string>
+    <string name="mibi_license">Mi Credit Uvjeti pružanja usluge</string>
     <string name="midnight">AM</string>
     <string name="monday">Ponedjeljak</string>
     <string name="monday_short">Pon</string>
@@ -141,7 +141,7 @@
     <string name="organization">Organizacija</string>
     <string name="perm_payment_dspt">Dopustiti aplikaciji plaćanje preko Mi Usluge plaćanja</string>
     <string name="perm_payment_lab">Mi Usluge plaćanja</string>
-    <string name="permdesc_sendSmsNoConfirmation">Aplikacija može slati SMS poruke, bez vašeg odobrenja. To može dovesti do neočekivanih troškova od vašeg davatelja usluga.</string>
+    <string name="permdesc_sendSmsNoConfirmation">Aplikacija može slati SMS poruke, bez upita vašeg dopuštenja. To može dovesti do neočekivanih troškova od vašeg davatelja usluga.</string>
     <string name="permlab_sendSmsNoConfirmation">Slanje SMS poruka bez potvrde</string>
     <string name="phone">Telefon</string>
     <string name="pm">PM</string>
@@ -247,7 +247,7 @@
     <string name="tuesday">Utorak</string>
     <string name="tuesday_short">Uto</string>
     <string name="tuesday_shortest">U</string>
-    <string name="user_agreement">Korisnički Sporazum</string>
+    <string name="user_agreement">Uvjeti pružanja usluge</string>
     <string name="user_manual">Upute</string>
     <string name="website">Web stranica</string>
     <string name="wednesday">Srijeda</string>

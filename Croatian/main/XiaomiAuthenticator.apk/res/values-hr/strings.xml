@@ -4,9 +4,9 @@
   <string name="about_preference_title">Detalji</string>
   <string name="acknowledge_btn">Dalje</string>
   <string name="action_settings">Postavke</string>
-  <string name="activation_page">Ključ nije aktiviran</string>
+  <string name="activation_page">Nije aktivirano</string>
   <string name="activation_page_btn_txt">Aktiviraj</string>
-  <string name="activation_page_info">Prijavite se na https://account.xiaomi.com za aktivaciju sigurnosti</string>
+  <string name="activation_page_info">Prijavite se na vaš Mi Račun da aktivirate Osiguranu prijavu</string>
   <string name="add_account_menu_item">Dodaj račun</string>
   <string name="app_name">MiAuth</string>
   <string name="app_name_lockpattern">Uzorak zaključavanja</string>
@@ -28,7 +28,6 @@
   <string name="check_code_menu_item">Provjerite vrijednost ključa</string>
   <string name="check_code_title">Vrijednost provjere cjelovitosti</string>
   <string name="continue_btn">Dalje</string>
-  <string name="context_menu_remove_account">Ukloni</string>
   <string name="copy_to_clipboard">Kopiraj u međuspremnik</string>
   <string name="correct_enter_password">Ispravna zaporka</string>
   <string name="correct_enter_update_password">Ispravno napisana zaporka</string>
@@ -37,7 +36,7 @@
   <string name="dataimport_import_succeeded_uninstall_dialog_title">Uvoz uspješan</string>
   <string name="decoding_exception">Iznimka dekodiranja</string>
   <string name="details_patternforgotten">"Ponovna aktivacija:
-Prijavite se na account.xiaomi.com, upravljanje svojim ​​računom i kliknite na Aktiviraj ponovno"</string>
+Prijavite se na account.xiaomi.com, i kliknite na Aktiviraj ponovno"</string>
   <string name="empty_pin">_ _ _ _ _ _</string>
   <string name="enter_account_label">Unesite naziv računa</string>
   <string name="enter_key_hint">Unesite vaš ključ</string>
@@ -111,7 +110,11 @@ Prijavite se na account.xiaomi.com, upravljanje svojim ​​računom i kliknite
   <string name="progress_loading">Učitavanje</string>
   <string name="remove_Xiaomi_account_dialog_message">Uklanjanjem ovog računa će &lt;b&gt;se maknuti mogućnost&lt;/b&gt; generiranja kodova, međutim, to će &lt;b&gt;not&lt;/b&gt; isključiti provjeru u 2 koraka. To vas može spriječiti da se prijavite na svoj ​​račun. &lt;p&gt; Prije uklanjanja: &lt;ul&gt; &lt;li&gt;Isključite provjeru u 2 koraka za taj račun ili si&lt;/li&gt; &lt;li&gt;Osigurajte si alternativni mehanizam za generiranje kodova.&lt;/li&gt; &lt;/ul&gt;</string>
   <string name="remove_account_dialog_button_remove">Ukloni račun</string>
-  <string name="remove_account_dialog_message">Uklanjanjem ovog računa će &lt;b&gt;se maknuti mogućnost&lt;/b&gt; generiranja kodova, međutim, to će &lt;b&gt;not&lt;/b&gt; isključiti provjeru u 2 koraka. To vas može spriječiti da se prijavite na svoj ​​račun. &lt;p&gt; Prije uklanjanja: &lt;ul&gt; &lt;li&gt;Isključite provjeru u 2 koraka za taj račun ili si&lt;/li&gt; &lt;li&gt;Osigurajte si alternativni mehanizam za generiranje kodova.&lt;/li&gt; &lt;/ul&gt;</string>
+  <string name="remove_account_dialog_message">"Uklanjanjem ovog račun izgubiti ćete mogućnost generiranja kodova. To vas može spriječiti da se prijavite na svoj račun.
+
+Prije uklanjanj:
+—Isključite autentikaciju u 2 koraka za ovaj račun, ili
+—Osigurajte si alternativni mehanizam za generiranje koda."</string>
   <string name="remove_account_dialog_title">Ukloniti %1$s?</string>
   <string name="rename">Preimenuj</string>
   <string name="rename_message">Preimenuj %1$s</string>
@@ -143,7 +146,7 @@ Prijavite se na account.xiaomi.com, upravljanje svojim ​​računom i kliknite
   <string name="timesync_sync_now_time_already_correct_dialog_details">"Interni sat MiAuth-a nije podešen jer izgleda da je već sinkroniziran s poslužiteljima."</string>
   <string name="timesync_sync_now_time_already_correct_dialog_title">Vrijeme već ispravljeno</string>
   <string name="timesync_sync_now_time_corrected_dialog_details">"Interni sat MiAuth-a je podešen tako da odgovara vremenu koje pruža poslužitelj.
-Podešavanja datuma i vremena na uređaju nisu promjenjeni."</string>
+Postavke datuma i vremena na ovom uređaju nisu promjenjeni."</string>
   <string name="timesync_sync_now_time_corrected_dialog_title">Vrijeme ispravljeno</string>
   <string name="tip1_patternforgotten">Deinstalirati i ponovno instalirati zaštitu</string>
   <string name="tip2_patternforgotten">Pritisnite "Resetiranje"</string>
@@ -165,8 +168,8 @@ Možete:"</string>
   <string name="type_prompt">Vrsta ključa</string>
   <string name="update_pattern_jump">Preskoči</string>
   <string name="version_preference_title">Verzija</string>
-  <string name="welcome_page_alert">&lt;font color=#fb3500>Napomena: &lt;/font>Nemojte brisati sigurnosni token ili se nećete moći prijaviti.</string>
-  <string name="welcome_page_details">"- zaštitite podatke svog računa od krađe.
-- zadržite svoj Xiaomi račun sigurnim i osiguranim.</string>
-  <string name="welcome_page_title">Sigurnost prijave u Xiaomi račun</string>
+  <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;Ako izbrišete vaš Mi Security Token, nećete bit u mogućnosti prijaviti se na svoj račun."</string>
+  <string name="welcome_page_details">"— Držite svoj račun sigurnim.
+— Spriječite neželjene goste od korištenja vašeg uređaja za prijavu na vaš račun."</string>
+  <string name="welcome_page_title">Koristi za Osiguranu prijavu</string>
 </resources>

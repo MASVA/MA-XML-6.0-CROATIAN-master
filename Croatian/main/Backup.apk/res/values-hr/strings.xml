@@ -73,7 +73,7 @@
   <string name="delete">Obrisati</string>
   <string name="delete_backup_process">Brisanje…</string>
   <string name="delete_failed_backup_confirm">Ova sig. kopija sadrži pogreške.</string>
-  <string name="deselect_all">Poništi odabir za sve</string>
+  <string name="deselect_all">Poništi odabir</string>
   <string name="dir_date_format">HHmmss_MMddyyyy</string>
   <string name="disable_encrypt_title">Isključiti šifriranje</string>
   <string name="enable_encrypt">Uključiti šifriranje</string>

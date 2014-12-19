@@ -22,7 +22,7 @@
     <string name="input_pin_code">Unesite PIN</string>
     <string name="input_puk_code">Unesite PUK</string>
 	<string name="invalid_confirm_pin_hint">"PIN-ovi se ne podudaraju"</string>
-	<string name="keyguard_torch_cover_text">Da zadržite svjetiljku upaljenom, pritisnite gumb za uključivanje</string>
+	<string name="keyguard_torch_cover_text">Da zadržite svjetiljku upaljenom, držite gumb za uključivanje</string>
     <string name="lock_screen_date">EEEE, dd.MM.yyyy</string>
     <string name="lockscreen_access_pattern_cell_added">Ćelija dodana</string>
     <string name="lockscreen_access_pattern_cleared">Uzorak obrisan</string>
@@ -31,14 +31,15 @@
     <string name="lockscreen_charging_msg">Punjenje</string>
     <string name="lockscreen_emergency_call">Hitan poziv</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Netočno ste pokušali otključati telefon %d puta. Nakon još %d neuspjelih pokušaja, telefon će se resetirati na tvorničke postavke i svi korisnički podaci će biti izgubljeni.</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Netočno ste unijeli zaporku %d puta. Nakon još %d neuspjelih pokušaja, od vas će se tražiti prijava na vaš račun kako bi otključali telefon .
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Netočno ste unijeli zaporku %d puta. Nakon još %d neuspjelih pokušaja, od vas će se tražiti prijava na vaš Mi Račun kako bi otključali telefon .
+	
 Pokušajte ponovo za %d sek."</string>
     <string name="lockscreen_failed_attempts_now_wiping">Netočno ste pokušali otključati telefon %d puta. Telefon će se vratiti na tvorničke postavke.</string>
     <string name="lockscreen_glogin_checking_password">Provjera…</string>
     <string name="lockscreen_glogin_invalid_input">Netočno korisničko ime ili zaporka.</string>
     <string name="lockscreen_glogin_password_hint">Zaporka</string>
     <string name="lockscreen_glogin_submit_button">Prijava</string>
-    <string name="login_website_in_case_forget_password">Za obnovu vaše zaporke, idite na i.mi.com.</string>
+    <string name="login_website_in_case_forget_password">Za obnovu vaše zaporke, idite na www.mi.com/micloud.</string>
 	<string name="missed_call_text">Propuštenih poziva %d</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Otključano Bluetooth uređajem</string>
     <string name="open_wifi_settings">Otvorite mrežnu vezu</string>
@@ -48,8 +49,8 @@ Pokušajte ponovo za %d sek."</string>
     <string name="unlock_sim_string">Otključaj SIM</string>
 	<string name="unlock_string">Otključaj</string>
     <string name="unlocking_sim_card">Otključavanje SIM kartice</string>
-    <string name="unlockscreen_low_battery">Priključite punjač</string>
-    <string name="unlockscreen_recharge_completed">Baterija puna</string>
+    <string name="unlockscreen_low_battery">Priključite sada punjač</string>
+    <string name="unlockscreen_recharge_completed">Baterija napunjena</string>
     <string name="unlockscreen_recharging_message">Punjenje %d%%</string>
 	<string name="wrong_password">Netočna zaporka</string>
 </resources>

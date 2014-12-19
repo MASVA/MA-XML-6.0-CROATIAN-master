@@ -138,11 +138,11 @@
     <string name="resource_exchange_wrong_format_by_server">Kod nije bilo moguće provjeriti. Pobrinite se da ste ga ispravno unijeli.</string>
     <string name="resource_expand_full_text">Proširi</string>
     <string name="resource_failed_to_load_list">Nije uspjelo učitavanje popisa</string>
-    <string name="resource_get_auth_checking">Provjeravam autorizaciju…</string>
+    <string name="resource_get_auth_checking">Provjera…</string>
     <string name="resource_get_auth_exceed_max_limit_tips">Deset uređaja je već odobreno na ovom računu</string>
     <string name="resource_get_auth_exceed_max_limit_title">Broj odobrenih uređaja je prekoračen</string>
     <string name="resource_get_auth_missing">Teme iz drugih izvora, osim službene trgovine, nisu podržane!</string>
-    <string name="resource_get_auth_retrieving">Preuzimanje autorizacije…</string>
+    <string name="resource_get_auth_retrieving">Dobivanje informacija…</string>
     <string name="resource_hint">Upozorenje</string>
     <string name="resource_import_failed">Uvoz nije uspio</string>
     <string name="resource_import_successful">Preuzimanje dovršeno</string>

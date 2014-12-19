@@ -43,7 +43,7 @@
   <string name="alert">Napomena</string>
   <string name="alert_init_merged_message">"Fotografije ovog uređaja i fotografije pohranjenih na Mi Cloudu prikazuju se zajedno u kartici Fotografije."</string>
   <string name="alert_init_merged_title">Sve vaše fotografije. Zajedno napokon.</string>
-  <string name="alert_message_open_sync">Morate prvo omogućiti sinkronizaciju</string>
+  <string name="alert_message_open_sync">Morate prvo uključiti sinkronizaciju</string>
   <string name="alert_secret_album_message">Prijeđite prstom prema gore pri dnu vaših albuma za prikaz skrivenih albuma.</string>
   <string name="alert_secret_album_title">Skriveni albumi</string>
   <string name="already_apply_album">Otvoriti %1$s?</string>
@@ -101,7 +101,7 @@
   <string name="cloud_be_shared_guide_title">Ovaj album je podijelio prijatelj</string>
   <string name="cloud_camera_display_name">Fotografije fotoaparata</string>
   <string name="cloud_folder_chooser_move">Izbriši slike iz izvornog albuma</string>
-  <string name="cloud_gallery_recyclebin_full">Kanta za smeće u puna,ispraznite koš na i.mi.com.</string>
+  <string name="cloud_gallery_recyclebin_full">Kanta za smeće je puna. Ispraznite koš na www.mi.com/micloud.</string>
   <string name="cloud_gallery_space_full">Nema dovoljno prostora u vašem cloudu</string>
   <string name="cloud_media_set_set">Cloud</string>
   <string name="cloud_owner_album_share_guide">"Podijelite ovaj album 
@@ -134,7 +134,7 @@
   <string name="contact_photo">Postavi za fotografiju kontakta</string>
   <string name="context_menu_add_contact">Dodaj u kontakte</string>
   <string name="context_menu_copy">Kopiraj</string>
-  <string name="context_menu_copy_notice">Izbor kopiran u međuspremnik</string>
+  <string name="context_menu_copy_notice">Kopirano u međuspremnik</string>
   <string name="contrast">Kontrast</string>
   <string name="create_new_cloud_folder">Napravi novu mapu</string>
   <string name="crop">Obreži</string>
@@ -160,7 +160,7 @@
   <string name="demo_video_folder_display_name">Demo videozapis</string>
   <string name="deny">Odbij</string>
   <string name="description">Opis</string>
-  <string name="deselect_all">Poniši</string>
+  <string name="deselect_all">Poništi odabir</string>
   <string name="details">Pojedinosti</string>
   <string name="details_sharer">Podijeljeno od</string>
   <string name="details_title">%1$d od ukupno : %2$d</string>
@@ -244,7 +244,7 @@
   <string name="group_by_location">Prema lokaciji</string>
   <string name="group_by_tags">Po oznakama</string>
   <string name="group_by_time">Po vremenu</string>
-  <string name="has_invalid_recipient">Nevažeći primatelj: ;%1$s&gt;</string>
+  <string name="has_invalid_recipient">Nevažeći primatelj: %1$s</string>
   <string name="height">Visina</string>
   <string name="highlight">Isticanja</string>
   <string name="home_my_captured_items">" snimaka fotoaparata"</string>
@@ -259,7 +259,7 @@
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Uvoz je dovršen</string>
   <string name="import_fail">Uvoz neuspješan</string>
-  <string name="impunity_declaration">Neke od značajki Galerije zahtijevaju povezivanje s internetom da funkcioniraju normalno."</string>
+  <string name="impunity_declaration">"Neke od značajki Galerije zahtijevaju povezivanje s internetom da rade ispravno."</string>
   <string name="impunity_declaration_ignore">"Ne prikazuj ponovo"</string>
   <string name="impunity_declaration_settings">Obavijest povezivanje s internetom</string>
   <string name="impunity_declaration_summary">Prikaži obavijest povezivanje s internetom svaki put kad se pokrene aplikacija Galerija</string>
@@ -315,10 +315,10 @@
   <string name="message_no_delete_access">"Nemate dopuštenje za brisanje %s"</string>
   <string name="message_no_delete_access_with_count">Nemate dopuštenje za brisanje %s datoteka"</string>
   <string name="messagelist_sender_self">Ja</string>
-  <string name="miliao">MiTalk</string>
+  <string name="miliao">Mi Talk</string>
   <string name="miliao_folder_display_name">MiTalk</string>
   <string name="miliao_painting_folder_display_name">MiTalk bojanje</string>
-  <string name="miliao_saved_folder_display_name">MiTalk spremljen</string>
+  <string name="miliao_saved_folder_display_name">Mi Talk</string>
   <string name="mimetype">Vrsta MIME-a</string>
   <string name="mishop">MiShop</string>
   <string name="mipc_1">Džepni fotoaparat</string>
@@ -326,7 +326,7 @@
   <string name="miui_capture_screen_folder_display_name">Snimak zaslona</string>
   <string name="miui_wallpaper">Pozadina</string>
   <string name="modified_time">Promjenjeno</string>
-  <string name="moman">MomanCamera</string>
+  <string name="moman">Moman Camera</string>
   <string name="moman_camera_drawing">Moman Camera crtanje</string>
   <string name="moman_camera_icon">Moman Camera emotikon</string>
   <string name="moman_camera_picture">Moman Camera slike</string>
@@ -464,7 +464,7 @@
   <string name="seconds">" sekundi"</string>
   <string name="secret_album_display_name">Sakriveni album</string>
   <string name="select_all">Odaberi sve</string>
-  <string name="select_auto_upload_albums">Odaberite albume za učitavanje na cloud</string>
+  <string name="select_auto_upload_albums">Odaberite albume za učitavanje</string>
   <string name="select_image">Odaberi fotog.</string>
   <string name="select_item">Odaberi stavku</string>
   <string name="select_too_much_to_send_tips">"Ne mogu poslati tako puno stavaka (maks. %d)."</string>
@@ -486,8 +486,7 @@
   <string name="set_screensaver_path_title">Dijaprojekcija čuvara zaslona</string>
   <string name="set_wallpaper">Postavljanje slike pozadine…</string>
   <string name="settings">Postavke</string>
-  <string name="settings_i_xiaomi_com">Pohranite i pregledajte slike u vašem 
-cloudu na i.mi.com</string>
+  <string name="settings_i_xiaomi_com">Pregledajte sve svoje slike na www.mi.com/micloud</string>
   <string name="shadow">Sjenčanje</string>
   <string name="share_album">Podijeli album</string>
   <string name="share_album_owner">Vlasnik</string>

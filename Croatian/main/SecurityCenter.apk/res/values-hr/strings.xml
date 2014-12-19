@@ -189,7 +189,7 @@
   <string name="handle_text_cache">Predmemorija</string>
   <string name="handle_text_memory">Memorija</string>
   <string name="handle_text_system">Sustav</string>
-  <string name="header_antivirus">"Ova značajka kriptira i učitava ID vašeg uređaja na Tencent poslužitelje (%s)."</string>
+  <string name="header_antivirus">Korištenjem ove značajke, pristajete na %s.</string>
   <string name="header_optimizer">Korištenjem ove značajke, pristajete na %s.</string>
   <string name="hints_ad_header_left">Reklama: %d</string>
   <string name="hints_apk_header_left">Instal.aplik.: %d</string>

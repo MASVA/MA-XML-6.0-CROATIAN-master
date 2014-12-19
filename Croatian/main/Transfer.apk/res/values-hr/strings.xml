@@ -198,7 +198,7 @@ na [ %1$s ]"</string>
   <string name="trans_paused">Prijenos je pauziran</string>
   <string name="transfer_history">Povijest prijenosa</string>
   <string name="trasfer_list">Popis prijenosa</string>
-  <string name="unselect_all">Poništi odabir za sve</string>
+  <string name="unselect_all">Poništi odabir</string>
   <string name="upload_complete">%1$s | %2$s završeno</string>
   <string name="upload_failed_msg">Neuspješno učitavanje datoteke!</string>
   <string name="use_start">Započni prijenos</string>

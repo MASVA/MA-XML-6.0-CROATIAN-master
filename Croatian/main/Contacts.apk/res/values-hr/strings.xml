@@ -267,7 +267,7 @@
   <string name="description_view_contact">Prikaži kontakt %1$s</string>
   <string name="description_view_contact_detail">"Prikaži kontakt"</string>
   <string name="description_voicemail_button">"govorna pošta"</string>
-  <string name="deselect_all">"Poništi odabir za sve"</string>
+  <string name="deselect_all">Poništi odabir</string>
   <string name="device_bluetooth_title">Prijenos kontakata</string>
   <string name="device_brand_title">Odaberi marku</string>
   <string name="device_import_account_dialog_title">"Odaberi račun"</string>
@@ -541,7 +541,7 @@ Razlog: \"%s\""</string>
   <string name="menu_removeStar">Ukloni iz favorita</string>
   <string name="menu_search">"Pretraživanje"</string>
   <string name="menu_select_all">"Odaberi sve"</string>
-  <string name="menu_select_none">"Ukloni odabir za sve"</string>
+  <string name="menu_select_none">Poništi odabir</string>
   <string name="menu_sendSMS">"Pošalji SMS kontaktu"</string>
   <string name="menu_sendTextMessage">"Pošalji tekstualnu poruku"</string>
   <string name="menu_set_ring_tone">Postavi melodiju zvona</string>
@@ -886,11 +886,11 @@ Za dodavanje kontakta na listu favorita :
   <string name="resource_exchange_wrong_format_by_server">Kod nije bilo moguće provjeriti. Pobrinite se da ste ga ispravno unijeli.</string>
   <string name="resource_expand_full_text">Proširi</string>
   <string name="resource_failed_to_load_list">Nije uspjelo učitavanje popisa</string>
-  <string name="resource_get_auth_checking">Provjeravam autorizaciju…</string>
+  <string name="resource_get_auth_checking">Provjera…</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Deset uređaja je već odobreno na ovom računu</string>
   <string name="resource_get_auth_exceed_max_limit_title">Broj odobrenih uređaja je prekoračen</string>
   <string name="resource_get_auth_missing">Teme iz drugih izvora, osim službene trgovine, nisu podržane</string>
-  <string name="resource_get_auth_retrieving">Preuzimanje autorizacije…</string>
+  <string name="resource_get_auth_retrieving">Dobivanje informacija…</string>
   <string name="resource_hint">Upozorenje</string>
   <string name="resource_import_failed">Uvoz nije uspio</string>
   <string name="resource_import_successful">Preuzimanje dovršeno</string>
