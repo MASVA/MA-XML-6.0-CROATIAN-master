@@ -2716,7 +2716,6 @@ Dopustiti ovo za sve aplikacije koje žele skenirati?</string>
   <string name="wifi_security">Sigurnost</string>
   <string name="wifi_security_none">Ništa</string>
   <string name="wifi_setting_category">Dostupne WLAN mreže</string>
-  <string name="wifi_setting_category">Za aktivaciju vašeg uređaja, povežite se s internetom</string>
   <string name="wifi_setting_frequency_band_error">Problem pri postavljanju pojasa frekvencije.</string>
   <string name="wifi_setting_frequency_band_summary">Odredi raspon frekvencije rada</string>
   <string name="wifi_setting_frequency_band_title">Pojas frekvencije WLAN mreže</string>
