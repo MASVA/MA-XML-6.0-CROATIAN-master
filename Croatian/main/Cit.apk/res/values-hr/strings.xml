@@ -22,7 +22,7 @@ Prije kalibracije uređaja, stavite ga na ravnu površinu."</string>
   <string name="cit_audio_cali_valueF0">F0:</string>
   <string name="cit_audio_cali_valueR">Ref_diff:</string>
   <string name="cit_audio_cali_valueT">Temp_acc:</string>
-  <string name="cit_audio_calibrating">kalibriranje u tijeku…</string>
+  <string name="cit_audio_calibrating">Kalibriranje u tijeku…</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Testiranje stražnjeg zvučnika mikrofona</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Testiranje glavnog zvučnika mikrofona</string>
   <string name="cit_audio_lb_phonecall_title">Imitacija poziva</string>
@@ -35,7 +35,7 @@ Držite telefon kao da razgovarate, pričajte u glavni mikrofon, trebali biste �
   <string name="cit_audio_lb_summary_phonecall">"Test Simulacije poziva.
 
 Držite telefon kao da razgovarate, pričajte u glavni mikrofon, trebali biste čuti glas iz prijemnika, napravite test u tihom okruženju"</string>
-  <string name="cit_audio_lb_summary_topmic_to_speaker">"Testiranje gornjeg mikrofona na zvučnik.
+  <string name="cit_audio_lb_summary_topmic_to_speaker">"Testiranje gornjeg mikrofona na zvučniku.
 
 Okrenite telefon, govorite u gornji mikrofon, trebali biste čuti glas u zvučniku"</string>
   <string name="cit_audio_lb_topmic_to_speaker_title">Testiranje gornjeg mikrofona povratne informacije zvučnika</string>
@@ -71,13 +71,13 @@ Držite telefon kao da ste odgovorili na poziv, pričajte u mikrofon. Trebali bi
   <string name="cit_bluetooth_scanning_opening_bluetooth">Otvaranje Bluetooth uređaja…</string>
   <string name="cit_button_light_off">Isključite svjetlo tipke</string>
   <string name="cit_button_light_on">Uključite svjetlo tipke</string>
-  <string name="cit_calibration_fail">Kalibracija nije uspjela</string>
-  <string name="cit_calibration_pass">Kalibracija uspješna</string>
+  <string name="cit_calibration_fail">Kalibriranje nije uspjelo</string>
+  <string name="cit_calibration_pass">Kalibriranje uspješno</string>
   <string name="cit_camera_calibration_summary">"Upute testiranja:
 
 1.Dodirnite gumb za kalibraciju ispod za ulazak u sučelje fotoaparata
 2.Pritisnite tipku Natrag za izlaz iz sučelja fotoaparata
-3.Dobiti ćete natpis Kalibracija uspješna za oznaku da je kalibrirano."</string>
+3.Dobiti ćete natpis Kalibriranje uspješno za oznaku da je kalibrirano."</string>
   <string name="cit_camera_sdcard_error">SD kartica je puna. Nemoguće spremiti slike</string>
   <string name="cit_charger_plugin_check_summary">Provjerite aktualno stanje punjača</string>
   <string name="cit_charger_plugin_check_title">Testiranje priključka punjača</string>
@@ -207,15 +207,15 @@ dodajte datoteku i pokušajte ponoviti testiranje reprodukcije."</string>
   <string name="cit_sim_check_summary">Provjera pojedinosti stanja SIM kartice</string>
   <string name="cit_sim_check_title">Testiranje SIM kartice</string>
   <string name="cit_sim_error_unknown">Nepoznata greška SIM-a</string>
-  <string name="cit_sim_network_operator">Mrežni operateri:</string>
-  <string name="cit_sim_network_operator_name">Naziv operatora mreže:</string>
+  <string name="cit_sim_network_operator">Mrežni davatelji usluga:</string>
+  <string name="cit_sim_network_operator_name">Naziv davatelja usluga mreže:</string>
   <string name="cit_sim_network_type">Vrsta mreže:</string>
   <string name="cit_sim_serial_number">Broj SIM kartice:</string>
   <string name="cit_sim_sim_country">Zemlja:</string>
   <string name="cit_sim_sim_operator">SIM operater:</string>
-  <string name="cit_sim_sim_operator_name">Naziv operatora SIM-a:</string>
+  <string name="cit_sim_sim_operator_name">Naziv davatelja usluga SIM-a:</string>
   <string name="cit_sim_state_absent">SIM kartica nije pronađena</string>
-  <string name="cit_sim_state_network_locked">PINMreže zaključan</string>
+  <string name="cit_sim_state_network_locked">PIN Mreže zaključan</string>
   <string name="cit_sim_state_pin_required">Potreban PIN</string>
   <string name="cit_sim_state_puk_required">Potreban PUK</string>
   <string name="cit_sim_state_ready">SIM kartica u redu</string>
@@ -228,9 +228,9 @@ dodajte datoteku i pokušajte ponoviti testiranje reprodukcije."</string>
   <string name="cit_tool_bluetooth_le_tx_h">Bluetooth test (2.480GHz)</string>
   <string name="cit_tool_bluetooth_le_tx_l">Bluetooth test (2.402GHz)</string>
   <string name="cit_tool_bluetooth_mode">Testni način Bluetootha</string>
-  <string name="cit_tool_bluetooth_not_on">Bluetooth nie je zapnutý!</string>
-  <string name="cit_tool_bluetooth_off">Onemogući Bluetooth</string>
-  <string name="cit_tool_bluetooth_on">Omogući Bluetooth</string>
+  <string name="cit_tool_bluetooth_not_on">Bluetooth nije uključen!</string>
+  <string name="cit_tool_bluetooth_off">Isključi Bluetooth</string>
+  <string name="cit_tool_bluetooth_on">Uključi Bluetooth</string>
   <string name="cit_tool_bluetooth_tx_h">Bluetooth test（2.480GHz)</string>
   <string name="cit_tool_bluetooth_tx_l">Bluetooth test（2.402GHz)</string>
   <string name="cit_tool_cal_camera">Alat za kalibraciju fotoaparata</string>
@@ -243,7 +243,7 @@ dodajte datoteku i pokušajte ponoviti testiranje reprodukcije."</string>
   <string name="cit_tool_log_kmsg">Zapis zadnjeg kernela</string>
   <string name="cit_tool_log_logcat">ADB zapis</string>
   <string name="cit_tool_log_modem">Modem zapis</string>
-  <string name="cit_tool_log_no_sdcard">Radnja neuspjela, umetnite SD karticu</string>
+  <string name="cit_tool_log_no_sdcard">Radnja nije uspjela, umetnite SD karticu</string>
   <string name="cit_tool_log_ril">RIL zapis</string>
   <string name="cit_tool_log_toast">Zapis spremljen na %s</string>
   <string name="cit_tool_log_toast_generate_bugreport">Stvaranje izvješća grešaka… (može potrajati oko 1 min.)</string>
@@ -290,11 +290,11 @@ dodajte datoteku i pokušajte ponoviti testiranje reprodukcije."</string>
   <string name="cit_tool_wifi_txrx_chain_selection">Odaberi antenu</string>
   <string name="cit_torch_off">Isključite svjetiljku</string>
   <string name="cit_torch_on">Uključite svjetiljku</string>
-  <string name="cit_touch_calib_fail">Kalibracija uspjela</string>
-  <string name="cit_touch_calib_instruction">Kalibracija</string>
-  <string name="cit_touch_calib_pass">Kalibracija je uspješno završena</string>
-  <string name="cit_touch_calib_summary">Sljedeći korak potpune kalibracije na dodir, pritisnite tipku OK, ne dodirujte zaslon dok kalibracija nije dovršena</string>
-  <string name="cit_touch_calib_title">Kalibracija na dodir</string>
+  <string name="cit_touch_calib_fail">Kalibriranje uspjelo</string>
+  <string name="cit_touch_calib_instruction">Kalibriranje</string>
+  <string name="cit_touch_calib_pass">Kalibriranje je uspješno završeno</string>
+  <string name="cit_touch_calib_summary">Sljedeći korak potpune kalibracije na dodir, pritisnite tipku OK, ne dodirujte zaslon dok kalibriranje nije dovršeno</string>
+  <string name="cit_touch_calib_title">Kalibriranje na dodir</string>
   <string name="cit_usb_OTG_in"> USB_OTG uređaj spojen </string>
   <string name="cit_usb_OTG_out"> USB_OTG oprema nije priključena.</string>
   <string name="cit_usb_charger_in">USB punjač priključen</string>

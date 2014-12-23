@@ -17,8 +17,8 @@
   <string name="access_control_no_back_footer">Dodirni [ikonu] za izlaz</string>
   <string name="access_control_password_title">Zaporka</string>
   <string name="access_control_recording_intro_header">Iscrtajte uzorak za otključavanje:</string>
-  <string name="access_control_reset_by_account">Prijavite se na vaš Xiaomi račun za poništavanje zaporke</string>
-  <string name="accessibility_captioning_title">Potpisi</string>
+  <string name="access_control_reset_by_account">Prijavite se na vaš Mi Račun za poništavanje zaporke</string>
+  <string name="accessibility_captioning_title">Naslovi</string>
   <string name="accessibility_enable">Dostupnost</string>
   <string name="accessibility_feature_state_off">Isključeno</string>
   <string name="accessibility_feature_state_on">Uključeno</string>
@@ -758,7 +758,7 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">Status</string>
   <string name="device_status_summary">Status telefona, mreže itd.</string>
-  <string name="dialog_content_login">Potreban je Xiaomi račun za ažuriranja, sigurno se želite prijaviti?</string>
+  <string name="dialog_content_login">Potreban je Mi Račun za ažuriranja, sigurno se želite prijaviti?</string>
   <string name="dialog_no">"Ne"</string>
   <string name="dialog_title_color_calibration">Odabir korekcije boja</string>
   <string name="dialog_title_font_size">Veličina fonta</string>
@@ -905,7 +905,7 @@ Neke aplikacije neće raditi dok ih ne ažuriraju njihovi razvijatelji."</string
   <string name="erase_internal_storage_description">Izbriši glazbu, fotografije, videozapise, i ostale korisničke podatke</string>
   <string name="erase_optional">Sadržaj</string>
   <string name="erase_personal_data">Osobni podaci</string>
-  <string name="erase_personal_data_description">Izbriši informacije Xiaomi računa, podatke aplikacija i postavke sustava</string>
+  <string name="erase_personal_data_description">Izbriši informacije Mi Računa, podatke aplikacija i postavke sustava</string>
   <string name="erase_sure">Osobni podaci</string>
   <string name="error_apn_empty">APN ne može biti prazan.</string>
   <string name="error_mcc_not3">MCC polje mora imati 3 znamenke.</string>
@@ -1665,10 +1665,10 @@ i pokrenite ga."</string>
   <string name="privacy_settings_title">Stvori Sig. kopiju &amp; poništi</string>
   <string name="private_gallery_need_to_unlock">Potrebna je zaporka:</string>
   <string name="private_gallery_recording_intro_header">Iscrtajte uzorak otključavanja:</string>
-  <string name="private_gallery_reset_by_account">Za poništavanje zaporke, prijavite se na vaš Xiaomi račun</string>
+  <string name="private_gallery_reset_by_account">Za poništavanje zaporke, prijavite se na vaš Mi Račun</string>
   <string name="private_sms_need_to_unlock">Potrebna je zaporka:</string>
   <string name="private_sms_recording_intro_header">Iscrtajte uzorak otključavanja:</string>
-  <string name="private_sms_reset_by_account">Za poništavanje zaporke, prijavite se na vaš Xiaomi račun</string>
+  <string name="private_sms_reset_by_account">Za poništavanje zaporke, prijavite se na vaš Mi Račun</string>
   <string name="process_kernel_label">Android OS</string>
   <string name="process_mediaserver_label">Medijski poslužitelj</string>
   <string name="process_provider_in_use_description">Pružatelj %1$s je u upotrebi.</string>
@@ -2762,7 +2762,7 @@ Dodirnite "&lt;b&gt;Natrag&lt;/b&gt; za povezivanje s nekom drugom WLAN mrežom.
   <string name="wifi_share">Podijeli WLAN</string>
   <string name="wifi_share_action_turn_off">Prestani dijeliti mreže</string>
   <string name="wifi_share_action_turn_on">Podijeli WLAN</string>
-  <string name="wifi_share_action_turn_on_summary">Prijavite se na vaš Xiaomi račun radi dijeljenja</string>
+  <string name="wifi_share_action_turn_on_summary">Prijavite se na vaš Mi Račun radi dijeljenja</string>
   <string name="wifi_share_add">Podijeli moje javne mreže</string>
   <string name="wifi_share_add_summary">"Kada dijelite vaše javne mreže,
  možete također upotrebljavati mreže drugih korisnika"</string>
