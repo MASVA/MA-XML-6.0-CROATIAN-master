@@ -69,7 +69,7 @@
   <string name="battery_history_minutes_no_seconds">%1$d min.</string>
   <string name="battery_history_seconds">%1$d s</string>
   <string name="boot_day_shutdown_day">Uređaj će se uključiti %1$dd u %2$s i isključiti %3$dd u %4$s</string>
-  <string name="boot_reminder">Uključivanje vašeg uređaja u zakazano vrijeme</string>
+  <string name="boot_reminder">Uključivanje vašeg uređaja u planirano vrijeme</string>
   <string name="boot_reminder_day">Uređaj će se uključiti u %1$dd %2$dh %3$dm</string>
   <string name="boot_reminder_hour">Uređaj će se uključiti u %1$dh %2$dm</string>
   <string name="boot_reminder_minute">Uređaj će se uključiti u %1$dm</string>
@@ -390,8 +390,8 @@
   <string name="power_center_repeat">Ponovi</string>
   <string name="power_center_state_off">Isključeno</string>
   <string name="power_center_state_on">Uključeno</string>
-  <string name="power_center_time_to_boot">Vrijeme za pokretanje</string>
-  <string name="power_center_time_to_shutdown">Vrijeme za isključivanje</string>
+  <string name="power_center_time_to_boot">Vrijeme uključivanja</string>
+  <string name="power_center_time_to_shutdown">Vrijeme isključivanja</string>
   <string name="power_center_title">Baterija</string>
   <string name="power_chooser_check_box_summary">Odaberi profil za poboljšanje vijeka trajanja baterije</string>
   <string name="power_chooser_check_box_title">Odaberi profil</string>
@@ -557,7 +557,7 @@
   <string name="pref_title_expand_cache_group">Prikaži stavke predmemorije</string>
   <string name="pref_title_garbage_auto_clean_content">Odaberi stavke za čišćenje</string>
   <string name="pref_title_garbage_cleanup_check_size">Ograničenje veličine smeća</string>
-  <string name="pref_title_garbage_cleanup_check_time">Zazakazno čišćenje</string>
+  <string name="pref_title_garbage_cleanup_check_time">Planirano čišćenje</string>
   <string name="pref_title_garbage_process_mode">Obavijesti</string>
   <string name="pref_title_lock_screen_memory_clean">Očisti pri zaključanom zaslonu</string> 
   <string name="pref_title_manual_check_cleanup_db_update">Provjeri za ažuriranja</string>

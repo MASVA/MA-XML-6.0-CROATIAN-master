@@ -40,7 +40,7 @@
   <string name="editing_mode_enter_tip_text">Uštipnite da uredite Početni zaslon</string>
   <string name="editing_mode_title">Odabrano %1$d</string>
   <string name="editing_mode_title_empty">Odaberi stavke</string>
-  <string name="editing_set_transition_effect_tips">Odaberite efekat prijelaza zaslona</string>
+  <string name="editing_set_transition_effect_tips">Odaberi efekat prijelaza zaslona</string>
   <string name="editing_set_wallpaper_tips">Odaberi sliku pozadine</string>
   <string name="editing_tips">Uredi Početni zaslon</string>
   <string name="emptyplaylist">Dodirni za dodavanje pjesama</string>
@@ -83,9 +83,9 @@
   <string name="gadget_photo_44_label">Slika 4x4</string>
   <string name="gadget_photo_label">Slika</string>
   <string name="gadget_search_label">Traženje</string>
-  <string name="gadget_weather_app_not_installed">Dodirnite za preuzimanje MIUI Vrijeme aplikacije</string>
+  <string name="gadget_weather_app_not_installed">Dodirnite za preuzimanje aplikacije MIUI Vrijeme</string>
   <string name="gadget_weather_aqi_title">"Kvaliteta zraka: "</string>
-  <string name="gadget_weather_download_message">Morate preuzeti sadržaj aplikacije: %1$s. veličine: %2$s. Ponovno pokrenite aplikaciju nakon završetka preuzimanja.</string>
+  <string name="gadget_weather_download_message">Morate preuzeti sadržaj aplikacije: %1$s, veličine: %2$s. Ponovno pokrenite aplikaciju nakon završetka preuzimanja.</string>
   <string name="gadget_weather_download_start">Preuzimanje</string>
   <string name="gadget_weather_download_title">Preuzimanje</string>
   <string name="gadget_weather_downloading">Sadržaj se preuzima. Ponovno pokrenite aplikaciju nakon završetka preuzimanja.</string>
@@ -116,7 +116,7 @@
   <string name="menu_customize">Postavke</string>
   <string name="menu_edit">Uredi Početni zaslon</string>
   <string name="menu_exit_scene">Izlaz iz MiSpacea</string>
-  <string name="menu_item_add_item">Dodaj na početni zaslon</string>
+  <string name="menu_item_add_item">Dodaj na Početni zaslon</string>
   <string name="menu_launcher_setting">Postavke Pokretača</string>
   <string name="menu_picktheme">Odaberite temu</string>
   <string name="menu_reset_scene">Vraćanje na zadane postavke</string>
@@ -126,7 +126,7 @@
   <string name="menu_wallpaper">Slika pozadine</string>
   <string name="menu_workspace_preview">Pregled Početnih zaslona</string>
   <string name="mi_wallpaper">MIUI pozadina</string>
-  <string name="multi_selecting_tips">Za pokupiti aplikaciju, dodirnite njenu ikonu</string>
+  <string name="multi_selecting_tips">Da pokupite aplikaciju, dodirnite njenu ikonu</string>
   <string name="online_wallpaper">Online</string>
   <string name="out_of_space">Na ovom zaslonu više nema mjesta.</string>
   <string name="permdesc_install_shortcut">Dopušta aplikaciji dodavanje prečaca bez intervencije korisnika.</string>
