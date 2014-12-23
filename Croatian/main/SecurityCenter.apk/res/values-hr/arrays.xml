@@ -34,6 +34,19 @@
          <item>Za 10. minuta</item>
          <item>Nikad</item>
      </string-array>
+     <string-array name="alarm_repeat_type">
+        <item>Jednom</item>
+        <item>Svakodnevno</item>
+        <item>Radnim danima</item>
+        <item>Vikendom</item>
+        <item>Prilagođeno</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Jednom</item>
+        <item>Svakodnevno</item>
+        <item>Vikendom</item>
+        <item>Prilagođeno</item>
+    </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Nakon 1 minute</item>
         <item>Nakon 5 minuta</item>

@@ -1,9 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_not_found">"Aplikacija nije instalirana"</string>
-  <string name="application_name">MIUI Launcher</string>
-  <string name="apply_as_lock_wallpaper">Primjeni</string>
-  <string name="apply_as_lock_wallpaper_message">Primijeniti ovu pozadinu i za zaslon zaključavanja?</string>
+  <string name="application_name">MIUI Pokretač</string>
+  <string name="apply_action">Primjeni</string>
+  <string name="apply_as_lock_screen">Zaklj. zaslon</string>
+  <string name="apply_as_lock_wallpaper_message">Primijeniti ovu pozadinu i za zaklj. zaslon?</string>
+  <string name="apply_as_wallpaper">Početni zaslon</string>
+  <string name="apply_both">Podesi oboje</string>
   <string name="aqi_quality_index_dangerous">Opasno</string>
   <string name="aqi_quality_index_good">Dobro</string>
   <string name="aqi_quality_index_hazardous">Riskantno</string>
@@ -17,23 +20,31 @@
   <string name="cant_remove_folder">"Nije moguće ukloniti mapu"</string>
   <string name="cant_remove_retained_app">Nije moguće ukloniti ovu aplikaciju</string>
   <string name="cant_remove_system_app">"Nije moguće ukloniti aplikaciju sustava"</string>
-  <string name="chooser_wallpaper">Odabir slike pozadine iz</string>
+  <string name="choose_wallpaper">Odaberi sliku pozadine</string>
+  <string name="chooser_wallpaper">Odaberi sliku pozadine iz</string>
   <string name="confirm_btn_label">U redu</string>
-  <string name="current_wallpaper">Trenutno</string>
+  <string name="current_preview">Pregled</string>
+  <string name="current_wallpaper">Trenutna</string>
   <string name="custom_wallpaper_picker">Prilagođeno</string>
   <string name="default_folder_title_game">Igre</string>
   <string name="default_folder_title_recommend">Više Aplik.</string>
   <string name="default_folder_title_security">Sustav</string>
   <string name="default_folder_title_tools">Alati</string>
+  <string name="delete">Izbriši</string>
+  <string name="delete_wallpaper_message">Izbrisati odabranu sliku pozadine: %1$d?</string>
+  <string name="delete_wallpapers_message">Izbrisati odabrane slike pozadine: %1$d?</string>
+  <string name="disable_wallpaper_scroll">Isključi pomicanje slika pozadine</string>
   <string name="disable">Onemogući</string>
   <string name="edit_folder_title">Uredi naziv mape</string>
   <string name="editing_add_widget_tips">Uredi widgete</string>
   <string name="editing_mode_enter_tip_text">Uštipnite da uredite Početni zaslon</string>
+  <string name="editing_mode_title">Odabrano %1$d</string>
   <string name="editing_mode_title_empty">Odaberi stavke</string>
   <string name="editing_set_transition_effect_tips">Odaberite efekat prijelaza zaslona</string>
   <string name="editing_set_wallpaper_tips">Odaberi sliku pozadine</string>
   <string name="editing_tips">Uredi Početni zaslon</string>
   <string name="emptyplaylist">Dodirni za dodavanje pjesama</string>
+  <string name="enable_wallpaper_scroll">Uključi pomicanje slika pozadine</string>
   <string name="encryption">Šifriranje</string>
   <string name="failed_to_delete_temporary">"Ne mogu ukloniti"</string>
   <string name="failed_to_drop">"Ne mogu premjestiti"</string>
@@ -55,6 +66,8 @@
   <string name="free_style_enter_tip">Povucite prstima prema dolje s dva prsta za prikaz Mi Space</string>
   <string name="free_style_exit_tip">Povucite prstima prema gore s dva prsta za povratak na Početni zaslon</string>
   <string name="free_style_londing_text">Učitavanje…</string>
+  <string name="gadget_calculator_label">Kalkulator</string>
+  <string name="gadget_calendar_label">Kalendar</string>
   <string name="gadget_clear_button_label">Čistač</string>
   <string name="gadget_clock_12_label">Sat 2x1</string>
   <string name="gadget_clock_22_label">Sat 2x2</string>
@@ -64,6 +77,7 @@
   <string name="gadget_google_search_label">Google Pretraživanje</string>
   <string name="gadget_load_error">Učitavanje widgeta…</string>
   <string name="gadget_mtz_label">Mi Naprave</string>
+  <string name="gadget_notes_label">Bilješke</string>
   <string name="gadget_photo_22_label">Slika 2x2</string>
   <string name="gadget_photo_24_label">Slika 4x2</string>
   <string name="gadget_photo_44_label">Slika 4x4</string>
@@ -91,9 +105,12 @@
   <string name="guide_tips_editing_mode">Dodirni &amp; drži za pokupiti widget</string>
   <string name="install">Instaliraj</string>
   <string name="invalid_contact_shortcut">Nevažeći kontakt</string>
+  <string name="is_setting_wallpaper_toast">Podešavanje slike pozadine…</string>
+  <string name="is_system_wallpaper_message">"Ne mogu izbrisati izvor sustava"</string>
   <string name="loading_desktop">Učitavanje pokretača…</string>
-  <string name="lock_screen_failed_message">"Ne mogu primjeniti"</string>
-  <string name="lock_screen_success_message">Primjenjeno</string>
+  <string name="local_wallpaper">Lokalno</string>
+  <string name="lock_screen_failed_message">"Ne mogu podesiti pozadinu zaklj. zaslona"</string>
+  <string name="lock_screen_success_message">Podešeno za pozadinu zaklj. zaslona</string>
   <string name="menu_add">Dodaj</string>
   <string name="menu_back_desktop">Natrag na Početni zaslon</string>
   <string name="menu_customize">Postavke</string>
@@ -108,6 +125,7 @@
   <string name="menu_sort">Poredaj aplikacije</string>
   <string name="menu_wallpaper">Slika pozadine</string>
   <string name="menu_workspace_preview">Pregled Početnih zaslona</string>
+  <string name="mi_wallpaper">MIUI pozadina</string>
   <string name="multi_selecting_tips">Za pokupiti aplikaciju, dodirnite njenu ikonu</string>
   <string name="online_wallpaper">Online</string>
   <string name="out_of_space">Na ovom zaslonu više nema mjesta.</string>
@@ -144,8 +162,10 @@
   <string name="scroll_tip_format_when_announce_accessibility">na stranici %1$d, %2$d aplikacija</string>
   <string name="select_frame">Okvir</string>
   <string name="select_photo">Fotografija</string>
+  <string name="setting_wallpaper_tip">Premjesti ili pomakni</string>
   <string name="settings_shortcut">Postavke</string>
   <string name="sharedUserId"/>
+  <string name="show_all">Prikaži sve</string>
   <string name="sort_by_abc">Poredaj po nazivu</string>
   <string name="sort_by_frequency">Poredaj po korištenju</string>
   <string name="sort_by_not_defined">Automatski poredaj</string>
@@ -171,8 +191,19 @@
   <string name="uninstall">Deinstaliraj</string>
   <string name="uninstall_dialog_message">Deinstalacija će ukloniti sve podatke aplikacije.</string>
   <string name="uninstall_dialog_title_format">Deinstalatirati \"%s\"</string>
+  <string name="uninstall_dialog_title_multi_format" formatted="false">Deinstalatirati %s i %d ostalih aplikacija?</string>
+  <string name="uninstall_result_failed">"Ne mogu deinstalirati %s"</string>
+  <string name="uninstall_result_multi_succeeded">Deinstalatiranih aplik.: %1$d</string>
+  <string name="uninstall_result_other_failed" formatted="false">"Ne mogu deinstalirati %s i %d ostalih aplikacija"</string>
+  <string name="uninstall_result_succeeded">Aplikacija deinstalirana</string>
+  <string name="uninstall_result_two_failed">"Ne mogu deinstalirati %s i 1 ostalu aplikaciju"</string>
   <string name="unknown_artist_name">Nepoznati izvođač</string>
   <string name="unnamed_folder_name">Mapa bez naziva</string>
+  <string name="wallpaper">Slika pozadine</string>
+  <string name="wallpaper_failed_message">"Ne mogu podesiti sliku pozadine"</string>
+  <string name="wallpaper_scrolling">sve</string>		   
+  <string name="wallpaper_settings">Postavke slike pozadine</string>
+  <string name="wallpaper_success_message">Slika pozadine uspješno podešena</string>
   <string name="wallpaper_scrolling">sve</string>
   <string name="widget_favorite_contacts_edit">Urednik</string>
   <string name="widget_favorite_contacts_label">Kontakti</string>

@@ -51,9 +51,7 @@
   <string name="audio_effect_info">Optimiziraj zvuk</string>
   <string name="audio_effect_settings">Podesite vrstu slušalica</string>
   <string name="battery_low_percent_format">preostalo %d%%</string>
-  <string name="battery_low_subtitle">Baterija je gotovo prazna.</string>
   <string name="battery_low_title">"Priključite punjač"</string>
-  <string name="battery_low_why">Potrošnja baterije</string>
   <string name="battery_profiles">Koristi profile baterije</string>
   <string name="bluetooth_tethered">"Dijeljenje veze Bluetoothom"</string>
   <string name="call_status_dialing">"Biranje broja"</string>
@@ -167,7 +165,6 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
 Povucite dolje za zaključavanje"</string>
   <string name="status_bar_recent_guide_bottom">Povucite dolje za zaključavanje</string>
   <string name="status_bar_recent_guide_top">Povucite gore za zatvaranje</string>
-  <string name="status_bar_recent_inspect_item_title">Informacije o aplikaciji</string>
   <string name="status_bar_recent_memory_info">%1$s / %2$s dostupno</string>
   <string name="status_bar_recent_memory_info2">" %s dostupno"</string>
   <string name="status_bar_recording_back">Vrati se na snimanje zvuka</string>

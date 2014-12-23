@@ -288,7 +288,7 @@
   <string name="device_paired_dialog_title">Dohvaćanje kontakata…</string>
   <string name="device_pairing_dialog_message">Uparivanje…</string>
   <string name="device_pairing_dialog_title">Upari uređaje</string>
-  <string name="device_version_header_bluetooth">Provjerite da je Bluetooth omogućen</string>
+  <string name="device_version_header_bluetooth">Provjerite da je Bluetooth uključen</string>
   <string name="device_version_header_no_bluetooth">Uvezi kontakte preko SIM kartice</string>
   <string name="device_version_title">Odaberi model</string>
   <string name="dial">Biraj</string>
@@ -718,7 +718,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="pref_summary_import_from_account">Premjesti kontakte sa Google i Exchange računa na moj Mi Račun</string>
   <string name="pref_title_account_import">Uvezi iz računa</string>
   <string name="pref_title_import_from_account">Uvezi iz Mi Računa</string>
-  <string name="preference_auto_ip_summary_disable">Onemogućeno</string>
+  <string name="preference_auto_ip_summary_disable">Isključeno</string>
   <string name="preference_auto_ip_summary_on">IP prefiks operatera: %s</string>
   <string name="preference_auto_ip_title">Automatski IP prefiks</string>
   <string name="preference_contacts">"Kontakti"</string>
@@ -961,7 +961,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="scan_duplicate_message">Broj kontakata s identičnim informacijama: %1$d</string>
   <string name="scan_merge">Pretraživanje dvostrukih kontakata…</string>
   <string name="scan_qrcode_card_hint1">Skeniraj QR kod</string>
-  <string name="scan_qrcode_card_hint2">Dodaj moje informacije svojim kontaktima</string>
+  <string name="scan_qrcode_card_hint2">Dodaj u kontakte</string>
   <string name="scanning_sdcard_failed_message">Razlog: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">Pohrana se ne može skenirati.</string>
   <string name="sdcard_not_mounted_dialog_message">"Umetnite SD karticu.
@@ -999,8 +999,8 @@ Za dodavanje kontakta na listu favorita :
   <string name="simContacts_emptyLoading">"Učitavanje kontakata sa SIM kartice…"</string>
   <string name="simContacts_title">"Kontakti SIM kartice"</string>
   <string name="sim_account_name">SIM</string>
-  <string name="sim_capacity">Prikaži kapacitet SIM kartice</string>
-  <string name="sim_capacity_content" formatted="false">Ukupno %d | %d iskorišteno</string>
+  <string name="sim_capacity">Prikaži prostor SIM kartice</string>
+  <string name="sim_capacity_content" formatted="false">Ukupno %d | Iskorišteno %d</string>
   <string name="sim_card_no_free_space_message">Nema dovoljno prostora</string>
   <string name="sim_card_no_free_space_title">"SIM kartica je puna"</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">"Poništi odabir"</string>
@@ -1151,13 +1151,13 @@ Odaberite jednu od sljedećih opcija:</string>
   <string name="yellowpage_navigation_search_city_name_hint">Grad</string>
   <string name="yellowpage_navigation_search_offline_hint">Nema internetske adrese</string>
   <string name="yellowpage_navigation_search_result_average_price">Prosječno RMB-a: %d</string>
-  <string name="yellowpage_navigation_search_result_network_error">"Ne može se spojiti na mrežu"</string>
+  <string name="yellowpage_navigation_search_result_network_error">"Ne mogu se povezati na mrežu"</string>
   <string name="yellowpage_navigation_search_result_no_more">Nema više rezultata</string>
   <string name="yellowpage_navigation_search_result_service_error">Usluga nije dostupna</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Nepoznata pogreška</string>
   <string name="yellowpage_navigation_search_select_city">Molimo odaberite grad</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Preuzimanje…</string>
-  <string name="yellowpage_navigation_send_to_desktop_failed">"Ne mogu se spojiti na mrežu. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
+  <string name="yellowpage_navigation_send_to_desktop_failed">"Ne mogu se povezati na mrežu."</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Dodano na početni zaslon</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">"Odaberite stavke"</string>

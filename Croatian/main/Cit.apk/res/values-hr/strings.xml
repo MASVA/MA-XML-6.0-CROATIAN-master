@@ -18,9 +18,11 @@ Prije kalibracije uređaja, stavite ga na ravnu površinu."</string>
   <string name="cit_audio_cali_playing">Pritisnite tipku za početak kalibriranja</string>
   <string name="cit_audio_cali_summary">Kalibriraj PA zvučnik</string>
   <string name="cit_audio_cali_title">Test kalibriranja PA zvučnika</string>
+  <string name="cit_audio_cali_valueC">Brojač:</string>
   <string name="cit_audio_cali_valueF0">F0:</string>
-  <string name="cit_audio_cali_valueR">Impedancija:</string>
-  <string name="cit_audio_cali_valueT">tCoef:</string>
+  <string name="cit_audio_cali_valueR">Ref_diff:</string>
+  <string name="cit_audio_cali_valueT">Temp_acc:</string>
+  <string name="cit_audio_calibrating">kalibriranje u tijeku…</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Testiranje stražnjeg zvučnika mikrofona</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Testiranje glavnog zvučnika mikrofona</string>
   <string name="cit_audio_lb_phonecall_title">Imitacija poziva</string>
@@ -63,10 +65,10 @@ Držite telefon kao da ste odgovorili na poziv, pričajte u mikrofon. Trebali bi
   <string name="cit_bluetooth_address_open_error">Nemoguće preuzeti podatke o adresi Bluetootha</string>
   <string name="cit_bluetooth_not_support">Telefon ne podržava Bluetooth uređaj</string>
   <string name="cit_bluetooth_scan_retry">Skeniraj ponovo</string>
-  <string name="cit_bluetooth_scanning">Traženje za Bluetooth uređajima...</string>
+  <string name="cit_bluetooth_scanning">Traženje za Bluetooth uređajima…</string>
   <string name="cit_bluetooth_scanning_bluetooth_done">Skeniranje dovršeno</string>
   <string name="cit_bluetooth_scanning_bluetooth_error">Pogreška kod otvaranja Bluetooth uređaja</string>
-  <string name="cit_bluetooth_scanning_opening_bluetooth">Otvaranje Bluetooth uređaja...</string>
+  <string name="cit_bluetooth_scanning_opening_bluetooth">Otvaranje Bluetooth uređaja…</string>
   <string name="cit_button_light_off">Isključite svjetlo tipke</string>
   <string name="cit_button_light_on">Uključite svjetlo tipke</string>
   <string name="cit_calibration_fail">Kalibracija nije uspjela</string>
@@ -98,7 +100,7 @@ Držite telefon kao da ste odgovorili na poziv, pričajte u mikrofon. Trebali bi
   <string name="cit_fm_not_supported">Vaš uređaj ne podržava FM Radio</string>
   <string name="cit_fm_open_1">FM - 88.5</string>
   <string name="cit_fm_open_2">FM - 107.9</string>
-  <string name="cit_fm_open_bluetooth">Omogućivanje Bluetootha...</string>
+  <string name="cit_fm_open_bluetooth">Omogućivanje Bluetootha…</string>
   <string name="cit_fm_start_service">Omogući Radio</string>
   <string name="cit_front_camera_check_summary">"Koraci testiranja:
 
@@ -319,7 +321,7 @@ dodajte datoteku i pokušajte ponoviti testiranje reprodukcije."</string>
   <string name="cit_wifi_ap_scan_check_summary">Testiranje će prikazati popis svih dostupnih WLAN pristupnih točaka</string>
   <string name="cit_wifi_ap_scan_check_title">Testiranje skeniranja WLAN pristupne točke</string>
   <string name="cit_wifi_ap_scan_retry">Skeniraj ponovo</string>
-  <string name="cit_wifi_ap_scanning">Traženje pristupnih točaka...</string>
+  <string name="cit_wifi_ap_scanning">Traženje pristupnih točaka…</string>
   <string name="cit_wifi_fail_to_scan">Nije moguće naći bil koju WLAN mrežu</string>
   <string name="cit_wifi_state_refresh">Osvježi</string>
 </resources>

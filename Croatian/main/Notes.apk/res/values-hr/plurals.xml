@@ -7,5 +7,12 @@
 	   <plurals name="note_count_in_folder">
         <item quantity="other">Bilješki: %1$s</item>
         <item quantity="one">1 bilješka</item>
+    <plurals name="note_terms">
+        <item quantity="other">Bilješki: %1$s</item>
+        <item quantity="one">%1$s bilješka</item>
+     </plurals>
+     <plurals name="folder_terms">
+        <item quantity="other">Mapa: %1$s</item>
+        <item quantity="one">%1$s mapa</item>
     </plurals>
 </resources> 

@@ -1554,7 +1554,7 @@ i pokrenite ga."</string>
   <string name="page_layout_7">Bilješke</string>
   <string name="page_layout_8">Kalendar</string>
   <string name="page_layout_9">E-pošta</string>
-  <string name="page_layout_confirm_message">"Promjeniti postavke prikaza vašeg sustava? Primjena ove promjene traje oko 1 minutu."</string>
+  <string name="page_layout_confirm_message">"Vaš uređaj treba ponovo pokretanje kako bi se primijenile ove promjene. To traje oko 1 minutu."</string>
   <string name="page_layout_confirm_title">Promjena prikaza mjerenja</string>
   <string name="passwordIncorrect">Zaporka koju ste unijeli nije točna</string>
   <string name="password_guard">Zaporka</string>
@@ -1687,6 +1687,7 @@ i pokrenite ga."</string>
   <string name="progress_scanning">Pretraživanje</string>
   <string name="provider_label">Push pretplate</string>
   <string name="provision_next">Dalje</string>
+  <string name="provision_page_layout_confirm_message">Vaš uređaj treba ponovo pokretanje kako bi se primijenile ove promjene. To traje oko 1 minutu.</string>
   <string name="proxy_action_text">"Gotovo"</string>
   <string name="proxy_clear_text">"Izbriši"</string>
   <string name="proxy_defaultView_text">"Obnovi zadano"</string>
@@ -2497,6 +2498,7 @@ Riječ možete dodati dodirom na tipku Dodaj (+)"</string>
   <string name="volume_alarm_mute">Isključivanje zvuka alarma</string>
   <string name="volume_bluetooth_description">Bluetooth</string>
   <string name="volume_category_title">Glasnoća</string>
+  <string name="volume_hifi_description">Hi-Fi postavke</string>
   <string name="volume_media_description">Glazba, videozapisi, igre i drugi mediji</string>
   <string name="volume_media_mute">Isključivanje zvuka glazbe &amp; drugih medija</string>
   <string name="volume_notification_description">Obavijesti</string>
