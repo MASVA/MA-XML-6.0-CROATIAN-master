@@ -76,7 +76,7 @@
   <string name="view_indexes_item_tommorrow">Sutra</string>
   <string name="view_indexes_title_feel">Stvarni osjećaj (°C)</string>
   <string name="view_indexes_title_humidity">Vlaga (%)</string>
-  <string name="view_indexes_title_pressure">Tlak (mb)</string>
+  <string name="view_indexes_title_pressure">Tlak (hPa)</string>
   <string name="view_indexes_title_uv">UV Index</string>
   <string name="view_indexes_title_visibility">Vidljivost (km)</string>
   <string name="view_indexes_title_wind">Vjetar</string>

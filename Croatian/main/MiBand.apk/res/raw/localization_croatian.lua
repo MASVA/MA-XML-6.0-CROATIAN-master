@@ -167,11 +167,11 @@ localization_Croatian_table = {
 
     ok='U redu',
 
-    hour='sat',
+    hour='sati',
     minute='min',
     month='mjesec',
     day='dan',
-    step="korak",
+    step="koraka",
     km='km',
     minute_format='%dmin',
     hour_minute_format='%ds %dm',
@@ -194,10 +194,12 @@ localization_Croatian_table = {
     no_data_hint_2="Težite napretku, a ne savršenstvu.",
     no_data_hint_3="Normalna odrasla osoba troši 15% -20% ukupnog vremena sna u dubokoj fazi sna. ",
     not_binded_hint="Nijedan Mi Band nije povezan na ovaj račun. ",
+    not_binded_hint_info="Također možete kliknuti na Ljestvica težine u izborniku.",
     new_record_info="Postigli ste novi rekord.",
     new_record_format="%d koraka, %s %d",
     today_goal_reached="Postigli ste svoj cilj za danas!",
     week_continue_reach_goal="Vi",
+
     challenge_format="Postigli ste svoj cilj %d dana za redom!",
     personal_best_format="Vaš najveći rekord je %d dana!",
     continue_with_skips_title="Niste postigli svoj cilj jučer. Nazovimo ga Dan ljenčarenja ;)",
@@ -212,7 +214,7 @@ localization_Croatian_table = {
     manual_lazy_title_used="Danas je Dan ljenčarenja.",
     manual_lazy_subtitle_used="Možete zaraditi više Dana ljenčarenja obaranjem osobnih rekorda.",
     manual_fail_ytd_title = "Završili ste svoj niz jučer.",
-    manual_fail_ytd_subtitle = "Postizanje niza %d dugačko.",
+    manual_fail_ytd_subtitle = "Postizanje niza je dugačak %d.",
 
     active_time_format_0="%dm",
     active_time_format_1="%ds",
@@ -233,8 +235,10 @@ localization_Croatian_table = {
     last_night_sleeped_good_format="Prošle noći spavali ste %s.",
     last_night_sleeped_normal_format="Prošle noći spavali ste %s.",
     deep_sleep_format="Faza dubokog sna je bila %.",
+
     battery_low_info="Stavite Mi Band na punjenje.",
     battery_very_low_info="Baterija banda je skoro prazna.",
+
     cannot_find_bracelet="Ne možete pronaći svoj Mi Band?",
     cannot_find_bracelet_info="Uvjerite se da j baterija vašeg MiBanda napunjena.",
     challenge_to_get="%s dana od postizanja novog rekorda!",
@@ -247,11 +251,13 @@ localization_Croatian_table = {
 
 
     active_time_format_2="%dh %dmin",
-    manual_lazy_subtitle="The streak will cover up if you confirm.",
-    manual_lazy_subtitle_used="The streak will be added one if you hit the goal later.",
-    manual_fail_ytd_title = "Sorry, the streak broken yesterday.",
-    manual_fail_ytd_subtitle = "Your streak until day before yesterday is %d.",
-
-
+    manual_lazy_subtitle="Niz će se prikriti ako potvrdite.",
+    manual_lazy_subtitle_used="Niz će biti dodan ako postignete cilj poslije.",
+    manual_fail_ytd_title = "Nažalost, niz je prekinut jučer",
+    manual_fail_ytd_subtitle = "Vaš niz do jučer je bio %d.",
+    ---------------Weight scale -------------------
+    welcome_use_weight_scale = "Dobrodošli u korištenje Ljestvice težine",
+    welcome_use_weight_scale_not_bind = "Koliknite da povežete ljestvice težine",
+    welcome_use_mi_health="Dobrodošli u korištenje MI health",
 
  }
