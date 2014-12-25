@@ -3,6 +3,7 @@
   <string name="action_cancel">Odustani</string>
   <string name="action_confirm">Odaberi</string>
   <string name="action_submit">Pošalji</string>
+  <string name="announcement">Pažnja</string>
   <string name="app_empty">"Nemate preuzetih aplikacija."</string>
   <string name="app_label">Prijava grešaka</string>
   <string name="bluetooth_problem1">"Ne mogu uparivati s drugim uređajima"</string>
@@ -15,7 +16,7 @@
   <string name="button_feedback">Ostalo</string>
   <string name="button_plus">+1</string>
   <string name="camera_problem1">Loša kvaliteta fotografije</string>
-  <string name="camera_problem2">"Ne mogu se spojiti na fotoaparat sa USB-om"</string>
+  <string name="camera_problem2">"Ne mogu se povezati na fotoaparat sa USB-om"</string>
   <string name="camera_problem3">Fotoaparat često prekida</string>
   <string name="camera_problem4">"Ne može se prebacivati ​​između prednje/stražnje kamere"</string>
   <string name="camera_problem5">Fotoaparat je prestao raditi</string>
@@ -31,12 +32,12 @@
   <string name="discard_draft_dialog_content">"Sve promjene koje ste napravili na tom izvješću će biti izgubljene."</string>
   <string name="discard_draft_dialog_title">Odbaciti promjene ?</string>
   <string name="err_type">Vrsta greške</string>
+  <string name="err_type_app">Aplikacije</string>
   <string name="err_type_bluetooth">Bluetooth</string>
   <string name="err_type_camera">Fotoaparat</string>
   <string name="err_type_hardware">Hardware</string>
   <string name="err_type_hardware_summary">Tipke, punjenje, senzori, itd.</string>
-  <string name="err_type_mysuggestion">Prijedlozi</string>
-  <string name="err_type_mysuggestion_summary">Podijelite ideje i pov. informacije s nama</string>
+  <string name="err_type_more">Više</string>
   <string name="err_type_nonsystemapp">Ostale aplikacije</string>
   <string name="err_type_power_consuming">Korištenje baterije</string>
   <string name="err_type_reboot">Ponovna pokretanja</string>
@@ -72,6 +73,7 @@
   <string name="refresh">Osvježi</string>
   <string name="report_miui">Prijavi pogrešku</string>
   <string name="screen_lock">Zaključavanje zaslona</string>
+  <string name="screen_orientation_type">-1</string>
   <string name="section_description">Opis</string>
   <string name="section_err_type">Vrsta pogreške</string>
   <string name="section_screenshot">Snimka zaslona</string>
@@ -87,11 +89,14 @@
   <string name="systemui">Panel obavijesti</string>
   <string name="title_common_problem">Uobičajene greške</string>
   <string name="title_hot_problem">Nedavne greške</string>
+  <string name="title_nonsystem_app">Ostale aplik.</string>
+  <string name="title_system_app">MIUI aplik.</string>
   <string name="toast_description_required">Potreban je opis</string>
-  <string name="toast_feedback_network_unavailable">"Ne mogu se spojiti na mrežu"</string>
+  <string name="toast_feedback_network_unavailable">"Ne mogu se povezati na mrežu"</string>
   <string name="toast_feedback_pending_wlan">"Izvješće će biti poslano kada budete povezani na WLAN mrežu. Pov. informacija će biti poslana kada WLAN mreža bude dostupna."</string>
   <string name="toast_feedback_submitted">Izvješće je poslano</string>
   <string name="toast_feedbackservice_in_submit">Slanje prethodnih informacija…</string>
+  <string name="toast_network_unavailable">"Ne mogu poslati. Ne mogu se povezati na mrežu."</string>
   <string name="toast_pending_log_collection">Još prikupljam zapise…</string>
   <string name="toast_report_copied_to_clipboard">Izvješće kopirano u međuspremnik</string>
   <string name="toast_report_sent_failed">"Ne mogu poslati izvješće"</string>

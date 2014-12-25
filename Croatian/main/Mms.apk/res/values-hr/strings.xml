@@ -19,6 +19,8 @@
   <string name="add_smiley">Smješko</string>
   <string name="add_timing">Vrijeme</string>
   <string name="add_video">Dodaj videozapis</string>
+  <string name="audio_download_failed">Preuzimanje zvuka nije uspjelo</string>
+  <string name="audio_playing_seconds">%d\"</string>
   <string name="adding_attachments">Pričekajte završetak dodavanja stavki u dijaprojekciju.</string>
   <string name="adding_attachments_title">Dodavanje privitaka</string>
   <string name="adding_recipients">Dodavanje primatelja…</string>
@@ -47,8 +49,9 @@
   <string name="cannot_add_picture_and_video">Na jedan slajd nije moguće dodati videozapis i sliku.</string>
   <string name="cannot_add_slide_anymore">Nije moguće dodati više slajdova.</string>
   <string name="cannot_forward_drm_obj">DRM objekt koji se nalazi u poruci nije moguće proslijediti.</string>
-  <string name="cannot_get_details">Nije moguće dobiti pojedinosti</string>
-  <string name="cannot_send_message">Nije moguće poslati ovu poruku</string>
+  <string name="cannot_get_details">"Ne mogu dobiti pojedinosti""</string>
+  <string name="cannot_resend_audio">"Ne mogu poslati snimku"</string>
+  <string name="cannot_send_message">"Ne mogu poslati ovu poruku""</string>
   <string name="cannot_send_message_reason">Poruka nema važećeg primatelja.</string>
   <string name="change_duration_activity">Promjena trajanja</string>
   <string name="check_all">Odaberite sve</string>
@@ -116,8 +119,9 @@
   <string name="dl_failure_notification">Preuzimanje poruke od %1$s za %2$s nije bilo moguće.</string>
   <string name="done">Done</string>
   <string name="download">Preuzmi</string>
-  <string name="download_later">Preuzimanje u ovom trenutku nije moguće. Pokušajte ponovo kasnije.</string>
+  <string name="download_later">""Preuzimanje u ovom trenutku nije moguće. Pokušajte ponovo kasnije.""</string>
   <string name="downloading">Preuzimanje…</string>
+  <string name="downloading_file_can_not_play">Pričekajte dok se ne završi preuzimanje</string>
   <string name="duration_not_a_number">Trajanje mora biti broj</string>
   <string name="duration_sec">Trajanje (%s sek)</string>
   <string name="duration_selector_title">"Trajanje slajda"</string>
@@ -171,6 +175,7 @@
   <string name="group_resend_message">Ponovno slanje (%d)</string>
   <string name="guild_add_attachments">Kliknite ovdje za dodavanje privitaka ili emotikona za poruku</string>
   <string name="guild_add_recipients">Kliknite ovdje za dodavanje primatelja u imeniku</string>
+  <string name="guild_msim_switcher">Dodirnite za promjenu SIM kartice</string>
   <string name="has_invalid_recipient">Nevažeći primatelj(i): %1$s</string>
   <string name="hidden_sender_address">Skrivena adresa pošiljatelja</string>
   <string name="hint_search_sms">%d SMS-a</string>
@@ -185,7 +190,8 @@
   <string name="invalid_recipient_message">Ispravite primatelja (e) ili neće primiti poruku.</string>
   <string name="kilobyte">KB</string>
   <string name="layout_selector_title">"Izgled dijaprojekcije "</string>
-  <string name="loading_all_messages">Učitavanje svih poruka..</string>
+  <string name="left_cancel">Pomaknite ulijevo da poništite</string>
+  <string name="loading_all_messages">Učitavanje svih poruka.</string>
   <string name="loading_conversations">Učitavanje razgovora…</string>
   <string name="loading_mms">Učitavanje MMS-a…</string>
   <string name="manage_permission_app_label">Dopuštenja uređaja</string>
@@ -205,6 +211,7 @@
   <string name="menu_new_manual">Unesite broj ručno</string>
   <string name="menu_pick_from_contact">Odabrati iz kontkata</string>
   <string name="menu_preferences">Postavke</string>
+  <string name="menu_send_as_common">Pošalji kao SMS</string>
   <string name="menu_unlock">Odznači</string>
   <string name="menu_view_contact">Prikaži kontakt</string>
   <string name="menu_yellowpage">Prikaži %s</string>
@@ -221,14 +228,15 @@
   <string name="message_saved_as_draft">Poruka je spremljena kao skica.</string>
   <string name="message_send_failed_title">Poruka nije poslana</string>
   <string name="message_send_read_report">Izvješće o čitanju bit će poslano.</string>
+  <string name="message_sent">Pošalji</string>
   <string name="message_size_label">"Veličina poruke: "</string>
   <string name="message_too_big_for_audio">Poruka je prevelika da bi se priložio zvučni zapis.</string>
   <string name="message_too_big_for_video">Poruka je prevelika da bi se priložio videozapis.</string>
   <string name="message_type_label">"Vrsta: "</string>
   <string name="messagelist_sender_self">Ja</string>
   <string name="mms">MMS</string>
-  <string name="move_down">Pomakni prema dolje</string>
-  <string name="move_up">Pomakni prema gore</string>
+  <string name="move_down">Povuci prema dolje</string>
+  <string name="move_up">Povuci prema gore</string>
   <string name="msg_type_hint_mms">Multimedijska poruka</string>
   <string name="msg_type_hint_mx">Mi Poruka</string>
   <string name="msg_type_hint_sms">SMS</string>
@@ -238,6 +246,7 @@
   <string name="msglist_release_to_more">Otpustite da bi vidjeli više</string>
   <string name="multimedia_message">MMS</string>
   <string name="multimedia_notification">Obavijest o MMS-u</string>
+  <string name="mx2_type_description">[%s]</string>
   <string name="mx_activate_dlg_title">Aktiviraj Mi Poruke</string>
   <string name="mx_activate_error_malformed_info">Morate ponovno aktivirati Mi Poruke</string>
   <string name="mx_activate_error_server">"Ne mogu aktivirati"</string>
@@ -296,6 +305,7 @@
   <string name="phrase_list_title" formatted="false">Izraza (%1$d)</string>
   <string name="pick_too_many_recipients">Previše dodanih primatelja</string>
   <string name="play">Reproduciraj</string>
+  <string name="playing_failed">"Ne mogu reproducirati"</string>
   <string name="prefDefault_ringtone_repeat">1</string>
   <string name="prefDefault_vibrateWhen">nikad</string>
   <string name="prefDefault_vibrate_false">nikad</string>
@@ -349,6 +359,7 @@
   <string name="pref_title_wake_up_screen">Buđenje zaslona</string>
   <string name="preferences_title">Postavke</string>
   <string name="prepare_send">Priprema za slanje…</string>
+  <string name="press_recording">Dodirni &amp; zadrži ikonu mikrofona za snimanje</string>
   <string name="preview">Pregled</string>
   <string name="preview_slideshow">Pregled</string>
   <string name="priority_high">Visoki</string>
@@ -365,12 +376,14 @@
   <string name="quick_reply">Odgovori</string>
   <string name="rate_limit_surpassed">U redu</string>
   <string name="received_label">"Primljeno: "</string>
+  <string name="recording_failed">"Ne mogu snimiti"</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">"Primatelj: "</string>
   <string name="refill_now">Nadoplati sada</string>
   <string name="refresh">Osvježi</string>
   <string name="refresh_failed">Ažuriranje neuspjelo</string>
   <string name="refreshing">Osvježavam…</string>
+  <string name="release_cancel">Pusti za poništavanje</string>
   <string name="remove">Ukloni</string>
   <string name="remove_music">Ukloni glazbu</string>
   <string name="remove_picture">Ukloni sliku</string>
@@ -381,6 +394,7 @@
   <string name="replace_image">Zamijeni sliku</string>
   <string name="resent_message">Ponovno pošalji</string>
   <string name="resize_image_error_information">Ova slika prevelika je za slanje čak i ako se promijeni njezina veličina.</string>
+  <string name="resource_price_free">Besplatno</string>
   <string name="restore_all_button_msg">Vrati sve poruke s ovog broja</string>
   <string name="restore_blocked_message">Vrati blokirane poruke</string>
   <string name="restore_to_phone_memory_failed">"Ne mogu vratiti"!</string>
@@ -394,6 +408,7 @@
   <string name="saved_ringtone">Melodija zvona je spremljena</string>
   <string name="saved_ringtone_fail">Melodiju zvona nije moguće spremiti</string>
   <string name="saved_to_sim">Spremljeno na SIM karticu!</string>
+  <string name="sdcard_has_not_enough_space">Nema dovoljno prostora na SD kartici</string>
   <string name="search">Poruke</string>
   <string name="search_empty">Nema podudaranja</string>
   <string name="search_hint">Pretraživanje slanja poruka</string>
@@ -447,7 +462,9 @@
   <string name="sms_full_body">"Dolazna poruka odbijena: Nema dovoljno prostora na ovom uređaju."</string>
   <string name="sms_full_title">Memorija tekstualnih poruka je puna</string>
   <string name="sms_rejected_body">Dolazna poruka je odbijena.</string>
-  <string name="sms_rejected_title">Tekstualna poruka odbijena je</string>
+  <string name="sms_rejected_title">Tekstualna poruka je odbijena</string>
+  <string name="snippet_audio">[audio]</string>
+  <string name="snippet_picture">[slika]</string>
   <string name="sp_category_all">Sve poruke usluga</string>
   <string name="sp_category_bank">Obavijesti poruke iz banke</string>
   <string name="sp_category_title_prefix">%s</string>
@@ -520,6 +537,7 @@ Provedeni pokušaj: %s."</string>
   <string name="view_hms_details">Detalji</string>
   <string name="view_message_details">Prikaži pojedinosti</string>
   <string name="wap_push_title">"[WAP Push] "</string>
+  <string name="warning_show">Pošalji za %ds</string>
   <string name="xiaomi_service_number">Broj usluge</string>
   <string name="yes">U redu</string>
 </resources>

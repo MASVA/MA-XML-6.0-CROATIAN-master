@@ -50,13 +50,12 @@
   <string name="find_device_disabled_title">"Pronađi Uređaj" isključeno</string>
   <string name="find_device_disabling">Isključivanje…</string>
   <string name="find_device_dspt">Locirajte, zaključajte, ili resetiratjte vaš uređaj na daljinu</string>
-  <string name="find_device_dspt_provision">"Ako izgubite svoj ​​uređaj, možete ići na "</string>
+   <string name="find_device_dspt_provision">"Pronađi Uređaj
+   
+Pronađite, zaključajte, ili resetirajte vaš uređaj na  "</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
-  <string name="find_device_dspt_provision_3">" da biste ga locirali, zaključali, ili resetirali.
-
-Možete uključiti/isključiti tu značajku bilo kada u Postavkama.
-"</string>
+  <string name="find_device_dspt_provision_3">". Možete uključiti/isključiti tu značajku bilo kada u Postavkama."</string>
   <string name="find_device_enabling">Uključivanje…</string>
   <string name="find_device_error_network">Provjerite svoju podatkovnu vezu i pokušajte ponovno</string>
   <string name="find_device_error_server">Greška poslužitelja</string>
@@ -171,9 +170,11 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="more_activity_in_upgrade_space">Saznajte više na <a href="http://i.mi.com">i.mi.com</a></string>
   <string name="mx_dspt">Mi Poruke</string>
   <string name="mx_dspt_provision">"Mi Poruke omogućuju vam slanje poruka drugim MIUI korisnicima bez dodatnih SMS troškova.
-
+  
 Možete uključiti/isključiti tu značajku bilo kada u Postavkama."</string>
-  <string name="mx_sub_dspt_provision">Mi Poruke</string>
+  <string name="mx_dspt_provision_privacy">"Ova usluga može zatražiti vaš broj telefona. Vaš davatelj usluga može vam naplatiti SMS poruku korištenu za aktiviranje ove usluge.
+Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string>
+  <string name="mx_sub_dspt_provision">Mi Poruka</string>
   <string name="next">Dalje</string>
   <string name="noRemind">"Ne podsjećaj me"</string>
   <string name="no_sim">"Nema SIM kartice"</string>
@@ -201,19 +202,24 @@ Možete uključiti/isključiti tu značajku bilo kada u Postavkama."</string>
   <string name="sub_sync_item_sms_title_wifi_only">Sinkronizacija MMS-a samo preko WLAN-a</string>
   <string name="success_upgraded_space">%s dodano</string>
   <string name="sync_dspt">Sinkr.</string>
-  <string name="sync_dspt_provision">"Mi Cloud sinkronizira vaše fotografije, SMS poruke, bilješke, podatke aplikacija i još mnogo toga između svih vaših Mi uređaja. Također im možete pristupiti s bilo kojeg preglednika na "</string>
+  <string name="sync_dspt_entrance_provision">Sinkronizirajte vaše fotografije, kontakte i poruke, ili locirajte uređaj.</string>
+  <string name="sync_dspt_entrance_provision_2">Saznajte više</string>
+  <string name="sync_dspt_provision">"Sinkronizacija
+Sinkronizirajte vaše fotografije, kontakte, bilješke, i više između svih vaših uređaja ili im pristupite na "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
-  <string name="sync_dspt_provision3">".
-
-Možete uključiti/isključiti tu značajku bilo kada u Postavkama
+  <string name="sync_dspt_provision3">". Možete uključiti/isključiti tu značajku bilo kada u Postavkama.
+  
+  
 "</string>
+  <string name="sync_dspt_provision_title">Mi Cloud</string>
   <string name="sync_item_calllog_summary">Sinkroniziraj zapise obavljenih/primljenih poziva na oavj telefon</string>
   <string name="sync_item_calllog_title">Sinkroniziraj povijest poziva</string>
   <string name="sync_item_sms_summary">Sinkroniziraj poslane/primljene SMS poruke na ovaj telefon</string>
   <string name="sync_item_sms_title">Sinkroniziraj SMS</string>
   <string name="sync_off">Isključeno</string>
   <string name="sync_on">Uključeno</string>
+  <string name="sync_resend_sms_dspt_provision">. Ako promijenite SIM kartice, vaš davatelj usluga može vam naplatiti SMS poruku korištenu za ponovno aktiviranje ove usluge.</string>
   <string name="sync_setting">Uporaba mobilnih podataka</string>
   <string name="sync_standard">SMS i povijest poziva</string>
   <string name="sync_sub_1_intl_sms">Međunarodni i domaći SMS će biti poslan za povezivanje vaših SIM kartica s ovim računom. Snositi ćete naknade vašeg mobilnog operatera.</string>
@@ -225,7 +231,7 @@ Možete uključiti/isključiti tu značajku bilo kada u Postavkama
   <string name="sync_sub_dspt_provision">Sinkronizacija fotografija, kontakata, glazbe, aplikacija, i više toga između vaših uređaja</string>
   <string name="sync_sub_int_dspt">Aktivacijski SMS poruka podliježe naknadama međunarodnog prometa uporabe podataka.</string>
   <string name="title_reg">Napravite MiRačun</string>
-  <string name="total_space_upgraded_to">Ukupan prostor:%s</string>
+  <string name="total_space_upgraded_to">Ukupan prostor: %s</string>
   <string name="upgrade_space">Dodaj prostor</string>
   <string name="upgrade_space_gb">GB</string>
   <string name="upgrade_space_mibipreyear">%s Mi Kredita godišnje</string>
@@ -234,7 +240,9 @@ Možete uključiti/isključiti tu značajku bilo kada u Postavkama
   <string name="upgrade_space_tb">TB</string>
   <string name="unactivated_user">Odjavljeno</string>
   <string name="user_agreement">Korisnički Sporazum</string>
-  <string name="user_agreement_p6">"Vaše korištenje ove značajke podliježe  "</string>
+  <string name="user_agreement_p6">"
+  
+  Vaše korištenje ove značajke podliježe  "</string>
   <string name="user_agreement_p7">"Mi Cloud Uvjetima pružanja usluge"</string>
   <string name="user_agreement_p8">.</string>
   <string name="vcode">Provjera koda</string>

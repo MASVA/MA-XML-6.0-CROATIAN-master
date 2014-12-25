@@ -117,6 +117,7 @@
   <string name="data_keep_in_device">Zadrži podatke na ovom uređaju</string>
   <string name="data_wipe_from_device">Izbriši iz ovog uređaja</string>
   <string name="delete_device_btn">Ukloni</string>
+  <string name="delete_device_failed">"Ne mogu ukloniti uređaj"</string>
   <string name="delete_device_notice">"Nakon što je uređaj uklonjen, isti će biti odjavljen iz Mi Računa automatski. Nećete biti u mogućnosti koristiti ovaj uređaj za pristup fotografijama, porukama, ili drugom sadržaju pohranjenim na vašem računu."</string>
   <string name="device_delete_loading">Trenutak…</string>
   <string name="device_delete_success_message">"Ako se vi niste niste prijavili na ovom uređaju, odmah promijenite svoju zaporku."</string>
@@ -181,6 +182,7 @@
   <string name="next">Dalje</string>
   <string name="no_network_btn">Osvježi</string>
   <string name="no_network_title">"Ne mogu se povezati na mrežu."</string>
+  <string name="no_response_retry">Nema odgovora, pokušajte ponovo.</string>
   <string name="no_sim_card">Nema SIM kartice</string>
   <string name="nobind">Nije dodano</string>
   <string name="other_devices">Ostali uređaji</string>

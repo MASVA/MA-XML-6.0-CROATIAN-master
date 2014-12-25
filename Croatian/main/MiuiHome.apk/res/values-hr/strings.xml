@@ -162,7 +162,7 @@
   <string name="scroll_tip_format_when_announce_accessibility">na stranici %1$d, %2$d aplikacija</string>
   <string name="select_frame">Okvir</string>
   <string name="select_photo">Fotografija</string>
-  <string name="setting_wallpaper_tip">Premjesti ili pomakni</string>
+  <string name="setting_wallpaper_tip">Premjesti ili uvećaj</string>
   <string name="settings_shortcut">Postavke</string>
   <string name="sharedUserId"/>
   <string name="show_all">Prikaži sve</string>
@@ -203,7 +203,7 @@
   <string name="wallpaper_failed_message">"Ne mogu podesiti sliku pozadine"</string>
   <string name="wallpaper_scrolling">sve</string>		   
   <string name="wallpaper_settings">Postavke slike pozadine</string>
-  <string name="wallpaper_success_message">Slika pozadine uspješno podešena</string>
+  <string name="wallpaper_success_message">Podešeno za sliku pozadine</string>
   <string name="widget_favorite_contacts_edit">Urednik</string>
   <string name="widget_favorite_contacts_label">Kontakti</string>
   <string name="widget_favorite_contacts_style">Promjena veličine</string>

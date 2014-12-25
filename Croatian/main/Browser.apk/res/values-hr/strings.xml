@@ -653,6 +653,10 @@
   <string name="sub_sync_item_browser_title_novel_summary">Sink. novela iz preglednika</string>
   <string name="sub_sync_item_browser_title_webapp">Sink. web aplikacija</string>
   <string name="sub_sync_item_browser_title_webapp_summary">Sink. dodanih web aplik. i favorita</string>
+  <string name="suggest_access_appstore">Mi App Store</string>
+  <string name="suggest_access_item_app_size">%.2fMB</string>
+  <string name="suggest_access_item_app_update">Ažuriranje: %s</string>
+  <string name="suggest_access_music">Mi Glazba</string>
   <string name="sync_item_browser_summary">Sink. podataka na vaš cloud, i učinite korištenje preglednika na različitim uređajima jednostavnim</string>
   <string name="sync_item_browser_title">Sink. preglednik</string>
   <string name="tab_history">Povijest</string>
