@@ -41,7 +41,7 @@ Uvjeti pružanja usluge: %2$s"</string>
   <string name="bind_bracelet_ok">Uspješno upareno</string> 
   <string name="bind_devices">Upari uređaje</string>
   <string name="bind_mi_band">Upari MiBand</string>
-  <string name="bind_mi_band_about">&lt;Data&gt;&amp;lt;a href=http://www.mi.com&amp;gt; Mi Bind Web stranica&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
+  <string name="bind_mi_band_about">&lt;Data&gt;&amp;lt http://www.mi.com&amp;gt; Mi Bind Web stranica &amp;lt;&amp;gt;&lt;/Data&gt;</string>
   <string name="bind_new_mili">Poveži s novim  MiBandom</string> 
   <string name="bind_qq">Dodaj QQ</string>
   <string name="bind_qq_health">Sink. s QQ Health Center</string>
@@ -616,18 +616,18 @@ Potrošeno %3$s cal. Prethodni rekord je bio %5$s koraka, postavljen %4$s."</str
   <string name="stat_step_distance_total">Ukupna Udaljenost</string>
   <string name="stat_step_piece">koraka</string>
   <string name="stat_step_run_calorie">Potrošeno trčanjem</string>
-  <string name="stat_step_run_calories_average">Prosj. Potrošeno trčanjem</string>
-  <string name="stat_step_run_distance">Trčano Udaljenost</string>
-  <string name="stat_step_run_distance_average">Prosj. Udaljenost trčanja</string>
+  <string name="stat_step_run_calories_average">Prosj. Potr. Trčanjem</string>
+  <string name="stat_step_run_distance">Udaljenost trčanja</string>
+  <string name="stat_step_run_distance_average">Prosj. Udalj. Trčanja</string>
   <string name="stat_step_run_duration">Vrijeme trčanja</string>
-  <string name="stat_step_run_duration_average">Prosj. Vrijeme trčanja</string>
+  <string name="stat_step_run_duration_average">Prosj. Vr. Trčanja</string>
   <string name="stat_step_total">Ukupno koraka</string>
   <string name="stat_step_walk_calorie">Potrošeno šetnjom</string>
-  <string name="stat_step_walk_calories_average">Prosj. Potrošeno šetnjom</string>
-  <string name="stat_step_walk_distance">Šetnja Udaljenost</string>
-  <string name="stat_step_walk_distance_average">Prosj. Šetnja Udaljenost</string>
+  <string name="stat_step_walk_calories_average">Prosj. Potr. Šetnjom</string>
+  <string name="stat_step_walk_distance">Udaljenost šetanja</string>
+  <string name="stat_step_walk_distance_average">Prosj. Udalj. Šetanja</string>
   <string name="stat_step_walk_duration">Vrijeme šetanja</string>
-  <string name="stat_step_walk_duration_average">Prosj. Vrijeme šetanja</string>
+  <string name="stat_step_walk_duration_average">Prosj. Vr. Šetanja</string>
   <string name="state_authorization_doing">Autorizacija ...</string>
   <string name="state_authorization_error">Neuspjela autorizacija!</string>
   <string name="state_authorization_success">Uspješno autorizirano!</string>

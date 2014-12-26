@@ -688,10 +688,10 @@ Vaša SIM kartica bit će izbrisani nakon još jednog neuspjelog pokušaja."</st
   <string name="retail_directory_disable">Maloprodajni imenik je isključen</string>
   <string name="retail_directory_enable">Maloprodajni imenik je uključen</string>
   <string name="retry_btn">Pokušaj ponovo</string>
-  <string name="reverting_settings">Povrat postavki…</string>
+  <string name="reverting_settings">Vraćanje postavki…</string>
   <string name="rhrpd_unlock_failed">RUIM HRPD zahtjev otključavanja neuspješan.</string>
   <string name="rhrpd_unlock_success">RUIM HRPD otključavanje uspješno.</string>
-  <string name="ringtone_title">Melodija zvona telefona</string>
+  <string name="ringtone_title">Melodija zvona</string>
   <string name="rnw1_unlock_failed">RUIM mreža1 zahtjev otključavanja neuspješan.</string>
   <string name="rnw1_unlock_success">RUIM mreža1 otključavanje uspješno.</string>
   <string name="rnw2_unlock_failed">RUIM mreža2 zahtjev otključavanja neuspješan.</string>
@@ -850,7 +850,7 @@ Vaša SIM kartica bit će izbrisani nakon još jednog neuspjelog pokušaja."</st
   <string name="username_title">Korisničko ime</string>
   <string name="ussdRunning">Pokrenut je USSD kôd…</string>
   <string name="ussd_dialog_sep">----------</string>
-  <string name="vibrate_on_ring_title">Vibrira dok zvoni</string>
+  <string name="vibrate_on_ring_title">Vibracija kod zvonjenja</string>
   <string name="vm_change_failed">"Nije bilo moguće promijeniti broj govorne pošte.
 Obratite se davatelju usluge ako problem potraje."</string>
   <string name="vm_changed">Broj govorne pošte je promijenjen.</string>

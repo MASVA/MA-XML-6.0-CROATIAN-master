@@ -888,7 +888,7 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="enable_terminal_summary">Omogući aplikaciju terminala koja nudi pristup lokalnoj ovojnici</string>
   <string name="enable_terminal_title">Lokalni terminal</string>
   <string name="enable_text">"Omogući"</string>
-  <string name="enable_wifi_display">Omogući bežični prikaz</string>
+  <string name="enable_wifi_display">Omogući bežični zaslon</string>
   <string name="enforce_read_external_confirm_message">"Kad je USB pohrana zaštićena, aplikacije moraju tražiti dopuštenje za čitanje podataka s vanjske pohrane. 
 Neke aplikacije neće raditi dok ih ne ažuriraju njihovi razvijatelji."</string>
   <string name="enforce_read_external_confirm_title">Zaštititi USB pohranu?</string>
@@ -1032,7 +1032,7 @@ Ako je tekst vašeg sustava još uvijek premalen, pokušajte koristiti "</string
   <string name="high_performance_title">"Izgleda kao da provodite benchmark testiranje. Postavite upravljanje napajanjem na \"Performanse\" za bolje rezultate."</string>
   <string name="history_details_title">Detalji povijesti</string>
   <string name="home_app_uninstall_button">Deinstaliraj aplikaciju</string>
-  <string name="home_key">Tipka Početna</string>
+  <string name="home_key">Početna</string>
   <string name="home_settings">Početna</string>
   <string name="ime_security_warning">%1$sOva tipkovnica može snimiti sve što tipkate, uključujući zaporke, brojeve kreditnih kartica i druge osobne podatke.</string>
   <string name="immediately_destroy_activities">"Uklanjanje aktivnosti"</string>
@@ -1825,7 +1825,7 @@ i pokrenite ga."</string>
   <string name="ringtone_mute">Utišano</string>
   <string name="ringtone_slot_setting_title">Postavke jedne SIM kartice</string>
   <string name="ringtone_summary"/>
-  <string name="ringtone_title">"Melodija zvona telefona"</string>
+  <string name="ringtone_title">"Melodija zvona"</string>
   <string name="ringtone_uniform_setting_title">Postavke dvije SIM kartice</string>
   <string name="roaming">Roaming podataka</string>
   <string name="roaming_disable">"Poveži se s podatkovnim uslugama u roamingu"</string>
@@ -2450,12 +2450,12 @@ Riječ možete dodati dodirom na tipku Dodaj (+)"</string>
   <string name="verify_apps_over_usb_summary">Provjerite uzrokuju li aplikacije instalirane putem ADB-a/ADT-a poteškoće.</string>
   <string name="verify_apps_over_usb_title">Potvrdi aplikacije putem USB-a</string>
   <string name="version_text">verzija %1$s</string>
-  <string name="vibrate_category_title">"Vibracija"</string>
-  <string name="vibrate_in_normal_title">"Vibrira dok zvoni"</string>
+  <string name="vibrate_category_title">Vibracija</string>
+  <string name="vibrate_in_normal_title">Vibracija kod zvonjenja</string>
   <string name="vibrate_in_silent_title">Vibracija ako je bešumno</string>
-  <string name="vibrate_input_devices">Upotrijebi vibrator</string>
-  <string name="vibrate_input_devices_summary">Preusmjeri vibrator na igrači kontroler kada su povezani.</string>
-  <string name="vibrate_when_ringing_title">"Vibrira dok zvoni"</string>
+  <string name="vibrate_input_devices">Upotrijebi vibraciju</string>
+  <string name="vibrate_input_devices_summary">Preusmjeri vibraciju na igrači kontroler kada su povezani.</string>
+  <string name="vibrate_when_ringing_title">Vibracija kod zvonjenja</string>
   <string name="view_install_log">Prikaži zapisnik grešaka</string>
   <string name="virus_scan">Skeniranje</string>
   <string name="virus_scan_app_continue">Nastavi skeniranje</string>
@@ -2503,7 +2503,7 @@ Riječ možete dodati dodirom na tipku Dodaj (+)"</string>
   <string name="volume_media_mute">Isključivanje zvuka glazbe &amp; drugih medija</string>
   <string name="volume_notification_description">Obavijesti</string>
   <string name="volume_notification_mute">Isključivanje zvuka obavijesti</string>
-  <string name="volume_restore">Poništiti razine</string>
+  <string name="volume_restore">Poništavanje razina</string>
   <string name="volume_restore_alert">"Sve razine glasnoće će se resetirati."</string>
   <string name="volume_ring_description">Melodija zvona &amp; obavijesti</string>
   <string name="volume_ring_mute">Isključi zvuk melodije zvona &amp; obavijesti</string>
