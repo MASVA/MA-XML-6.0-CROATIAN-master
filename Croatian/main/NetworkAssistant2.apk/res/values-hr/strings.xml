@@ -18,6 +18,8 @@
   <string name="chat_number">10 sati</string>
   <string name="chat_uint">" sati"</string>
   <string name="checkout_traffic_saving_history">Prikaži povijest</string>
+  <string name="daily_limit_network_available_body">Dodirni za pregled statistike uporabe podataka.</string>
+  <string name="daily_limit_over_message">"Premašili ste svoje dnevno ograničenja uporabe podataka."</string>
   <string name="daily_pkg_traffic">Postavi ograničenje maks. uporabe podataka</string>
   <string name="data_usage_correction_timeout_body">Dodirnite za ručno ažuriranje.</string>
   <string name="data_usage_correction_timeout_title">Isteklo je vrijeme sinkronizacije uporabe podataka</string>
@@ -82,6 +84,7 @@ Za više informacija provjerite poruku koju ste dobili od svog davatelja usluga"
   <string name="firewall_rule_group_title_mobile">Mobilni podaci</string>
   <string name="firewall_rule_group_title_wifi">WLAN</string>
   <string name="firewall_service_network_blocked">%1$s je ograničeno od korištenja %2$s mreža</string>
+  <string name="five_percent_total_pkg">%s (5%% od vaših mjesečnih mobilnih podataka)</string>
   <string name="force_stop_dlg_text">"Ako ograničite pozadinske mobilne podatke, neke aplikacije i usluge neće raditi ako niste spojeni na WLAN mrežu."</string>
   <string name="force_stop_dlg_title">Ograniči pozadinske podatke</string>
   <string name="foreground_traffic">Prednja strana %s</string>
@@ -203,6 +206,8 @@ Maks.: %1$s%2$s preostalo | %3$s iskorišteno"</string>
   <string name="pref_title_declaration">Odricanje odgovornosti</string>
   <string name="pref_title_mobile_traffic">Prikaži podatke korištenja dok je uređaj bio zaključan</string>
   <string name="pref_title_network_diagnostics">Dijagnostika mreže</string>
+  <string name="pref_title_over_traffic_limit_warning">Isključi podatke ako se premaši ograničenje</string>
+  <string name="pref_title_traffic_limit_number">Veličina</string>
   <string name="pref_title_traffic_speed_state">Prikaži brzinu mreže u traci obavijesti</string>
   <string name="pref_title_update_notification">Prikaži obavijesti uporabe podataka</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
@@ -230,6 +235,8 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg davatelja mobilnih
   <string name="privacy_prompt_traffic_adjust_message">"Vaš telefonski broj i detalji davatelja usluga će biti učitani na Xiaomi poslužitelje kako bi se ažurirali upiti predloška SMS-a i da biste provjerili je li ova značajka dostupna na vašem području."</string>
   <string name="privacy_prompt_traffic_purchase_message">"Vaš telefonski broj i detalji davatelja usluga će biti učitani na Xiaomi poslužitelje kako bi dobili više informacija o mogućnosti kupnje podataka."</string>
   <string name="privacy_prompt_upload">Obavijesti privatnosti</string>
+  <string name="reach_daily_limit_value_body">Smanjite svoj mobilni podatkovni promet.</string>
+  <string name="reach_daily_limit_value_title">Postignuto ograničenje dnevnih podataka</string>
   <string name="read_number">86 predmeta</string>
   <string name="read_unit">" predmeta"</string>
   <string name="right_precent">100%</string>
@@ -275,9 +282,12 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg davatelja mobilnih
   <string name="tc_sms_report_title">Pogreška izvješća uporabe podataka</string>
   <string name="tc_sms_report_upload_success">"SMS izvješća uporabe podataka primljen. Bacamo se odmah na njega!"</string>
   <string name="tc_sms_report_upload_when_net">Hvala vam za povratnu informaciju!</string>
-  <string name="text_day">". dan"</string>
+  <string name="ten_percent_total_pkg">%s (10%% od vaših mjesečnih mobilnih podataka)</string>
+  <string name="text_day"/>
+  <string name="three_percent_total_pkg">%s (3%% od vaših mjesečnih mobilnih podataka)</string>
   <string name="tips_dialog_title">"Ne znate svoje ograničenje?"</string>
   <string name="tips_message">"Ako su vam nejasni detalji Vašeg bežičnog plana, možete ih pogledati pozivom na %2$s (%1$s) (Samo Kina)"</string>
+  <string name="title_limit_traffic_per_day">Dnevno ograničenje uporabe podataka</string>
   <string name="traffic_config_alert_body">"Prema vašem davatelju usluga imate: %s.
 Prihvaćate li to?"</string>
   <string name="traffic_config_alert_body_extra">"

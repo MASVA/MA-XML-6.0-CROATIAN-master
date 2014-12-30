@@ -9,7 +9,7 @@
     <string name="apply_font_btn_exclude">Ne sada</string>
     <string name="apply_font_btn_reboot">Ponovno pokreni</string>
     <string name="apply_font_tip">"Ponovno pokrenite za primjenu fonta ove teme."</string>
-    <string name="apply_theme_with_ringtones">Upotrijebiti melodiju zvona teme</string>
+    <string name="apply_theme_with_ringtones">Upotrijebi melodiju zvona teme</string>
     <string name="backup_preference_title">Pohrani temu</string>
     <string name="backup_theme_dialog_message">"Pohraniti vašu trenutnu temu?"</string>
     <string name="backup_theme_dialog_ok">Pohrani</string>
@@ -163,7 +163,7 @@
     <string name="resource_present">Poklon</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Besplatno</string>
-    <string name="resource_price_unit">MI Kredita</string>
+    <string name="resource_price_unit">Mi Kredita</string>
     <string name="resource_purchase_getting_order">Preuzimam info narudžbe…</string>
     <string name="resource_purchase_verifying_payment">Provjeravam info o plaćanju…</string>
     <string name="resource_purchase_waiting_payment">Čekam info o plaćanju…</string>

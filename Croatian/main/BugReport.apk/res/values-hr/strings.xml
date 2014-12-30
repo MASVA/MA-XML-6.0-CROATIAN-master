@@ -73,7 +73,7 @@
   <string name="refresh">Osvježi</string>
   <string name="report_miui">Prijavi pogrešku</string>
   <string name="screen_lock">Zaključavanje zaslona</string>
-  <string name="screen_orientation_type">-1</string>
+  <string name="screen_orientation_type">1</string>
   <string name="section_description">Opis</string>
   <string name="section_err_type">Vrsta pogreške</string>
   <string name="section_screenshot">Snimka zaslona</string>

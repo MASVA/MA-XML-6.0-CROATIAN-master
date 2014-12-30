@@ -349,7 +349,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="theme_store">MIUI Trgovina Tema</string>
   <string name="theme_store_dspt">Odaberite svoj ​​izgled. Stotine slobodnih prilagodljivih tema kako bi vaš telefon izgledao jedinstven.</string>
   <string name="timeout_retry">Istek vremena zahtjeva, pokušajte ponovo.</string>
-  <string name="title_reg">Izradi raču</string>
+  <string name="title_reg">Izradi račun</string>
   <string name="trust_device">Vjerujte ovom uređajue</string>
   <string name="unbind_sns_description">Nakon što uklonite ovaj račun, nećete biti u mogućnosti koristiti informacije vašeg %s Račun, za prijavu u vaš Mi Račun."</string>
   <string name="unbind_weibo_description">Nakon što uklonite ovaj račun, nećete biti u mogućnosti sinkronizirati vaše kontakte iz Weibo, ili koristiti Sina Weibo Račun za prijavu."</string>

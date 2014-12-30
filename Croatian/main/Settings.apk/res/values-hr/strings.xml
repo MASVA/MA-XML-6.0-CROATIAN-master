@@ -933,7 +933,7 @@ Neke aplikacije neće raditi dok ih ne ažuriraju njihovi razvijatelji."</string
   <string name="font_size_huge">Ogroman</string>
   <string name="font_size_large">Velik</string>
   <string name="font_size_medium">Srednji</string>
-  <string name="font_size_normal">Zadano</string>
+  <string name="font_size_normal">Standardan</string>
   <string name="font_size_preview">MIUI</string>
   <string name="font_size_preview_text">Ovo je za one koji vole MIUI. by "MASVA"</string>
   <string name="font_size_save">"U redu"</string>
@@ -1105,9 +1105,9 @@ Ako je tekst vašeg sustava još uvijek premalen, pokušajte koristiti "</string
   <string name="launching_cit">Pokrećem CIT</string>
   <string name="launching_pho">Pokrećem podatke uređaja…</string>
   <string name="launching_rep">Slanje zapisa o pogrešci…</string>
-  <string name="layout_size_large">Ogroman</string>
-  <string name="layout_size_medium">Velik</string>
-  <string name="layout_size_normal">Srednji</string>
+  <string name="layout_size_large">Velik</string>
+  <string name="layout_size_medium">Srednji</string>
+  <string name="layout_size_normal">Standardan</string>
   <string name="layout_size_small">Malen</string>
   <string name="led_colors_summary">Obavijesti</string>
   <string name="led_frequence_summary">Postavi interval između LED treptaja</string>
@@ -1443,7 +1443,7 @@ i pokrenite ga."</string>
   <string name="music_headset_mode_volume">Kontrola razina glasnoće</string>
   <string name="music_headset_no_contected">Slušalice nisu priključene</string>
   <string name="music_headset_settings">Slušalice i zvučni efekti</string>
-  <string name="music_hifi_summary">Smanjite buku i izobličenje i povećajte kvalitetu zvuka. Ova značajka povećava potrošnju baterije.</string>
+  <string name="music_hifi_summary">Smanjite buku i izobličenje i povećajte kvalitetu zvuka.</string>
   <string name="music_hifi_title">Hi-Fi zvuk</string>
   <string name="music_mi_effect_summary">Uvijek koristi MiSound pojačivač prilikom korištenja zvučnika</string>
   <string name="music_mi_effect_title">Koristi MiSound pojačivač</string>
