@@ -165,8 +165,8 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
 Povucite dolje za zaključavanje"</string>
   <string name="status_bar_recent_guide_bottom">Povucite dolje za zaključavanje</string>
   <string name="status_bar_recent_guide_top">Povucite gore za zatvaranje</string>
-  <string name="status_bar_recent_memory_info">%1$s / %2$s dostupno</string>
-  <string name="status_bar_recent_memory_info2">" %s dostupno"</string>
+  <string name="status_bar_recent_memory_info1">%1$sB od %2$sB dostupno</string>
+  <string name="status_bar_recent_memory_info2"/>
   <string name="status_bar_recording_back">Vrati se na snimanje zvuka</string>
   <string name="status_bar_recording_pause">Snimanje zvuka je pauzirano. Dodirnite za povratak na snimanje zvuka.</string>
   <string name="status_bar_settings_airplane">"Način rada u zrakoplovu"</string>

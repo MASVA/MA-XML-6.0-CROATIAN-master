@@ -1000,6 +1000,10 @@ Ako je tekst vašeg sustava još uvijek premalen, pokušajte koristiti "</string
   <string name="global_locale_change_title">Promijeni jezik</string>
   <string name="google_backup_section_title">Google pohrana &amp; obnova</string>
   <string name="gsm_to_wifi_connect_type_title">GSM -> WLAN</string>
+  <string name="handy_mode">Promjena veličine zaslona</string>
+  <string name="handy_mode_enable">Promjena veličine zaslona</string>
+  <string name="handy_mode_size">Veličina zaslona</string>
+  <string name="handy_mode_tips">Prijeđite prstom lijevo ili desno od tipke Početna da pomaknete zaslon bliže jednoj strani.</string>
   <string name="haptic_feedback_enable_title">Vibracija na dodir</string>
   <string name="haptic_feedback_level">Razina vibracije</string>
   <string name="hardkeyboard_category">Postavke fizičke tipkovnice</string>

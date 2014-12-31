@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+alert_secret_album_message<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Import">Uvezi</string>
   <string name="abandon">Odbaci</string>
@@ -44,8 +44,10 @@
   <string name="alert_init_merged_message">"Fotografije ovog uređaja i fotografije pohranjenih na Mi Cloudu prikazuju se zajedno u kartici Fotografije."</string>
   <string name="alert_init_merged_title">Sve vaše fotografije. Zajedno napokon.</string>
   <string name="alert_message_open_sync">Morate prvo uključiti sinkronizaciju</string>
-  <string name="alert_secret_album_message">Prijeđite prstom prema gore pri dnu vaših albuma za prikaz skrivenih albuma.</string>
-  <string name="alert_secret_album_title">Skriveni albumi</string>
+  <string name="alert_secret_album_message">Prijeđite prstom prema gore pri dnu vaših albuma za prikaz tajnih albuma.Kako bi ih zaštitili, morate postaviti uzorak.</string>
+  <string name="alert_secret_album_set_pattern">Podesite uzorak</string>
+  <string name="alert_secret_album_title">Dodano u tajni album</string>
+  <string name="alert_secret_album_title">Tajni albumi</string>
   <string name="already_apply_album">Otvoriti %1$s?</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
   <string name="androidesk_wallpapers">Android slike pozadine</string>
@@ -251,9 +253,6 @@
   <string name="home_page_tab_cloud">Cloud</string>
   <string name="home_page_tab_local">Lokalno</string>
   <string name="home_page_tab_photo">Fotografija</string>
-  <string name="how_many_pics">%d fotogr.</string>
-  <string name="how_many_sub_folders">%d mapa</string>
-  <string name="how_many_videos">%d videozapisa</string>
   <string name="image_download_item_title">Preuzmimanje slike (%s)</string>
   <string name="image_quota_fulfiled">Previše slika. Izbrišite neke slike i pokušajte ponovno.</string>
   <string name="immomo_camera">Immomo</string>
@@ -313,7 +312,6 @@
   <string name="menu_item_sort_size_desc">Veličini (silazno)</string>
   <string name="menu_view_contact">Prikaži kontakt</string>
   <string name="message_no_delete_access">"Nemate dopuštenje za brisanje %s"</string>
-  <string name="message_no_delete_access_with_count">Nemate dopuštenje za brisanje %s datoteka"</string>
   <string name="messagelist_sender_self">Ja</string>
   <string name="miliao">Mi Talk</string>
   <string name="miliao_folder_display_name">MiTalk</string>
@@ -348,6 +346,7 @@
   <string name="no_network_connected">Nema dostupnih mrežnih veza</string>
   <string name="no_picture_or_video">Prazno</string>
   <string name="no_storage_disable_cloud_albums">Cloud je nedostupan.</string>
+  <string name="no_such_album">Album nije pronađen</string>
   <string name="no_such_item">"Ne mogu pronaći stavku."</string>
   <string name="no_thumbnail">Nema minijatura</string>
   <string name="none_picture">Nema slika</string>
@@ -401,7 +400,6 @@
   <string name="photos">Fotografije</string>
   <string name="pick_too_many_recipients">Previše primatelja</string>
   <string name="pick_too_much_tips">"Ne mogu pokupiti toliko mnogo stavaka (maks. %d stavaka)."</string>
-  <string name="pick_with_limited_upper_bound_title">Možete odabrati %d stavaka</string>
   <string name="picker_no_album_selected">Nema odabranih albuma</string>
   <string name="picker_no_items_selected">Nema odabranih stavki</string>
   <string name="picker_select_album_title_empty">Odaberite album</string>
