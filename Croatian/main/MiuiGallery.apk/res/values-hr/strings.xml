@@ -1,4 +1,4 @@
-alert_secret_album_message<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Import">Uvezi</string>
   <string name="abandon">Odbaci</string>
@@ -46,7 +46,6 @@ alert_secret_album_message<?xml version='1.0' encoding='UTF-8'?>
   <string name="alert_message_open_sync">Morate prvo uključiti sinkronizaciju</string>
   <string name="alert_secret_album_message">Prijeđite prstom prema gore pri dnu vaših albuma za prikaz tajnih albuma.Kako bi ih zaštitili, morate postaviti uzorak.</string>
   <string name="alert_secret_album_set_pattern">Podesite uzorak</string>
-  <string name="alert_secret_album_title">Dodano u tajni album</string>
   <string name="alert_secret_album_title">Tajni albumi</string>
   <string name="already_apply_album">Otvoriti %1$s?</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
