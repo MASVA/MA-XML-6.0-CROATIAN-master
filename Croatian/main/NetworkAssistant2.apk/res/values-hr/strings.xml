@@ -32,7 +32,7 @@ Korištenje više od planiranog ograničenja podataka vašeg davatelja usluga mo
   <string name="data_usage_limit_body">Dodirnite za uključivanje mobilnih podataka.</string>
   <string name="data_usage_limit_snoozed_body">Premašeno ograničenje uporabe podataka za ovaj mjesec.</string>
   <string name="data_usage_mobile_limit_snoozed_title">Uporaba podataka premašena</string>
-  <string name="data_usage_mobile_limit_title">Mobilni podaci su onemogućeni</string>
+  <string name="data_usage_mobile_limit_title">Mobilni podaci su isključeni</string>
   <string name="data_usage_no_total_package_body">Dodirnite za postavljanje ograničenja uporabe podataka</string>
   <string name="data_usage_no_total_package_body_dual">Dodirnite za postavljanje ograničenja uporabe podataka za %s?</string>
   <string name="data_usage_no_total_package_title">Nema ograničenja Uporabe podataka</string>
@@ -75,16 +75,16 @@ Za više informacija provjerite poruku koju ste dobili od svog davatelja usluga"
   <string name="detail_app_button">Detalji aplikacije</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
-  <string name="firewall_activity_lable">Ograničite uporabu podataka aplikacijom</string>
+  <string name="firewall_activity_lable">Ograničite uporabu podataka aplikacija</string>
   <string name="firewall_applist">Aplikacije</string>
   <string name="firewall_fragment_nonesys_listempty">Prazno</string>
   <string name="firewall_fragment_sys_listempty">Prazno</string>
   <string name="firewall_fragment_tab_title_nonsys">Instalirano</string>
   <string name="firewall_fragment_tab_title_sys">Sustav</string>
-  <string name="firewall_rule_group_title_mobile">Mobilni podaci</string>
+  <string name="firewall_rule_group_title_mobile">2G/3G</string>
   <string name="firewall_rule_group_title_wifi">WLAN</string>
   <string name="firewall_service_network_blocked">%1$s je ograničeno od korištenja %2$s mreža</string>
-  <string name="five_percent_total_pkg">%s (5%% od vaših mjesečnih mobilnih podataka)</string>
+  <string name="five_percent_total_pkg">%s (5%% od vaših mjes. mobilnih podataka)</string>
   <string name="force_stop_dlg_text">"Ako ograničite pozadinske mobilne podatke, neke aplikacije i usluge neće raditi ako niste spojeni na WLAN mrežu."</string>
   <string name="force_stop_dlg_title">Ograniči pozadinske podatke</string>
   <string name="foreground_traffic">Prednja strana %s</string>
@@ -104,8 +104,8 @@ Za više informacija provjerite poruku koju ste dobili od svog davatelja usluga"
   <string name="main_alert_message_no_mobile_package">"Ograničenje podataka nije postavljeno"</string>
   <string name="main_alert_message_slot_no_data_connection">"Utor SIM kartice ne podržava
 podatkovnu vezu"</string>
-  <string name="main_button_idel_traffic">Maks. isključen</string>
-  <string name="main_button_normal_traffic">Maks.</string>
+  <string name="main_button_idel_traffic">Ograničenje</string>
+  <string name="main_button_normal_traffic">Premašeno</string>
   <string name="main_button_usage_adjust">Postavite ograničenje uporabe podataka</string>
   <string name="main_button_usage_adjust_manual">Postavite ograničenje uporabe podataka</string>
   <string name="main_button_usage_adjusting">Promjena…</string>
@@ -123,15 +123,15 @@ podatkovnu vezu"</string>
 Isklj. Maks.: %1$s preostalo | %2$s iskorišteno"</string>
   <string name="main_secondary_message_traffic_detail_normal">"
 Maks.: %1$s%2$s preostalo | %3$s iskorišteno"</string>
-  <string name="main_secondary_message_traffic_over">preko</string>
+  <string name="main_secondary_message_traffic_over">prekoračeno</string>
   <string name="main_secondary_message_traffic_remain">preostalo</string>
   <string name="main_secondary_message_traffic_used_leisure">%s Isklj. maks. podataka iskorišteno</string>
   <string name="main_secondary_message_traffic_used_noleisure">%s maks.podataka iskorišteno | nema isklj. maks. podataka preostalo</string>
   <string name="main_secondary_message_traffic_used_normal">%s maks.podataka iskorišteno</string>
-  <string name="main_toolbar_firewall">Ograniči</string>
-  <string name="main_toolbar_purchase">Naviše</string>
+  <string name="main_toolbar_firewall">Ograniči uporabu podataka aplikacija</string>
+  <string name="main_toolbar_purchase">Nadoplata</string>
   <string name="main_toolbar_saving">Ušteda</string>
-  <string name="main_toolbar_statistic">Statistika</string>
+  <string name="main_toolbar_statistic">Statistika uporabe podataka</string>
   <string name="main_traffic_overlimit_text">prekoračeno</string>
   <string name="main_traffic_remian_text">preostalo</string>
   <string name="main_traffic_used">%s iskorišteno</string>
@@ -151,7 +151,7 @@ Maks.: %1$s%2$s preostalo | %3$s iskorišteno"</string>
   <string name="notification_title">%1$s-%2$s: o %3$s iskorišteno</string>
   <string name="ok_button">U redu</string>
   <string name="online_chat">Chat</string>
-  <string name="online_read">Čitanje</string>
+  <string name="online_read">Vijesti</string>
   <string name="online_songs">Glazba</string>
   <string name="per_month_pkg_traffic_settings">Podesi ograničenje podataka</string>
   <string name="permit_running_network">Dopusti pozadinske podatke</string>
@@ -219,7 +219,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
 &lt;b&gt;2. Zašto ušteda podataka ne radi??&lt;/b&gt;
 &lt;br /&gt;&lt;br /&gt;
 Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg davatelja mobilnih usluga za slanje i preuzimanje sadržaja.</string>
-  <string name="pref_traffic_saving_notify_switch">Prikaži u traci obavijesti</string>
+  <string name="pref_traffic_saving_notify_switch">Prikaži u panelu obavijesti</string>
   <string name="pref_traffic_saving_notify_switch_hint">Prikaz informacija uštede podataka u traci obavijesti</string>
   <string name="pref_traffic_saving_switch">Smanjite uporabu podataka</string>
   <string name="pref_traffic_saving_switch_hint">Koristi proxy za sažimanje podataka</string>
@@ -282,9 +282,9 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg davatelja mobilnih
   <string name="tc_sms_report_title">Pogreška izvješća uporabe podataka</string>
   <string name="tc_sms_report_upload_success">"SMS izvješća uporabe podataka primljen. Bacamo se odmah na njega!"</string>
   <string name="tc_sms_report_upload_when_net">Hvala vam za povratnu informaciju!</string>
-  <string name="ten_percent_total_pkg">%s (10%% od vaših mjesečnih mobilnih podataka)</string>
+  <string name="ten_percent_total_pkg">%s (10%% od vaših mjes. mobilnih podataka)</string>
   <string name="text_day"/>
-  <string name="three_percent_total_pkg">%s (3%% od vaših mjesečnih mobilnih podataka)</string>
+  <string name="three_percent_total_pkg">%s (3%% od vaših mjes. mobilnih podataka)</string>
   <string name="tips_dialog_title">"Ne znate svoje ograničenje?"</string>
   <string name="tips_message">"Ako su vam nejasni detalji Vašeg bežičnog plana, možete ih pogledati pozivom na %2$s (%1$s) (Samo Kina)"</string>
   <string name="title_limit_traffic_per_day">Dnevno ograničenje uporabe podataka</string>
@@ -293,7 +293,7 @@ Prihvaćate li to?"</string>
   <string name="traffic_config_alert_body_extra">"
 Kupili ste dodatnog interneta od %1$s ovaj mjesec. To se razlikuje od %2$s što ste dodali ručno."</string>
   <string name="traffic_config_alert_body_extra_notset">"
-Kupili ste dodatnog interneta od %1$s ovaj mjesec. To se ne odražava na mjesečne podatke ograničenja koje ste postavili ručno."</string>
+Kupili ste dodatnog interneta od %s ovaj mjesec. To se ne odražava na mjesečne podatke ograničenja koje ste postavili ručno."</string>
   <string name="traffic_config_alert_body_leisure">"
 Vaše mjesečno ograničenje uporabe podataka je %1$s. To se razlikuje od %2$s ograničenja što ste dodali ručno."</string>
   <string name="traffic_config_alert_body_leisure_notset">"
@@ -323,7 +323,7 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="traffic_saving_button_stop">Isključi</string>
   <string name="traffic_saving_history_title">Povijest</string>
   <string name="traffic_saving_history_total_money">Ukupno ušteđeno</string>
-  <string name="traffic_saving_history_total_money_unit">¥</string>
+  <string name="traffic_saving_history_total_money_unit">RMB</string>
   <string name="traffic_saving_history_total_month"/>
   <string name="traffic_saving_history_total_month_default"/>
   <string name="traffic_saving_history_total_month_value"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="weather_type">
-        <item>Sunčano</item>
+        <item>Vedro</item>
         <item>Oblačno</item>
         <item>Naoblaka</item>
         <item>Maglovito</item>
