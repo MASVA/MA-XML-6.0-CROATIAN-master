@@ -12,7 +12,7 @@
   <string name="bluetooth_problem4">"Ne mogu primati datoteke"</string>
   <string name="btn_send">Pošalji</string>
   <string name="bugreport_tool_log_toast">Izvješće spremljeno u %s</string>
-  <string name="bugreport_tool_log_toast_generate_bugreport">Kreiranje izvješća grešaka (traje oko minute)</string>
+  <string name="bugreport_tool_log_toast_generate_bugreport">Stvaranje izvješća grešaka (traje oko minute)</string>
   <string name="button_feedback">Ostalo</string>
   <string name="button_plus">+1</string>
   <string name="camera_problem1">Loša kvaliteta fotografije</string>
@@ -39,13 +39,13 @@
   <string name="err_type_hardware_summary">Tipke, punjenje, senzori, itd.</string>
   <string name="err_type_more">Više</string>
   <string name="err_type_nonsystemapp">Ostale aplikacije</string>
-  <string name="err_type_power_consuming">Korištenje baterije</string>
-  <string name="err_type_reboot">Ponovna pokretanja</string>
-  <string name="err_type_signal">Problemi s mrežom</string>
+  <string name="err_type_power_consuming">Baterija</string>
+  <string name="err_type_reboot">Restart</string>
+  <string name="err_type_signal">Mreža</string>
   <string name="err_type_suggestion">Prijedlozi</string>
   <string name="err_type_system">Sustav</string>
   <string name="err_type_system_summary">Memorija, Performanse, itd.</string>
-  <string name="err_type_systemapp">MIUI aplik.</string>
+  <string name="err_type_systemapp">MIUI Aplik.</string>
   <string name="err_type_wifi">WLAN</string>
   <string name="err_type_xiaomi_family">Mi Obitelj</string>
   <string name="err_type_xiaomi_service">Služba za korisnike</string>
@@ -90,7 +90,7 @@
   <string name="title_common_problem">Uobičajene greške</string>
   <string name="title_hot_problem">Nedavne greške</string>
   <string name="title_nonsystem_app">Ostale aplik.</string>
-  <string name="title_system_app">MIUI aplik.</string>
+  <string name="title_system_app">MIUI Aplik.</string>
   <string name="toast_description_required">Potreban je opis</string>
   <string name="toast_feedback_network_unavailable">"Ne mogu se povezati na mrežu"</string>
   <string name="toast_feedback_pending_wlan">"Izvješće će biti poslano kada budete povezani na WLAN mrežu. Pov. informacija će biti poslana kada WLAN mreža bude dostupna."</string>

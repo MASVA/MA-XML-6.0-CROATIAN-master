@@ -326,8 +326,8 @@
   <string name="menu_text_garbage_cleanup">Čistač</string>
   <string name="menu_text_license_manager">Dopuštenja</string>
   <string name="menu_text_networkassistants">Potrošnja podataka</string>
-  <string name="menu_text_networkassistants_danger">Potrošnja podataka</string>
-  <string name="menu_text_networkassistants_remain">Potrošnja podataka</string>
+  <string name="menu_text_networkassistants_danger">Premašeno: %s</string>
+  <string name="menu_text_networkassistants_remain">Preostalo: %s</string>
   <string name="menu_text_power_manager">Potrošnja baterije</string>
   <string name="menu_text_power_percent">Baterija: %s</string>
   <string name="msg_cleanup_db_update_checking">Provjera…</string>
@@ -367,6 +367,7 @@
   <string name="permission_with_SMS_and_MMS">Dopuštenja koja se odnose na SMS i MMS</string>
   <string name="permission_with_call_and_contact">Dopuštenja koja se odnose na telefonske pozive, informacije kontakata i povijest poziva.</string>
   <string name="power_20s_enter_mode">Na %1$ds baterije prebaci na %2$s</string>
+  <string name="power_20s_shutdown">Uređaj će isključiti za 20 sek.</string>
   <string name="power_apply_toast">Prebačeno na %s </string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_button_delete">Izbriši</string>

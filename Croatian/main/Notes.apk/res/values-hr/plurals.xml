@@ -10,7 +10,7 @@
     </plurals>
     <plurals name="note_terms">
         <item quantity="other">Bilješki: %1$s</item>
-        <item quantity="one">%1$s bilješka</item>
+        <item quantity="one">%1$s bilješku</item>
      </plurals>
      <plurals name="folder_terms">
         <item quantity="other">Mapa: %1$s</item>
