@@ -168,7 +168,7 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="app_switch_key">Nedavno</string>
   <string name="application_forbid_auto_startup">Spriječi %s da se pokrene u pozadini</string>
   <string name="application_info_label">Detalji aplikacije</string>
-  <string name="application_item_already_permission">Dopuušteno</string>
+  <string name="application_item_already_permission">Dopušteno</string>
   <string name="application_item_disable">-</string>
   <string name="application_item_permission">+</string>
   <string name="application_restrictions">Dopuštanje aplikacija i sadržaja</string>
