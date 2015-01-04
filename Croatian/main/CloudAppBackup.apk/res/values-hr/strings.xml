@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="already_deleted">(izbrisano)</string>
-  <string name="already_disable_backup">Izradi sig. kopiju ove aplikacije</string>
-  <string name="already_enable_backup">Izradi sig. kopiju ove aplikacije</string>
+  <string name="already_disable_backup">Izradi Sig. kopiju ove aplikacije</string>
+  <string name="already_enable_backup">Izradi Sig. kopiju ove aplikacije</string>
   <string name="app_installed">Instalirano</string>
   <string name="app_name">CloudAppBackup</string>
   <string name="app_not_installed">Deinstalirano</string>
@@ -31,7 +31,7 @@
   <string name="cloud_app_current_device">Trenutni uređaj</string>
   <string name="cloud_app_delete_data">Obrisati Sig. kopiju</string>
   <string name="cloud_app_dont_restore">"Ne obnavljaj"</string>
-  <string name="cloud_app_function_summary">When you back up your apps to Mi Cloud, you can restore them on any device</string>
+  <string name="cloud_app_function_summary">Kada napravite Sig. kopiju aplikacija na Mi Cloud, možete ih vratiti na bilo koji uređaj</string>
   <string name="cloud_app_invalid_op_when_removing">"Ne možete vidjeti cloud podatke dok se uklanjaju."</string>
   <string name="cloud_app_mine">Preuzete aplikacije</string>
   <string name="cloud_app_no_data">Nema podataka</string>
@@ -44,7 +44,7 @@ svejedno zaustaviti?"</string>
   <string name="cloud_app_remove_error">"Ne mogu izbrisati!"</string>
   <string name="cloud_app_remove_pending">Čekanje…</string>
   <string name="cloud_app_remove_progress">Brisanje…</string>
-  <string name="cloud_app_remove_prompt">"%1$s sig. kopija će biti obrisano."</string>
+  <string name="cloud_app_remove_prompt">"%1$s Sig. kopija će biti obrisano."</string>
   <string name="cloud_app_remove_success">Aplikacije izbrisane</string>
   <string name="cloud_app_restore_action_bar_title">%1$s detalji Sig. kopije</string>
   <string name="cloud_app_restore_app_and_data">Obnova aplikacija i korisničkih podataka</string>
@@ -65,7 +65,7 @@ svejedno zaustaviti?"</string>
   <string name="confirm_disable_backup">"Ne raditi Sig. kopiju %s?"</string>
   <string name="customization">Uređivanje</string>
   <string name="datasize_unknown">Veličina nepoznata</string>
-  <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
+  <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="desktop_downloading">Preuzimanje</string>
   <string name="desktop_installing">Instaliranje</string>
   <string name="desktop_recovering">Obnova</string>
@@ -74,7 +74,7 @@ svejedno zaustaviti?"</string>
   <string name="device_xiaomi">Mi Telefon</string>
   <string name="dialog_disable_backup">"Ne raditi Sig. kopiju ove aplikacije?"</string>
   <string name="dialog_prompt_stop_backup">Zaustaviti izradu Sig. kopije?</string>
-  <string name="dir_date_format">HHmmss_MMddyyyy</string>
+  <string name="dir_date_format">HHmmss_ddMMyyyy</string>
   <string name="disable_backup">Isključi</string>
   <string name="display_early_backup">Prikaži prethodne Sig. kopije</string>
   <string name="enable_backup">Uključi</string>
