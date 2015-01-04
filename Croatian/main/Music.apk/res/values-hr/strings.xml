@@ -238,6 +238,7 @@
   <string name="song_not_find">"Ne mogu se spojiti na mrežu ili je ova pjesma nije dostupna."</string>
   <string name="source_from">Izvor: %1$s</string>
   <string name="start_to_play">Reproduciraj</string>
+  <string name="stream_quality">Kvaliteta streama</string>
   <string name="streamloadingtext">Povezivanje na %s</string>
   <string name="tab_album_list">Albumi</string>
   <string name="tab_artist_list">Izvođači</string>
