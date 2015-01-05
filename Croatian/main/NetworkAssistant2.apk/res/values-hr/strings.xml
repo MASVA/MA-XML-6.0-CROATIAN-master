@@ -206,7 +206,7 @@ Maks.: %1$s%2$s preostalo | %3$s iskorišteno"</string>
   <string name="pref_title_declaration">Odricanje odgovornosti</string>
   <string name="pref_title_mobile_traffic">Prikaži podatke korištenja dok je uređaj bio zaključan</string>
   <string name="pref_title_network_diagnostics">Dijagnostika mreže</string>
-  <string name="pref_title_over_traffic_limit_warning">Isključi podatke ako se premaši ograničenje</string>
+  <string name="pref_title_over_traffic_limit_warning">Kada je premašeno</string>
   <string name="pref_title_traffic_limit_number">Veličina</string>
   <string name="pref_title_traffic_speed_state">Prikaži brzinu mreže u traci obavijesti</string>
   <string name="pref_title_update_notification">Prikaži obavijesti uporabe podataka</string>

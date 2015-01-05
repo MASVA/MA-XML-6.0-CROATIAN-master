@@ -55,7 +55,7 @@
 Pronađite, zaključajte, ili resetirajte vaš uređaj na  "</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
-  <string name="find_device_dspt_provision_3">". Možete uključiti/isključiti tu značajku bilo kada u Postavkama."</string>
+  <string name="find_device_dspt_provision_3">. Možete uključiti/isključiti tu značajku bilo kada u Postavkama.</string>
   <string name="find_device_enabling">Uključivanje…</string>
   <string name="find_device_error_network">Provjerite svoju podatkovnu vezu i pokušajte ponovno</string>
   <string name="find_device_error_server">Greška poslužitelja</string>
@@ -63,8 +63,8 @@ Pronađite, zaključajte, ili resetirajte vaš uređaj na  "</string>
   <string name="find_device_notice_p1">Idite na</string>
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">"da locirate, zaključate, ili obnovite svoj uređaj na daljinu.
-Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za ponovno aktiviranje ove usluge."</string>
-  <string name="find_device_send_sms_alert">Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za ponovno aktiviranje ove usluge.</string>
+Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za ponovno aktiviranje ovu značajku."</string>
+  <string name="find_device_send_sms_alert">Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za ponovno aktiviranje ovu značajku.</string>
   <string name="find_device_stop_noise">Dodirnite U redu za utišavanje</string>
   <string name="find_device_success_title">Pronađi uređaj</string>
   <string name="free_space_has_received">Već ste dodali slobodan prostor ovaj mjesec</string>
@@ -172,7 +172,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="mx_dspt_provision">"Mi Poruke omogućuju vam slanje poruka drugim MIUI korisnicima bez dodatnih SMS troškova.
   
 Možete uključiti/isključiti tu značajku bilo kada u Postavkama."</string>
-  <string name="mx_dspt_provision_privacy">"Ova usluga može zatražiti vaš broj telefona. Vaš davatelj usluga može vam naplatiti SMS poruku korištenu za aktiviranje ove usluge.
+  <string name="mx_dspt_provision_privacy">"Ova značajka može zatražiti vaš broj telefona. Vaš davatelj usluga može vam naplatiti SMS poruku korištenu za aktiviranje ove značajke.
 Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string>
   <string name="mx_sub_dspt_provision">Mi Poruka</string>
   <string name="next">Dalje</string>

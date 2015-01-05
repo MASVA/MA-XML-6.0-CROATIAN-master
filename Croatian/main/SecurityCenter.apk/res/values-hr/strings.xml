@@ -607,6 +607,8 @@
   <string name="summary_install_virus">Provjerite aplikacije za virusima prije instalacije</string>
   <string name="summary_miui_update">Ažuriranje dostupno za %s.</string>
   <string name="summary_mms">Filtriraj neželjene poruke (prodaja, oglasi, itd.)</string>
+  <string name="summary_network_switch">Dopusti aplikaciji Sigurnost povezivanje na internet</string>
+  <string name="summary_never_flow_verify">"Ova brojka nije potvrđena s vašim davateljem usluga"</string>
   <string name="summary_optimizer">"Ova značajka učitava nazive nepoznatih datoteka da ažurira Cheetah Mobile online bazu podataka te zahtijeva ID vašeg uređaja."</string>
   <string name="summary_permission">Zaštiti moju privatnost od drugih aplikacija</string>
   <string name="summary_permission_root">Vaš uređaj i osobni podaci su ranjiviji na napad od aplikacija koje imaju ROOT pristup.</string>
@@ -646,6 +648,7 @@
   <string name="title_miui_update_yes">Nema pronađenih ažuriranja</string>
   <string name="title_mms_no">Filter poruka je isključen</string>
   <string name="title_mms_yes">Filter poruka je uključen</string>
+  <string name="title_network_switch">Dopusti povezivanje na internet</string>
   <string name="title_optimizer">Uvjeti i Odredbe</string>
   <string name="title_permission_no">Upravitelj dopuštenja isključen</string>
   <string name="title_permission_root">Upozorenje ROOT pristupa</string>
@@ -674,6 +677,7 @@
   <string name="toast_garbage_lib">Automatska ažuriranja za Čistač su uključena</string>
   <string name="toast_garbage_list_empty">Sve izgleda uredno!</string>
   <string name="toast_network_eror">"Ne mogu se povezati na mrežu"</string>
+  <string name="toast_network_switch">Ova se aplikacija može povezati na internet</string>
   <string name="toast_removed_from_white_list">" je uklonjen iz iznimaka"</string>
   <string name="toast_root_apply_accept">ROOT pristup odobren za %s</string>
   <string name="toast_root_apply_reject">ROOT pristup odbijen za %s</string>
