@@ -71,8 +71,11 @@
   <string name="boot_day_shutdown_day">Uređaj će se uključiti %1$dd u %2$s i isključiti %3$dd u %4$s</string>
   <string name="boot_reminder">Uključivanje vašeg uređaja u planirano vrijeme</string>
   <string name="boot_reminder_day">Uređaj će se uključiti u %1$dd %2$dh %3$dm</string>
+  <string name="boot_reminder_day_hour">Uređaj će se uključiti u %1$dd %2$dh</string>
   <string name="boot_reminder_hour">Uređaj će se uključiti u %1$dh %2$dm</string>
   <string name="boot_reminder_minute">Uređaj će se uključiti u %1$dm</string>
+  <string name="boot_reminder_only_day">Uređaj će se uključiti u %1$dd</string>
+  <string name="boot_reminder_only_hour">Uređaj će se uključiti u %1$dh</string>
   <string name="boot_shutdown">Uređaj će se uključiti u %1$s i isključiti u %2$s</string>
   <string name="boot_shutdown_day">Uređaj će se uključiti u %1$s i isključiti %2$dd u %3$s</string>
   <string name="boot_time">Uređaj će se uključiti u %1$s</string>

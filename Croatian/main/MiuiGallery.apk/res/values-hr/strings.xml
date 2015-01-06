@@ -59,6 +59,8 @@
   <string name="auto_create_recent_album_confirm">"Galerija će izbrisati podatke omiljenih albuma. Albumi koji ste označili ručno kao omiljene biti pogođeni."</string>
   <string name="auto_create_recent_album_over_ten_times">Album će biti označen kao omiljen nakon otvaranja više od 10 puta</string>
   <string name="auto_upload_album_comfirm_to_share">Ovaj album će biti automatski učitan.</string>
+  <string name="auto_upload_guide">Automatski učitajte vaše fotografije s drugih aplikacija na Mi Cloud</string>
+  <string name="auto_upload_setting_toast">Pogledaj dodatne opcije za tu značajku u Mi Cloud Postavkama</string>
   <string name="auto_upload_title">Učitaj automatski</string>
   <string name="autofix">Aut. popravak</string>
   <string name="autohomemain">Autohomemain</string>
@@ -237,6 +239,7 @@
   <string name="gallery_setting">Galerija</string>
   <string name="get_album_info_in_process">"Dobivanje pojedinosti zajedničkog albuma…"</string>
   <string name="global_setting">Postavke</string>
+  <string name="go_setting">Prikaži postavke</string>
   <string name="grain">Zrnatost filma</string>
   <string name="grayscale">Crno-bijelo</string>
   <string name="group_by">Grupiraj po</string>
@@ -337,6 +340,7 @@
   <string name="negative">Negativan</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
   <string name="new_device_tips">"Dodirnite za prikaz uređaja"</string>
+  <string name="new_feature">Nova značajka</string>
   <string name="no">Ne</string>
   <string name="no_albums_alert">Nema dostupnih albuma.</string>
   <string name="no_connectivity">"Neke lokacije nisu mogle biti identificirane zbog poteškoća s mrežom."</string>
@@ -350,6 +354,7 @@
   <string name="no_thumbnail">Nema minijatura</string>
   <string name="none_picture">Nema slika</string>
   <string name="not_auto_create_recent_album">Nemoj automatski stvarati nedavni album</string>
+  <string name="not_now">Ne sada</string>
   <string name="not_show_hidden_albums">Ne pokazuj skriveni album</string>
   <string name="only_show_camera_in_first_page">Prikaži samo s fotoaparata</string>
   <string name="only_show_camera_in_first_page_summary">Prikaži samo fotografije s fotoaparata vašeg Mi Clouda.</string>
