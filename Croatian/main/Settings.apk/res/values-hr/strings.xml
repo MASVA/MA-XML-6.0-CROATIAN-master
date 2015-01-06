@@ -64,7 +64,7 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="accessibility_toggle_speak_password_preference_title">Izgovori zaporke</string>
   <string name="account_add">Dodaj</string>
   <string name="account_autostar_label">Autom. pokretanje</string>
-  <string name="account_list">Sve</string>
+  <string name="account_list">Svi</string>
   <string name="account_settings">Računi</string>
   <string name="account_sync_settings_title">Sinkronizacija</string>
   <string name="activate_miui_screensaver">Čuvar zaslona tijekom mirovanja</string>
