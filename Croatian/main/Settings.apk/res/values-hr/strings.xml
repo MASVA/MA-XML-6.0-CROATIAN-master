@@ -1473,7 +1473,7 @@ i pokrenite ga."</string>
   <string name="music_headset_settings">Slušalice i zvučni efekti</string>
   <string name="music_hifi_summary">Smanjite buku i izobličenje i povećajte kvalitetu zvuka.</string>
   <string name="music_hifi_title">Hi-Fi zvuk</string>
-  <string name="music_hifi_volumn">Hi-Fi glasnoća</string>
+  <string name="music_hifi_volume">Hi-Fi glasnoća</string>
   <string name="music_mi_effect_summary">Uvijek koristi MiSound pojačivač prilikom korištenja zvučnika</string>
   <string name="music_mi_effect_title">Koristi MiSound pojačivač</string>
   <string name="musicfx_title">Glazbeni efekti</string>

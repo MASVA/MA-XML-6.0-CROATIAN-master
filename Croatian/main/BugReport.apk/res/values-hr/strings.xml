@@ -13,7 +13,7 @@
   <string name="btn_send">Pošalji</string>
   <string name="bugreport_dump_complete_notification_summary">Dodirni za prikaz.</string>
   <string name="bugreport_dump_complete_notification_title">Izvješće grešaka napravljeno</string>
-  <string name="bugreport_dump_start_notification_summary">Traje oko minute.</string>
+  <string name="bugreport_dump_start_notification_summary">Traje oko 1 minute.</string>
   <string name="bugreport_dump_start_notification_title">Stvaranje izvješća grešaka</string>
   <string name="button_feedback">Ostalo</string>
   <string name="button_plus">+1</string>
