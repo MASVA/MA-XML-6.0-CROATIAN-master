@@ -359,6 +359,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="incall_status_dialed_mmi">Pokretanje MMI sekvence…</string>
   <string name="international_disable">Međunarodne vijesti su isključene</string>
   <string name="international_enable">Međunarodne vijesti su uključene</string>
+  <string name="international_roaming_setting">Međunarodni roaming</string>
   <string name="internet_phone">Internet poziv</string>
   <string name="invalid_password">Unesite zaporku dužine 4 broja</string>
   <string name="invalid_pin">Unesite PIN koji ima od 4 do 8 brojeva.</string>

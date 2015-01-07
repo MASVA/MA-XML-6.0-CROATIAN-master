@@ -25,7 +25,7 @@
   <string name="cloud_space_upgrade_message">Dodirnite za dodavanje %sGB na vaš cloud.</string>
   <string name="cloud_space_upgrade_no_quota_info">"Ne mogu dobiti detalje prostora za pohranu"</string>
   <string name="cloud_space_upgrade_title">Više prostora za Mi Cloud</string>
-  <string name="cloud_sync_setting_summary_standard">"Koristi mobilnu podatkovnu vezu za sink. SMS-a, podataka o kontaktima i povijest poziva. Ako prekoračite vaše planirano ograničenje uporabe podataka, vaš davatelj usluga vam može naplatiti dodatne troškove."</string>
+  <string name="cloud_sync_setting_summary_standard">Sinkronizacija MMS-a, fotografija i videozapisa kad je povezano na WLAN</string>
   <string name="cloud_sync_setting_summary_wlan">Samo na WLAN-u: Sinkr. svih podataka samo preko WLAN-a</string>
   <string name="cmcc_micloud_dspt">Koristite Mi Cloud za sinkronizaciju podataka, pronalazak svog telefona,</string>
   <string name="contact">Kontakti</string>
@@ -65,6 +65,7 @@ Pronađite, zaključajte, ili resetirajte vaš uređaj na  "</string>
   <string name="find_device_notice_p3">"da locirate, zaključate, ili obnovite svoj uređaj na daljinu.
 Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za ponovno aktiviranje ovu značajku."</string>
   <string name="find_device_send_sms_alert">Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za ponovno aktiviranje ovu značajku.</string>
+  <string name="find_device_status_ok">Pronađite ureðaj s bilo kojeg mjesta na i.mi.com</string>
   <string name="find_device_stop_noise">Dodirnite U redu za utišavanje</string>
   <string name="find_device_success_title">Pronađi uređaj</string>
   <string name="free_space_has_received">Već ste dodali slobodan prostor ovaj mjesec</string>
@@ -141,6 +142,12 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_other_product_price">Usporedba cijena</string>
   <string name="micloud_proceed">Nastavi</string>
   <string name="micloud_sec_dspt">i podijeli stvari s svojim prijateljima.</string>
+  <string name="micloud_setting_browser_summary">Oznake, povijest i tagovi</string>
+  <string name="micloud_setting_contact_summary">Podaci o kontaktima i fotografije profila</string>
+  <string name="micloud_setting_gallery_summary">Fotografije i videozapisi</string>
+  <string name="micloud_setting_music_summary">Popisi za reprodukciju i favoriti</string>
+  <string name="micloud_setting_sms_summary">SMS i MMS Poruke</string>
+  <string name="micloud_setting_wifi_summary">WLAN postavke</string>
   <string name="micloud_space_full_influence">Što će se dogoditi ako ponestane prostora?</string>
   <string name="micloud_storage_expires_auto_renewal_sum">Osigurajte dovoljno Mi Kredita za automatsku obnovu.</string>
   <string name="micloud_storage_expires_manually_renewal_sum">"Neke cloud usluge mogu biti obustavljene. Preporuka je da se omogući autom. obnova."</string>

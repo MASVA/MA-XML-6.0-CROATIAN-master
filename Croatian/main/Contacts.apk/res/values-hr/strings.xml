@@ -824,7 +824,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="resource_comment_edit_comment_waiting">Provjera povijesti korisnika…</string>
   <string name="resource_comment_edit_text_default">Dodaj komentar</string>
   <string name="resource_comment_edit_title">Uredi komentar: %1$s</string>
-  <string name="resource_comment_entry_tips">Prikaži komentar</string>
+  <string name="resource_comment_entry_tips">Komentari (%1$s)</string>
   <string name="resource_comment_expand_full_text">Proširi sav tekst ▼</string>
   <string name="resource_comment_footer">Prazni komentari neće biti prikazani</string>
   <string name="resource_comment_good_comments">Pozitivni komentari</string>
@@ -861,7 +861,8 @@ Za dodavanje kontakta na listu favorita :
   <string name="resource_detail_recommend_desiner_themes">%1$s tema</string>
   <string name="resource_detail_recommend_other_themes">Korisnicima se još sviđa</string>
   <string name="resource_detail_update_log_title">Ažuriranja</string>
-  <string name="resource_detail_window_title">Detalji %1$s</string>
+  <string name="resource_detail_vertical_divider">|</string>
+  <string name="resource_detail_window_title">Detalja %1$s</string>
   <string name="resource_download">Preuzimanje</string>
   <string name="resource_download_trial">Isprobajte besplatno</string>
   <string name="resource_downloaded_title">Preuzeti elementi</string>
@@ -889,8 +890,10 @@ Za dodavanje kontakta na listu favorita :
   <string name="resource_get_auth_checking">Provjera…</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Deset uređaja je već odobreno na ovom računu</string>
   <string name="resource_get_auth_exceed_max_limit_title">Broj odobrenih uređaja je prekoračen</string>
-  <string name="resource_get_auth_missing">Teme iz drugih izvora, osim službene trgovine, nisu podržane</string>
+  <string name="resource_get_auth_has_been_undercarriaged">Ova tema više nije dostupna.</string>
+  <string name="resource_get_auth_not_official">Teme iz drugih izvora nisu podržane</string>
   <string name="resource_get_auth_retrieving">Dobivanje informacija…</string>
+  <string name="resource_has_been_downloaded">"Već ste preuzeli ovu temu."</string>
   <string name="resource_hint">Upozorenje</string>
   <string name="resource_import_failed">Uvoz nije uspio</string>
   <string name="resource_import_successful">Preuzimanje dovršeno</string>
@@ -900,6 +903,8 @@ Za dodavanje kontakta na listu favorita :
   <string name="resource_menu_refresh">Osvježi</string>
   <string name="resource_mute">Ništa</string>
   <string name="resource_my">Lokalno</string>
+  <string name="resource_no_match_app">Nema pronađenih aplikacija za izvršenje ove radnje.</string>
+  <string name="resource_no_network_text">"Ne mogu se povezati na mrežu."</string>
   <string name="resource_no_result">"Ništa nije pronađeno"</string>
   <string name="resource_notification_default">Obavijesti</string>
   <string name="resource_on_trial">Isprobavam: %1$s</string>
@@ -925,6 +930,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="resource_search_list_empty">"Ništa nije pronađeno"</string>
   <string name="resource_see_more">Vidi više</string>
   <string name="resource_select">Odaberi</string>
+  <string name="resource_select_ringtone_confirm">Odabrati ovaj zvuk?</string>
   <string name="resource_selected">Istaknuto</string>
   <string name="resource_send">Pošalji</string>
   <string name="resource_server_alert_dialog_title">"Vraćamo se odmah…"</string>
@@ -933,8 +939,13 @@ Za dodavanje kontakta na listu favorita :
   <string name="resource_share_text">Evo teme koja bi vam se mogla svidjeti: %1$s! Poveznica: %2$s</string>
   <string name="resource_share_title">Podijeli</string>
   <string name="resource_system_title">Resursi sistema</string>
-  <string name="resource_tip_select_ringtone">Nije odabrano</string>
-  <string name="resource_title">Detalji</string>
+  <string name="resource_tip_select_none">Nije odabrano</string>
+  <string name="resource_title">Detalji resursa</string>
+  <string name="resource_title_category">Kategorija</string>
+  <string name="resource_title_hot_subject">Popularno</string>
+  <string name="resource_title_local">Lokalno</string>
+  <string name="resource_title_rank">Najbolje</string>
+  <string name="resource_title_subject">Istaknuto</string>
   <string name="resource_title_select_ringtone">Odaberite melodiju zvona</string>
   <string name="resource_trial_end_message">Probni period za %1$s je istekao. Ako vam se tema sviđa, kupite je.</string>
   <string name="resource_trial_end_purchase">Plaćanje</string>

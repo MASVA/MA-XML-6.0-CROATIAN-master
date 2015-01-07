@@ -631,7 +631,7 @@ Kopija: %4$s
   <string name="mute">Isključi zvuk</string>
   <string name="name_or_number_is_error">Korisničko ime ili zaporka nije točna</string>
   <string name="network_error">Nema veze</string>
-  <string name="network_not_available">"Nije moguće povezati se na mrežu"</string>
+  <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
   <string name="new_incoming_messages_one">Novu poruku šalje %s. Prikaži.</string>
   <string name="new_messages">Novih poruka: %1$d</string>
   <string name="next_action">Dalje</string>

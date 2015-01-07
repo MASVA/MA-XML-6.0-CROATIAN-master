@@ -558,6 +558,16 @@
         <item>Briljantno</item>
         <item>Standardno</item>
     </string-array>
+    <string-array name="screen_optimize_title">
+        <item>Automatski kontrast</item>
+        <item>Povećani kontrast</item>
+        <item>Standardno</item>
+    </string-array>
+    <string-array name="screen_optimize_summary">
+        <item>Optimiziranje kontrasta za dostupnim svjetlom</item>
+        <item>"Povećanje kontrasta zaslona"</item>
+        <item>Kontrast će ostati konstantan</item>
+    </string-array>
     <string-array name="perm_hips_action">
         <item>Dopusti</item>
         <item>Pitaj</item>

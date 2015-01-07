@@ -324,4 +324,12 @@ dodajte datoteku i pokušajte ponoviti testiranje reprodukcije."</string>
   <string name="cit_wifi_ap_scanning">Traženje pristupnih točaka…</string>
   <string name="cit_wifi_fail_to_scan">Nije moguće naći bil koju WLAN mrežu</string>
   <string name="cit_wifi_state_refresh">Osvježi</string>
+  <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Testiranje povratne informacije prednjeg zvučnika mikrofona</string>
+  <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Testiranje povratne informacije prednjeg mikrofona na zvučnik.
+
+Okrenite uređaj, Govorite u mikrofon u položaju prijemnika, trebali bi čuti glas u zvučniku"</string>
+  <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Testiranje povratne informacije Gornjeg mikrofona na zvučnik. 
+
+Okrenite uređaj, Govorite u gornji mikrofon , trebali bi čuti glas u zvučniku"</string>
+  <string name="cit_x5_audio_lb_top_to_speaker_title">Testiranje povratne informacije Gornjeg mikrofona</string>
 </resources>

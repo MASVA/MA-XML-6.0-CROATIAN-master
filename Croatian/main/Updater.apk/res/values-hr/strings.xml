@@ -5,17 +5,14 @@
   <string name="active_xiaomi_account_msg">Da biste aktivirali vaš Mi Račun, idite na https://account.xiaomi.com/pass/serviceLogin.</string>
   <string name="active_xiaomi_account_title">Aktiviraj Mi Račun</string>
   <string name="app_name">Ažuriranje</string>
-  <string name="apply_later_button_text">Kasnije</string>
-  <string name="apply_now_button_text">Ažuriraj sada</string>
   <string name="apply_title">Ažuriranje (%s)</string>
   <string name="apply_update_dialog_cancel_button">Odustani</string>
   <string name="apply_update_dialog_update_button">Ažuriraj</string>
-  <string name="auto_agree_clause">"Naša ažurirana Pravila o privatnosti su stupila na snagu. "</string>
+  <string name="auto_agree_clause">Pravila o privatnosti su ažurirana</string>
   <string name="auto_button_examine">Prikaži</string>
   <string name="auto_button_examine_immediately">Prikaži</string>
   <string name="auto_button_sure_cancel">Odustani</string>
   <string name="auto_check_clause_button">Prikaži</string>
-  <string name="auto_check_clause_msg">"Morate se složiti s našim ažuriranim Pravila o privatnosti prije nego što možete ažurirati svoj sustav. "</string>
   <string name="auto_dialog_msg">"Ažurirali smo naša Pravila o privatnosti. Molimo, pročitajte ih pažljivo prije ažuriranja sustava. "</string>
   <string name="auto_dialog_msg_check_again">"Morate se složiti s našim ažuriranim Pravila o privatnosti prije nego što možete ažurirati svoj sustav. "</string>
   <string name="auto_dialog_title_check_again">Otkazati ažuriranje?</string>
@@ -45,10 +42,9 @@
   <string name="daily_build">Dnevno izdanje</string>
   <string name="download_again">Pokušaj ponovno</string>
   <string name="download_cancel">Odustani</string>
-  <string name="download_current_rom">Instaliraj ažuriranje</string>
+  <string name="download_current_rom">Ponovno pokreni za primjenu ažuriranja</string>
   <string name="download_diff">Preuzimanje razlike</string>
-  <string name="download_error">Pričekajte minutu ili dvije i pokušajte ponovno.</string>
-  <string name="download_failed">"Ne mogu preuzeti"</string>
+  <string name="download_error">Nešto nije u redu. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="download_full">Preuzimanje završeno</string>
   <string name="download_title">Preuzimanje (%s)</string>
   <string name="download_title_first">Dobivanje informacija…</string>
@@ -56,7 +52,7 @@
   <string name="edit_comment">Dodaj komentare</string>
   <string name="edit_comment_title">Uredi komentar</string>
   <string name="edit_text_default">Napiši komentar</string>
-  <string name="emegency_build">Verzija:</string>
+  <string name="emegency_build">"Verzija: "</string>
   <string name="expect">Očekivanja</string>
   <string name="experimental_build">Alfa</string>
   <string name="finish">Dovršeno</string>
@@ -69,7 +65,6 @@
   <string name="go_on_download">Preuzmi</string>
   <string name="important_suggestion">Pravila o privatnosti su promijenjene</string>
   <string name="install">Instaliraj</string>
-  <string name="install_failed">Ažuriranje nije uspjelo</string>
   <string name="install_file_explorer">Morate instalirati aplikaciju Datoteke</string>
   <string name="install_local">Instaliraj lokalno</string>
   <string name="install_qq">"Nabavite Tencent Weibo aplikaciju"</string>
@@ -94,7 +89,8 @@
   <string name="new_updates_found_notification_title">Dostupno je ažuriranje</string>
   <string name="next">Dalje</string>
   <string name="no_log">Nema dostupnih sažetaka</string>
-  <string name="no_wifi_msg">"Korištenje vaše mobilne podatkovne veze za preuzimanje ažuriranja će povećati vašu uporabu podataka."</string>
+  <string name="no_wifi_msg">"Korištenje vaše mobilne podatkovne veze za preuzimanje ažuriranja će povećati vašu uporabu podataka.
+  Ako premašite svoje ograničenje podataka, vaš davatelj usluga vam može naplatiti dodatne troškove."</string>
   <string name="no_wifi_title">Upozorenje uporabe podataka</string>
   <string name="not_open">Ne sada</string>
   <string name="notification_downloading">Preuzimanje ažuriranja…</string>
@@ -102,9 +98,7 @@
   <string name="notification_load_body_dev">Nabavite najnovija ažuriranja za vaš uređaj</string>
   <string name="notification_load_title_alpha">Prijavite se u vaš Mi Račun</string>
   <string name="notification_load_title_dev">Prijavite se u vaš Mi Račun</string>
-  <string name="notification_new_version">Ažuriraj na %s</string>
   <string name="notification_reboot_btn">Ponovno pokreni</string>
-  <string name="notification_reboot_des">Ponovno pokrenite da biste ažurirali na %s.</string>
   <string name="notification_reboot_seccess_des">Dodirnite za dijeljenje detalja ažuriranja.</string>
   <string name="notification_reboot_seccess_title">Uređaj je ažuriran</string>
   <string name="notification_reboot_summary_hm">Dodirnite da ponovo pokrenete vaš uređaj.</string>
@@ -114,7 +108,6 @@
   <string name="notification_update_new_version">Dostupno je ažuriranje</string>
   <string name="notification_update_now">Ažurirati sada</string>
   <string name="notification_updating">Ažuriranje…</string>
-  <string name="now">Ažuriraj sada</string>
   <string name="on_checking">Provjeravam…</string>
   <string name="open_now">Uključi</string>
   <string name="particular_build">Osobito</string>
@@ -122,17 +115,17 @@
   <string name="previous">Prethodno</string>
   <string name="progress_title_checking">Provjera za ažuriranja…</string>
   <string name="reboot">Ponovno pokreni</string>
-  <string name="reboot_to_new_system">Ponovno pokreni u novu verziju</string>
   <string name="repeat">Pokušaj ponovo</string>
   <string name="set_auto">Provjeri ima li ažuriranja automatski</string>
   <string name="set_auto_msg">Automatski preuzmi ažuriranja kada je povezano na WLAN.</string>
   <string name="set_auto_update_title">Preuzimanje ažuriranja automatski</string>
-  <string name="set_installfail_full_msg">"Ne mogu ažurirati u ovom trenutku. Dodirnite \"U redu\" kako bi prijavili ovu pogrešku našim inženjerima."</string>
-  <string name="set_installfail_msg">Korištenje vaše mobilne podatkovne veze za preuzimanje ažuriranja će povećati vašu uporabu podataka.</string>
+  <string name="set_installfail_full_msg">"Ne mogu ažurirati u ovom trenutku. Dodirnite U redu kako bi prijavili ovu pogrešku."</string>
+  <string name="set_installfail_msg">Niste povezani na WLAN mrežu. Korištenje vaše mobilne podatkovne veze za preuzimanje ažuriranja će povećati vašu uporabu podataka.
+  Ako premašite svoje ograničenje podataka, vaš davatelj usluga vam može naplatiti dodatne troškove</string>
   <string name="set_installfail_title">Pokušati ponovno preuzeti ažuriranja?</string>
-  <string name="set_installfail_title_full">Ažuriranje nije uspjelo</string>
-  <string name="set_network_msg">Poveži se s WLAN mrežom prije preuzimanja ovog ažuriranja.</string>
-  <string name="set_network_title">Poveži se na mrežu</string>
+  <string name="set_installfail_title_full">"Ne mogu ažurirati"</string>
+  <string name="set_network_msg">Za preuzimanje ovog ažuriranja, poveži se s WLAN mrežom </string>
+  <string name="set_network_title">Poveži se na WLAN mrežu</string>
   <string name="set_only_wifi">Koristi samo WLAN</string>
   <string name="share">Podijeli</string>
   <string name="share_qq">Objavi preko Tencent Weibo</string>
@@ -146,8 +139,8 @@
   <string name="sina_share_success">Slanje uspješno!</string>
   <string name="sina_token_expired_warning">Weibo račun je istekao. Morate se ponovno prijaviti</string>
   <string name="sina_token_invalid_warning">Weibo račun je istekao. Morate se ponovno prijaviti</string>
-  <string name="space_not_enough_msg">"Nema dovoljno prostora za pohranu na vašem uređaju."</string>
-  <string name="space_not_enough_title">Nema dovoljno prostora</string>
+  <string name="space_not_enough_msg">"Vaš uređaj je previše pun za preuzimanje ovog ažuriranja. Očistite prostor za pohranu na uređaju i pokušajte ponovno."</string>
+  <string name="space_not_enough_title">Nema dovoljno prostora za pohranu</string>
   <string name="stable_build">Stable</string>
   <string name="submit">Pošalji</string>
   <string name="submit_fail">"Ne mogu poslati"</string>
@@ -174,7 +167,7 @@ Ali možete sudjelovati sljedeći utorak."</string>
   <string name="update_happy">Super!</string>
   <string name="update_monthly_build_only">Samo ažuriraj za mjesečne verzije</string>
   <string name="update_sad">Hmm (nije dobro)</string>
-  <string name="update_success">Ažuriranje završeno! :)</string>
+  <string name="update_success">Uređaj je ažuriran</string>
   <string name="update_success_body">Verzija: %s</string>
   <string name="update_success_title">Uređaj je ažuriran</string>
   <string name="updater_nolog">Nema sažetka ažuriranja</string>
@@ -184,9 +177,9 @@ Ali možete sudjelovati sljedeći utorak."</string>
   <string name="upgrade_kernel_msg">"Verzija kernela koju koristite ne odgovara MIUI ROM-u. Morate nadograditi kernel ručno. Pogledajte Xiaomi postupak nadogradnje: 
 "</string>
   <string name="user_begin">Preuzimanje</string>
-  <string name="user_intertup_download_msg">Preuzimanja su pauzirana. Možete ih ponovno pokrenuti u bilo koje vrijeme u Ažuriranje aplikaciji.</string>
-  <string name="user_intertup_download_title">Preuzimanje ažuriranja pauzirano</string>
-  <string name="validate_pkg_failed_msg">"Ažuriranje koje ste preuzeli se ne podudara onome na našim poslužiteljima. Pokušajte preuzeti ponovo."</string>
+  <string name="user_intertup_download_msg">Preuzimanja su pauzirana. Možete nastaviti s preuzimanjem u bilo koje vrijeme u aplikaciji Ažuriranje.</string>
+  <string name="user_intertup_download_title">Preuzimanje je pauzirano</string>
+  <string name="validate_pkg_failed_msg">"Ne mogu potvrditi izvor ovog ažuriranja. Pokušajte preuzeti ponovo."</string>
   <string name="validate_pkg_failed_title">"Ne mogu potvrditi ažuriranje"</string>
   <string name="view_upgrade_tutorial">"Prikaži vodič"</string>
   <string name="weekly_build">Tjedno izdanje</string>
