@@ -352,6 +352,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="ims_service_capability_title">Mogućnosti IMS usluge</string>
   <string name="incall_error_call_failed">"Ne mogu upuTITI poziv."</string>
   <string name="incall_error_emergency_only">Nije registrirano na mreži.</string>
+  <string name="incall_error_no_active_sim">Nema aktivne SIM kartice.</string>
   <string name="incall_error_no_phone_number_supplied">Poziv nije uspostavljen, nije unijet valjani broj.</string>
   <string name="incall_error_out_of_service">Mobila mreža nije dostupna.</string>
   <string name="incall_error_power_off">Za upućivanje poziva, isključite način rada u zrakoplovu.</string>

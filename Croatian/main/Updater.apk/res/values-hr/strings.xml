@@ -32,6 +32,7 @@
   <string name="check_update_policy">Postavke</string>
   <string name="check_update_when_wifi_available">Provjeri koristeći samo WLAN</string>
   <string name="check_update_when_wifi_available_sum">"Provjeri za ažuriranja samo kada je povezano na WLAN"</string>
+  <string name="clean_up_button">Očisti</string>
   <string name="comment_invalid">Ocijeni ovo ažuriranje (dodirni zvijezdu)</string>
   <string name="comment_publish">Pošalji</string>
   <string name="comment_sending">Šaljem…</string>
@@ -161,6 +162,8 @@
   <string name="update_feedback_end_sum">Možete se pridružiti svakog utorka.</string>
   <string name="update_feedback_expired">"Propustili ste ovu priliku da kažete svoje mišljenje.
 Ali možete sudjelovati sljedeći utorak."</string>
+  <string name="update_feedback_need_account">Morate se prvo prijaviti u svoj Mi Račun</string>
+  <string name="update_feedback_need_network">Prvo se povežite na mrežu</string>
   <string name="update_feedback_need_update">Morate prvo ažurirati svoj ​​sustav na najnoviju razvojnu verziju.</string>
   <string name="update_feel">Što vi mislite?</string>
   <string name="update_general">Tako-tako</string>

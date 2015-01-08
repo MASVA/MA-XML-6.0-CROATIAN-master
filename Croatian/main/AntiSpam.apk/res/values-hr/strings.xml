@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="ACaddnumcontent">Unesite pozivni broj</string>
   <string name="ACaddnumtitle">Dodati predbroj broja telefona u iznimke</string>
@@ -179,6 +179,7 @@ Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potraz
   <string name="report_warning_title">Prijavi SMS</string>
   <string name="sim_not_ready">SIM kartica nije spremna</string>
   <string name="sms_delete_hint">Izbrisati sve blokirane poruke s ovog broja?</string>
+  <string name="sms_smart_engine_update">Automatski ažuriraj filter SMS-a</string>
   <string name="special_number_group">Blokiraj prijavljene brojeve</string>
   <string name="st_advanced_setting_group">Napredno</string>
   <string name="st_antispam_black_adress_add">Dodaj lokacije</string>

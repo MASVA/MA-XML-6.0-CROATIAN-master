@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="already_deleted">(izbrisano)</string>
+  <string name="about_cloud_app_backup">O Sig. kopiji</string>
+  <string name="already_deleted">%s (izbrisano)</string>
   <string name="already_disable_backup">Izradi Sig. kopiju ove aplikacije</string>
   <string name="already_enable_backup">Izradi Sig. kopiju ove aplikacije</string>
   <string name="app_installed">Instalirano</string>
@@ -17,6 +18,8 @@
   <string name="button_ok">U redu</string>
   <string name="button_restore">Obnovi</string>
   <string name="button_stop">Zaustavi</string>
+  <string name="cancel_recover_settings">&lt;u&gt;Odustani&lt;/u&gt;</string>
+  <string name="cloud_app_backup_already">" je napravljena Sig. kopija"</string>
   <string name="cloud_app_backup_cancel">Otkazivanje…</string>
   <string name="cloud_app_backup_cancel_prompt_message">"Sig. kopija nije završena, svejedno zaustaviti?"</string> 
   <string name="cloud_app_backup_cancel_prompt_title">Zaustaviti izradu Sig. kopije?</string>
@@ -76,9 +79,10 @@ svejedno zaustaviti?"</string>
   <string name="dialog_prompt_stop_backup">Zaustaviti izradu Sig. kopije?</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
   <string name="disable_backup">Isključi</string>
-  <string name="display_early_backup">Prikaži prethodne Sig. kopije</string>
+  <string name="download_settings">Preuzimanje postavki Početnog zaslona</string>
   <string name="enable_backup">Uključi</string>
   <string name="error_unknown">Nešto nije u redu</string>
+  <string name="explantion_of_data_size">Spremljeno prostora korištenjem Mi App Marketa</string>
   <string name="latest_backup_time">Zadnja Sig. kopija: %s</string>
   <string name="latest_backup_time_loading">Učitavanje…</string>
   <string name="listview_empty_no_results">Nema rezultata</string>
@@ -97,6 +101,8 @@ svejedno zaustaviti?"</string>
   <string name="open_wifi_setting">WLAN Postavke</string>
   <string name="process_whole_recovery">Obnova \"%s\"</string>
   <string name="recover_from_micloud">Obnovi koristeći MiCloud</string>
+  <string name="recover_settings">Obnovi postavke Početnog zaslona</string>
+  <string name="recover_settings_description">Držite uređaj uključenim</string>
   <string name="recovering">Obnavljam %s</string>
   <string name="restore_from_cloud">Obnovi iz MiClouda</string>
   <string name="restoreing_file_tile">Obnova datoteka: %d</string>
@@ -105,7 +111,6 @@ svejedno zaustaviti?"</string>
   <string name="sdcard_unmounted">SD kartica nije umetnuta!</string>
   <string name="select_backup_data">Odaberi Sig. kopiju</string>
   <string name="self_phone">Ovaj telefon</string>
-  <string name="skip_recovery">Preskoči</string>
   <string name="start_backup_to_micloud">Izrada Sig. kopije aplikacija na MiCloud</string>
   <string name="start_recover">Obnovi %s</string>
   <string name="stop_backup">Zaustavi</string>

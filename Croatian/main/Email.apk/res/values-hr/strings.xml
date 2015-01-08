@@ -145,6 +145,7 @@
   <string name="account_setup_names_user_name_empty_error">Ovo polje ne može biti prazno.</string>
   <string name="account_setup_names_user_name_label">Vaše ime (prikazano u izlaznim porukama)</string>
   <string name="account_setup_need_password_verification">Vaš račun ima otvorenu srednju provjeru autentičnosti zaporke. Potrebna je provjera autentičnosti</string>
+  <string name="account_setup_not_disturb_title">Ne uznemiravaj</string>
   <string name="account_setup_options_background_attachments_label">Automatski preuzmi privitke za vrijeme povezanosti s WLAN mrežom</string>
   <string name="account_setup_options_headline">Mogućnosti računa</string>
   <string name="account_setup_options_mail_check_frequency_10min">Svakih 10 minuta</string>
@@ -281,6 +282,7 @@
   <string name="change_account_type">Promijenite vrstu računa</string>
   <string name="change_folders_selection_dialog_title">Promjena mapa</string>
   <string name="change_sync_settings">Promjena sinkronizacije</string>
+  <string name="changepw_dialog_tips">Unesite ponovo zaporku za \"%s\"</string>
   <string name="chat_item_msg_people_unit">osoba</string>
   <string name="chat_item_msg_user_etc"/>
   <string name="chat_item_msg_user_saying">kaže:</string>
@@ -304,12 +306,12 @@
   <string name="compose_sent">Poruka poslana</string>
   <string name="confirm">U redu</string>
   <string name="confirm_delete">Izbrisati ovu poruku ?</string>
+  <string name="confirm_delete_conversation_title">Izbriši</string>
   <string name="confirm_discard_text">Odbaciti ovu poruku?</string>
   <string name="confirm_response">Slanje…</string>
   <string name="confirm_save_message_no">Odbaci</string>
   <string name="confirm_save_message_title">Spremiti poruku kao skicu?</string>
   <string name="confirm_save_message_yes">Spremi</string>
-  <string name="confirm_send_message">Poslati ovu poruku?</string>
   <string name="confirm_send_message_with_no_body">"Nema teksta u tijelu poruke."</string>
   <string name="confirm_send_message_with_no_subject">"Ova poruka nema predmet."</string>
   <string name="confirm_send_title">Poslati poruku?</string>
@@ -381,12 +383,17 @@
   <string name="dismiss_tip_hover_text">Odbacivanje savjeta</string>
   <string name="done">Gotovo</string>
   <string name="done_action">Gotovo</string>
+  <string name="donot_disturb_endtime_title">Prima</string>
+  <string name="donot_disturb_starttime_title">Šalje</string>
+  <string name="donot_disturb_summary">Vaš uređaj neće primati obavijesti novih poruka u određeno vrijeme</string>
+  <string name="donot_disturb_title">Ne uznemiravaj tijekom noći</string>
   <string name="download_again">Preuzmi ponovo</string>
   <string name="download_before_sharing">" još nije završeno preuzimanje."</string>
   <string name="download_before_view">"Ova poruka još nije preuzeta."</string>
   <string name="downlaod_cancel_confirm_download">Zaustavi</string>
   <string name="downlaod_cancel_continue_download">Natrag</string>
-  <string name="download_cancel_confirm_title">Preuzimanje će biti zaustavljeno</string>
+  <string name="download_cancel_confirm_message">Preuzimanje će biti zaustavljeno</string>
+  <string name="download_cancel_confirm_title">Preuzimanje ovog privitka</string>
   <string name="downlaod_confirm_download">Preuzmi</string>
   <string name="download_confirm_message">Preuzeti %1$s privitak?</string>
   <string name="download_confirm_title">Preuzimanje privitka</string>
@@ -394,6 +401,7 @@
   <string name="download_failed">"Ne mogu preuzeti. Dodirnite za ponovni pokušaj."</string>
   <string name="download_show_image">Preuzmi i prikaži sliku</string>
   <string name="downlaod_nonWifi_confirm_message">Koristiti mobilnu podatkovnu vezu za preuzimanje ovog privitka?</string> 
+  <string name="downlaod_nonWifi_confirm_title">Preuzeti ovaj privitak?</string>
   <string name="downloading_message_body">Preuzimanje…</string>  
   <string name="draft_count_format"> (%1$s)</string>  
   <string name="drawer_close">Zatvaranje pretinca za navigaciju</string>
@@ -510,6 +518,7 @@
   <string name="intent_exchange_action">com.android.email.EXCHANGE_INTENT</string>
   <string name="intent_exchange_package">com.android.exchange</string>
   <string name="invalid_recipient">Adresa %s nije važeća.</string>
+  <string name="invalid_recipient_title">Pogreška primatelja</string>
   <string name="kilobytes">%s KB</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
   <string name="load_from_remote">Nastavak pretraživanja na poslužitelju</string>
@@ -623,7 +632,6 @@ Kopija: %4$s
   <string name="more_atts_remaining">%1$d još preostalo</string>
   <string name="more_atts_total">%1$d privitaka</string>
   <string name="more_context">Više</string>
-  <string name="more_info_attachment">Informacije</string>
   <string name="more_string">+%1$s</string>
   <string name="more_than_999">999+</string>
   <string name="move_to_selection_dialog_title">Premještanje</string>
@@ -639,6 +647,7 @@ Kopija: %4$s
   <string name="no">Ne</string>
   <string name="no_address_email">noaddressemail@123.com</string>
   <string name="no_application_found">Nema nađenih aplikacija za otvaranje ovog privitka.</string>
+  <string name="no_application_found_title">Otvori ovaj privitak.</string>
   <string name="no_contacts">Nema kontakata.</string>
   <string name="no_content_in_body">[Nema poruke]</string>
   <string name="no_conversations">Nema poruka.</string>
@@ -802,8 +811,8 @@ Kopija: %4$s
   <string name="quoted_text_label">Citirani tekst</string>
   <string name="read_string">Razgovor je pročitan</string>
   <string name="recent_folders_heading">Nedavne mape</string>
-  <string name="recipient_error_dialog_title">Pogreška primatelja</string>
   <string name="recipient_needed">Dodajte barem 1 primatelja.</string>
+  <string name="recipient_needed_title">Upozori</string>
   <string name="recipient_null_dialog_title">Upozorenje</string>
   <string name="refresh">Osvježi</string>
   <string name="refreshing">Osvježavam…</string>
@@ -814,6 +823,7 @@ Kopija: %4$s
   <string name="remote_search_result">%s poruke e-pošte pronađeno na poslužitelju</string>
   <string name="remove_account">Ukloni račun</string>
   <string name="remove_account_confirm">\"%1$s\" će biti uklonjen iz Pošte.</string>
+  <string name="remove_account_confirm_title">Izbriši račun</string>
   <string name="remove_folder">Ukloni iz %1$s</string>
   <string name="remove_star">Odznači</string>
   <string name="reply">Odgovor</string>

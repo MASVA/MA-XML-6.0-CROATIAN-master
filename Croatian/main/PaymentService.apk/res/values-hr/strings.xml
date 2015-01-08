@@ -280,7 +280,7 @@ Informacije na broj: 400-100-5678 "</string>
   <string name="sms_code_hint">Unesite 6 znamenkasti kôd za ovjeru</string>
   <string name="summary_bind_phone">Da bi osigurali svoj korisnički račun, dovršite plaćanje nakon povezivanja broj telefona.</string>
   <string name="summary_custom_service_phone">Tel:</string>
-  <string name="summary_lockpattern">Potreban uzorak otključavanja za Mi Kredita</string>
+  <string name="summary_lockpattern">Potreban uzorak otključavanja za Mi Kredite</string>
   <string name="summary_sms_code">Unesite kôd za ovjeru poslan na %1$s, i zatim završite plaćanje</string>
   <string name="title_bind_phone">Povezivanje brojeva telefona</string>
   <string name="title_change_lockpattern">Promijeni uzorak zaključavanja</string>
