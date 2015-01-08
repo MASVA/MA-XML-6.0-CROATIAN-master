@@ -19,7 +19,7 @@
     <string name="basic_info">Detalji računa</string>
     <string name="change_wallpaper">Slika pozadine</string>
     <string name="close">Zatvori</string>
-    <string name="component_category_finest_title">OPĆE</string>
+    <string name="component_category_finest_title">OPĆENITO</string>
     <string name="component_category_more_title">NAPREDNO</string>
     <string name="deleting">Brišem…</string>
     <string name="description_author">Autor:</string>
@@ -80,7 +80,7 @@
 	<string name="my_gifts">Pokloni</string>
     <string name="my_gifts_purchased">Kupljeni</string>
     <string name="my_gifts_received">Primljeni</string>
-    <string name="online_no_network">"Ne mogu se spojiti na mrežu"</string>
+    <string name="online_no_network">"Ne mogu se povezati na mrežu"</string>
     <string name="online_search_hint">Pretraživanje za online resursima</string>
     <string name="payment_info">Mi Krediti</string>
     <string name="purchased_list">Kupljene teme</string>
@@ -117,7 +117,7 @@
     <string name="resource_comment_entry_tips">Komentari (%1$s)</string>
     <string name="resource_comment_expand_full_text">Proširi tekst▼</string>
     <string name="resource_comment_footer">Prazni komentari nisu prikazani.</string>
-    <string name="resource_comment_good_comments">Pozitivni komentari</string>
+    <string name="resource_comment_good_comments">Pozitivno</string>
     <string name="resource_comment_invalid">Dodirni * da ocijeniš</string>
     <string name="resource_comment_loading_list">Učitavanje…</string>
     <string name="resource_comment_name_default">Korisnik %1$s</string>
@@ -131,7 +131,7 @@
     <string name="resource_comment_title">Komentara: %1$s</string>
     <string name="resource_comment_upload_data_invalid">Komentar koji ste unijeli nije valjan</string>
     <string name="resource_comment_upload_failed">"Ne mogu poslati komentar"</string>
-    <string name="resource_comment_upload_hint">Komentar će se objavit nakon što bude pregledan.</string>
+    <string name="resource_comment_upload_hint">Komentar će se objaviti nakon što bude pregledan.</string>
     <string name="resource_comment_upload_not_bought">Morate podesiti temu prije pisanja komentara.</string>
     <string name="resource_comment_upload_not_logined">Niste prijavljeni!</string>
     <string name="resource_comment_upload_success">Komentar će se objaviti nakon što bude pregledan</string>
