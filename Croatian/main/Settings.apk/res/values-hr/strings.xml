@@ -2495,7 +2495,7 @@ Riječ možete dodati dodirom na tipku Dodaj (+)"</string>
   <string name="view_install_log">Prikaži zapisnik grešaka</string>
   <string name="virus_scan">Skeniranje</string>
   <string name="virus_scan_app_continue">Nastavi skeniranje</string>
-  <string name="virus_scan_app_find_risk">Pronađeno % d rizika</string>
+  <string name="virus_scan_app_find_risk">Pronađeno rizika: %d</string>
   <string name="virus_scan_app_finish">Skeniranje je završeno</string>
   <string name="virus_scan_app_force_stop">Skeniranje je pauzirano</string>
   <string name="virus_scan_app_is_stop_scan">Zaustavi skeniranje?</string>
@@ -2507,7 +2507,7 @@ Riječ možete dodati dodirom na tipku Dodaj (+)"</string>
   <string name="virus_scan_app_scan_finish">Skeniranje je završeno</string>
   <string name="virus_scan_app_scanning">Skeniranje…</string>
   <string name="virus_scan_app_stop_scan">Zaustavi skeniranje</string>
-  <string name="virus_scan_app_uninstall">Ukloni (% d)</string>
+  <string name="virus_scan_app_uninstall">Ukloni (%d)</string>
   <string name="virus_scan_app_waiting">Čekanje…</string>
   <string name="virus_scanner_auto_update">Ažuriraj automatski</string>
   <string name="virus_scanner_date_formater">dd MM. yyyy</string>
