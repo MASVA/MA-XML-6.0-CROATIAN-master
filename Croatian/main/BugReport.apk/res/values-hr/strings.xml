@@ -28,7 +28,7 @@
   <string name="cta_dialog_content">Ovoj je aplikaciji potrebno povezivanje s internetom da radi normalno.</string>
   <string name="cta_dialog_title">Internet povezivanje</string>
   <string name="cta_not_show_again">Zapamti odabrano</string>
-  <string name="description">"Ako ne vidite svoj problem u uobičajenim greškama, opišite ga ovdje"</string>
+  <string name="description">"Opišite problem"</string>
   <string name="discard_draft_dialog_button_cancel">Odustani</string>
   <string name="discard_draft_dialog_button_discard">Odbaci</string>
   <string name="discard_draft_dialog_content">"Sve promjene koje ste napravili na tom izvješću će biti izgubljene."</string>
@@ -62,7 +62,6 @@
   <string name="network_unavailable_dialog_title">"Ne mogu se povezati na mrežu"</string>
   <string name="no_userbook_toast">"Pročitaj me ne postoji"</string>
   <string name="non_system_app_select">Preuzete aplikacije</string>
-  <string name="nonsystemapp_description">Opišite problem</string>
   <string name="packaging_dialog_content">Stvaranje izvješća…</string>
   <string name="power_consuming_problem1">Povećana potrošnja baterije nakon ažuriranja</string>
   <string name="power_consuming_problem2">Visoka potrošnja baterije korištenjem aplikacije</string>
