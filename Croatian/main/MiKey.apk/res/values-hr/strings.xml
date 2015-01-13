@@ -96,6 +96,21 @@
   <string name="cn_7">7</string>
   <string name="cn_8">8</string>
   <string name="cn_9">9</string>
+  <string name="combo_standard_title">Standardni paket</string>
+  <string name="combo_standard_text">Ovaj paket može zadovoljiti osnovno svakodnevno korištenje, pogotovo ako nemate jasnu ideju onda je standardni paket dobar izbor.</string>
+  <string name="combo_speed_prefix">Brzina:</string>
+  <string name="combo_speed_slow">Sporo</string>
+  <string name="combo_speed_medium">Srednje</string>
+  <string name="combo_speed_fast">Brzo</string>
+  <string name="combo_saveas_title">Ispunite informacije o paketu</string>
+  <string name="combo_edit_title">Uredi paket</string>
+  <string name="combo_saveas_name">Naziv</string>
+  <string name="combo_saveas_name_empty">Bez imena</string>
+  <string name="combo_saveas_desc">Opis paketa</string>
+  <string name="combo_customize_desc">"Paket se može postaviti klikom
+na dnu popisa"</string>
+  <string name="combo_saveas_already_saved_desc">Trenutne postavke paketa su spremljene</string>
+  <string name="combo_edit">Uredi</string>
   <string name="company">Firma:</string>
   <string name="confirm">U redu</string>
   <string name="copy">Kopiraj</string>
@@ -105,10 +120,14 @@
   <string name="delete_confirm">Izbrisati ovu radnju?</string>
   <string name="delete_gesture">Izbrisati geste za Mikey?</string>
   <string name="device_not_recognized">Povezan uređaj nije prepoznat. Pokušajte ponovo</string>
+  <string name="dialog_content_mad_click">Neprekidno klikanje:</string>
   <string name="dialog_title_disable_mikey_sprite">Onemogućiti MiKey Čarobnjak?</string>
+  <string name="dialog_title_mad_click">Upitaj</string>
+  <string name="disable_mad_click">Onemogući lud način</string>
   <string name="disable_mikey_sprite">Onemogući MiKey Čarobnjak</string>
   <string name="earphone">Slušalice</string>
   <string name="email">E-pošta:</string>
+  <string name="enable_mad_click">Omogući lud način</string>
   <string name="enable_mikey_sprite">Omogući MiKey Čarobnjak</string>
   <string name="fail_generate_barcode">Generiranje QR koda nije uspjelo</string>
   <string name="faq_comp_text">Za MIUI i Xiaomi telefone. Aktualnu verziju MiKey aplikaciju možete pronaći na &lt;a href="http://xiaomi.eu/community/threads/mikey-app-1-4-1.24220/"&gt;xiaomi.eu&lt;/a&gt;</string>
@@ -165,6 +184,7 @@ Tijekom uporabe, ostale funkcije MiKey su nedostupne."</string>
   <string name="picker_lable">Galerija</string>
   <string name="place_barcode_into_rectangle">Postavite QR kod ili barkod unutar tražila pravokutnika</string>
   <string name="privacy_mode_end">Privatan način onemogućen</string>
+  <string name="privacy_mode_first_hint">Za posjetitelje je Privatan način omogućen</string>
   <string name="privacy_mode_started">Privatan način omogućen</string>
   <string name="privacy_mode_title">Privatan način</string>
   <string name="rank_prefix">"Rejting: "</string>
@@ -242,6 +262,7 @@ S vrha zaslona povucite prema dolje da je koristite."</string>
 Pritiskom na MiKey simulirajte dodir na odabranom mjestu"</string>
   <string name="splash_tip">Poveži MiKey</string>
   <string name="super_difficult_click">"Otpornost klika"</string>
+  <string name="tab_combo">Paket</string>
   <string name="tab_mikey">MiKey</string>
   <string name="tab_mikey_sprite">MiKey Čarobnjak</string>
   <string name="task_title_prefix">Zadatak %1$s: %2$s</string>

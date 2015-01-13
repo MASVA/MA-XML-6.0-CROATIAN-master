@@ -136,6 +136,7 @@
   <string name="clean_content_three">Preskoči %s</string>
   <string name="clean_content_two">%1$s i %2$s</string>
   <string name="clean_content_zero">"Nemoj ništa čistiti"</string>
+  <string name="confirm_auto_cleaner">Potvrdi</string>
   <string name="cta_button_text_agree">U redu</string>
   <string name="cta_button_text_cancel">Odustani</string>
   <string name="cta_checkbox_title">Više ne pitaj</string>
@@ -369,6 +370,7 @@
   <string name="permission_send_sms_descx">Pošalji SMS i MMS poruke direktno</string>
   <string name="permission_with_SMS_and_MMS">Dopuštenja koja se odnose na SMS i MMS</string>
   <string name="permission_with_call_and_contact">Dopuštenja koja se odnose na telefonske pozive, informacije kontakata i povijest poziva.</string>
+  <string name="positive_confirm">Potvrdi</string>
   <string name="power_20s_enter_mode">Na %1$ds baterije prebaci na %2$s</string>
   <string name="power_20s_shutdown">Uređaj će isključiti za 20 sek.</string>
   <string name="power_apply_toast">Prebačeno na %s </string>
@@ -597,10 +599,13 @@
   <string name="suffix_virus_count_top">rizika</string>
   <string name="summary_antivirus">Pošaljite i skenirajte nazive aplikacija koristeći online definicije virusa.</string>
   <string name="summary_antivirus_oversea">Ažuriraj automatski definicije virusa</string>
+  <string name="summary_auto_cleaner">Bilo bi dobro autom. čišćenje? Svaka tri dana nakon obavljenog zadanog automatskog čišćenja smeća može se promijeniti učestalost i sadržaj u postavkama</string>
   <string name="summary_cleaner_cloudscan">Učitaj i usporedi nazive mapa s online definicijama</string>
   <string name="summary_cloud_account">Dobijte najviše od Vašeg Mi Uređaja.</string>
   <string name="summary_cloud_service">Sinkronizirajte vaše fotografije, kontakte, i više na svim vašim uređajima</string>
   <string name="summary_data_flow">"Izbjegnite prekoračenje mjesečnog ograničenja podataka vašeg davatelja usluga"</string>
+  <string name="summary_delete_cache">Izbrisati odabrane podatke predmemorije? Neke aplikacije možda neće biti izbrisane nakon korištenja, odaberite pažljivo</string>
+  <string name="summary_delete_large_file">Izbrisati odabrane datoteke? Nakon brisanja velikih datoteka, to može rezultirati nedostupnosti značajkama offline karata, odaberite pažljivo</string>
   <string name="summary_dev">Spriječite aplikacije od pristupa korisničkim podacima</string>
   <string name="summary_flow_notification">Prikaži mjesečnu statistiku uporabe podataka u panelu obavijesti.</string>
   <string name="summary_flow_purchase_beyond">"Premašili ste ograničenje uporabe podataka ovaj mjesec za %sMB."</string>
@@ -632,12 +637,15 @@
   <string name="title_app_update">Dostupna ažuriranja</string>
   <string name="title_app_update_no">Pronađeno ažuriranja: %d</string>
   <string name="title_app_update_yes">Nema pronađenih ažuriranja</string>
+  <string name="title_auto_cleaner">Automatski očisti</string>
   <string name="title_cleaner_cloudscan">Učitaj nazive mapa</string>
   <string name="title_cloud_account">Mi Račun</string>
   <string name="title_cloud_service">Mi Cloud</string>
   <string name="title_data_flow">Postavi upozorenje uporabe podataka</string>
   <string name="title_data_flow_no">Nadzor Uporabe podataka isključen</string>
   <string name="title_data_flow_yes">Nadzor Uporabe podataka uključen</string>
+  <string name="title_delete_cache">Izbriši podatke predmemorije</string>
+  <string name="title_delete_large_file">Izbriši velike datoteke</string>
   <string name="title_dev_no">Opcije Raz. programera uključene</string>
   <string name="title_dev_yes">Opcije Raz. programera isključene</string>
   <string name="title_flow_notification">Izvješće uporabe podataka</string>

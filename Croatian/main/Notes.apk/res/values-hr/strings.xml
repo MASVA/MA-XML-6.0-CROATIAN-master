@@ -34,6 +34,7 @@
   <string name="format_move_notes_to_folder">Premješteno %1$s u %2$s</string>
   <string name="hint_foler_name">Ime</string>
   <string name="info_note_enter_desktop">Dodano na Početni zaslon</string>
+  <string name="loading_text">Učitavanje…</string>
   <string name="login_sync">Prijavi se &amp; sinkr.</string>
   <string name="menu_create_folder">Nova mapa</string>
   <string name="menu_delete">"Izbriši"</string>
@@ -94,7 +95,8 @@
   <string name="sns_toast_empty">"Ne mogu poslati praznu poruku"</string>
   <string name="sns_toast_over_limit">Pošalji kao sliku (preko ograničenja teksta)</string>
   <string name="toast_folder_privacy_mode">"Ne mogu urediti mapu u Gost načinu rada"</string>
-  <string name="toast_message_add_image_fail">Dodavanje slike nije uspjelo</string>
+  <string name="toast_message_add_image_fail">"Ne mogu dodati sliku"</string>
+  <string name="toast_message_add_text_warn">"Ova vrsta datoteka nije podržana"</string>
   <string name="toast_note_privacy_mode">"Ne mogu stvoriti bilješku u Gost načinu rada"</string>
   <string name="toast_reach_text_limit_attachment">Nije moguće dodati novi privitak jer je bilješka predugačka</string>
   <string name="toast_reach_text_limit_truncate">Bilješka je predugačka. Dio teksta je odsječen sa kraja bilješke radi prilagođavanja.</string>

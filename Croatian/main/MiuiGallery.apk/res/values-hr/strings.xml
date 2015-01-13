@@ -60,8 +60,8 @@
   <string name="auto_create_recent_album_over_ten_times">Album će biti označen kao omiljen nakon otvaranja više od 10 puta</string>
   <string name="auto_upload_album_comfirm_to_share">Ovaj album će biti automatski učitan.</string>
   <string name="auto_upload_guide">Automatski učitajte vaše fotografije s drugih aplikacija na Mi Cloud</string>
-  <string name="auto_upload_setting_toast">Pogledaj dodatne opcije za tu značajku u Mi Cloud Postavkama</string>
-  <string name="auto_upload_title">Učitaj automatski</string>
+  <string name="auto_upload_guide_msssage">" "&lt;Data&gt; Automatski učitajte svoje fotografije iz drugih aplikacija na Mi Cloud. Pogledajte postavke u &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;Postavke Galerije&amp;gt;Sink. s Mi Cloud&amp;gt;Automatski učitaj&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;. &lt;/Data&gt;" "</string>
+  <string name="auto_upload_guide_title">Automatski učitaj</string>
   <string name="autofix">Aut. popravak</string>
   <string name="autohomemain">Autohomemain</string>
   <string name="baidu_bdmobile_downloads">Baidu Mobile</string>
@@ -340,7 +340,6 @@
   <string name="negative">Negativan</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
   <string name="new_device_tips">"Dodirnite za prikaz uređaja"</string>
-  <string name="new_feature">Nova značajka</string>
   <string name="no">Ne</string>
   <string name="no_albums_alert">Nema dostupnih albuma.</string>
   <string name="no_connectivity">"Neke lokacije nisu mogle biti identificirane zbog poteškoća s mrežom."</string>

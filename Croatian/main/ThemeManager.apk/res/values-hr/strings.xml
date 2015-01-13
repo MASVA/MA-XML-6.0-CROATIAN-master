@@ -47,7 +47,7 @@
     <string name="gift_owned">Lokalno</string>
     <string name="gift_present">Daj</string>
     <string name="gift_present_dlg_anonymous">Anoniman poklon</string>
-    <string name="gift_present_dlg_input_hint">ID Mi Račun-a/Telefon</string>
+    <string name="gift_present_dlg_input_hint">ID Mi Računa/Telefon</string>
     <string name="gift_present_dlg_no_fee">"Neće vam biti naplaćeno od strane vašeg davatelja usluga za slanje poklona"</string>
     <string name="gift_present_dlg_present_max_limit">"Tema ne može biti poklonjena više od ovoliko puta: %$1s."</string>
     <string name="gift_present_dlg_share">Napravite kod i podijeliti poklon</string>
@@ -114,13 +114,13 @@
     <string name="resource_comment_date">%1$02d-%2$02d</string>
     <string name="resource_comment_edit_comment">Dodaj komentar</string>
     <string name="resource_comment_edit_comment_waiting">Provjeravanje povijesti…</string>
-    <string name="resource_comment_edit_text_default">Napiši komentar</string>
+    <string name="resource_comment_edit_text_default">Napišite komentar</string>
     <string name="resource_comment_edit_title">Uredi komentar: %1$s</string>
     <string name="resource_comment_entry_tips">Komentara (%1$s)</string>
     <string name="resource_comment_expand_full_text">Proširi sav tekst▼</string>
     <string name="resource_comment_footer">Prazni komentari nisu prikazani.</string>
     <string name="resource_comment_good_comments">Pozitivni</string>
-    <string name="resource_comment_invalid">Dodirni * da ocijeniš</string>
+    <string name="resource_comment_invalid">Dodirnite * da ocijenite</string>
     <string name="resource_comment_loading_list">Učitavanje…</string>
     <string name="resource_comment_name_default">Korisnik %1$s</string>
     <string name="resource_comment_no_average_score">N/A</string>
@@ -167,7 +167,7 @@
     <string name="resource_exchange_has_used">Ovaj kod je već iskorišten.</string>
     <string name="resource_exchange_hint">Unesite vaš kod</string>
     <string name="resource_exchange_purchase_unkown_error">Nepoznata mrežna pogreška. Prijavite se na http://market.xiaomi.com kako bi vidjeli status plaćanja.</string>
-    <string name="resource_exchange_share_code_content">Dobili ste kod za %1$s na MIUI Teme trgovini. Vaš kod Mi Kredita je: %2$s. Dodirni %3$s za koristiti sada.</string>
+    <string name="resource_exchange_share_code_content">Dobili ste kod za %1$s na MIUI Teme trgovini. Vaš kod Mi Kredita je: %2$s. Dodirnite %3$s za koristiti sada.</string>
     <string name="resource_exchange_share_code_dlg_content">Kod uspješno kupljen za %1$s je: %2$s. Sada ga možete podijeliti s prijateljima.</string>
     <string name="resource_exchange_share_code_dlg_title">Pošalji kod</string>
     <string name="resource_exchange_success">Uživajte !</string>
@@ -176,7 +176,7 @@
     <string name="resource_exchange_universal_goon">Ovaj kod se može koristiti za preuzimanje bilo koje teme iz Trgovine tema.</string>
     <string name="resource_exchange_window_title">Iskoristi kod</string>
     <string name="resource_exchange_wrong_format_by_local">Format koda koji ste unijeli je pogrešan</string>
-    <string name="resource_exchange_wrong_format_by_server">Kod nije bilo moguće provjeriti. Pobrinite se da ste ga ispravno unijeli.</string>
+    <string name="resource_exchange_wrong_format_by_server">Kod nije bilo moguće provjeriti. Provjerite da li ste ga ispravno unijeli.</string>
     <string name="resource_expand_full_text">Proširi</string>
     <string name="resource_failed_to_load_list">"Ne mogu učitati popis"</string>
     <string name="resource_get_auth_checking">Provjera…</string>
@@ -210,7 +210,7 @@
     <string name="resource_price_free">Besplatno</string>
     <string name="resource_price_unit">Mi Kredita</string>
     <string name="resource_purchase_getting_order">Preuzimam info narudžbe…</string>
-    <string name="resource_purchase_verifying_payment">Provjeravam info o plaćanju…</string>
+    <string name="resource_purchase_verifying_payment">Provjeravam detalje plaćanja…</string>
     <string name="resource_purchase_waiting_payment">Čekam info o plaćanju…</string>
     <string name="resource_ranking">Popularno</string>
     <string name="resource_ranking_free">Besplatno</string>
@@ -236,7 +236,7 @@
     <string name="resource_title_category">Kategorije</string>
     <string name="resource_title_hot_subject">Popularno</string>
     <string name="resource_title_local">Lokalno</string>
-    <string name="resource_title_rank">Najbolje</string>
+    <string name="resource_title_rank">Najljepše</string>
     <string name="resource_title_select_ringtone">Odaberite melodiju zvona</string>
     <string name="resource_title_subject">Istaknuto</string>
     <string name="resource_trial_end_message">Probni period za %1$s je istekao. Ako vam se tema sviđa, kupite je.</string>
@@ -247,7 +247,7 @@
     <string name="resource_trial_fail_go_settings">Postavke</string>
     <string name="resource_trial_fail_message">Provjerite je li vaš sat sustava postavljen na točno vrijeme.</string>
     <string name="resource_trial_fail_title">"Nije bilo moguće postaviti probni period"</string>
-    <string name="resource_trial_time">（probni period: %1$d min.）</string>
+    <string name="resource_trial_time">(probni period: %1$d min.)</string>
     <string name="resource_unknow_error">Došlo je do nepoznate pogreške</string>
     <string name="resource_update">Ažuriraj</string>
     <string name="resource_user_know">U redu</string>
@@ -266,7 +266,7 @@
     <string name="theme_batch_updating_text">Ažuriram (%1$d)</string>
     <string name="theme_changed_failed_message">"Ne mogu podesiti temu"</string>
     <string name="theme_changed_message">Tema podešena</string>
-    <string name="theme_changing_dialog_title">Podešavam temu…</string>
+    <string name="theme_changing_dialog_title">Podešavanje teme…</string>
     <string name="theme_component_title_alarm">Alarm</string>
     <string name="theme_component_title_alarmstyle">Stil Alarma</string>
     <string name="theme_component_title_all">Teme</string>
@@ -301,7 +301,7 @@
     <string name="theme_favorite_list_empty">"Niste ocijenili nijednu temu."</string>
     <string name="theme_favorite_waiting">Trenutak…</string>
     <string name="theme_fresh_man_notifaction">Dostupne nove teme</string>
-    <string name="theme_immediately_apply_tip">Primijeniti ažuriranje teme?</string>
+    <string name="theme_immediately_apply_tip">Primjeniti ažuriranje teme?</string>
     <string name="theme_import_from_sdcard">Uvezi sa SD kartice</string>
     <string name="theme_multiple_button_title_customize">Prilagodi</string>
     <string name="theme_name">%1$s</string>

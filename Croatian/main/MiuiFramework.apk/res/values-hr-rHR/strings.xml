@@ -140,6 +140,7 @@ Za uključivanje ove značajke, idite na Postavke &gt; Dodatne postavke &gt; Tip
   <string name="status_bar_toggle_lock">Zaklj.</string>
   <string name="status_bar_toggle_mute">Bešumno</string>
   <string name="status_bar_toggle_network_type">Mreža</string>
+  <string name="status_bar_toggle_paper_mode">Način čitanja</string>
   <string name="status_bar_toggle_power_mode">Energija</string>
   <string name="status_bar_toggle_privacy_mode">Gost</string>
   <string name="status_bar_toggle_quiet_mode">Ne smetaj</string>
