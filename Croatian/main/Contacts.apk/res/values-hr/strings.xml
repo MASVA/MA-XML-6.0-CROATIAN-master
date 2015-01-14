@@ -762,6 +762,9 @@ Za dodavanje kontakta na listu favorita :
   <string name="profile_display_name">Postavi moj profil</string>
   <string name="profile_name">Moj profil</string>
   <string name="profile_name_photo">Ja</string>
+  <string name="pull_to_refresh_pull_label">Povucite za osvježiti…</string>
+  <string name="pull_to_refresh_refreshing_label">Učitavanje…</string>
+  <string name="pull_to_refresh_release_label">Otpustite za osvježiti…</string>
   <string name="qr_card_card">Moj QR kod</string>
   <string name="qrcode_card_title">QR kod</string>
   <string name="quickcontact_missing_app">Nije pronađena aplikacija za obradu ove radnje</string>
@@ -911,6 +914,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="resource_online">Mrežno %1$s</string>
   <string name="resource_pack_confirm">"Iako ste već kupili %1$d komponenti ove teme, još je uvijek jeftinije ako kupite cijeli paket."</string>
   <string name="resource_pack_discount_info">Ušteđeno: %1$s</string>
+  <string name="resource_pack_get_auth_has_been_undercarriaged">Ovaj predmet više nije dostupan.</string>
   <string name="resource_pack_price_info">Originalna cijena: %1$s</string>
   <string name="resource_pack_warning">"Već ste kupili %1$d komponenti ove teme. Jeftinije je ako kupite preostale komponente pojedinačno."</string>
   <string name="resource_present">Poklon</string>
@@ -1170,6 +1174,7 @@ Odaberite jednu od sljedećih opcija:</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Preuzimanje…</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">"Ne mogu se povezati na mrežu."</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Dodano na početni zaslon</string>
+  <string name="yellowpage_search_the_yellowpage">Pretraži imenik</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">"Odaberite stavke"</string>
 </resources> 

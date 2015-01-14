@@ -612,6 +612,7 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="preferred_network_type_pref_entries_3g_preferred">Poželjno 3G</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Poželjno 3G (CDMA)</string>
   <string name="preferred_network_type_pref_entries_4g_preferred">Poželjno LTE</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Poželjno 4G (CDMA)</string>
   <string name="preferred_network_type_pref_entries_auto">Automatski</string>
   <string name="preferred_network_type_pref_entries_global">Globalno</string>
   <string name="preferred_network_type_pref_entries_only_2g">Samo 2G (štedi bateriju)</string>

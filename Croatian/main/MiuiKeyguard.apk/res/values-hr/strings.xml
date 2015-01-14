@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="click_to_enter_text">Dodirnite za otključavanje</string>
     <string name="confirm_pin_msg">Unesite PIN ponovo</string>
     <string name="default_lockscreen_unlock_hint_text">Povucite gore za otključavanje</string>
     <string name="delete">Izbrisati</string>
@@ -42,6 +43,8 @@ Pokušajte ponovo za %d sek."</string>
     <string name="login_website_in_case_forget_password">Za obnovu vaše zaporke, idite na www.mi.com/micloud.</string>
 	<string name="missed_call_text">Propuštenih poziva %d</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Otključano Bluetooth uređajem</string>
+	<string name="open_camera_hint_text">Povucite lijevo za Fotoaparat</string>
+    <string name="open_remote_center_hint_text">Povucite desno za Mi Remote</string>
     <string name="open_wifi_settings">Otvorite mrežnu vezu</string>
     <string name="phone_locked_string">Telefon je zaključan</string>
     <string name="phone_locked_timeout_minutes_string">Pokušajte ponovo za %s min.</string>

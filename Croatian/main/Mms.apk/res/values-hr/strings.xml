@@ -182,6 +182,7 @@
   <string name="hms_add_image_progress_message">Obrada…</string>
   <string name="hms_first_use_tips">Za primanje poruka usluga mora biti povezana na WLAN mrežu</string>
   <string name="importing_progress_private_message">Uvoz…</string>
+  <string name="hms_uri_param_err">"Parametar upita Mipub URL-a \"id\" ne može biti prazan"</string>
   <string name="in_sms">Poruka</string>
   <string name="insufficient_drm_rights">Otkrivena su nedostatna DRM prava.</string>
   <string name="invalid_conversation">Nevažeći razgovor</string>

@@ -17,6 +17,7 @@
   <string name="provider_label">Kontakti</string>
   <string name="read_write_all_voicemail_description">Aplikaciji omogućuje pohranjivanje i dohvaćanje svih poruka govorne pošte kojoj ovaj uređaj može pristupati.</string>
   <string name="read_write_all_voicemail_label">Pristup svoj govornoj pošti</string>
+  <string name="search_the_yellowpage">Pretraži imenik</string>
   <string name="send_sms">Pošalji poruku</string>
   <string name="sharedUserLabel">Matične aplikacije za Android</string>
   <string name="third_party_delete_contact_info">"\"%s\" pokušava izbrisati vaše kontakte. Ovu radnju ne mogu provoditi aplikacije drugih proizvođača. Stoga, za brisanje kontakata, koristite MIUI aplikaciju Kontakti."</string>

@@ -115,6 +115,7 @@ Za uključivanje ove značajke, idite na Postavke &gt; Dodatne postavke &gt; Tip
   <string name="screen_on_proximity_sensor_hint">"Za isključivanje ove značajke, istovremeno pritisnite tipke \"Natrag\" i \"Povećanje glasnoće\"."</string>
   <string name="screen_on_proximity_sensor_summary">Nemojte pokriti narančasti dio zaslona.</string>
   <string name="screen_on_proximity_sensor_title">Spriječi slučajno biranje u džepu</string>
+  <string name="screen_paper_mode_enter_toast">Način čitanja je uključen. Možete uključiti/isključiti ovu značajku u bilo kojem trenutku u Dodatne postavke &gt; Način čitanja.</string>
   <string name="screen_rotation_freeze_message">Auto. rotacija onemogućena.</string>
   <string name="select">Odaberi</string>
   <string name="select_all">Odaberi sve</string>
