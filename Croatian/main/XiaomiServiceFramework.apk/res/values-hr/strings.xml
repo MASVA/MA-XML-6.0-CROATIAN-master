@@ -78,7 +78,7 @@
 ID Uređaja mora biti valjana IMEI ili MAC adresa. Bez ID Uređaja, neki računi i cloud značajke neće biti raspoložive."</string>
   <string name="error_device_id_title">"Ne mogu dobiti valjani ID Uređaja"</string>
   <string name="sim_unactivated_title">Vaša SIM kartica nije aktivirana</string>
-  <string name="sync_notification_title_format">Trenutno sinkr. stavku: %1$s</string>
+  <string name="sync_notification_title_format">Sinkronizira se se: %1$s</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmsf_activate_info">XMSF detalji aktivacije</string>
 </resources> 

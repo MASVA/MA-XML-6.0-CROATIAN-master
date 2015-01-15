@@ -203,7 +203,7 @@
     <string name="resource_online">Mrežno %1$s</string>
     <string name="resource_pack_confirm">"Iako ste već kupili %1$d komponente ove teme, još je uvijek jeftinije ako kupite cijeli paket."</string>
     <string name="resource_pack_discount_info">Ušteđeno: %1$s</string>
-	<string name="resource_pack_get_auth_has_been_undercarriaged">Ovaj predmet više nije dostupan.</string>
+	<string name="resource_pack_get_auth_has_been_undercarriaged">Ova tema više nije dostupna.</string>
     <string name="resource_pack_price_info">Originalna cijena: %1$s</string>
     <string name="resource_pack_warning">"Već ste kupili %1$d komponente ove teme. Jeftinije je ako kupite preostale komponente pojedinačno."</string>
     <string name="resource_present">Poklon</string>
