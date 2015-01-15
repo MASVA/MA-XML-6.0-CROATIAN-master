@@ -80,6 +80,8 @@
   <string name="call_radio">"Nazovi radio"</string>
   <string name="call_record_setting_miui">Postavke snimanja zvuka</string>
   <string name="call_settings">Postavke</string>
+  <string name="call_sim1_menu_title">Nazovi sa SIM1</string>
+  <string name="call_sim2_menu_title">Nazovi sa SIM2</string>
   <string name="call_telex">"Nazovi teleks"</string>
   <string name="call_tty_tdd">"Nazovi TTY/TDD"</string>
   <string name="call_type_and_date"></string>

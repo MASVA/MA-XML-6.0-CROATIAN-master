@@ -740,7 +740,7 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="device_admin_warning">Aktiviranjem ovog administratora dopustit ćete aplikaciji %1$s da izvede sljedeće postupke:</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu2_info">2-jezgreni</string>
-  <string name="device_cpu4_info">4-jezgreni</string>
+  <string name="device_cpu4_info">8-jezgreni</string>
   <string name="device_edit_title">Preimenuj uređaj</string>
   <string name="device_info_default">Nepoznato</string>
   <string name="device_info_label">Informacije o uređaju</string>

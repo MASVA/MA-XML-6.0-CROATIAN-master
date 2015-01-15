@@ -55,7 +55,7 @@ localization_table = {
     cs = localization_Czech_table,
     sk = localization_Slovak_table,
     pl = localization_Polish_table,
-	hr = localization_Croatian_table,
+    hr = localization_Croatian_table,
     zh_CN = localization_Chinese_table,
     zh_TW = localization_zh_rTW_table,
 }
