@@ -156,6 +156,7 @@
   <string name="login_with_email_or_id">Prijavite se s drugim računom</string>
   <string name="logout_failed">"Ne mogu se odjaviti"</string>
   <string name="mi_account_dspt_provision">"Prijavite se na Mi Cloud, MIUI Trgovinu Tema i druge Mi Usluge, od bilo kuda."</string>
+  <string name="mi_service">Podrška</string>
   <string name="mibi_balance">Mi Kredita %s</string>
   <string name="micloud_account_details">Detalji računa</string>
   <string name="micloud_account_name">Mi Račun</string>
@@ -222,6 +223,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_error_dup_phone">Ovaj tel. broj već je povezan s drugim računom</string>
   <string name="passport_error_email">Adresa e-pošte koju ste unijeli nije važeća</string>
   <string name="passport_error_empty_captcha_code">Unesite passport_captcha kod</string>
+  <string name="passport_error_empty_email">Unesite vašu adresu E-pošte</string>
   <string name="passport_error_empty_phone_num">Unesite tel. broj</string>
   <string name="passport_error_empty_pwd">Unesite zaporku</string>
   <string name="passport_error_empty_username">Unesite korisničko ime</string>

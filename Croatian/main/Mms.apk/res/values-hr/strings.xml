@@ -19,7 +19,7 @@
   <string name="add_smiley">Smješko</string>
   <string name="add_timing">Vrijeme</string>
   <string name="add_video">Dodaj videozapis</string>
-  <string name="audio_download_failed">Preuzimanje zvuka nije uspjelo</string>
+  <string name="audio_download_failed">"Ne mogu preuzeti zvuk"</string>
   <string name="audio_playing_seconds">%d\"</string>
   <string name="adding_attachments">Pričekajte završetak dodavanja stavki u dijaprojekciju.</string>
   <string name="adding_attachments_title">Dodavanje privitaka</string>
@@ -182,7 +182,7 @@
   <string name="hms_add_image_progress_message">Obrada…</string>
   <string name="hms_first_use_tips">Za primanje poruka usluga mora biti povezana na WLAN mrežu</string>
   <string name="importing_progress_private_message">Uvoz…</string>
-  <string name="hms_uri_param_err">"Mipub URL Parametar \"id\" ne može biti prazan"</string>
+  <string name="hms_uri_param_err">"URL ne može biti prazan"</string>
   <string name="in_sms">Poruka</string>
   <string name="insufficient_drm_rights">Otkrivena su nedostatna DRM prava.</string>
   <string name="invalid_conversation">Nevažeći razgovor</string>

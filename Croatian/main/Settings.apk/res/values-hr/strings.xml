@@ -740,7 +740,8 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="device_admin_warning">Aktiviranjem ovog administratora dopustit ćete aplikaciji %1$s da izvede sljedeće postupke:</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu2_info">2-jezgreni</string>
-  <string name="device_cpu4_info">8-jezgreni</string>
+  <string name="device_cpu4_info">4-jezgreni</string>
+  <string name="device_cpu8_info">8-jezgreni</string>
   <string name="device_edit_title">Preimenuj uređaj</string>
   <string name="device_info_default">Nepoznato</string>
   <string name="device_info_label">Informacije o uređaju</string>
@@ -2909,10 +2910,10 @@ Postavljanje uređaja može zahtijevati znatnu mrežnu aktivnost."</string>
   <string name="wps_category">WPS</string>
   <string name="wps_connect_summary">Provjerite da usmjerivač podržava te ima omogućen WPS</string>
   <string name="wps_connect_title">Poveži WPS</string>
-  <string name="wrong_pin_code_pukked">Netočan PIN kôd SIM kartice; sada morate kontaktirati svog mobilnog operatera da vam otključa vaš uređaj.</string>
+  <string name="wrong_pin_code_pukked">Netočan PIN kôd SIM kartice; sada morate kontaktirati svog davatelja usluga da vam otključa vaš uređaj.</string>
   <string name="xiaomi_account">Mi Račun</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
-  <string name="xiaomi_money_service">Mi Kredit</string>
+  <string name="xiaomi_money_service">Mi Krediti</string>
   <string name="xiaomi_router_available_notif_summary">Dodirnite za prikaz više informacija.</string>
   <string name="xiaomi_router_available_notif_title">Mi Router dostupan</string>
   <string name="xiaomi_router_notif_summary">Obavijesti me kada je Mi Router dostupan</string>
