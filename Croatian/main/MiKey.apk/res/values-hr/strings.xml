@@ -34,14 +34,14 @@
   <string name="action_open_flashlight">Svjetiljka</string>
   <string name="action_open_mi_route">Popis uređaja</string>
   <string name="action_open_or_close_motion">Rotacija zaslona</string>
-  <string name="action_open_other_app">Druga aplikacija</string>
-  <string name="action_open_sound_recorder">Snimi zvuk</string>
-  <string name="action_open_wechat">Otvori WeChat</string>
+  <string name="action_open_other_app">Aplikacija</string>
+  <string name="action_open_sound_recorder">Snimač</string>
+  <string name="action_open_wechat">WeChat</string>
   <string name="action_phone">Poziv</string>
   <string name="action_qrcode">QR kod</string>
   <string name="action_screen_shot">Snimak zaslona</string>
   <string name="action_search">Traži</string>
-  <string name="action_send_text_message">Pošalji SMS</string>
+  <string name="action_send_text_message">SMS</string>
   <string name="action_share_to_miliao">MiTalk</string>
   <string name="action_share_to_miliao_wall">MiTalk</string>
   <string name="action_share_to_moment">Dijeli putem WeChat</string>
@@ -96,21 +96,21 @@
   <string name="cn_7">7</string>
   <string name="cn_8">8</string>
   <string name="cn_9">9</string>
-  <string name="combo_standard_title">Standardni paket</string>
-  <string name="combo_standard_text">Ovaj paket može zadovoljiti osnovno svakodnevno korištenje, pogotovo ako nemate jasnu ideju onda je standardni paket dobar izbor.</string>
-  <string name="combo_speed_prefix">Brzina:</string>
-  <string name="combo_speed_slow">Sporo</string>
-  <string name="combo_speed_medium">Srednje</string>
-  <string name="combo_speed_fast">Brzo</string>
-  <string name="combo_saveas_title">Ispunite informacije o paketu</string>
+   <string name="combo_customize_desc">"Paket se može postaviti klikom
+  <string name="combo_edit">Uredi</string>
   <string name="combo_edit_title">Uredi paket</string>
+  <string name="combo_saveas_already_saved_desc">Trenutne postavke paketa su spremljene</string>
+  <string name="combo_saveas_desc">Opis paketa</string>
   <string name="combo_saveas_name">Naziv</string>
   <string name="combo_saveas_name_empty">Bez imena</string>
-  <string name="combo_saveas_desc">Opis paketa</string>
-  <string name="combo_customize_desc">"Paket se može postaviti klikom
+  <string name="combo_saveas_title">Ispunite informacije o paketu</string>
+  <string name="combo_speed_fast">Brzo</string>
+  <string name="combo_speed_medium">Srednje</string>
+  <string name="combo_speed_prefix">Brzina:</string>
+  <string name="combo_speed_slow">Sporo</string>
+  <string name="combo_standard_text">Ovaj paket može zadovoljiti osnovno svakodnevno korištenje, pogotovo ako nemate jasnu ideju onda je standardni paket dobar izbor.</string>
+  <string name="combo_standard_title">Standardni paket</string>
 na dnu popisa"</string>
-  <string name="combo_saveas_already_saved_desc">Trenutne postavke paketa su spremljene</string>
-  <string name="combo_edit">Uredi</string>
   <string name="company">Firma:</string>
   <string name="confirm">U redu</string>
   <string name="copy">Kopiraj</string>
@@ -237,7 +237,9 @@ To može uzrokovati veću potrošnju baterije"</string>
   <string name="setting_toolbar_tip">"Pritisnite tipku "+" za dodavanje novih značajki.
 Dugi pristisak za brisanje.
 Napravite vašu vlastitu alatnu traku!
+
 Otvorite alatnu traku,
+
 S vrha zaslona povucite prema dolje da je koristite."</string>
   <string name="setting_vibrate_desc">"Telefon će vibrirati kao obavijest kad je radnja izvršena</string>
   <string name="setting_vibrate_text">Odaziv vibracije</string>
