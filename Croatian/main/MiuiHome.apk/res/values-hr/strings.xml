@@ -2,6 +2,22 @@
 <resources>
   <string name="activity_not_found">"Aplikacija nije instalirana na vašem uređaju"</string>
   <string name="app_being_backup_message">Izvodi se sig. kopija aplikacije</string>
+  <string name="app_category_books">Knjige</string>
+  <string name="app_category_education">Obrazovanje</string>
+  <string name="app_category_entertainment">Zabava</string>
+  <string name="app_category_finance">Financije</string>
+  <string name="app_category_games">Igre</string>
+  <string name="app_category_health">Zdravlje</string>
+  <string name="app_category_lifestyle">Lifestyle</string>
+  <string name="app_category_music_movie">Glazba &amp; Video</string>
+  <string name="app_category_news">Novosti</string>
+  <string name="app_category_photos">Fotografije</string>
+  <string name="app_category_productivity">Produktivnost</string>
+  <string name="app_category_shopping">Kupovina</string>
+  <string name="app_category_social">Društveno</string>
+  <string name="app_category_sport">Sport</string>
+  <string name="app_category_tools">Alati</string>
+  <string name="app_category_travel">Putovanja</string>
   <string name="application_name">MIUI Pokretač</string>
   <string name="apply_action">Primjeni</string>
   <string name="apply_as_lock_screen">Zaklj. zaslon</string>

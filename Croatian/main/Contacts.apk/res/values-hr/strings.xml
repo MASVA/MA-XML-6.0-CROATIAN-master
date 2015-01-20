@@ -869,6 +869,9 @@ Za dodavanje kontakta na listu favorita :
   <string name="resource_detail_vertical_divider">|</string>
   <string name="resource_detail_window_title">Detalja %1$s</string>
   <string name="resource_download">Preuzimanje</string>
+  <string name="resource_download_notification_content">Dodirnite za provjeru</string>
+  <string name="resource_download_notification_title_many">Tema %1$s uspješno preuzeta!</string>
+  <string name="resource_download_notification_title_one">Tema uspješno preuzeta!</string>
   <string name="resource_download_trial">Isprobajte besplatno</string>
   <string name="resource_downloaded_title">Preuzeti elementi</string>
   <string name="resource_downloading">Preuzimam…</string>

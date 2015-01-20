@@ -109,7 +109,8 @@ Za više informacija provjerite poruku koju ste dobili od svog davatelja usluga"
   <string name="international_roaming_whitelist_count">%d aplik. se može povezati na podatkovne usluge u međunarodnom roamingu</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Prazno</string>
-  <string name="lock_screen_traffic_warn_title">Upozorenje uporabe podataka</string>
+  <string name="lock_screen_traffic_notify_body">Uporaba podataka kad je zaslon isključen: %s</string>
+  <string name="lock_screen_traffic_warn_title">Upozorenje uporabe podataka kada je zaslon isključen</string>
   <string name="main_alert_message_no_imsi">Nema SIM kartice</string>
   <string name="main_alert_message_no_mobile_package">"Ograničenje podataka nije postavljeno"</string>
   <string name="main_alert_message_slot_no_data_connection">"Utor SIM kartice ne podržava
@@ -157,8 +158,6 @@ Maks.: %1$s%2$s preostalo | %3$s iskorišteno"</string>
   <string name="network_assistant_upgraded_title">Ažurirano</string>
   <string name="network_control">Prikaz postavki aplikacije</string>
   <string name="none_mi_service_app_detail">Prazno</string>
-  <string name="notification_content_title">Iskorišteno %1$s tijekom zaklj. uređaja</string>
-  <string name="notification_title">%1$s-%2$s: o %3$s iskorišteno</string>
   <string name="ok_button">U redu</string>
   <string name="online_chat">Chat</string>
   <string name="online_read">Vijesti</string>
@@ -330,6 +329,9 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="traffic_correction_start_correction_failed">Zahtjev nije uspio, provjerite postavke davatelja mobilnih usluga</string>
   <string name="traffic_correction_success">Uporaba podataka ažurirana</string>
   <string name="traffic_none">Ništa</string>
+  <string name="traffic_over_purchase_body">Dodirnite za prikaz pojedinosti.</string>
+  <string name="traffic_over_purchase_link">"Dosegli ste ograničenje uporabe podataka.&lt;br/&gt;Ako prmašite vaše ograničenje, vaš davatelj usluga može vam naplatiti dodatne naknade.&lt;br/&gt;&lt;br/&gt;&lt;font color='#0000ff'&gt;&lt;U&gt;Top up now and save 50%.&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_over_purchase_title">Premašeno ograničenje podataka</string>
   <string name="traffic_protection_data_usage_summary">"Korištenje više od planiranog ograničenja podataka vašeg davatelja usluga može dovesti do povećanih troškova."</string>
   <string name="traffic_protection_label">Upozorenje uporabe podataka</string>
   <string name="traffic_protection_next">Dalje</string>
@@ -337,6 +339,8 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="traffic_protection_text_hint">Postavite ograničenje uporabe podataka za %s</string>
   <string name="traffic_protection_unknown">Postaviti kasnije</string>
   <string name="traffic_protection_use_data">Podaci omogućeni</string>
+  <string name="traffic_purchase_body">Uštedite 50% ako sada obnovite bon.</string>
++ <string name="traffic_purchse_suggestion">Vrijeme za obnovu bona</string>
   <string name="traffic_saving_button_sorted">Grafikon</string>
   <string name="traffic_saving_button_sorted_chose_simcard">Poredaj po</string>
   <string name="traffic_saving_button_start">Uključi</string>
@@ -367,8 +371,15 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="traffic_saving_whitelist_btn_added">Dodano</string>
   <string name="traffic_saving_whitelist_btn_remove">Ukloni</string>
   <string name="traffic_saving_whitelist_btn_removed">Aplikacija uklonjena s popisa</string>
-  <string name="traffic_saving_whitelist_count">"Aplikacija bez ograničenja uporabe podataka: %d "</string>
+  <string name="traffic_saving_whitelist_count">"Aplikacija bez ograničenja uporabe podataka: %d"</string>
   <string name="traffic_saving_whitelist_no_app">Nema aplikacija</string>
+  <string name="traffic_setting_app_count">Aplik.:%d</string>
+  <string name="traffic_setting_completed">U redu</string>
+  <string name="traffic_setting_daily_limit_summary">Podesite ograničenje up. podataka</string>
+  <string name="traffic_setting_extra_pkg_oversea_summary">Prilagodite uporabu i ograničenje podataka</string>
+  <string name="traffic_setting_extra_pkg_summary">Prilagodite uporabu i ograničenje podataka</string>
+  <string name="traffic_setting_extra_pkg_title">Dodatne postavke</string>
+  <string name="traffic_setting_extra_traffic_title">Dodatne postavke</string>
   <string name="traffic_setting_fragment_area">Lokalno</string>
   <string name="traffic_setting_fragment_brand">Marka</string>
   <string name="traffic_setting_fragment_button1_text">Odustani</string>
@@ -384,6 +395,9 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="traffic_setting_fragment_sms_content_tips">Ovdje upišite svoju poruku</string>
   <string name="traffic_setting_fragment_template">Predložak poruke</string>
   <string name="traffic_setting_fragment_title">Upit uporabe podataka</string>
+  <string name="traffic_setting_open">Uključeno</string>
+  <string name="traffic_setting_step_num">Postavke uporabe</string>
+  <string name="traffic_warning_purchase_title">Preostali iznos manji je od %d%%</string>
   <string name="usage_sorted_activity_lable">Uporaba podataka</string>
   <string name="usage_sorted_empty_text">Prazno</string>
   <string name="usage_sorted_loading_text">Učitavanje…</string>

@@ -7,6 +7,10 @@
   <string name="auth_notif_message">Upiši šifru sesije za %1$s</string>
   <string name="auth_notif_ticker">Zahtjev za provjeru autentičnosti Obex protokola</string>
   <string name="auth_notif_title">Šifra sesije</string>
+  <string name="ble_device_address">BLE MAC Uređaj</string>
+  <string name="ble_device_profile_header_title">Profili</string>
+  <string name="ble_device_profile_title">Povezan BLE uređaj</string>
+  <string name="ble_device_unbind">Izbriši postavke</string>
   <string name="bluetooth_preference_connected_devices">Povezani uređaji</string>
   <string name="bluetooth_preference_found_devices">Dostupni uređaji</string>
   <string name="bluetooth_preference_scan_title">Skeniraj za uređaje</string>
@@ -33,6 +37,7 @@
   <string name="deleteAll_record">Izbriši sve zapise</string>
   <string name="delete_record">Izbriši zapis</string>
   <string name="device_picker">Biratelj Bluetooth uređaja</string>
+  <string name="disconnect">Prekini vezu</string>
   <string name="download_cancel">"Zaustavi"</string>
   <string name="download_fail_line1">Datoteka nije primljena</string>
   <string name="download_fail_line2">Datoteka: %1$s</string>
@@ -68,6 +73,18 @@ Prihvaćate li datoteku?"</string>
   <string name="incoming_file_toast_msg">Dolazna datoteka s drugog uređaja. Potvrdite da želite primiti tu datoteku.</string>
   <string name="insert_record">Umetni zapis</string>
   <string name="localPhoneName">Moje ime</string>
+  <string name="mi_band_vibrate_alarm">Vibracija kada se oglasi alarma</string>
+  <string name="mi_band_vibrate_incall">Vibracija kod zvonjenja</string>
+  <string name="mi_band_vibrate_incall_in_contacts">Vibracija kod zvonjenja za pozive vaših kontakata</string>
+  <string name="mi_band_vibrate_incall_no_contacts">Vibracija kod zvonjenja za pozive s nepoznatih brojeva</string>
+  <string name="mi_band_vibrate_sms">Vibracija kod dolaznih/odlaznih SMS poruka</string>
+  <string name="mi_band_vibrate_sms_in_contacts">Vibracija kod dolazne SMS poruke vaših kontakata</string>
+  <string name="mi_band_vibrate_sms_no_contacts">Vibracija kod dolazne SMS poruke s nepoznatih brojeva</string>
+  <string name="mi_key_alert_dialog_message">Dodirnite U redu da utišate alarm.</string>
+  <string name="mi_key_alert_dialog_title">MiKey Upozorenje</string>
+  <string name="mi_key_find_mikey">Pronađi MiKey</string>
+  <string name="mi_key_find_phone">Pronađi phone</string>
+  <string name="mi_key_take_photo">Snimi fotografiju</string> 
   <string name="miui_transfer_history_title">Bluetooth prijenosi</string>
   <string name="miui_transfer_inbound_title">Dolazno</string>
   <string name="miui_transfer_outbound_title">Odlazno</string>

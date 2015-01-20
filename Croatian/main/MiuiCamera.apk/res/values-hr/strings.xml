@@ -2,6 +2,7 @@
 <resources>
   <string name="access_sd_fail">"Ne mogu pristupiti USB pohrani."</string>
   <string name="accessibility_camera_picker">Sklopka prednje/stražnje kamere</string>
+  <string name="accessibility_hdr">HDR tipka</string>
   <string name="accessibility_flash_mode_button">Bljeskalica</string>
   <string name="accessibility_more_ptions_closed">Više opcija onemogućene</string>
   <string name="accessibility_panorama_review_cancel">Odustani</string>
@@ -11,6 +12,7 @@
   <string name="accessibility_skin_beautify_button">SkinBeautifyButton</string>
   <string name="accessibility_video_capture_button">VideoCaptureButton</string>
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
+  <string name="audio_focus_exit_button_text">Zatvori Audio Fokus</string>
   <string name="burst_shoot_exit_button_text">Zatvori Brzo Okidanje</string>
   <string name="camera_disabled">Fotoaparat je onemogućen</string>
   <string name="camera_error_title">Pogreška Fotoaparata</string>
@@ -75,7 +77,8 @@
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
   <string name="pref_camera_antibanding_entry_3">Automatski</string>
   <string name="pref_camera_antibanding_title">Smanjenje traka na zaslonu</string>
-  <string name="pref_camera_asd_title">Autom. otkrivanje scene</string>
+  <string name="pref_camera_asd_night_title">Auto. poboljšanje kod noćnog slikanja</string>
+  <string name="pref_camera_asd_popup_title">Opcija skočnog prozora kada je potrebna bljeskalica</string>
   <string name="pref_camera_audio_capture_title">Zvuk</string>
   <string name="pref_camera_auto_capture_when_stable_title">Auto. snimi kad je stabilno</string>
   <string name="pref_camera_auto_chroma_flash_title">Chroma Flash</string>
@@ -83,6 +86,8 @@
   <string name="pref_camera_autoexposure_entry_frameaverage">Prosječan okvir</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Mjerenje mjesta</string>
   <string name="pref_camera_autoexposure_title">Postavke autom. ekspozicije</string>
+  <string name="pref_camera_delay_capture_entry_audio">Audio</string>
+  <string name="pref_camera_delay_capture_title">Odbrojavanje</string>
   <string name="pref_camera_coloreffect_entry_aqua" />
   <string name="pref_camera_coloreffect_entry_brannan">Zora</string>
   <string name="pref_camera_coloreffect_entry_earlybird">Jesen</string>
@@ -136,8 +141,10 @@
   <string name="pref_camera_focusmode_title">Način izoštravanja</string>
   <string name="pref_camera_hand_night_title">HHT</string>
   <string name="pref_camera_hdr_title">HDR</string>
-  <string name="pref_camera_hdr_type_entry_live">HDR Uživo</string>
-  <string name="pref_camera_hdr_type_entry_normal">HDR Normalan</string>
+  <string name="pref_camera_hdr_entry_auto">Auto</string>
+  <string name="pref_camera_hdr_entry_live">Uživo</string>
+  <string name="pref_camera_hdr_entry_normal">Normalno</string>
+  <string name="pref_camera_hdr_entry_off">Isključeno</string>
   <string name="pref_camera_hfr_entry_2x">60</string>
   <string name="pref_camera_hfr_entry_3x">90</string>
   <string name="pref_camera_hfr_entry_4x">120</string>
@@ -264,6 +271,8 @@
   <string name="pref_qc_focus_position_title">Izoštravanje</string>
   <string name="pref_scan_qrcode_title">Skeniraj QR kod</string>
   <string name="pref_setting_title">Postavke</string>
+  <string name="pref_simple_hdr_entry_off">Isklj.</string>
+  <string name="pref_simple_hdr_entry_on">Uklj.</string>
   <string name="pref_video_captrue_ability_title">Snimanje fotografija tijekom snimanja</string>
   <string name="pref_video_focusmode_entry_auto">Dodir</string>
   <string name="pref_video_focusmode_entry_continuous">CAF</string>
@@ -301,18 +310,20 @@
   <string name="record_back_pressed_hint">Dodirnite ponovno za zaustavljanje snimanja</string>
   <string name="save">Da</string>
   <string name="see_qrcode_detals">Prikaži detalje</string>
-  <string name="setting_top_text">Opcije</string>
+  <string name="setting_top_text">Načini snimanja</string>
   <string name="simple_mode_button_text_4kuhd">Zatvori 4K</string>
   <string name="simple_mode_button_text_audio_capture">Zatvori snimanje zvuka</string>
   <string name="simple_mode_button_text_chroma_flash">Zatvori</string>
   <string name="simple_mode_button_text_color_effect">Zatvori filter</string>
   <string name="simple_mode_button_text_countdown">Zatvori odbrojavanje</string>
+  <string name="simple_mode_button_text_delay_capture">Zatvori odbrojavanje</string>
   <string name="simple_mode_button_text_face_beauty">Zatvori tonove kože</string>
   <string name="simple_mode_button_text_fast_video">Zatvori</string>
   <string name="simple_mode_button_text_hand_night">Zatvori HHT</string>
   <string name="simple_mode_button_text_hdr">Zatvori HDR</string>
-  <string name="simple_mode_button_text_manual">Zatvori</string>
-  <string name="simple_mode_button_text_panorama">Zatvori</string>
+  <string name="simple_mode_button_text_manual">Zatvori ručno</string>
+  <string name="simple_mode_button_text_panorama">Zatvori panoramu</string>
+  <string name="simple_mode_button_text_scene">Zatvori način scena</string>
   <string name="simple_mode_button_text_slow_video">Zatvori</string>
   <string name="simple_mode_button_text_ubifocus">Zatvori</string>
   <string name="snapshot_lower_than_video">Veličina pregledane snimke manja od veličine videozapisa. Prekrivanje na veličinu videozapisa. Odaberite razlučivost višu ili jednaku trenutnoj veličini videozapisa.</string>

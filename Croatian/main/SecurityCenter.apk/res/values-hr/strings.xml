@@ -49,7 +49,7 @@
   <string name="apps_sort_type_item_size">Veličina</string>
   <string name="apps_sort_type_item_time">Učestalost korištenja</string>
   <string name="apps_sort_type_title">Poredaj po</string>
-  <string name="auto_cleaner_open">Očisti</string>
+  <string name="auto_cleaner_open">Uključi</string>
   <string name="auto_clean_switch_off">Isključi</string>
   <string name="auto_clean_switch_on">Uključi</string>
   <string name="auto_handle_title">OPĆENITO</string>

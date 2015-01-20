@@ -729,8 +729,6 @@ Vaša SIM kartica bit će izbrisani nakon još jednog neuspjelog pokušaja."</st
   <string name="simContacts_airplaneMode">Za uvoz kontakata sa SIM kartice, isključite Način rada u zrakoplovu.</string>
   <string name="simContacts_emptyLoading">Čitanje…</string>
   <string name="simContacts_title">Upravljanje kontaktima SIM kartice</string>
-  <string name="sim_cards_network_mode_changed_summary">Dodirnite za prikaz postavki SMS-a i poziva.</string>
-  <string name="sim_cards_network_mode_changed_title">Otkrivena nova SIM kartica</string>
   <string name="sim_contact_name">Ime</string>
   <string name="sim_contact_number">Broj</string>
   <string name="sim_ndp_dismiss_text">Odbaci</string>

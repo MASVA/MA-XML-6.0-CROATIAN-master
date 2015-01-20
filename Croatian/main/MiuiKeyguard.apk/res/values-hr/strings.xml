@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="click_to_enter_text">Dodirnite za otključavanje</string>
+    <string name="click_to_enter_text">Dodirnite za pregled</string>
     <string name="confirm_pin_msg">Unesite PIN ponovo</string>
     <string name="default_lockscreen_unlock_hint_text">Povucite gore za otključavanje</string>
     <string name="delete">Izbrisati</string>
