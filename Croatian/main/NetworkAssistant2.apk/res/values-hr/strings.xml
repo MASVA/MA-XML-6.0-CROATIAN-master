@@ -340,7 +340,7 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="traffic_protection_unknown">Postaviti kasnije</string>
   <string name="traffic_protection_use_data">Podaci omogućeni</string>
   <string name="traffic_purchase_body">Uštedite 50% ako sada obnovite bon.</string>
-+ <string name="traffic_purchse_suggestion">Vrijeme za obnovu bona</string>
+  <string name="traffic_purchse_suggestion">Vrijeme za obnovu bona</string>
   <string name="traffic_saving_button_sorted">Grafikon</string>
   <string name="traffic_saving_button_sorted_chose_simcard">Poredaj po</string>
   <string name="traffic_saving_button_start">Uključi</string>

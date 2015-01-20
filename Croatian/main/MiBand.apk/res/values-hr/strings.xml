@@ -85,7 +85,7 @@ zatim dodirnite Slijedi."</string>
   <string name="bind_weixin_title">Dodaj WeChat Račun</string>
   <string name="birthday">Rođendan</string>
   <string name="blue">Plava</string> 
-  <string name="bluetooth">Bluetooth </string> 
+  <string name="bluetooth">Bluetooth</string> 
   <string name="body">Vrat</string>
   <string name="bracelet_info_battery">%s%%</string> 
   <string name="bracelet_info_deviceid">%s</string> 
@@ -782,6 +782,7 @@ Potrošeno %3$s cal. Prethodni rekord je bio %5$s koraka, postavljen %4$s."</str
   <string name="unlock_screen_miui_version_low">Morate ažurirati na noviju MIUI verziju.</string>
   <string name="unlock_screen_modify_unlock">Ako trebate promijeniti vaše postavke, idite na Postavke - Privatnost - Zaštita privatnosti</string>
   <string name="unlock_screen_modify_unlock_v5">"
+ Postavke -&gt; Privatnost -&gt; Zaključavanje zaslona -&gt; Oključaj s Bluetooth uređajem""</string> 
   <string name="unlock_screen_modify_unlock_v6">"Postavke -&gt; Zaključavanje zaslona -&gt; Oključaj s Bluetooth uređajem"</string>
   <string name="unlock_screen_not_connect">Još uvijek trebate upariti svoj ​​MiBand s ovim uređajem.</string>
   <string name="unlock_screen_set_password">Postavljanje uzorka otključavanja</string>
