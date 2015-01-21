@@ -87,6 +87,7 @@
   <string name="cannot_send_message">"Ne mogu poslati poruku"</string>
   <string name="cannot_send_message_reason">Poruka nema valjanog primatelja.</string>
   <string name="cant_delete_cloud_album">Ne mogu izbrisati %s jer je to album sustava."</string>
+  <string name="choose_cloud_album">Odaberi album</string>
   <string name="cleaning_cache">Čišćenje memorije…</string>
   <string name="clear_thumbnail_cache">Očisti memoriju minijatura</string>
   <string name="clear_thumbnail_cache_confirm">Sva memorija minijatura u Galeriji će biti izbrisana.</string>
