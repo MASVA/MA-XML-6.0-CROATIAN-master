@@ -59,7 +59,7 @@
   <string name="auto_create_recent_album_over_ten_times">Album će biti označen kao omiljen nakon otvaranja više od 10 puta</string>
   <string name="auto_upload_album_comfirm_to_share">Ovaj album će biti automatski učitan.</string>
   <string name="auto_upload_guide">Automatski učitajte vaše fotografije s drugih aplikacija na Mi Cloud</string>
-  <string name="auto_upload_guide_msssage">"Automatski učitajte svoje fotografije iz drugih aplikacija na Mi Cloud. Pogledajte postavke u Postavke Galerije&amp;gt;Sink. s Mi Cloud&amp&amp;gt;Automatski učitaj"</string>
+  <string name="auto_upload_guide_msssage">"Automatski učitajte svoje fotografije iz drugih aplikacija na Mi Cloud. Pogledajte postavke u Postavke Galerije&amp&amp;gt;Sink. s Mi Cloud&amp&amp;gt;Automatski učitaj"</string>
   <string name="auto_upload_guide_title">Automatski učitaj</string>
   <string name="autofix">Aut. popravak</string>
   <string name="autohomemain">Autohomemain</string>
