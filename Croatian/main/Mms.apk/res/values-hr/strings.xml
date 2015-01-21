@@ -153,6 +153,7 @@
   <string name="festival">Brzi odgovori</string>
   <string name="festival_continue">U redu</string>
   <string name="festival_networking_desc">Ova značajka treba povezivanje s internetom da funkcionira normalno.</string>
+  <string name="festival_networking_title">Obavijest</string>
   <string name="festival_never_remind">"Ne prikazuj ponovo."</string>
   <string name="festival_sms_category_count_format">%s</string>
   <string name="festival_sms_loading">Učitavanje…</string>
