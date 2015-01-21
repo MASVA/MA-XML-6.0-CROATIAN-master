@@ -125,7 +125,7 @@
   <string name="is_setting_wallpaper_toast">Podešavanje slike pozadine…</string>
   <string name="is_system_wallpaper_message">"Ne mogu izbrisati resurse sustava"</string>
   <string name="loading_desktop">Učitavanje pokretača…</string>
-  <string name="local_wallpaper">Lokalno</string>
+  <string name="local_wallpaper">Preuzeto</string>
   <string name="lock_screen_failed_message">"Ne mogu podesiti pozadinu zaklj. zaslona"</string>
   <string name="lock_screen_success_message">Podešeno za pozadinu zaklj. zaslona</string>
   <string name="menu_add">Dodaj</string>
