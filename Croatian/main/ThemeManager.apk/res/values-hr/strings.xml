@@ -156,8 +156,9 @@
     <string name="resource_detail_vertical_divider">|</string>
     <string name="resource_detail_window_title">Detalji %1$s</string>
     <string name="resource_download">Preuzimanje</string>
-	<string name="resource_download_notification_title_many">Tema %1$s uspješno preuzeta!</string>
-    <string name="resource_download_notification_title_one">Tema uspješno preuzeta!</string>
+    <string name="resource_download_notification_content">Dodirnite za pregled.</string>
+    <string name="resource_download_notification_title_many">Preuzeto Tema: %1$s</string>
+    <string name="resource_download_notification_title_one">Tema preuzeta</string>
     <string name="resource_download_trial">Isprobajte besplatno</string>
     <string name="resource_downloaded_title">Preuzeti elementi</string>
     <string name="resource_downloading">Preuzimam…</string>
@@ -205,7 +206,7 @@
     <string name="resource_online">Mrežno %1$s</string>
     <string name="resource_pack_confirm">"Iako ste već kupili %1$d komponente ove teme, još je uvijek jeftinije ako kupite cijeli paket."</string>
     <string name="resource_pack_discount_info">Ušteđeno: %1$s</string>
-	<string name="resource_pack_get_auth_has_been_undercarriaged">Ova tema više nije dostupna.</string>
+    <string name="resource_pack_get_auth_has_been_undercarriaged">Ova tema više nije dostupna.</string>
     <string name="resource_pack_price_info">Originalna cijena: %1$s</string>
     <string name="resource_pack_warning">"Već ste kupili %1$d komponente ove teme. Jeftinije je ako kupite preostale komponente pojedinačno."</string>
     <string name="resource_present">Poklon</string>
