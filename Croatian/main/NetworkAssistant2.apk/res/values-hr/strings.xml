@@ -110,7 +110,7 @@ Za više informacija provjerite poruku koju ste dobili od svog davatelja usluga"
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Prazno</string>
   <string name="lock_screen_traffic_notify_body">Uporaba podataka kad je zaslon isključen: %s</string>
-  <string name="lock_screen_traffic_warn_title">Upozorenje uporabe podataka kada je zaslon isključen</string>
+  <string name="lock_screen_traffic_warn_title">Upozorenje up.pod. kada je zaslon isključen</string>
   <string name="main_alert_message_no_imsi">Nema SIM kartice</string>
   <string name="main_alert_message_no_mobile_package">"Ograničenje podataka nije postavljeno"</string>
   <string name="main_alert_message_slot_no_data_connection">"Utor SIM kartice ne podržava
