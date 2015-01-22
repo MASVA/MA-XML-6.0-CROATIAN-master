@@ -46,7 +46,7 @@
   <string name="download_error_insufficient_space">Nedovoljno prostora za pohranu</string>
   <string name="download_filesize_unknown">Nepoznato</string>
   <string name="download_in_process">Preuzimanje</string>
-  <string name="download_info_count_deleted_tasks">%s preuzimanja uklonjeno</string>
+  <string name="download_info_count_deleted_tasks">Preuzimanja uklonjeno: %s</string>
   <string name="download_info_start_deleted_tasks">Obrisati preuzimanje</string>
   <string name="download_list_get_free_vip">Xunlei proba</string>
   <string name="download_list_get_hightspeed_flow_auto_open">Xunlei ubrzanje preuzimanja je uključeno</string>
@@ -130,6 +130,8 @@
   <string name="select_all">Odaberi sve</string>
   <string name="select_operation_items">Odaberite stavke</string>
   <string name="selected_count">Odabrano %1$d od %2$d</string>
+  <string name="toast_xunlei_engine_open">"Xunlei ubrzanje preuzimanja uključeno
+Možete promijeniti postavke konfiguracije u gornjem desnom kutu"</string>
   <string name="turn_off_xunlei_message">Možete iskusiti sporiju brzinu preuzimanja.</string>
   <string name="turn_off_xunlei_tips">Xunlei ubrzanje preuzimanja je isključeno</string>
   <string name="turn_off_xunlei_title">Onemogući Xunlei alat preuzimanja</string>
@@ -139,6 +141,9 @@
   <string name="vip_auto_speedup">Xunlei ubrzanje preuzimanja uključeno</string>
   <string name="xunlei_brand">Powered by Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
+  <string name="xunlei_close_tips_button">Ubrzati preuzimanje</string>
+  <string name="xunlei_close_tips_content">Korisnik je odabrao 95%</string>
+  <string name="xunlei_close_tips_title">Besplatno Xunlei ubrzanje preuzimanja će vam pomoći da poboljšatE vaše brzine preuzimanja</string>
   <string name="xunlei_gaosu">Xunlei ubrzanje preuzimanja</string>
   <string name="xunlei_member_annual_fee">Godišnje</string>
   <string name="xunlei_member_one_month">Mjesečno</string>

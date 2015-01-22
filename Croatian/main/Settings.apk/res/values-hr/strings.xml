@@ -1001,8 +1001,8 @@ Ako je tekst vašeg sustava još uvijek premalen, pokušajte koristiti "</string
   <string name="global_locale_change_title">Promijeni jezik</string>
   <string name="google_backup_section_title">Google pohrana &amp; obnova</string>
   <string name="gsm_to_wifi_connect_type_title">GSM -> WLAN</string>
-  <string name="handy_mode">Promjena veličine zaslona</string>
-  <string name="handy_mode_enable">Promjena veličine zaslona</string>
+  <string name="handy_mode">Upravljanje jednom rukom</string>
+  <string name="handy_mode_enable">Upravljanje jednom rukom</string>
   <string name="handy_mode_size">Veličina zaslona</string>
   <string name="handy_mode_tips">Prijeđite prstom lijevo ili desno od tipke Početna da pomaknete zaslon bliže jednoj strani.</string>
   <string name="haptic_feedback_enable_title">Vibracija na dodir</string>
@@ -1616,6 +1616,7 @@ i pokrenite ga."</string>
   <string name="power_autorun_empty">Prazno</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Mobilni signal</string>
+  <string name="power_center">Energija</string>
   <string name="power_idle">Uređaj u mirovanju</string>
   <string name="power_mgr">Baterija</string>
   <string name="power_mode">Postavke energije</string>

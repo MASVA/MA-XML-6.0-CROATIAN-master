@@ -284,6 +284,7 @@ Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potraz
   <string name="st_title_settings_other_group">Dodatne postavke</string>
   <string name="st_title_show_antispamnotification">Obavijesti liste blokiranih</string>
   <string name="st_title_sim_card">%1$s - SIM %2$s</string>
+  <string name="st_title_sim_unknown">Nepoznato</string>
   <string name="st_title_whitelist_numbers">Iznimke</string>
   <string name="sure">U redu</string>
   <string name="tab_blacklist">Lista blokiranih</string>
