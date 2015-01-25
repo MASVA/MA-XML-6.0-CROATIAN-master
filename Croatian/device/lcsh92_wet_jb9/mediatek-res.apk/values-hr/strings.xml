@@ -293,6 +293,4 @@ Pokušajte ponovno za %d sekundi."</string>
     <string name="wifi_display_wfd_off_hdmi_on">Bežični zaslon će se isključiti kada uključite HDMI. Želite li nastaviti?</string>
     <string name="wifi_display_wifi_p2p_disconnect_wfd_connect">Trenutna Wi-Fi izravna veza će se prekinuti kada se spojite s uređajem za bežični prikaz. Želite li nastaviti?</string>
     <string name="wifi_wps_failed_overlap">Otkrivena je druga WPS sesija. Pokušajte ponovno za nekoliko minuta.</string>
-Pokušajte ponovno za %d sekundi."</string>
-Pokušajte ponovno za %d sekundi."</string>
 </resources>
