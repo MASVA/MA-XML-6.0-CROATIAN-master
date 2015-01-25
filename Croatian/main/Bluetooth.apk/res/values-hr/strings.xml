@@ -1,8 +1,8 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="ack_record">Ack zapis</string>
-  <string name="airplane_error_msg">Bluetooth se ne može upotrebljavati u načinu rada u zrakoplovu.</string>
-  <string name="airplane_error_title">"Način rada u zrakoplovu"</string>
+  <string name="airplane_error_msg">Bluetooth se ne može upotrebljavati u Zrakoplovnom načinu.</string>
+  <string name="airplane_error_title">"Zrakoplovni način"</string>
   <string name="app_name">Bluetooth dijeljenje</string>
   <string name="auth_notif_message">Upiši šifru sesije za %1$s</string>
   <string name="auth_notif_ticker">Zahtjev za provjeru autentičnosti Obex protokola</string>

@@ -460,7 +460,7 @@
   <string name="power_dialog_wifi_title">WLAN</string>
   <string name="power_exitlowbattery_whencharge">Onemogući kada je priključeno</string>
   <string name="power_idle">Uređaj u mirovanju</string>
-  <string name="power_mode_airplane_mode">Način rada u zrakoplovu</string>
+  <string name="power_mode_airplane_mode">Zrakoplovni način</string>
   <string name="power_mode_auto_clean_memery_lock_screen">Nakon %1$d min</string>
   <string name="power_mode_auto_clean_memory">Očisti memoriju</string>
   <string name="power_mode_auto_clean_memory_in_five_minutes">Nakon 5 minuta</string>

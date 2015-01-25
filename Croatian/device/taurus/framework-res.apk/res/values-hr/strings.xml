@@ -266,9 +266,9 @@ koristeći %s"</string>
   <string name="global_action_silent_mode_on_status">Zvuk je isključen</string>
   <string name="global_action_toggle_silent_mode">Bešumni način</string>
   <string name="global_actions">Opcije telefona</string>
-  <string name="global_actions_airplane_mode_off_status">Isključen je način rada u zrakoplovu</string>
-  <string name="global_actions_airplane_mode_on_status">Uključen je način rada u zrakoplovu</string>
-  <string name="global_actions_toggle_airplane_mode">Način rada u zrakoplovu</string>
+  <string name="global_actions_airplane_mode_off_status">Zrakoplovni način je isključen</string>
+  <string name="global_actions_airplane_mode_on_status">Zrakoplovni način je uključen</string>
+  <string name="global_actions_toggle_airplane_mode">Zrakoplovni način</string>
   <string name="gpsNotifMessage">Zatražio %1$s (%2$s)</string>
   <string name="gpsNotifTicker">Zahtjev za lokaciju koji upućuje %s</string>
   <string name="gpsNotifTitle">Zahtjev za lokaciju</string>

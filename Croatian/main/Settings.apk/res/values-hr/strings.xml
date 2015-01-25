@@ -86,7 +86,7 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="adjust_3d_depth_title">"Podesi 3D dubinu igara"</string>
   <string name="advanced_settings">Napredne postavke</string>
   <string name="advanced_settings_summary">Omogućiti više opcija postavki</string>
-  <string name="airplane_mode">Način rada u zrakoplovu</string>
+  <string name="airplane_mode">Zrakoplovni način</string>
   <string name="alarm_volume_title">Alarm</string>
   <string name="alert_show_screensaver_when_not_charging_msg">Prikazivanje čuvara zaslona će dodatno trošiti bateriju.</string>
   <string name="alert_show_screensaver_when_not_charging_title">Korištenje baterije</string>
@@ -301,7 +301,7 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="battery_sugg_bluetooth_basic">"Isključite Bluetooth ako ga ne upotrebljavate"</string>
   <string name="battery_sugg_bluetooth_headset">Pokušajte se povezati s nekim drugim Bluetooth uređajem</string>
   <string name="battery_sugg_display">Smanjite svjetlinu i/ili privremeni prekid zaslona</string>
-  <string name="battery_sugg_radio">Prebacite se na način rada u zrakoplovu u područjima loše pokrivenosti signalom da biste uštedjeli energiju</string>
+  <string name="battery_sugg_radio">Prebacite se na Zrakoplovni način u područjima loše pokrivenosti signalom da biste uštedjeli energiju</string>
   <string name="battery_sugg_wifi">"Isključi WLAN ako se ne upotrebljava ili ako nije dostupan"</string>
   <string name="bearer">Nositelj</string>
   <string name="biometric_weak_improve_matching_title">Poboljšanje podudaranja lica</string>
@@ -607,7 +607,7 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="crypt_keeper_desc">"Možete šifrirati svoje račune, postavke, preuzete aplikacije i njihove podatkovne, multimedijske i ostale datoteke. Nakon šifriranja uređaja morate upisati numerički PIN ili zaporku kako biste ga dešifrirali svaki put kada ga uključite: Ne možete dešifrirati vaš uređaj osim vraćanjem na tvorničke postavke, čime ćete izbrisati sve vaše podatke. Šifriranje traje sat vremena ili dulje. Morate početi sa napunjenom baterijom i držati uređaj uključenim u struju sve dok šifriranje ne završi. Ako prekinete proces šifriranja, izgubiti ćete neke ili sve vaše podatke.</string>
   <string name="crypt_keeper_dialog_need_password_message">Prije nego što ćete moći započeti šifriranje morati ćete postaviti PIN za zaključavanje zaslona ili zaporku.</string>
   <string name="crypt_keeper_dialog_need_password_title">Nema PIN-a ili zaporke za zaključani zaslon</string>
-  <string name="crypt_keeper_encrypt_summary">Traži brojčani PIN ili zaporku za dešifriranje uređaja svaki put kada se uključi</string>
+  <string name="crypt_keeper_encrypt_summary">Potreban PIN ili zaporka za dešifriranje uređaja svaki put kada se uključi</string>
   <string name="crypt_keeper_encrypt_title">Šifriraj uređaj</string>
   <string name="crypt_keeper_encrypted_summary">Šifrirano</string>
   <string name="crypt_keeper_enter_password">Unesite svoju zaporku</string>
@@ -1189,10 +1189,10 @@ Ako je tekst vašeg sustava još uvijek premalen, pokušajte koristiti "</string
   <string name="lock_intro_message">Lock_intro_message</string>
   <string name="lock_screen_unlock_show">Preskoči povlačenje zaslona</string>
   <string name="lock_screen_unlock_show_summary">Nakon buđenja idi izravno na Početni zaslon ili unos zaporke</string>
-  <string name="lock_settings">Zaključavanje zaslona</string>
+  <string name="lock_settings">Sigurnost zaslona</string>
   <string name="lock_settings_common_title">Postavke zaključavanja</string>
-  <string name="lock_settings_picker_settings">Postavi zaključavanje zaslona</string>
-  <string name="lock_settings_picker_title">Odaberi zaključavanje zaslona</string>
+  <string name="lock_settings_picker_settings">Postavite zaključavanje zaslona</string>
+  <string name="lock_settings_picker_title">Odaberite zaključavanje zaslona</string>
   <string name="lock_settings_title">Sigurnost zaslona</string>
   <string name="lock_setup">Postavljanje je završeno.</string>
   <string name="lock_sounds_enable_title">Zvukovi zaključavanja zaslona</string>
@@ -2050,7 +2050,7 @@ Ova postavka utječe na sve korisnike na ovom uređaju."</string>
   <string name="sim_bad_pin">Netočan PIN</string>
   <string name="sim_change_failed">"Nije moguće promijeniti PIN. 
 Možda je PIN netočan."</string>
-  <string name="sim_change_failed_enable_sim_lock">Ukljući sada zaključavanje SIM kartice</string>
+  <string name="sim_change_failed_enable_sim_lock">Uključi sada zaključavanje SIM kartice</string>
   <string name="sim_change_pin">SIM PIN</string>
   <string name="sim_change_succeeded">Uspješno je promijenjen PIN SIM-a</string>
   <string name="sim_disable_sim_lock">Otključaj SIM karticu</string>
@@ -2063,8 +2063,8 @@ Možda je PIN netočan."</string>
   <string name="sim_lock_change_not_supported">"Ne mogu promijeniti SIM zaključavanje."</string>
   <string name="sim_lock_failed">"Nije moguće promijeniti stanje zaključanosti SIM kartice. 
 Možda je PIN netočan."</string>
-  <string name="sim_lock_off">Traži PIN za upotrebu uređaja</string>
-  <string name="sim_lock_on">Traži PIN za upotrebu uređaja</string>
+  <string name="sim_lock_off">Potreban PIN za upotrebu uređaja</string>
+  <string name="sim_lock_on">Potreban PIN za upotrebu uređaja</string>
   <string name="sim_lock_settings">Postavke zaključavanja SIM kartice</string>
   <string name="sim_lock_settings_category">Postavite zaključavanje SIM kartice</string>
   <string name="sim_lock_settings_title">Zaključavanje SIM kartice</string>
@@ -2080,9 +2080,9 @@ Možda je PIN netočan."</string>
   <string name="slot_status_title">IMEI podaci</string>
   <string name="small_font">Maleno</string>
   <string name="sms_application_title">Zadana aplikacija za SMS</string>
-  <string name="sms_change_default_dialog_text" formatted="false">Želite li upotrijebiti aplikaciju %s umjesto aplikacije %s kao svoju aplikaciju za SMS?</string>
+  <string name="sms_change_default_dialog_text" formatted="false">Koristiti aplikaciju %s umjesto aplikacije %s kao svoju aplikaciju za SMS?</string>
   <string name="sms_change_default_dialog_title">Želite li promijeniti aplikaciju za SMS?</string>
-  <string name="sms_change_default_no_previous_dialog_text">Želite li upotrijebiti aplikaciju %s kao svoju aplikaciju za SMS?</string>
+  <string name="sms_change_default_no_previous_dialog_text">Koristiti aplikaciju %s kao svoju aplikaciju za SMS?</string>
   <string name="sms_delivered_sound_dialog_title">Odaberite zvuk za isporučene SMS poruke</string>
   <string name="sms_delivered_sound_title">Poruka isporučena</string>
   <string name="sms_over_ims_off">Isključi SMS putem IMS-a</string>
@@ -2324,7 +2324,7 @@ Googleov pristup sinkronizaciji podataka za mogućnost pristupa kontaktima, sast
   <string name="turn_off_radio">Isključi radio</string>
   <string name="turn_off_security_lock">Isključi zaključavanje zaslona</string>
   <string name="turn_on_radio">Uključi radio</string>
-  <string name="under_keyguard">Zaključavanje zaslona</string>
+  <string name="under_keyguard">Na zaključanom zaslonu</string>
   <string name="uninstall_all_users_text">Deinstaliraj za sve korisnike</string>
   <string name="uninstall_text">Deinstaliraj</string>
   <string name="unknown">Nepoznato</string>

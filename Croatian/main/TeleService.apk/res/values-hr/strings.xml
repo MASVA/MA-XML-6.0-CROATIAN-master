@@ -355,7 +355,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="incall_error_no_active_sim">Nema aktivne SIM kartice.</string>
   <string name="incall_error_no_phone_number_supplied">Poziv nije uspostavljen, nije unijet valjani broj.</string>
   <string name="incall_error_out_of_service">Mobila mreža nije dostupna.</string>
-  <string name="incall_error_power_off">Za upućivanje poziva, isključite način rada u zrakoplovu.</string>
+  <string name="incall_error_power_off">Za upučivanje poziva, isključite način Zrakoplovni način.</string>
   <string name="incall_error_turn_off_airplane_mode">Isključite način rada u zrakoplovue</string>
   <string name="incall_status_dialed_mmi">Pokretanje MMI sekvence…</string>
   <string name="international_disable">Međunarodne vijesti su isključene</string>
@@ -726,7 +726,7 @@ Vaša SIM kartica bit će izbrisani nakon još jednog neuspjelog pokušaja."</st
   <string name="set_smsc_address_title">Podesi broj SMS središta</string>
   <string name="set_subscription">Odaberite pretplate</string>
   <string name="settings_label">Postavke mreže</string>
-  <string name="simContacts_airplaneMode">Za uvoz kontakata sa SIM kartice, isključite Način rada u zrakoplovu.</string>
+  <string name="simContacts_airplaneMode">Za uvoz kontakata sa SIM kartice, isključite Zrakoplovni način.</string>
   <string name="simContacts_emptyLoading">Čitanje…</string>
   <string name="simContacts_title">Upravljanje kontaktima SIM kartice</string>
   <string name="sim_contact_name">Ime</string>

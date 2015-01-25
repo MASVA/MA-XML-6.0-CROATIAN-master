@@ -110,14 +110,14 @@
   <string name="empty_event">Nije stvoren prazan događaj.</string>
   <string name="enter_calendar">Kalendar</string>
   <string name="event_account">Račun</string>
-  <string name="event_action_delete">Obriši</string>
+  <string name="event_action_delete">Izbriši</string>
   <string name="event_action_edit">Uredi</string>
   <string name="event_all_day_label">Cijeli dan</string>
   <string name="event_create">Novi događaj</string>
-  <string name="event_date_format">MM/dd</string>
-  <string name="event_delete">Obriši događaj</string>
+  <string name="event_date_format">dd.MM EEEE</string>
+  <string name="event_delete">Izbriši događaj</string>
   <string name="event_edit">Uredi događaj</string>
-  <string name="event_full_date_format">MM/dd/yyyy</string>
+  <string name="event_full_date_format">dd.MM.yyyy</string>
   <string name="event_hide_more">Sakrij</string>
   <string name="event_info_descrip">Opis\u0009\u0009\u0009</string>
   <string name="event_info_end">Kraj\u0009\u0009\u0009</string>
@@ -130,9 +130,9 @@
   <string name="event_info_where">Gdje\u0009</string>
   <string name="event_lunar_month"/>
   <string name="event_not_found">Događaj nije pronađen.</string>
-  <string name="event_show_more">Prikaži</string>
+  <string name="event_show_more">Više opcija</string>
   <string name="event_view">Prikaži događaj</string>
-  <string name="every_weekday">Radnim danima (pon–pet)</string>
+  <string name="every_weekday">Radnim danima (Pon – Pet)</string>
   <string name="exist_calendar">Kalendar već postoji</string>
   <string name="from_google_group_calendar">Google kalendar</string>
   <string name="gadget_no_events">Nema skorih događaja kalendara</string>
@@ -178,8 +178,8 @@
   <string name="month_medium_september">Ruj</string>
   <string name="month_view">Mjesec</string>
   <string name="monthly">Mjesečno</string>
-  <string name="monthly_on_day">Mjesečno (isti datum)</string>
-  <string name="monthly_on_day_count">Mjesečno (%1$s %2$s)</string>
+  <string name="monthly_on_day">Mjesečno (na isti datum)</string>
+  <string name="monthly_on_day_count" formatted="false">Mjesečno (%1$s %2$s)</string>
   <string name="more_string">+%1$s</string>
   <string name="movable_list_header_label">Kratak uvod</string>
   <string name="new_event_dialog_label">Novi događaj</string>
@@ -245,7 +245,7 @@
   <string name="repeat_end_label">Kraj ponavljanja</string>
   <string name="repeat_end_times_unit"/>
   <string name="repeat_interval_dialog_title">svaki %1$s</string>
-  <string name="repeat_interval_frequency">%1$d %2$ss</string>
+  <string name="repeat_interval_frequency">%1$d %2$s</string>
   <string name="repeat_interval_frequency_single">%1$s</string>
   <string name="repeat_label_choose_day">Odaberi dan</string>
   <string name="repeat_label_choose_month">Odaberi mjesec</string>

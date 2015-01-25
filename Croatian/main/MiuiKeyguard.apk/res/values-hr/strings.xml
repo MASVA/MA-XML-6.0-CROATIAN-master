@@ -13,7 +13,7 @@
     <string name="experimental_validate_thanks">Hvala!</string>
     <string name="experimental_validate_username">Korisničko ime</string>
     <string name="experimental_validate_warning">Hvala vam što nam pomažete učiniti MIUI boljim!</string>
-    <string name="find_device_turn_off_flight_mode">Isključite način rada u zrakoplovu</string>
+    <string name="find_device_turn_off_flight_mode">Isključite Zrakoplovni način</string>
     <string name="forget_password_string">Zaboravljena zaporka</string>
     <string name="incorrect_pincode">Netočan PIN</string>
     <string name="incorrect_pincode_remaining_attempts">Netočan PIN, preostalo pokušaja %d</string>

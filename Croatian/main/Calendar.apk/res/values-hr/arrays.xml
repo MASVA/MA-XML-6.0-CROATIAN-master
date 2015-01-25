@@ -155,8 +155,8 @@
         <item>Tonga</item>
     </string-array>
     <string-array name="availability">
-        <item>Zauzeto</item>
-        <item>Dostupno</item>
+        <item>Zauzet</item>
+        <item>Dostupan</item>
         <item>Privremeno</item>
     </string-array>
     <string-array name="visibility">
@@ -214,7 +214,7 @@
 	    <string-array name="repeat_frequency_spinner">
         <item>dan</item>
         <item>tjedan</item>
-        <item>mmjesec</item>
+        <item>mjesec</item>
         <item>godina</item>
     </string-array>
     <string-array name="repeat_choose_day">

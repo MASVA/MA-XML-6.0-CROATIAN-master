@@ -32,7 +32,7 @@
   <string name="fm_record_smaple_prefix_miui">FM_Snimanje</string>
   <string name="fools_day">Prvi travnja</string>
   <string name="force_exit_message">"Uspješno zatvorena aplikacija: \"%1$s"</string>
-  <string name="global_actions_airplane_mode">"Način rada u zrakoplovu"</string>
+  <string name="global_actions_airplane_mode">"Zrakoplovni način"</string>
   <string name="global_actions_reboot">"Ponovno pokreni"</string>
   <string name="global_actions_shutdown">"Isključi"</string>
   <string name="global_actions_silent_mode">"Bešumni način"</string>

@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_airplane_mode">Način rada u zrakoplovu</string>
+  <string name="accessibility_airplane_mode">Zrakoplovni način</string>
   <string name="accessibility_back">"Natrag"</string>
   <string name="accessibility_battery_level">Baterija %d posto.</string>
   <string name="accessibility_bluetooth_connected">"Bluetooth je povezan."</string>
@@ -169,7 +169,7 @@ Povucite dolje za zaključavanje"</string>
   <string name="status_bar_recent_memory_info2"/>
   <string name="status_bar_recording_back">Vrati se na snimanje zvuka</string>
   <string name="status_bar_recording_pause">Snimanje zvuka je pauzirano. Dodirnite za povratak na snimanje zvuka.</string>
-  <string name="status_bar_settings_airplane">"Način rada u zrakoplovu"</string>
+  <string name="status_bar_settings_airplane">"Zrakoplovni način"</string>
   <string name="status_bar_settings_signal_meter_disconnected">"Nema internetske veze"</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">"WLAN je povezan"</string>
   <string name="status_bar_style_settings">Obavijesti</string>

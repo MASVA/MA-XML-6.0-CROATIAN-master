@@ -309,7 +309,7 @@
   <string name="dialog_new_group_account">Izrada grupe pod računom</string>
   <string name="dialog_phone_call_prohibited_message">"Poziv nije poslan"</string>
   <string name="dialog_sync_add">"Dodaj grupu sinkroniziranja"</string>
-  <string name="dialog_voicemail_airplane_mode_message">"Da biste nazvali govornu poštu, najprije isključite način rada u zrakoplovu."</string>
+  <string name="dialog_voicemail_airplane_mode_message">"Da biste nazvali govornu poštu, najprije isključite Zrakoplovni način."</string>
   <string name="dialog_voicemail_not_ready_message">"Da biste postavili govornu poštu, idite na Izbornik &gt; Postavke."</string>
   <string name="directory_search_label">"Imenik"</string>
   <string name="display_all_contacts">"Svi kontakti"</string>
@@ -1014,7 +1014,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="shortcutDialContact">"Izravno biranje "</string>
   <string name="shortcutMessageContact">Izravna poruka</string>
   <string name="showAllContactsJoinItem">"Prikaži sve kontakte"</string>
-  <string name="simContacts_airplaneMode">"Za uvoz kontakata sa SIM kartice prvo isključite način rada u zrakoplovu."</string>
+  <string name="simContacts_airplaneMode">"Za uvoz kontakata sa SIM kartice prvo isključite Zrakoplovni način."</string>
   <string name="simContacts_empty">"Nema kontakata na SIM kartici"</string>
   <string name="simContacts_emptyLoading">"Učitavanje kontakata sa SIM kartice…"</string>
   <string name="simContacts_title">"Kontakti SIM kartice"</string>

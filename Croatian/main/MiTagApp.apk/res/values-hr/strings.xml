@@ -2,7 +2,7 @@
 <resources>
   <string name="add">Dodaj</string>
   <string name="add_configure">Dodaj konfiguraciju</string>
-  <string name="airplane">Način rada u zrakoplovu</string>
+  <string name="airplane">Zrakoplovni način</string>
   <string name="alarm_config_12h">Alarm u 8:00</string>
   <string name="alarm_config_24h">Alarm u 18:00</string>
   <string name="alarm_label">Tekst alarma (opcija)</string>
