@@ -621,7 +621,7 @@
   <string name="set_as_homepage">Postavi kao početnu stranicu</string>
   <string name="share_link">Dijeli vezu</string>
   <string name="share_page">Dijeli stranicu</string>
-  <string name="share_page_text">"Uživam u 【%1$s】 | %2$s"</string>
+  <string name="share_page_text">"【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">Ovaj URL web stranice će biti poslan na Xiaomi poslužitelje radi provjere da li je siguran. Možete isključili tu značajku u bilo koje vrijeme u postavkama.</string>
   <string name="show_check_security_url_check_tip_dialog_title">Provjeri sigurnost URL-a</string>
   <string name="sign_in_to" formatted="false">Prijavite se u %s1 \"%s2\"</string>

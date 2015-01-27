@@ -123,10 +123,10 @@
   <string name="label_callwait">Obavijesti poziva na čekanju</string>
   <string name="loding">Učitavanje podataka</string>
   <string name="log_count">(%d)</string>
-  <string name="mark_agent">Prodavač</string>
-  <string name="mark_agent_block">Prijavljen kao prodavač</string>
+  <string name="mark_agent">Posrednik</string>
+  <string name="mark_agent_block">Prijavljen kao posrednik</string>
   <string name="mark_banking_insurance">Prodaja osiguranja</string>
-  <string name="mark_banking_insurance_block">Prijavljen kao prodavač osiguranja</string>
+  <string name="mark_banking_insurance_block">Ulaganja &amp; osiguranje</string>
   <string name="mark_express">Dostavljač</string>
   <string name="mark_express_block">Prijavljen kao dostavljač</string>
   <string name="mark_fraud">Prevarant</string>
@@ -135,8 +135,8 @@
   <string name="mark_meal_block">Prijavljen kao dostava hrane</string>
   <string name="mark_number_info">"
 Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potrazi za stanom). Blokirajte samo one brojeve iz kojih nikada ne želite primati pozive."</string>
-  <string name="mark_sell">Telemarketer</string>
-  <string name="mark_sell_block">Prijavljen kao telemarketer</string>
+  <string name="mark_sell">Trgovac</string>
+  <string name="mark_sell_block">Prijavljen kao trgovac</string>
   <string name="marked_by_others">"%d ostali korisnici su je označili kao "</string>
   <string name="marked_by_user">" označili ste je kao "</string>
   <string name="menu_add">Dodaj</string>

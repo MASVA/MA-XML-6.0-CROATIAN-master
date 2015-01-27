@@ -385,7 +385,7 @@
   <string name="done_action">Gotovo</string>
   <string name="donot_disturb_endtime_title">Do</string>
   <string name="donot_disturb_starttime_title">Od</string>
-  <string name="donot_disturb_summary">Vaš uređaj neće primati obavijesti novih poruka u određeno vrijeme</string>
+  <string name="donot_disturb_summary">Vaš uređaj neće obavještavati o novim porukama u određeno vrijeme</string>
   <string name="donot_disturb_title">Ne uznemiravaj tijekom noći</string>
   <string name="download_again">Preuzmi ponovo</string>
   <string name="download_before_sharing">" još nije završeno preuzimanje."</string>

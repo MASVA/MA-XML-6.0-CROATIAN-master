@@ -69,6 +69,8 @@
     <string name="menu_desk_clock">Stolni sat</string>
     <string name="menu_edit_timer_item">Uredi zadatak Kronometra</string>
     <string name="menu_item_dock_settings">Postavke Docka</string>
+	<string name="menu_item_sort_by_gmt_offset">Poredaj po vremenu</string>
+    <string name="menu_item_sort_by_name">Poredaj po nazivu</string>
     <string name="minute">1 minuta</string>
     <string name="minutes">%s minuta</string>
     <string name="never">Jednom</string>

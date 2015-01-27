@@ -109,8 +109,10 @@ Za više informacija provjerite poruku koju ste dobili od svog davatelja usluga"
   <string name="international_roaming_whitelist_count">%d aplik. se može povezati na podatkovne usluge u međunarodnom roamingu</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Prazno</string>
+  <string name="lock_screen_setting_summary">Pokaži obavijest nakon iskorištenih 100kB</string>
   <string name="lock_screen_traffic_notify_body">Uporaba podataka kad je zaslon isključen: %s</string>
   <string name="lock_screen_traffic_warn_title">Upozorenje up.pod. kada je zaslon isključen</string>
+  <string name="main_alert_message_month_limit_error">Ograničenje podataka koje ste postavili je netočno</string>
   <string name="main_alert_message_no_imsi">Nema SIM kartice</string>
   <string name="main_alert_message_no_mobile_package">"Ograničenje podataka nije postavljeno"</string>
   <string name="main_alert_message_slot_no_data_connection">"Utor SIM kartice ne podržava
@@ -158,6 +160,12 @@ Maks.: %1$s%2$s preostalo | %3$s iskorišteno"</string>
   <string name="network_assistant_upgraded_title">Ažurirano</string>
   <string name="network_control">Prikaz postavki aplikacije</string>
   <string name="none_mi_service_app_detail">Prazno</string>
+  <string name="notify_daily_data_usage_body">Iskorišteno danas: %s. Dodirnite da postavite ograničenje.</string>
+  <string name="notify_daily_limit_body">Iskorišteno ovaj tjedan: %s. Dodirnite da postavite ograničenje.</string>
+  <string name="notify_daily_limit_title">Postavite dnevno ograničenje podataka</string>
+  <string name="notify_month_traffic_body">Iskorišteno ovaj mjesec: %s. Dodirnite da postavite ograničenje.</string>
+  <string name="notify_setting_pkg_title">Postavite mjesečno ograničenje podataka</string>
+  <string name="notify_weekly_pkg_body">Iskorišteno ovaj tjedan: %s. Dodirnite da postavite ograničenje.</string>
   <string name="ok_button">U redu</string>
   <string name="online_chat">Chat</string>
   <string name="online_read">Vijesti</string>
@@ -244,7 +252,6 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg davatelja mobilnih
   <string name="pref_whitelist_setting">Iznimke</string>
   <string name="privacy_declare_dialog_message">"Korištenjem ove usluge, slažete se s Opera &lt;a href=%s&gt; Uvjeti i Odredbe&lt;/a&gt;."</string>
   <string name="privacy_declare_dialog_title">Uvjeti i Odredbe</string>
-  <string name="privacy_prompt_purchase_history_message">"Vaš telefonski broj i detalji davatelja usluga će biti učitani na Xiaomi poslužitelje kako bi dobili povijest kupovine mobilnih podataka."</string>
   <string name="privacy_prompt_tc_sms_report_message">"Vaš telefonski broj i detalji davatelja usluga će biti učitani na Xiaomi poslužitelje kako bi se ažurirale informacije uporabe podataka."</string>
   <string name="privacy_prompt_traffic_adjust_message">"Vaš telefonski broj i detalji davatelja usluga će biti učitani na Xiaomi poslužitelje kako bi se ažurirali upiti predloška SMS-a i da biste provjerili je li ova značajka dostupna na vašem području."</string>
   <string name="privacy_prompt_traffic_purchase_message">"Vaš telefonski broj i detalji davatelja usluga će biti učitani na Xiaomi poslužitelje kako bi dobili više informacija o mogućnosti kupnje podataka."</string>
@@ -304,6 +311,9 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg davatelja mobilnih
   <string name="ten_percent_total_pkg">%s (10%% od vaših mjes. mobilnih podataka)</string>
   <string name="text_day"/>
   <string name="three_percent_total_pkg">%s (3%% od vaših mjes. mobilnih podataka)</string>
+  <string name="timeshow_h_m">%1$dh %2$dm</string>
+  <string name="timeshow_m_s">%1$dm %2$ds</string>
+  <string name="timeshow_s">%ds</string>
   <string name="tips_dialog_title">"Ne znate svoje ograničenje?"</string>
   <string name="tips_message">"Ako su vam nejasni detalji Vašeg bežičnog plana, možete ih pogledati pozivom na %2$s (%1$s) (Samo Kina)"</string>
   <string name="title_limit_traffic_per_day">Dnevno ograničenje uporabe podataka</string>
@@ -328,9 +338,13 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="traffic_correction_start_correction">"Razgovor s poslužiteljem davatelja mobilnih usluga…"</string>
   <string name="traffic_correction_start_correction_failed">Zahtjev nije uspio, provjerite postavke davatelja mobilnih usluga</string>
   <string name="traffic_correction_success">Uporaba podataka ažurirana</string>
+  <string name="traffic_limit_error_alert_body">"Prema vašem davatelju usluga preostalo vam je još %1$s za ovaj mjesec. To je više od %2$s ograničenja koji ste postavili ručno."</string>
+  <string name="traffic_limit_error_alert_iknow">U redu</string>
+  <string name="traffic_limit_error_alert_reset">Resetiraj ograničenje</string>
+  <string name="traffic_limit_error_alert_title">Podsjetnik ograničenja podataka %s</string>
   <string name="traffic_none">Ništa</string>
   <string name="traffic_over_purchase_body">Dodirnite za prikaz pojedinosti.</string>
-  <string name="traffic_over_purchase_link">"Dosegli ste ograničenje uporabe podataka.&lt;br/&gt;Ako prmašite vaše ograničenje, vaš davatelj usluga može vam naplatiti dodatne naknade.&lt;br/&gt;&lt;br/&gt;&lt;font color='#0000ff'&gt;&lt;U&gt;Top up now and save 50%.&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_over_purchase_link">"Dosegli ste ograničenje uporabe podataka.&lt;br/&gt;Ako premašite vaše ograničenje, vaš davatelj usluga može vam naplatiti dodatne naknade.&lt;br/&gt;&lt;br/&gt;&lt;font color='#0000ff'&gt;&lt;U&gt;Top up now and save 50%.&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_over_purchase_title">Premašeno ograničenje podataka</string>
   <string name="traffic_protection_data_usage_summary">"Korištenje više od planiranog ograničenja podataka vašeg davatelja usluga može dovesti do povećanih troškova."</string>
   <string name="traffic_protection_label">Upozorenje uporabe podataka</string>
@@ -397,6 +411,7 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="traffic_setting_fragment_title">Upit uporabe podataka</string>
   <string name="traffic_setting_open">Uključeno</string>
   <string name="traffic_setting_step_num">Postavke uporabe</string>
+  <string name="traffic_setting_update_template_falure">"Ne mogu se povezati s mrežom"</string>
   <string name="traffic_warning_purchase_title">Preostali iznos manji je od %d%%</string>
   <string name="usage_sorted_activity_lable">Uporaba podataka</string>
   <string name="usage_sorted_empty_text">Prazno</string>

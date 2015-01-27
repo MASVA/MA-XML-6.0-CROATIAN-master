@@ -140,6 +140,7 @@
   <string name="menu_item_sort_size">Po veličini</string>
   <string name="menu_item_sort_type">Po vrsti</string>
   <string name="menu_list_name">Izbornik</string>
+  <string name="mi_router_label">Mi Router</string>
   <string name="migrate_announcement_msg">Sinkronizirajte svoj postojeći KuaiPan račun sa svojim Mi Računom u KuaiPan postavkama.</string>
   <string name="migrate_announcement_title">Premještanje završeno</string>
   <string name="mobile_photo">Fotografije telefona</string>
@@ -176,7 +177,7 @@
   <string name="name_illegal">Morate unijeti ime.</string>
   <string name="net_lose_connected">Veza izgubljena.</string>
   <string name="networkView_notConnected">"Ne mogu se povezati na mrežu"</string>
-  <string name="network_connect_confirm_des">Pristupiti ćemo mreži za korištenje KuaiPana, slažete li se?</string>
+  <string name="network_connect_confirm_des">Pristupiti ćemo mreži za korištenje aplikacije Datoteke, slažete li se?</string>
   <string name="never_notify_network_connect">"Ne prikazuj ovo ponovo"</string>
   <string name="new_folder_name">Mapa bez imena</string>
   <string name="no">Ne</string>
@@ -297,6 +298,7 @@ oslobodili prostor.</string>
   <string name="upload_failed">Učitavanje neuspješno!</string>
   <string name="upload_file_toolarge_message">"Nije uspjelo učitavanje %1$d : ne možete učitati datoteke veće od 300MB."</string>
   <string name="uploading">Učitavanje…</string>
+  <string name="usb_label">USB</string>
   <string name="used">Iskorišteno</string>
   <string name="user_guide">Saznajte više o KuaiPan</string>
   <string name="user_guide_continue_use">U redu</string>

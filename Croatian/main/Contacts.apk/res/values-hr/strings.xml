@@ -1161,6 +1161,7 @@ Odaberite jednu od sljedećih opcija:</string>
   <string name="wipe_data">Izbriši podatke</string>
   <string name="yellowPageNavigationIconLabel">Imenik</string>
   <string name="yellowPageNavigationLabel">Imenik</string>
+  <string name="yellowpage_navigation_clear_search_history">Izbriši povijest</string>
   <string name="yellowpage_navigation_more_items">Više</string>
   <string name="yellowpage_navigation_network_location_enable">Dopusti</string>
   <string name="yellowpage_navigation_network_location_enable_later">Ne sada</string>
