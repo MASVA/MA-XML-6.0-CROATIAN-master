@@ -110,6 +110,7 @@ Za više informacija provjerite poruku koju ste dobili od svog davatelja usluga"
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Prazno</string>
   <string name="lock_screen_setting_summary">Pokaži obavijest nakon iskorištenih 100kB</string>
+  <string name="lock_screen_traffic_notify_body">Zaključano za %1$s | Iskorišteno %2$s mobilnih podataka</string>
   <string name="lock_screen_traffic_notify_body">Uporaba podataka kad je zaslon isključen: %s</string>
   <string name="lock_screen_traffic_warn_title">Upozorenje up.pod. kada je zaslon isključen</string>
   <string name="main_alert_message_month_limit_error">Ograničenje podataka koje ste postavili je netočno</string>
@@ -328,7 +329,7 @@ Vaše mjesečno ograničenje uporabe podataka je %1$s. To se razlikuje od %2$s o
   <string name="traffic_config_alert_body_leisure_notset">"
 Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. Niste postavili ograničenje maks. podataka."</string>
   <string name="traffic_config_alert_body_normal">"
-Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %2$s što ste podesili ručno."</string>
+Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %2$s što ste postavili ručno."</string>
   <string name="traffic_config_alert_cancel">Odustani</string>
   <string name="traffic_config_alert_nomore">"Ne prikazuj ponovo"</string>
   <string name="traffic_config_alert_ok">U redu</string>
@@ -344,7 +345,7 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="traffic_limit_error_alert_title">Podsjetnik ograničenja podataka %s</string>
   <string name="traffic_none">Ništa</string>
   <string name="traffic_over_purchase_body">Dodirnite za prikaz pojedinosti.</string>
-  <string name="traffic_over_purchase_link">"Dosegli ste ograničenje uporabe podataka.&lt;br/&gt;Ako premašite vaše ograničenje, vaš davatelj usluga može vam naplatiti dodatne naknade.&lt;br/&gt;&lt;br/&gt;&lt;font color='#0000ff'&gt;&lt;U&gt;Top up now and save 50%.&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_over_purchase_link">"Dosegli ste ograničenje uporabe podataka.&lt;br/&gt;Ako premašite vaše ograničenje, vaš davatelj usluga može vam naplatiti dodatne naknade.&lt;br/&gt;&lt;br/&gt;&lt;font color='#0000ff'&gt;&lt;U&gt;Nadoplatite sad i uštedite 50%.&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_over_purchase_title">Premašeno ograničenje podataka</string>
   <string name="traffic_protection_data_usage_summary">"Korištenje više od planiranog ograničenja podataka vašeg davatelja usluga može dovesti do povećanih troškova."</string>
   <string name="traffic_protection_label">Upozorenje uporabe podataka</string>
