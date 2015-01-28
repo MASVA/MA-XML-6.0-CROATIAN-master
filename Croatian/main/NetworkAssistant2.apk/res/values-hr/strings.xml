@@ -371,7 +371,7 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="traffic_saving_history_total_traffic">Ušteđeno podataka</string>
   <string name="traffic_saving_msg_month">Mjesečna ušteda:</string>
   <string name="traffic_saving_msg_not_started">Isključeno</string>  
-  <string name="traffic_saving_msg_today">Danas</string>
+  <string name="traffic_saving_msg_today">Ušteđeno danas</string>
   <string name="traffic_saving_notify_start_content">Ušteđeno ovaj mjesec %s</string>
   <string name="traffic_saving_notify_start_title">Vaša uporaba podataka je smanjena</string>
   <string name="traffic_saving_tecsupport">Powered by Opera</string> 
