@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Doma</string>
+    <string name="abc_action_bar_home_description">Početna</string>
     <string name="abc_action_bar_up_description">Gore</string>
     <string name="action_mode_deselect_all">Poništi odabir</string>
     <string name="action_mode_select_all">Odaberi sve</string>
@@ -11,17 +11,19 @@
     <string name="address">Adresa</string>
     <string name="afternoon">PM</string>
     <string name="am">AM</string>
+	<string name="app_name_which_call">Aplikacija:%s</string>
+    <string name="app_version_which_call">Verzija aplikacije:%s</string>
     <string name="birthday">Rođendan</string>
     <string name="check_phone_error_title">Sinkronizacija je isključena</string>
     <string name="check_phone_io_error">"Ne mogu se spojiti na mrežu".</string>
     <string name="close">Zatvori</string>
     <string name="copyright">Autorska prava</string>
-    <string name="date_picker_dialog_title">Podesi datum</string>
+    <string name="date_picker_dialog_title">Postavi datum</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_time_done">Gotovo</string>
-    <string name="date_time_picker_dialog_title">Podesi datum i vrijeme</string>
+    <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
     <string name="deselect_all">Poništi odabir</string>
     <string name="early_morning">AM</string>
     <string name="empty" />
@@ -30,7 +32,7 @@
     <string name="error_forbidden">Sinkronizacija je isključena zbog problema s vašim Mi Računom.</string>
     <string name="error_not_acceptable">Sinkronizacija je isključena</string>
     <string name="error_title">"Ne mogu sinkronizirati"</string>
-    <string name="error_unauthorized">Sinkronizacija je isključena zbog prevelikog broja pokušaja logiranja.</string>
+    <string name="error_unauthorized">Sinkronizacija je isključena zbog prevelikog broja pokušaja prijave.</string>
     <string name="evening">PM</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -87,9 +89,11 @@
     <string name="friday_short">Pet</string>
     <string name="friday_shortest">P</string>
     <string name="label">MIUI SDK</string>
-    <string name="license_host_unreachable">"Nije moguće povezivanje s mrežom. Da biste vidjeli ove informacije, idite na: %s."</string>
+    <string name="license_host_unreachable">"Nije moguće povezivanje s mrežom. 
+Da biste vidjeli ove informacije, 
+idite na: %s."</string>
     <string name="loading">Učitavanje…</string>
-    <string name="mibi_license">Mi Credit Uvjeti pružanja usluge</string>
+    <string name="mibi_license">Mi Krediti Uvjeti pružanja usluge</string>
     <string name="midnight">AM</string>
     <string name="monday">Ponedjeljak</string>
     <string name="monday_short">Pon</string>
@@ -145,6 +149,7 @@
     <string name="permlab_sendSmsNoConfirmation">Slanje SMS poruka bez potvrde</string>
     <string name="phone">Telefon</string>
     <string name="pm">PM</string>
+	<string name="policy_name">Privatnost: %s</string>
     <string name="privacy_policy">Pravila o Privatnosti</string>
     <string name="saturday">Subota</string>
     <string name="saturday_short">Sub</string>
@@ -239,7 +244,7 @@
     <string name="thursday">Četvrtak</string>
     <string name="thursday_short">Čet</string>
     <string name="thursday_shortest">Č</string>
-    <string name="time_picker_dialog_title">Podesi vrijeme</string>
+    <string name="time_picker_dialog_title">Postavi vrijeme</string>
     <string name="time_picker_label_hour">S</string>
     <string name="time_picker_label_minute">Min</string>
     <string name="today">Danas</string>

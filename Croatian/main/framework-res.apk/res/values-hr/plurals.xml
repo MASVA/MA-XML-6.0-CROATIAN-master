@@ -80,7 +80,7 @@
         <item quantity="one">1 min</item>
     </plurals>
     <plurals name="duration_hours">
-        <item quantity="other">%d h</item>
+        <item quantity="other">%d s</item>
         <item quantity="one">1 sat</item>
     </plurals>
     <plurals name="wifi_available">

@@ -28,7 +28,7 @@
   <string name="device_xiaomi">Xiaomi</string>
   <string name="double_seventh_day"/>
   <string name="easter">Uskrs</string>
-  <string name="first_back_long_press_message">Dugi pritisak na Natrag će zaustaviti trenutni proces i njegove pozadinske usluge. Za omogućavanje ove funkcije, idite na Postavke &gt; Sustav &gt; Gumbi</string>
+  <string name="first_back_long_press_message">Dugi pritisak na tipku "Natrag" će zaustaviti trenutni proces i njegove pozadinske usluge. Za omogućavanje ove funkcije, idite na Postavke &gt; Sustav &gt; Tipke</string>
   <string name="fm_record_smaple_prefix_miui">FM_Snimanje</string>
   <string name="fools_day">Prvi travnja</string>
   <string name="force_exit_message">"Uspješno zatvorena aplikacija: \"%1$s"</string>
@@ -143,6 +143,6 @@
   <string name="yellow_page_module_sms_sent">SMS poruka poslana.</string>
   <string name="yellow_page_sms_disabled_in_privacy_mode">"Ne mogu poslati SMS poruku u "Gost" načinu rada."</string>
   <string name="yellow_page_sms_send_failed">Slanje SMS poruke nije uspjelo.</string>
-  <string name="yellow_page_sms_sending">Slanje...</string>
+  <string name="yellow_page_sms_sending">Slanje…</string>
   <string name="yellow_page_unable_send_sms">Ne mogu poslati SMS poruku.</string>
 </resources> 

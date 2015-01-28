@@ -60,6 +60,7 @@
   <string name="button_text_delete">Izbriši</string>
   <string name="button_to_setting">Postavke</string>
   <string name="call_delete_hint">Ukloniti sve blokirane pozive s ovog broja?</string>
+  <string name="call_delete_title">Ukloni poziv</string>
   <string name="call_transfer_block">Blokiraj proslijeđene pozive</string>
   <string name="call_transfer_block_type">Blokiraj proslijeđene pozive</string>
   <string name="call_transfer_info">Blokiraj pozive proslijeđene od nepoznatih brojeva</string>
@@ -94,9 +95,9 @@
   <string name="dlg_import_whitelist">Dodavanje…</string>
   <string name="dlg_keyword_ok">Spremljeno</string>
   <string name="dlg_message_not_open_stranger_identify">Za uključivanje ove značajke, idite na Postavke &gt; Telefon.</string>
-  <string name="dlg_no_block">Odblokirati ovaj broj?</string>
+  <string name="dlg_no_block">Odblokirati ovaj broj i obnoviti pzive s ovog broja u povijest poziva?</string>
   <string name="dlg_no_block_ok">Odblokiraj</string>
-  <string name="dlg_remove_address_blacklist">Ukloniti ovu lokaciju s liste blokiranih i vratiti dolazne SMS?</string>
+  <string name="dlg_remove_address_blacklist">Ukloniti ovu lokaciju s liste blokiranih?</string>
   <string name="dlg_remove_address_whitelist">Ukloniti ovu lokaciju iz iznimaka?</string>
   <string name="dlg_remove_blacklist">Ukloniti ove brojeve s liste blokiranih?</string>
   <string name="dlg_remove_blacklist_ing">Uklanjanje…</string>
@@ -179,6 +180,7 @@ Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potraz
   <string name="report_warning_title">Prijavi SMS</string>
   <string name="sim_not_ready">SIM kartica nije spremna</string>
   <string name="sms_delete_hint">Izbrisati sve blokirane poruke s ovog broja?</string>
+  <string name="sms_delete_title">Ukloni SMS</string>
   <string name="sms_smart_engine_update">Automatski ažuriraj filter SMS-a</string>
   <string name="special_number_group">Blokiraj prijavljene brojeve</string>
   <string name="st_advanced_setting_group">Napredno</string>
