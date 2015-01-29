@@ -849,6 +849,10 @@ Kopija: %4$s
   <string name="search_results_header">Rezultati</string>
   <string name="search_results_loaded">%1$d</string>
   <string name="search_results_searching_header">Traženje…</string>
+  <string name="search_tabs_name_all">Sve</string>
+  <string name="search_tabs_name_recipient">Primatelj</string>
+  <string name="search_tabs_name_sender">Pošiljatelj</string>
+  <string name="search_tabs_name_subject">Predmet</string>
   <string name="search_title">Neodređena E-pošta</string>
   <string name="search_txt_size_limit_prompt">Izrazi za pretraživanje moraju biti veći od 3 znaka</string>
   <string name="search_unsupported">Pretraživanje nije podržano na ovom računu.</string>

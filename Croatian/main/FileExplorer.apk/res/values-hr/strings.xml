@@ -22,10 +22,10 @@
   <string name="category_default_number_text">(0)</string>
   <string name="category_document">Dokumenti</string>
   <string name="category_favorite">Označeno</string>
-  <string name="category_log">Zapisi</string>
   <string name="category_music">Glazba</string>
   <string name="category_other">Ostalo</string>
   <string name="category_picture">Slike</string>
+  <string name="category_recent">Nedavno</string>
   <string name="category_theme">Teme</string>
   <string name="category_type_document">Dokumenti</string>
   <string name="category_type_meida">Medija</string>
@@ -43,7 +43,7 @@
   <string name="compress_message">Sažimanje na…</string>
   <string name="compress_title">Sažimanje</string>
   <string name="confirm">U redu</string>
-  <string name="connect_network_setting_des">Podsjeti prilikom pristupa mreži</string>
+  <string name="connect_network_setting_des">Pitaj za povezivanje s internetom</string>
   <string name="confirm_know">U redu</string>
   <string name="copy_failed">"Ne mogu kopirati"</string>
   <string name="copy_file_to_kuaipan">Kopiraj datoteku na Kuaipan</string>
@@ -123,7 +123,7 @@
   <string name="kuaipan_over_space">Nedovoljno prostora</string>
   <string name="kuaipan_prompt">Obavijest</string>
   <string name="kuaipan_prompt_message">"
- Naš poslužitelj je pao zbog održavanja. Pokušajte ponovno kasnije…
+ Naš poslužitelj je trenutno nedostupan. Pokušajte ponovno kasnije…
 "</string>
   <string name="kuaipan_tech_support">Prijavite se na KuaiPan.cn</string>
   <string name="load_err">"Ne mogu učitati"</string>
@@ -177,8 +177,8 @@
   <string name="name_illegal">Morate unijeti ime.</string>
   <string name="net_lose_connected">Veza izgubljena.</string>
   <string name="networkView_notConnected">"Ne mogu se povezati na mrežu"</string>
-  <string name="network_connect_confirm_des">Pristupiti ćemo mreži za korištenje aplikacije Datoteke, slažete li se?</string>
-  <string name="never_notify_network_connect">"Ne prikazuj ovo ponovo"</string>
+  <string name="network_connect_confirm_des">Aplikacija Datoteke treba povezivanje s internetom za normalan rad</string>
+  <string name="never_notify_network_connect">Zapamti postavke</string>
   <string name="new_folder_name">Mapa bez imena</string>
   <string name="no">Ne</string>
   <string name="no_enough_storage_indication">"Prostor uređaja za pohranu je pun."</string>
@@ -197,7 +197,7 @@
   <string name="open_file_failed">"Ne mogu otvoriti"</string>
   <string name="operate_confirm_in_3g">Koristiti vašu mobilnu podatkovnu vezu za preuzimanje ove velike datoteke?</string>
   <string name="operating">Obrada…</string>
-  <string name="operation_agree">Slažem se &amp; Nastavi</string>
+  <string name="operation_agree">Dopusti</string>
   <string name="operation_cancel">Otkaži</string>
   <string name="operation_compress">Sažeti</string>
   <string name="operation_compressing">Sažimanje…</string>
@@ -271,7 +271,7 @@ Dodano slobodnog prostora %1$s"</string>
   <string name="storage_usb">USB pohrana</string>
   <string name="storage_warning">"Ne mogu koristiti vanjsku pohranu"</string>
   <string name="sys_size_enable">" dostupno"</string>
-  <string name="system_alert">Podsjeti</string>
+  <string name="system_alert">Internet povezivanje</string>
   <string name="tab_category">Kategorije</string>
   <string name="tab_expand">Proširi</string>
   <string name="tab_local">Lokalno</string>
@@ -311,9 +311,9 @@ oslobodili prostor.</string>
   <string name="user_guide_upload_to_kuaipan">Pohranite stavke na KuaiPan s vašeg telefona</string>
   <string name="utf8_summary">Zadano kodiranje FTP sistema</string>
   <string name="utf8_title">UTF-8</string>
-  <string name="wait_net">Čekam na mrežu…</string>
+  <string name="wait_net">Čekam mrežu…</string>
   <string name="wait_sdcard">Čekam SD karticu…</string>
-  <string name="wait_wifi">Čekam na WLAN…</string>
+  <string name="wait_wifi">Čekam WLAN…</string>
   <string name="waiting">Čekanje…</string>
   <string name="wangpan_root_path">Moj Drive</string>
   <string name="wifi_state">WLAN mreža</string>

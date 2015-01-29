@@ -233,7 +233,7 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="battery_action_stop">Prisilno zaustavi</string>
   <string name="battery_action_wifi">Postavke WLAN-a</string>
   <string name="battery_desc_apps">Baterija korištena upotrebom aplikacija</string>
-  <string name="battery_desc_bluetooth">Baterija korištena značajke Bluetooth</string>
+  <string name="battery_desc_bluetooth">Baterija korištena značajkom Bluetooth</string>
   <string name="battery_desc_display">Baterija korištena za zaslon i pozadinsko svjetlo</string>
   <string name="battery_desc_radio">Baterija korištena upotrebom GSM-a</string>
   <string name="battery_desc_standby">Baterija korištena u stanju pripravnosti</string>
@@ -520,9 +520,9 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="captioning_edge_type">Vrsta ruba</string>
   <string name="captioning_foreground_color">Boja teksta</string>
   <string name="captioning_locale">Jezik</string>
-  <string name="captioning_preset">Stil naslova</string>
+  <string name="captioning_preset">Stil opisa</string>
   <string name="captioning_preview_characters">Aa</string>
-  <string name="captioning_preview_text">Naslov će izgledati ovako</string>
+  <string name="captioning_preview_text">Opisi će izgledati ovako</string>
   <string name="captioning_preview_title">Pregled</string>
   <string name="captioning_standard_options_title">Standardne opcije</string>
   <string name="captioning_text_size">Veličina teksta</string>
@@ -549,8 +549,8 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="clear_failed_dlg_text">Brisanje podataka za aplikaciju nije uspjelo.</string>
   <string name="clear_failed_dlg_title">Izbriši podatke</string>
   <string name="clear_user_data_text">Izbriši podatke</string>
-  <string name="cmcc_dm_settings_disable_summary">Onemogući auto. pokretnaje</string>
-  <string name="cmcc_dm_settings_enable_summary">Onemogući auto. pokretnaje</string>
+  <string name="cmcc_dm_settings_disable_summary">Onemogući auto. pokretanje</string>
+  <string name="cmcc_dm_settings_enable_summary">Onemogući auto. pokretanje</string>
   <string name="cmcc_dm_settings_title">Upravljanje Dopuštenja uređaja</string>
   <string name="color_black">Crna</string>
   <string name="color_blue">Plava</string>

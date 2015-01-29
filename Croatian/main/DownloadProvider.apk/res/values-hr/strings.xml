@@ -24,6 +24,7 @@
   <string name="notification_download_failed">Preuzimanje nije uspjelo.</string>
   <string name="notification_need_wifi_for_size">Veličina zahtijeva WLAN</string>
   <string name="notification_paused_in_background">Pauzirano u pozadini.</string>
+  <string name="paused_waiting_for_network">Čekanje na mrežu</string>
   <string name="permdesc_accessAllDownloads">Omogućuje aplikaciji prikaz i izmjenu svih preuzimanja koja je pokrenula bilo koja aplikacija u sustavu.</string>
   <string name="permdesc_downloadCacheNonPurgeable">Omogućuje aplikaciji preuzimanje datoteka u predmemoriju preuzimanja koja se ne može automatski izbrisati kada upravitelj preuzimanja treba više prostora.</string>
   <string name="permdesc_downloadCompletedIntent">Omogućuje aplikaciji slanje obavijesti o dovršenim preuzimanjima. Zlonamjerne aplikacije mogu to iskoristiti za zbunjivanje drugih aplikacija koje preuzimaju datoteke.</string>
