@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">MusicFX</string>
   <string name="bass_boost_strength">Pojačanje basova</string>
@@ -14,4 +14,4 @@
   <string name="setup">"Postavljanje"</string>
   <string name="user">Korisnik</string>
   <string name="virtualizer_strength">Okružujući zvuk</string>
-</resources> 
+</resources>

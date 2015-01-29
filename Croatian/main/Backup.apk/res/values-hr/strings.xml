@@ -91,10 +91,10 @@
   <string name="findlost_contact_online">Vrati kontakte s Mi Cloud-a</string>
   <string name="guarded_mode_dialog_message">Ova funkcija nije dopuštena u "Gost" načinu rada</string>
   <string name="guarded_mode_dialog_title">Vi ste u "Gost" načinu rada</string>
-  <string name="import_from_xiaomi_account_hint2">Ako već imate napravljenu Sig. kopiju, dodirnite Dalje.</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Preuzmite Mi Talk aplikaciju i prijavite se.
 \u0009http://www.miliao.com
 2.\u0009Idite u Mi Talk postavke i odaberite ”Pohrani kontakte na Mi Račun”"</string>
+  <string name="import_from_xiaomi_account_hint2">Ako već imate napravljenu Sig. kopiju, dodirnite Dalje.</string>
   <string name="import_from_xiaomi_account_hint_title">Koristite Mi Talk za Sig. kopiju kontakata između uređaja</string>
   <string name="local_app_name">Sig. kopija</string>
   <string name="local_backup_window_title">Lokalna sig. kopija</string>

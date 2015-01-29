@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_calllog_detail">Pojedinosti povijesti poziva</string>
   <string name="account_container_title">Uvezeno iz</string>
@@ -67,8 +67,8 @@
   <string name="call_fax_work">"Nazovi uredski faks"</string>
   <string name="call_home">"Nazovi kućni broj"</string>
   <string name="call_isdn">"Nazovi ISDN"</string>
-  <string name="call_log_empty_gecode"></string>
-  <string name="call_log_item_count_and_date"></string>
+  <string name="call_log_empty_gecode"/>
+  <string name="call_log_item_count_and_date"/>
   <string name="call_log_new_header">"Novo"</string>
   <string name="call_log_old_header">"Starije"</string>
   <string name="call_main">"Nazovi glavni broj"</string>
@@ -84,7 +84,7 @@
   <string name="call_sim2_menu_title">Nazovi sa SIM2</string>
   <string name="call_telex">"Nazovi teleks"</string>
   <string name="call_tty_tdd">"Nazovi TTY/TDD"</string>
-  <string name="call_type_and_date"></string>
+  <string name="call_type_and_date"/>
   <string name="call_work">"Nazovi ured"</string>
   <string name="call_work_mobile">"Nazovi poslovni mobitel"</string>
   <string name="call_work_pager">"Nazovi poslovni dojavljivač"</string>
@@ -608,7 +608,7 @@ Za dodavanje kontakata, dodirnite ""Izbornik", onda dodirnite:
   <string name="noContactsHelpTextWithSyncForCreateShortcut">"Nemate kontakata za prikaz. (Ako ste tek dodali račun, može potrajati nekoliko minuta za sinkronizaciju kontakata.)"</string>
   <string name="noContactsNoSimHelpText">"Nemate kontakata za prikaz.
   
-Za dodavanje kontakata, dodirnite ">Izbornik", onda dodirnite:
+Za dodavanje kontakata, dodirnite "&gt;Izbornik", onda dodirnite:
 
 "Računi za dodati ili postaviti račun s kontaktima  možete sinkronizirati s telefonom" 
 
@@ -954,8 +954,8 @@ Za dodavanje kontakta na listu favorita :
   <string name="resource_title_hot_subject">Popularno</string>
   <string name="resource_title_local">Lokalno</string>
   <string name="resource_title_rank">Najbolje</string>
-  <string name="resource_title_subject">Istaknuto</string>
   <string name="resource_title_select_ringtone">Odaberite melodiju zvona</string>
+  <string name="resource_title_subject">Istaknuto</string>
   <string name="resource_trial_end_message">Probni period za %1$s je istekao. Ako vam se tema sviđa, kupite je.</string>
   <string name="resource_trial_end_purchase">Plaćanje</string>
   <string name="resource_trial_end_restore">Kraj probnog perioda</string>
@@ -1183,4 +1183,4 @@ Odaberite jednu od sljedećih opcija:</string>
   <string name="yellowpage_search_the_yellowpage">Pretraži imenik</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">"Odaberite stavke"</string>
-</resources> 
+</resources>

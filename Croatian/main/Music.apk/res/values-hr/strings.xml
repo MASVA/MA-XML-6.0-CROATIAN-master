@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account">Račun</string>
   <string name="action_item_add">Dodaj</string>
@@ -277,4 +277,4 @@
   <string name="unknown_artist_name">Nepoznati izvođač</string>
   <string name="valid_period">"Vrijedi do: "</string>
   <string name="vip_recommend_title">Nabavite višu kvalitetu glazbe</string>
-</resources> 
+</resources>

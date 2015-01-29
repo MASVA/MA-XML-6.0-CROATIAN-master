@@ -320,8 +320,8 @@
   <string name="miliao_painting_folder_display_name">MiTalk bojanje</string>
   <string name="miliao_saved_folder_display_name">Mi Talk</string>
   <string name="mimetype">Vrsta MIME-a</string>
-  <string name="mishop">MiShop</string>
   <string name="mipc_1">Džepni fotoaparat</string>
+  <string name="mishop">MiShop</string>
   <string name="mishop_saved_folder_display_name">MiStore spremljen</string>
   <string name="miui_capture_screen_folder_display_name">Snimak zaslona</string>
   <string name="miui_wallpaper">Pozadina</string>
@@ -431,8 +431,8 @@
   <string name="redeye">Crvene oči</string>
   <string name="redeye_tooltip">Dotaknite za uklanjanje crvenih očiju</string>
   <string name="refocus_data_downloading">Preuzimanje preusmjerenih podataka…</string>
-  <string name="remove_from_secret_successfully_message">Uklonjeno iz tajnog albuma</string>
   <string name="remove_from_secret_failed_message_with_count">"%2$s stavaka ne može biti uklonjeno iz sakrivenog albuma: %1$s."</string>
+  <string name="remove_from_secret_successfully_message">Uklonjeno iz tajnog albuma</string>
   <string name="remove_from_secret_unfinished_message_with_count">"%1$s nije uklonjeno iz sakrivenog albuma"</string>
   <string name="remove_hidden_album">Prikaži</string>
   <string name="remove_recent_album">Ukloni iz omiljenih albuma</string>

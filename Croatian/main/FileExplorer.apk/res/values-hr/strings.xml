@@ -43,8 +43,8 @@
   <string name="compress_message">Sažimanje na…</string>
   <string name="compress_title">Sažimanje</string>
   <string name="confirm">U redu</string>
-  <string name="connect_network_setting_des">Pitaj za povezivanje s internetom</string>
   <string name="confirm_know">U redu</string>
+  <string name="connect_network_setting_des">Pitaj za povezivanje s internetom</string>
   <string name="copy_failed">"Ne mogu kopirati"</string>
   <string name="copy_file_to_kuaipan">Kopiraj datoteku na Kuaipan</string>
   <string name="create_kuaipan_shortcut_pref">Stavi na početni zaslon</string>

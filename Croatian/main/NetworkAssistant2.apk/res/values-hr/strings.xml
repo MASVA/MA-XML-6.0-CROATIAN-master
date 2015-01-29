@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_to_whitelist_button">Upravljanje iznimkama</string>
   <string name="add_white_list">Dodaj</string>
@@ -291,7 +291,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg davatelja mobilnih
   <string name="tc_sms_report_get_success_notify_body">Uvjerite se da je izvješće točno i pošaljite ga MIUI.</string>
   <string name="tc_sms_report_get_success_notify_title">Primljen SMS izvješća uporabe podataka</string>
   <string name="tc_sms_report_geting_sms">Dobivanje izvješća SMS-a…</string>
-  <string name="tc_sms_report_notify_correction_body">Idi u-> Sigurnost-> Uporaba podataka i pokušajte ponovno ručno.</string>
+  <string name="tc_sms_report_notify_correction_body">Idi u-&gt; Sigurnost-&gt; Uporaba podataka i pokušajte ponovno ručno.</string>
   <string name="tc_sms_report_notify_correction_failure_title">"Ne mogu ažurirati detalje uporabe podataka"</string>
   <string name="tc_sms_report_notify_get_failure_body">Ne mogu poslati izvješće o uporabi podataka. Provjerite da li ste spojeni na mobilnu mrežu.</string>
   <string name="tc_sms_report_notify_get_failure_title">"Ne mogu dobiti izvješće o uporabi podataka"</string>
@@ -367,14 +367,14 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="traffic_saving_history_total_month_value"/>
   <string name="traffic_saving_history_total_month_value_default"/>
   <string name="traffic_saving_history_total_rate">Ušteda</string>
-  <string name="traffic_saving_history_total_rate_unit">%</string>  
+  <string name="traffic_saving_history_total_rate_unit">%</string>
   <string name="traffic_saving_history_total_traffic">Ušteđeno podataka</string>
   <string name="traffic_saving_msg_month">Mjesečna ušteda:</string>
-  <string name="traffic_saving_msg_not_started">Isključeno</string>  
+  <string name="traffic_saving_msg_not_started">Isključeno</string>
   <string name="traffic_saving_msg_today">Ušteđeno danas</string>
   <string name="traffic_saving_notify_start_content">Ušteđeno ovaj mjesec %s</string>
   <string name="traffic_saving_notify_start_title">Vaša uporaba podataka je smanjena</string>
-  <string name="traffic_saving_tecsupport">Powered by Opera</string> 
+  <string name="traffic_saving_tecsupport">Powered by Opera</string>
   <string name="traffic_saving_title">Ušteda podataka</string>
   <string name="traffic_saving_toast_start_mobile">Ušteda podataka uključena</string>
   <string name="traffic_saving_toast_start_none_mobile">Ušteda počinje prilikom korištenja mobilnih podataka</string>

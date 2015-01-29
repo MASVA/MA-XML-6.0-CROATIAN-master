@@ -190,8 +190,8 @@ dotaknite ga stražnjom stranom vašeg telefona"</string>
 dotaknite stražnjom stranom vašeg telefona drugu oznaku."</string>
   <string name="touch_and_write_more">"Za pisanje druge kopije,
 dotaknite stražnjom stranom vašeg telefona drugu oznaku."</string>
-  <string name="unavailable_net">"Nije uspjelo instaliranje: Nije moguće povezati se mrežu"</string>
   <string name="two_minutes">2 min.</string>
+  <string name="unavailable_net">"Nije uspjelo instaliranje: Nije moguće povezati se mrežu"</string>
   <string name="unavailable_storage">"Nije uspjelo instaliranje:Nije bilo moguće korištenje vaše SD kartice"</string>
   <string name="unrecognized_tag">Nepoznat sadržaj oznake</string>
   <string name="update_config">Uredi zadatke</string>

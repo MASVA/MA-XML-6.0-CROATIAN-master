@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_app_name">Video Player</string>
   <string name="about_title">O aplikaciji</string>
@@ -280,7 +280,7 @@
   <string name="use_cellular_offlinedownload_summary">Prikaži obavijest kada se koristi mobilni podaci za preuzimanje videozapisa</string>
   <string name="use_cellular_offlinedownload_title">Obavijesti preuzimanja</string>
   <string name="use_cellular_play_summary">Prikaži obavijest kada se koriste mobilni podaci za gledanje videozapisa</string>
-  <string name="use_cellular_play_title">Obavijesti streaminga</string>  
+  <string name="use_cellular_play_title">Obavijesti streaminga</string>
   <string name="userdata_alert_content">Korištenje vaše mobilne podatkovne veze za gledanje videozapisa će povećati uporabu podataka. Ako mislite potrošiti više od mjesečnog limita, vaš mobilni operater vam može naplatiti dodatne troškove.</string>
   <string name="userdata_alert_ok">Reproduciraj</string>
   <string name="userdata_alert_title">Upozorenje uporabe podataka</string>
@@ -328,8 +328,8 @@
   <string name="vp_maintitlearea">Preuzmite i uživajte u HD videozapisima</string>
   <string name="vp_media_info">Prikaži detalje videozapisa</string>
   <string name="vp_milink">Mi Link</string>
-  <string name="vp_next_ci">Dalje</string>
   <string name="vp_newest_ep">Najnovije</string>
+  <string name="vp_next_ci">Dalje</string>
   <string name="vp_offline">Izvanmrežno</string>
   <string name="vp_plugin_message">Instalirati HD dodatak?</string>
   <string name="vp_retry">Pokušaj ponovo</string>

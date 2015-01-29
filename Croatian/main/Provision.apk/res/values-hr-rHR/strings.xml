@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="agree">Slažem se</string>
   <string name="congratulation_label"/>
@@ -50,4 +50,4 @@ Morate se složiti s Uvjeti pružanja usluge i Pravila o Privatnosti prije nego 
   <string name="title_congratulation">"Spremni ste za MIUI!"</string>
   <string name="user_agreement">Uvjeti pružanja usluge</string>
   <string name="welcome">Dobrodošli u</string>
-</resources> 
+</resources>

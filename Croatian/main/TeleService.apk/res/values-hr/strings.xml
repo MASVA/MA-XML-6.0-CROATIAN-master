@@ -162,8 +162,8 @@
   <string name="cell_broadcast_sms">SMS iz mobilne mreže</string>
   <string name="cfb_title">Proslijedi kod zauzeća</string>
   <string name="cfnrc_title">Proslijedi kad je nedostupno</string>
-  <string name="cfnry_title">Proslijedi kad je neodgovoreno</string>
   <string name="cfnrc_title_cta">Proslijedi kad je nedostupno</string>
+  <string name="cfnry_title">Proslijedi kad je neodgovoreno</string>
   <string name="cfu_title">Uvijek proslijedi pozive</string>
   <string name="change_num">Ažuriraj</string>
   <string name="change_password">Promjena zaporke zabrane</string>
@@ -419,7 +419,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="managed_roaming_title">Roaming upravljanje</string>
   <string name="managed_roaming_title_sub1">Roaming upravljanje (SUB1)</string>
   <string name="managed_roaming_title_sub2">Roaming upravljanje (SUB2)</string>
-  <string name="managed_roaming_title_sub3">Roaming upravljanje (SUB3)</string> 
+  <string name="managed_roaming_title_sub3">Roaming upravljanje (SUB3)</string>
   <string name="menu_add">Dodaj kontakt</string>
   <string name="messageCFB">Preusmjeravanje poziva na</string>
   <string name="messageCFNRc">Preusmjeravanje poziva na</string>
@@ -796,6 +796,7 @@ Vaša SIM kartica bit će izbrisani nakon još jednog neuspjelog pokušaja."</st
   <string name="t9_indexing_rebuilding_message">Obnova T9 indeksa…</string>
   <string name="technology_news_disable">Vijesti iz tehnologije su isključene</string>
   <string name="technology_news_enable">Vijesti iz tehnologije su uključene</string>
+  <string name="telephony_setting">Postavke poziva</string>
   <string name="telocation_auto_country_code">Dodaj predbroj zemlje</string>
   <string name="telocation_auto_country_code_summary">Automatski dodaj predbroj prije biranja kontakata</string>
   <string name="telocation_call_assistant">Asistent biranja</string>
@@ -822,7 +823,6 @@ Vaša SIM kartica bit će izbrisani nakon još jednog neuspjelog pokušaja."</st
   <string name="telocation_number_type_tel">Fiksni</string>
   <string name="telocation_setting">Postavke lokcije</string>
   <string name="telocation_show_settings">Postavke zaslona</string>
-  <string name="telephony_setting">Postavke poziva</string>
   <string name="third_party_account_summary">Ovaj račun se koristi od strane %s.</string>
   <string name="throttle_current_usage">Podaci korišteni za trenutačno razdoblje</string>
   <string name="throttle_help">Saznajte više</string>

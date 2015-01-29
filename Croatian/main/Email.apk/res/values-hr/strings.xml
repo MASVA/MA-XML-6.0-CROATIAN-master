@@ -53,7 +53,7 @@
   <string name="account_settings_incoming_summary">Korisničko ime, zaporka i ostale postavke poslužitelja</string>
   <string name="account_settings_list_title">Odaberite davatelja usluga e-pošte:</string>
   <string name="account_settings_login_dialog_content_fmt">Netočno je korisničko ime ili zaporka za račun %s. Želite li to ažurirati sada?</string>
-  <string name="account_settings_login_dialog_reason_fmt" formatted="false">"Ne mogu se prijaviti u %s; Ovo je poruka poslužitelja: %s"</string> 
+  <string name="account_settings_login_dialog_reason_fmt" formatted="false">"Ne mogu se prijaviti u %s; Ovo je poruka poslužitelja: %s"</string>
   <string name="account_settings_login_dialog_title">Neuspjela prijava</string>
   <string name="account_settings_mail_check_frequency_label">Frekvencija sinkronizacije</string>
   <string name="account_settings_name_label">Vaše ime</string>
@@ -209,8 +209,8 @@
   <string name="add_video_attachment">Priloži videozapis</string>
   <string name="address_display_format">%1$s, %2$s</string>
   <string name="address_display_format_with_via_domain">%1$s, %2$s putem %3$s</string>
-  <string name="allread">Sve pročitano</string>
   <string name="all_folders_heading">Sve mape</string>
+  <string name="allread">Sve pročitano</string>
   <string name="always_bcc_myself">Uvijek šalji skrivenu kopiju sebi</string>
   <string name="always_show_images">Uvijek prikaži slike ovog pošiljatelja</string>
   <string name="always_show_images_toast">Slike ovog pošiljatelja automatski će se prikazati.</string>
@@ -387,23 +387,23 @@
   <string name="donot_disturb_starttime_title">Od</string>
   <string name="donot_disturb_summary">Vaš uređaj neće obavještavati o novim porukama u određeno vrijeme</string>
   <string name="donot_disturb_title">Ne uznemiravaj tijekom noći</string>
+  <string name="downlaod_cancel_confirm_download">Zaustavi</string>
+  <string name="downlaod_cancel_continue_download">Natrag</string>
+  <string name="downlaod_confirm_download">Preuzmi</string>
+  <string name="downlaod_nonWifi_confirm_message">Koristiti mobilnu podatkovnu vezu za preuzimanje ovog privitka?</string>
+  <string name="downlaod_nonWifi_confirm_title">Preuzeti ovaj privitak?</string>
   <string name="download_again">Preuzmi ponovo</string>
   <string name="download_before_sharing">" još nije završeno preuzimanje."</string>
   <string name="download_before_view">"Ova poruka još nije preuzeta."</string>
-  <string name="downlaod_cancel_confirm_download">Zaustavi</string>
-  <string name="downlaod_cancel_continue_download">Natrag</string>
   <string name="download_cancel_confirm_message">Preuzimanje će biti zaustavljeno</string>
   <string name="download_cancel_confirm_title">Preuzimanje ovog privitka</string>
-  <string name="downlaod_confirm_download">Preuzmi</string>
+  <string name="download_complete_not_cancel">Preuzimanje završeno</string>
   <string name="download_confirm_message">Preuzeti %1$s privitak?</string>
   <string name="download_confirm_title">Preuzimanje privitka</string>
-  <string name="download_complete_not_cancel">Preuzimanje završeno</string>
   <string name="download_failed">"Ne mogu preuzeti. Dodirnite za ponovni pokušaj."</string>
   <string name="download_show_image">Preuzmi i prikaži sliku</string>
-  <string name="downlaod_nonWifi_confirm_message">Koristiti mobilnu podatkovnu vezu za preuzimanje ovog privitka?</string> 
-  <string name="downlaod_nonWifi_confirm_title">Preuzeti ovaj privitak?</string>
-  <string name="downloading_message_body">Preuzimanje…</string>  
-  <string name="draft_count_format"> (%1$s)</string>  
+  <string name="downloading_message_body">Preuzimanje…</string>
+  <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Zatvaranje pretinca za navigaciju</string>
   <string name="drawer_open">Otvaranje pretinca za navigaciju</string>
   <string name="eas_template">domena\\korisnik</string>
@@ -756,9 +756,9 @@ Kopija: %4$s
   <string name="preferences_default_reply_all_summary">Upotrijebi kao zadano za odgovore na poruke</string>
   <string name="preferences_default_reply_all_title">Odgovori svima</string>
   <string name="preferences_signature_dialog_title">Potpis</string>
-  <string name="prefetched_got_it">U redu</string>
   <string name="preferences_signature_summary_not_set">Nije postavljeno</string>
   <string name="preferences_signature_title">Potpis</string>
+  <string name="prefetched_got_it">U redu</string>
   <string name="preview_attachment">Pregled</string>
   <string name="previous_action">Prethodno</string>
   <string name="prompt_title">Pitaj</string>

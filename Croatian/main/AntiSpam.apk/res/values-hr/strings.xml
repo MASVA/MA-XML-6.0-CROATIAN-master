@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="ACaddnumcontent">Unesite pozivni broj</string>
   <string name="ACaddnumtitle">Dodati predbroj broja telefona u iznimke</string>
@@ -30,8 +30,8 @@
   <string name="SMS_BLACKLIST">Lista blokiranih SMS-a</string>
   <string name="SMS_DEFAULT">Pametno blokiranje</string>
   <string name="SMS_KEYWORDS">Lista blokiranih ključnih riječi</string>
-  <string name="SMS_SERVICE">Usluga liste blokiranih</string>
   <string name="SMS_PREFIX">Lista blokiranih predbrojeva</string>
+  <string name="SMS_SERVICE">Usluga liste blokiranih</string>
   <string name="SMSpass">Dopusti SMS</string>
   <string name="STRANGER_BLOCK">Lista blokiranih nep. brojeva</string>
   <string name="ad_block_hint">Blokirano: %d</string>

@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="allow_backup_button_label">Stvori sigurnosnu kopiju mojih podataka</string>
   <string name="allow_restore_button_label">Obnovi moje podatke</string>
@@ -21,4 +21,4 @@ Ako niste osobno zatražili obnovu podataka, nemojte dozvoliti nastavak radnje. 
   <string name="toast_restore_ended">Obnova podataka je završena</string>
   <string name="toast_restore_started">Započinje obnova podataka…</string>
   <string name="toast_timeout">Radnja je prekinuta zbog isteka vremena</string>
-</resources> 
+</resources>

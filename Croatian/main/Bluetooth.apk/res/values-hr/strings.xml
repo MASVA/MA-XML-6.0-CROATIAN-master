@@ -1,5 +1,6 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="ErrorTooManyRequests">"U obradi je previše zahtjeva. Pokušajte ponovo kasnije."</string>
   <string name="ack_record">Ack zapis</string>
   <string name="airplane_error_msg">Bluetooth se ne može upotrebljavati u Zrakoplovnom načinu.</string>
   <string name="airplane_error_title">"Zrakoplovni način"</string>
@@ -56,7 +57,6 @@
   <string name="empty_file_notification_sent">Bluetooth dijeljenje: Daljinski odbijena datoteku nulte duljine  %1$s</string>
   <string name="enabling_progress_content">Uključivanje Bluetootha…</string>
   <string name="enabling_progress_title">Pričekajte…</string>
-  <string name="ErrorTooManyRequests">"U obradi je previše zahtjeva. Pokušajte ponovo kasnije."</string>
   <string name="hello">Zdravo svijete, testna aktivnost</string>
   <string name="inbound_history_title">Dolazni prijenosi</string>
   <string name="inbound_noti_title">Dijeljenje Bluetoothom: Primljene datoteke</string>
@@ -84,7 +84,7 @@ Prihvaćate li datoteku?"</string>
   <string name="mi_key_alert_dialog_title">MiKey Upozorenje</string>
   <string name="mi_key_find_mikey">Pronađi MiKey</string>
   <string name="mi_key_find_phone">Pronađi phone</string>
-  <string name="mi_key_take_photo">Snimi fotografiju</string> 
+  <string name="mi_key_take_photo">Snimi fotografiju</string>
   <string name="miui_transfer_history_title">Bluetooth prijenosi</string>
   <string name="miui_transfer_inbound_title">Dolazno</string>
   <string name="miui_transfer_outbound_title">Odlazno</string>
@@ -111,8 +111,8 @@ Prihvaćate li datoteku?"</string>
   <string name="permdesc_bluetoothShareManager">Aplikaciji omogućuje pristup upravitelju za Bluetooth Dijeljenje i njegovu upotrebu za prijenos datoteka.</string>
   <string name="permdesc_bluetoothWhitelist">Omogućuje aplikaciji privremeno stavljanje Bluetooth uređaja na popis dopuštenih uređaja, čime mu omogućuje da šalje datoteke na ovaj uređaj bez potvrde korisnika.</string>
   <string name="permdesc_handoverStatus">Omogućuje primanje informacija o statusu prijenosa s Bluetooth uređaja.</string>
-  <string name="permlab_bluetoothShareManager">Pristupite upravitelju za preuzimanje.</string>
   <string name="permlab_bluetoothMap">Pristup Bluetooth Message Access Profile davatelju sadržaja.</string>
+  <string name="permlab_bluetoothShareManager">Pristupite upravitelju za preuzimanje.</string>
   <string name="permlab_bluetoothWhitelist">Stavi pristup Bluetooth uređaja na popis dopuštenih pristupa.</string>
   <string name="permlab_handoverStatus">Primaj prijenose s Bluetooth uređaja.</string>
   <string name="process"/>
@@ -152,4 +152,4 @@ Prihvaćate li datoteku?"</string>
   <string name="upload_succ_line5">Datoteka poslana</string>
   <string name="upload_succ_ok">"U redu"</string>
   <string name="upload_success">%1$s Poslano u potpunosti.</string>
-</resources> 
+</resources>

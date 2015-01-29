@@ -181,7 +181,7 @@ i može primati datoteke."</string>
   <string name="share_item_not_found">Datoteka ne postoji za dijeljenje</string>
   <string name="share_message">Dijeljenih datoteka: %1$s</string>
   <string name="share_msg_model">"Podijelio sam datoteku s vama:
-na [ %1$s ]"</string>	
+na [ %1$s ]"</string>
   <string name="share_text">MIUI v5 podržava prijenos datoteka bez korištenja mobilnih podataka. Ne-MIUI v5 korisnici preuzmite: %1$s</string>
   <string name="shortmessage">Kratka poruka</string>
   <string name="start">Započni</string>

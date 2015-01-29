@@ -96,8 +96,8 @@
   <string name="cn_7">7</string>
   <string name="cn_8">8</string>
   <string name="cn_9">9</string>
-   <string name="combo_customize_desc">"Paket se može postaviti klikom
-na dnu popisa"</string>   
+  <string name="combo_customize_desc">"Paket se može postaviti klikom
+na dnu popisa"</string>
   <string name="combo_edit">Uredi</string>
   <string name="combo_edit_title">Uredi paket</string>
   <string name="combo_saveas_already_saved_desc">Trenutne postavke paketa su spremljene</string>
@@ -196,10 +196,10 @@ Tijekom uporabe, ostale funkcije MiKey su nedostupne."</string>
   <string name="scan_result">Rezultati skeniranja</string>
   <string name="screenkey_disabled">Tipka zaslona onemogućena</string>
   <string name="screenkey_enabled">Tipka zaslona omogućena</string>
+  <string name="screenkey_title">Shield tipka</string>
   <string name="screenshot_crop">Obreži</string>
   <string name="screenshot_full">Cijeli zaslon</string>
   <string name="scrennshot_select_title">Odaberite način Snimke zaslona</string>
-  <string name="screenkey_title">Shield tipka</string>
   <string name="sdcard">SD kartica</string>
   <string name="search_baidu_text">Baidu</string>
   <string name="search_cancel_text">Odustani</string>

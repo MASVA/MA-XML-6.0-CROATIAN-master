@@ -20,8 +20,6 @@ Okrenite uređaj, tako da je ulaz za slušalice okrenut prema dolje. Govorite u 
   <string name="cit_audio_loopback_check_summary_second">"Testiranje desnog zvučnika sekundarnog mikrofona.
 
 Okrenite uređaj, tako da je ulaz za slušalice okrenut prema dolje. Govorite u mikrofon. Trebali bi čuti vaš glas reproduciran preko desnog zvučnika."</string>
-
-
   <string name="cit_audio_loopback_check_two_title">Testiranje mikrofona za zvučnik</string>
   <string name="cit_audio_loopback_dualmic_earpiece_title">Testiranje zvuka poziva</string>
   <string name="cit_audio_loopback_next">Dalje</string>
@@ -165,9 +163,9 @@ informacije prikazane su od 0.0 (pokriveno)) pa naviše po veličini</string>
   <string name="cit_sd_mount_sucess">Uspješno učitana SD kartica</string>
   <string name="cit_sd_mp3_not_existed">"Datoteka music.mp3 se ne može naći u root-u SD kartice, 
 dodajte datoteku i pokušajte ponoviti testiranje reprodukcije."</string>
-  <string name="cit_sd_plugin_check_summary">Ovo testiranje će otkriti učitano stanje SD kartice, na zaslonu će se prikazati "SD kartica je učitana"</string>
   <string name="cit_sd_plugged_in">SD kartica učitana, uklonite SD kartice</string>
   <string name="cit_sd_plugged_out">SD kartica nije učitana, učitajte SD karticu</string>
+  <string name="cit_sd_plugin_check_summary">Ovo testiranje će otkriti učitano stanje SD kartice, na zaslonu će se prikazati "SD kartica je učitana"</string>
   <string name="cit_sd_plugin_check_title">Testiranje učitavanja SD kartice</string>
   <string name="cit_sd_plugout_check_summary">Ovo testiranje će otkriti neučitano stanje SD kartice, na zaslonu će se prikazati "SD kartica nije učitana</string>
   <string name="cit_sd_plugout_check_title">Testiranje isključivanja SD kartice</string>

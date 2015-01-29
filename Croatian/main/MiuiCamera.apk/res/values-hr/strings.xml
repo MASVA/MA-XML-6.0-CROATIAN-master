@@ -2,8 +2,8 @@
 <resources>
   <string name="access_sd_fail">"Ne mogu pristupiti USB pohrani."</string>
   <string name="accessibility_camera_picker">Sklopka prednje/stražnje kamere</string>
-  <string name="accessibility_hdr">HDR tipka</string>
   <string name="accessibility_flash_mode_button">Bljeskalica</string>
+  <string name="accessibility_hdr">HDR tipka</string>
   <string name="accessibility_more_ptions_closed">Više opcija onemogućene</string>
   <string name="accessibility_panorama_review_cancel">Odustani</string>
   <string name="accessibility_review_thumbnail">Najnovije fotografije</string>
@@ -86,9 +86,7 @@
   <string name="pref_camera_autoexposure_entry_frameaverage">Prosječan okvir</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Mjerenje mjesta</string>
   <string name="pref_camera_autoexposure_title">Postavke autom. ekspozicije</string>
-  <string name="pref_camera_delay_capture_entry_audio">Audio</string>
-  <string name="pref_camera_delay_capture_title">Odbrojavanje</string>
-  <string name="pref_camera_coloreffect_entry_aqua" />
+  <string name="pref_camera_coloreffect_entry_aqua"/>
   <string name="pref_camera_coloreffect_entry_brannan">Zora</string>
   <string name="pref_camera_coloreffect_entry_earlybird">Jesen</string>
   <string name="pref_camera_coloreffect_entry_fisheye">Riblje oko</string>
@@ -98,10 +96,10 @@
   <string name="pref_camera_coloreffect_entry_mono">Mono</string>
   <string name="pref_camera_coloreffect_entry_mosaic">Mozaik</string>
   <string name="pref_camera_coloreffect_entry_nashvile">Indigo</string>
-  <string name="pref_camera_coloreffect_entry_negative" />
+  <string name="pref_camera_coloreffect_entry_negative"/>
   <string name="pref_camera_coloreffect_entry_none">Normalno</string>
-  <string name="pref_camera_coloreffect_entry_posterize" />
-  <string name="pref_camera_coloreffect_entry_sepia" />
+  <string name="pref_camera_coloreffect_entry_posterize"/>
+  <string name="pref_camera_coloreffect_entry_sepia"/>
   <string name="pref_camera_coloreffect_entry_seventy">1970s</string>
   <string name="pref_camera_coloreffect_entry_sketch">Crtarija</string>
   <string name="pref_camera_coloreffect_entry_vivid">Vivid</string>
@@ -110,6 +108,8 @@
   <string name="pref_camera_coloreffect_title">Filteri</string>
   <string name="pref_camera_contrast_title">Kontrast</string>
   <string name="pref_camera_countdown_title">Odbrojavanje</string>
+  <string name="pref_camera_delay_capture_entry_audio">Audio</string>
+  <string name="pref_camera_delay_capture_title">Odbrojavanje</string>
   <string name="pref_camera_exposuretime_entry_0.5">2s</string>
   <string name="pref_camera_exposuretime_entry_1">1s</string>
   <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
@@ -143,8 +143,8 @@
   <string name="pref_camera_hdr_entry_auto">Auto</string>
   <string name="pref_camera_hdr_entry_live">Uživo</string>
   <string name="pref_camera_hdr_entry_normal">Normalno</string>
-  <string name="pref_camera_hdr_title">HDR</string>
   <string name="pref_camera_hdr_entry_off">Isključeno</string>
+  <string name="pref_camera_hdr_title">HDR</string>
   <string name="pref_camera_hfr_entry_2x">60</string>
   <string name="pref_camera_hfr_entry_3x">90</string>
   <string name="pref_camera_hfr_entry_4x">120</string>
@@ -205,8 +205,8 @@
   <string name="pref_camera_picturesize_entry_4208x3120">13M(4208x3120)</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Cijeli zaslon 16:9</string>
   <string name="pref_camera_picturesize_entry_standard">Standardno 4:3</string>
-  <string name="pref_camera_picturesize_title_simple_mode">Okvir fotoaparata</string>
   <string name="pref_camera_picturesize_title">Veličina fotografije</string>
+  <string name="pref_camera_picturesize_title_simple_mode">Okvir fotoaparata</string>
   <string name="pref_camera_recordlocation_entry_off">Isključeno</string>
   <string name="pref_camera_recordlocation_entry_on">Uključeno</string>
   <string name="pref_camera_recordlocation_title">Spremanje lokacije</string>

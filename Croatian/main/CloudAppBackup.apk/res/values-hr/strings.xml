@@ -21,7 +21,7 @@
   <string name="cancel_recover_settings">&lt;u&gt;Odustani&lt;/u&gt;</string>
   <string name="cloud_app_backup_already">" je napravljena Sig. kopija"</string>
   <string name="cloud_app_backup_cancel">Otkazivanje…</string>
-  <string name="cloud_app_backup_cancel_prompt_message">"Sig. kopija nije završena, svejedno zaustaviti?"</string> 
+  <string name="cloud_app_backup_cancel_prompt_message">"Sig. kopija nije završena, svejedno zaustaviti?"</string>
   <string name="cloud_app_backup_cancel_prompt_title">Zaustaviti izradu Sig. kopije?</string>
   <string name="cloud_app_backup_date">"Sig. kopija napravljena na "</string>
   <string name="cloud_app_backup_pending">Čekanje…</string>

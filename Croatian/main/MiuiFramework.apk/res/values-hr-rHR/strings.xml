@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alwaysUsePrompt">"Zapamti ovaj izbor"</string>
   <string name="anniversary_of_lifting_martial_law"/>
@@ -184,4 +184,4 @@ Za uključivanje ove značajke, idite na Postavke &gt; Dodatne postavke &gt; Tip
   <string name="yellow_page_sms_send_failed">"Ne mogu poslati SMS poruku"</string>
   <string name="yellow_page_sms_sending">Šaljem…</string>
   <string name="yellow_page_unable_send_sms">Ne mogu poslati SMS poruku.</string>
-</resources> 
+</resources>

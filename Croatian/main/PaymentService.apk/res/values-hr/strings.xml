@@ -56,7 +56,7 @@ Slijedite upute kako biste dovršili narudžbu.</string>
   <string name="button_confirm">Potvrdi</string>
   <string name="button_count_down_finish">U redu(%1$s)</string>
   <string name="button_count_down_reget">%1$s</string>
-  <string name="button_custom_service_phone">Razumijem</string>  
+  <string name="button_custom_service_phone">Razumijem</string>
   <string name="button_next">Dalje</string>
   <string name="button_pay">Potvrdi</string>
   <string name="button_recharge_pay">Potvrdi</string>
@@ -105,7 +105,7 @@ Kontaktirajte Xiaomi službu za korisnike."</string>
   <string name="fee_with_giftcard"> (Uključuje%1$s)</string>
   <string name="fee_with_mibi_giftcard"> %1$s-Mi Krediti poklon kartica</string>
   <string name="fee_with_partner_giftcard"> %1$s-Mi Krediti %2$s</string>
-  <string name="forget_password"><u>Zaboravio sam zaporku</u></string>
+  <string name="forget_password">&lt;u&gt;Zaboravio sam zaporku&lt;/u&gt;</string>
   <string name="format_date">MMM. dd, yyyy</string>
   <string name="format_time">MMM dd, yyyy hh:mmaa</string>
   <string name="frozen">Blokiran</string>
@@ -126,7 +126,6 @@ potrošeni prvi automatski"</string>
   <string name="giftcard_record">Moje poklon kartice</string>
   <string name="giftcard_title">Mi Krediti poklon kartice</string>
   <string name="giftcard_value">Uključuje %1$s-Mi Krediti poklon karticu</string>
-  <string name="progress_mipay_creating">Stvaranje narudžbe…</string>
   <string name="illegal_intent">Ilegalan zahtjev namjere</string>
   <string name="label_balance">Stanje:</string>
   <string name="label_giftcard">Poklon kartica:</string>
@@ -232,6 +231,7 @@ potrošeni prvi automatski"</string>
   <string name="progress_error_recharge_summary">Nadoplata nije uspjela! Pokušajte ponovno kasnije.</string>
   <string name="progress_error_recharge_title">Nadoplata nije uspjela</string>
   <string name="progress_loading">Obrada…</string>
+  <string name="progress_mipay_creating">Stvaranje narudžbe…</string>
   <string name="progress_msg_creating">Stvaranje narudžbe…</string>
   <string name="progress_paytool_creating">Stvaranje %1$s narudžbe…</string>
   <string name="progress_paytool_installing">Instaliranje %1$s plugina mobilne sigurnosti…</string>
@@ -247,7 +247,7 @@ potrošeni prvi automatski"</string>
   <string name="progress_voucher_creating">Dodavanje Mi Kredita na vaš račun, molimo pričekajte…</string>
   <string name="progress_warning_check_with_contact">"Plaćanje nije primljeno. 
 Provjeriti ćemo za dva radna dana.
-Informacije na broj: 400-100-5678 "</string>  
+Informacije na broj: 400-100-5678 "</string>
   <string name="progress_warning_waiting">"Plaćanje još nije dodano na vaš ​​račun."</string>
   <string name="recharge_alipay_title">Alipay</string>
   <string name="recharge_bankcall_title">Bankovna kartica</string>
@@ -256,8 +256,8 @@ Informacije na broj: 400-100-5678 "</string>
   <string name="recharge_grid_error_denomination">Unesite točan iznos između ￥%1$s~%2$s</string>
   <string name="recharge_grid_item_more">Više</string>
   <string name="recharge_grid_picker_hint">Odaberite iznos</string>
-  <string name="recharge_group_favorite">Koristite prethodan način nadoplate</string>
   <string name="recharge_group_familiar">Uobičajeni načini</string>
+  <string name="recharge_group_favorite">Koristite prethodan način nadoplate</string>
   <string name="recharge_group_others">Drugi načini nadoplate</string>
   <string name="recharge_message_title">Tekst poruke</string>
   <string name="recharge_notification">Nadoplaćeno: %1$s Mi Kredita</string>

@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Prostor za pohranu kontakata</string>
   <string name="call_log_provider_label">Zapis poziva</string>
@@ -26,4 +26,4 @@
   <string name="upgrade_out_of_memory_notification_ticker">Za nadogradnju kontakata potrebno je više memorije.</string>
   <string name="upgrade_out_of_memory_notification_title">Nadogradnja pohrane za kontakte</string>
   <string name="voicemail_from_column">Govorna pošta od </string>
-</resources> 
+</resources>

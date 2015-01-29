@@ -1,7 +1,6 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accept">U redu</string>
-  <string name="app_name">Xiaomi Aktivacija</string>
   <string name="activate">Aktiviraj</string>
   <string name="activate_feature_call_log_sync">Sinkr. povijest poziva</string>
   <string name="activate_feature_find_device">Pronađi uređaj</string>
@@ -79,6 +78,7 @@
   <string name="activate_status_desc_wait_for_sms_success">SMS aktivacije s poslužitelja uspješno primljen</string>
   <string name="activate_status_title_activating">Aktivacija SIM kartice</string>
   <string name="activate_status_title_activating_msim">Aktivacija SIM karticu %s</string>
+  <string name="app_name">Xiaomi Aktivacija</string>
   <string name="error_device_id_message">"Neispravan ID Uređaja: %s
 ID Uređaja mora biti valjana IMEI ili MAC adresa. Bez ID Uređaja, neki računi i cloud značajke neće biti raspoložive."</string>
   <string name="error_device_id_title">"Ne mogu dobiti valjani ID Uređaja"</string>
@@ -86,4 +86,4 @@ ID Uređaja mora biti valjana IMEI ili MAC adresa. Bez ID Uređaja, neki računi
   <string name="sync_notification_title_format">Sinkroniziram: %1$s</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmsf_activate_info">XMSF detalji aktivacije</string>
-</resources> 
+</resources>

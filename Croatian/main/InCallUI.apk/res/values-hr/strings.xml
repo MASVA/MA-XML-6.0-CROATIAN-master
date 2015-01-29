@@ -10,10 +10,10 @@
   <string name="additional_cdma_call_settings">Dodatne CDMA postavke poziva</string>
   <string name="additional_gsm_call_settings">Dodatne postavke poziva</string>
   <string name="administrative_disable">Upravljanje onemogućeno</string>
-  <string name="administrative_enable">>Upravljanje omogućeno</string>
+  <string name="administrative_enable">&gt;Upravljanje omogućeno</string>
   <string name="advanced_settings">Opcijske postavke</string>
-  <string name="advanced_settings_hide">▽ Dodirni za sakriti sve</string>
   <string name="advanced_settings_container">Napredne postavke spremnika</string>
+  <string name="advanced_settings_hide">▽ Dodirni za sakriti sve</string>
   <string name="advanced_settings_show">▷ Dodirni za prikazati sve</string>
   <string name="advertisements_disable">Oglašavanja onemogućena</string>
   <string name="advertisements_enable">Oglašavanja omogućena</string>

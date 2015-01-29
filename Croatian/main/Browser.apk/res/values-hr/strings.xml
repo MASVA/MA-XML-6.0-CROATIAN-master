@@ -79,6 +79,7 @@
   <string name="block_ads_choice_continue">Nastavi</string>
   <string name="block_ads_message">Želite li blokirati poruke s ove web stranice?</string>
   <string name="block_ads_title">Sadržaj može sadržavati reklame</string>
+  <string name="bookmark_URL_already_exisit">"Već ste označili ovaj URL"</string>
   <string name="bookmark_add_group_text_header">Dodaj odabrano %1$d u grupu</string>
   <string name="bookmark_add_to">Dodaj u</string>
   <string name="bookmark_cannot_save_url">"Ovaj se URL ne može spremiti kao oznaka."</string>
@@ -96,7 +97,6 @@
   <string name="bookmark_to_readmodelist_not_saved">"Nije uspjelo spremanje na popis čitanja."</string>
   <string name="bookmark_to_readmodelist_saved">Spremljeno na popis čitanja.</string>
   <string name="bookmark_url">URL http://</string>
-  <string name="bookmark_URL_already_exisit">"Već ste označili ovaj URL"</string>
   <string name="bookmark_url_lable">URL</string>
   <string name="bookmark_url_not_valid">"Ovaj URL nije valjan."</string>
   <string name="bookmarks">Oznake</string>
@@ -614,8 +614,8 @@
   <string name="search_yahoo">Yahoo!</string>
   <string name="search_yicha">Yicha</string>
   <string name="security_warning">Sigurnosno upozorenje</string>
-  <string name="select_download_device">Izaberi uređaj</string>
   <string name="select_dot">Odaberi tekst</string>
+  <string name="select_download_device">Izaberi uređaj</string>
   <string name="send_bookmark_to_home_screen">Pošalji na početni zaslon</string>
   <string name="send_to_popular">Popularno</string>
   <string name="set_as_homepage">Postavi kao početnu stranicu</string>

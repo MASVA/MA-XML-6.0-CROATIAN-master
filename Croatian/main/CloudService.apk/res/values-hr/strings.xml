@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_denied">Pristup odbijen</string>
   <string name="account">Račun</string>
@@ -101,7 +101,7 @@ na vaš Mi Račun za aktiviranje Mi Cloud."</string>
   <string name="micloud_detail_syncing">Sinkroniziram</string>
   <string name="micloud_detail_wlan">%d čeka na sinkr.</string>
   <string name="micloud_detail_wlan_contact">%d slika konatakata čeka na sinkr.</string>
-  <string name="micloud_detail_wlan_mms">%d MMS-a čeka na sinkr.</string> 
+  <string name="micloud_detail_wlan_mms">%d MMS-a čeka na sinkr.</string>
   <string name="micloud_dspt">Koristite Mi Cloud za sinkronizaciju podataka, pronađete svoj ​​uređaj,</string>
   <string name="micloud_dspt_provision">Koristite Mi Cloud za sinkronizaciju podataka, pronađete svoj ​​uređaj, i podijelite stvari s prijateljima.</string>
   <string name="micloud_first_login_summary"/>
@@ -159,7 +159,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
  Iskorišteno %s | Preostalo %s"</string>
   <string name="micloud_title_dspt_remain">%s preostalo</string>
   <string name="micloud_title_full_dspt">"Dosegli ste ograničenje kapaciteta pohrane!"</string>
-  <string name="micloud_unlogin_for_time_summary" />
+  <string name="micloud_unlogin_for_time_summary"/>
   <string name="micloud_unlogin_for_time_title">Mi Cloud</string>
   <string name="micloud_upgrade_space">nabavite više Prostora za pohranu</string>
   <string name="micloud_user_space_title">Prostor za pohranu</string>
@@ -175,7 +175,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="microsoft_cloud">Microsoft Cloud Service</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">Oko 80 RMB godišnje</string>
-  <string name="more_activity_in_upgrade_space">Saznajte više na <a href="http://i.mi.com">i.mi.com</a></string>
+  <string name="more_activity_in_upgrade_space">Saznajte više na &lt;a href="http://i.mi.com"&gt;i.mi.com&lt;/a&gt;</string>
   <string name="mx_dspt">Mi Poruke</string>
   <string name="mx_dspt_provision">"Mi Poruke omogućuju vam slanje poruka drugim MIUI korisnicima bez dodatnih SMS troškova.
   
@@ -243,13 +243,13 @@ Sinkronizirajte vaše fotografije, kontakte, bilješke, i više između svih va�
   <string name="sync_sub_int_dspt">Aktivacijski SMS poruka podliježe naknadama međunarodnog prometa uporabe podataka.</string>
   <string name="title_reg">Napravite MiRačun</string>
   <string name="total_space_upgraded_to">Ukupan prostor: %s</string>
+  <string name="unactivated_user">Odjavljeno</string>
   <string name="upgrade_space">Dodaj prostor</string>
   <string name="upgrade_space_gb">GB</string>
   <string name="upgrade_space_mibipreyear">%s Mi Kredita godišnje</string>
   <string name="upgrade_space_successful">Dodano: %sGB</string>
   <string name="upgrade_space_successful_total">Dostupno: %sGB</string>
   <string name="upgrade_space_tb">TB</string>
-  <string name="unactivated_user">Odjavljeno</string>
   <string name="user_agreement">Korisnički Sporazum</string>
   <string name="user_agreement_p6">"
   
@@ -264,4 +264,4 @@ Sinkronizirajte vaše fotografije, kontakte, bilješke, i više između svih va�
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmpp_server_addr"/>
-</resources> 
+</resources>

@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Alat za instaliranje certifikata</string>
   <string name="cert_is_added">%s je instaliran.</string>
@@ -31,4 +31,4 @@
   <string name="sdcard_not_present">"USB pohrana nije dostupna."</string>
   <string name="storage_error">"Nije bilo moguće spremiti certifikat. Dodirnite U redu za ponovni pokušaj."</string>
   <string name="unable_to_save_cert">"Nije bilo moguće spremiti certifikat. Pohranjivanje vjerodajnica nije omogućeno ili nije ispravno pokrenuto."</string>
-</resources> 
+</resources>

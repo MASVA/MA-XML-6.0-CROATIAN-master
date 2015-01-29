@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_settings">O uređaju</string>
   <string name="about_settings_summary">Prikaži pravne informacije, status, verziju softvera</string>
@@ -1000,7 +1000,7 @@ Ako je tekst vašeg sustava još uvijek premalen, pokušajte koristiti "</string
   <string name="global_font_change_title">Promijeni veličinu fonta</string>
   <string name="global_locale_change_title">Promijeni jezik</string>
   <string name="google_backup_section_title">Google pohrana &amp; obnova</string>
-  <string name="gsm_to_wifi_connect_type_title">GSM -> WLAN</string>
+  <string name="gsm_to_wifi_connect_type_title">GSM -&gt; WLAN</string>
   <string name="handy_mode">Upravljanje jednom rukom</string>
   <string name="handy_mode_enable">Upravljanje jednom rukom</string>
   <string name="handy_mode_size">Veličina zaslona</string>
@@ -2896,4 +2896,4 @@ Postavljanje uređaja može zahtijevati znatnu mrežnu aktivnost."</string>
   <string name="zone_auto_summaryOn">Upotrijebi vremensku zonu mreže</string>
   <string name="zone_list_menu_sort_alphabetically">Poredaj abecedno</string>
   <string name="zone_list_menu_sort_by_timezone">Poredaj po vremenskoj zoni</string>
-</resources> 
+</resources>

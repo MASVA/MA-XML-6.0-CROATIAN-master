@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_device">O telefonu</string>
   <string name="active_xiaomi_account">Aktivno</string>
@@ -187,4 +187,4 @@ Ali možete sudjelovati sljedeći utorak."</string>
   <string name="view_upgrade_tutorial">"Prikaži vodič"</string>
   <string name="weekly_build">Tjedno izdanje</string>
   <string name="worst_update">Najgore ažuriranje do sad</string>
-</resources> 
+</resources>

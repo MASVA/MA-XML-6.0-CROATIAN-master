@@ -223,7 +223,7 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="pref_camera_coloreffect_entry_sketch"/>
   <string name="pref_camera_coloreffect_entry_vivid"/>
   <string name="pref_camera_coloreffect_entry_xproii"/>
-  <string name="pref_camera_coloreffect_entry_yesteryear"/>  
+  <string name="pref_camera_coloreffect_entry_yesteryear"/>
   <string name="pref_camera_coloreffect_title">Filter</string>
   <string name="pref_camera_contrast_title">Kontrast</string>
   <string name="pref_camera_current_k_value">Trenutna vrijednost</string>
@@ -414,12 +414,12 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="pref_grp_picture_settings">Postavke slike</string>
   <string name="pref_grp_restore_settings">Vraćanje zadanih postavki</string>
   <string name="pref_manual_exposure_title">Ručna ekspozicija</string>
+  <string name="pref_priority_storage_title">Spremi na vanjsku SD karticu</string>
   <string name="pref_scan_qrcode_entry_off">Isključeno</string>
   <string name="pref_scan_qrcode_entry_on">Uključeno</string>
   <string name="pref_scan_qrcode_title">Skeniraj QR kod</string>
   <string name="pref_setting_title">Postavke</string>
   <string name="pref_settings_mode">Način rada Fotoaparata</string>
-  <string name="pref_priority_storage_title">Spremi na vanjsku SD karticu</string>
   <string name="pref_touch_down_capture_title">Touch Down Capture</string>
   <string name="pref_video_captrue_ability_title">Sposobnost Snimanja</string>
   <string name="pref_video_fast_speed_title_simple_mode">Video sporog gibanja</string>
@@ -505,8 +505,8 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="spaceIsLow_content">USB memoriji ponestaje prostora. Promijenite postavke kvalitete ili izbrišite neke slike ili druge datoteke.</string>
   <string name="success_message_import_from_account">Uspješno uvezeno</string>
   <string name="tags">Oznake</string>
-  <string name="tap_to_focus">Dodirnite za fokus</string>
   <string name="tap_to_exposure">Dodirom odmjerite</string>
+  <string name="tap_to_focus">Dodirnite za fokus</string>
   <string name="time">Vrijeme</string>
   <string name="time_lapse_error">Nevažeća veličina videa za odmak vremena snimanja.</string>
   <string name="times">Vremena</string>

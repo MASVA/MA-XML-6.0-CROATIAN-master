@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_account_desc">Sinkronizirati vaše bilješke s vašim Mi Računom?</string>
   <string name="alarm_bar_title">Podsjetnik</string>
@@ -105,4 +105,4 @@
   <string name="widget_content_loading">Učitavanje…</string>
   <string name="widget_havenot_content">Nema povezanih bilješki.</string>
   <string name="widget_under_privacy_mode">"Ne mogu prikazati bilješku u Gost načinu rada"</string>
-</resources> 
+</resources>

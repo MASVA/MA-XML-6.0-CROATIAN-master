@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alwaysUsePrompt">"Zapamti ovaj izbor (više ne pitaj)"</string>
   <string name="anniversary_of_lifting_martial_law"/>
@@ -51,7 +51,6 @@
   <string name="hoar_frost_falls"/>
   <string name="insects_awaken"/>
   <string name="international_womens_day">Međunarodni dan žena</string>
-  <string name="labour_day">Praznik rada</string>
   <string name="key_btn_space">Razmak</string>
   <string name="labour_day"/>
   <string name="lantern_festival"/>
@@ -145,4 +144,4 @@
   <string name="yellow_page_sms_send_failed">Slanje SMS poruke nije uspjelo.</string>
   <string name="yellow_page_sms_sending">Slanje…</string>
   <string name="yellow_page_unable_send_sms">Ne mogu poslati SMS poruku.</string>
-</resources> 
+</resources>

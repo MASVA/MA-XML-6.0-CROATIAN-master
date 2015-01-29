@@ -19,8 +19,6 @@
   <string name="add_smiley">Smješko</string>
   <string name="add_timing">Vrijeme</string>
   <string name="add_video">Dodaj videozapis</string>
-  <string name="audio_download_failed">"Ne mogu preuzeti zvuk"</string>
-  <string name="audio_playing_seconds">%d\"</string>
   <string name="adding_attachments">Pričekajte završetak dodavanja stavki u dijaprojekciju.</string>
   <string name="adding_attachments_title">Dodavanje privitaka</string>
   <string name="adding_recipients">Dodavanje primatelja…</string>
@@ -36,6 +34,8 @@
   <string name="attach_subject">Predmet</string>
   <string name="attach_take_photo">Snimi sliku</string>
   <string name="attach_video">Videozapisi</string>
+  <string name="audio_download_failed">"Ne mogu preuzeti zvuk"</string>
+  <string name="audio_playing_seconds">%d\"</string>
   <string name="back_to_message_list">natrag na popis poruka</string>
   <string name="batch_adding_progress_message">Dodavanje…</string>
   <string name="batch_delete_confirm_dialog_message">Jeste li sigurni da želite obrisati odabranu %1$s poruku(e)?</string>
@@ -182,8 +182,8 @@
   <string name="hint_search_sms">%d SMS-a</string>
   <string name="hms_add_image_progress_message">Obrada…</string>
   <string name="hms_first_use_tips">Za primanje poruka usluga mora biti povezana na WLAN mrežu</string>
-  <string name="importing_progress_private_message">Uvoz…</string>
   <string name="hms_uri_param_err">"URL ne može biti prazan"</string>
+  <string name="importing_progress_private_message">Uvoz…</string>
   <string name="in_sms">Poruka</string>
   <string name="insufficient_drm_rights">Otkrivena su nedostatna DRM prava.</string>
   <string name="invalid_conversation">Nevažeći razgovor</string>
@@ -379,9 +379,9 @@
   <string name="quick_reply">Odgovori</string>
   <string name="rate_limit_surpassed">U redu</string>
   <string name="received_label">"Primljeno: "</string>
-  <string name="recording_failed">"Ne mogu snimiti"</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">"Primatelj: "</string>
+  <string name="recording_failed">"Ne mogu snimiti"</string>
   <string name="refill_now">Nadoplati sada</string>
   <string name="refresh">Osvježi</string>
   <string name="refresh_failed">Ažuriranje neuspjelo</string>
