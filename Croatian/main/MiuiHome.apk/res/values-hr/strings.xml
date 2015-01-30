@@ -218,7 +218,6 @@
   <string name="unnamed_folder_name">Mapa bez naziva</string>
   <string name="wallpaper">Slika pozadine</string>
   <string name="wallpaper_failed_message">"Ne mogu podesiti sliku pozadine"</string>
-  <string name="wallpaper_scrolling">sve</string>
   <string name="wallpaper_settings">Slika pozadine</string>
   <string name="wallpaper_success_message">Podešeno za sliku pozadine</string>
   <string name="widget_favorite_contacts_edit">Urednik</string>
