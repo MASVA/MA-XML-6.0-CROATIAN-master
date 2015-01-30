@@ -22,6 +22,7 @@
   <string name="category_default_number_text">(0)</string>
   <string name="category_document">Dokumenti</string>
   <string name="category_favorite">Označeno</string>
+  <string name="category_log">Zapisi</string>
   <string name="category_music">Glazba</string>
   <string name="category_other">Ostalo</string>
   <string name="category_picture">Slike</string>
