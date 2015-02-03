@@ -35,7 +35,7 @@ Korištenje više od planiranog ograničenja podataka vašeg davatelja usluga mo
   <string name="data_usage_limit_body">Dodirnite za uključivanje mobilnih podataka.</string>
   <string name="data_usage_limit_snoozed_body">Premašeno ograničenje uporabe podataka za ovaj mjesec.</string>
   <string name="data_usage_mobile_limit_snoozed_title">Uporaba podataka premašena</string>
-  <string name="data_usage_mobile_limit_title">Mobilni podaci su isključeni</string>
+  <string name="data_usage_mobile_limit_title">Postignuto ograničenje podataka</string>
   <string name="data_usage_no_total_package_body">Dodirnite za postavljanje ograničenja uporabe podataka</string>
   <string name="data_usage_no_total_package_body_dual">Dodirnite za postavljanje ograničenja uporabe podataka za %s?</string>
   <string name="data_usage_no_total_package_title">Nema ograničenja Uporabe podataka</string>
@@ -253,7 +253,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg davatelja mobilnih
   <string name="privacy_declare_dialog_message">"Korištenjem ove usluge, slažete se s Opera &lt;a href=%s&gt; Uvjeti i Odredbe&lt;/a&gt;."</string>
   <string name="privacy_declare_dialog_title">Uvjeti i Odredbe</string>
   <string name="privacy_prompt_tc_sms_report_message">"Vaš telefonski broj i detalji davatelja usluga će biti učitani na Xiaomi poslužitelje kako bi se ažurirale informacije uporabe podataka."</string>
-  <string name="privacy_prompt_traffic_adjust_message">"Vaš telefonski broj i detalji davatelja usluga će biti učitani na Xiaomi poslužitelje kako bi se ažurirali upiti predloška SMS-a i da biste provjerili je li ova značajka dostupna na vašem području."</string>
+  <string name="privacy_prompt_traffic_adjust_message">"Ova značajka treba poslati IMEI vašeg uređaja, broj telefona i podatke vašeg davatelja usluga na MI poslužitelje kako bi dobili statistiku o uporabi podataka vašeg davatelja usluga.</string>
   <string name="privacy_prompt_traffic_purchase_message">"Vaš telefonski broj i detalji davatelja usluga će biti učitani na Xiaomi poslužitelje kako bi dobili više informacija o mogućnosti kupnje podataka."</string>
   <string name="privacy_prompt_upload">Obavijesti privatnosti</string>
   <string name="reach_daily_limit_value_body">Smanjite svoj mobilni podatkovni promet.</string>
@@ -344,7 +344,7 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="traffic_limit_error_alert_title">Podsjetnik ograničenja podataka %s</string>
   <string name="traffic_none">Ništa</string>
   <string name="traffic_over_purchase_body">Dodirnite za prikaz pojedinosti.</string>
-  <string name="traffic_over_purchase_link">"Dosegli ste ograničenje uporabe podataka.&lt;br/&gt;Ako premašite vaše ograničenje, vaš davatelj usluga može vam naplatiti dodatne naknade.&lt;br/&gt;&lt;br/&gt;&lt;font color='#0000ff'&gt;&lt;U&gt;Nadoplatite sad i uštedite 50%.&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_over_purchase_link">"Dosegli ste ograničenje uporabe podataka.&lt;br/&gt;Ako premašite vaše ograničenje, vaš davatelj usluga može vam naplatiti dodatne naknade.&lt;br/&gt;&lt;br/&gt;&lt;font color='ccffffff'&gt;&lt;U&gt;Obnovite bon.&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_over_purchase_title">Premašeno ograničenje podataka</string>
   <string name="traffic_protection_data_usage_summary">"Korištenje više od planiranog ograničenja podataka vašeg davatelja usluga može dovesti do povećanih troškova."</string>
   <string name="traffic_protection_label">Upozorenje uporabe podataka</string>
@@ -353,7 +353,7 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="traffic_protection_text_hint">Postavite ograničenje uporabe podataka za %s</string>
   <string name="traffic_protection_unknown">Postaviti kasnije</string>
   <string name="traffic_protection_use_data">Podaci omogućeni</string>
-  <string name="traffic_purchase_body">Uštedite 50% ako sada obnovite bon.</string>
+  <string name="traffic_purchase_body">Obnovite bon.</string>
   <string name="traffic_purchse_suggestion">Vrijeme za obnovu bona</string>
   <string name="traffic_saving_button_sorted">Grafikon</string>
   <string name="traffic_saving_button_sorted_chose_simcard">Poredaj po</string>
@@ -412,7 +412,7 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="traffic_setting_open">Uključeno</string>
   <string name="traffic_setting_step_num">Postavke uporabe</string>
   <string name="traffic_setting_update_template_falure">"Ne mogu se povezati s mrežom"</string>
-  <string name="traffic_warning_purchase_title">Preostali iznos manji je od %d%%</string>
+  <string name="traffic_warning_purchase_title">Upozorenje uporabe podataka</string>
   <string name="usage_sorted_activity_lable">Uporaba podataka</string>
   <string name="usage_sorted_empty_text">Prazno</string>
   <string name="usage_sorted_loading_text">Učitavanje…</string>

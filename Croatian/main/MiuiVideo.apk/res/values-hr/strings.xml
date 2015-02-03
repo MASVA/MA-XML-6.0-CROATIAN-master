@@ -33,6 +33,7 @@
   <string name="authenticating_manually">Provjera nije uspjela</string>
   <string name="average_score">Prosječan rezultat</string>
   <string name="avg_score">%.1f</string>
+  <string name="baodian">pokazivač</string>
   <string name="back">Natrag</string>
   <string name="bestv">Bestv</string>
   <string name="buffering">Međupohrana…</string>
@@ -40,6 +41,8 @@
   <string name="cancel">Odustani</string>
   <string name="cancel_button">Odustani</string>
   <string name="cancel_favorite_success">Neoznačeno</string>
+  <string name="category">Kategorije</string>
+  <string name="catoon">Crtići</string>
   <string name="channel_choice_empty_hint">Prazno</string>
   <string name="channel_empty_hint">Prazno</string>
   <string name="check_network">"Ne mogu se spojiti na mrežu. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
@@ -136,6 +139,7 @@
   <string name="gong_count_ji">%d Ep. ukupno</string>
   <string name="gong_count_xiang">"Broj stavki: %d "</string>
   <string name="good">U redu</string>
+  <string name="hollywood">Hollywood</string>
   <string name="guess_you_like">Preporučeno</string>
   <string name="hint_can_not_get_source_info">"Ne mogu dobiti informacija o videozapisu"</string>
   <string name="hint_without_selected_set">Pronađi izvor sadržaja automatski</string>
@@ -147,6 +151,7 @@
   <string name="installed">Instalirano</string>
   <string name="installed_count_ge">Instalirano %d</string>
   <string name="introduce">Sažetak</string>
+  <string name="japank">Japan TV</string>
   <string name="key_back_down_toast">Za izlaz, pritisnite tipku Natrag opet</string>
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
@@ -275,6 +280,7 @@
   <string name="update_version_prefix">Ažuriraj na verziju:</string>
   <string name="updatedalready">Ažurirano</string>
   <string name="upgrade">Nadogradi</string>
+  <string name="usa">US TV</string>
   <string name="use_cellular_network">Koristiti mobilnu mrežu</string>
   <string name="use_cellular_network_summary">Koristiti mobilnu mrežu za gledanje videozapisa. Može uzrokovati naplatu prometa</string>
   <string name="use_cellular_offlinedownload_summary">Prikaži obavijest kada se koristi mobilni podaci za preuzimanje videozapisa</string>

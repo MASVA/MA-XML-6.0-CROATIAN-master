@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="view_realtime_clear">
+       <item quantity="other">Vedro</item>
+        <item quantity="one">Sunčano</item>
+    </plurals>
     <plurals name="activity_main_update_time_in_one_hour">
         <item quantity="other">prije %d min</item>
         <item quantity="one">prije %d min</item>

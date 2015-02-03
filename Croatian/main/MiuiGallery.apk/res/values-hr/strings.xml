@@ -262,6 +262,7 @@
   <string name="import_fail">Uvoz neuspješan</string>
   <string name="impunity_declaration">"Neke od značajki Galerije zahtijevaju povezivanje s internetom da rade ispravno."</string>
   <string name="impunity_declaration_ignore">"Ne prikazuj ponovo"</string>
+  <string name="impunity_declaration_positive_text">U redu i nastavi</string>
   <string name="impunity_declaration_settings">Obavijest povezivanje s internetom</string>
   <string name="impunity_declaration_summary">Prikaži obavijest povezivanje s internetom svaki put kad se pokrene aplikacija Galerija</string>
   <string name="impunity_declaration_title">Povezivanje s internetom</string>

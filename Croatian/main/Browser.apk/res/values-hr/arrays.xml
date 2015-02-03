@@ -44,7 +44,7 @@
     </string-array>
     <string-array name="pref_volume_key_choices">
         <item>Stranica naprijed/natrag</item>
-        <item>Zamijeni zaslone</item>
+        <item>Kartica naprijed/natrag</item>
     </string-array>
     <string-array name="pref_fling_on_border_choices">
         <item>Stranica naprijed/natrag</item>
@@ -65,6 +65,7 @@
         <item>Samo na WLAN-u</item>
         <item>Uvijek</item>
     </string-array>
+	 <array name="config_keySystemUuidMapping" />
     <string-array name="menu_theme_setting">  
         <item>Bijela</item>
         <item>Žuta</item>
@@ -79,6 +80,12 @@
         <item>Normalni</item>
         <item>Veliki</item>
         <item>Ogroman</item>
+    </string-array>
+	<string-array name="pre_webapp_text_sizes">
+        <item>Veći</item>
+        <item>Veliki</item>
+        <item>Normalan</item>
+        <item>Sitan</item>
     </string-array>
 	<string-array name="search_bar_search_engines_rCN">
        <item>google</item>

@@ -187,6 +187,8 @@
   <string name="network_error">"Ne mogu se povezati na mrežu."</string>
   <string name="network_failure">Provjerite vezu i pokušajte ponovno.</string>
   <string name="network_traffic">Uporaba podataka</string>
+  <string name="no_album_info">Nema detalja o albumu</string>
+  <string name="no_artist_info">Nema detalja o izvođaču</string>
   <string name="no_favorites_songs">Prazno</string>
   <string name="no_file_picker_find">"Aplikacija Datoteke nije instalirana na ovom uređaju"</string>
   <string name="no_introduction">Nema sažetka.</string>
@@ -222,6 +224,8 @@
   <string name="retry">Pokušaj ponovno</string>
   <string name="ringtone_not_support">"Format ove pjesme nije podržan."</string>
   <string name="search_album">Potražite album na internetu</string>
+  <string name="search_for_album">Album</string>
+  <string name="search_for_artist">Izvođač</string>
   <string name="search_hint">Potraži</string>
   <string name="search_lyric">Potražite tekst na internetu</string>
   <string name="search_title">Potražite</string>
@@ -254,6 +258,7 @@
   <string name="start_to_play">Reproduciraj</string>
   <string name="stream_quality">Kvaliteta streama</string>
   <string name="streamloadingtext">Povezivanje na %s</string>
+  <string name="support_online_only">Podrška samo online</string>
   <string name="tab_album_list">Albumi</string>
   <string name="tab_artist_list">Izvođači</string>
   <string name="tab_local_folder_list">Mape</string>

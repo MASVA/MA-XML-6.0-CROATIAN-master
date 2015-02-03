@@ -194,7 +194,7 @@ localization_Croatian_table = {
     no_data_hint_2="Težite napretku, a ne savršenstvu.",
     no_data_hint_3="Normalna odrasla osoba troši 15% -20% ukupnog vremena sna u dubokoj fazi sna. ",
     not_binded_hint="Nijedan Mi Band nije uparen s ovim računom, uparite ga sada. ",
-    not_binded_hint_info="Također možete kliknuti na Ljestvica težine u izborniku.",
+    not_binded_hint_info="Također možete kliknuti na Vaga u izborniku.",
     new_record_info="Postigli ste novi rekord.",
     new_record_format="%d koraka, %s %d",
     today_goal_reached="Postigli ste svoj cilj za danas!",
@@ -205,8 +205,8 @@ localization_Croatian_table = {
     continue_with_skips_title="Niste postigli svoj cilj jučer. Nazovimo ga Dan ljenčarenja ;)",
     continue_with_skips_title_today="Niste postigli svoj cilj danas. Nazovimo ga Dan ljenčarenja ;)",
     personal_best_with_skips_format="Preostalo vam je %d Dana ljenčarenja ;)",
-    continue_used_n_skips_format="Postigli ste svoj cilj %d dana za redom! You still have %d Lazy Days ;)",
-    continue_used_0_skips_format="Postigli ste svoj cilj %d dana za redom! You have no Lazy Days left.",
+    continue_used_n_skips_format="Postigli ste svoj cilj %d dana za redom! Još imate %d Dan ljenčarenja ;)",
+    continue_used_0_skips_format="Postigli ste svoj cilj %d dana za redom! Nemate više preostalih Dana ljenčarenja.",
     personal_best_on_skip_day_title="%d dan post. cilja! Zaslužili ste Dan ljenčarenja!",
     personal_best_on_skip_day_info="Nakon 7-dnevnog postizanja cilja za redom, zaslužili ste Dan ljenčarenja. To će pokriti propuštene ciljeve automatski.",
     manual_lazy_title="Niste postigli svoj cilj danas.",
@@ -256,8 +256,8 @@ localization_Croatian_table = {
     manual_fail_ytd_title = "Nažalost, niz je prekinut jučer",
     manual_fail_ytd_subtitle = "Vaš niz do jučer je bio %d.",
     ---------------Weight scale -------------------
-    welcome_use_weight_scale = "Dobrodošli u korištenje Ljestvice težine",
-    welcome_use_weight_scale_not_bind = "Koliknite da povežete ljestvice težine",
+    welcome_use_weight_scale = "Dobrodošli u korištenje vage",
+    welcome_use_weight_scale_not_bind = "Koliknite da povežete vage",
     welcome_use_mi_health="Dobrodošli u korištenje MI health",
 
  }
