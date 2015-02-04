@@ -787,7 +787,7 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="disabled">Uključi</string>
   <string name="display_font_size_label">Veličina fonta:</string>
   <string name="display_label">Zaslon</string>
-  <string name="display_order_text">Poredati prema:</string>
+  <string name="display_order_text">Poredaj po:</string>
   <string name="display_preview_label">Pregled:</string>
   <string name="display_settings">Zaslon</string>
   <string name="display_settings_title">Zaslon</string>
@@ -800,7 +800,7 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="dndm_auto_button_title">Vrijeme</string>
   <string name="dndm_auto_setting_group">Zakazano</string>
   <string name="dndm_auto_time_setting">Postavke vremena</string>
-  <string name="dndm_auto_time_setting_summary">"Od %1$s do %2$s"</string>
+  <string name="dndm_auto_time_setting_summary">Od %1$s do %2$s</string>
   <string name="dndm_auto_time_turn_off">Do</string>
   <string name="dndm_auto_time_turn_off_title">Automatski isključi \"Ne ometaj me“\</string>
   <string name="dndm_auto_time_turn_on">Od</string>
@@ -816,8 +816,8 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="dndm_repeated_call_summary_none">Utišaj ponovljene pozive od istog broja</string>
   <string name="dndm_special_call_setting_group">Iznimke</string>
   <string name="dndm_summary">Kada je omogućeno \"Ne ometaj me“\, pozivi i obavijesti pristigli dok je telefon zaključan biti će utišani. </string>
-  <string name="dndm_twelve_hour_time_format">s:mm</string>
-  <string name="dndm_twenty_four_hour_time_format">SS:mm</string>
+  <string name="dndm_twelve_hour_time_format">h:mm a</string>
+  <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
   <string name="dndm_vip_call_button_title">Dopusti pozive od iznimki</string>
   <string name="dndm_vip_call_setting_title">Postavke iznimki</string>
   <string name="dndm_vip_call_summary_contact">"Svi kontakti"</string>
