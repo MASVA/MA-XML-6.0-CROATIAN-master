@@ -552,6 +552,7 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="cmcc_dm_settings_disable_summary">Onemogući auto. pokretanje</string>
   <string name="cmcc_dm_settings_enable_summary">Onemogući auto. pokretanje</string>
   <string name="cmcc_dm_settings_title">Upravljanje Dopuštenja uređaja</string>
+  <string name="cmcc_hardware_version">Verzija hardvera</string>
   <string name="color_black">Crna</string>
   <string name="color_blue">Plava</string>
   <string name="color_calibration_none">Prirodno</string>

@@ -40,7 +40,7 @@ Prikaži odabrane tipkovnice "</string>
   <string name="sim_card_detection">Umetnite SIM karticu</string>
   <string name="sim_card_detection_info">Za umetanje SIM kartice, pročitajte upute koje ste dobili s uređajem</string>
   <string name="sim_dectection_next">Nastavi</string>
-  <string name="sim_redetection">Provjeri ponovo SIM karticu</string>
+  <string name="sim_redetection">Provjeri ponovo</string>
   <string name="summary_not_set">Nije postavljeno</string>
   <string name="summary_sim_card">Kartica %1$d%2$s</string>
   <string name="terms_of_use">Uvjeti i Odredbe</string>

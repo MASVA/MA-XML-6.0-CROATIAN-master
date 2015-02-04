@@ -26,7 +26,8 @@
   <string name="all_comment">Svi komentari</string>
   <string name="all_ep">Sve epizode</string>
   <string name="all_media">Sva medija</string>
-  <string name="app_name">"Videozapis"</string>
+  <string name="app_name">"Video"</string>
+  <string name="app_recommend">Istaknuto</string>
   <string name="area_colon">"Zemlja: "</string>
   <string name="authenticated_failed">"Prijava nije uspjela"</string>
   <string name="authenticating">Provjera</string>
@@ -168,7 +169,6 @@
   <string name="manage">Upravljanje</string>
   <string name="manage_offline_media">Upravljanje preuzimanja</string>
   <string name="media_name_comment">%s komentara</string>
-  <string name="menu_item_disable_audio_enhance">Isključi poboljšanje zvuka</string>
   <string name="menu_item_enable_audio_enhance">Uključi poboljšanje zvuka</string>
   <string name="mipush_setting">Obavijesti</string>
   <string name="month">Mjesec</string>

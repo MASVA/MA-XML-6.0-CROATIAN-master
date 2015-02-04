@@ -139,7 +139,7 @@
   <string name="resource_comment_upload_success">Komentar će se objaviti nakon što bude pregledan</string>
   <string name="resource_default">Zadana melodija zvona</string>
   <string name="resource_default_name">Resursi</string>
-  <string name="resource_delete">Izbrisati</string>
+  <string name="resource_delete">Izbriši</string>
   <string name="resource_delete_all">Izbrisati odabrane stavke: %1$d?</string>
   <string name="resource_delete_confirm">Izbrisati odabrane stavke?</string>
   <string name="resource_delta_update_failed">Preuzimam temu ponovo…</string>

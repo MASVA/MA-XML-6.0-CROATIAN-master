@@ -8,6 +8,7 @@
   <string name="accessibility_panorama_review_cancel">Odustani</string>
   <string name="accessibility_review_thumbnail">Najnovije fotografije</string>
   <string name="accessibility_seek_bar_line">SeekBarLine</string>
+  <string name="accessibility_setting_button">Tipka dodat. postavki</string>
   <string name="accessibility_shutter_button">Tipka okidača</string>
   <string name="accessibility_skin_beautify_button">SkinBeautifyButton</string>
   <string name="accessibility_video_capture_button">VideoCaptureButton</string>
@@ -21,8 +22,9 @@
   <string name="cannot_connect_camera_once">"Ne mogu se spojiti s kamerom."</string>
   <string name="cannot_connect_camera_twice">"Ne mogu se spojiti s kamerom, ponovno pokrenite telefon"</string>
   <string name="cannot_move_warning_message">Fotografiram, držite uređaj mirnim</string>
-  <string name="confirm_location_message">Označiti vaše fotografije i videozapise sa mjestima gdje su snimljene?</string>
-  <string name="confirm_location_title">Spremiti lokaciju</string>
+  <string name="confirm_location_alert">Pojedinosti mjesta snimanja</string>
+  <string name="confirm_location_message">Predlažemo da spremite zemljopisne podatke o mjestu tijekom snimanja, zatim možete jednostavno pretraživati fotografije prema lokaciji snimanja.</string>
+  <string name="confirm_location_title">Pojedinosti mjesta snimanja</string>
   <string name="confirm_restore_message">"Obnoviti na zadane postavke Fotoaparata?"</string>
   <string name="confirm_restore_title">Obnovi na zadane postavke</string>
   <string name="dialog_ok">U redu</string>
@@ -50,7 +52,6 @@
   <string name="face_beauty_intelligent_level_3">+3</string>
   <string name="find_other_qrcode">QR kod pronađen</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
-  <string name="no_save">Ne hvala</string>
   <string name="no_storage">Umetnite SD karticu prije korištenja fotoaparata.</string>
   <string name="not_enough_space">Unutarnja pohrana je puna.</string>
   <string name="object_track_enable_toast">Dodirnite na oba kraja objekta s dva prsta kako bi ga pratili.</string>
@@ -179,7 +180,6 @@
   <string name="pref_camera_multilevel_entry_normal">Normalan</string>
   <string name="pref_camera_multiple_face_beauty_entry_off">Jedno lice</string>
   <string name="pref_camera_multiple_face_beauty_entry_on">Dva lica</string>
-  <string name="pref_camera_multiple_face_beauty_title">Tonovi kože</string>
   <string name="pref_camera_panoramamode_title">Panorama</string>
   <string name="pref_camera_picture_format_entry_jpeg">JPEG</string>
   <string name="pref_camera_picture_format_entry_raw">RAW</string>
@@ -309,7 +309,6 @@
   <string name="pref_video_time_lapse_frame_interval_title">Interval protoka vremena</string>
   <string name="preparing_sd">Priprema unutanje pohrane…</string>
   <string name="record_back_pressed_hint">Dodirnite ponovno za zaustavljanje snimanja</string>
-  <string name="save">Da</string>
   <string name="see_qrcode_detals">Prikaži detalje</string>
   <string name="setting_top_text">Načini snimanja</string>
   <string name="simple_mode_button_text_4kuhd">Zatvori 4K</string>
@@ -330,6 +329,7 @@
   <string name="snapshot_lower_than_video">Veličina pregledane snimke manja od veličine videozapisa. Prekrivanje na veličinu videozapisa. Odaberite razlučivost višu ili jednaku trenutnoj veličini videozapisa.</string>
   <string name="snapshotsize_low_powermode">"Razlučivost slike nije podržana trenutnim postavkama upravljanja napajanjem. Veličina snimanja videozapisa će se koristiti".</string>
   <string name="spaceIsLow_content">USB memoriji ponestaje prostora.</string>
+  <string name="start_capture">Pokreni snimanje</string>
   <string name="tap_to_exposure">Dodirnite za ručno podešavanje ekspozicije</string>
   <string name="tap_to_focus">Dodirnite za izoštravanje</string>
   <string name="time_lapse_error">"Ne mogu koristiti ovu veličinu videa za time-lapse snimanja"</string>

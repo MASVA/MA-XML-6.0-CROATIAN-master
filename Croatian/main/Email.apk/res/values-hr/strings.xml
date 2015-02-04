@@ -480,9 +480,9 @@
   <string name="forward_download_failed_title">Privitak nije proslijeđen</string>
   <string name="from">Šalje</string>
   <string name="from_heading">"Šalje: "</string>
-  <string name="general_preference_confirm_delete_label">Potvrdite prije brisanja</string>
+  <string name="general_preference_confirm_delete_label">Potvrdi prije brisanja</string>
   <string name="general_preference_confirm_delete_summary">Poruke</string>
-  <string name="general_preference_confirm_send_label">Potvrdite prije slanja</string>
+  <string name="general_preference_confirm_send_label">Potvrdi prije slanja</string>
   <string name="general_preference_confirm_send_summary">Poruke</string>
   <string name="general_preference_text_zoom_dialog_title">Veličina teksta poruke</string>
   <string name="general_preference_text_zoom_huge">Ogroman</string>
@@ -597,7 +597,7 @@
   <string name="menu_photo_share">Dijeli</string>
   <string name="menu_photo_share_all">Dijeli sve</string>
   <string name="menu_resend_all">Pošalji sve opet</string>
-  <string name="menu_search">Pretraživanje</string>
+  <string name="menu_search">Traži</string>
   <string name="menu_settings">Postavke</string>
   <string name="menu_show_original">Vrati izvornu verziju</string>
   <string name="merged_mailbox_compose_select_account">Odaberite račun</string>
