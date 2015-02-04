@@ -11,7 +11,6 @@
   <string name="administrative_disable">Administracija je isključena</string>
   <string name="administrative_enable">Administracija je uključena</string>
   <string name="advanced_settings">Izborne postavke</string>
-  <string name="advanced_settings_container">Kontejner naprednih postavki</string>
   <string name="advanced_settings_hide">▽ Dodirnite kako bi sakrili sve</string>
   <string name="advanced_settings_show">▷ Dodirnite da biste prikazali sve</string>
   <string name="advertisements_disable">Oglašavanje je isključeno</string>
@@ -34,7 +33,6 @@
   <string name="apn_settings">Nazivi pristupnih točaka</string>
   <string name="atr_disable">Obavijesti o prometu su isključene</string>
   <string name="atr_enable">Obavijesti o prometu su uključene</string>
-  <string name="auth_username">Autentikacija koris. imena</string>
   <string name="auth_username_summary">Korisničko ime korišteno za autentikaciju</string>
   <string name="auth_username_title">Autentikacija korisničkog imena</string>
   <string name="auto_answer_delay_entries_delay_10s">10 sek.</string>
@@ -199,11 +197,8 @@
   <string name="data_enable_summary">Omogući podatkovni pristup preko mobilne mreže</string>
   <string name="data_enabled">Podaci su omogućeni</string>
   <string name="deactivate_all">Otkaži sve</string>
-  <string name="default_call_type">CSVoice</string>
-  <string name="default_port">5060</string>
   <string name="default_preference_summary">Nije postavljeno</string>
-  <string name="default_transport">UDP</string>
-  <string name="delete">Obrisati</string>
+  <string name="delete">Izbriši</string>
   <string name="deleteAllSimEntries">Izbrisati sve kontakte sa SIM kartice</string>
   <string name="deleteSimContacts">Brisanje…</string>
   <string name="delete_fdn_contact">Brisanje broja za fiksno biranje</string>
@@ -237,10 +232,8 @@
   <string name="disable_fdn_ok">Uključi FDN</string>
   <string name="disable_pin_ok">PIN za SIM je isključen.</string>
   <string name="disable_sim_pin">Isključi SIM PIN</string>
-  <string name="display_name">DisplayName</string>
   <string name="display_name_summary">"Isto kao korisničko ime."</string>
   <string name="display_name_title">Ime za prikaz</string>
-  <string name="domain_address">SipDomain</string>
   <string name="domain_address_title">Poslužitelj</string>
   <string name="doneButton">Gotovo</string>
   <string name="dtmf_tone_enable_title">Tonovi tipkovnice</string>
@@ -557,7 +550,6 @@ Možda biste trebali potražiti područje s boljom pokrivenošću (pored prozora
 Pokušajte ponovo ili nazovite korisničku službu za više opcija."</string>
   <string name="other_settings">Ostale postavke poziva</string>
   <string name="other_settings_category">Ostalo</string>
-  <string name="password">Zaporka</string>
   <string name="password_changed">Zaporka promjenjena</string>
   <string name="password_title">Zaporka</string>
   <string name="payphone">Telefonska govornica</string>
@@ -591,7 +583,6 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="place_a_call3">Pretplata 3</string>
   <string name="pocket_mode_summary">Automatski zaključaj kada se stavi u džep</string>
   <string name="pocket_mode_title">Spriječite džepna biranja</string>
-  <string name="port">Port</string>
   <string name="port_title">Port</string>
   <string name="preference_auto_ip_summary_disable">Onemogućeno</string>
   <string name="preference_category_ringtone">Melodija zvona &amp; Vibracija</string>
@@ -716,9 +707,7 @@ Vaša SIM kartica bit će izbrisani nakon još jednog neuspjelog pokušaja."</st
   <string name="select_voice_call_sim">Odaberi SIM karticu</string>
   <string name="sendSms">Pošalji SMS</string>
   <string name="send_button">Pošalji</string>
-  <string name="send_keepalive">SendKeepAlive</string>
   <string name="send_keepalive_title">Pošalji postavke keep-alive</string>
-  <string name="set_primary">Postavi primarno</string>
   <string name="set_primary_summary">Upotrebljava se za odlazne pozive</string>
   <string name="set_primary_title">Postavi kao primarni račun</string>
   <string name="set_smsc_address_error">"Ne mogu postaviti broj"</string>
@@ -828,7 +817,6 @@ Vaša SIM kartica bit će izbrisani nakon još jednog neuspjelog pokušaja."</st
   <string name="throttle_help">Saznajte više</string>
   <string name="throttle_rate">Pravilo za brzinu prijenosa podataka</string>
   <string name="throttle_time_frame">Razdoblje korištenja podataka</string>
-  <string name="transport">Protokol</string>
   <string name="transport_title">Vrsta transporta</string>
   <string name="tty_mode_entries_full">TTY Pun</string>
   <string name="tty_mode_entries_hco">TTY HCO</string>
@@ -847,7 +835,6 @@ Vaša SIM kartica bit će izbrisani nakon još jednog neuspjelog pokušaja."</st
   <string name="uplmn_list_setting_add_plmn">Novi PLMN</string>
   <string name="uplmn_list_setting_title">Poželjne mreže</string>
   <string name="uplmn_numeric_is_empty">Unesite ID mreže</string>
-  <string name="username">Korisničko ime</string>
   <string name="username_title">Korisničko ime</string>
   <string name="ussdRunning">Pokrenut je USSD kôd…</string>
   <string name="ussd_dialog_sep">----------</string>
