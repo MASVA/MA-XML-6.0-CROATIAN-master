@@ -10,7 +10,7 @@
   <string name="add_favorite_success">Označeno</string>
   <string name="add_more_addons">Dodaj dodatke</string>
   <string name="addon">" dodataka"</string>
-  <string name="addon_all">Sve</string>
+  <string name="addon_all">Više</string>
   <string name="addon_category">Dodaci</string>
   <string name="addon_install_complete_disc">%s dodataka instalirano. Možete ih pregledati u \"Moji videozapisi\".</string>
   <string name="addon_installed_empty_hint">Prazno</string>
@@ -152,8 +152,8 @@
   <string name="installed">Instalirano</string>
   <string name="installed_count_ge">Instalirano %d</string>
   <string name="introduce">Sažetak</string>
-  <string name="japank">Japan TV</string>
   <string name="key_back_down_toast">Za izlaz, pritisnite tipku Natrag opet</string>
+  <string name="koreak">Korea TV</string>
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
   <string name="loading">Učitavanje…</string>

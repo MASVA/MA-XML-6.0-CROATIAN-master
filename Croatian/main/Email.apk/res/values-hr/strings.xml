@@ -673,6 +673,7 @@ Kopija: %4$s
   <string name="outbox_alert_button_confirm">Uredi</string>
   <string name="outbox_alert_button_no_resend">"Nemoj poslati"</string>
   <string name="outbox_alert_button_resend">Pošalji ponovo</string>
+  <string name="outbox_alert_certificate_error">Odstupanje E-mail certifikata, ažurirajte ga</string>
   <string name="outbox_alert_description_auth_error">Pogreška provjere autentičnosti s poslužitelja tijekom izlazne sinkronizacije</string>
   <string name="outbox_alert_description_http_error">HTTP Pogreška tijekom izlazne sinkronizacije</string>
   <string name="outbox_alert_description_provision_error">Pogreška Odredaba s poslužitelja tijekom izlazne sinkronizacije</string>
@@ -681,6 +682,7 @@ Kopija: %4$s
   <string name="outbox_alert_edit_resend">Uredi i ponovo pošalji</string>
   <string name="outbox_alert_failed_edit_resend">"Ne mogu poslati. Uredi i pokušaj ponovo."</string>
   <string name="outbox_alert_mailbox_not_found">Adresa E-pošte nije pronađena</string>
+  <string name="outbox_alert_rw_io_error">Odstupanje čitanje-pisanje izuzetka pošte, pokušajte napisati i poslati ga opet</string>
   <string name="outbox_alert_select_operation">Odaberite radnju</string>
   <string name="outbox_alert_title_sent_failed">"Ne mogu poslati e-poštu"</string>
   <string name="outbox_no_mails">Prazno</string>
@@ -841,6 +843,7 @@ Kopija: %4$s
   <string name="save_action">Spremi</string>
   <string name="save_attachment">Spremi</string>
   <string name="save_draft">Spremi skicu</string>
+  <string name="save_draft_failed">"Ne mogu spremiti skicu"</string>
   <string name="saved">Spremljeno,  %s</string>
   <string name="saving">Spremanje…</string>
   <string name="search_attachment">Pretraži</string>
