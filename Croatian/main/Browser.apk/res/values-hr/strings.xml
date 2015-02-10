@@ -611,7 +611,7 @@ Jeste li sigurni da želite otići s ove stranice?"</string>
   <string name="save_file_already_exist_alert_title">Prepisati datoteku?</string>
   <string name="save_image_failed">"Ne mogu spremiti sliku"</string>
   <string name="save_image_success">Slika spremljena</string>
-  <string name="save_password_message">Želite li da preglednik zapamti ovu zaporku?</string>
+  <string name="save_password_message">Želite li da Preglednik zapamti ovu zaporku?</string>
   <string name="save_password_never">Nikad</string>
   <string name="save_password_notnow">Ne sada</string>
   <string name="save_password_remember">Zapamti</string>
@@ -697,7 +697,7 @@ Jeste li sigurni da želite otići s ove stranice?"</string>
   <string name="tab_history">Povijest</string>
   <string name="tab_hotpage">U trendu</string>
   <string name="tab_most_visited">Najposjećenije</string>
-  <string name="tab_quicklinks">Korisno</string>
+  <string name="tab_quicklinks">Početna</string>
   <string name="tab_snapshots">Spremljene stranice</string>
   <string name="tab_yellowpage">Popularno</string>
   <string name="time_picker_dialog_am">AM</string>
@@ -756,8 +756,8 @@ Jeste li sigurni da želite otići s ove stranice?"</string>
   <string name="voice_title_please">Počnite govoriti…</string>
   <string name="voice_title_speech_again">"Ne razumijem vas"</string>
   <string name="warning">Upozorenje</string>
-  <string name="webapp_add_to_desktop">Pošalji na početni zaslon</string>
-  <string name="webapp_add_to_favorite_toast">Uspješno poslano na početni zaslon</string>
+  <string name="webapp_add_to_desktop">Dodaj na početni zaslon</string>
+  <string name="webapp_add_to_favorite_toast">Dodano na početni zaslon</string>
   <string name="webapp_addtodeskpop_append">Dodano</string>
   <string name="webapp_app_name">Trgovina Light Web Aplikacijama</string>
   <string name="webapp_bottom_bar_addtodesk">Dodaj na desktop</string>
@@ -787,6 +787,6 @@ Jeste li sigurni da želite otići s ove stranice?"</string>
   <string name="webstorage_outofspace_notification_text">Dodirnite za oslobađanje prostora.</string>
   <string name="webstorage_outofspace_notification_title">Pohrana preglednika puna</string>
   <string name="webview_find_on_page">Pronađi na stranici</string>
-  <string name="webviewchromium_private_browsing_warning">Ova funkcija nije podržana u ovoj verziji Androida.</string>
+  <string name="webviewchromium_private_browsing_warning">Funkcija nije podržana u ovoj verziji Androida.</string>
   <string name="week_picker_dialog_title">Postavite tjedan</string>
 </resources>

@@ -886,7 +886,6 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="enable_mobile_data_when_opening_hotspot">Uključiti mobilnu podatkovnu vezu također?</string>
   <string name="enable_opengl_traces_title">Omogući OpenGL praćenja</string>
   <string name="enable_service_title">Želite li upotrijebiti uslugu %1$s?</string>
-  <string name="enable_snapshot_screenlock">Dugo pritisnite Natrag za Fotoaparat</string>
   <string name="enable_terminal_summary">Omogući aplikaciju terminala koja nudi pristup lokalnoj ovojnici</string>
   <string name="enable_terminal_title">Lokalni terminal</string>
   <string name="enable_text">"Omogući"</string>
@@ -2059,6 +2058,7 @@ Možda je PIN netočan."</string>
   <string name="skip_step">Preskoči</string>
   <string name="slot_status_title">IMEI podaci</string>
   <string name="small_font">Maleno</string>
+  <string name="smartcover_sensitive_title">Smartcover način</string>
   <string name="sms_application_title">Zadana aplikacija za SMS</string>
   <string name="sms_change_default_dialog_text" formatted="false">Koristiti aplikaciju %s umjesto aplikacije %s kao svoju aplikaciju za SMS?</string>
   <string name="sms_change_default_dialog_title">Želite li promijeniti aplikaciju za SMS?</string>
@@ -2122,8 +2122,8 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="status_bar_settings_show_notificationBar_notification">Prikaži u panelu obavijesti</string>
   <string name="status_bar_settings_show_notification_icon">Prikaži ikonu obavijesti</string>
   <string name="status_bar_settings_show_screenshot_notification">Prikaži obavijest o snimci zaslona</string>
-  <string name="status_bar_settings_show_statusBar_notification">Prikaži na zaključanom zaslonu i u padajućem</string>
-  <string name="status_bar_settings_show_statusBar_notification_summary">Prikaži obavijesti na zaključanom zaslonu i u padajućem pregledu</string>
+  <string name="status_bar_settings_show_statusBar_notification">Prikaži plutajuće obavijesti</string>
+  <string name="status_bar_settings_show_statusBar_notification_summary">Prikaži plutajuće obavijesti na zaključanom zaslonu i posvuda drugdje</string>
   <string name="status_bar_settings_show_wifi_name">Prikaži WLAN</string>
   <string name="status_bar_settings_status_bar">Statusna traka</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked"> Umanji nakon dodira</string>
@@ -2605,6 +2605,11 @@ Riječ možete dodati dodirom na tipku Dodaj (+)"</string>
   <string name="wifi_config_info">WLAN konfiguracija</string>
   <string name="wifi_configured_ap_list">Prethodno konfigurirane pristupne točke</string>
   <string name="wifi_connect">Poveži</string>
+  <string name="wifi_connect_cmcc_dialog_cancel">Odustani</string> 
+  <string name="wifi_connect_cmcc_dialog_confirm">U redu</string> 
+  <string name="wifi_connect_cmcc_dialog_content">Povezano na CMCC mrežne podatkovne usluge.</string> 
+  <string name="wifi_connect_cmcc_dialog_not_remind">"Ne prikazuj ponovo"</string> 
+  <string name="wifi_connect_cmcc_dialog_title">Obavijesti uporabe podataka</string> 
   <string name="wifi_connect_failed_message">Nije bilo moguće povezivanje s WLAN mrežom</string>
   <string name="wifi_context_menu_change_password">Promijeni zaporku</string>
   <string name="wifi_context_menu_change_wapi_certificate">Promijeni WAPI certifikat</string>
@@ -2685,8 +2690,15 @@ Riječ možete dodati dodirom na tipku Dodaj (+)"</string>
   <string name="wifi_more">"Više"</string>
   <string name="wifi_network_prefix_length">Duljina mrežnog prefiksa</string>
   <string name="wifi_not_in_range">Nije u rasponu</string>
-  <string name="wifi_notify_open_networks">Mrežna obavijest</string>
+  <string name="wifi_notify_cmcc_connected_summary">Prikaži obavijest kada je povezano na CMCC mrežu</string> 
+  <string name="wifi_notify_cmcc_connected_title">Obavijesti CMCC mreže</string> 
+  <string name="wifi_notify_open_networks">Obavijesti mreže</string>
   <string name="wifi_notify_open_networks_summary">Obavijesti me ako postoji otvorena mreža</string>
+  <string name="wifi_off_airplane_on_cancel">Odustani</string> 
+  <string name="wifi_off_airplane_on_confirm">U redu</string> 
+  <string name="wifi_off_airplane_on_content">Možete uključiti WLAN ručno kada je Zrakoplovni način uključen.</string> 
+  <string name="wifi_off_airplane_on_not_remind">"Ne prikazuj ponovo"</string> 
+  <string name="wifi_off_airplane_on_title">WLAN u Zrakoplovnom načinu</string> 
   <string name="wifi_on_time">WLAN na vrijeme</string>
   <string name="wifi_other_network">Ostale mreže…</string>
   <string name="wifi_p2p_cancel_connect_message">Želite li otkazati pozivnicu za povezivanje s korisnikom %1$s?</string>

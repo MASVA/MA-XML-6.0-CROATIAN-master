@@ -23,9 +23,7 @@
   <string name="cannot_connect_camera_twice">"Ne mogu se spojiti s kamerom, ponovno pokrenite telefon"</string>
   <string name="cannot_move_warning_message">Fotografiram, držite uređaj mirnim</string>
   <string name="confirm_location_alert">Zapamti lokacije fotografija</string>
-  <string name="confirm_location_message">"Označite svoje fotografije i videozapise na lokacijama gdje su snimljene.
-
-Ostale aplikacije mogu pristupiti tim informacijama zajedno s vašim spremljenim slikama."</string>
+  <string name="confirm_location_message">"Označite svoje fotografije i videozapise na lokacijama gdje su snimljene. Ostale aplikacije mogu pristupiti tim informacijama zajedno s vašim spremljenim slikama."</string>
   <string name="confirm_location_title">Zapamtiti lokacije fotografija?</string>
   <string name="confirm_restore_message">"Obnoviti na zadane postavke Fotoaparata?"</string>
   <string name="confirm_restore_title">Obnovi na zadane postavke</string>
