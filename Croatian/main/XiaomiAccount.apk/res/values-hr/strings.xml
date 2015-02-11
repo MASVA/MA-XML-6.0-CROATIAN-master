@@ -32,8 +32,9 @@
   <string name="account_user_name">Ime</string>
   <string name="account_user_name_dialog_title">Unesi korisničko ime</string>
   <string name="account_user_phone">Broj telefona</string>
-  <string name="account_user_using_qq_avatar">Koristi QQ sliku profila</string>
-  <string name="account_user_using_weibo_avatar">Koristi Sina Weibo sliku profila</string>
+  <string name="account_user_using_facebook_avatar">Upotrijebi Facebook sliku profila</string>
+  <string name="account_user_using_qq_avatar">Upotrijebi QQ sliku profila</string>
+  <string name="account_user_using_weibo_avatar">Upotrijebi Sina Weibo sliku profila</string>
   <string name="account_xiaomi_service">Usluge</string>
   <string name="activate_desc_2_intl_sim_cards">2 međunarodna SMS-a će biti poslana za aktiviranje SIM kartice</string>
   <string name="activate_desc_2_sim_cards">2 SMS-a će biti poslana za aktiviranje SIM kartice</string>
@@ -366,6 +367,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="service_error">Pogreška usluge</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_register">Preskoči</string>
+  <string name="sns_access_token_expired_warning">Istekla je prijava za račun. Prijavite se ponovo za dodavanje ovog računa.</string>
   <string name="theme_store">MIUI Trgovina Tema</string>
   <string name="theme_store_dspt">Odaberite svoj ​​izgled. Stotine slobodnih prilagodljivih tema kako bi vaš telefon izgledao jedinstven.</string>
   <string name="timeout_retry">Istek vremena zahtjeva, pokušajte ponovo.</string>
