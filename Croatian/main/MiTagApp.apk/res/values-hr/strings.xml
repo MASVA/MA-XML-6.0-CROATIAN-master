@@ -100,8 +100,8 @@ dotaknite ga stražnjom stranom vašeg telefona"</string>
   <string name="input_old_password">Unesite spremljenu zaporku</string>
   <string name="input_password">Unesite zaporku od četiri znamenke</string>
   <string name="input_password_gain">Unesite ponovo zaporku</string>
-  <string name="input_password_warning">"Zaporka će biti zapisana na oznaku, nemojte je zaboraviti!"</string>
-  <string name="local_app">Preuzete aplikacije</string>
+  <string name="input_password_warning">"Zaporka će biti zapisana na oznaku"</string>
+  <string name="local_app">Preuzeto</string>
   <string name="media_value">Mediji %s%%</string>
   <string name="meeting_mode">Način susreta</string>
   <string name="miui_ringer_mode">Način zvonjave</string>
@@ -112,8 +112,8 @@ dotaknite ga stražnjom stranom vašeg telefona"</string>
   <string name="new_config">Novi zadaci</string>
   <string name="new_configures">Nove konfiguracije</string>
   <string name="no_available_networks">Nema dostupnih mreža</string>
-  <string name="no_available_networks_summary">Pokušajte ponovo nakon spajanja na WLAN</string>
-  <string name="no_available_xiaomi_shop">Nije uspjelo otvaranje Xiaomi marketa</string>
+  <string name="no_available_networks_summary">Pokušajte ponovo nakon spajanja na WLAN mrežu.</string>
+  <string name="no_available_xiaomi_shop">"Ne mogu otvoriti Mi App Market"</string>
   <string name="not_save_btn">Ne</string>
   <string name="notification_value">Obavijesti %s%%</string>
   <string name="null_task">Nema zadataka</string>
@@ -121,7 +121,7 @@ dotaknite ga stražnjom stranom vašeg telefona"</string>
   <string name="on">Uključeno</string>
   <string name="one_minute">1 min.</string>
   <string name="open_web">Otvori web stranicu</string>
-  <string name="open_xiaomi_web">Idi na Xiaomi.com</string>
+  <string name="open_xiaomi_web">Idi na mi.com</string>
   <string name="password_preference">Postavi zaporku</string>
   <string name="percent">%s%%</string>
   <string name="personal">Osobno</string>
@@ -136,8 +136,6 @@ dotaknite ga stražnjom stranom vašeg telefona"</string>
   <string name="pwd_alert">Postavi zaporku</string>
   <string name="pwd_pref">Zaštitite oznaku od prepisivanja</string>
   <string name="pwd_pref_desc">Potrebna zaporka prije nego što korisnici mogu pisati na ovu oznaku NFC 21 seriju</string>
-  <string name="pwd_prot_off">ISKLJ.</string>
-  <string name="pwd_prot_on">UKLJ.</string>
   <string name="read_a_tag">Pročitaj oznaku</string>
   <string name="reading">Čitanje…</string>
   <string name="remote_app">Čekanje preuzimanja…</string>
@@ -162,7 +160,7 @@ dotaknite ga stražnjom stranom vašeg telefona"</string>
   <string name="set_now">Postavke</string>
   <string name="settings">Postavke</string>
   <string name="share">Dijeli</string>
-  <string name="share_content">"Ja sam *%1$s* pisao na Mi NFC oznaku. Da biste je pročitali, dotaknite je stražnjom stranom vašeg telefona. Nabavite aplikaciju ovdje: http://app.xiaomi.com/detail/56946"</string>
+  <string name="share_content">"Ja sam *%1$s* pisao na Mi NFC oznaku. Da je pročitate, dotaknite je stražnjom stranom vašeg telefona. Nabavite aplikaciju ovdje: http://app.xiaomi.com/detail/56946"</string>
   <string name="share_subject">Dijeli jednu aplikaciju: %1$s</string>
   <string name="share_wifi">Dijeli WLAN</string>
   <string name="shortcut">Brzi zadaci</string>
@@ -181,7 +179,7 @@ dotaknite ga stražnjom stranom vašeg telefona"</string>
   <string name="task">Zadaci okidača</string>
   <string name="ten_minutes">10 min.</string>
   <string name="thir_seconds">30 sek.</string>
-  <string name="toast_import_failed">Nije uspio uvoz kontakta</string>
+  <string name="toast_import_failed">"Ne mogu uvesti kontakt"</string>
   <string name="toggle">Prečac</string>
   <string name="torch">Svjetiljka</string>
   <string name="total_read_tag">Pročitano oznaka:</string>
@@ -191,32 +189,32 @@ dotaknite stražnjom stranom vašeg telefona drugu oznaku."</string>
   <string name="touch_and_write_more">"Za pisanje druge kopije,
 dotaknite stražnjom stranom vašeg telefona drugu oznaku."</string>
   <string name="two_minutes">2 min.</string>
-  <string name="unavailable_net">"Nije uspjelo instaliranje: Nije moguće povezati se mrežu"</string>
-  <string name="unavailable_storage">"Nije uspjelo instaliranje:Nije bilo moguće korištenje vaše SD kartice"</string>
+  <string name="unavailable_net">"Ne mogu se povezati na mrežu"</string>
+  <string name="unavailable_storage">"Ne  mogu koristiti vašu SD kartice"</string>
   <string name="unrecognized_tag">Nepoznat sadržaj oznake</string>
   <string name="update_config">Uredi zadatke</string>
   <string name="user_configs">Moji zadaci</string>
   <string name="vibrate_mode">Vibracija</string>
-  <string name="vibrate_off">Vibrate isključena</string>
-  <string name="vibrate_on">Vibrate uključena</string>
+  <string name="vibrate_off">Vibracija isključena</string>
+  <string name="vibrate_on">Vibracija uključena</string>
   <string name="voice_call_value">Glasnoća poziva %s%%</string>
   <string name="volume">Zvuk</string>
   <string name="web_label">Web natpis (opcija)</string>
   <string name="web_url">URL</string>
   <string name="wifi">WLAN</string>
   <string name="wireless_network">Bežično &amp; mreže</string>
-  <string name="write_a_tag">Oznaku napisao</string>
+  <string name="write_a_tag">Napiši oznaku</string>
   <string name="write_pon_pon_tile">Napiši oznake</string>
   <string name="write_success">Pisanje završeno</string>
   <string name="write_tag">Napiši oznaku</string>
   <string name="writing">Zapisivanje</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
-  <string name="xiaomi_external_storage_unavailable">Pohrana nedostupna, provjerite SD karticu.</string>
+  <string name="xiaomi_external_storage_unavailable">Umetnite vašu SD karticu.</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
-  <string name="xiaomi_update_dialog_message">"Predstavljamo verziju %1$s
+  <string name="xiaomi_update_dialog_message">"Verzija %1$s
 Veličina: %2$s"</string>
-  <string name="xiaomi_update_dialog_message_diff">"Predstavljamo verziju %1$s
+  <string name="xiaomi_update_dialog_message_diff">"Verzija %1$s
 Veličina ažuriranja: %2$s"</string>
-  <string name="xiaomi_update_dialog_title">%1$s ažuriranje!</string>
+  <string name="xiaomi_update_dialog_title">Dostupno ažuriranje za %1$s</string>
 </resources>

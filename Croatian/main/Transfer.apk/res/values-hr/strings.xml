@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_to_receive">O primanju datoteka</string>
+  <string name="about_to_receive">Primanje…</string>
   <string name="about_to_send">Pošalji datoteke</string>
-  <string name="add_download_task_failed">Dodavanje zadatka preuzimanja nije uspjelo! Pokušajte ponovo</string>
-  <string name="add_to_download">Dodano na red za preuzimanje</string>
-  <string name="add_to_restore">Dodano na red za vraćanje</string>
-  <string name="all_history">Sva povijest</string>
+  <string name="add_download_task_failed">Dodavanje zadatka preuzimanja nije uspjelo</string>
+  <string name="add_to_download">Ova datoteka je već dodana na red za preuzimanje</string>
+  <string name="add_to_restore">Ova datoteka je već dodana na red za slanje</string>
+  <string name="all_history">Povijest</string>
   <string name="already_select_files">Odabrano stavaka: %1$d</string>
-  <string name="apk">AplikacijE</string>
+  <string name="apk">Aplikacije</string>
   <string name="app_name">Prijenos</string>
   <string name="back">Natrag</string>
-  <string name="button_last">Započeti sada</string>
+  <string name="button_last">Start</string>
   <string name="button_next">Dalje</string>
   <string name="button_pre">Natrag</string>
-  <string name="can_not_find_explorer">"Ne mogu pronaći Datoteke aplikaciju, da li je instalirana?"</string>
-  <string name="can_not_send_this_file">"Slanje datoteke nije uspjelo!"</string>
+  <string name="can_not_find_explorer">"Ne mogu pronaći Datoteke aplikaciju"</string>
+    <string name="can_not_send_this_file">"Ne mogu poslati ovu datoteku"</string>
   <string name="cancel">Odustani</string>
   <string name="cancel_receive">Zaustavi primanje</string>
-  <string name="cancel_send">Zaustavi slanje</string>
+  <string name="cancel_send">Otkaži slanje</string>
   <string name="canceling">Otkazivanje…</string>
   <string name="choose_title">Odaberite datoteku</string>
   <string name="complete">Završeno!</string>
@@ -26,26 +26,26 @@
   <string name="connecting">Povezivanje…</string>
   <string name="continue_to_send">Nastavi slanje</string>
   <string name="defalut_nameofnewfile">Nova mapa</string>
-  <string name="delete">Izbrisati</string>
-  <string name="delete_history_message">Jeste li sigurni da želite obrisati svu povijest?</string>
-  <string name="device_default_name">Xiaomi telefon</string>
+  <string name="delete">Izbriši</string>
+  <string name="delete_history_message">Povijest će biti izbrisana.</string>
+  <string name="device_default_name">Xiaomi</string>
   <string name="device_name">Naziv uređaja</string>
-  <string name="device_name_tip">Kliknite Idi na o telefonu, a potom uredite naziv uređaja.</string>
+  <string name="device_name_tip">Unesite naziv uređaja</string>
   <string name="doc">Datoteke</string>
   <string name="download">Preuzimanje</string>
-  <string name="download_complete">%1$s | %2$s preuzeto iz: %3$s</string>
+  <string name="download_complete">%1$s | %2$s iz: %3$s</string>
   <string name="download_failed_msg">Greška kod primanja datoteke!</string>
-  <string name="download_succeed">Preuzimanje uspješno</string>
-  <string name="editmode_menu_delete">Izbrisati</string>
+  <string name="download_succeed">Preuzimanje dovršeno</string>
+  <string name="editmode_menu_delete">Izbriši</string>
   <string name="editmode_menu_share">Dijeli</string>
   <string name="empty_share_history">Nema povijesti dijeljenja</string>
   <string name="error_bad_file">Oštećena datoteka</string>
   <string name="error_connect_service">"Ne mogu se spojiti na uslugu prijenosa"</string>
-  <string name="error_download">Preuzimanje nije uspjelo</string>
+  <string name="error_download">Došlo je do nepoznate pogreške</string>
   <string name="error_general">Došlo je do nepoznate pogreške</string>
   <string name="error_info_cant_send_folder">"Pažnja! Mape se ne mogu slati"</string>
   <string name="error_network">Greška mreže</string>
-  <string name="error_nofile_selected">Nema odabranih datoteka</string>
+  <string name="error_nofile_selected">Odaberite mapu</string>
   <string name="error_not_enough_space">Nema dovoljno prostora na uređaju</string>
   <string name="error_not_selected">Datoteka nije odabrana ili ne postoji</string>
   <string name="error_peer_disconnected">Peer isključen</string>
@@ -54,7 +54,7 @@
   <string name="error_upload">Greška pri slanju</string>
   <string name="fail">Neuspjelo</string>
   <string name="failed">Neuspjelo</string>
-  <string name="file_download">Preuzmi datoteku</string>
+  <string name="file_download">Preuzmanja</string>
   <string name="file_downloading">Preuzimnje…</string>
   <string name="file_not_exist">Datoteka ne postoji</string>
   <string name="file_restore">Vraćanje datoteke</string>
@@ -91,7 +91,7 @@
   <string name="no_selected">Nema odabrane datoteke</string>
   <string name="no_transfer_history">Nema povijesti prijenosa</string>
   <string name="not_support_this_type">"Ova vrsta poruke nije podržana"</string>
-  <string name="noti_completed">Završeno, prenešeno %1$d/%2$d datoteka</string>
+  <string name="noti_completed">Završeno: prenešeno %1$d/%2$d datoteka</string>
   <string name="noti_receiving">%1$s: Primanje %2$d/%3$d datoteka</string>
   <string name="noti_sending">%1$s: Slanje %2$d/%3$d datoteka</string>
   <string name="noti_wait_receive">Čekanje za primanje datoteke…</string>
@@ -99,7 +99,7 @@
   <string name="notify_after_download">Obaviješteni nakon preuzimanja</string>
   <string name="notify_after_restore">Obaviješteni nakon vraćanja</string>
   <string name="ok">U redu</string>
-  <string name="online_file">MiDrive</string>
+  <string name="online_file">Online</string>
   <string name="only_support_single_share">Možete dijeliti samo 1 datoteku odjednom!</string>
   <string name="open">Otvori</string>
   <string name="operation_delete">Izbriši</string>
@@ -163,11 +163,11 @@ i može primati datoteke."</string>
   <string name="send_share_link">Dijeli poveznicu koristeći</string>
   <string name="send_sound">Pošalji s zvukom</string>
   <string name="send_tip">Količina poslanih slika, glazbe, kontakata i raznih drugih datoteka</string>
-  <string name="send_to">Poslano na:</string>
+  <string name="send_to">Pošalji na:</string>
   <string name="send_uncompleted">Prijenos nije kompletan</string>
   <string name="sent">Poslano</string>
-  <string name="settings_auto_pair_sender_summary">Automatski upari zvuk sa primateljem/pošiljateljem</string>
-  <string name="settings_auto_pair_sender_title">Automatski upari zvuk pošiljatelja</string>
+  <string name="settings_auto_pair_sender_summary">Koristi zvučni signal za uparivanje uređaja automatski</string>
+  <string name="settings_auto_pair_sender_title">Automatski upari putem zvuka</string>
   <string name="settings_connect">Postavke povezivanja</string>
   <string name="settings_label">Postavke prijenosa</string>
   <string name="settings_photo">Avatar</string>
@@ -181,7 +181,7 @@ i može primati datoteke."</string>
   <string name="share_item_not_found">Datoteka ne postoji za dijeljenje</string>
   <string name="share_message">Dijeljenih datoteka: %1$s</string>
   <string name="share_msg_model">"Podijelio sam datoteku s vama:
-na [ %1$s ]"</string>
+%1$s"</string>
   <string name="share_text">MIUI v5 podržava prijenos datoteka bez korištenja mobilnih podataka. Ne-MIUI v5 korisnici preuzmite: %1$s</string>
   <string name="shortmessage">Kratka poruka</string>
   <string name="start">Započni</string>
@@ -217,7 +217,8 @@ na [ %1$s ]"</string>
   <string name="waiting_receive">Čekanje pošiljatelja…</string>
   <string name="waitting">Čekanje…</string>
   <string name="wanna_receive">Primanje</string>
-  <string name="welcome_tip1">Brzo pošaljite datoteke, bez korištenja mobilne podatkovne veze</string>
+  <string name="welcome_tip1">Brzo pošaljite datoteke, bez korištenja mobilne podatkovne veze
+WLAN Ap će biti otvoren tijekom primanja"</string>
   <string name="welcome_tip2">Dijelite slike, glazbu, kontakte i još više toga!</string>
   <string name="you_can">U redu</string>
 </resources>

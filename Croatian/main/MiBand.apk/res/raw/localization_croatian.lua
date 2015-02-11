@@ -240,7 +240,7 @@ localization_Croatian_table = {
     battery_very_low_info="Baterija banda je skoro prazna.",
 
     cannot_find_bracelet="Ne možete pronaći svoj Mi Band?",
-    cannot_find_bracelet_info="Uvjerite se da j baterija vašeg MiBanda napunjena.",
+    cannot_find_bracelet_info="Uvjerite se da je baterija vašeg MiBanda napunjena.",
     challenge_to_get="%s dana od postizanja novog rekorda!",
     record_reach_max="Izjednačili ste svoj postojeći rekord!",
     new_record_born="Postigli ste novi rekord!",
@@ -255,9 +255,15 @@ localization_Croatian_table = {
     manual_lazy_subtitle_used="Niz će biti dodan ako postignete cilj poslije.",
     manual_fail_ytd_title = "Nažalost, niz je prekinut jučer",
     manual_fail_ytd_subtitle = "Vaš niz do jučer je bio %d.",
+	   ------====== Weather tips ===============
+    weather_tips_title_0 = "Heavy pollution, try to stay indoors",
+    weather_tips_title_1 = "Heavy pollution, try to stay indoors",
+    weather_tips_info = "Sit-ups or jumping rope are great indoor exercises!",
+    today_goal_reached_click_info="Stlačte pre zobrazenie výsledkov.",
+
     ---------------Weight scale -------------------
     welcome_use_weight_scale = "Dobrodošli u korištenje vage",
     welcome_use_weight_scale_not_bind = "Koliknite da povežete vage",
     welcome_use_mi_health="Dobrodošli u korištenje MI health",
-
+    daily_steps_not_comlete = "Stále je potrebných ešte %s krokov!"
  }
