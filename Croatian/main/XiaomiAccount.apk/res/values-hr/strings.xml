@@ -251,7 +251,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_error_invalid_phone_num">Nevažeći tel. broj</string>
   <string name="passport_error_login">"Ne mogu se prijaviti"</string>
   <string name="passport_error_network">"Ne mogu se povezati na mrežu"</string>
-  <string name="passport_error_no_sms_service">"Ne mogu sposlati SMS poruku. Mobilna mreža nije dostupna."</string>
+  <string name="passport_error_no_sms_service">"Ne mogu poslati SMS poruku. Mobilna mreža nije dostupna."</string>
   <string name="passport_error_phone_error">Nevažeći tel. broj</string>
   <string name="passport_error_server">Pogreška poslužitelja</string>
   <string name="passport_error_sim_not_ready">"Ne mogu pronaći SIM karticu"</string>
