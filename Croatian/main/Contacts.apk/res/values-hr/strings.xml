@@ -68,7 +68,7 @@
   <string name="call_home">"Nazovi kućni broj"</string>
   <string name="call_isdn">"Nazovi ISDN"</string>
   <string name="call_log_empty_gecode"/>
-  <string name="call_log_item_count_and_date"/>
+  <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
   <string name="call_log_new_header">"Novo"</string>
   <string name="call_log_old_header">"Starije"</string>
   <string name="call_main">"Nazovi glavni broj"</string>
