@@ -214,7 +214,7 @@
   <string name="facetan">Preplanulo lice</string>
   <string name="fail_hint">Radnja nije uspjela</string>
   <string name="fail_init_gallery_db_helper">"Ne mogu učitati bazu podataka Galerija"</string>
-  <string name="fail_to_download_n_items">"Ne mogu preuzeti %s stavaka"</string>
+  <string name="fail_to_download_n_items">"Ne mogu preuzeti %s"</string>
   <string name="fail_to_pick_email">Nevažeća E-pošta</string>
   <string name="fail_to_sync_album">"Ne mogu sinkronizirati album. Provjerite vašu podatkovnu vezu i pokušajte ponovno."</string>
   <string name="file_not_exist_message">"Datoteka ne postoji"</string>

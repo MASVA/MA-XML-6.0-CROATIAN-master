@@ -124,12 +124,12 @@
   <string name="bind_settings">Računi</string>
   <string name="bind_sina_weibo">Dodaj Sina Weibo račun</string>
   <string name="bind_sns_description">Prijavite se s %s.</string>
-  <string name="bind_weibo_description">"Pronađi kontakte telefona i prijatelje pomoću Wiebo</string>
-  <string name="binded">Dodano</string>
-  <string name="binded_description" formatted="false">%s je dodan na vaš Mi Račun. Vaš profil je ažuriran sa informacijama iz vašeg %s Računa.</string>
+  <string name="bind_weibo_description">"Dodaj svoje prijatelje s Sina Wiebo</string>
+  <string name="binded">Povezano</string>
+  <string name="binded_description" formatted="false">%s je povezan na vaš Mi Računom. Vaš profil je ažuriran sa informacijama iz vašeg %s Računa.</string>
   <string name="btn_return">Natrag</string>
   <string name="button_cancel">Odustani</string>
-  <string name="button_unbind">Ukloni</string>
+  <string name="button_unbind">Prekini vezu</string>
   <string name="change_password">Promjena zaporke</string>
   <string name="checking_account">Provjera zaporke…</string>
   <string name="checking_input">Provjera…</string>
@@ -137,7 +137,7 @@
   <string name="cloud_service_dspt">Sinkronizirajte vaše fotografije, kontakte, bilješke, aplikacije i više između svih vaših uređaja.</string>
   <string name="completed">Završeno</string>
   <string name="confirm">U redu</string>
-  <string name="confirm_unbind">Ukloniti ovaj račun?</string>
+  <string name="confirm_unbind">Prekinuti vezu s ovim računom?</string>
   <string name="data_keep_in_device">Zadrži podatke na ovom uređaju</string>
   <string name="data_wipe_from_device">Izbriši iz ovog uređaja</string>
   <string name="delete_device_btn">Ukloni</string>
@@ -147,9 +147,9 @@
   <string name="device_delete_success_message">"Ako se vi niste niste prijavili na ovom uređaju, odmah promijenite svoju zaporku."</string>
   <string name="device_delete_success_title">Odjavljeno</string>
   <string name="device_list__header">Moji uređaji</string>
-  <string name="device_list_title">Popis uređaja</string>
+  <string name="device_list_title">Moji uređaji</string>
   <string name="device_trust_info">Pouzdani uređaji</string>
-  <string name="email_or_id_hint_text">Adresa e-pošte ili ID Mi Računa</string>
+  <string name="email_or_id_hint_text">Adresa E-pošte ili ID Mi Računa</string>
   <string name="empty_device_list_notice">Nema uređaja</string>
   <string name="error_device_id">"Ne mogu dobiti IMEI"</string>
   <string name="error_invalid_dev_id">Nevažeći ID uređaja</string>
@@ -203,7 +203,7 @@
   <string name="no_network_title">"Ne mogu se povezati na mrežu."</string>
   <string name="no_response_retry">Nema odgovora, pokušajte ponovo.</string>
   <string name="no_sim_card">Nema SIM kartice</string>
-  <string name="nobind">Nije dodano</string>
+  <string name="nobind">Nije povezano</string>
   <string name="other_devices">Ostali uređaji</string>
   <string name="passport_access_denied">Pristup odbijen</string>
   <string name="passport_account_hint_text">E-pošta ili tel. broj</string>
@@ -372,9 +372,9 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="theme_store_dspt">Odaberite svoj ​​izgled. Stotine slobodnih prilagodljivih tema kako bi vaš telefon izgledao jedinstven.</string>
   <string name="timeout_retry">Istek vremena zahtjeva, pokušajte ponovo.</string>
   <string name="title_reg">Izradi račun</string>
-  <string name="trust_device">Vjerujte ovom uređajue</string>
-  <string name="unbind_sns_description">Nakon što uklonite ovaj račun, nećete biti u mogućnosti koristiti informacije vašeg %s Račun, za prijavu u vaš Mi Račun."</string>
-  <string name="unbind_weibo_description">Nakon što uklonite ovaj račun, nećete biti u mogućnosti sinkronizirati vaše kontakte iz Weibo, ili koristiti Sina Weibo Račun za prijavu."</string>
+  <string name="trust_device">Vjerujte ovom uređaju</string>
+  <string name="unbind_sns_description">Nakon što prekinete vezu s ovim računom, nećete biti u mogućnosti koristiti informacije vašeg %s Računa, za prijavu u vaš Mi Račun."</string>
+  <string name="unbind_weibo_description">Nakon što prekinete vezu s ovim računom, nećete biti u mogućnosti sinkronizirati vaše kontakte iz Sina Weibo, ili koristiti Sina Weibo Račun za prijavu."</string>
   <string name="update_contacts">Ažuriranje imenika</string>
   <string name="update_contacts_description">Neka Sina Weibo koristi vaš Mi Račun za sinkronizaciju informacija kontakta između platformi.</string>
   <string name="updated_nothing">Ažurirano</string>

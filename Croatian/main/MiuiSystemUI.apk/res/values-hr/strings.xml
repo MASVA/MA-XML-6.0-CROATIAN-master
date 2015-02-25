@@ -49,7 +49,7 @@
   <string name="app_label">"UI Sustava"</string>
   <string name="audio_effect_custom">Konfiguriraj</string>
   <string name="audio_effect_info">Optimiziraj zvuk</string>
-  <string name="audio_effect_settings">Podesite vrstu slušalica</string>
+  <string name="audio_effect_settings">odaberi vrstu slušalica</string>
   <string name="battery_low_percent_format">preostalo %d%%</string>
   <string name="battery_low_title">"Priključite punjač"</string>
   <string name="battery_profiles">Koristi profile baterije</string>
@@ -57,7 +57,7 @@
   <string name="call_status_dialing">"Biranje broja"</string>
   <string name="call_status_ringing">Zvonjava</string>
   <string name="camera_key_action_app_title">"Otvori aplikaciju"</string>
-  <string name="camera_key_action_category_title">Upotrijebi ako aplikacija fotoaparata nije otvorena</string>
+  <string name="camera_key_action_category_title">Upotrijebi ako aplikacija Fotoaparata nije otvorena</string>
   <string name="camera_key_action_none_title">Nema radnje</string>
   <string name="camera_key_action_setting_title">Mi Gumb</string>
   <string name="camera_key_action_shortcut_call">"Nazovi"</string>
@@ -104,7 +104,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="headset_custom">Konfiguriraj</string>
   <string name="headset_info">Dodirnite za podešavanje vrste slušalica i funkcije tipaka</string>
   <string name="headset_settings">Slušalice su spojene</string>
-  <string name="hint_for_long_press_app_switch_key">Dugi pritisak za prikazivanje izbornika</string>
+  <string name="hint_for_long_press_app_switch_key">Pritisni &amp; drži za izbornik</string>
   <string name="invalid_charger">USB punjenje nije podržano.
  Koristite isključivo originalni punjač.</string>
   <string name="label_view">Prikaži</string>
@@ -155,7 +155,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="status_bar_date_format">d.M E</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_network_flow_content">"Danas: %1$s   Preostalo: %2$s"</string> 
-  <string name="status_bar_network_flow_exceed_content">Danas: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Premašeno:&lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string> 
+  <string name="status_bar_network_flow_exceed_content">Danas: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan premašen:&lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string> 
   <string name="status_bar_network_flow_limit">"   Mjesečno ograničenje: %1$s"</string> 
   <string name="status_bar_network_flow_purchase">"   Kupljeno &gt;"</string> 
   <string name="status_bar_network_flow_today">Danas: %1$s</string> 
@@ -189,7 +189,7 @@ Povucite dolje za zaključavanje"</string>
   <string name="usb_debugging_title">Omogućiti rješavanje programske pogreške na USB-u?</string>
   <string name="usb_device_confirm_prompt">Otvoriti %1$s kada je uključen ovaj USB uređaj?</string>
   <string name="usb_device_permission_prompt">Dopustiti aplikaciji %1$s pristup USB uređaju?</string>
-  <string name="usb_mode_dont_ask">"Ne pitaj ponovo"</string>
+  <string name="usb_mode_dont_ask">"Zapamti ovaj odabir"</string>
   <string name="usb_mode_mount_storage_title">Otvoriti USB pohranu?</string>
   <string name="usb_mode_notification">USB pohrana</string>
   <string name="usb_mtp_text">Datoteke</string>
