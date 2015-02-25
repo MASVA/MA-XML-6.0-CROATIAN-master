@@ -40,7 +40,7 @@
   <string name="bookmark_select_all">Odaberi sve</string>
   <string name="bookmark_unselect_all">Poništi odabir</string>
   <string name="browser_filechooser_title">Odaberite datoteku za učitavanje</string>
-  <string name="browserFrameNetworkErrorLabel">Problem s vezom</string>
+  <string name="browser_no_more_tab">Posljedna kartica</string>
   <string name="cancel">Odustani</string>
   <string name="change_desktop">Promjena početnog zaslona</string>
   <string name="change_mode">Promjena načina</string>
@@ -149,7 +149,6 @@
   <string name="miui_content_select_all">Odaberi sve</string>
   <string name="miui_content_share">Dijeli</string>
   <string name="miui_content_web_search">Pretraži</string>
-  <string name="miuichromium_default_text_encoding">Latin-1</string>
   <string name="miuichromium_error_page_mobile">Mobilna mreža</string>
   <string name="miuichromium_error_page_reason_network">Prikaži URL</string>
   <string name="miuichromium_error_page_reason_server">Nije moguće učitati ovu stranicu</string>
@@ -214,17 +213,9 @@
   <string name="search">Traži</string>
   <string name="search_baidu">Baidu</string>
   <string name="search_bing">Bing</string>
-  <string name="search_dianping">Cate</string>
-  <string name="search_easou">Easou</string>
   <string name="search_google">Google</string>
   <string name="search_hint">Traži ili unesi URL</string>
-  <string name="search_s139">139</string>
-  <string name="search_shipin">Video</string>
-  <string name="search_sogou">Sogou</string>
-  <string name="search_taobao">Taobao</string>
-  <string name="search_tupian">Slika</string>
   <string name="search_yahoo">Yahoo</string>
-  <string name="search_yicha">Yicha</string>
   <string name="select">Odaberi</string>
   <string name="setting">Postavke</string>
   <string name="setting_menu_advance">Napredno</string>
@@ -268,7 +259,8 @@
   <string name="webview_cancel">Odustani</string>
   <string name="webview_find_on_page">Traži na stranici</string>
   <string name="webview_js_dialog_before_unload">"%s
-Jeste li sigurni da želite napustiti ovu stranicu?"</string>
+
+Sigurno želite napustiti ovu stranicu?"</string>
   <string name="webview_js_dialog_before_unload_negative_button">Ostati na stranici</string>
   <string name="webview_js_dialog_before_unload_positive_button">Napustiti ovu stranicu</string>
   <string name="webview_js_dialog_before_unload_title">Potvrda</string>
