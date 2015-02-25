@@ -203,8 +203,8 @@
   <string name="deleteSimContacts">Brisanje…</string>
   <string name="delete_fdn_contact">Brisanje broja za fiksno biranje</string>
   <string name="deleting_fdn_contact">Brisanje broja za fiksno biranje…</string>
-  <string name="description_delete_button">natrag</string>
-  <string name="description_dial_button">zovi</string>
+  <string name="description_delete_button">backspace</string>
+  <string name="description_dial_button">biraj</string>
   <string name="description_image_button_eight">osam</string>
   <string name="description_image_button_five">pet</string>
   <string name="description_image_button_four">četiri</string>
@@ -225,7 +225,7 @@
   <string name="dialog_network_priority_title">Prioritet</string>
   <string name="disable">Isključi</string>
   <string name="disable_all_cf">Isključiti sve značajke preusmjeravanja poziva</string>
-  <string name="disable_cfb_forbidden">Vaš davatelju usluga ne podržava isključivanje preusmjeravanja poziva ako je vaš telefon zauzet.</string>
+  <string name="disable_cfb_forbidden">Vaš davatelj usluga ne podržava isključivanje preusmjeravanja poziva ako je vaš telefon zauzet.</string>
   <string name="disable_cfnrc_forbidden">"Ne mogu proslijediti pozive kada je vaš telefon nedostupan."</string>
   <string name="disable_cfnry_forbidden">Vaš davatelj usluga ne podržava isključivanje preusmjeravanja poziva ako se na vaš telefon nitko ne javi.</string>
   <string name="disable_fdn">Isključi FDN</string>
