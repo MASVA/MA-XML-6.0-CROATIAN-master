@@ -406,7 +406,6 @@
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Zatvaranje pretinca za navigaciju</string>
   <string name="drawer_open">Otvaranje pretinca za navigaciju</string>
-  <string name="eas_template">domena\\korisnik</string>
   <string name="edit_quick_response_dialog">Brzi odgovor</string>
   <string name="elided_padding_token"> </string>
   <string name="email_feedback_uri"/>

@@ -15,6 +15,7 @@
         <item>Nijedan</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
+		</string-array>
     <string-array name="mvno_type_entries">
         <item>Nijedan</item>
         <item>SPN</item>
