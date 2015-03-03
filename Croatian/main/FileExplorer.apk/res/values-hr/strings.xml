@@ -66,6 +66,7 @@
   <string name="delete_files">Izbrisati datoteke %1$d ?</string>
   <string name="delete_folder">Izbrisati ovu datoteku?</string>
   <string name="delete_folders">Izbrisati mape %1$d?</string>
+  <string name="delete_selected_tasks">Izbrisati odabrano?</string>
   <string name="des_running_trans">Datoteke koje nisu premještene %1$d</string>
   <string name="dialog_select_type">Odaberite tip</string>
   <string name="dialog_type_audio">Zvuk</string>
@@ -100,7 +101,8 @@
   <string name="file_info_size">Veličina:</string>
   <string name="file_loading">Učitavanje…</string>
   <string name="file_not_exist">"Datoteka ne postoji"</string>
-  <string name="file_too_large">Datoteka prevelika za učitavanje.</string>
+  <string name="file_too_large">Datoteka je prevelika za učitavanje.</string>
+  <string name="files">Datoteke</string>
   <string name="finished">Završeno</string>
   <string name="folder_exist">Mapa već postoji</string>
   <string name="folder_name_illegal">Nevažeći naziv mape</string>
@@ -116,16 +118,32 @@
   <string name="ftp_username_hint">Korisničko ime</string>
   <string name="gbk_summary">Pojednostavljeni kineski Windows zadano kodiranje</string>
   <string name="gbk_title">GBK</string>
+  <string name="get_cloud_space">Dodaj 500GB</string>
   <string name="gigabyteShort">GB</string>
   <string name="instruction">Unesite adresu u FTP klijent:</string>
   <string name="instruction_pre">Dodirnite za pokretanje FTP poslužitelja</string>
   <string name="kilobyteShort">KB</string>
+  <string name="kp_category_all">Kategorija</string>
+  <string name="kp_category_doc">Word</string>
+  <string name="kp_category_excel">Excel</string>
+  <string name="kp_category_pdf">PDF</string>
+  <string name="kp_category_ppt">PowerPoint</string>
+  <string name="kp_category_txt">Tekst</string>
+  <string name="kuaipan_cloud_photo">KuaiPan slike</string>
+  <string name="kuaipan_create_shortcut_success">Prečac napravljen</string>
+  <string name="kuaipan_data_formater_with_year">mjesec M dan d godina YYYY</string>
+  <string name="kuaipan_data_formater_without_year">M mjesec d dan</string>
+  <string name="kuaipan_delete_success">Slika izbrisana</string>
   <string name="kuaipan_label">KuaiPan</string>
   <string name="kuaipan_over_space">Nedovoljno prostora</string>
+  <string name="kuaipan_photo_folder_divider">,</string>
+  <string name="kuaipan_photo_locate">Lokacija %1$s</string>
+  <string name="kuaipan_photo_more_folder_count">%1$s</string>
   <string name="kuaipan_prompt">Obavijest</string>
   <string name="kuaipan_prompt_message">"
  Naš poslužitelj je trenutno nedostupan. Pokušajte ponovno kasnije…
 "</string>
+  <string name="kuaipan_root_fooder">Početna</string>
   <string name="kuaipan_tech_support">Prijavite se na KuaiPan.cn</string>
   <string name="load_err">"Ne mogu učitati"</string>
   <string name="loading">Učitavam…</string>
@@ -182,6 +200,7 @@
   <string name="never_notify_network_connect">Zapamti postavke</string>
   <string name="new_folder_name">Mapa bez imena</string>
   <string name="no">Ne</string>
+  <string name="no_display_file">"Ne mogu prikazati %1$s"</string>
   <string name="no_enough_storage_indication">"Prostor uređaja za pohranu je pun."</string>
   <string name="no_enough_storage_title">Nema dovoljno prostora</string>
   <string name="no_file">Prazno</string>

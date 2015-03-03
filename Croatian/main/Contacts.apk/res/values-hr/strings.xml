@@ -1170,7 +1170,8 @@ Odaberite jednu od sljedećih opcija:</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Pristup lokaciji</string>
   <string name="yellowpage_navigation_no_content">"Ništa nije pronađeno"</string>
   <string name="yellowpage_navigation_search_city_name_hint">Grad</string>
-  <string name="yellowpage_navigation_search_offline_hint">Nema internetske adrese</string>
+  <string name="yellowpage_navigation_search_history">Povijest</string>
+  <string name="yellowpage_navigation_search_offline_hint">"Niste povezani s mrežom"</string>
   <string name="yellowpage_navigation_search_result_average_price">Prosječno RMB-a: %d</string>
   <string name="yellowpage_navigation_search_result_network_error">"Ne mogu se povezati na mrežu"</string>
   <string name="yellowpage_navigation_search_result_no_more">Nema više rezultata</string>

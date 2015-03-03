@@ -329,7 +329,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_user_agreement_p4">Pravila o Privatnosti</string>
   <string name="passport_vcode">Kôd za provjeru</string>
   <string name="passport_vcode_notification_title">Vaš potvrda prijave je nepotpuna</string>
-  <string name="passport_vcode_prompt_long">Unesite kôd koji je generirao vaš Mi Security token</string>
+  <string name="passport_vcode_prompt_long">Unesite kôd za provjeru</string>
   <string name="passport_verification_failed">Autentikacija nije uspjela</string>
   <string name="passport_verify">Provjeri</string>
   <string name="passport_welcome_skip_login">Preskoči ovaj korak</string>
@@ -384,9 +384,11 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="user_agreement_p4">Pravila o privatnosti</string>
   <string name="user_agreement_p6">"Suglasni ste s
   "</string>
+  <string name="user_avatar_update_title">Ažuriraj sliku profila</string>
+  <string name="user_avatar_uploading">Učitavanje…</string>
   <string name="vcode">Kôd za provjeru</string>
   <string name="vcode_notification_title">Provjera nije potpuna</string>
-  <string name="vcode_prompt_long">Unesite kôd kojeg je generirao vaš Mi Securtiy token</string>
+  <string name="vcode_prompt_long">Unesite kôd za provjeru</string>
   <string name="verification_failed">Autentikacija nije uspjela</string>
   <string name="verify">Provjeri</string>
   <string name="wipe_data_dialog_msg">%s će biti izbrisano ako nastavite.</string>
