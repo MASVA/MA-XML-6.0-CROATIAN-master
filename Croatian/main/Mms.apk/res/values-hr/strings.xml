@@ -318,6 +318,7 @@
   <string name="pref_mms_settings_title">Postavke MMS-a</string>
   <string name="pref_notification_settings_title">Postavke obavijesti</string>
   <string name="pref_other_title">Dodatne postavke</string>
+  <string name="pref_show_sms_template_summary">Automatski kopiraj i ispuni kodove za provjeru</string>
   <string name="pref_sms_theme_title">Postavke teme</string>
   <string name="pref_summary_allow_si_sl_push">Dopusti primanje obavijesti WAP push poruka (SI/SL)</string>
   <string name="pref_summary_delete_limit">%1$s poruka po razgovoru</string>
@@ -496,6 +497,7 @@
   <string name="timed_message_to">prima</string>
   <string name="title_collapse_sp_messages">Kombinirajte  poruke davatelja usluga</string>
   <string name="title_date_type">Oznaka vremena poruke</string>
+  <string name="title_show_sms_template">Provjeri SMS za kodove provjere</string>
   <string name="title_timed_message_dialog">Konfiguriraj vremensku poruku</string>
   <string name="to_address_label">"Prima: "</string>
   <string name="to_count">%d primatelja</string>

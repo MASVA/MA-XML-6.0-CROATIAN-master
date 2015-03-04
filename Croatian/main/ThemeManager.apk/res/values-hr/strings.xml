@@ -44,7 +44,7 @@
   <string name="gift_operation_fail_dlg_abandon">Odustani</string>
   <string name="gift_operation_fail_dlg_retry">Pokušajte ponovo</string>
   <string name="gift_operation_waiting">Trenutak…</string>
-  <string name="gift_owned">Lokalno</string>
+  <string name="gift_owned">Kupljeno</string>
   <string name="gift_present">Daj</string>
   <string name="gift_present_dlg_anonymous">Anoniman poklon</string>
   <string name="gift_present_dlg_input_hint">ID Mi Računa/Telefon</string>
@@ -60,7 +60,7 @@
   <string name="gift_purchase_success_dlg_content">Kupili ste %1$s kao poklon. Da ga pošaljete, idite na vašu stranicu računa Teme.</string>
   <string name="gift_purchase_success_dlg_title">Poklon kupljen</string>
   <string name="gift_purchased_endnote">Prima: %1$s</string>
-  <string name="gift_purchased_list_empty">"Niste ništa poklanjali. :("</string>
+  <string name="gift_purchased_list_empty">"Niste ništa poklanjali."</string>
   <string name="gift_purchased_list_empty_with_received_list_empty">Nema poklona.</string>
   <string name="gift_received_endnote">Šalje: %1$s (primljeno %2$s)</string>
   <string name="gift_received_list_empty">"Nemate primljenih poklona."</string>
@@ -181,7 +181,7 @@
   <string name="resource_exchange_wrong_format_by_local">Format koda koji ste unijeli je pogrešan</string>
   <string name="resource_exchange_wrong_format_by_server">Kod nije bilo moguće provjeriti. Provjerite da li ste ga ispravno unijeli.</string>
   <string name="resource_expand_full_text">Proširi</string>
-  <string name="resource_failed_to_load_list">"Ne mogu učitati popis"</string>
+  <string name="resource_failed_to_load_list">"Ne mogu učitati teme."</string>
   <string name="resource_get_auth_checking">Provjera…</string>
   <string name="resource_get_auth_exceed_max_limit_tips">10 uređaja je već odobreno na ovom računu</string>
   <string name="resource_get_auth_exceed_max_limit_title">Broj odobrenih uređaja je prekoračen</string>
@@ -197,7 +197,7 @@
   <string name="resource_local">Lokalno %1$s</string>
   <string name="resource_menu_refresh">Osvježi</string>
   <string name="resource_mute">Ništa</string>
-  <string name="resource_my">Lokalno</string>
+  <string name="resource_my">Izvanmrežno</string>
   <string name="resource_no_match_app">Nije pronađena aplikacija za obradu ove radnje.</string>
   <string name="resource_no_network_text">"Ne mogu se povezati na mrežu."</string>
   <string name="resource_no_result">"Ništa nije pronađeno"</string>
@@ -223,7 +223,7 @@
   <string name="resource_ringtone_playing_error">Pogreška</string>
   <string name="resource_ringtone_volume_mute">Zvono je utišano</string>
   <string name="resource_save_to_note">Spremi u Bilješke</string>
-  <string name="resource_search_list_empty">"Ništa nije pronađeno"</string>
+  <string name="resource_search_list_empty">"Ništa nije pronađeno."</string>
   <string name="resource_see_more">Prikaži više</string>
   <string name="resource_select">Odaberi</string>
   <string name="resource_select_ringtone_confirm">Odabrati ovaj zvuk?</string>

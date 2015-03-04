@@ -19,7 +19,7 @@
   <string name="artist_search_title">"Izvođač"</string>
   <string name="artist_view">"Izvođač"</string>
   <string name="audio_picker_title">Odaberi pjesmu</string>
-  <string name="auto_download_in_wifi">Omiljene pjesme će se automatski preuzeti preko WLAN-a</string>
+  <string name="auto_download_in_wifi">Automatski preuzmi omiljene pjesme preko WLAN-a</string>
   <string name="available_playlist_name_format">Novi popis pjesama %d</string>
   <string name="avoid_to_use_traffic_summary">"Nemoj koristiti mobilnu mrežu za stream glazbe"</string>
   <string name="avoid_to_use_traffic_title">Koristi samo WLAN za stream</string>
@@ -32,9 +32,10 @@
   <string name="cancel">Odustani</string>
   <string name="channel_list_fragment_title">Radio</string>
   <string name="choose_download_quality">Odaberi kvalitetu preuzimanja</string>
-  <string name="choose_stream_quality">Poželjna stream kvaliteta</string>
+  <string name="choose_stream_quality">Odaberi kvalitetu streama</string>
   <string name="click_modify">Dodirnite za uređivanje teksta pjesme</string>
-  <string name="click_to_shuffle">Dodirnite za izmiješati popis pjesama</string>
+  <string name="click_to_shuffle">Dodirnite za izmiješati sve</string>
+  <string name="click_to_view_new_local_audios">Dodirnite za pregled detalja.</string>
   <string name="close_music_time">"Preostalo vremena: "</string>
   <string name="create_playlist">Izradi novi popis pjesama</string>
   <string name="data_usage_warning">Uporaba podataka</string>
@@ -58,6 +59,7 @@
   <string name="dialog_title_name_playlist">Naziv popisa pjesama</string>
   <string name="dialog_title_remove_tracks">Ukloni</string>
   <string name="dialog_title_track_picker">Odaberi pjesme</string>
+  <string name="disallow_add_to_personal_radio">Osobni Radio je čitanje samo</string>
   <string name="done">Gotovo</string>
   <string name="download">Preuzmi</string>
   <string name="download_auto_after_favorite_summary">Automatski preuzmi pjesme koje su vam favoriti</string>
@@ -135,6 +137,7 @@
   <string name="fragment_title_artist_album">ALBUMI</string>
   <string name="fragment_title_bill">POPIS PJESAMA</string>
   <string name="fragment_title_channel">FM</string>
+  <string name="fragment_title_personal">OSOBNO</string>
   <string name="fragment_title_recommend">ISTAKNUTO</string>
   <string name="headset_settings">Slušalice i efekti zvuka</string>
   <string name="high_quality">Viša</string>
@@ -144,6 +147,8 @@
   <string name="impunity_declaration">Online sadržaj potječe iz Baidu Online Music Service. Korištenjem ove usluge, pristajete na Baidu http://music.baidu.com/doc/agreement" Uvjeti pružanja usluge</string>
   <string name="impunity_declaration_ignore">"Ne prikazuj ponovo"</string>
   <string name="impunity_declaration_settings">Prikaži "Uvjeti pružanja usluge"</string>
+  <string name="impunity_declaration_negative_text">Zatvori</string>
+  <string name="impunity_declaration_positive_text">U redu i nastavi</string>
   <string name="impunity_declaration_summary">Prikaži skočni prozor "Uvjeti pružanja usluge" za Baidu Online Music Service svaki puta kada se otvori aplikacija "Glazba"</string>
   <string name="impunity_declaration_title">Uvjeti pružanja usluge</string>
   <string name="in_searching_please_wait">Pretraživanje…</string>
@@ -189,6 +194,7 @@
   <string name="network_traffic">Uporaba podataka</string>
   <string name="no_album_info">Nema detalja o albumu</string>
   <string name="no_artist_info">Nema detalja o izvođaču</string>
+  <string name="no_enough_info">Premalo detalja o pjesmi</string>
   <string name="no_favorites_songs">Prazno</string>
   <string name="no_file_picker_find">"Aplikacija Datoteke nije instalirana na ovom uređaju"</string>
   <string name="no_introduction">Nema sažetka.</string>
@@ -250,14 +256,15 @@
   <string name="similar_songs">Slične pjesme</string>
   <string name="sleep_mode">Sleep timer</string>
   <string name="sleep_mode_canceled">Sleep mode isključen</string>
-  <string name="sleep_mode_summary">Zaustavite reprodukciju nakon proteklog vremena</string>
+  <string name="sleep_mode_summary">Zaustavi reprodukciju nakon određenog vremena</string>
   <string name="sleep_mode_title">Sleep timer</string>
   <string name="song_name">Pjesma</string>
-  <string name="song_not_find">"Ne mogu se spojiti na mrežu ili je ova pjesma nije dostupna."</string>
+  <string name="song_not_find">"Ne mogu se povezati na mrežu ili ova pjesma nije dostupna."</string>
   <string name="source_from">Izvor: %1$s</string>
   <string name="start_to_play">Reproduciraj</string>
   <string name="stream_quality">Kvaliteta streama</string>
   <string name="streamloadingtext">Povezivanje na %s</string>
+  <string name="suggest_text">Osobe kojima se ovo sviđa</string>
   <string name="support_online_only">Samo stream</string>
   <string name="tab_album_list">Albumi</string>
   <string name="tab_artist_list">Izvođači</string>
@@ -265,6 +272,7 @@
   <string name="tab_local_track_list">Pjesme</string>
   <string name="tab_track_list">Pjesme</string>
   <string name="take_effect_afater_restart">Morate ponovno pokrenuti aplikaciju da ove postavke stupe na snagu.</string>
+  <string name="today_update">Glazba je ažurirana</string>
   <string name="track_list_control_download">"Preuzmi"</string>
   <string name="track_list_control_edit_add_tracks">Dodaj pjesme</string>
   <string name="track_list_control_edit_delete_playlist">"Izbriši"</string>

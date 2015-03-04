@@ -7,7 +7,7 @@
   <string name="account_bind_devices">Uređaji</string>
   <string name="account_bind_settings">Računi</string>
   <string name="account_crop_user_avatar">Obreži sliku</string>
-  <string name="account_dspt_provision">"Koristite svoj Mi Račun za prijavu na Mi Cloud, MIUI Trgovinu Tema, te druge Mi Usluge, s bilo kojeg mjesta."</string>
+  <string name="account_dspt_provision">"Prijavite se na Mi Cloud, MIUI Trgovinu Tema, te druge Mi Usluge, s bilo kojeg mjesta."</string>
   <string name="account_dspt_provision2">Saznajte više</string>
   <string name="account_empty_user_name">Unesite naziv kor. ime vašeg Mi Računa</string>
   <string name="account_error_longer_user_name">"Ime ne može biti duže od 20 znakova"</string>
@@ -117,8 +117,8 @@
   <string name="alert_title_remove_account">Ukloniti račun?</string>
   <string name="app_name">Mi Račun</string>
   <string name="authorize_title">Autorizacija</string>
-  <string name="bad_authentication">Pogrešno korisničko ime ili zaporka</string>
-  <string name="barcode_add_account_prompt">Da biste dodali račun, skenirajte QR kôd ponovno nakon što se prijavite.</string>
+  <string name="bad_authentication">Pogrešan račun ili zaporka</string>
+  <string name="barcode_add_account_prompt">Da dodate račun, skenirajte QR kôd ponovno nakon što se prijavite.</string>
   <string name="bind_facebook">Dodaj Facebook račun</string>
   <string name="bind_qq">QQ</string>
   <string name="bind_settings">Računi</string>
@@ -181,7 +181,7 @@
   <string name="login_with_email_or_id">Prijavite se s drugim računom</string>
   <string name="logout_failed">"Ne mogu se odjaviti"</string>
   <string name="mi_account_dspt_provision">"Prijavite se na Mi Cloud, MIUI Trgovinu Tema i druge Mi Usluge, od bilo kuda."</string>
-  <string name="mi_service">Podrška</string>
+  <string name="mi_support_service">Podrška</string>
   <string name="mibi_balance">Mi Kredita %s</string>
   <string name="micloud_account_name">Mi Račun</string>
   <string name="micloud_area_code_title">Kod zemlje</string>

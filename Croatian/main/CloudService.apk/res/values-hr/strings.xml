@@ -10,7 +10,7 @@
   <string name="apple_cloud">Apple Cloud Service</string>
   <string name="apple_cloud_eng">iCloud</string>
   <string name="apple_cloud_price">Oko 72 RMB godišnje</string>
-  <string name="bad_authentication">Pogrešno korisničko ime ili zaporka</string>
+  <string name="bad_authentication">Pogrešan račun ili zaporka</string>
   <string name="btn_return">Natrag</string>
   <string name="button_cancel">Odustani</string>
   <string name="buy_space_expire">Kupljen prostor će isteći za %s</string>
@@ -59,7 +59,7 @@ Pronađite, zaključajte, ili resetirajte vaš uređaj na  "</string>
   <string name="find_device_dspt_provision_4">Ako promijenite SIM kartice, SMS poruka će automatski biti poslana za ponovno aktiviranje ove značajke.</string>
   <string name="find_device_enabling">Uključivanje…</string>
   <string name="find_device_error_network">Provjerite svoju podatkovnu vezu i pokušajte ponovno</string>
-  <string name="find_device_error_server">Greška poslužitelja</string>
+  <string name="find_device_error_server">Pogreška poslužitelja</string>
   <string name="find_device_noise_title">Zvuk lociranja uređaja</string>
   <string name="find_device_notice_p1">Idite na</string>
   <string name="find_device_notice_p2">i.mi.com</string>
@@ -129,7 +129,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_main_space_full">Nedovoljno prostora za pohranu</string>
   <string name="micloud_main_space_risk">Sinkronizirano stavaka %d</string>
   <string name="micloud_main_stop_sync">Zaustavi sinkr.</string>
-  <string name="micloud_main_suggest_sync">"Neke stavke nisu sinkronizirane s vašim Mi Cloudom"</string>
+  <string name="micloud_main_suggest_sync">"Ne mogu sinkronizirati sve"</string>
   <string name="micloud_main_sync_exception">pogreška sinkr.</string>
   <string name="micloud_main_sync_now">Sinkroniziraj sada</string>
   <string name="micloud_main_sync_on_wifi">Samo putem WLAN-a</string>
@@ -158,7 +158,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_title_dspt" formatted="false">"Ukupno %s
  Iskorišteno %s | Preostalo %s"</string>
   <string name="micloud_title_dspt_remain">%s preostalo</string>
-  <string name="micloud_title_full_dspt">"Dosegli ste ograničenje kapaciteta pohrane!"</string>
+  <string name="micloud_title_full_dspt">"Dosegli ste ograničenje kapaciteta pohrane"</string>
   <string name="micloud_unlogin_for_time_summary"/>
   <string name="micloud_unlogin_for_time_title">Mi Cloud</string>
   <string name="micloud_upgrade_space">nabavite više Prostora za pohranu</string>
