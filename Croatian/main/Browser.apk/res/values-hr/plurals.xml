@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<plurals name="v5_edit_mode_title">		
+       <item quantity="other">Odabrano: %1$d</item>		
+       <item quantity="one">Odabrano: %1$d</item>		
+    </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d od %2$d</item>
         <item quantity="one">1 podudarnost</item>

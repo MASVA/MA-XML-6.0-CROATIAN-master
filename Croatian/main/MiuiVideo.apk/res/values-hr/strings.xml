@@ -297,6 +297,8 @@
   <string name="userdata_alert_content">Korištenje vaše mobilne podatkovne veze za gledanje videozapisa će povećati uporabu podataka. Ako mislite potrošiti više od mjesečnog limita, vaš mobilni operater vam može naplatiti dodatne troškove.</string>
   <string name="userdata_alert_ok">Reproduciraj</string>
   <string name="userdata_alert_title">Upozorenje uporabe podataka</string>
+  <string name="variety">Istaknuto</string>
+  <string name="vertical_line">&lt;CDATA&gt; | &lt;/CDATA&gt;</string>
   <string name="video">Videozapis</string>
   <string name="video_info_audio_bitrate_label">Brzina zvučnog zapisa:</string>
   <string name="video_info_audio_coding_label">Audio kodiranje:</string>
