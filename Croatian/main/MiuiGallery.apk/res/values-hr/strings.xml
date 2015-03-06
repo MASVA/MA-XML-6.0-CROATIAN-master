@@ -71,10 +71,13 @@
   <string name="bigscreen_slide_fail_cause_loading">Ponovno pokreni dijaprojekciju nakon učitavanja slika.</string>
   <string name="bigscreen_slide_playing">Dijaprojekcija se reproducira na: %s</string>
   <string name="bigscreen_video_quit">Dodirnite za izlaz</string>
+  <string name="black_white">Crno Bijelo</string>
+  <string name="brannan">Ptica</string>
   <string name="browse_category">Pretraži</string>
   <string name="by_email">E-pošta</string>
   <string name="by_others">Ostalo</string>
   <string name="by_sms">SMS</string>
+  <string name="camera_black_white">Fotoaparat Crno Bijelo</string>
   <string name="camera_connected">Fotoaparat uključen.</string>
   <string name="camera_disconnected">Fotoaparat je isključen.</string>
   <string name="camera_folder_display_name">Fotoaparat</string>
@@ -134,12 +137,16 @@
   <string name="confirm_download">Morate preuzeti %s.</string>
   <string name="confirm_download_video_message">Morate završiti s preuzimanjem ovog videozapisa prije nego što ga možete pogledati. Preuzimanje će se nastaviti kada je WLAN dostupan.</string>
   <string name="confirm_download_video_title">Preuzmi videozapis</string>
+  <string name="confirm_merge_face_albums">" "&lt;Data&gt; Spoji ovaj album s albumom &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
   <string name="contact_photo">Postavi za fotografiju kontakta</string>
   <string name="context_menu_add_contact">Dodaj u kontakte</string>
   <string name="context_menu_copy">Kopiraj</string>
   <string name="context_menu_copy_notice">Kopirano u međuspremnik</string>
   <string name="contrast">Kontrast</string>
+  <string name="cool">Cool</string>
+  <string name="cool_portrait">Cool Portret</string>
   <string name="create_new_cloud_folder">Napravi novu mapu</string>
+  <string name="create_new_face">Nova lice</string>
   <string name="crop">Obreži</string>
   <string name="crop_fail_to_load_image">"Ne mogu učitati sliku"</string>
   <string name="crop_label">Obrezivanje slike</string>
@@ -180,6 +187,7 @@
   <string name="download_refocus_data">Preuzmi refokusiranjem podataka</string>
   <string name="duotone">Dvobojno</string>
   <string name="duration">Trajanje</string>
+   <string name="early_bird">Ptica</string>
   <string name="edit">Uredi</string>
   <string name="edited_photo_bucket_name">Uređeno</string>
   <string name="email_picker_title">Dodaj podijeljenu e-poštu</string>
@@ -210,6 +218,16 @@
   <string name="external_sdcard_root">Root direktorij vanjske SD kartice</string>
   <string name="external_usb_device">USB pohrana</string>
   <string name="external_usb_device_hm">Vanjska USB pohrana</string>
+  <string name="face_album">Lice albuma</string>
+  <string name="face_album_not_named">Bez naziva</string>
+  <string name="face_album_rename_hint">Unesite naziv</string>
+  <string name="face_albumset_detecting_tip">"Otkrivanje lica…
+lice albuma će uskoro biti dostupno"</string>
+  <string name="face_albumset_empty">"Nema otkrivenih lica
+pokušati napraviti više fotografija"</string>
+  <string name="face_albumset_use_tip">"Pomozite pronaći ona lijepa lica,
+čineći ga jednostavnijim za prikaz i upravljanje slikama"</string>
+  <string name="face_move_dialog_title">Odaberite lice albuma</string> 
   <string name="facelift">Sjaj lica</string>
   <string name="facetan">Preplanulo lice</string>
   <string name="fail_hint">Radnja nije uspjela</string>
@@ -253,8 +271,10 @@
   <string name="highlight">Isticanja</string>
   <string name="home_my_captured_items">" snimaka fotoaparata"</string>
   <string name="home_page_tab_cloud">Cloud</string>
+  <string name="home_page_tab_face">Lice</string>
   <string name="home_page_tab_local">Lokalno</string>
   <string name="home_page_tab_photo">Fotografija</string>
+  <string name="ignore_face">Ignoriraj ovo lice</string>
   <string name="image_download_item_title">Preuzmimanje slike (%s)</string>
   <string name="image_quota_fulfiled">Previše slika. Izbrišite neke slike i pokušajte ponovno.</string>
   <string name="immomo_camera">Immomo</string>
@@ -314,6 +334,7 @@
   <string name="menu_item_sort_size_asc">Veličini (ulazno)</string>
   <string name="menu_item_sort_size_desc">Veličini (silazno)</string>
   <string name="menu_view_contact">Prikaži kontakt</string>
+  <string name="merge_album_positive_button_text">Spoji</string>
   <string name="message_no_delete_access">"Nemate dopuštenje za brisanje %s"</string>
   <string name="messagelist_sender_self">Ja</string>
   <string name="miliao">Mi Talk</string>
@@ -338,6 +359,7 @@
   <string name="mtxx">MTXX</string>
   <string name="multiface_crop_help">Dodirnite lice za početak.</string>
   <string name="must_pick_file">Odaberi sliku</string>
+  <string name="name_wrong">Nije %s</string>
   <string name="negative">Negativan</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
   <string name="new_device_tips">"Dodirnite za prikaz uređaja"</string>
@@ -355,7 +377,8 @@
   <string name="none_picture">Nema slika</string>
   <string name="not_auto_create_recent_album">Nemoj automatski stvarati nedavni album</string>
   <string name="not_now">Ne sada</string>
-  <string name="not_show_hidden_albums">Ne pokazuj skriveni album</string>
+  <string name="not_show_hidden_albums">Ne prikazuj skriveni album</string>
+  <string name="old">Staro</string>
   <string name="only_show_camera_in_first_page">Prikaži samo s fotoaparata</string>
   <string name="only_show_camera_in_first_page_summary">Prikaži samo fotografije s fotoaparata vašeg Mi Clouda.</string>
   <string name="open">Omogući</string>
@@ -370,6 +393,7 @@
   <string name="operation_failed">Radnja nije uspjela!</string>
   <string name="operation_in_process">Obrada…</string>
   <string name="operation_refresh">Osvježi</string>
+  <string name="operation_remove_from_face_album">Ukloni lice</string>
   <string name="operation_remove_secret">Ukloni iz sakrivenog albuma</string>
   <string name="operation_rename">Preimenuj</string>
   <string name="operation_set_as_screensaver">Postavi kao čuvar zaslona</string>
@@ -398,7 +422,7 @@
   <string name="photo_paint_crop">Obreži</string>
   <string name="photo_paint_effect">Efekat</string>
   <string name="photo_paint_rotate">Rotiraj</string>
-  <string name="photo_saved">Fotografija spremljena u %s</string>
+  <string name="photo_save_succeed">Uspješno spremljeno</string>
   <string name="photo_size">Veličina</string>
   <string name="photoeditor_name">Mi Foto Studio</string>
   <string name="photos">Fotografije</string>
@@ -414,6 +438,7 @@
   <string name="pocketcamera">Džepnakamera</string>
   <string name="posterize">Posterizacija</string>
   <string name="ppmm_gallery">PPMM</string>
+  <string name="preparing_data">Priprema podataka…</string>
   <string name="preparing_data_to_delete">Priprema za brisanje slika…</string>
   <string name="priority_storage">Spremi na SD karticu</string>
   <string name="priority_storage_summary">Kad je umetnuta SD kartica, automatski preuzimaj datoteke na SD karticu</string>
@@ -437,6 +462,8 @@
   <string name="remove_from_secret_unfinished_message_with_count">"%1$s nije uklonjeno iz sakrivenog albuma"</string>
   <string name="remove_hidden_album">Prikaži</string>
   <string name="remove_recent_album">Ukloni iz omiljenih albuma</string>
+  <string name="rename_face_album">Promjeni naziv</string>
+  <string name="rename_fail_msg">"Ne mogu preimenovati"</string>
   <string name="rename_failed">"Ne mogu preimenovati"</string>
   <string name="rename_failed_duplicated_name">Datoteka s istim imenom već postoji.</string>
   <string name="renren_image">RenRen</string>
@@ -446,6 +473,7 @@
   <string name="request_sms_url_title">Savjet</string>
   <string name="retry_to_create_album">Pokušaj ponovo</string>
   <string name="retry_to_request_qr_code">Pokušaj ponovo</string>
+  <string name="rise">Podigni</string>
   <string name="rotate">Rotiraj</string>
   <string name="rotate_tooltip">Povucite fotografiju da biste je rotirali</string>
   <string name="same_name_album_exists_alert">Fotografije će biti učitane na postojeći album s istim nazivom</string>
@@ -519,6 +547,7 @@
   <string name="slideshow_repeat_mode">Ponoviti</string>
   <string name="square">Kvadrat</string>
   <string name="start_slide_show">Pokreni dijaprojekciju</string>
+  <string name="start_to_use_face_albumset">Započnite koristiti albume lica</string>
   <string name="storage_all_volumes">Svi uređaji za pohranu</string>
   <string name="storage_no_space">"Nema dovoljno prostora za pohranu."</string>
   <string name="straighten">Prilagodi</string>
@@ -569,6 +598,7 @@
   <string name="user_alias_self">Sam</string>
   <string name="video_err">"Ne mogu reproducirati videozapis."</string>
   <string name="video_not_exist">Videozapis ne postoji</string>
+  <string name="view_face_album">Pogledaj album</string>
   <string name="view_sharers">Pogledaj sudionike</string>
   <string name="vignette">Vinjeta</string>
   <string name="wallpaper">Slika pozadine</string>
@@ -580,6 +610,7 @@
   <string name="weixin">WeChat</string>
   <string name="where_is_barcode">Gdje je QR kod?</string>
   <string name="white_balance">Balans bijele</string>
+  <string name="who_is_this">Tko je ovo ?</string>
   <string name="widget_type">Odaberi slike</string>
   <string name="widget_type_album">Odaberi album</string>
   <string name="widget_type_photo">Odaberi sliku</string>

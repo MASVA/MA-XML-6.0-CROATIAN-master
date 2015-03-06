@@ -1039,7 +1039,7 @@ Ako je tekst vašeg sustava još uvijek premalen, pokušajte koristiti "</string
   <string name="home_app_uninstall_button">Deinstaliraj aplikaciju</string>
   <string name="home_key">Početna</string>
   <string name="home_settings">Početna</string>
-  <string name="ime_security_warning">%1$sOva tipkovnica može snimiti sve što tipkate, uključujući zaporke, brojeve kreditnih kartica i druge osobne podatke.</string>
+  <string name="ime_security_warning">%1$s može snimiti sve što tipkate, uključujući zaporke, brojeve kreditnih kartica i druge osobne informacije.</string>
   <string name="immediately_destroy_activities">"Uklanjanje aktivnosti"</string>
   <string name="immediately_destroy_activities_summary">Uništite svaku aktivnost čim je korisnik napusti</string>
   <string name="ims_reg_required_off">Treba isključiti IMS prijavu</string>
@@ -2615,11 +2615,12 @@ Riječ možete dodati dodirom na tipku Dodaj (+)"</string>
   <string name="wifi_context_menu_change_wapi_certificate">Promijeni WAPI certifikat</string>
   <string name="wifi_context_menu_connect">Poveži</string>
   <string name="wifi_context_menu_forget">Zaboravi</string>
+  <string name="wifi_datanetwork_switch_not_remind">"Ne prikazuj ponovo"</string>
   <string name="wifi_disabled_generic">Onemogućeno</string>
   <string name="wifi_disabled_help">WLAN veza je prekinuta zbog slabog signala</string>
   <string name="wifi_disabled_network_failure">Izbjegavanje slabe internetske veze</string>
   <string name="wifi_disabled_password_failure">Problem u autentikaciji</string>
-  <string name="wifi_disconnected_notification_summary">"Niste povezani na WLAN."</string>
+  <string name="wifi_disconnected_notification_summary">"Niste više povezani na WLAN."</string>
   <string name="wifi_disconnected_notification_title">WLAN nepovezan</string>
   <string name="wifi_display_autonomous_go">Omogući autonomni GO</string>
   <string name="wifi_display_certification">Certifikacija bežičnog zaslona</string>

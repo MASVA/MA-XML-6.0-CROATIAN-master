@@ -43,11 +43,23 @@
         <item>8 sekundi</item>
         <item>9 sekundi</item>
         <item>10 sekundi</item>
-        <item>Ostalo...</item>
+        <item>Ostalo…</item>
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
         <item>Uvijek</item>
         <item>Samo u bešumnom načinu</item>
         <item>Nikad</item>
+    </string-array>
+	<string-array name="entries_sms_validity_period">
+        <item>Nije podešeno</item>
+        <item>1 sat</item>
+        <item>6 sati</item>
+        <item>12 sati</item>
+        <item>1 dan</item>
+        <item>Maksimalno</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>Maksimalno</item>
+        <item>2 dana</item>
     </string-array>
 </resources>

@@ -300,7 +300,8 @@
   <string name="notification_multiple">Nepročitanih poruka: %s.</string>
   <string name="notification_multiple_title">Nove poruke</string>
   <string name="number_add_hint">Unesite broj za dodavanje</string>
-  <string name="overwrite_edited_content">Uređeni sadržaj će biti pregažen, nastaviti?</string>
+  <string name="open_url_with_web">Dopustiti otvaranje URL-a s Webom?</string>
+  <string name="overwrite_edited_content">Uređeni sadržaj će biti prebrisan, nastaviti?</string>
   <string name="phrase_confirm_delete_message">Odabrani izraz bit će izbrisan</string>
   <string name="phrase_empty">Nema izraza</string>
   <string name="phrase_from">Šalje %1s</string>
@@ -350,11 +351,13 @@
   <string name="pref_title_mms_delete">Ograničenje multimedijske poruke</string>
   <string name="pref_title_mms_read_reports">Čitaj izvješća</string>
   <string name="pref_title_mms_retrieval_during_roaming">Automatsko vraćanje u Roamingu</string>
+  <string name="pref_title_mms_validity_period">Vrijeme valjanosti MMS-a</string>
   <string name="pref_title_notification_body_enabled">Prikaži obavijest na zaklj. zaslonu</string>
   <string name="pref_title_ringtone_repeat">Broj ponavljanja tona obavijesti</string>
   <string name="pref_title_ringtone_repeat_summary">"Broj ponavljanja tona obavijesti kod primljenog SMS-a dok je zaslon isključen: "</string>
   <string name="pref_title_show_recent_contacts">Nedavni kontakti</string>
   <string name="pref_title_sms_delete">Ograničenje teksta poruke</string>
+  <string name="pref_title_sms_validity_period">Vrijeme valjanosti SMS-a</string>
   <string name="pref_title_system_mms_priority">Postavi kao zadano</string>
   <string name="pref_title_vcard">Pošalji kroz vCard</string>
   <string name="pref_title_wake_up_screen">Buđenje zaslona</string>

@@ -92,6 +92,7 @@
   <string name="account_setup_check_settings_check_outgoing_msg">Provjeravanje postavki SMPT-a…</string>
   <string name="account_setup_check_settings_retr_info_msg">Učitavanje podataka o računu…</string>
   <string name="account_setup_creating_account_msg">Izrada računa…</string>
+  <string name="account_setup_deleting_account_msg">Brisanje računa…</string>
   <string name="account_setup_exchange_certificate_title">Certifikat klijenta</string>
   <string name="account_setup_exchange_device_id_label">ID mobilnog uređaja</string>
   <string name="account_setup_exchange_no_certificate">Ništa</string>
