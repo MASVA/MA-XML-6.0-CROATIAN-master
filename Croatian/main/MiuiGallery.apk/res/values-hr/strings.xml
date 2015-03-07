@@ -24,6 +24,7 @@
   <string name="add_to_secret_successfully_message">Dodano u sakriveni album</string>
   <string name="add_to_secret_unfinished_message_with_count">Stavaka nije dodano u sakriveni album: %1$s</string>
   <string name="adding_recipients">Dodavanje primatelja…</string>
+  <string name="adjust">Prilagodi</string>
   <string name="album_member">Član albuma %s</string>
   <string name="album_name">Naziv albuma</string>
   <string name="album_quota_fulfiled">Previše albuma. Izbrišite neke albume i pokušajte ponovno.</string>
@@ -187,9 +188,10 @@
   <string name="download_refocus_data">Preuzmi refokusiranjem podataka</string>
   <string name="duotone">Dvobojno</string>
   <string name="duration">Trajanje</string>
-   <string name="early_bird">Ptica</string>
+  <string name="early_bird">Ptica</string>
   <string name="edit">Uredi</string>
   <string name="edited_photo_bucket_name">Uređeno</string>
+  <string name="effect">Efekti</string>
   <string name="email_picker_title">Dodaj podijeljenu e-poštu</string>
   <string name="enable">Uključi</string>
   <string name="enable_cloud_for_sharing">Omogućite MiCloud album za pregled zajedničkih slika.</string>

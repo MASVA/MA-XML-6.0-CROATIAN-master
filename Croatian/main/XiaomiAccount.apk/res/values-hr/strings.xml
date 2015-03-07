@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_device_info">Prikaži pojedinosti o uređaju</string>
   <string name="access_denied">Pristup odbijen</string>
   <string name="access_token_expired_warning">Weibo račun je istekao</string>
   <string name="access_token_invalid_warning">Weibo račun je nevažeći</string>
