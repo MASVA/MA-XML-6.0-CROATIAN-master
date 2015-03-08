@@ -1,7 +1,7 @@
 MA-XML-6.0-CROATIAN-master
 ==========================
 
-MIUIv6 XML CROATIAN TRANSLATION
+CROATIAN Translation For Xiaomi MIUI V6 Android Based OS
 
 
  MIUI Translation: **MASVA**
@@ -13,7 +13,11 @@ MIUIv6 XML CROATIAN TRANSLATION
  
  • CROATIAN MIUI Fansite
 
-   http://adria.mobiledevs.net/
+   http://croatia.miui.website/
+   
+ • Forum:
+
+  http://www.miui.website/
   
  • Multilang MIUI Support
  
