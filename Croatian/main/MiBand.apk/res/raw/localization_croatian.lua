@@ -1,6 +1,6 @@
 -------------------------
 -- Croatian Localization String resources
--- adria.mobiledevs.net (2014)
+-- www.miui.website (2014)
 -- MASVA
 -------------------------
 localization_Croatian_table = {
@@ -173,11 +173,12 @@ localization_Croatian_table = {
     day='dan',
     step="koraka",
     km='km',
+    mile='milja',
     minute_format='%dmin',
     hour_minute_format='%ds %dm',
-    hour_format='%dsati',
+    hour_format='%d sati',
 
-    welcome_use="Dobrodošli...",
+    welcome_use="Dobrodošli",
     last_week_walked_format='Prošli tjedan prohodali ste %d koraka.',
     last_week_walked_info_format='Prohodano %d km, potrošeno %d kal.',
     last_month_walked_format='Prošli mjesec prohodali ste %d koraka.',
@@ -189,15 +190,18 @@ localization_Croatian_table = {
     take_a_walk_info="Vaš Miband evidentira svaki vaš korak tijekom dana.",
     unlock_hint="Otključajte svoj telefon s MiBandom!",
     unlock_hint_info="Otkrijte novi način zaštite vaše privatnosti.",
+    unlock_password_hint="Postavite zaključavanje zaslona kako bi telefon bio siguran.",
+    unlock_password_hint_info="Mi Band pruža najbolje otključavanje zaslona.",
     no_data_hint_0="Nastavite se kretati, neka sport postane dijelom vašeg života.",
     no_data_hint_1="Ponavljanje je otac uspjeha.",
     no_data_hint_2="Težite napretku, a ne savršenstvu.",
     no_data_hint_3="Normalna odrasla osoba troši 15% -20% ukupnog vremena sna u dubokoj fazi sna. ",
-    not_binded_hint="Nijedan Mi Band nije uparen s ovim računom, uparite ga sada. ",
+    not_binded_hint="Nijedan Mi Band nije uparen s ovim računom. ",
     not_binded_hint_info="Također možete kliknuti na Vaga u izborniku.",
     new_record_info="Postigli ste novi rekord.",
     new_record_format="%d koraka, %s %d",
     today_goal_reached="Postigli ste svoj cilj za danas!",
+    today_goal_reached_click_info="Kliknite za prikaz detalja.",
     week_continue_reach_goal="Vi",
 
     challenge_format="Postigli ste svoj cilj %d dana za redom!",
@@ -225,6 +229,7 @@ localization_Croatian_table = {
     activie_run_consumed="Potrošeno %dcal. %s",
 
     get_distance_format="oko %dm.",
+    get_distance_format_british="%d inches",
     activity_walk_format="%s Prohodano %d koraka %s",
     activity_walk_consumed_format="Potrošeno %dkal%s.",
     activity_rope_skipping_format="%s preskakanje užeta %d puta",
@@ -241,30 +246,23 @@ localization_Croatian_table = {
 
     cannot_find_bracelet="Ne možete pronaći svoj Mi Band?",
     cannot_find_bracelet_info="Uvjerite se da je baterija vašeg MiBanda napunjena.",
+
+    bracelet_disconnect = "Ne mogžete se povezati? Kliknite za pomoć.",
+
     challenge_to_get="%s dana od postizanja novog rekorda!",
     record_reach_max="Izjednačili ste svoj postojeći rekord!",
     new_record_born="Postigli ste novi rekord!",
 
-    minute='min',
-    km='KM',
-    minute_format='%d min',
-
-
-    active_time_format_2="%dh %dmin",
-    manual_lazy_subtitle="Niz će se prikriti ako potvrdite.",
-    manual_lazy_subtitle_used="Niz će biti dodan ako postignete cilj poslije.",
-    manual_fail_ytd_title = "Nažalost, niz je prekinut jučer",
-    manual_fail_ytd_subtitle = "Vaš niz do jučer je bio %d.",
 	   ------====== Weather tips ===============
     weather_tips_title_0 = "Heavy pollution, try to stay indoors",
     weather_tips_title_1 = "Heavy pollution, try to stay indoors",
     weather_tips_info = "Sit-ups or jumping rope are great indoor exercises!",
-    today_goal_reached_click_info="Kliknite da vidite rezultat.",
 
     ---------------Weight scale -------------------
     welcome_use_weight_scale = "Dobrodošli u korištenje vage",
-    welcome_use_weight_scale_not_bind = "Koliknite da povežete vage",
+    welcome_use_weight_scale_not_bind = "Kliknite da povežete vage",
     welcome_use_mi_health="Dobrodošli u korištenje MiBanda",
+
     select_devices="Odaberite uređaje za uparivanje",
-    daily_steps_not_comlete = "Još uvijek je potrebno napraviti %s koraka!"
+    daily_steps_not_comlete = "%s preostalo koraka"
  }
