@@ -129,7 +129,7 @@ Za uključivanje ove značajke, idite na Postavke &gt; Dodatne postavke &gt; Tip
   <string name="softap_notifif_title">Hot-spot \"%s\" uključen</string>
   <string name="solar_calendar"/>
   <string name="spring_begins"/>
-  <string name="status_bar_toggle_ac">Pristup</string>
+  <string name="status_bar_toggle_ac">Zaklj. zaslona</string>
   <string name="status_bar_toggle_auto_brightness">Svjetlina</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_brightness">Svjetlina</string>

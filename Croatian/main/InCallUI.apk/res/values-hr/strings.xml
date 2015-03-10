@@ -509,9 +509,9 @@
   <string name="reverting_settings">Vraćanje postavki…</string>
   <string name="ringtone_title">Melodija zvona</string>
   <string name="roaming">Uporaba podataka u roamingu</string>
-  <string name="roaming_disable">Uporaba podataka u roamingu onemogućena</string>
-  <string name="roaming_enable">Uporaba podataka u roamingu omogućena</string>
-  <string name="roaming_reenable_message">Podatkovna veza izgubljena jer je data roaminga isključen.</string>
+  <string name="roaming_disable">Nemoj koristiti podatkovne usluge u roamingu</string>
+  <string name="roaming_enable">Koristi podatkovne usluge u roamingu</string>
+  <string name="roaming_reenable_message">Podatkovna veza izgubljena jer je roaming podataka isključen.</string>
   <string name="roaming_warning">Dopustiti Uporabu podataka u roamingu? Mogući visoki troškovi!.</string>
   <string name="save">Spremi</string>
   <string name="saving_account">Spremanje računa…</string>

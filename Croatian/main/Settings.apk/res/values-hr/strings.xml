@@ -459,6 +459,11 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="bluetooth_unlock_settings_devices_title">Uređaj</string>
   <string name="bluetooth_unlock_settings_toggle_title">Primjeni na</string>
   <string name="bluetooth_unlock_settings_unlock_device">Otključaj uređaj</string>
+  <string name="bluetooth_unlock_state_disconnected">Nije povezano</string>
+  <string name="bluetooth_unlock_state_key_error">Pogreška ključa</string>
+  <string name="bluetooth_unlock_state_label">Status:</string>
+  <string name="bluetooth_unlock_state_ok">Uspješno</string>
+  <string name="bluetooth_unlock_state_too_far">Nije dovoljno blizu</string>
   <string name="bluetooth_unlock_title">Otključaj s Bluetooth uređajem</string>
   <string name="bluetooth_unlock_turned_off">Isključeno</string>
   <string name="bluetooth_unlock_turned_on">Uključeno</string>
@@ -757,13 +762,14 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="device_name_usage_point">Ovaj će naziv biti vidljiv drugim uređajima u blizini</string>
   <string name="device_picker">Odabir Bluetooth uređaja</string>
   <string name="device_sd_memory">SD kartica</string>
+  <string name="device_security_settings_title">Sigurnost</string>
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">Status</string>
   <string name="device_status_summary">Status telefona, mreže itd.</string>
   <string name="dialog_content_login">Potreban je Mi Račun za ažuriranja, sigurno se želite prijaviti?</string>
   <string name="dialog_no">"Ne"</string>
   <string name="dialog_title_color_calibration">Odabir korekcije boja</string>
-  <string name="dialog_title_font_size">Veličina fonta</string>
+  <string name="dialog_title_font_size">Veličina teksta</string>
   <string name="dialog_title_hdmi_color_calibration">Odabir korekcije boja</string>
   <string name="dialog_title_login">Prijavite se u vaš Mi Račun</string>
   <string name="dialog_yes">Da</string>
@@ -882,6 +888,7 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="enable_adb">Uklanjanje pogreške USB-a</string>
   <string name="enable_adb_summary">Uklanjanje pogrešaka s priključenim USB-om</string>
   <string name="enable_compatibility">Skaliranje aplikacije</string>
+  <string name="enable_crypt_keeper_encrypt">Omogući enkripciju</string>
   <string name="enable_drive_mode">Automobilski način</string>
   <string name="enable_mobile_data_when_opening_hotspot">Uključiti mobilnu podatkovnu vezu također?</string>
   <string name="enable_opengl_traces_title">Omogući OpenGL praćenja</string>
@@ -1135,6 +1142,8 @@ Ako je tekst vašeg sustava još uvijek premalen, pokušajte koristiti "</string
   <string name="local_backup_section_summary">Sig. kopija postavki sustava, detalja računa, i aplikacija</string>
   <string name="local_backup_section_title">Lokalna pohrana</string>
   <string name="locale_default">Zadano</string>
+  <string name="location_access_off">Isključeno</string>
+  <string name="location_access_on">Uključeno</string>
   <string name="location_access_summary">Omogućite da aplikacije koje su tražile vaše dopuštenje upotrebljavaju informacije o vašoj lokaciji</string>
   <string name="location_access_title">Pristup mojoj lokaciji</string>
   <string name="location_agps_apn_choose_dialog_title">Vrsta APN-a</string>
@@ -1656,7 +1665,9 @@ i pokrenite ga."</string>
   <string name="privacy_mode_dialog_message">Pozivi, bilješke, slike, poruke, i postavke pokretača će biti sakrivene od korisnika</string>
   <string name="privacy_mode_dialog_title">Gost način rada</string>
   <string name="privacy_mode_enable_sum">Sakrij poruke, bilješke, slike i dolazne pozive od korisnika</string>
-  <string name="privacy_mode_enable_title">Gost način</string>
+  <string name="privacy_mode_enable_title">Gost način rada</string>
+  <string name="privacy_mode_summary">Korisnički detalji će biti skriveni od korisnika</string>
+  <string name="privacy_mode_title">Dopuštenja</string> 
   <string name="privacy_protect_title">Zaštita privatnosti</string>
   <string name="privacy_relative">Privatnost</string>
   <string name="privacy_settings">Stvori Sig. kopiju &amp; poništi</string>
@@ -1826,8 +1837,8 @@ i pokrenite ga."</string>
   <string name="ringtone_title">"Melodija zvona"</string>
   <string name="ringtone_uniform_setting_title">Postavke dvije SIM kartice</string>
   <string name="roaming">Roaming podataka</string>
-  <string name="roaming_disable">"Poveži se s podatkovnim uslugama u roamingu"</string>
-  <string name="roaming_enable">"Poveži se s podatkovnim uslugama u roamingu"</string>
+  <string name="roaming_disable">"Nemoj koristiti podatkovne usluge u roamingu"</string>
+  <string name="roaming_enable">"Koristi podatkovne usluge u roamingu"</string>
   <string name="roaming_reenable_message">Izgubili ste podatkovnu vezu jer ste napustili domaću mrežu uz isključeni mrežni roaming podataka.</string>
   <string name="roaming_reenable_title">"Omogućiti roaming podataka?</string>
   <string name="roaming_turn_it_on_button">Uključi</string>
@@ -2228,7 +2239,7 @@ Googleov pristup sinkronizaciji podataka za mogućnost pristupa kontaktima, sast
   <string name="title_dolby_control">Dolby digital plus</string>
   <string name="title_font">Font</string>
   <string name="title_font_current">Odaberite font sustava</string>
-  <string name="title_font_size">Veličina fonta</string>
+  <string name="title_font_size">Veličina teksta</string>
   <string name="title_hdmi_color_calibration">Pohranjene postavke korekcije boje</string>
   <string name="title_layout_current">Odabeite veličinu fonta</string>
   <string name="title_local_resource">Lokalni resursi</string>
