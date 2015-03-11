@@ -869,7 +869,6 @@ Za dodavanje kontakta na listu favorita :
   <string name="resource_detail_vertical_divider">|</string>
   <string name="resource_detail_window_title">Detalja %1$s</string>
   <string name="resource_download">Preuzimanje</string>
-  <string name="resource_download_notification_content">Dodirnite za pregled</string>
   <string name="resource_download_notification_title_many">Preuzeto Tema: %1$s</string>
   <string name="resource_download_notification_title_one">Tema preuzeta</string>
   <string name="resource_download_trial">Isprobajte besplatno</string>
@@ -948,6 +947,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="resource_share_text">Evo teme koja bi vam se mogla svidjeti: %1$s! Poveznica: %2$s</string>
   <string name="resource_share_title">Podijeli</string>
   <string name="resource_system_title">Resursi sistema</string>
+  <string name="resource_tab_to_view">Dodirnite za pregled.</string>
   <string name="resource_tip_select_none">Nije odabrano</string>
   <string name="resource_title">Detalji</string>
   <string name="resource_title_category">Kategorija</string>

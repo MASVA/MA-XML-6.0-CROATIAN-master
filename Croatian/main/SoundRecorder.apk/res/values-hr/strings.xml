@@ -47,6 +47,7 @@
   <string name="preference_record_type_title">Tip snimanja</string>
   <string name="preference_scenes">Tip snimanja</string>
   <string name="preference_silent_mode">Isključi zvuk zvona tijekom snimanja</string>
+  <string name="preference_tip_rename">Prikaži dijalog preimenovanja nakon zaustavljanja snimanja</string>
   <string name="record_back_pressed_hint">Za zaustavljanje snimanja, dodirnite Natrag ponovo</string>
   <string name="record_download">Preuzmi s MiClouda</string>
   <string name="record_download_activity">Popis preuzimanja</string>
@@ -67,11 +68,13 @@
   <string name="record_list_cloud_fm">Sinkr. snimke FM-a</string>
   <string name="record_list_fm">FM Snimke</string>
   <string name="record_name_hour">.</string>
+  <string name="record_picker_title">Odaberi snimku</string>
   <string name="recording">Snimanje…</string>
   <string name="recording_stopped">Zaustavljeno</string>
   <string name="rename">Preimenuj</string>
   <string name="rename_dialog_title">Preimenuj snimku</string>
   <string name="rename_duplicate">Snimka s istim imenom već postoji.</string>
+  <string name="rename_no_more_tip">Nema više savjeta</string>
   <string name="retry">Pokušaj ponovo</string>
   <string name="sound_recorder_settings">Postavke</string>
   <string name="start">Nastavi</string>

@@ -2865,6 +2865,7 @@ Postavljanje uređaja može zahtijevati znatnu mrežnu aktivnost."</string>
   <string name="wifi_tether_starting">Uključivanje hotspota…</string>
   <string name="wifi_tether_stopping">Isključivanje hotspota…</string>
   <string name="wifi_type_approval"/>
+  <string name="wifi_type_approval_dialog_title">NTC NO.</string>
   <string name="wifi_type_approval_title">Vrsta odobrenja</string>
   <string name="wifi_unchanged">(nepromijenjeno)</string>
   <string name="wifi_unspecified">(nije određeno)</string>

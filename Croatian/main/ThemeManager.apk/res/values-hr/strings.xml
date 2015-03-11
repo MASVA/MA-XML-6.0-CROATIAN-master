@@ -156,7 +156,6 @@
   <string name="resource_detail_vertical_divider">|</string>
   <string name="resource_detail_window_title">Detalji %1$s</string>
   <string name="resource_download">Preuzimanje</string>
-  <string name="resource_download_notification_content">Dodirnite za pregled.</string>
   <string name="resource_download_notification_title_many">Preuzeto Tema: %1$s</string>
   <string name="resource_download_notification_title_one">Tema preuzeta</string>
   <string name="resource_download_trial">Isprobajte besplatno</string>
@@ -207,15 +206,15 @@
   <string name="resource_pack_confirm">"Iako ste već kupili %1$d komponente ove teme, još je uvijek jeftinije ako kupite cijeli paket."</string>
   <string name="resource_pack_discount_info">Ušteđeno: %1$s</string>
   <string name="resource_pack_get_auth_has_been_undercarriaged">Ova tema više nije dostupna.</string>
-  <string name="resource_pack_price_info">Originalna cijena: %1$s</string>
+  <string name="resource_pack_price_info">Izvorna cijena: %1$s</string>
   <string name="resource_pack_warning">"Već ste kupili %1$d komponente ove teme. Jeftinije je ako kupite preostale komponente pojedinačno."</string>
   <string name="resource_present">Poklon</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Besplatno</string>
   <string name="resource_price_unit">Mi Kredita</string>
-  <string name="resource_purchase_getting_order">Preuzimam info narudžbe…</string>
+  <string name="resource_purchase_getting_order">Preuzimam detalje narudžbe…</string>
   <string name="resource_purchase_verifying_payment">Provjeravam detalje plaćanja…</string>
-  <string name="resource_purchase_waiting_payment">Čekam info o plaćanju…</string>
+  <string name="resource_purchase_waiting_payment">Čekam detalje o plaćanju…</string>
   <string name="resource_ranking">Popularno</string>
   <string name="resource_ranking_free">Besplatno</string>
   <string name="resource_ranking_purchase">Uz plaćanje</string>
@@ -235,6 +234,7 @@
   <string name="resource_share_text">Evo teme koja bi vam se mogla svidjeti: %1$s! Poveznica: %2$s</string>
   <string name="resource_share_title">Podijeli</string>
   <string name="resource_system_title">Resursi sustava</string>
+  <string name="resource_tab_to_view">Dodirnite za pregled.</string>
   <string name="resource_tip_select_none">Nije odabrano</string>
   <string name="resource_title">Detalji</string>
   <string name="resource_title_category">Kategorije</string>

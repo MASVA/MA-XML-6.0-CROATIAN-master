@@ -438,6 +438,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="msim_default_setting">Zadane postavke</string>
   <string name="msim_enable_sim">Uključi</string>
   <string name="msim_general_setting">Postavke</string>
+  <string name="msim_has_been_disabled">(Onemogućeno)</string>
   <string name="msim_info_editor_name">Uredi naziv SIM kartice</string>
   <string name="msim_info_editor_number">Uredi broj SIM kartice</string>
   <string name="msim_info_editor_set_name_error">"Ne mogu spremiti ime."</string>
