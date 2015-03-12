@@ -29,6 +29,7 @@
   <string name="add_account">Dodavanje računa</string>
   <string name="add_calendar">Dodaj kalendar</string>
   <string name="add_topic_success">Dodano \"%s\"</string>
+  <string name="add_topic_unsuccess">Dodavanje \"%s\" nije uspjelo</string>
   <string name="agenda_today">DANAS, %1$s</string>
   <string name="agenda_tomorrow">SUTRA, %1$s</string>
   <string name="agenda_view">Raspored</string>
@@ -281,7 +282,12 @@
   <string name="snooze_all_label">Odgodi sve</string>
   <string name="snooze_label">Odgodi</string>
   <string name="subscribe_all">Prijava</string>
-  <string name="synced">sinkronizirano</string>
+  <string name="sync_notice_cancel_toast_message">"Lokalni Kalendar neće biti sinkroniziran s Mi Cloudom"</string>
+  <string name="sync_notice_message">Niste sinkronizirali Kalendar s Mi Cloudom, dopustiti sinkr. sada?</string>
+  <string name="sync_notice_ok">Dopusti</string>
+  <string name="sync_notice_ok_toast_message">Lokalni Kalendar biti će sinkroniziran s Mi Cloudom</string>
+  <string name="sync_notice_title">Zahtjev za sinkr.</string>
+  <string name="synced">Sinkronizirano</string>
   <string name="tab_local">Lokalno</string>
   <string name="tab_online">Preporuka</string>
   <string name="taishen">Božje dijete</string>
@@ -310,7 +316,7 @@
   <string name="widget_select_style">Odaberite stil</string>
   <string name="work_day_indication"/>
   <string name="wuxing"/>
-  <string name="xiaomi_calendar_display_name">Kalendar</string>
+  <string name="xiaomi_calendar_display_name">Kalendar Mi Računa</string>
   <string name="xingxiu"/>
   <string name="yearly">Godišnje (svake %s)</string>
   <string name="yearly_plain">Godišnje</string>

@@ -5,6 +5,7 @@
   <string name="activate">Aktiviraj</string>
   <string name="activating">Aktiviranje…</string>
   <string name="alert_notif_title_dspt">Nije sinkronizirano</string>
+  <string name="antispam_sync">Postavke "Ne ometaj me"</string>
   <string name="app_name">Mi Cloud</string>
   <string name="apple_10gb">20GB</string>
   <string name="apple_cloud">Apple Cloud Service</string>
@@ -21,13 +22,16 @@
   <string name="buy_space_sulotion_renew_message">Valjano za %s</string>
   <string name="buy_space_sulotion_renew_title">Obnovite pretplatu</string>
   <string name="buy_space_sulotion_title">Kupite prostor za pohranu</string>
+  <string name="calendar_sync">Kalendar</string>
+  <string name="click_to_enabled">Dodirni za sinkr.</string>
   <string name="cloud_find_device">Pronađi Uređaj</string>
   <string name="cloud_space_upgrade_message">Dodirnite za dodavanje %sGB na vaš cloud.</string>
   <string name="cloud_space_upgrade_no_quota_info">"Ne mogu dobiti detalje prostora za pohranu"</string>
   <string name="cloud_space_upgrade_title">Više prostora za Mi Cloud</string>
-  <string name="cloud_sync_setting_summary_standard">Sinkronizacija MMS-a, fotografija i videozapisa kad je povezano na WLAN</string>
-  <string name="cloud_sync_setting_summary_wlan">Samo na WLAN-u: Sinkr. svih podataka samo preko WLAN-a</string>
-  <string name="cmcc_micloud_dspt">Koristite Mi Cloud za sinkronizaciju podataka, pronalazak svog telefona,</string>
+  <string name="cloud_sync_setting_summary_standard">Koristi mobilnu podatkovnu vezu za sinkronizaciju kontakata, poruka, povijesti poziva, bilježaka, WLAN postavki, podataka preglednika i popisa pjesama</string>
+  <string name="cloud_sync_setting_summary_wlan">Svi podaci će biti sinkronizirati kada je povezano na WLAN</string>
+  <string name="cloudservice_new_sync">Sinkr. %s s Mi Cloudom</string>
+  <string name="cmcc_micloud_dspt">Koristite Mi Cloud za sinkronizaciju podataka, da pronađete svoj uređaj, i podijelite stvari s prijateljima.</string>
   <string name="contact">Kontakti</string>
   <string name="disable_find_device_error">"Ne mogu isključiti "Pronađi uređaj". %1$s"</string>
   <string name="enableAll">Sinkroniziraj sve</string>
@@ -63,10 +67,11 @@ Pronađite, zaključajte, ili resetirajte vaš uređaj na  "</string>
   <string name="find_device_noise_title">Zvuk lociranja uređaja</string>
   <string name="find_device_notice_p1">Idite na</string>
   <string name="find_device_notice_p2">i.mi.com</string>
-  <string name="find_device_notice_p3">"da locirate, zaključate, ili obnovite svoj uređaj na daljinu.
+  <string name="find_device_notice_p3">"da pronađete, zaključate, ili obnovite svoj uređaj na daljinu.
 Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za ponovno aktiviranje ovu značajku."</string>
   <string name="find_device_send_sms_alert">Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za ponovno aktiviranje ovu značajku.</string>
-  <string name="find_device_status_ok">Pronađite ureðaj s bilo kojeg mjesta na i.mi.com</string>
+  <string name="find_device_status_ok">Pronađite svoj ureðaj s bilo kojeg mjesta na i.mi.com</string>
+  <string name="find_device_status_ok_international">Pronađite svoj ureðaj s bilo kojeg mjesta na www.mi.com/micloud</string>
   <string name="find_device_stop_noise">Dodirnite U redu za utišavanje</string>
   <string name="find_device_success_title">Pronađi uređaj</string>
   <string name="free_space_has_received">Već ste dodali slobodan prostor ovaj mjesec</string>
@@ -80,18 +85,17 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="header_data_and_synchronization">Podaci &amp; sink.</string>
   <string name="header_other_settings">Dodatne postavke</string>
   <string name="i_know">U redu</string>
-  <string name="less_flow_mode">Koristi mobilne podatke za sinkr.</string>
-  <string name="license_host_unreachable">"Ne mogu se spojiti na mrežu. Da biste vidjeli ove podatke sada, idite na %s."</string>
+  <string name="license_host_unreachable">"Ne mogu se povezati na mrežu. Da biste vidjeli ove podatke sada, idite na %s."</string>
   <string name="loading">Učitavanje…</string>
   <string name="loading_hint">Učitavanje</string>
-  <string name="master_alert_notif_dspt_add">Stavki čeka na sinkr.: %s</string>
+  <string name="master_alert_notif_dspt_add">Za sinkr.: %s</string>
   <string name="master_alert_notif_dspt_no">Sinkronizirano</string>
   <string name="master_alert_notif_title">Zadnja sinkr. prije dana %s</string>
   <string name="micloud_check_sim_notify_text">"Izgleda da ste promijenili SIM kartice. Prijavite se
-na vaš Mi Račun za aktiviranje Mi Cloud."</string>
+na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_check_sim_notify_title">Ponovno aktiviraj Mi Cloud</string>
   <string name="micloud_check_sim_title">"Izgleda da ste promijenili SIM kartice. Prijavite se
-na vaš Mi Račun za aktiviranje Mi Cloud."</string>
+na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_detail_fail">"Ne mogu sinkr."</string>
   <string name="micloud_detail_lastest">Sinkronizirano</string>
   <string name="micloud_detail_pending">Na čekanju</string>
@@ -130,7 +134,8 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_main_space_risk">Sinkronizirano stavaka %d</string>
   <string name="micloud_main_stop_sync">Zaustavi sinkr.</string>
   <string name="micloud_main_suggest_sync">"Ne mogu sinkronizirati sve"</string>
-  <string name="micloud_main_sync_exception">pogreška sinkr.</string>
+  <string name="micloud_main_sync_exception">Pogreška sinkr.</string>
+  <string name="micloud_main_sync_init">Prikupljanje iformacija</string>
   <string name="micloud_main_sync_now">Sinkroniziraj sada</string>
   <string name="micloud_main_sync_on_wifi">Samo putem WLAN-a</string>
   <string name="micloud_main_sync_pause">Pauziraj sinkr.</string>
@@ -138,17 +143,21 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_main_synced_data_count">Sinkronizirano stavaka %d</string>
   <string name="micloud_main_syncing">Sinkroniziram…</string>
   <string name="micloud_main_update_space">Nabavite više prostora za pohranu</string>
-  <string name="micloud_main_wlan_sync_data_count">%d stavaka čeka na sinkr. preko WLAN mreže</string>
+  <string name="micloud_main_wlan_sync_data_count">%d stavaka čeka na sinkr.</string>
   <string name="micloud_more">Saznaj više</string>
   <string name="micloud_other_product_price">Usporedba cijena</string>
   <string name="micloud_proceed">Nastavi</string>
-  <string name="micloud_sec_dspt">i podijeli stvari s svojim prijateljima.</string>
+  <string name="micloud_sec_dspt">i podijelite stvari sa svojim prijateljima.</string>
+  <string name="micloud_setting_antispam_summary">Iznimke za "Ne ometaj me" i blokirani brojevi telefona.</string>
   <string name="micloud_setting_browser_summary">Oznake, povijest i kartice</string>
   <string name="micloud_setting_contact_summary">Podaci o kontaktima i fotografije profila</string>
   <string name="micloud_setting_gallery_summary">Fotografije i videozapisi</string>
   <string name="micloud_setting_music_summary">Popisi za reprodukciju i favoriti</string>
   <string name="micloud_setting_sms_summary">SMS i MMS Poruke</string>
   <string name="micloud_setting_wifi_summary">WLAN postavke</string>
+  <string name="micloud_single_dspt">Koristite Mi Cloud za sinkronizaciju podataka, da pronađete svoj uređaj, i podijelite stvari sa prijateljima.</string>
+  <string name="micloud_space_duokan_detail">Upravljajte vašim Duokan sadržajem putem Duokan aplikacije.</string>
+  <string name="micloud_space_duokan_title">Duokan</string>
   <string name="micloud_space_full_influence">Što će se dogoditi ako ponestane prostora?</string>
   <string name="micloud_storage_expires_auto_renewal_sum">Osigurajte dovoljno Mi Kredita za automatsku obnovu.</string>
   <string name="micloud_storage_expires_manually_renewal_sum">"Neke cloud usluge mogu biti obustavljene. Preporuka je da se omogući autom. obnova."</string>

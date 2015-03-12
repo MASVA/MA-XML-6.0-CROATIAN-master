@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="delete_files_confirm">
-         <item quantity="other">Izbrisati %1$d datoteke</item>
-         <item quantity="zero">Izbrisati %1$d datoteke</item>
-         <item quantity="one">Izbrisati %1$d datoteku</item>
-         <item quantity="two">Izbrisati %1$d datoteke</item>
-         <item quantity="few">Izbrisati %1$d datoteke</item>
-         <item quantity="many">Izbrisati %1$d datoteke</item>
+         <item quantity="other">Izbrisati datoteke (%1$d)</item>
+         <item quantity="zero">Izbrisati datoteke (%1$d)</item>
+         <item quantity="one">Izbrisati datoteku (%1$d)</item>
+         <item quantity="two">Izbrisati datoteke (%1$d)</item>
+         <item quantity="few">Izbrisati datoteke (%1$d)</item>
+         <item quantity="many">Izbrisati datoteke (%1$d)</item>
     </plurals>
     <plurals name="delete_folders_confirm">
-         <item quantity="other">" i %1$d mape?"</item>
-         <item quantity="zero">" i %1$d mapu?"</item>
-         <item quantity="one">" i %1$d mapu?"</item>
-         <item quantity="two">" i %1$d mape?"</item>
-         <item quantity="few">" i %1$d mapa?"</item>
-         <item quantity="many">" i %1$d mapa?"</item>
+         <item quantity="other">" i mape (%1$d)?"</item>
+         <item quantity="zero">" i mape (%1$d)?"</item>
+         <item quantity="one">" i mape (%1$d)?"</item>
+         <item quantity="two">" i mape (%1$d)?"</item>
+         <item quantity="few">" i mape (%1$d)?"</item>
+         <item quantity="many">" i mape (%1$d)?"</item>
     </plurals>
     <plurals name="directory_item_count">
          <item quantity="other">Stavaka: %d</item>
@@ -25,27 +25,27 @@
          <item quantity="many">Stavaka: %d</item>
     </plurals>
     <plurals name="ui_bar_txt_download_progress">
-         <item quantity="other">%1$d datoteka preostalo za preuzimanje</item>
-         <item quantity="zero">%1$d datoteka preostalo za preuzimanje</item>
-         <item quantity="one">%1$d datoteka preostala za preuzimanje</item>
-         <item quantity="two">%1$d datoteke preostale za preuzimanje</item>
-         <item quantity="few">%1$d datoteka preostalo za preuzimanje</item>
-         <item quantity="many">%1$d datoteka preostalo za preuzimanje</item>
+         <item quantity="other">Preostalo datoteka za preuzimanje (%1$d)</item>
+         <item quantity="zero">Preostalo datoteka za preuzimanje (%1$d)</item>
+         <item quantity="one">Preostalo datoteka za preuzimanje (%1$d)</item>
+         <item quantity="two">Preostalo datotekae za preuzimanje (%1$d)</item>
+         <item quantity="few">Preostalo datoteka za preuzimanje (%1$d)</item>
+         <item quantity="many">Preostalo datoteka za preuzimanje (%1$d)</item>
     </plurals>
     <plurals name="ui_bar_txt_upload_progress">
-         <item quantity="other">%1$d datoteka preostalo za učitavanje</item>
-         <item quantity="zero">%1$d datoteka preostalo za učitavanje</item>
-         <item quantity="one">%1$d datoteka preostala za učitavanje</item>
-         <item quantity="two">%1$d datoteke preostale za učitavanje</item>
-         <item quantity="few">%1$d datoteka preostalo za učitavanje</item>
-         <item quantity="many">%1$d datoteka preostalo za učitavanje</item>
+         <item quantity="other">Preostalo datoteka za učitavanje (%1$d)</item>
+         <item quantity="zero">Preostalo datoteka za učitavanje (%1$d)</item>
+         <item quantity="one">Preostalo datoteka za učitavanje (%1$d)</item>
+         <item quantity="two">Preostalo datoteka za učitavanje (%1$d)</item>
+         <item quantity="few">Preostalo datoteka za učitavanje (%1$d)</item>
+         <item quantity="many">Preostalo datoteka za učitavanje (%1$d)</item>
     </plurals>
     <plurals name="numSelectedFile">
-        <item quantity="other">Odabrano: %1$d</item>
-        <item quantity="zero">Odabrano: %1$d</item>
-        <item quantity="one">Odabrano: %1$d</item>
-        <item quantity="two">Odabrano: %1$d</item>
-        <item quantity="few">Odabrano: %1$d</item>
-        <item quantity="many">Odabrano: %1$d</item>
+        <item quantity="other">Odabrano (%1$d)</item>
+        <item quantity="zero">Odabrano (%1$d)</item>
+        <item quantity="one">Odabrano (%1$d)</item>
+        <item quantity="two">Odabrano (%1$d)</item>
+        <item quantity="few">Odabrano (%1$d)</item>
+        <item quantity="many">Odabrano (%1$d)</item>
     </plurals>
 </resources> 

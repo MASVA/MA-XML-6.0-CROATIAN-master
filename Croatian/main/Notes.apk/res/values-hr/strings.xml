@@ -102,6 +102,14 @@
   <string name="toast_reach_text_limit_truncate">Bilješka je predugačka. Dio teksta je odsječen sa kraja bilješke radi prilagođavanja.</string>
   <string name="undo">Poništi</string>
   <string name="unknown_source">Nepoznat izvor</string>
+  <string name="welcome_note_for_cm">"I još puno velikih mogućnosti!
+  - Sinkronizacija s Mi Cloud
+  - Spremanje kod izlaza 
+  - Postavljanje podsjetnika
+  
+Ako želite saznati više, posjetite
+http://www.miui.com/forum.php?lang=1
+"</string>
   <string name="widget_content_loading">Učitavanje…</string>
   <string name="widget_havenot_content">Nema povezanih bilješki.</string>
   <string name="widget_under_privacy_mode">"Ne mogu prikazati bilješku u Gost načinu rada"</string>

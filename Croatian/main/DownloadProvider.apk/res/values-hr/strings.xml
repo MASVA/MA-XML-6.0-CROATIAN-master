@@ -47,6 +47,10 @@
   <string name="privacy_tip_title">Koristiti Xunlei Accelerator?</string>
   <string name="root_downloads">Preuzimanja</string>
   <string name="task_already_exist">Zadatak već postoji</string>
+  <string name="warning_tip_cancel">继续下载</string>
+  <string name="warning_tip_content">无线网络已经中断，如果继续下载会使用您的数据流量，可能会产生额外费用，建议您暂停下载。</string>
+  <string name="warning_tip_ok">暂停</string>
+  <string name="warning_tip_title">数据网络切换警告</string>
   <string name="wifi_recommended_body" formatted="false">"Pokretanje ovog preuzimanja od %s  može skratiti vijek baterije i/ili uzrokovati pretjeranu upotrebu podatkovne veze i dodatne troškove.
 
 

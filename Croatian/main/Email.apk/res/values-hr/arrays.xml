@@ -19,8 +19,8 @@
         <item>Sve mape</item>
     </string-array>
     <string-array name="prefEntries_autoAdvance">
-        <item>Novije</item>
-        <item>Starije</item>
+        <item>Novije poruke</item>
+        <item>Starije poruke</item>
         <item>Popis razgovora</item>
     </string-array>
     <string-array name="prefSummaries_autoAdvance">
@@ -46,11 +46,11 @@
         <item>Ogroman</item>
     </string-array>
 	<string-array name="menu_att_mgr_sort_string_array">
-        <item>Nedavno</item>
+        <item>Nedavno pregledano</item>
         <item>Format</item>
         <item>Ime</item>
         <item>Pošiljatelj</item>
-        <item>Datum</item>
+        <item>Datum primitka</item>
      </string-array>
      <string-array name="signature_normal_string_array">
          <item>Blog:</item>

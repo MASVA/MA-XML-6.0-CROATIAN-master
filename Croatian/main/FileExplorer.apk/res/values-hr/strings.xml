@@ -2,6 +2,8 @@
 <resources>
   <string name="account_bind_prompt">Premještam korisničke podatke… 
  To može potrajati nekoliko minuta</string>
+  <string name="action_mode_deselect_all">Poništi odabir</string>
+  <string name="action_mode_select_all">Odaberi sve</string>
   <string name="add_task">Dodaj zadatak</string>
   <string name="adding_upload_tasks">Učitavam zadatke…</string>
   <string name="already_signin_description">"Već ste se prijavili danas."</string>

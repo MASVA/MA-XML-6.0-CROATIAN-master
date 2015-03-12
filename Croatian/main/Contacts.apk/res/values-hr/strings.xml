@@ -40,11 +40,8 @@
   <string name="auto_nickname">"Automatski"</string>
   <string name="auto_set_nickname">"Automatski"</string>
   <string name="batch_delete">Izbriši seriju</string>
-  <string name="batch_delete_msg">Izbrisati kontakte %d?</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth veza je prekinuta</string>
   <string name="blurbJoinContactDataWith">Odaberite kontakt koji želite pridružiti imenu %s:</string>
-  <string name="btn_delete_multi_contacts">Izbriši %d</string>
-  <string name="btn_delete_one_contact">"Izbriši kontakt"</string>
   <string name="btn_rotation">Rotacija</string>
   <string name="btn_split_contact">Odvoji</string>
   <string name="button_cancel_scan">"Zaustavi"</string>
@@ -55,7 +52,6 @@
   <string name="callBack">"Povratni poziv"</string>
   <string name="callDetailTitle">"Pojedinosti poziva"</string>
   <string name="callDetailsDurationFormat" formatted="false">%s min %s sek</string>
-  <string name="callNoAnswerTimeFormat">Zvoni %s puta</string>
   <string name="callShortcutActivityTitle">Odaberi broj za pozivanje</string>
   <string name="call_assistant">"Nazovi %s"</string>
   <string name="call_callback">Pozovi povratno</string>
@@ -161,7 +157,6 @@
   <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">Izbrisati svu povijest poziva?</string>
   <string name="confirm_delete_selected_all_call_logs">Izbrisati svu povijest poziva?</string>
-  <string name="confirm_delete_sim_entry_miui">Izbrisati %d kontakata sa SIM kartice?</string>
   <string name="confirm_export_message">"Vaš popis kontakata bit će izvezen u datoteku: %s."</string>
   <string name="confirm_export_title">"Izvesti kontakte?"</string>
   <string name="connections">Veze</string>
@@ -349,8 +344,6 @@
   <string name="event_edit_field_hint_text">Datum</string>
   <string name="export_sim_contact_finish">Izvoz je završen</string>
   <string name="export_sim_contact_finish_failure">Premješteno: %1$d Preostalo: %2$d</string>
-  <string name="export_sim_contact_finish_success">Broj kopiranih kontakata: %d</string>
-  <string name="export_sim_contacts_dialog_message">Vaša SIM kartica može pohraniti ovoliko kontakata: %d</string>
   <string name="export_to_sdcard">"Izvoz u pohranu"</string>
   <string name="export_to_sim">Izvoz na SIM karticu</string>
   <string name="export_to_sim1">Izvoz na SIM karticu 1</string>
