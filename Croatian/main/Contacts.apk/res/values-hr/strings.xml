@@ -763,7 +763,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="qr_card_card">Moj QR kod</string>
   <string name="qrcode_card_title">QR kod</string>
   <string name="quickcontact_missing_app">Nije pronađena nijedna aplikacija koja može provesti ovu radnju.</string>
-  <string name="quit_dialog_confirm_title">Niste pridružili niti jedan kontakt</string>
+  <string name="quit_dialog_confirm_title">Niste pridružili niti jedan kontakt!</string>
   <string name="readOnlyContactDeleteConfirmation">Ovaj kontakt sadrži informacije iz više računa. Informacije iz računa koji su samo za čitanje bit će skrivene na popise kontakata, a ne izbrisane.</string>
   <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" sadrži informacije iz više računa. Informacije s računa samo za čitanje će biti sakrivene u vašem popisu kontakata.</string>
   <string name="readOnlyContactWarning">Ne možete izbrisati kontakte s računa samo za čitanje, ali možete ih sakriti na svojim popisima kontakata</string>
@@ -792,7 +792,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="remove_blacklist">Odblokiraj</string>
   <string name="remove_duplicate">"MIUI će vam pomoći u pronalaženju i združivanju dvostrukih kontakata. 
 
- Za početak, dodirnite ikonu "Spoji" na dnu zaslona."</string>
+ Za početak, dodirnite ikonu "Združi" na dnu zaslona."</string>
   <string name="resource_account_abnormal_state">Greška računa. Pričekajte minutu dvije i pokušajte ponovo.</string>
   <string name="resource_account_fail_to_add">"Ne mogu dodati kontakt"</string>
   <string name="resource_account_login">Prijava</string>
