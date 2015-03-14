@@ -42,11 +42,11 @@
     </plurals>
     <plurals name="export_sim_contacts_dialog_message">
         <item quantity="other">SIM kartica može pohraniti ovoliko kontakata (%d).</item>
-        <item quantity="one">SIM kartica može pohraniti (%d) kontakt.</item>
+        <item quantity="one">SIM kartica može pohraniti(%d) kontakt.</item>
     </plurals>
     <plurals name="confirm_delete_sim_entry_miui">
-        <item quantity="other">Izbrisati kontakte sa SIM kartice (%d)?</item>
-        <item quantity="one">Izbrisati kontakt sa SIM kartice (%d)?</item>
+        <item quantity="other">Izbrisati kontakte (%d) sa SIM kartice?</item>
+        <item quantity="one">Izbrisati kontakt (%d) sa SIM kartice?</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">Odabrano (%1$d)</item>
