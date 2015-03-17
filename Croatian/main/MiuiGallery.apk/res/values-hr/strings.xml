@@ -56,12 +56,12 @@
   <string name="appwidget_empty_text">Nema fotografija.</string>
   <string name="appwidget_title">Galerija</string>
   <string name="auto">Autom.</string>
-  <string name="auto_create_recent_album">Napravite automatski omiljene albume</string>
-  <string name="auto_create_recent_album_confirm">"Galerija će izbrisati podatke omiljenih albuma. Albumi koji ste označili ručno kao omiljene biti pogođeni."</string>
-  <string name="auto_create_recent_album_over_ten_times">Album će biti označen kao omiljen nakon otvaranja više od 10 puta</string>
+  <string name="auto_create_recent_album">Napravi albume favorita autom.</string>
+  <string name="auto_create_recent_album_confirm">"Galerija će izbrisati podatke favorita albuma. Albumi koji ste označili ručno favoritima neće biti pogođeni."</string>
+  <string name="auto_create_recent_album_over_ten_times">Album će biti označen kao favorit nakon otvaranja više od 10 puta</string>
   <string name="auto_upload_album_comfirm_to_share">Ovaj album će biti sinkr. automatski.</string>
-  <string name="auto_upload_guide_msssage">"Automatski sinkr. svoje fotografije iz drugih aplikacija na Mi Cloud. ovu značajku možete uključiti/isključiti u bilo kojem trenutku u Postavke - Sink. s Mi Cloud - Sink. Automatski"</string>
-  <string name="auto_upload_guide_title">Sinkr. fotografije s Mi Cloud</string>
+  <string name="auto_upload_guide_msssage">"Automatski sinkr. svoje fotografije iz drugih aplikacija na Mi Cloud. Možete uključiti/isključiti ovu značajku u bilo kojem trenutku u Postavke - Sink. s Mi Cloud - Sink. Automatski"</string>
+  <string name="auto_upload_guide_title">Sinkr. fotografija s Mi Cloud</string>
   <string name="auto_upload_title">Sinkr. automatski</string>
   <string name="autofix">Aut. popravak</string>
   <string name="autohomemain">Autohomemain</string>
@@ -441,7 +441,7 @@ uređaja"</string>
   <string name="preparing_data_to_delete">Priprema za brisanje slika…</string>
   <string name="priority_storage">Spremi na SD karticu</string>
   <string name="priority_storage_summary">Kad je umetnuta SD kartica, automatski preuzimaj datoteke na SD karticu</string>
-  <string name="projection">Projekt</string>
+  <string name="projection">Uloge</string>
   <string name="public_url_descript">Svatko može pristupiti albumu koristeći ovaj URL</string>
   <string name="publish_failed">"Ne mogu objaviti"</string>
   <string name="publish_succeeded">Album je objavljen</string>
@@ -460,7 +460,7 @@ uređaja"</string>
   <string name="remove_from_secret_successfully_message">Uklonjeno iz tajnog albuma</string>
   <string name="remove_from_secret_unfinished_message_with_count">"%1$s nije uklonjeno iz sakrivenog albuma"</string>
   <string name="remove_hidden_album">Prikaži</string>
-  <string name="remove_recent_album">Ukloni iz omiljenih albuma</string>
+  <string name="remove_recent_album">Ukloni iz albuma favorita</string>
   <string name="rename_face_album">Promjeni naziv</string>
   <string name="rename_fail_msg">"Ne mogu promjeniti naziv"</string>
   <string name="rename_failed">"Ne mogu preimenovati"</string>

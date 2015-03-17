@@ -16,6 +16,7 @@
   <string name="binded_accout_description">"Vaš Mi Račun je sinkroniziran s KuaiPan.Sada možete koristiti svoj Mi Račun za pristup podacima koje ste pohranili na KuaiPan."</string>
   <string name="binded_accout_title">Račun sinkroniziran</string>
   <string name="byteShort">B</string>
+  <string name="can_not_send_with_too_many">"Ne mogu poslati toliko puno stavaka"</string>
   <string name="cancel">Odustani</string>
   <string name="category">Kategorije</string>
   <string name="category_all">Sve</string>

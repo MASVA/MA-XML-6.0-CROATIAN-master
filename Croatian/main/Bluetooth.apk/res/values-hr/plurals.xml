@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ble_profile_mi_band">
-        <item>Vibracija kod zvonjenja</item>
+        <item>Vibracija kod poziva</item>
         <item>Vibracija kod primljene poruke</item>
         <item>Vibracija kod alarma</item>
     </string-array>

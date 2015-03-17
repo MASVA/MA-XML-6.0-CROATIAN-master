@@ -377,6 +377,7 @@ Razlog: \"%s\""</string>
   <string name="favoritesFrequentContacted">Često kontaktirani</string>
   <string name="favorites_list_empty">Nema favorita</string>
   <string name="firewall_setting">Lista blokiranih</string>
+  <string name="followed_yellowpage">Prateći direktoriji</string>
   <string name="foundTooManyContacts">Pronađeno je više od ovoliko kontakata: %d.</string>
   <string name="frequentList">Često</string>
   <string name="from_account_format">%1$s</string>

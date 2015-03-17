@@ -839,7 +839,7 @@ Vaša SIM kartica bit će izbrisani nakon još jednog neuspjelog pokušaja."</st
   <string name="username_title">Korisničko ime</string>
   <string name="ussdRunning">Pokrenut je USSD kôd…</string>
   <string name="ussd_dialog_sep">----------</string>
-  <string name="vibrate_on_ring_title">Vibracija kod zvonjenja</string>
+  <string name="vibrate_on_ring_title">Vibracija kod poziva</string>
   <string name="vm_change_failed">"Nije bilo moguće promijeniti broj govorne pošte.
 Obratite se davatelju usluge ako problem potraje."</string>
   <string name="vm_changed">Broj govorne pošte je promijenjen.</string>

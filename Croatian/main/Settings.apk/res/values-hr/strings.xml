@@ -85,10 +85,14 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="additional_system_update_settings_list_item_title">Dodatna ažuriranja sustava</string>
   <string name="adjust_3d_depth_title">"Podesi 3D dubinu igara"</string>
   <string name="advanced_settings">Napredne postavke</string>
-  <string name="advanced_settings_summary">Omogućiti više opcija postavki</string>
+  <string name="advanced_settings_summary">Omogući više opcija postavki</string>
+  <string name="agps_roaming">A-GPS u roamingu</string>
+  <string name="agps_roaming_dia">"Korištenje A-GPS u roamingu može značajno povećati uporabu podataka. Ako premašite svoje ograničenje podataka, vaš davatelj usluga vam može naplatiti dodatne troškove."</string>
+  <string name="agps_roaming_dia_title">Koristi A-GPS u roamingu</string>
+  <string name="agps_roaming_summary">Korištenje A-GPS-a u roamingu, može vas stajati dodatnih troškova.</string>
   <string name="airplane_mode">Zrakoplovni način</string>
   <string name="alarm_volume_title">Alarm</string>
-  <string name="alert_show_screensaver_when_not_charging_msg">Prikazivanje čuvara zaslona će dodatno trošiti bateriju.</string>
+  <string name="alert_show_screensaver_when_not_charging_msg">Prikaz čuvara zaslona će dodatno trošiti bateriju.</string>
   <string name="alert_show_screensaver_when_not_charging_title">Korištenje baterije</string>
   <string name="all_volume_title">Glasnoća</string>
   <string name="allow">Dopusti</string>
@@ -946,7 +950,7 @@ Neke aplikacije neće raditi dok ih ne ažuriraju njihovi razvijatelji."</string
   <string name="font_size_preview_text">Ovo je za one koji vole MIUI. by "MASVA"</string>
   <string name="font_size_save">"U redu"</string>
   <string name="font_size_small">Mali</string>
-  <string name="font_size_summary">"Promjenite veličinu fonta vašeg operativnog sustava"</string>
+  <string name="font_size_summary">"Promjena veličine fonta teksta početnog zaslona, panela obavijesti, tipkovnice i posvuda drugdje"</string>
   <string name="font_size_summary1">"
 Ako je tekst vašeg sustava još uvijek premalen, pokušajte koristiti "</string>
   <string name="font_size_summary2">Lite mode</string>
@@ -1531,7 +1535,7 @@ i pokrenite ga."</string>
   <string name="overlay_display_devices_title">Simuliraj sekundarne zaslone</string>
   <string name="owner_info_settings_edit_text_hint">Unesite tekst za prikaz na zaključanom zaslonu</string>
   <string name="owner_info_settings_summary"/>
-  <string name="owner_info_settings_title">Info o vlasniku</string>
+  <string name="owner_info_settings_title">Informacije o vlasniku</string>
   <string name="packages_subtitle">Uključeni paketi</string>
   <string name="page_layout_1">Ned 28/12</string>
   <string name="page_layout_10">Postavke</string>
@@ -2463,13 +2467,13 @@ Riječ možete dodati dodirom na tipku Dodaj (+)"</string>
   <string name="user_restrictions_title">Ograničenja aplikacija i sadržaja</string>
   <string name="user_set_lock_button">Postavi zaključavanje</string>
   <string name="user_settings_title">Korisnici</string>
-  <string name="user_setup_button_setup_later">Ne sad</string>
+  <string name="user_setup_button_setup_later">Ne sada</string>
   <string name="user_setup_button_setup_now">Postavi sada</string>
   <string name="user_setup_dialog_message">Provjerite može li osoba uzeti uređaj i postaviti svoj prostor</string>
   <string name="user_setup_dialog_title">Postaviti korisnika sada?</string>
   <string name="user_setup_profile_dialog_message">Želite li sada postaviti profil?</string>
   <string name="user_summary_not_set_up">Nije postavljen</string>
-  <string name="user_summary_restricted_not_set_up">Nije postavljen – ograničeni profil</string>
+  <string name="user_summary_restricted_not_set_up">Nije postavljeno – ograničeni profil</string>
   <string name="user_summary_restricted_profile">Ograničeni profil</string>
   <string name="user_you">Vi (%s)</string>
   <string name="verify_applications">Potvrdi aplikacije</string>
@@ -2478,11 +2482,11 @@ Riječ možete dodati dodirom na tipku Dodaj (+)"</string>
   <string name="verify_apps_over_usb_title">Potvrdi aplikacije putem USB-a</string>
   <string name="version_text">verzija %1$s</string>
   <string name="vibrate_category_title">Vibracija</string>
-  <string name="vibrate_in_normal_title">Vibracija kod zvonjenja</string>
+  <string name="vibrate_in_normal_title">Vibracija kod poziva</string>
   <string name="vibrate_in_silent_title">Vibracija ako je bešumno</string>
   <string name="vibrate_input_devices">Upotrijebi vibraciju</string>
   <string name="vibrate_input_devices_summary">Preusmjeri vibraciju na igrači kontroler kada su povezani.</string>
-  <string name="vibrate_when_ringing_title">Vibracija kod zvonjenja</string>
+  <string name="vibrate_when_ringing_title">Vibracija kod poziva</string>
   <string name="view_install_log">Prikaži zapisnik grešaka</string>
   <string name="virus_scan">Skeniranje</string>
   <string name="virus_scan_app_continue">Nastavi skeniranje</string>

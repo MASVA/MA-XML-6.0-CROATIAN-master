@@ -89,7 +89,7 @@ Za uključivanje ove značajke, idite na Postavke &gt; Dodatne postavke &gt; Tip
   <string name="lunar_zheng">" "</string>
   <string name="maml_component_customization_title">Postavke</string>
   <string name="memory_clear_nothing_result">Upotreba memorije je već optimizirana.</string>
-  <string name="memory_clear_result">"Izbrisano: %1$s Dostupno: %2$s"</string>
+  <string name="memory_clear_result">"Izbrisano: %1$sB Dostupno: %2$sB"</string>
   <string name="miui_device_name">Android</string>
   <string name="national_day"/>
   <string name="national_father_day"/>

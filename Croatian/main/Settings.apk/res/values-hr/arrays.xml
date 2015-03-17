@@ -107,7 +107,7 @@
         <item>2 minute</item>
         <item>5 minuta</item>
         <item>1 sat</item>
-        <item>Nikada privremeni prekid</item>
+        <item>Bez vremenskog ograničenja</item>
     </string-array>
     <string-array name="wifi_signal">
         <item>Loše</item>
