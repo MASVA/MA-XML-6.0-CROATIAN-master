@@ -1079,7 +1079,6 @@ Za dodavanje kontakta na listu favorita :
   <string name="splitConfirmation_title">Odvojiti kontakt?</string>
   <string name="starredList">"Sa zvjezdicom"</string>
   <string name="starred_contacts">"Omiljeni"</string>
-  <string name="starred_yellowpage">Omiljeni direktoriji</string>
   <string name="status_available">"Dostupan"</string>
   <string name="status_away">"Odsutan"</string>
   <string name="status_busy">"Zauzet"</string>

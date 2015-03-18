@@ -74,7 +74,7 @@
   <string name="bigscreen_slide_playing">Dijaprojekcija se reproducira na: %s</string>
   <string name="bigscreen_video_quit">Dodirnite za izlaz</string>
   <string name="black_white">Crno &amp; Bijelo</string>
-  <string name="brannan">Jutro</string>
+  <string name="brannan">Brannan</string>
   <string name="browse_category">Pretraži</string>
   <string name="by_email">E-pošta</string>
   <string name="by_others">Ostalo</string>
@@ -190,10 +190,10 @@
   <string name="download_refocus_data">Preuzmi refokusiranjem podataka</string>
   <string name="duotone">Dvobojno</string>
   <string name="duration">Trajanje</string>
-  <string name="early_bird">Jutro</string>
+  <string name="early_bird">Earlybird</string>
   <string name="edit">Uredi</string>
   <string name="edited_photo_bucket_name">Uređeno</string>
-  <string name="effect">Efekat</string>
+  <string name="effect">Filteri</string>
   <string name="email_picker_title">Dodaj podijeljenu e-poštu</string>
   <string name="enable">Uključi</string>
   <string name="enable_cloud_for_sharing">Omogućite MiCloud album za pregled zajedničkih slika.</string>
@@ -379,7 +379,7 @@ uređaja"</string>
   <string name="not_auto_create_recent_album">Poništi stvaranje favorita</string>
   <string name="not_now">Ne sada</string>
   <string name="not_show_hidden_albums">"Ne prikazuj skrivene albume"</string>
-  <string name="old">Staro</string>
+  <string name="old">Starost</string>
   <string name="only_show_camera_in_first_page">Prikaži samo s fotoaparata</string>
   <string name="only_show_camera_in_first_page_summary">Prikaži samo fotografije s fotoaparata vašeg Mi Clouda.</string>
   <string name="open">Omogući</string>
@@ -472,7 +472,7 @@ uređaja"</string>
   <string name="request_sms_url_title">Savjet</string>
   <string name="retry_to_create_album">Pokušaj ponovo</string>
   <string name="retry_to_request_qr_code">Pokušaj ponovo</string>
-  <string name="rise">Podigni</string>
+  <string name="rise">Toplo</string>
   <string name="rotate">Rotiraj</string>
   <string name="rotate_tooltip">Povucite fotografiju da je rotirate</string>
   <string name="same_name_album_exists_alert">Fotografije će biti dodane na postojeći album s istim nazivom</string>

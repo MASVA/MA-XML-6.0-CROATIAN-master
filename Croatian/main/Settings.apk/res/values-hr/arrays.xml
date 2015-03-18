@@ -470,10 +470,24 @@
         <item>Crvena</item>
         <item>Žuta</item>
         <item>Zelena</item>
-        <item>Roza</item>
+        <item>Cijan</item>
         <item>Bijela</item>
         <item>Ljubičasta</item>
-    </string-array>    
+    </string-array>
+   <string-array name="pink_panel_led_color_values">
+        <item>blue</item>
+        <item>red</item>
+        <item>yellow</item>
+        <item>green</item>
+        <item>\#FFAA00AA</item>
+    </string-array>
+    <string-array name="pink_panel_led_color_entries">
+        <item>Lila</item>
+        <item>Ljubičasta</item>
+        <item>Narančasta</item>
+        <item>Zelena</item>
+        <item>Magenta</item>
+    </string-array>	
     <string-array name="back_long_press_timeout">
         <item>0.5 sekunde</item>
         <item>1 sekunda</item>

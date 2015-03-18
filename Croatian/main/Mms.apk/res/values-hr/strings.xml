@@ -219,10 +219,13 @@
   <string name="menu_view_contact">Prikaži kontakt</string>
   <string name="menu_yellowpage">Prikaži %s</string>
   <string name="message_class_label">"Klasa poruke: "</string>
+  <string name="message_contact">Kontakt:</string>
   <string name="message_details_title">Pojedinosti poruke</string>
   <string name="message_download_failed_title">Poruka nije preuzeta</string>
+  <string name="message_expired">Isteklo</string>
   <string name="message_failed">Nije uspjelo</string>
   <string name="message_failed_body">Dodirnite za pregled poruke i pokušajte ponovo.</string>
+  <string name="message_number">Tel. broj:</string>
   <string name="message_pending">Slanje</string>
   <string name="message_queued">Trenutačno nismo u mogućnosti poslati vašu poruku. Poruka će biti poslana kad usluga postane dostupna.</string>
   <string name="message_readed">Pročitano</string>
@@ -423,6 +426,7 @@
   <string name="secs">sek</string>
   <string name="select_audio">Odaberi zvuk</string>
   <string name="select_bottom_text">Tekst pri dnu</string>
+  <string name="select_copy_text">Odaberite i kopirajte tekst poruke</string>
   <string name="select_different_media">Odaberite drugi naziv: %1$s.</string>
   <string name="select_link_title">Odabir radnje</string>
   <string name="select_local_audio">Odaberi lokalni zvuk</string>

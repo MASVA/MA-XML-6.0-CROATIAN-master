@@ -136,6 +136,7 @@
   <string name="kuaipan_create_shortcut_success">Prečac napravljen</string>
   <string name="kuaipan_data_formater_with_year">mjesec M dan d godina YYYY</string>
   <string name="kuaipan_data_formater_without_year">M mjesec d dan</string>
+  <string name="kuaipan_delete_guide_des">Izbrisati vodič?</string>
   <string name="kuaipan_delete_success">Slika izbrisana</string>
   <string name="kuaipan_label">KuaiPan</string>
   <string name="kuaipan_over_space">Nedovoljno prostora</string>

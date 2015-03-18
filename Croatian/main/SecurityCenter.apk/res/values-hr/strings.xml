@@ -605,6 +605,7 @@
   <string name="summary_cloud_account">Dobijte najviše od Vašeg Mi Uređaja.</string>
   <string name="summary_cloud_service">Sinkronizirajte vaše fotografije, kontakte, i više na svim vašim uređajima</string>
   <string name="summary_data_flow">"Izbjegnite prekoračenje mjesečnog ograničenja podataka vašeg davatelja usluga"</string>
+  <string name="summary_default_app">"%s nije postavljena kao zadana aplikacija sustava"</string>
   <string name="summary_delete_cache">Neke aplikacije mogu zahtijevati ove podatke da rade normalno</string>
   <string name="summary_delete_large_file">"Neke velike datoteke mogu biti korisne ako nemate internetsku vezu (npr karte, rasporedi, itd). Pobrinite se da ne trebate ovu datoteku."</string>
   <string name="summary_dev">Spriječite aplikacije od pristupa korisničkim podacima</string>
@@ -645,6 +646,7 @@
   <string name="title_data_flow">Postavi upozorenje uporabe podataka</string>
   <string name="title_data_flow_no">Nadzor Uporabe podataka isključen</string>
   <string name="title_data_flow_yes">Nadzor Uporabe podataka uključen</string>
+  <string name="title_default_app">"MIUI %s nije postavljena kao zadana aplikacija"</string>
   <string name="title_delete_cache">Izbrisati podatke predmemorije?</string>
   <string name="title_delete_large_file">Izbrisati velike datoteke?</string>
   <string name="title_dev_no">Opcije Raz. programera uključene</string>
@@ -684,6 +686,7 @@
   <string name="toast_backup_uninstall_failed">Nije uspjela Sig. kopija %d aplikacija. Pričekajte malo i pokušajte ponovno.</string>
   <string name="toast_backup_uninstall_success">Sig. kopija i deinstalacija završena</string>
   <string name="toast_cleaner_cloudscan">Čistač će koristiti online definicije</string>
+  <string name="toast_default_app">"%1$s postaviti kao zadanu sustava %2$s"</string>
   <string name="toast_flow_notification">Uključene obavijesti uporabe podataka</string>
   <string name="toast_garbage_cleanup_success">Čišćenje završeno</string>
   <string name="toast_garbage_lib">Automatska ažuriranja za Čistač su uključena</string>
