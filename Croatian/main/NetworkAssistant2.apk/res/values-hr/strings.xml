@@ -109,8 +109,13 @@ Za više informacija provjerite poruku koju ste dobili od svog davatelja usluga"
   <string name="international_roaming_whitelist_count">%d aplik. se može povezati na podatkovne usluge u međunarodnom roamingu</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Prazno</string>
+  <string name="lock_screen_setting_summary">Prikaži obavijest kada se iskoristi preko 100kB u manje od 2 dana</string>
+  <string name="lock_screen_traffic_guide_notification_summary">Mob. podaci korišteni tijekom zaklj. zaslona.</string>
+  <string name="lock_screen_traffic_guide_notification_title">Iskorišteno %s mob. podataka</string>
+  <string name="lock_screen_traffic_notify_body">Zaključano zar %2$s na %1$s, iskorišteno %3$s podataka</string>
+  <string name="lock_screen_traffic_purchase_textview">Nadoplatite bon</string>
   <string name="lock_screen_setting_summary">Pokaži obavijest nakon iskorištenih 100kB kod zaklj. zaslona</string>
-  <string name="lock_screen_traffic_notify_body">Zaključano za %1$s | Iskorišteno %2$s mobilnih podataka</string>
+  <string name="lock_screen_traffic_notify_body">Zaključano za %1$s | Iskorišteno %2$s mob. podataka</string>
   <string name="lock_screen_traffic_warn_title">Obavijesti zaklj. zaslona</string>
   <string name="main_alert_message_month_limit_error">Ograničenje podataka koje ste postavili je netočno</string>
   <string name="main_alert_message_no_imsi">Nema SIM kartice</string>
@@ -311,7 +316,10 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg davatelja mobilnih
   <string name="ten_percent_total_pkg">%s (10%% od vaših mjes. mobilnih podataka)</string>
   <string name="text_day"/>
   <string name="three_percent_total_pkg">%s (3%% od vaših mjes. mobilnih podataka)</string>
+  <string name="timeshow_h">%.1fh</string>
+  <string name="timeshow_h_int">%dh</string>
   <string name="timeshow_h_m">%1$dh %2$dm</string>
+  <string name="timeshow_m">%dm</string>
   <string name="timeshow_m_s">%1$dm %2$ds</string>
   <string name="timeshow_s">%ds</string>
   <string name="tips_dialog_title">"Ne znate svoje ograničenje?"</string>

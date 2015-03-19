@@ -43,8 +43,10 @@
   <string name="add_new_quicklink">Dodaj na početnu stranicu</string>
   <string name="add_ql_bm_title">Dodaj</string>
   <string name="add_quicklink_to_popular">Dodaj na početnu stranicu</string>
-  <string name="add_quicklinks">na početnu stranicu</string>
+  <string name="add_quicklinks">Dodaj na početnu stranicu</string>
   <string name="add_to_bookmark">Oznake</string>
+  <string name="add_to_desk">Dodano na Početni zaslon</string>
+  <string name="add_to_desk_success">Dodano na Početni zaslon</string>
   <string name="add_to_quicklink">Početna stranica</string>
   <string name="added_to_bookmarks">Dodano u oznake.</string>
   <string name="adjust_text_zoom_toast">Promjena teksta zumiranjem može prouzročiti da se neke web stranice pogrešno prikazuju</string>
@@ -84,7 +86,6 @@
   <string name="block_ads_choice_continue">Nastavi</string>
   <string name="block_ads_message">Želite li blokirati poruke s ove web stranice?</string>
   <string name="block_ads_title">Sadržaj može sadržavati reklame</string>
-  <string name="bookmark_URL_already_exisit">"Već ste označili ovau poveznicu"</string>
   <string name="bookmark_add_group_text_header">Dodaj odabrano %1$d u grupu</string>
   <string name="bookmark_add_to">Dodaj u</string>
   <string name="bookmark_cannot_save_url">"Ovaj se poveznica ne može spremiti kao oznaka."</string>
@@ -102,6 +103,7 @@
   <string name="bookmark_to_readmodelist_not_saved">"Ne mogu dodati na popis čitanja."</string>
   <string name="bookmark_to_readmodelist_saved">Spremljeno na popis čitanja.</string>
   <string name="bookmark_url">Poveznica http://</string>
+  <string name="bookmark_url_already_exisit">"Već ste označili ovu poveznicu"</string>
   <string name="bookmark_url_lable">Poveznica</string>
   <string name="bookmark_url_not_valid">"Ova poveznica nije valjana."</string>
   <string name="bookmarks">Oznake</string>
@@ -197,7 +199,7 @@
   <string name="date_picker_dialog_set">Postavljanje</string>
   <string name="date_picker_dialog_title">Postavljanje datuma</string>
   <string name="date_time_picker_dialog_title">Postavljanje datuma i vremena</string>
-  <string name="delete">Izbrisati</string>
+  <string name="delete">Izbriši</string>
   <string name="delete_bookmark">Izbrisati oznaku</string>
   <string name="delete_bookmark_group_warning">Izbrisati \"%s\"? Sve oznake u ovoj grupi će biti izbrisane.</string>
   <string name="delete_bookmark_warning">Izbrisati oznaku \"%s\"?</string>
@@ -325,8 +327,8 @@ Jeste li sigurni da želite otići s ove stranice?"</string>
   <string name="media_error_video_not_exist">Videozapis ne postoji</string>
   <string name="media_player_error_button">U redu</string>
   <string name="media_player_error_text_invalid_progressive_playback">Ovaj videozapis nije valjan za streaming na ovom uređaju.</string>
-  <string name="media_player_error_text_unknown">Nije moguće reproducirati taj videozapis.</string>
-  <string name="media_player_error_title">Nije moguće reprod. videozapis</string>
+  <string name="media_player_error_text_unknown">"Ne mogu reproducirati taj videozapis."</string>
+  <string name="media_player_error_title">"Ne mogu reprod. videozapis"</string>
   <string name="media_player_loading_video">Učitavanje videozapisa</string>
   <string name="menu_addtodesk">Dodaj na Početni zaslon</string>
   <string name="menu_disable_night_mode">Isključi Noćni način</string>
@@ -442,7 +444,7 @@ Jeste li sigurni da želite otići s ove stranice?"</string>
   <string name="pref_content_search_engine">Tražilica u adresnoj traci</string>
   <string name="pref_content_search_engine_summary">Odaberite tražilicu</string>
   <string name="pref_content_title">Sadržaj stranice</string>
-  <string name="pref_data_preload_dialogtitle">Pretraživanje rezultata predučitavanja</string>
+  <string name="pref_data_preload_dialogtitle">Predučitaj rezultate pretraživanja</string>
   <string name="pref_data_preload_summary">: Dopustiti pregledniku predučitavanje rezultata pretraživanja velike sigurnosti u pozadini</string>
   <string name="pref_data_preload_title">Pretraživanje rezultata predučitavanja</string>
   <string name="pref_data_title">Upravljanje propusnosti</string>
@@ -735,7 +737,7 @@ Jeste li sigurni da želite otići s ove stranice?"</string>
   <string name="video_collect_cancel">Otkaži</string>
   <string name="video_collect_success">Uspješno</string>
   <string name="video_download_downloaded">Preuzeto</string>
-  <string name="video_download_downloading">Preuzimam</string>
+  <string name="video_download_downloading">Preuzimanje</string>
   <string name="video_download_fail">Neuspjeh</string>
   <string name="video_download_pause">Pauza</string>
   <string name="video_download_success">Preko</string>

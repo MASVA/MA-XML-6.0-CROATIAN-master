@@ -66,6 +66,7 @@
   <string name="go_on_download">Preuzmi</string>
   <string name="important_suggestion">Pravila o privatnosti su promijenjene</string>
   <string name="install">Instaliraj</string>
+  <string name="install_failed">Ažuriranje nije uspjelo</string>
   <string name="install_file_explorer">Morate instalirati aplikaciju Datoteke</string>
   <string name="install_local">Instaliraj lokalno</string>
   <string name="install_qq">"Nabavite Tencent Weibo aplikaciju"</string>
@@ -116,6 +117,11 @@
   <string name="previous">Prethodno</string>
   <string name="progress_title_checking">Provjera za ažuriranja…</string>
   <string name="reboot">Ponovno pokreni</string>
+  <string name="recovery_failed_button">U redu</string>
+  <string name="recovery_failed_msg">"Vaš uređaj nema dovoljno memorije za ulaz u Recovery i ažurirati vaš sustav. Pokušajte pomoću Mi PC Suite:
+http://zhushou.xiaomi.com"</string>
+  <string name="recovery_failed_notification_msg">"Ne mogu ući u Recovery"</string>
+  <string name="recovery_failed_title">Koristite Mi PC Suite za ažuriranje vašeg sustava</string>
   <string name="repeat">Pokušaj ponovo</string>
   <string name="set_auto">Provjeri ima li ažuriranja automatski</string>
   <string name="set_auto_msg">Automatski preuzmi ažuriranja kada je povezano na WLAN.</string>

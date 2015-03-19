@@ -9,20 +9,20 @@
         <item quantity="one">Izbrisati fotografiju (%s)?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">"Izbrisati videozapise (%s) u cloudu ?"</item>
-        <item quantity="one">"Izbrisati videozapis (%s) u cloudu ?"</item>
+        <item quantity="other">"Izbrisati videozapise (%s) u cloudu?"</item>
+        <item quantity="one">"Izbrisati videozapis (%s) u cloudu?"</item>
     </plurals>
     <plurals name="confirm_delete_has_local_video">
         <item quantity="other">Izbrisati videozapise (%s)?</item>
         <item quantity="one">Izbrisati videozapis (%s)?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">"Izbrisati fotografije (%s) lokalno i u cloudu ?"</item>
-        <item quantity="one">"Izbrisati fotografiju (%s) lokalno i u cloudu ?"</item>
+        <item quantity="other">"Izbrisati fotografije (%s) lokalno i u cloudu?"</item>
+        <item quantity="one">"Izbrisati fotografiju (%s) lokalno i u cloudu?"</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video">
-       <item quantity="other">"Izbrisati videozapise (%s) lokalno i u cloudu ?"</item>
-        <item quantity="one">"Izbrisati videozapis (%s) lokalno i u cloudu ?"</item>
+       <item quantity="other">"Izbrisati videozapise (%s) lokalno i u cloudu?"</item>
+        <item quantity="one">"Izbrisati videozapis (%s) lokalno i u cloudu?"</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">"Odabrano: %1$d"</item>
