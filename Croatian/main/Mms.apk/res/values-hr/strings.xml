@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="action_firewall_setting">Lista blokiranih</string>
   <string name="activity_not_found">Nijedna aplikacija ne može podržati ovu radnju</string>
@@ -180,7 +180,7 @@
   <string name="guild_msim_switcher">Dodirnite za promjenu SIM kartice</string>
   <string name="has_invalid_recipient">Nevažeći primatelj(i): %1$s</string>
   <string name="hidden_sender_address">Skrivena adresa pošiljatelja</string>
-  <string name="hint_search_sms">%d SMS-a</string>
+  <string name="hint_search_sms">SMS-a: %d</string>
   <string name="hms_add_image_progress_message">Obrada…</string>
   <string name="hms_first_use_tips">Za primanje poruka usluga mora biti povezana na WLAN mrežu</string>
   <string name="hms_uri_param_err">"URL ne može biti prazan"</string>
