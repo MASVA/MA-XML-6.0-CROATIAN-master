@@ -2,7 +2,7 @@
 <resources>
   <string name="about_preference_screen_title">Detalji</string>
   <string name="about_preference_title">Detalji</string>
-  <string name="acknowledge_btn">Dalje</string>
+  <string name="acknowledge_btn">Shvaćam</string>
   <string name="action_settings">Postavke</string>
   <string name="activation_page">Nije aktivirano</string>
   <string name="activation_page_btn_txt">Aktiviraj</string>
@@ -11,9 +11,9 @@
   <string name="app_name">MiAuth</string>
   <string name="app_name_lockpattern">Uzorak zaključavanja</string>
   <string name="app_name_short">MiAuth</string>
-  <string name="authenticator_invalid_tip">Možda ste isključili ovu značajku koristeći svoj desktop preglednik ili aktivirali drugi Mi Sigurnosni token</string>
-  <string name="authenticator_invalid_title">Račun: %1$s sigurnosni token je istekao</string>
-  <string name="authenticator_page_reactivation">Ponovno aktiviraj</string>
+  <string name="authenticator_invalid_tip">Možete zatvoriti aplikaciju ili generirati novi kod za provjeru</string>
+  <string name="authenticator_invalid_title">Račun: %1$s sigurnosni token je istekao.</string>
+  <string name="authenticator_page_reactivation">Ponovna aktivacija</string>
   <string name="button_add_account">Dodaj račun</string>
   <string name="button_add_account_manual_entry">Ručno dodaj račun</string>
   <string name="button_add_account_scan_barcode">Skeniraj barkod</string>
@@ -29,8 +29,8 @@
   <string name="check_code_title">Vrijednost provjere cjelovitosti</string>
   <string name="continue_btn">Dalje</string>
   <string name="copy_to_clipboard">Kopiraj u međuspremnik</string>
-  <string name="correct_enter_password">Zaporka koju ste unijeli je točna</string>
-  <string name="correct_enter_update_password">Zaporka koju ste unijeli je točna</string>
+  <string name="correct_enter_password">Zaporka koju ste unijeli je ispravna</string>
+  <string name="correct_enter_update_password">Zaporka koju ste unijeli je ispravna</string>
   <string name="counter_pin">Nabavite kod</string>
   <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Vaš podaci su uspješno uvezeni iz zastarjele MiAuth aplikacije. Sada je sigurno deinstalirati prethodnu verziju aplikacije klikom u nastavku.</string>
   <string name="dataimport_import_succeeded_uninstall_dialog_title">Uvoz uspješan</string>
@@ -54,38 +54,38 @@ Prijavite se na account.xiaomi.com, i kliknite na Aktiviraj ponovno"</string>
   <string name="general_security_exception">Iznimke opće sigurnosti</string>
   <string name="gif_not_support_camera_msg">Vaš uređaj ne podržava snimanje videozapisa.</string>
   <string name="how_it_works_menu_item">Kako to radi</string>
-  <string name="howitworks_page_enter_code_details">Ova aplikacija će generirati kod potreban za nastavak da se prijavite</string>
+  <string name="howitworks_page_enter_code_details">Ova aplikacija će generirati kod potreban za nastavak da se prijavite.</string>
   <string name="howitworks_page_enter_code_title">"Ako ste na novom računalu, unesite kod sa svog telefona."</string>
-  <string name="howitworks_page_enter_password_details">"Međutim, ako ste na novom računalu ili uređaju, Xiaomi će vas pitati za poseban kod kako bi bio siguran da steto doista vi."</string>
-  <string name="howitworks_page_enter_password_title">"Da biste se prijavili, unesite svoju zaporku."</string>
+  <string name="howitworks_page_enter_password_details">"Međutim, ako ste na novom računalu ili uređaju, Xiaomi će vas pitati za poseban kod kako bi bio siguran da ste to doista vi."</string>
+  <string name="howitworks_page_enter_password_title">"Da se prijavite, unesite svoju zaporku."</string>
   <string name="howitworks_page_verify_device_details">"Također možete odabrati spremanje potvrde računala i Xiaomi neće od vas će ponovno zatražiti kod."</string>
   <string name="howitworks_page_verify_device_title">"Onda ste prijavljeni."</string>
   <string name="install_button">Instaliraj</string>
   <string name="install_dialog_message">Za skeniranje barkodova koji sadrže ključeve, morate instalirati ZXing barkod skener.</string>
   <string name="install_dialog_title">Instalirati barkod skener?</string>
-  <string name="jump_createpattern_tip">Stvorite zaporku kako bi zaštitili svoj račun</string>
+  <string name="jump_createpattern_tip">Napravite zaporku da zaštitite svoj račun</string>
   <string name="jump_lockpattern_title">Napomena</string>
-  <string name="jump_updatepattern_tip">Stvorite zaporku kako bi zaštitili svoj račun</string>
+  <string name="jump_updatepattern_tip">Napravite zaporku da zaštitite svoj račun</string>
   <string name="lockpassword_choose_your_pattern_header">Odaberite uzorak</string>
   <string name="lockpassword_confirm_your_pattern_header">Potvrdite uzorak</string>
   <string name="lockpassword_input_your_pattern_header">Potvrdite uzorak</string>
   <string name="lockpattern_confirm_button_text">Potvrdite</string>
   <string name="lockpattern_continue_button_text">Dalje</string>
-  <string name="lockpattern_need_to_confirm">Iscrtajte uzorak ponovno za potvrdu:</string>
+  <string name="lockpattern_need_to_confirm">Iscrtajte uzorak ponovno za potvrdu</string>
   <string name="lockpattern_need_to_confirm_wrong">Ne podudara se s prethodnim unosom, unesite ponovno:</string>
   <string name="lockpattern_need_to_unlock_footer"/>
-    <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red>Pogrešna zaporka, imate još %d preostalih pokušaja&lt;/font></string>
+  <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Pogrešna zaporka. Preostalo još %d pokušaja&lt;/font&gt;</string>
   <string name="lockpattern_need_to_unlock_wrong_footer"/>
-  <string name="lockpattern_pattern_confirmed_header">Vaš novi uzorak otključavanja:</string>
+  <string name="lockpattern_pattern_confirmed_header">Vaš novi uzorak za otključavanje:</string>
   <string name="lockpattern_pattern_entered_header">Uzorak spremljen.</string>
   <string name="lockpattern_recording_incorrect_too_short">Povežite najmanje %d točke. Pokušajte ponovno:</string>
   <string name="lockpattern_recording_inprogress">Otpustite prst kad ste gotovi.</string>
-  <string name="lockpattern_recording_intro_header">Iscrtajte uzorak otključavanja:</string>
+  <string name="lockpattern_recording_intro_header">Iscrtajte uzorak za otključavanje:</string>
   <string name="lockpattern_redraw_button_text">Iscrtajte ponovno</string>
   <string name="lockpattern_retry_text">Resetirajte uzorak</string>
-  <string name="lockpattern_settings_help_how_to_record">Kako iscrtati uzorak otključavanja</string>
+  <string name="lockpattern_settings_help_how_to_record">Kako iscrtati uzorak za otključavanje</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Pokušajte opet za %d sek.</string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red>Previše netočnih pokušaja!&lt;/font></string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Previše netočnih pokušaja!&lt;/font&gt;</string>
   <string name="lockpattern_tutorial_cancel_label">Odustani</string>
   <string name="lockpattern_tutorial_close_label">Zatvori</string>
   <string name="lockpattern_tutorial_continue_label">Dalje</string>
@@ -94,23 +94,23 @@ Prijavite se na account.xiaomi.com, i kliknite na Aktiviraj ponovno"</string>
   <string name="login">Prijava</string>
   <string name="main_preference_screen_title">Postavke</string>
   <string name="mycard_scan_barcode">MiID Skener kodova</string>
-  <string name="new_pattern_tip">Nacrtajte uzorak (min 4 točke)</string>
+  <string name="new_pattern_tip">Vaša zaporka mora biti dulja od 4 znaka</string>
   <string name="ok">U redu</string>
   <string name="ok_button">U redu</string>
-  <string name="open_camera_exception_dialog_content">Pogreška fotoaparata. Ponovno pokrenite uređaj</string>
+  <string name="open_camera_exception_dialog_content">Pogreška fotoaparata. Ponovno pokrenite uređaj.</string>
   <string name="open_camera_exception_dialog_title">Pogreška fotoaparata</string>
   <string name="opensource_page_url">http://code.Xiaomi.com/p/Xiaomi-authenticator/</string>
   <string name="opensource_preference_title">Open-source projekat</string>
   <string name="original_pattern_tip">Unesite uzorak otključavanja</string>
   <string name="password_error">Zaporka koju ste unijeli nije točna</string>
   <string name="password_forget">Zaboravljena zaporka?</string>
-  <string name="password_hint">Unesite zaporku vašeg Mi Računa</string>
+  <string name="password_hint">Unesite zaporku za Mi Račun</string>
   <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
   <string name="privacy_preference_title">Izjava o privatnosti</string>
   <string name="progress_loading">Učitavanje…</string>
-  <string name="remove_Xiaomi_account_dialog_message">Uklanjanjem ovog računa će te &lt;b>izgubiti mogućnost&lt;/b> generiranja kodova, međutim, to će &lt;b>not&lt;/b> isključiti provjeru u 2 koraka. To vas može spriječiti od prijave u vaš ​​račun. &lt;p> Prije uklanjanja: &lt;ul> &lt;li>Isključite provjeru u 2 koraka za taj račun, ili&lt;/li> &lt;li>Osigurajte si alternativni mehanizam za generiranje kodova.&lt;/li> &lt;/ul></string>
+  <string name="remove_Xiaomi_account_dialog_message">Uklanjanjem ovog računa će &lt;b&gt;se maknuti mogućnost&lt;/b&gt; generiranja kodova, međutim, to će &lt;b&gt;not&lt;/b&gt; isključiti provjeru u 2 koraka. To vas može spriječiti da se prijavite na svoj ​​račun. &lt;p&gt; Prije uklanjanja: &lt;ul&gt; &lt;li&gt;Isključite provjeru u 2 koraka za taj račun ili si&lt;/li&gt; &lt;li&gt;Osigurajte si alternativni mehanizam za generiranje kodova.&lt;/li&gt; &lt;/ul&gt;</string>
   <string name="remove_account">Ukloni račun</string>
-  <string name="remove_account_dialog_message">"Uklanjanjem ovog računa izgubiti ćete mogućnost generiranja kodova. To vas može spriječiti da se prijavite na svoj račun.
+  <string name="remove_account_dialog_message">"Uklanjanjem ovog račun izgubiti ćete mogućnost generiranja kodova. To vas može spriječiti da se prijavite na svoj račun.
 
 Prije uklanjanja:
 —Isključite autentikaciju u 2 koraka za ovaj račun, ili
@@ -123,13 +123,13 @@ Prije uklanjanja:
   <string name="scan_barcode">Skeniraj MiID</string>
   <string name="scan_barcode_info">Postavite i skenirajte MiID barkod unutar ovog tražila.</string>
   <string name="secret_saved">Tajna spremljena</string>
-  <string name="security_setting">Postavke sigurnosti</string>
+  <string name="security_setting">Sigurnosne postavke</string>
   <string name="settings_menu_item">Postavke</string>
   <string name="submit">Spremi</string>
   <string name="success_copy_to_clipboard">Kopirano u međuspremnik</string>
-  <string name="success_reset_password">Resetiranje zaporke</string>
-  <string name="success_set_password">Zaporka promijenjena</string>
-  <string name="summary_lockpattern">Potreban jedinstveni uzorak zaključavanja za MiCredit</string>
+  <string name="success_reset_password">Zaporka je uspješno resetirana</string>
+  <string name="success_set_password">Zaporka napravljena</string>
+  <string name="summary_lockpattern">Potreban jedinstveni uzorak zaključavanja za MiKredite</string>
   <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
   <string name="terms_preference_title">Uvjeti pružanja usluge</string>
   <string name="timesync_about_feature_preference_title">O ovoj značajki</string>
@@ -138,38 +138,38 @@ Prije uklanjanja:
   <string name="timesync_preference_screen_summary">"Sinkronizacija internog sata MiAuth-a s poslužiteljima"</string>
   <string name="timesync_preference_screen_title">Korekcija vremena za kodove</string>
   <string name="timesync_sync_now_connectivity_error_dialog_details">"Postoji problem tijekom spajanja na poslužitelj. Molimo provjerite mrežne postavke i pokušajte ponovo."</string>
-  <string name="timesync_sync_now_connectivity_error_dialog_title">Sinkronizati sada</string>
-  <string name="timesync_sync_now_preference_title">Sinkronizacija sada</string>
+  <string name="timesync_sync_now_connectivity_error_dialog_title">Sinkr. sada</string>
+  <string name="timesync_sync_now_preference_title">Sinkr. sada</string>
   <string name="timesync_sync_now_progress_dialog_details">Povezivanje na poslužitelj…</string>
-  <string name="timesync_sync_now_progress_dialog_title">Sinkronizaj sada</string>
-  <string name="timesync_sync_now_screen_title">Sinkronizaj sada</string>
+  <string name="timesync_sync_now_progress_dialog_title">Sinkr. sada</string>
+  <string name="timesync_sync_now_screen_title">Sinkr. sada</string>
   <string name="timesync_sync_now_time_already_correct_dialog_details">"Interni sat MiAuth-a nije podešen jer izgleda da je već sinkroniziran s poslužiteljima."</string>
   <string name="timesync_sync_now_time_already_correct_dialog_title">Vrijeme već ispravljeno</string>
+  <string name="timesync_sync_now_time_corrected_dialog_details">"Interni sat MiAuth-a je podešen tako da odgovara vremenu koje pruža poslužitelj.
+
+Postavke datuma i vremena na ovom uređaju nisu promjenjeni."</string>
   <string name="timesync_sync_now_time_corrected_dialog_title">Vrijeme ispravljeno</string>
   <string name="tip1_patternforgotten">Deinstaliraj i ponovno instaliraj zaštitu</string>
-  <string name="tip2_patternforgotten">Pritisnite "Resetiranje" da izbrišete podatke o računu i ponovno aktivirajte</string>
-  <string name="tip_lockpattern">Postavite dodatnu sigurnost za aplikacije pomoću uzorka za otključavanje</string>
-  <string name="title_change_lockpattern">Konfiguriraj uzorak zaključavanja</string>
-  <string name="title_createpattern">Napravite uzorak</string>
+  <string name="tip2_patternforgotten">Dodirnite Resetiraj za brisanje podataka o računu i ponovno aktiviranje.</string>
+  <string name="tip_lockpattern">Vaša zaporka mora dulja od 4 znaka</string>
+  <string name="title_change_lockpattern">Konfiguracija uzorka zaključavanja</string>
+  <string name="title_createpattern">Izradi uzorak</string>
   <string name="title_forgetpattern">Zaboravili ste uzorak</string>
   <string name="title_gesture">Uzorak zaključavanja</string>
   <string name="title_lockpattern">Potreban uzorak zaključavanja</string>
   <string name="title_myaccount">Moj račun: %s</string>
   <string name="title_nopassword">"Nije potrebno za mala plaćanja"</string>
   <string name="title_nopassword_dialog">Dnevni limit</string>
-  <string name="title_patternforgotten">"Zaboravili ste uzorak?
-Možete:"</string>
   <string name="title_password">Zaporka</string>
   <string name="title_password_threshold">Dnevni limit = ￥%1$s</string>
-  <string name="timesync_sync_now_time_corrected_dialog_details">"Interni sat MiAutha je podešen tako da odgovara vremenu koje pruža poslužitelj.
-
-Postavke datuma i vremena na ovom uređaju nisu promjenjeni."</string>
-  <string name="title_updatepattern">Promijeniti sadašnji uzorak</string>
-  <string name="title_visible_pattern">Napravite uzorak vidljivim</string>
+  <string name="title_patternforgotten">"Zaboravili ste uzorak?
+Možete: "</string>
+  <string name="title_updatepattern">Promijeniti zaporku</string>
+  <string name="title_visible_pattern">Učiniti uzorak vidljivim</string>
   <string name="type_prompt">Vrsta ključa</string>
-  <string name="update_pattern_jump">Preskoči</string>
+  <string name="update_pattern_jump">&lt;u&gt;Ukloni zaporku&lt;/u&gt;</string>
   <string name="version_preference_title">Verzija</string>
-  <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;Ako izbrišete vaš Mi Security Token, nećete bit u mogućnosti prijaviti se na svoj račun."</string>
+  <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;Ako izbrišete vaš Mi Security Token, nećete biti u mogućnosti prijaviti se na svoj račun."</string>
   <string name="welcome_page_details">"— Držite svoj račun sigurnim.
 — Spriječite neželjene goste od korištenja vašeg uređaja za prijavu na vaš račun."</string>
   <string name="welcome_page_title">Koristi za Osiguranu prijavu</string>

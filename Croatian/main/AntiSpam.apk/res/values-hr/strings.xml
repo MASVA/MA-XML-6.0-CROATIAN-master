@@ -95,7 +95,7 @@
   <string name="dlg_import_whitelist">Dodavanje…</string>
   <string name="dlg_keyword_ok">Spremljeno</string>
   <string name="dlg_message_not_open_stranger_identify">Za uključivanje ove značajke, idite na Postavke &gt; Telefon.</string>
-  <string name="dlg_no_block">Odblokirati ovaj broj i obnoviti pzive s ovog broja u povijest poziva?</string>
+  <string name="dlg_no_block">Odblokirati ovaj broj i obnoviti pozive s ovog broja u povijest poziva?</string>
   <string name="dlg_no_block_ok">Odblokiraj</string>
   <string name="dlg_remove_address_blacklist">Ukloniti ovu lokaciju s liste blokiranih?</string>
   <string name="dlg_remove_address_whitelist">Ukloniti ovu lokaciju iz iznimaka?</string>
@@ -134,9 +134,18 @@
   <string name="mark_fraud_block">Prijavljen kao prevarant</string>
   <string name="mark_meal">Dostava hrane</string>
   <string name="mark_meal_block">Prijavljen kao dostava hrane</string>
+  <string name="mark_number_agent">Agent</string>
+  <string name="mark_number_banking">Proadaja osiguranja</string>
+  <string name="mark_number_fraud">Prevarant</string>
   <string name="mark_number_info">"
 Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potrazi za stanom). Blokirajte samo one brojeve iz kojih nikada ne želite primati pozive."</string>
-  <string name="mark_sell">Trgovac</string>
+  <string name="mark_number_sell">Telemarketer</string>
+  <string name="mark_number_setting_guide_content1">Blokirati pozive iz prijavljenih brojeva?</string>
+  <string name="mark_number_setting_guide_content2">Automatski blokiraj pozive s brojeva koji su prijavili drugi korisnici</string>
+  <string name="mark_number_setting_guide_content3">Prijavili ste broj kao %1$s. Želite li blokirati pozive s brojeva prijavljene kao %2$s?</string>
+  <string name="mark_number_setting_guide_forward">Postavke liste blokiranja</string>
+  <string name="mark_number_setting_guide_title">Blokiraj prijavljene brojeve</string>
+  <string name="mark_sell">Telemarketer</string>
   <string name="mark_sell_block">Prijavljen kao trgovac</string>
   <string name="marked_by_others">"%d ostali korisnici su je označili kao "</string>
   <string name="marked_by_user">" označili ste je kao "</string>

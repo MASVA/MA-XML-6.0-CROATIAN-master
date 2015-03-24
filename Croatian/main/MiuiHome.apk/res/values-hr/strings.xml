@@ -39,6 +39,7 @@
   <string name="cant_remove_system_app">"Nije moguće ukloniti aplikaciju sustava"</string>
   <string name="choose_wallpaper">Odaberi sliku pozadine</string>
   <string name="chooser_wallpaper">Odaberi sliku pozadine</string>
+  <string name="cloud_app_restore_title">Na čekanju</string>
   <string name="confirm_btn_label">U redu</string>
   <string name="current_preview">Pregled</string>
   <string name="current_wallpaper">Trenutna</string>

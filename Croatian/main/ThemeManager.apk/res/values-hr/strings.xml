@@ -239,7 +239,7 @@
   <string name="resource_title">Detalji</string>
   <string name="resource_title_category">Kategorije</string>
   <string name="resource_title_hot_subject">Popularno</string>
-  <string name="resource_title_local">Lokalno</string>
+  <string name="resource_title_local">Izvanmrežno</string>
   <string name="resource_title_rank">Najljepše</string>
   <string name="resource_title_select_ringtone">Odaberite melodiju zvona</string>
   <string name="resource_title_subject">Istaknuto</string>
@@ -325,7 +325,7 @@
   <string name="theme_yes">Da</string>
   <string name="third_party_pickers_activity_title">Podesi %1$s</string>
   <string name="title_component">Prilagodite temu</string>
-  <string name="title_system_resource">Lokalno</string>
+  <string name="title_system_resource">Izvanmrežno</string>
   <string name="to_activate_the_account">Aktivirajte svoj Mi Račun</string>
   <string name="wallpaper_crop">Obreži</string>
   <string name="wallpaper_decoded_error">"Ne mogu učitati sliku pozadine"</string>

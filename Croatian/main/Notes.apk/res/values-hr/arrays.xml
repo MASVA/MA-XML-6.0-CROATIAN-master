@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="welcome_notes_content">
-        <item>"Sada možete jednostavno pribilježiti ideje, bilješke, misli pomoću
+        <item>"Dodirnite za stvaranje bilješke
 "</item>
-        <item>"Priložite fotografije ili kontakte
+        <item>"Da dodate sliku ili prikažete okvir, dodirnite gumb ispod
 "</item>
-        <item>"Prekrižite izvršene zadatke prstom
+        <item>"Pritisnite i držite bilješku da je zakačite, premjestite ili izbrišite
 "</item>
         <item>"I još puno velikih mogućnosti!
-  - Sinkronizacija s Mi Cloud
+  - Sinkronizacija s Mi Cloudom
   - Postavljanje podsjetnika
  
 Ako želite saznati više, posjetite

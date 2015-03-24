@@ -26,7 +26,7 @@
   <string name="add_to_my_contacts">Dodaj u Moje kontakte</string>
   <string name="add_wait">"Dodaj čekanje"</string>
   <string name="add_xiaomi_account_dialog_btn">Upotrijebi Mi Račun</string>
-  <string name="add_xiaomi_account_dialog_msg">Upotrijebite vaš Mi Račun za sinkronizaciju i izradu sigurnosnih kopija vaših kontakata između više uređaja.</string>
+  <string name="add_xiaomi_account_dialog_msg">Koristite vaš Mi Račun za sinkronizaciju i izradu sigurnosnih kopija vaših kontakata između više uređaja.</string>
   <string name="add_xiaomi_account_dialog_title">Odabir računa</string>
   <string name="aggregation_suggestion_edit_dialog_message">Prebaciti se na uređivanje kontakta jednakog imena? Informacije koje ste do sada unijeli će biti kopirane.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Istoimeni</string>
@@ -1156,11 +1156,6 @@ Odaberite jednu od sljedećih opcija:</string>
   <string name="yellowPageNavigationLabel">Imenik</string>
   <string name="yellowpage_navigation_clear_search_history">Izbriši povijest</string>
   <string name="yellowpage_navigation_more_items">Više</string>
-  <string name="yellowpage_navigation_network_location_enable">Dopusti</string>
-  <string name="yellowpage_navigation_network_location_enable_later">Ne sada</string>
-  <string name="yellowpage_navigation_network_location_enabled">Usluga je otvorena, možete je isključiti u postavkama lokacije</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_summary">Poboljšajte rezultate pretraživanja dopuštajući Direktoriju pristup podacima o Vašoj lokaciji.</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_title">Pristup lokaciji</string>
   <string name="yellowpage_navigation_no_content">"Ništa nije pronađeno"</string>
   <string name="yellowpage_navigation_search_city_name_hint">Grad</string>
   <string name="yellowpage_navigation_search_history">Povijest</string>

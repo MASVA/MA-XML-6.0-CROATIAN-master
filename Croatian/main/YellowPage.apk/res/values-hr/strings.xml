@@ -460,7 +460,7 @@ molimo vas nazovite kako bi potvrdili pozivatelja. Banke, e-commerce tvrtke i ku
   <string name="resource_trial_fail_go_settings">Postavke</string>
   <string name="resource_trial_fail_message">Provjerite je li vaš sat sustava postavljen na točno vrijeme.</string>
   <string name="resource_trial_fail_title">"Nije bilo moguće postaviti probni period"</string>
-  <string name="resource_trial_time">（probni period: %1$d min.）</string>
+  <string name="resource_trial_time"> (probni period: %1$d min.)</string>
   <string name="resource_unable_to_access">"Nažalost, 
 sadržaj koji tražite nije trenutno dostupan u vašoj regiji."</string>
   <string name="resource_unknow_error">Došlo je do nepoznate pogreške</string>
@@ -501,11 +501,16 @@ sadržaj koji tražite nije trenutno dostupan u vašoj regiji."</string>
   <string name="uploads_disabled">Učitavanje datoteka je onemogućeno</string>
   <string name="user_agreement2">" Korisnički sporazum"</string>
   <string name="user_agreement4">Pravila o privatnosti</string>
-  <string name="user_notice_identify_summary_format">"Vaš telefon će koristiti MIUI bazu podataka za blokiranje neželjenih poziva kada je spojen na WLAN. Dodirivanjem \"Slažem se\" pristajete na Xiaomi %1$s and %2$s."</string>
-  <string name="user_notice_identify_summary_format_cta">"Vaš telefon će koristiti MIUI bazu podataka za blokiranje neželjenih poziva kada je spojen na WLAN. Dodirivanjem \"Slažem se\" pristajete na Xiaomi %1$s and %2$s."</string>
+  <string name="user_notice_identify_summary_format">"Vaš telefon će koristiti MIUI bazu podataka za blokiranje neželjenih poziva kada je povezano na WLAN. Dodirivanjem \"Slažem se\" pristajete na Xiaomi %1$s and %2$s."</string>
+  <string name="user_notice_identify_summary_format_cta">"Vaš telefon će koristiti MIUI bazu podataka za blokiranje neželjenih poziva kada je povezano na WLAN. Dodirivanjem \"Slažem se\" pristajete na Xiaomi %1$s and %2$s."</string>
   <string name="user_notice_yp_detail_summary_format">"Neke od vaših informacija oznaka direktorija su zastarjele. Želite li ih ažurirati? Dodirivanjem \"Slažem se\" pristajete na Xiaomi %1$s and %2$s."</string>
   <string name="user_notice_yp_detail_summary_format_cta">"Neke od vaših informacija oznaka direktorija su zastarjele. Želite li ih ažurirati? Dodirivanjem \"Slažem se\" pristajete na Xiaomi %1$s and %2$s."</string>
   <string name="voicemail">Govorna pošta</string>
   <string name="web_permission_message">%1$s treba pogledati vaš %2$s da pravilno funkcionira.</string>
   <string name="yellow_page_website">Službena stranica</string>
+  <string name="yellowpage_navigation_network_location_enable">Dopusti</string>
+  <string name="yellowpage_navigation_network_location_enable_later">Ne sada</string>
+  <string name="yellowpage_navigation_network_location_enabled">Usluga je otvorena, možete je isključiti u postavkama lokacije</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_summary">Poboljšajte rezultate pretraživanja dopuštajući Direktoriju pristup podacima o Vašoj lokaciji.</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_title">Pristup lokaciji</string>
 </resources>
