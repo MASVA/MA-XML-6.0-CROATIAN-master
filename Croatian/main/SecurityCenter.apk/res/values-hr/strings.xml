@@ -137,6 +137,10 @@
   <string name="clean_content_three">Preskoči %s</string>
   <string name="clean_content_two">%1$s i %2$s</string>
   <string name="clean_content_zero">"Nemoj ništa čistiti"</string>
+  <string name="cmcc_app_check_dialog_message">Ponovno pokrenite uređaj za dovršetak popravka.</string>
+  <string name="cmcc_app_check_dialog_negative">Kasnije</string>
+  <string name="cmcc_app_check_dialog_positive">Ponovno pokreni</string>
+  <string name="cmcc_app_check_dialog_title">Sustav je popravljen</string>
   <string name="confirm_auto_cleaner">U redu</string>
   <string name="cta_button_text_agree">U redu</string>
   <string name="cta_button_text_cancel">Odustani</string>
@@ -345,10 +349,12 @@
   <string name="name_antivirus">Prikaži Pravila o Privatnosti</string>
   <string name="name_optimizer">"Cheetah Mobile Pravila o Privatnosti"</string>
   <string name="never">Jedanput</string>
-  <string name="notification_button_text_of_low_memory">Očisti</string>
-  <string name="notification_summary_after_auto_cleanup">Očišćeno %s.</string>
+  <string name="notification_button_text_of_low_memory">Počisti</string>
+  <string name="notification_summary_after_auto_cleanup">Počišćeno %s.</string>
+  <string name="notification_summary_cmcc_app_check">Dodirni za prikaz detalja.</string>
   <string name="notification_summary_of_garbage_cleanup">Veličina smeća je preko %s.</string>
   <string name="notification_summary_of_low_memory">Kada je memorija niska, neće se instalirati nove aplikacije</string>
+  <string name="notification_title_cmcc_app_check">Dana (%d)od zadnje provjere</string>
   <string name="notification_title_firewall_blocked">Blokirano</string>
   <string name="notification_title_of_garbage_cleanup">Veličina smeća</string>
   <string name="notification_title_of_low_memory">Iskorišteno prostora: %s</string>
@@ -604,6 +610,7 @@
   <string name="summary_cleaner_cloudscan">Učitaj i usporedi nazive mapa s online definicijama</string>
   <string name="summary_cloud_account">Dobijte najviše od Vašeg Mi Uređaja.</string>
   <string name="summary_cloud_service">Sinkronizirajte vaše fotografije, kontakte, i više na svim vašim uređajima</string>
+  <string name="summary_cmcc_app_check">"Neke aplikacije ne mogu biti provjerene"</string>
   <string name="summary_data_flow">"Izbjegnite prekoračenje mjesečnog ograničenja podataka vašeg davatelja usluga"</string>
   <string name="summary_default_app">"%s nije postavljena kao zadana aplikacija sustava"</string>
   <string name="summary_delete_cache">Neke aplikacije mogu zahtijevati ove podatke da rade normalno</string>
@@ -643,6 +650,7 @@
   <string name="title_cleaner_cloudscan">Učitaj nazive mapa</string>
   <string name="title_cloud_account">Mi Račun</string>
   <string name="title_cloud_service">Mi Cloud</string>
+  <string name="title_cmcc_app_check">"Provjera nije potpuna"</string>
   <string name="title_data_flow">Postavi upozorenje uporabe podataka</string>
   <string name="title_data_flow_no">Nadzor Uporabe podataka isključen</string>
   <string name="title_data_flow_yes">Nadzor Uporabe podataka uključen</string>

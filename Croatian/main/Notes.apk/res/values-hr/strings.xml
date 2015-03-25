@@ -38,7 +38,7 @@
   <string name="login_sync">Prijavi se &amp; sinkr.</string>
   <string name="menu_create_folder">Nova mapa</string>
   <string name="menu_delete">"Izbriši"</string>
-  <string name="menu_move">Premjesti</string>
+  <string name="menu_folders">Mape</string>
   <string name="menu_move_parent_folder">Starija mapa</string>
   <string name="menu_send_to_desktop">Dodaj na Početni zaslon</string>
   <string name="menu_send_wechat">Pošalji na WeChat</string>

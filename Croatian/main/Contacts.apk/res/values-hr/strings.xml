@@ -377,12 +377,12 @@ Razlog: \"%s\""</string>
   <string name="favoritesFrequentContacted">Često kontaktirani</string>
   <string name="favorites_list_empty">Nema favorita</string>
   <string name="firewall_setting">Lista blokiranih</string>
-  <string name="followed_yellowpage">Prateći direktoriji</string>
-  <string name="foundTooManyContacts">Pronađeno je više od ovoliko kontakata: %d.</string>
+  <string name="followed_yellowpage">Provjereni Računi</string>
+  <string name="foundTooManyContacts">Pronađeno je više od (%d) kontakata</string>
   <string name="frequentList">Često</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Ime</string>
-  <string name="generic_no_account_prompt">Očuvajte sigurnost svojih kontakata čak i ako izgubite telefon, sinkronizirajte ih mrežnom uslugom.</string>
+  <string name="generic_no_account_prompt">Sačuvajte sigurnost svojih kontakata čak i ako izgubite telefon, sinkronizirajte ih mrežnom uslugom.</string>
   <string name="generic_no_account_prompt_title">Dodajte račun</string>
   <string name="ghostData_company">"Tvrtka"</string>
   <string name="ghostData_title">"Naslov"</string>
@@ -396,7 +396,7 @@ Razlog: \"%s\""</string>
   <string name="group_member_remove_toast">Uklonjeno iz grupe</string>
   <string name="group_name">Kolege</string>
   <string name="group_name_hint">Naziv grupe</string>
-  <string name="group_read_only">Na ovom uređaju ne može se uređivati</string>
+  <string name="group_read_only">Na ovom uređaju ne mogu se uređivati</string>
   <string name="group_rename_dialog_title">"Preimenuj grupu"</string>
   <string name="group_rename_fail_toast">Preimenovanje grupe nije uspjelo</string>
   <string name="group_rename_success_toast">Grupa je preimenovana</string>

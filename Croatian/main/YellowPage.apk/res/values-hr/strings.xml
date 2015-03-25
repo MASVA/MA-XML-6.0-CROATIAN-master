@@ -12,6 +12,7 @@
   <string name="account_updating_device_failed">"Ne mogu se prijaviti"</string>
   <string name="account_verify_password">"Koristite ovu uslugu na drugom uređaju. Radi sigurnosti, morate potvrditi svoj Mi Račun na ovom uređaju."</string>
   <string name="account_yellowpage_favorite">Favoriti</string>
+  <string name="account_yellowpage_followed">Provjereni Računi</string>
   <string name="account_yellowpage_recent">Prikaži povijest</string>
   <string name="agree">Slažem se</string>
   <string name="all_resources">Sve</string>

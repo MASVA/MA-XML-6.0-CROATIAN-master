@@ -11,7 +11,7 @@
   <string name="adjust_traffic_data">Podesi uporabu podataka</string>
   <string name="alter_dialog_message">Povezivanje na podatkovne usluge u međunarodnom roamingu može dovesti do velikih troškove od Vašeg davatelja usluga. Dopustiti aplikacijama s popisa dopuštenih povezivanje s podatkovnim uslugama u međunarodnom roamingu?</string>
   <string name="app_detail">Detalji</string>
-  <string name="apn_exception_summary">Informacije Pristupne točke davatelja usluga su nepravilno postavljene</string>
+  <string name="apn_exception_summary">Test konfiguracije APN-a davatelja usluga</string>
   <string name="apn_exception_title">Provjerite postavke APN-a</string>
   <string name="app_mobile">2G/3G</string>
   <string name="app_name">Uporaba podataka</string>
@@ -187,12 +187,14 @@ Maks.: %1$s%2$s preostalo | %3$s iskorišteno"</string>
   <string name="network_control">Prikaz postavki aplikacije</string>
   <string name="network_diagnostics">Test mreže</string>
   <string name="none_mi_service_app_detail">Prazno</string>
-  <string name="notify_daily_data_usage_body">Iskorišteno danas: %s. Dodirnite da postavite ograničenje.</string>
-  <string name="notify_daily_limit_body">Iskorišteno ovaj tjedan: %s. Dodirnite da postavite ograničenje.</string>
-  <string name="notify_daily_limit_title">Postavite dnevno ograničenje podataka</string>
-  <string name="notify_month_traffic_body">Iskorišteno ovaj mjesec: %s. Dodirnite da postavite ograničenje.</string>
+  <string name="notify_daily_data_usage_body">Iskorišteno danas %s. Dodirnite da post. ogranič.</string>
+  <string name="notify_daily_limit_body">Iskorišteno danas %s. Dodirnite da post. ogranič.</string>
+  <string name="notify_daily_limit_title">Postavite dnevno ograničenje</string>
+  <string name="notify_daily_limit_title_for_slotnum">Postavite dnevno ograničenje za %s</string>
+  <string name="notify_month_traffic_body">Iskorišteno ovaj mjesec %s. Dodirnite da post. ogranič.</string>
   <string name="notify_setting_pkg_title">Postavite mjesečno ograničenje podataka</string>
-  <string name="notify_weekly_pkg_body">Iskorišteno ovaj tjedan: %s. Dodirnite da postavite ograničenje.</string>
+  <string name="notify_setting_pkg_title_for_slotnum">Postavite mjesečno ograničenje za %s</string>
+  <string name="notify_weekly_pkg_body">Iskorišteno ovaj tjedan %s. Dodirnite da post. ogranič.</string>
   <string name="ok_button">U redu</string>
   <string name="online_chat">Chat</string>
   <string name="online_read">Vijesti</string>
@@ -289,7 +291,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg davatelja mobilnih
   <string name="read_number">86 predmeta</string>
   <string name="read_unit">" predmeta"</string>
   <string name="repair">Obnovi</string>
-  <string name="replace_dns">Autom. zamjena</string>
+  <string name="replace_dns">Zamjeni DNS automatski</string>
   <string name="right_precent">100%</string>
   <string name="roaming_not_start_body">Aplikacije na popisu dopuštenih će se moći povezati na podatkovne usluge u međ. roamingu.</string>
   <string name="roaming_not_start_title">Međunarodni roaming</string>
@@ -455,7 +457,7 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="usage_sorted_empty_text">Prazno</string>
   <string name="usage_sorted_loading_text">Učitavanje…</string>
   <string name="usbsharenet_exception_summary">"Ne mogu testirati mrežu koja se dijeli sa Mi PC Suite."</string>
-  <string name="usbsharenet_exception_title">Test Usb dijeljene mreže</string>
+  <string name="usbsharenet_exception_title">Test USB dijeljene mreže</string>
   <string name="wifi_exception_summary">Test dostupne WLAN mreže</string>
   <string name="wifi_exception_title">Test WLAN mreže</string>
 </resources>

@@ -117,6 +117,9 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="mdb_restore_mode">Način rada obnove</string>
   <string name="mdb_usb_disconnection_exit">"USB nije povezan"</string>
   <string name="mount_storage">"Da"</string>
+  <string name="media_projection_action_text">Započni</string>
+  <string name="media_projection_dialog_text">"%s će početi snimanje svega što se prikazuje na zaslonu."</string>
+  <string name="media_projection_remember_text">"Ne prikazuj ponovo"</string>
   <string name="no_notification_tips">Nema obavijesti</string>
   <string name="notification_otg_gamestick_in">Igrači kontroler je povezan</string>
   <string name="notification_otg_gamestick_out">Igrači kontroler nije povezan</string>
