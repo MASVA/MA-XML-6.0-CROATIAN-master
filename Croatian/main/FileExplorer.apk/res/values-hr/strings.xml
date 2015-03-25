@@ -38,7 +38,7 @@
   <string name="category_zip">Arhive</string>
   <string name="choose_send_type">Odaberite način</string>
   <string name="choose_upload_location">Pošalji na KuaiPan mapu</string>
-  <string name="clean_message">%1$s prostora oslobođeno.</string>
+  <string name="clean_message">Oslobođeno %1$s prostora.</string>
   <string name="clean_title">Brisanje datoteka starije preko 30 dana.</string>
   <string name="clean_trash_box">Isprazni smeće</string>
   <string name="cleaning">Čišćenje…</string>
@@ -66,9 +66,9 @@
   <string name="delete_dialog_button">Izbriši</string>
   <string name="delete_failed">"Ne mogu izbrisati"</string>
   <string name="delete_file">Izbrisati ovu datoteku?</string>
-  <string name="delete_files">Izbrisati datoteke %1$d ?</string>
+  <string name="delete_files">Izbrisati datoteke (%1$d)?</string>
   <string name="delete_folder">Izbrisati ovu datoteku?</string>
-  <string name="delete_folders">Izbrisati mape %1$d?</string>
+  <string name="delete_folders">Izbrisati mape (%1$d)?</string>
   <string name="delete_selected_tasks">Izbrisati odabrano?</string>
   <string name="des_running_trans">Datoteke koje nisu premještene %1$d</string>
   <string name="dialog_select_type">Odaberite tip</string>
