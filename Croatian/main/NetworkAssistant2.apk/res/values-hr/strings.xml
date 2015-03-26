@@ -22,8 +22,8 @@
   <string name="background_traffic">Pozadina %s</string>
   <string name="begin_date">Datum resetiranja ciklusa uporabe</string>
   <string name="btn_finish_diagnostic">U redu</string>
-  <string name="btn_start_diagnostic">Start</string>
-  <string name="btn_stop_diagnostic">Stop</string>
+  <string name="btn_start_diagnostic">Pokreni dijagnostiku</string>
+  <string name="btn_stop_diagnostic">Zaustavi dijagnostiku</string>
   <string name="cancel_button">Odustani</string>
   <string name="chat_number">10 sati</string>
   <string name="chat_uint">" sati"</string>
