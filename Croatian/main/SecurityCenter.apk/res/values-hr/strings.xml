@@ -170,7 +170,7 @@
   <string name="details_subtitle">Detalji korištenja</string>
   <string name="dialog_msg_auto_start_declare">Pojedine sigurnosne aplikacije mogu pogrešno upućivati na to da ih je MIUI spriječio od pokretanja. Provjerite dopuštenja koja su odobrena za pojedine aplikacije u Postavke &gt; Aplikacije.</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Potvrditi Sig.kopiju i deinstalirati odabrane aplikacije?</string>
-  <string name="dialog_msg_check_all">Potvrdi odabir %1$s koji sadrži %2$d stavaka</string>
+  <string name="dialog_msg_check_all">Potvrdi odabir za %1$s koji sadrži (%2$d) stavaka</string>
   <string name="dialog_msg_load_cleanup_engine_error">Alat za čišćenje je oštećen, morate ponovno instalirati ROM!</string>
   <string name="dialog_msg_stop_virus_scan">Želite li zaustaviti skeniranje?</string>
   <string name="dialog_msg_uninstall_apps">Deinstalirati ove aplikacije?</string>

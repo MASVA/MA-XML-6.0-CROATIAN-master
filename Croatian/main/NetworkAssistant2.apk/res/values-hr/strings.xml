@@ -30,9 +30,9 @@
   <string name="check_network_state">Provjeri status mreže</string>
   <string name="checkout_traffic_saving_history">Prikaži povijest</string>
   <string name="choose">Odaberi</string>
-  <string name="connect_internet_by_mobiledata">Mobilni podaci</string>
-  <string name="connect_internet_by_usbshare">USB Povezivanje</string>
-  <string name="connect_internet_by_wifi">WLAN Povezivanje</string>
+  <string name="connect_internet_by_mobiledata">Povezivanje pomoću Mobilnih podataka</string>
+  <string name="connect_internet_by_usbshare">Povezivanje pomoću USB-a</string>
+  <string name="connect_internet_by_wifi">Povezivanje pomoću WLAN-a</string>
   <string name="current_network_state_not_need_diagnose">Normalno</string>
   <string name="daily_limit_network_available_body">Dodirni za pregled statistike uporabe podataka.</string>
   <string name="daily_limit_over_message">"Premašili ste svoje dnevno ograničenja uporabe podataka."</string>
@@ -165,9 +165,9 @@ Maks.: %1$s%2$s preostalo | %3$s iskorišteno"</string>
   <string name="main_secondary_message_traffic_used_noleisure">%s maks.podataka iskorišteno | nema isklj. maks. podataka preostalo</string>
   <string name="main_secondary_message_traffic_used_normal">%s maks.podataka iskorišteno</string>
   <string name="main_toolbar_firewall">Ograniči uporabu podataka aplikacija</string>
-  <string name="main_toolbar_internet_by_mobiledata">Mobilni podaci</string>
-  <string name="main_toolbar_internet_by_pc_brige">USB Povezivanje</string>
-  <string name="main_toolbar_internet_by_wifi">WLAN Povezivanje</string>
+  <string name="main_toolbar_internet_by_mobiledata">Povezivanje pomoću Mobilnih podataka</string>
+  <string name="main_toolbar_internet_by_pc_brige">Povezivanje pomoću USB-a</string>
+  <string name="main_toolbar_internet_by_wifi">Povezivanje pomoću WLAN-a</string>
   <string name="main_toolbar_purchase">Nadoplata</string>
   <string name="main_toolbar_saving">Ušteda</string>
   <string name="main_toolbar_statistic">Statistika uporabe podataka</string>

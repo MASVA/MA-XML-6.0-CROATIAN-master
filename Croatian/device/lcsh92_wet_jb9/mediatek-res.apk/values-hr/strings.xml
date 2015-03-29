@@ -287,9 +287,9 @@ Pokušajte ponovno za %d sekundi."</string>
   <string name="wifi_display_sound_path_reminder">Ne reproducira se multimedijski zvuk u vašem naglavnom kompletu.</string>
   <string name="wifi_display_unstable_connection">Nestabilna veza</string>
   <string name="wifi_display_unstable_suggestion">Trenutna veza bežičnog zaslona nije stabilna, pokušajte se približiti vašem uređaju za prikaz.</string>
-  <string name="wifi_display_wfd_and_wifi_are_turned_on">Uključeni su bežični zaslon i Wi-Fi.</string>
+  <string name="wifi_display_wfd_and_wifi_are_turned_on">Uključeni su bežični zaslon i WLAN.</string>
   <string name="wifi_display_wfd_off_bt_on">Bežični zaslon će se isključiti kada uključite Bluetooth. Želite li nastaviti?</string>
   <string name="wifi_display_wfd_off_hdmi_on">Bežični zaslon će se isključiti kada uključite HDMI. Želite li nastaviti?</string>
-  <string name="wifi_display_wifi_p2p_disconnect_wfd_connect">Trenutna Wi-Fi izravna veza će se prekinuti kada se spojite s uređajem za bežični prikaz. Želite li nastaviti?</string>
+  <string name="wifi_display_wifi_p2p_disconnect_wfd_connect">Trenutna WLAN izravna veza će se prekinuti kada se spojite s uređajem za bežični prikaz. Želite li nastaviti?</string>
   <string name="wifi_wps_failed_overlap">Otkrivena je druga WPS sesija. Pokušajte ponovno za nekoliko minuta.</string>
 </resources>

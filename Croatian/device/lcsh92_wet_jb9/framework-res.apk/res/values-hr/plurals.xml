@@ -80,8 +80,8 @@
         <item quantity="one">1 sat</item>
     </plurals>
     <plurals name="wifi_available">
-        <item quantity="other">Dostupne su Wi-Fi mreže</item>
-        <item quantity="one">Dostupna je Wi-Fi mreža</item>
+        <item quantity="other">Dostupne su WLAN mreže</item>
+        <item quantity="one">Dostupna je WLAN mreža</item>
     </plurals>
     <plurals name="wifi_available_detailed">
         <item quantity="other">Dostupne su otvorene WLAN mreže</item>
