@@ -186,15 +186,15 @@ localization_Croatian_table = {
     get_over_format=", oko %d grama ili masti.",
     click_to_get_help="Naučite više o Mi Bandu",
     take_a_walk="Prošetajte s vašim Mi Bandom",
-    take_a_walk_info="Vaš Miband evidentira svaki vaš korak tijekom dana.",
-    unlock_hint="Otključajte svoj telefon s MiBandom!",
+    take_a_walk_info="Vaš Miband evidentira svaki vaš napravljeni korak tijekom dana.",
+    unlock_hint="Otključajte svoj telefon s Mi Bandom!",
     unlock_hint_info="Otkrijte novi način zaštite vaše privatnosti.",
     unlock_password_hint="Postavite zaključavanje zaslona kako bi telefon bio siguran.",
     unlock_password_hint_info="Mi Band pruža najbolje otključavanje zaslona.",
     no_data_hint_0="Nastavite se kretati, neka sport postane dijelom vašeg života.",
     no_data_hint_1="Ponavljanje je otac uspjeha.",
     no_data_hint_2="Težite napretku, a ne savršenstvu.",
-    no_data_hint_3="Normalna odrasla osoba troši 15% -20% ukupnog vremena sna u dubokoj fazi sna. ",
+    no_data_hint_3="Bez obzira na to koliko stee sporo, još uvijek ste brži od onih koji se izležavaju na kauču.",
     not_binded_hint="Nijedan Mi Band nije uparen s ovim računom. ",
     not_binded_hint_info="Također možete kliknuti na Vaga u izborniku.",
     new_record_info="Postigli ste novi rekord.",
@@ -217,7 +217,7 @@ localization_Croatian_table = {
     manual_lazy_title_used="Danas je Dan ljenčarenja.",
     manual_lazy_subtitle_used="Možete zaraditi više Dana ljenčarenja obaranjem osobnih rekorda.",
     manual_fail_ytd_title = "Završili ste svoj niz jučer.",
-    manual_fail_ytd_subtitle = "Postizanje niza je dugačak %d.",
+    manual_fail_ytd_subtitle = "Postignuti niz je %d dugačak.",
 
     active_time_format_0="%dm",
     active_time_format_1="%ds",
@@ -230,7 +230,7 @@ localization_Croatian_table = {
     get_distance_format="oko %dm.",
     get_distance_format_british="%d inches",
     activity_walk_format="%s Prohodano %d koraka %s",
-    activity_walk_consumed_format="Potrošeno %dkal%s.",
+    activity_walk_consumed_format="Potrošeno %dkal %s.",
     activity_rope_skipping_format="%s preskakanje užeta %d puta",
     activity_situp_format="%s %d trbušnjaka",
     activity_consumed_format="Potrošeno %dcal %s",
@@ -241,10 +241,10 @@ localization_Croatian_table = {
     deep_sleep_format="Faza dubokog sna je bila %.",
 
     battery_low_info="Stavite Mi Band na punjenje.",
-    battery_very_low_info="Baterija banda je skoro prazna.",
+    battery_very_low_info="Baterija Mi Band je skoro prazna.",
 
     cannot_find_bracelet="Ne možete pronaći svoj Mi Band?",
-    cannot_find_bracelet_info="Uvjerite se da je baterija vašeg MiBanda napunjena.",
+    cannot_find_bracelet_info="Uvjerite se da je baterija vašeg Mi Banda napunjena.",
 
     bracelet_disconnect = "Ne mogžete se povezati? Kliknite za pomoć.",
 
@@ -253,14 +253,14 @@ localization_Croatian_table = {
     new_record_born="Postigli ste novi rekord!",
 
 	   ------====== Weather tips ===============
-    weather_tips_title_0 = "Heavy pollution, try to stay indoors",
-    weather_tips_title_1 = "Heavy pollution, try to stay indoors",
-    weather_tips_info = "Sit-ups or jumping rope are great indoor exercises!",
+    weather_tips_title_0 = "Teško zagađenje, pokušajte ostati u zatvorenom prostoru",
+    weather_tips_title_1 = "Teško zagađenje, pokušajte ostati u zatvorenom prostoru",
+    weather_tips_info = "Trbušnjaci ili preskakanje užeta su odlične vježbe u zatvorenom!",
 
     ---------------Weight scale -------------------
     welcome_use_weight_scale = "Dobrodošli u korištenje vage",
     welcome_use_weight_scale_not_bind = "Kliknite da povežete vage",
-    welcome_use_mi_health="Dobrodošli u korištenje MiBanda",
+    welcome_use_mi_health="Dobrodošli u korištenje Mi Banda",
 
     select_devices="Odaberite uređaje za uparivanje",
     daily_steps_not_comlete = "%s preostalo koraka"
