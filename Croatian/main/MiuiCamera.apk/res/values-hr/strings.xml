@@ -15,17 +15,17 @@
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
   <string name="audio_focus_exit_button_text">Isključi Audio Fokus</string>
   <string name="burst_shoot_exit_button_text">Isključi Brzo Okidanje</string>
-  <string name="camera_disabled">Fotoaparat je onemogućen</string>
-  <string name="camera_error_title">Pogreška Fotoaparata</string>
-  <string name="camera_label">Fotoaparat</string>
-  <string name="camera_settings_label">Fotoaparat</string>
+  <string name="camera_disabled">Kamera je onemogućena</string>
+  <string name="camera_error_title">Pogreška Kamere</string>
+  <string name="camera_label">Kamera</string>
+  <string name="camera_settings_label">Kamera</string>
   <string name="cannot_connect_camera_once">"Ne mogu se spojiti s kamerom."</string>
   <string name="cannot_connect_camera_twice">"Ne mogu se spojiti s kamerom, ponovno pokrenite vaš uređaj."</string>
   <string name="cannot_move_warning_message">Fotografiram, držite uređaj mirnim</string>
   <string name="confirm_location_alert">Zapamti lokacije fotografija</string>
   <string name="confirm_location_message">"Označite svoje fotografije i videozapise na lokacijama gdje su snimljene. Ostale aplikacije mogu pristupiti tim informacijama zajedno s vašim spremljenim slikama."</string>
   <string name="confirm_location_title">Zapamtiti lokacije fotografija?</string>
-  <string name="confirm_restore_message">"Obnoviti na zadane postavke Fotoaparata?"</string>
+  <string name="confirm_restore_message">"Obnoviti na zadane postavke Kamere?"</string>
   <string name="confirm_restore_title">Obnovi na zadane postavke</string>
   <string name="dialog_ok">U redu</string>
   <string name="effect_setting_top_text">Filteri</string>
@@ -52,7 +52,7 @@
   <string name="face_beauty_intelligent_level_3">+3</string>
   <string name="find_other_qrcode">QR kod pronađen</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
-  <string name="no_storage">Umetnite SD karticu prije korištenja fotoaparata.</string>
+  <string name="no_storage">Umetnite SD karticu prije korištenja kamere.</string>
   <string name="not_enough_space">Unutarnja pohrana je puna.</string>
   <string name="object_track_enable_toast">Dodirnite na oba kraja objekta s dva prsta kako bi ga pratili.</string>
   <string name="pano_dialog_panorama_failed">"Ne mogu spremiti panoramu."</string>
@@ -209,7 +209,7 @@
   <string name="pref_camera_picturesize_entry_fullscreen">Cijeli zaslon 16:9</string>
   <string name="pref_camera_picturesize_entry_standard">Standardno 4:3</string>
   <string name="pref_camera_picturesize_title">Veličina fotografije</string>
-  <string name="pref_camera_picturesize_title_simple_mode">Okvir fotoaparata</string>
+  <string name="pref_camera_picturesize_title_simple_mode">Okvir kamere</string>
   <string name="pref_camera_recordlocation_entry_off">Isključeno</string>
   <string name="pref_camera_recordlocation_entry_on">Uključeno</string>
   <string name="pref_camera_recordlocation_title">Spremi detalje lokacije</string>
@@ -230,7 +230,7 @@
   <string name="pref_camera_scenemode_entry_sunset">Zalazak sunca</string>
   <string name="pref_camera_scenemode_title">Način scene</string>
   <string name="pref_camera_settings">Uređaj</string>
-  <string name="pref_camera_settings_category">Postavke fotoaparata</string>
+  <string name="pref_camera_settings_category">Postavke kamere</string>
   <string name="pref_camera_settings_title">Postavke</string>
   <string name="pref_camera_sharpness_title">Oštrina</string>
   <string name="pref_camera_show_gender_age_entry_alias">Prikaži godine</string>
@@ -240,7 +240,7 @@
   <string name="pref_camera_skinToneEnhancement_entry_auto">Auto poboljšanje</string>
   <string name="pref_camera_skinToneEnhancement_entry_disable">Onemogući</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Omogući</string>
-  <string name="pref_camera_sound_title">Zvukovi fotoaparata</string>
+  <string name="pref_camera_sound_title">Zvukovi kamere</string>
   <string name="pref_camera_touchafaec_entry_off">Isključeno</string>
   <string name="pref_camera_touchafaec_entry_on">Uključeno</string>
   <string name="pref_camera_ubifocus_title">Refocus</string>
@@ -264,7 +264,7 @@
   <string name="pref_camera_whitebalance_title">Balans bijele</string>
   <string name="pref_camera_zsl_entry_off">Isključeno</string>
   <string name="pref_camera_zsl_entry_on">Uključeno</string>
-  <string name="pref_capture_settings">Fotoaparat</string>
+  <string name="pref_capture_settings">Kamera</string>
   <string name="pref_face_beauty_title">Ujepšanje</string>
   <string name="pref_front_mirror_entry_auto">Auto</string>
   <string name="pref_front_mirror_entry_off">Isklj.</string>

@@ -13,7 +13,7 @@
   <string name="alert_title_edit_anyway">Ova bilješka sadrži nepodržani sadržaj</string>
   <string name="app_name">Bilješke</string>
   <string name="app_widget">Bilješke</string>
-  <string name="attachment_camera">"Fotoaparat"</string>
+  <string name="attachment_camera">"Kamera"</string>
   <string name="attachment_contact">"Kontakti"</string>
   <string name="attachment_gallery">"Galerija"</string>
   <string name="button_new_note">"Nova bilješka"</string>

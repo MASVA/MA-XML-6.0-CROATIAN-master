@@ -621,11 +621,11 @@ Jeste li sigurni da želite otići s ove stranice?"</string>
   <string name="save_password_notnow">Ne sada</string>
   <string name="save_password_remember">Zapamti</string>
   <string name="save_to_bookmarks">Spremi u oznake</string>
-  <string name="save_to_camera">Spremi u fotoaparat</string>
+  <string name="save_to_camera">Spremi u Kameru</string>
   <string name="save_to_camera_failed">spremanje slike nije uspjelo</string>
-  <string name="save_to_camera_success">spremljeno u fotoaparat</string>
+  <string name="save_to_camera_success">spremljeno u Kameru</string>
   <string name="saving_snapshot">Spremanje…</string>
-  <string name="sdcard_error">provjerite stanje sd karice</string>
+  <string name="sdcard_error">provjerite stanje SD kartice</string>
   <string name="search">Traži</string>
   <string name="search_baidu">Baidu</string>
   <string name="search_bing">Bing</string>

@@ -18,10 +18,10 @@
   <string name="button_feedback">Ostalo</string>
   <string name="button_plus">+1</string>
   <string name="camera_problem1">Loša kvaliteta fotografije</string>
-  <string name="camera_problem2">"Ne mogu se povezati na fotoaparat sa USB-om"</string>
-  <string name="camera_problem3">Fotoaparat često prekida</string>
+  <string name="camera_problem2">"Ne mogu se povezati na Kameru sa USB-om"</string>
+  <string name="camera_problem3">Kamera često prekida</string>
   <string name="camera_problem4">"Ne može se prebacivati ​​između prednje/stražnje kamere"</string>
-  <string name="camera_problem5">Fotoaparat je prestao raditi</string>
+  <string name="camera_problem5">Kamera je prestala raditi</string>
   <string name="common_problem_empty">Prazno</string>
   <string name="cta_cancel">Odustani</string>
   <string name="cta_confirm">U redu</string>
@@ -36,7 +36,7 @@
   <string name="err_type">Vrsta greške</string>
   <string name="err_type_app">Aplikacije</string>
   <string name="err_type_bluetooth">Bluetooth</string>
-  <string name="err_type_camera">Fotoaparat</string>
+  <string name="err_type_camera">Kamera</string>
   <string name="err_type_hardware">Hardware</string>
   <string name="err_type_hardware_summary">Tipke, punjenje, senzori, itd.</string>
   <string name="err_type_more">Više</string>

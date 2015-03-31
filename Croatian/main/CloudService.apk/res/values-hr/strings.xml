@@ -14,6 +14,10 @@
   <string name="bad_authentication">Pogrešan račun ili zaporka</string>
   <string name="btn_return">Natrag</string>
   <string name="button_cancel">Odustani</string>
+  <string name="buy_more_space_b_class">"Prijavite se na mi.com/micloud da dobijete više prostora za pohranu.
+Potrebna je Mainland China bankovna kartica za kupnju dodatnog prostora za pohranu."</string>
+  <string name="buy_more_space_c_class">"Ova značajka zahtijeva Mainland China bankovnu karticu.
+Da dobijete više prostora za pohranu, posjetite mi.com/micloud."</string>
   <string name="buy_space_expire">Kupljen prostor će isteći za %s</string>
   <string name="buy_space_expire_concat">%1$s do %2$s</string>
   <string name="buy_space_sulotion_auto_renew">Obnovi automatski</string>
@@ -24,6 +28,18 @@
   <string name="buy_space_sulotion_title">Kupite prostor za pohranu</string>
   <string name="calendar_sync">Kalendar</string>
   <string name="click_to_enabled">Dodirni za sinkr.</string>
+  <string name="cloud_back_up_button_ok">Prisilno zaustavi</string>
+  <string name="cloud_back_up_close_info">Dodirni za izradu Sig. kopije</string>
+  <string name="cloud_back_up_dialog_content">"Zaustaviti izradu Sig. kopije u tijeku? Ako zaustavite sada, nećete biti u mogućnosti koristiti ovu Sig. kopiju za vraćanje aplikacija."</string>
+  <string name="cloud_back_up_interval_long">7 dana</string>
+  <string name="cloud_back_up_interval_short">1 sat</string>
+  <string name="cloud_back_up_network_unavailable">"Ne mogu se ukloniti. Povežite se na WLAN i pokušajte ponovno."</string>
+  <string name="cloud_back_up_open_info">"Napravi Sig. kopiju Početnog zaslona i aplikacija svakih %1$s kada je povezano na WLAN
+Zadnja Sig. kopija: %2$s"</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Napravi Sig. kopiju Početnog zaslona i aplikacija svakih %1$s kada je povezano na WLAN</string>
+  <string name="cloud_back_up_remove_success">Sig. kopija je izbrisana</string>
+  <string name="cloud_back_up_title">Sig. kopija Početnog zaslona</string>
+  <string name="cloud_backup_dialog_title">Napravi Sig. kopiju s Mi Cloudom</string>
   <string name="cloud_find_device">Pronađi Uređaj</string>
   <string name="cloud_space_upgrade_message">Dodirnite za dodavanje %sGB na vaš cloud.</string>
   <string name="cloud_space_upgrade_no_quota_info">"Ne mogu dobiti detalje prostora za pohranu"</string>
@@ -217,7 +233,7 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="share_miliao_not_installed">MiTalk nije instaliran.</string>
   <string name="share_success">Uspješno podijeljeno</string>
   <string name="share_weibo_not_installed">Weibo nije instaliran.</string>
-  <string name="share_weixin_not_installed">Wechat nije instaliran.</string>
+  <string name="share_weixin_not_installed">WeChat nije instaliran.</string>
   <string name="sina_share_fail">"Ne mogu poslati"</string>
   <string name="sina_share_fail_content_repeat">"Ne mogu podijeliti, sadržj već postoji…"</string>
   <string name="sina_share_pendding">Šaljem…</string>

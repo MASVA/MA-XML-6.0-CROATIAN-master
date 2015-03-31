@@ -503,9 +503,9 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="call_settings_summary">Postavite govornu poštu, preusmjeravanje poziva, ID pozivatelja</string>
   <string name="call_settings_title">Postavke poziva</string>
   <string name="camera_key_action_app_title">Otvori aplikaciju</string>
-  <string name="camera_key_action_category_title">"Korištenje fotoaparata nije dopušteno"</string>
+  <string name="camera_key_action_category_title">"Korištenje Kamere nije dopušteno"</string>
   <string name="camera_key_action_none_title">Nema radnje</string>
-  <string name="camera_key_action_setting_title">MI tipka</string>
+  <string name="camera_key_action_setting_title">Mi tipka</string>
   <string name="camera_key_action_shortcut_call">Pozovi</string>
   <string name="camera_key_action_shortcut_home">Početni zaslon</string>
   <string name="camera_key_action_shortcut_screenshot">Slika zaslona</string>
@@ -1437,6 +1437,9 @@ i pokrenite ga."</string>
   <string name="music_dirac_mode_piston_100">Mi Piston</string>
   <string name="music_dirac_mode_piston_2">Mi Piston-2</string>
   <string name="music_dirac_mode_piston_basic">Basic Edition</string>
+  <string name="music_dolby_mode_movie">Film</string>
+  <string name="music_dolby_mode_music">Glazba</string>
+  <string name="music_dolby_mode_off">Isključeno</string>
   <string name="music_equalizer">Equalizer</string>
   <string name="music_equalizer_summary">Prilagodite individualne razine za različite vrste glazbe</string>
   <string name="music_headphone_settings">Odaberite vrstu slušalica</string>
@@ -1459,8 +1462,9 @@ i pokrenite ga."</string>
   <string name="music_hifi_summary">Smanjite buku i izobličenje i povećajte kvalitetu zvuka.</string>
   <string name="music_hifi_title">Hi-Fi zvuk</string>
   <string name="music_hifi_volume">Hi-Fi glasnoća</string>
-  <string name="music_mi_effect_summary">Uvijek koristi MiSound pojačivač prilikom korištenja zvučnika</string>
-  <string name="music_mi_effect_title">Koristi MiSound pojačivač</string>
+  <string name="music_mi_effect_summary">Uvijek koristi Mi Sound Enhancer prilikom korištenja zvučnika</string>
+  <string name="music_mi_effect_title">Koristi Mi Sound Enhancer</string>
+  <string name="music_title_dolby_control">DOLBY</string>
   <string name="musicfx_title">Glazbeni efekti</string>
   <string name="mvno_match_data">Vrijednost MVNO-a</string>
   <string name="mvno_type">Vrsta MVNO-a</string>
@@ -1544,7 +1548,7 @@ i pokrenite ga."</string>
   <string name="page_layout_13">Alati</string>
   <string name="page_layout_18">Nedavno</string>
   <string name="page_layout_19">Kontakti</string>
-  <string name="page_layout_2">Fotoaparat</string>
+  <string name="page_layout_2">Kamera</string>
   <string name="page_layout_20">Imenik</string>
   <string name="page_layout_21">182 kontakata</string>
   <string name="page_layout_22">Podesi moj profil</string>
@@ -2390,8 +2394,8 @@ Googleov pristup sinkronizaciji podataka za mogućnost pristupa kontaktima, sast
   <string name="usb_msd_title">Uređaj za masovnu pohranu</string>
   <string name="usb_mtp_summary">Omogućuje prijenos medijskih datoteka u OS Windows ili Androidovim prijenosom datoteka na Mac (pogledajte www.android.com/filetransfer)</string>
   <string name="usb_mtp_title">Uređaj za medije (MTP)</string>
-  <string name="usb_ptp_summary">Omogućuje vam prijenos fotografija pomoću softvera fotoaparata i prijenos bilo koje datoteke na računala koja ne podržavaju MTP</string>
-  <string name="usb_ptp_title">Fotoaparat (PTP)</string>
+  <string name="usb_ptp_summary">Omogućuje vam prijenos fotografija pomoću softvera Kamere i prijenos bilo koje datoteke na računala koja ne podržavaju MTP</string>
+  <string name="usb_ptp_title">Kamera (PTP)</string>
   <string name="usb_tethering_active_subtext">Povezano za dijeljenje veze</string>
   <string name="usb_tethering_available_subtext">USB priključen, odaberite za dijeljenje veze</string>
   <string name="usb_tethering_button_text">Dijeljenje veze USB-om</string>
@@ -2538,7 +2542,7 @@ Riječ možete dodati dodirom na tipku Dodaj (+)"</string>
   <string name="volume_restore_alert">"Sve razine glasnoće će se resetirati."</string>
   <string name="volume_ring_description">Melodija zvona &amp; obavijesti</string>
   <string name="volume_ring_mute">Isključi zvuk melodije zvona &amp; obavijesti</string>
-  <string name="volume_system_description">Okidač fotoaparata, zaključavanje zaslona, i ostale obavijesti sustava</string>
+  <string name="volume_system_description">Okidač Kamere, zaključavanje zaslona, i ostale obavijesti sustava</string>
   <string name="volume_voice_description">Glas</string>
   <string name="vpn_cancel">Odustani</string>
   <string name="vpn_configure">Konfiguracija</string>

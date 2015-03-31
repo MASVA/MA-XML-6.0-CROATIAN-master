@@ -42,7 +42,7 @@
   <string name="pressure_unit">hPa</string>
   <string name="shake_enter_tip">Protresite za kalibriranje</string>
   <string name="using_camera_confirm_cancel">Zatvori</string>
-  <string name="using_camera_confirm_message">"Kompas treba koristiti mrežnu vezu i fotoaparat vašeg uređaja za normalan rad."</string>
+  <string name="using_camera_confirm_message">"Kompas treba koristiti mrežnu vezu i kameru vašeg uređaja za normalan rad."</string>
   <string name="using_camera_confirm_ok">Slažem se</string>
-  <string name="using_camera_confirm_title">Pristup fotoaparatu</string>
+  <string name="using_camera_confirm_title">Pristup Kameri</string>
 </resources>

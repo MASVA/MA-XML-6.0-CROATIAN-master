@@ -47,6 +47,10 @@
   <string name="address_choose_hint">%1$s, %2$s i %3$d ostale lokacije</string>
   <string name="addwhitelist">Dodaj u iznimke</string>
   <string name="all_address_choose_hint">Svi brojevi u ovoj pokrajini</string>
+  <string name="antispam_notificaiton_type_show_all">Pokaži kada je bilo koji poziv blokiran</string>
+  <string name="antispam_notificaiton_type_show_except_blacklist">Pokaži kada je poziv van liste zabranjenih blokiran</string>
+  <string name="antispam_notificaiton_type_show_none">"Ne prikazuj obavijesti"</string>
+  <string name="antispam_notification_setting_title">Obavijesti liste zabranjenih</string>
   <string name="app_name">Lista zabranjenih</string>
   <string name="backsound_set_hint">Postaviti svoju poruku \"Odsutan sam\" za %s?</string>
   <string name="baidu_thanks">Powered By Baidu</string>
@@ -63,7 +67,7 @@
   <string name="call_delete_title">Ukloni poziv</string>
   <string name="call_transfer_block">Blokiraj proslijeđene pozive</string>
   <string name="call_transfer_block_type">Blokiraj proslijeđene pozive</string>
-  <string name="call_transfer_info">Blokiraj pozive proslijeđene od nepoznatih brojeva</string>
+  <string name="call_transfer_info">Blokiraj proslijeđene pozive od nepoznatih brojeva</string>
   <string name="cancle">Odustani</string>
   <string name="close_callwait">Isključeno</string>
   <string name="customizer_mode_user_define_name">Prilagođeno</string>

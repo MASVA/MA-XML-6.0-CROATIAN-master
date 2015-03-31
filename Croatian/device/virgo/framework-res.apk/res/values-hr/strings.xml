@@ -183,7 +183,7 @@ koristeći %s"</string>
   <string name="description_direction_left">Kliznite lijevo za %s.</string>
   <string name="description_direction_right">Kliznite desno za %s.</string>
   <string name="description_direction_up">Kliznite prema gore za %s.</string>
-  <string name="description_target_camera">Fotoaparat</string>
+  <string name="description_target_camera">Kamera</string>
   <string name="description_target_search">Pretraživanje</string>
   <string name="description_target_silent">Bešumno</string>
   <string name="description_target_soundon">Zvuk je uključen</string>
@@ -356,7 +356,7 @@ Jeste li sigurni da želite napustiti ovu stranicu?"</string>
   <string name="keyboardview_keycode_shift">Shift</string>
   <string name="keygaurd_accessibility_media_controls">Nadzor medija</string>
   <string name="keyguard_accessibility_add_widget">Dodavanje widgeta.</string>
-  <string name="keyguard_accessibility_camera">Fotoaparat</string>
+  <string name="keyguard_accessibility_camera">Kamera</string>
   <string name="keyguard_accessibility_expand_lock_area">Proširivanje područja za otključavanje.</string>
   <string name="keyguard_accessibility_face_unlock">Otključavanje licem.</string>
   <string name="keyguard_accessibility_password_unlock">Otključavanje zaporkom.</string>
@@ -705,8 +705,8 @@ Pokušajte ponovo za %d s."</string>
   <string name="permdesc_cache_filesystem">Aplikaciji omogućuje čitanje i pisanje u datotečnom sustavu privremene memorije.</string>
   <string name="permdesc_callPhone">Aplikaciji omogućuje pozivanje telefonskih brojeva bez vašeg sudjelovanja. To može dovesti do neočekivanih troškova ili poziva. Uzmite u obzir da se aplikaciji time ne omogućuje pozivanje brojeva u nuždi. Zlonamjerne aplikacije mogu vam uzrokovati dodatne troškove postavljanjem poziva bez vašeg odobrenja.</string>
   <string name="permdesc_callPrivileged">Omogućuje aplikaciji pozivanje bilo kojeg telefonskog broja, uključujući hitne brojeve, bez vašeg uplitanja. Zlonamjerne aplikacije mogu upućivati nepotrebne i nezakonite pozive hitnim službama.</string>
-  <string name="permdesc_camera">Aplikaciji omogućuje snimanje slika i videozapisa fotoaparatom. Ta dozvola aplikaciji omogućuje upotrebu fotoaparata u bilo kojem trenutku bez vašeg odobrenja.</string>
-  <string name="permdesc_cameraDisableTransmitLed">Omogućuje unaprijed instaliranim aplikacijama sustava onemogućavanje lampice pokazivača upotrebe fotoaparata.</string>
+  <string name="permdesc_camera">Aplikaciji omogućuje snimanje slika i videozapisa Kamerom. Ta dozvola aplikaciji omogućuje upotrebu Kamere u bilo kojem trenutku bez vašeg odobrenja.</string>
+  <string name="permdesc_cameraDisableTransmitLed">Omogućuje unaprijed instaliranim aplikacijama sustava onemogućavanje lampice pokazivača upotrebe Kamere.</string>
   <string name="permdesc_captureAudioHotword">Aplikaciji omogućuje snimanje zvuka radi otkrivanja pokretača značajke. Snimanje se može odvijati u pozadini, ali ne sprječava drugo snimanje zvuka (npr. kameru).</string>
   <string name="permdesc_captureAudioOutput">Omogućuje aplikaciji primanje i preusmjeravanje audioizlaza.</string>
   <string name="permdesc_captureSecureVideoOutput">Omogućuje aplikaciji primanje i preusmjeravanje sigurnog videoizlaza.</string>
@@ -876,7 +876,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="permgroupdesc_bluetoothNetwork">Pristupajte uređajima i mrežama putem Bluetootha.</string>
   <string name="permgroupdesc_bookmarks">Izravan pristup oznakama i povijest preglednika.</string>
   <string name="permgroupdesc_calendar">Izravan pristup kalendaru i događajima.</string>
-  <string name="permgroupdesc_camera">Izravan pristup fotoaparatu za slikanje ili snimanje videozapisa.</string>
+  <string name="permgroupdesc_camera">Izravan pristup Kameri za slikanje ili snimanje videozapisa.</string>
   <string name="permgroupdesc_costMoney">Radite stvari koje će uzrokovati novčane troškove.</string>
   <string name="permgroupdesc_developmentTools">Značajke potrebne samo za razvojne programere aplikacija.</string>
   <string name="permgroupdesc_deviceAlarms">Postavljanje alarma na budilici.</string>
@@ -907,7 +907,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="permgrouplab_bluetoothNetwork">Bluetooth</string>
   <string name="permgrouplab_bookmarks">Oznake i povijest</string>
   <string name="permgrouplab_calendar">Kalendar</string>
-  <string name="permgrouplab_camera">Fotoaparat</string>
+  <string name="permgrouplab_camera">Kamera</string>
   <string name="permgrouplab_costMoney">Usluge koje se plaćaju</string>
   <string name="permgrouplab_developmentTools">Razvojni alati</string>
   <string name="permgrouplab_deviceAlarms">Alarm</string>
@@ -984,7 +984,7 @@ za račun %s."</string>
   <string name="permlab_callPhone">izravno pozivanje telefonskog broja</string>
   <string name="permlab_callPrivileged">izravno pozivanje bilo kojeg telefonskog broja</string>
   <string name="permlab_camera">snimi fotografije i videozapise</string>
-  <string name="permlab_cameraDisableTransmitLed">onemogućavanje lampice pokazivača prijenosa kada je fotoaparat u upotrebi</string>
+  <string name="permlab_cameraDisableTransmitLed">onemogućavanje lampice pokazivača prijenosa kada je Kamera u upotrebi</string>
   <string name="permlab_captureAudioHotword">Otkrivanje pokretača značajke</string>
   <string name="permlab_captureAudioOutput">primanje audioizlaza</string>
   <string name="permlab_captureSecureVideoOutput">primanje sigurnog videoizlaza</string>
@@ -1180,7 +1180,7 @@ za račun %s."</string>
   <string name="policydesc_setGlobalProxy">Postavi globalni proxy uređaja za upotrebu dok su pravila omogućena. Samo prvi administrator uređaja postavlja djelotvoran globalni proxy.</string>
   <string name="policydesc_watchLogin">Nadziri broj netočnih zaporki unesenih pri otključavanju zaslona i zaključaj uređaj ili izbriši sve podatke na njemu ako je uneseno previše netočnih zaporki.</string>
   <string name="policydesc_wipeData">Vraćanjem u tvorničko stanje izbriši podatke uređaja bez upozorenja.</string>
-  <string name="policylab_disableCamera">Onemogući fotoaparate</string>
+  <string name="policylab_disableCamera">Onemogući Kamere</string>
   <string name="policylab_disableKeyguardFeatures">Onemogući zaštitu tipkovnice</string>
   <string name="policylab_encryptedStorage">Postavi enkripciju za pohranu</string>
   <string name="policylab_expirePassword">Post. istek zap. zaklj. zasl.</string>
@@ -1386,7 +1386,7 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="usb_cd_installer_notification_title">Spojen kao instalacijski program</string>
   <string name="usb_mtp_notification_title">Spojen kao medijski uređaj</string>
   <string name="usb_notification_message">Dodirnite za ostale opcije USB uređaja</string>
-  <string name="usb_ptp_notification_title">Spojen kao fotoaparat</string>
+  <string name="usb_ptp_notification_title">Spojen kao Kamera</string>
   <string name="usb_storage_activity_title">USB masovna pohrana</string>
   <string name="usb_storage_button_mount">Uključi USB pohranjivanje</string>
   <string name="usb_storage_error_message">Došlo je do problema s upotrebom USB pohrane za USB masovnu pohranu.</string>

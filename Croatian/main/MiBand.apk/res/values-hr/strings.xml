@@ -401,7 +401,7 @@ cilj za danas."</string>
   <string name="lab_factory_item_group_social">Društveno</string>
   <string name="lab_factory_item_group_sport">Sport</string>
   <string name="lab_factory_share_photo">Fotografija</string>
-  <string name="lab_factory_share_photo_menu_camera">Fotoaparat</string>
+  <string name="lab_factory_share_photo_menu_camera">Kamera</string>
   <string name="lab_factory_share_photo_menu_gallery">Galerija</string>
   <string name="lab_factory_share_photo_menu_title">Odaberi fotografiju iz</string>
   <string name="lab_factory_sport_accumulate">%d ukupno stavaka</string>
@@ -700,7 +700,7 @@ ili oko 12.000 koraka dnevno za aktivan, zdrav stil života. "</string>
   <string name="second">" sek."</string>
   <string name="select_devices">Odaberi uređaj</string>
   <string name="select_devices_info">Odaberi Xiaomi uređaje</string>
-  <string name="select_from_camera">Fotoaparat</string>
+  <string name="select_from_camera">Kamera</string>
   <string name="select_from_local">Odaberite iz Galerije</string>
   <string name="select_image">Promijeni sliku profila</string>
   <string name="sensor_hub_tip">"Korak broj je pohranjen lokalno

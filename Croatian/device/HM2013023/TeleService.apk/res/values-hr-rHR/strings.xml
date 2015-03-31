@@ -518,7 +518,7 @@ Imate još ovoliko preostalih pokušaja: %d"</string>
   <string name="vt_peer_video_rep_des">Postavite sliku za prikaz kada je peer video nedostupan</string>
   <string name="vt_pic_replace_local">Slika za zamjenu lokalnog videa</string>
   <string name="vt_pic_replace_local_default">Zadana slika</string>
-  <string name="vt_pic_replace_local_description">Postavite sliku za prikaz dok je fotoaparat isključen iz uporabe</string>
+  <string name="vt_pic_replace_local_description">Postavite sliku za prikaz dok je Kamera isključena iz uporabe</string>
   <string name="vt_pic_replace_local_freezeme">Zamrzni me</string>
   <string name="vt_pic_replace_local_mypic">Moja slika</string>
   <string name="vt_pic_saved_to_sd">Snnimka spremljena na SD karticu</string>

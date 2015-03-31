@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="access_history">Povijest pristupa</string>
+  <string name="access_history">Povijest</string>
+  <string name="action_item_delete">Izbriši</string>
   <string name="add_favorite">Istaknuto</string>
   <string name="app_name">Radio</string>
   <string name="app_to_share">Odaberi aplikaciju za podijeliti</string>
@@ -16,6 +17,7 @@
   <string name="category_sleep_mode">SLEEP TIMER</string>
   <string name="category_tone_quality">KVALITETA RADIJA</string>
   <string name="click_to_play">Nema dostupnog programa</string>
+  <string name="confirm_delete_history_text">Izbrisati odabrane stavke?</string>
   <string name="device_connected">Povezano</string>
   <string name="device_not_connected">Nije povezano</string>
   <string name="dialog_title_download_quality">Kvaliteta preuzimanja Radija</string>

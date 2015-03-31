@@ -676,6 +676,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="percent_sign">%</string>
   <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">"Telefon"</string>
+  <string name="phone_call_type_voip">VOIP</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_primary">"Primarni"</string>
   <string name="photoPickerNotFoundText">Nema dostupnih slika na telefonu.</string>

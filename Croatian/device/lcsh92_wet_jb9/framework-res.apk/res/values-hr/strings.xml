@@ -183,7 +183,7 @@ S obzirom da je otvorena podatkovna veza, možete koristiti telefonske kartice z
   <string name="description_direction_left">Kliznite lijevo za %s.</string>
   <string name="description_direction_right">Kliznite desno za %s.</string>
   <string name="description_direction_up">Kliznite prema gore za %s.</string>
-  <string name="description_target_camera">Fotoaparat</string>
+  <string name="description_target_camera">Kamera</string>
   <string name="description_target_search">Pretraživanje</string>
   <string name="description_target_silent">Bešumno</string>
   <string name="description_target_soundon">Zvuk je uključen</string>
@@ -360,7 +360,7 @@ Za nastavak dodirnite U redu, a za ostanak na trenutačnoj stranici dodirnite Od
   <string name="keyboardview_keycode_shift">Shift</string>
   <string name="keygaurd_accessibility_media_controls">Nadzor medija</string>
   <string name="keyguard_accessibility_add_widget">Dodavanje widgeta.</string>
-  <string name="keyguard_accessibility_camera">Fotoaparat</string>
+  <string name="keyguard_accessibility_camera">Kamera</string>
   <string name="keyguard_accessibility_expand_lock_area">Proširivanje područja za otključavanje.</string>
   <string name="keyguard_accessibility_face_unlock">Otključavanje licem.</string>
   <string name="keyguard_accessibility_password_unlock">Otključavanje zaporkom.</string>
@@ -623,7 +623,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="permdesc_cache_filesystem">Aplikaciji omogućuje čitanje i pisanje u datotečnom sustavu privremene memorije.</string>
   <string name="permdesc_callPhone">Aplikaciji omogućuje pozivanje telefonskih brojeva bez vašeg sudjelovanja. To može dovesti do neočekivanih troškova ili poziva. Uzmite u obzir da se aplikaciji time ne omogućuje pozivanje brojeva u nuždi. Zlonamjerne aplikacije mogu vam uzrokovati dodatne troškove postavljanjem poziva bez vašeg odobrenja.</string>
   <string name="permdesc_callPrivileged">Omogućuje aplikaciji pozivanje bilo kojeg telefonskog broja, uključujući hitne brojeve, bez vašeg uplitanja. Zlonamjerne aplikacije mogu upućivati nepotrebne i nezakonite pozive hitnim službama.</string>
-  <string name="permdesc_camera">Aplikaciji omogućuje snimanje slika i videozapisa fotoaparatom. Ta dozvola aplikaciji omogućuje upotrebu fotoaparata u bilo kojem trenutku bez vašeg odobrenja.</string>
+  <string name="permdesc_camera">Aplikaciji omogućuje snimanje slika i videozapisa Kamerom. Ta dozvola aplikaciji omogućuje upotrebu Kamere u bilo kojem trenutku bez vašeg odobrenja.</string>
   <string name="permdesc_changeBackgroundDataSetting">Aplikaciji omogućuje promjenu postavke za upotrebu pozadinskih podataka.</string>
   <string name="permdesc_changeComponentState">Omogućuje aplikaciji da promijeni hoće li komponenta neke druge aplikacije biti omogućena. Zlonamjerne aplikacije mogu to upotrijebiti da bi onemogućile važne mogućnosti telefona. Treba biti oprezan s tom dozvolom jer je moguće dovesti komponente aplikacija u neupotrebljivo, nedosljedno ili nestabilno stanje.</string>
   <string name="permdesc_changeConfiguration">Aplikaciji omogućuje promjenu trenutačne konfiguracije kao što je oznaka zemlje/jezika ili opća veličina fonta.</string>
@@ -774,7 +774,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="permgroupdesc_bluetoothNetwork">Pristupajte uređajima i mrežama putem Bluetootha.</string>
   <string name="permgroupdesc_bookmarks">Izravan pristup oznakama i povijest preglednika.</string>
   <string name="permgroupdesc_calendar">Izravan pristup kalendaru i događajima.</string>
-  <string name="permgroupdesc_camera">Izravan pristup fotoaparatu za slikanje ili snimanje videozapisa.</string>
+  <string name="permgroupdesc_camera">Izravan pristup Kameri za slikanje ili snimanje videozapisa.</string>
   <string name="permgroupdesc_costMoney">Radite stvari koje će uzrokovati novčane troškove.</string>
   <string name="permgroupdesc_developmentTools">Značajke potrebne samo za razvojne programere aplikacija.</string>
   <string name="permgroupdesc_deviceAlarms">Postavljanje alarma na budilici.</string>
@@ -803,7 +803,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="permgrouplab_bluetoothNetwork">Bluetooth</string>
   <string name="permgrouplab_bookmarks">Oznake i povijest</string>
   <string name="permgrouplab_calendar">Kalendar</string>
-  <string name="permgrouplab_camera">Fotoaparat</string>
+  <string name="permgrouplab_camera">Kamera</string>
   <string name="permgrouplab_costMoney">Usluge koje se plaćaju</string>
   <string name="permgrouplab_developmentTools">Razvojni alati</string>
   <string name="permgrouplab_deviceAlarms">Alarm</string>
@@ -1046,7 +1046,7 @@ za račun %s"</string>
   <string name="policydesc_setGlobalProxy">Postavi globalni proxy uređaja za upotrebu dok su pravila omogućena. Samo prvi administrator uređaja postavlja djelotvoran globalni proxy.</string>
   <string name="policydesc_watchLogin">Nadzire broj netočno unesenih zaporki pri otključavanju zaslona i zaključava telefon ili briše sve podatke na telefonu ako je uneseno previše netočnih zaporki.</string>
   <string name="policydesc_wipeData">Vraćanjem na tvorničko stanje izbrišite podatke telefona bez upozorenja.</string>
-  <string name="policylab_disableCamera">Onemogući fotoaparate</string>
+  <string name="policylab_disableCamera">Onemogući Kamere</string>
   <string name="policylab_disableKeyguardFeatures">Onemogući zaštitu tipkovnice</string>
   <string name="policylab_encryptedStorage">Postavi enkripciju za pohranu</string>
   <string name="policylab_expirePassword">Post. istek zap. zaklj. zasl.</string>
@@ -1266,7 +1266,7 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="usb_cd_installer_notification_title">Spojen kao instalacijski program</string>
   <string name="usb_mtp_notification_title">Spojen kao medijski uređaj</string>
   <string name="usb_notification_message">Dodirnite za ostale opcije USB uređaja</string>
-  <string name="usb_ptp_notification_title">Spojen kao fotoaparat</string>
+  <string name="usb_ptp_notification_title">Spojen kao Kamera</string>
   <string name="usb_storage_activity_title">USB masovna pohrana</string>
   <string name="usb_storage_button_mount">Uključi USB pohranjivanje</string>
   <string name="usb_storage_error_message">Došlo je do problema s upotrebom USB pohrane za USB masovnu pohranu.</string>

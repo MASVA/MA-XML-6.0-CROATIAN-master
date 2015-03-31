@@ -6,7 +6,7 @@
   <string name="accessibility_bluetooth_connected">"Bluetooth je povezan."</string>
   <string name="accessibility_bluetooth_disconnected">"Bluetooth nije povezan."</string>
   <string name="accessibility_bluetooth_tether">Dijeljenje veze Bluetoothom.</string>
-  <string name="accessibility_camera_button">"Fotoaparat"</string>
+  <string name="accessibility_camera_button">"Kamera"</string>
   <string name="accessibility_clear_all">Izbriši sve obavijesti.</string>
   <string name="accessibility_data_connection_3.5g">3.5G</string>
   <string name="accessibility_data_connection_3g">3G</string>

@@ -27,7 +27,7 @@
   <string name="action_key_vol_up">Glasnoća +</string>
   <string name="action_kuaidi">Brzi taxi</string>
   <string name="action_lock_screen">Zaklj. zaslon</string>
-  <string name="action_open_camera">Fotoaparat</string>
+  <string name="action_open_camera">Kamera</string>
   <string name="action_open_camera2">Snimi fotografiju</string>
   <string name="action_open_camera360_capture">Camera360 Efekti</string>
   <string name="action_open_camera360_edit">Camera360 Uređivanje</string>
@@ -215,7 +215,7 @@ Tijekom uporabe, ostale funkcije MiKey su nedostupne."</string>
   <string name="select_vol">Odaberite tipke za glasnoću</string>
   <string name="setting_buy">Kupi MiKey</string>
   <string name="setting_feedback">Pov. informacija</string>
-  <string name="setting_instant_photo_desc">"Prije snimanja fotografije, fotoaparat će fokusirati"</string>
+  <string name="setting_instant_photo_desc">"Prije snimanja fotografije, Kamera će fokusirati"</string>
   <string name="setting_instant_photo_text">Fokusiraj prije slikanja</string>
   <string name="setting_keeplive_desc">"Ova opcija omogućuje aplikaciji rad u pozadini i da brzo reagira na vaše naredbe.
 To može uzrokovati veću potrošnju baterije"</string>

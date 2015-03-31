@@ -83,9 +83,9 @@
   <string name="by_others">Ostalo</string>
   <string name="by_sms">SMS</string>
   <string name="camera_black_white">Crno &amp;Bijelo</string>
-  <string name="camera_connected">Fotoaparat uključen.</string>
-  <string name="camera_disconnected">Fotoaparat je isključen.</string>
-  <string name="camera_folder_display_name">Fotoaparat</string>
+  <string name="camera_connected">Kamera uključena.</string>
+  <string name="camera_disconnected">Kamera je isključena.</string>
+  <string name="camera_folder_display_name">Kamera</string>
   <string name="camera_path">/DCIM/Camera</string>
   <string name="camera_setas_wallpaper">Pozadine</string>
   <string name="camera_view_none_message">Snimljene fotografije i videozapisi će ovdje biti prikazani.</string>
@@ -102,7 +102,7 @@
   <string name="clear_thumbnail_cache_confirm">Sva memorija minijatura u Galeriji će biti izbrisana.</string>
   <string name="clear_thumbnail_cache_summary">Brisanje minijatura predmemorije u Galeriji</string>
   <string name="click_to_add_picture">Dodirnite za dodavanje slika</string>
-  <string name="click_to_enter_camera">Pokreni fotoaparat</string>
+  <string name="click_to_enter_camera">Pokreni kameru</string>
   <string name="click_top_right">Dodirnite ovu ikonu</string>
   <string name="close">Zatvori</string>
   <string name="cloud_album_more_settings">Sinkronizraj s Mi Cloud</string>
@@ -111,7 +111,7 @@
   <string name="cloud_albums">Cloud slike</string>
   <string name="cloud_be_shared_guide_message">"Pregledajte fotografije svojih prijatelja, i također dodajte fotografije u album."</string>
   <string name="cloud_be_shared_guide_title">Ovaj album je podijelio prijatelj</string>
-  <string name="cloud_camera_display_name">Fotografije fotoaparata</string>
+  <string name="cloud_camera_display_name">Fotografije kamere</string>
   <string name="cloud_folder_chooser_move">Izbriši slike iz izvornog albuma</string>
   <string name="cloud_gallery_recyclebin_full">Kanta za smeće je puna. Ispraznite koš na www.mi.com/micloud.</string>
   <string name="cloud_gallery_space_full">Nema dovoljno prostora u vašem cloudu</string>
@@ -275,7 +275,7 @@
   <string name="height">Visina</string>
   <string name="highlight">Isticanja</string>
   <string name="highlight_abbr">I</string>
-  <string name="home_my_captured_items">" snimaka fotoaparata"</string>
+  <string name="home_my_captured_items">" snimaka kamere"</string>
   <string name="home_page_tab_cloud">Mi Cloud</string>
   <string name="home_page_tab_face">Lice</string>
   <string name="home_page_tab_local">Lokalno</string>
@@ -385,8 +385,8 @@ uređaja"</string>
   <string name="not_now">Ne sada</string>
   <string name="not_show_hidden_albums">"Ne prikazuj skrivene albume"</string>
   <string name="old">Staro</string>
-  <string name="only_show_camera_in_first_page">Prikaži samo s fotoaparata</string>
-  <string name="only_show_camera_in_first_page_summary">Prikaži samo fotografije s fotoaparata vašeg Mi Clouda.</string>
+  <string name="only_show_camera_in_first_page">Prikaži samo s kameru</string>
+  <string name="only_show_camera_in_first_page_summary">Prikaži samo fotografije kamere vašeg Mi Clouda.</string>
   <string name="open">Omogući</string>
   <string name="open_public_message">Generiraj poveznicu i pošalji je prijateljima</string>
   <string name="open_public_title">Podijeli</string>
@@ -422,8 +422,8 @@ uređaja"</string>
   <string name="photo_page_always_rotate">Automatsko zakretanje slika</string>
   <string name="photo_page_detail_show_in_the_map">Pokaži lokaciju na mapi</string>
   <string name="photo_page_save_image">Spremi</string>
-  <string name="photo_page_save_uri_image_fail">"Ne mogu spremiti u fotografije Fotoaparata"</string>
-  <string name="photo_page_save_uri_image_ok">Fotografija spremljena u fotografije Fotoaparata.</string>
+  <string name="photo_page_save_uri_image_fail">"Ne mogu spremiti u fotografije Kamere"</string>
+  <string name="photo_page_save_uri_image_ok">Fotografija spremljena u fotografije Kamere.</string>
   <string name="photo_paint_crop">Obreži</string>
   <string name="photo_paint_rotate">Rotiraj</string>
   <string name="photo_save_succeed">Uspješno spremljeno</string>
@@ -435,7 +435,7 @@ uređaja"</string>
   <string name="picker_no_album_selected">Nema odabranih albuma</string>
   <string name="picker_no_items_selected">Nema odabranih stavki</string>
   <string name="picker_select_album_title_empty">Odaberite album</string>
-  <string name="picker_tab_camera">Fotoaparat</string>
+  <string name="picker_tab_camera">Kamera</string>
   <string name="picker_tab_photo">Fotografija</string>
   <string name="pocket_camera_picture">Slike džepne kamere</string>
   <string name="pocket_camera_video">Videozapisi džepne kamere</string>
@@ -542,7 +542,7 @@ uređaja"</string>
   <string name="size_above">%1$s ili više</string>
   <string name="size_below">%1$s ili manje</string>
   <string name="size_between">%1$s do %2$s</string>
-  <string name="skip_hide_special_album">"Ne mogu sakriti albume sustava (npr. Fotoaparat, Snimke zaslona)"</string>
+  <string name="skip_hide_special_album">"Ne mogu sakriti albume sustava (npr. Kamera, Snimke zaslona)"</string>
   <string name="slideshow">Dijaprojekcija</string>
   <string name="slideshow_category">Dijaprojekcija</string>
   <string name="slideshow_dream_name">Dijaprojekcija</string>
