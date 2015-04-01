@@ -2137,8 +2137,8 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="status_bar_settings_notification_sound_vibrate">Zvuk &amp; vibracija</string>
   <string name="status_bar_settings_show_carrier">Prikaži naziv davatelja usluga</string>
   <string name="status_bar_settings_show_carrier_summary">Prikaži samo na zaključanom zaslonu</string>
-  <string name="status_bar_settings_show_flow_info">Prikaži detalje toka</string>
-  <string name="status_bar_settings_show_home_message">App icon badge</string>
+  <string name="status_bar_settings_show_flow_info">Prikaži detalje plutanja</string>
+  <string name="status_bar_settings_show_home_message">Značka ikone aplikacije</string>
   <string name="status_bar_settings_show_keyguard_notification">Prikaži plutajuće obavijesti</string>
   <string name="status_bar_settings_show_keyguard_notification_summary">Prikaži plutajuće obavijesti na zaključanom zaslonu i posvuda drugdje</string>
   <string name="status_bar_settings_show_network_speed">Prikaži brzinu veze</string>
