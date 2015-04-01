@@ -859,6 +859,7 @@ Obratite se davatelju usluge ako problem potraje."</string>
   <string name="voicemail_settings_number_hint">Unesite broj spremnika glasovnih poruka</string>
   <string name="voicemail_settings_number_label">Broj govorne pošte</string>
   <string name="voicemail_settings_number_title">Broj govorne pošte</string>
+  <string name="voip_setting">VOIP postavke</string>
   <string name="wrong_password">Zaporka koju ste unijeli nije točna</string>
   <string name="xdivert_button">X-Divert postavke</string>
   <string name="xdivert_setting">X-Divert postavke</string>

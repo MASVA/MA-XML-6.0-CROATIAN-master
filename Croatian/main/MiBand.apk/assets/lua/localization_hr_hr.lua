@@ -265,6 +265,8 @@ localization_hr_rHR_table = {
 
     select_devices="Odaberite uređaje za uparivanje",
     daily_steps_not_comlete = "%s preostalo koraka"
+
     am_format="%sAM",
     pm_format="%sPM",
+
  }

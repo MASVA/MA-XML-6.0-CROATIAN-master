@@ -364,6 +364,7 @@
   <string name="pref_title_show_recent_contacts">Nedavni kontakti</string>
   <string name="pref_title_sms_delete">Ograničenje teksta poruke</string>
   <string name="pref_title_sms_validity_period">Vrijeme valjanosti SMS-a</string>
+  <string name="pref_title_storage_status">Status pohrane poruka</string>
   <string name="pref_title_system_mms_priority">Postavi kao zadano</string>
   <string name="pref_title_vcard">Pošalji kroz vCard</string>
   <string name="pref_title_wake_up_screen">Buđenje zaslona</string>
@@ -388,6 +389,7 @@
   <string name="received_label">"Primljeno: "</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">"Primatelj: "</string>
+  <string name="recipients_over_size">Previše primatelja.</string>
   <string name="recording_failed">"Ne mogu snimiti"</string>
   <string name="refill_now">Nadoplati sada</string>
   <string name="refresh">Osvježi</string>
@@ -492,7 +494,13 @@
   <string name="status_unread">Nepročitano</string>
   <string name="stick">Označi</string>
   <string name="stick_conversation">Označi trenutni razgovor</string>
-  <string name="sticked_conversation">razgovor već označen</string>
+  <string name="sticked_conversation">Razgovor je već označen</string>
+  <string name="storage_dialog_attachments">MMS privitci:</string>
+  <string name="storage_dialog_available_space">Dostupan prostor:</string>
+  <string name="storage_dialog_database">Baza podataka:</string>
+  <string name="storage_dialog_mms">MMS: %d</string>
+  <string name="storage_dialog_mms_size">Veličina MMS-a:</string>
+  <string name="storage_dialog_sms">SMS: %d</string>
   <string name="storage_limits_activity">Ograničavanje poruka</string>
   <string name="storage_limits_message">Ograničiti broj poruka koje spremate po razgovoru?</string>
   <string name="storage_limits_setting">Postavi ograničenja</string>

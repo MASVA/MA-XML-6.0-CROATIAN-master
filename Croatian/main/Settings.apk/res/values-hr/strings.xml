@@ -2045,7 +2045,7 @@ Ova postavka utječe na sve korisnike na ovom uređaju."</string>
   <string name="show_touches_summary">Prikaži vizualne povratne informacije za dodire</string>
   <string name="show_user_info_on_lockscreen_label">Prikaži podatke o korisniku na zaključanom zaslonu</string>
   <string name="silent_mode_title">Bešumni način</string>
-  <string name="sim_bad_pin">Netočan PIN</string>
+  <string name="sim_bad_pin">Unesite PIN koji ima 4 do 8 brojeva</string>
   <string name="sim_change_failed">"Nije moguće promijeniti PIN. 
 Možda je PIN netočan."</string>
   <string name="sim_change_failed_enable_sim_lock">Uključi sada zaključavanje SIM kartice</string>
@@ -2115,8 +2115,6 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="stable_build">" | Stabilno"</string>
   <string name="status_awake_time">Vrijeme bez mirovanja</string>
   <string name="status_bar_and_notification_bar">Panel obavijesti i statusna traka</string>
-  <string name="status_bar_filter_item_description">Za podešavanje obavijesti, idite u izbornik Opće postavke &gt; Obavijesti &gt; Upravljanje obavijestima</string>
-  <string name="status_bar_filter_item_preview_image">Pregled</string>
   <string name="status_bar_key_position_custom">Prilagođena pozicija tipki</string>
   <string name="status_bar_screen_button_key">Virtualne tipke zaslona</string>
   <string name="status_bar_screen_key_back">Natrag</string>
@@ -2130,19 +2128,22 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="status_bar_settings_custom_carrier">Uredi naziv davatelja usluga</string>
   <string name="status_bar_settings_custom_notification">Upravljaj obavijestima</string>
   <string name="status_bar_settings_custom_wifi_name">Uredi naziv WLAN-a</string>
+  <string name="status_bar_settings_enable_notification">Dopusti obavijesti</string>
   <string name="status_bar_settings_expandable_under_keyguard">Prikaži na zaključanom zaslonu</string>
   <string name="status_bar_settings_long_click_sort">Klinki &amp; drži za pokupiti prečac</string>
   <string name="status_bar_settings_no_carrier">Ništa</string>
   <string name="status_bar_settings_notification_bar">Panel obavijesti</string>
+  <string name="status_bar_settings_notification_led">Svjetlo obavijesti</string>
+  <string name="status_bar_settings_notification_sound_vibrate">Zvuk &amp; vibracija</string>
   <string name="status_bar_settings_show_carrier">Prikaži naziv davatelja usluga</string>
   <string name="status_bar_settings_show_carrier_summary">Prikaži samo na zaključanom zaslonu</string>
   <string name="status_bar_settings_show_flow_info">Prikaži detalje toka</string>
+  <string name="status_bar_settings_show_home_message">App icon badge</string>
+  <string name="status_bar_settings_show_keyguard_notification">Prikaži plutajuće obavijesti</string>
+  <string name="status_bar_settings_show_keyguard_notification_summary">Prikaži plutajuće obavijesti na zaključanom zaslonu i posvuda drugdje</string>
   <string name="status_bar_settings_show_network_speed">Prikaži brzinu veze</string>
-  <string name="status_bar_settings_show_notificationBar_notification">Prikaži u panelu obavijesti</string>
   <string name="status_bar_settings_show_notification_icon">Prikaži ikonu obavijesti</string>
   <string name="status_bar_settings_show_screenshot_notification">Prikaži obavijest o snimci zaslona</string>
-  <string name="status_bar_settings_show_statusBar_notification">Prikaži plutajuće obavijesti</string>
-  <string name="status_bar_settings_show_statusBar_notification_summary">Prikaži plutajuće obavijesti na zaključanom zaslonu i posvuda drugdje</string>
   <string name="status_bar_settings_show_wifi_name">Prikaži WLAN</string>
   <string name="status_bar_settings_status_bar">Statusna traka</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked"> Umanji nakon dodira</string>

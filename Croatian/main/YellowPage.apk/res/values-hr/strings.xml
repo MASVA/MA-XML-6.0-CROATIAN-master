@@ -107,6 +107,7 @@
   <string name="express_go_back">Natrag</string>
   <string name="express_info_divider">" / "</string>
   <string name="express_inqiury_select_logistics">Odaberi davatelja usluga</string>
+  <string name="express_inquiry_logistics_prefix">Usluga davatelja usluga: %s</string>
   <string name="express_inquiry">Praćenje</string>
   <string name="express_inquiry_button_text">Prati</string>
   <string name="express_inquiry_data_owner_prefix">Praćenje pošiljke pruža vam</string>
@@ -128,7 +129,7 @@ Provjerite svoj broj za praćenje."</string>
 Provjerite svoj broj za praćenje."</string>
   <string name="express_inquiry_provider_info">Powered by</string>
   <string name="express_inquiry_serial_number_indication">Broj za praćenje</string>
-  <string name="express_inquiry_serial_number_prefix">"Serijski broj: "</string>
+  <string name="express_inquiry_serial_number_prefix">Broj: %s</string>
   <string name="express_inquiry_trace">Prati</string>
   <string name="express_inquiry_trace_success">Praćeno</string>
   <string name="express_inquiry_trace_user_notice_content">"Obavijestiti ćemo vas o promjeni statusa vaše narudžbe."</string>
@@ -139,7 +140,6 @@ Provjerite svoj broj za praćenje."</string>
   <string name="express_no_order_info">Nema informacija o narudžbi</string>
   <string name="express_order_confirmation">Potvrda narudžbe</string>
   <string name="express_order_created_time">Vrijeme narudžbe</string>
-  <string name="express_order_detail">Detalji</string>
   <string name="express_order_failed">Nije uspjelo</string>
   <string name="express_order_info">Detalji narudžbe</string>
   <string name="express_order_internal_id">ID narudžbe</string>
@@ -249,16 +249,17 @@ Provjerite svoj broj za praćenje."</string>
   <string name="notify_connect_title">Obavijest povezivanja na internet</string>
   <string name="online_no_network">"Ne mogu se spojiti na mrežu"</string>
   <string name="online_search_hint">Pretraživanje za online resursima</string>
-  <string name="order_date_label">Datum narudžbe: %s</string>
+  <string name="order_date_label">Datum narudžbe:</string>
   <string name="order_empty_hint">Nema narudžbi</string>
-  <string name="order_id_label">ID narudžbe: %s</string>
+  <string name="order_id_label">ID narudžbe:</string>
   <string name="order_merchant_title">Moje narudžbe</string>
   <string name="order_merchant_title_format">%1$s-%2$s</string>
   <string name="order_not_found">Nema povezanih narudžbi</string>
-  <string name="order_price_label">Cijena narudžbe: %s</string>
-  <string name="order_product_name_label">"Naziv proizvoda: "</string>
+  <string name="order_price_label">Cijena narudžbe:</string>
+  <string name="order_product_name_label">Naziv proizvoda:</string>
   <string name="order_status">%s</string>
-  <string name="order_status_label">Status narudžbe: %s</string>
+  <string name="order_status_label">Status narudžbe:</string>
+  <string name="order_type_recharge">Nadoplata</string>
   <string name="packages_no_package">Nema preporučenih paketa</string>
   <string name="packages_pay">Kupi</string>
   <string name="packages_pay_confirm">Potvrdi plaćanje</string>
@@ -514,4 +515,5 @@ sadržaj koji tražite nije trenutno dostupan u vašoj regiji."</string>
   <string name="yellowpage_navigation_network_location_enabled">Usluga je otvorena, možete je isključiti u postavkama lokacije</string>
   <string name="yellowpage_navigation_network_location_not_enabled_summary">Poboljšajte rezultate pretraživanja dopuštajući Direktoriju pristup podacima o Vašoj lokaciji.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Pristup lokaciji</string>
+  <string name="yuan">Yuan</string>
 </resources>

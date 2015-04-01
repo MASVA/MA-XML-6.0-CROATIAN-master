@@ -64,7 +64,8 @@
   <string name="no_userbook_toast">"Pročitaj me ne postoji"</string>
   <string name="non_system_app_select">Preuzete aplikacije</string>
   <string name="packaging_dialog_content">Stvaranje izvješća…</string>
-  <string name="plus_one_submit_dialog_content">"Vaše odabrane povratne informacije, zajedno s izvješćima grešaka, biti će poslani na MI poslužitelje."</string>
+  <string name="plus_one_submit_dialog_content">"Vaše povratne informacije, zajedno s izvješćima grešaka i priloženim slikama, biti će poslani na Mi poslužitelje kak je vaš uređaj povezan s WLAN mrežom."</string>
+  <string name="submit_dialog_not_wifi_content">"Vaše povratne informacije, zajedno s izvješćima grešaka i priloženim slikama, biti će poslani na Mi poslužitelje kak je vaš uređaj povezan s WLAN mrežom."</string>
   <string name="plus_one_submit_dialog_not_show_again">Zapamti </string>
   <string name="power_consuming_problem1">Povećana potrošnja baterije nakon ažuriranja</string>
   <string name="power_consuming_problem2">Visoka potrošnja baterije korištenjem aplikacije</string>
@@ -96,11 +97,12 @@
   <string name="title_nonsystem_app">Ostale aplik.</string>
   <string name="title_system_app">MIUI Aplik.</string>
   <string name="toast_description_required">Potreban je opis</string>
+  <string name="toast_feedback_collect_store">Prikupljanje izvješća…</string>
   <string name="toast_feedback_network_unavailable">"Ne mogu se povezati na mrežu"</string>
   <string name="toast_feedback_pending_wlan">"Izvješće će biti poslano kada budete povezani na WLAN mrežu. Pov. informacija će biti poslana kada WLAN mreža bude dostupna."</string>
   <string name="toast_feedback_submitted">Izvješće je poslano</string>
   <string name="toast_feedback_submitting">Slanje…</string>
-  <string name="toast_feedbackservice_in_submit">Slanje prethodnih informacija…</string>
+  <string name="toast_feedbackservice_in_submit">Upravljanje prethodnih informacija…</string>
   <string name="toast_network_unavailable">"Ne mogu poslati. Ne mogu se povezati na mrežu."</string>
   <string name="toast_pending_log_collection">Još prikupljam zapise…</string>
   <string name="toast_report_copied_to_clipboard">Izvješće kopirano u međuspremnik</string>
