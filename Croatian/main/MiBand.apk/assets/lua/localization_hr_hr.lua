@@ -187,7 +187,7 @@ localization_hr_rHR_table = {
     click_to_get_help="Naučite više o Mi Bandu",
     take_a_walk="Prošetajte s vašim Mi Bandom",
     take_a_walk_info="Vaš Miband evidentira svaki vaš napravljeni korak tijekom dana.",
-    unlock_hint="Otključajte svoj telefon s Mi Bandom!",
+    unlock_hint="Otključajte svoj telefon!",
     unlock_hint_info="Otkrijte novi način zaštite vaše privatnosti.",
     unlock_password_hint="Postavite zaključavanje zaslona kako bi telefon bio siguran.",
     unlock_password_hint_info="Mi Band pruža najbolje otključavanje zaslona.",
@@ -241,7 +241,7 @@ localization_hr_rHR_table = {
     deep_sleep_format="Faza dubokog sna je bila %.",
 
     battery_low_info="Stavite Mi Band na punjenje.",
-    battery_very_low_info="Baterija Mi Band je skoro prazna.",
+    battery_very_low_info="Baterija Mi Banda je skoro prazna.",
 
     cannot_find_bracelet="Ne možete pronaći svoj Mi Band?",
     cannot_find_bracelet_info="Uvjerite se da je baterija vašeg Mi Banda napunjena.",
@@ -258,10 +258,13 @@ localization_hr_rHR_table = {
     weather_tips_info = "Trbušnjaci ili preskakanje užeta su odlične vježbe u zatvorenom!",
 
     ---------------Weight scale -------------------
-    welcome_use_weight_scale = "Dobrodošli u korištenje vage",
-    welcome_use_weight_scale_not_bind = "Kliknite da povežete vage",
+    welcome_use_weight_scale = "Dobrodošli u korištenje vage!",
+    welcome_use_weight_scale_info = "Naučite više o vagi",
+    welcome_use_weight_scale_not_bind = "Dodirnite da povežete vage",
     welcome_use_mi_health="Dobrodošli u korištenje Mi Banda",
 
     select_devices="Odaberite uređaje za uparivanje",
     daily_steps_not_comlete = "%s preostalo koraka"
+    am_format="%sAM",
+    pm_format="%sPM",
  }
