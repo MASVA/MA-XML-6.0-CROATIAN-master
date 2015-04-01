@@ -3,7 +3,7 @@
 -- www.miui.website (2014)
 -- MASVA
 -------------------------
-localization_Croatian_table = {
+localization_hr_rHR_table = {
     calories_table={
         {str="≈ Krastavac (100g)",   calories=14},
         {str="≈ Pileća juha (100g)",  calories=15},
