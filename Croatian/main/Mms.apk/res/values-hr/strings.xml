@@ -307,6 +307,7 @@
   <string name="notification_multiple_title">Nove poruke</string>
   <string name="number_add_hint">Unesite broj za dodavanje</string>
   <string name="open_url_with_web">Otvoriti ovu poveznicu u Pregledniku?</string>
+  <string name="over_max_mms_size">MMS poruka je prevelika.</string>
   <string name="overwrite_edited_content">Uređeni sadržaj će biti prebrisan, nastaviti?</string>
   <string name="phrase_confirm_delete_message">Odabrani izraz bit će izbrisan</string>
   <string name="phrase_empty">Nema izraza</string>
@@ -340,6 +341,7 @@
   <string name="pref_summary_notification_body_enabled_when_secure">"Ne možete pregledavati poruke u Gost načinu rada"</string>
   <string name="pref_summary_off_system_mms_priority">Koristite druge aplikacije za slanje i primanje MMS-a</string>
   <string name="pref_summary_on_system_mms_priority">"Postavi MIUI Poruke aplikaciju kao zadanu aplikaciju za slanje i primanje MMS-a"</string>
+  <string name="pref_summary_send_delivery_reports">Pošalji izvješća o isporuci za primljene poruke</string>
   <string name="pref_summary_show_recent_contacts">Prikaži popis nedavnih kontakata kod pisanja nove poruke</string>
   <string name="pref_summary_wake_up_screen">Upali zaslon kad stigne nova poruka</string>
   <string name="pref_system_title">Sustav</string>
@@ -361,6 +363,7 @@
   <string name="pref_title_notification_body_enabled">Prikaži obavijest na zaklj. zaslonu</string>
   <string name="pref_title_ringtone_repeat">Broj ponavljanja tona obavijesti</string>
   <string name="pref_title_ringtone_repeat_summary">"Broj ponavljanja tona obavijesti kod primljenog SMS-a dok je zaslon isključen: "</string>
+  <string name="pref_title_send_delivery_reports">Pošalji izvješće o isporuci</string>
   <string name="pref_title_show_recent_contacts">Nedavni kontakti</string>
   <string name="pref_title_sms_delete">Ograničenje teksta poruke</string>
   <string name="pref_title_sms_validity_period">Vrijeme valjanosti SMS-a</string>

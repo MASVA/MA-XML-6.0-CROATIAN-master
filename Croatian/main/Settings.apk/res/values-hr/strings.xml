@@ -1484,9 +1484,9 @@ i pokrenite ga."</string>
   <string name="nfc_payment_learn_more">"Saznajte više"</string>
   <string name="nfc_payment_menu_item_add_service">Traženje aplikacija</string>
   <string name="nfc_payment_no_apps">Platite samo jednim dodirom</string>
-  <string name="nfc_payment_set_default">Uvijek upotrijebiti aplikaciju %1$s za opciju Dodirni &amp; plati?</string>
-  <string name="nfc_payment_set_default_instead_of">Uvijek upotrijebiti aplikaciju %1$s umjesto aplikacije %2$s za opciju Dodirni &amp; plati?</string>
-  <string name="nfc_payment_set_default_label">Želite li to postaviti kao željeni način?</string>
+  <string name="nfc_payment_set_default">Uvijek koristiti aplikaciju %1$s za opciju Dodirni &amp; plati?</string>
+  <string name="nfc_payment_set_default_instead_of">Koristiti aplikaciju %1$s umjesto aplikacije %2$s za opciju Dodirni &amp; plati?</string>
+  <string name="nfc_payment_set_default_label">Postaviti kao željeni način?</string>
   <string name="nfc_payment_settings_title">Dodirni &amp; plati</string>
   <string name="nfc_quick_toggle_summary">Dopusti razmjenu podataka kada uređaj dodiruje drugi uređaj</string>
   <string name="nfc_quick_toggle_title">NFC</string>
@@ -2151,7 +2151,7 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="status_bar_settings_toggle_layout_style_applying">Promjena stila…</string>
   <string name="status_bar_settings_toggle_layout_style_compact">Linija</string>
   <string name="status_bar_settings_toggle_layout_style_single_page">Stranica</string>
-  <string name="status_bar_settings_toggle_position">Položaj prečaca</string>
+  <string name="status_bar_settings_toggle_position">Položaji prečaca</string>
   <string name="status_bar_style_settings">Obavijesti</string>
   <string name="status_bar_toggle_arrangement">Upravitelj prečaca</string>
   <string name="status_bt_address">Bluetooth adresa</string>

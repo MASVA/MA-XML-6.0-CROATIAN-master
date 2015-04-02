@@ -50,6 +50,7 @@
   <string name="loading_broadcasting">Učitavanje emitiranja...</string>
   <string name="loading_hint">Učitavanje...</string>
   <string name="local_list_item_history">Povijest</string>
+  <string name="local_program">Loalni Programi</string>
   <string name="max_sleep_time">90</string>
   <string name="metered_alert">Upozorenje uporabe podataka</string>
   <string name="metered_alert_msg">Korištenje mobilne mreže za slušanje glazbe će povećati podatkovni promet. Ako prekoračite vaše ograničenje uporabe podataka, vaš davatelj usluga vam može naplatiti dodatne naknade.</string>
@@ -61,6 +62,7 @@
   <string name="my_favorite">Moji Favoriti</string>
   <string name="my_program">Lokalno</string>
   <string name="no_display_history_text">Nema povijesti</string>
+  <string name="no_download_text">Nema preuzimanja</string>
   <string name="no_network_button_radio">Koristi FM radio</string>
   <string name="no_network_button_refresh">Osvježi</string>
   <string name="no_network_text">"Ne mogu se povezati na mrežu."</string>

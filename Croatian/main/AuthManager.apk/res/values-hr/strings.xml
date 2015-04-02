@@ -177,7 +177,7 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="HIPS_Perm_SMS">Pisanje i brisanje SMS poruka</string>
   <string name="HIPS_Perm_SMS_Access">čitanje vaših SMS poruka</string>
   <string name="HIPS_Perm_SMS_Desc">pisanje i brisanje SMS poruka</string>
-  <string name="HIPS_Perm_SMS_Hint">%1$s aplikacija može pisati i izbrisati SMS poruke</string>
+  <string name="HIPS_Perm_SMS_Hint">%1$s aplikacija može pisati i brisati SMS poruke</string>
   <string name="HIPS_Perm_SendMMS">Slanje MMS poruka</string>
   <string name="HIPS_Perm_SendMMS_Desc">izravno slanje MMS poruka</string>
   <string name="HIPS_Perm_SendMMS_Hint">%1$s aplikacija mogu poslati MMS poruke</string>

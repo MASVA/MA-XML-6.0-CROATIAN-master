@@ -57,6 +57,7 @@
   <string name="loading_hot_problem">Učitavanje…</string>
   <string name="loading_problem_list">Učitavanje popisa…</string>
   <string name="menu_copy">Kopiraj</string>
+  <string name="network_disconnected">Nema mreže</string>
   <string name="network_err">"Ne mogu se povezati na mrežu."</string>
   <string name="network_unavailable_dialog_button_ok">U redu</string>
   <string name="network_unavailable_dialog_content">Vaše izvješće će biti poslano kada ćete imati podatkovnu vezu."</string>
@@ -103,6 +104,7 @@
   <string name="toast_feedback_submitted">Izvješće je poslano</string>
   <string name="toast_feedback_submitting">Slanje…</string>
   <string name="toast_feedbackservice_in_submit">Upravljanje prethodnih informacija…</string>
+  <string name="toast_fill_brackets">Ispunite sadržaj između zagrada</string>
   <string name="toast_network_unavailable">"Ne mogu poslati. Ne mogu se povezati na mrežu."</string>
   <string name="toast_pending_log_collection">Još prikupljam zapise…</string>
   <string name="toast_report_copied_to_clipboard">Izvješće kopirano u međuspremnik</string>

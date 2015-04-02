@@ -98,12 +98,9 @@
   <string name="timer_got_it">U redu</string>
   <string name="timer_item_duration_display">%1$d min %2$d sek</string>
   <string name="timer_item_label_hint">Ime Kronometra</string>
+  <string name="timer_item_picker_hour">Sat</string>
   <string name="timer_item_picker_minute">Min</string>
   <string name="timer_item_picker_second">Sek</string>
-  <string name="timer_message">%1$d min. i %2$d sek.</string>
-  <string name="timer_message_00">%1$d min. i %2$d sek.</string>
-  <string name="timer_message_01">%1$d min. i %2$d sek.</string>
-  <string name="timer_message_10">%1$d min. i %2$d sek.</string>
   <string name="timer_new_item">Dodaj Kronometar</string>
   <string name="timer_notify_text">Odgodi ili odbaci Kronometar.</string>
   <string name="timer_start_alarm">"Vrijeme je isteklo!"</string>
