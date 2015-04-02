@@ -1410,7 +1410,7 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="usb_storage_stop_title">USB pohrana se koristi</string>
   <string name="usb_storage_title">USB povezan</string>
   <string name="use_physical_keyboard">Fizička tipkovnica</string>
-  <string name="user_switched">Trenutačni korisnik %1$s.</string>
+  <string name="user_switched">Trenutni korisnik %1$s.</string>
   <string name="validity_period">Vrijedi do:</string>
   <string name="volume_alarm">Glasnoća alarma</string>
   <string name="volume_bluetooth_call">Glasnoća značajke Bluetooth tijekom poziva</string>

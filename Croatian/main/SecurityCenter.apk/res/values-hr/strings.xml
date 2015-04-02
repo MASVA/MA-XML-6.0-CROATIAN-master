@@ -150,7 +150,7 @@
   <string name="cta_settings">Dopusti povezivanje</string>
   <string name="deepclean_cache_header_left">Predmemorija: %d</string>
   <string name="delete">Izbrisati</string>
-  <string name="delete_from_manual_item_white_list">Ukloniti iz iznimaka</string>
+  <string name="delete_from_manual_item_white_list">Ukloni iz iznimaka</string>
   <string name="descx_cleanuping_item">Optimizacija %s</string>
   <string name="descx_finish_cleanup_cache">Završavanje Optimiziranje predmemorije</string>
   <string name="descx_finish_cleanup_memory">Završavanje Optimiziranje memorije</string>
