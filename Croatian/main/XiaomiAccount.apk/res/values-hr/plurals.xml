@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="updated_contacts">
-        <item quantity="other">Ažurirano kontakata: %s</item>
-        <item quantity="one">Ažurirano kontakata: %s</item>
+        <item quantity="other">Ažurirano (%s) kontakata</item>
+        <item quantity="one">Ažurirano (%s) kontakata</item>
     </plurals>
     <plurals name="dirty_contacts_count">
         <item quantity="other">Kontakata: %d</item>

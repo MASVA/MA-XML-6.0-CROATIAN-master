@@ -13,12 +13,12 @@
         <item quantity="one">"%d min "</item>
     </plurals>
     <plurals name="hints_auto_start_enable_title">
-        <item quantity="other">Aplik. s Autom. pokretanjem: %d</item>
-        <item quantity="one">Aplik. s Autom. pokretanjem: %d</item>
+        <item quantity="other">Aplikikacija (%d) s Autom. pokretanjem</item>
+        <item quantity="one">Aplikikacija (%d) s Autom. pokretanjem</item>
     </plurals>
     <plurals name="hints_auto_start_disable_title">
-        <item quantity="other">"Aplik. bez Autom. pokretanja: %d"</item>
-        <item quantity="one">"Aplik. bez Autom. pokretanja: %d"</item>
+        <item quantity="other">"Aplikikacija (%d) bez Autom. pokretanja"</item>
+        <item quantity="one">"Aplikikacija (%d) bez Autom. pokretanja"</item>
     </plurals>
     <plurals name="hints_apps_perm_count">
         <item quantity="other">Dopuštenja: %d</item>
@@ -37,7 +37,7 @@
         <item quantity="one">"Aplikacija bez ROOT pristupa: %d"</item>
     </plurals>
 	<plurals name="summary_app_update">
-        <item quantity="other">Ažuriranja dostupna za apl.: %d.</item>
-        <item quantity="one">Ažuriranje dostupno za apl.: %d.</item>
+        <item quantity="other">Ažuriranja dostupna za (%d) aplikacija</item>
+        <item quantity="one">Ažuriranja dostupna za (%d) aplikacija</item>
     </plurals>
 </resources>
