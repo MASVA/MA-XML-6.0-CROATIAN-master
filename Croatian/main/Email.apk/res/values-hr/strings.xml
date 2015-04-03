@@ -292,7 +292,7 @@
   <string name="chat_view_description">Prikaži teme e-pošte kao mjehuriće razgovora</string>
   <string name="chat_view_quote_text">-----Citirani Tekst-----</string>
   <string name="chat_view_retract_quote_text">---Sakrij Citirani Tekst--</string>
-  <string name="chat_view_title">Prikaz razgovora</string>
+  <string name="chat_view_title">Prikaži teme kao razgovore</string>
   <string name="check_setup_data">Potvrđivanje postavki poslužitelja…</string>
   <string name="checking_for_mail">Provjera…</string>
   <string name="choosertitle_sharevia">Dijeli putem</string>
@@ -493,11 +493,6 @@
   <string name="general_preference_text_zoom_small">Malen</string>
   <string name="general_preference_text_zoom_tiny">Sitan</string>
   <string name="generic_attachment_problem">"Ne mogu priložiti datoteku."</string>
-  <string name="gmail_acceleration">Koristi proxy poslužitelj za Gmail Račun</string>
-  <string name="gmail_login_confirm_to_use_proxy">Koristiti proxy poslužitelj za pristup vašem Gmail Računu?</string>
-  <string name="gmail_login_verify">Dodaj Gmail Račun</string>
-  <string name="gmail_web_login_go">U redu</string>
-  <string name="gmail_web_login_required_message">Prijavi se u Gmail</string>
   <string name="head_only_enable_dialog_message">Preuzmi samo naslov poruke (umjesto cijele poruke), kod uporabe mobilnih podataka.</string>
   <string name="head_only_enable_dialog_nagative">Ne sad</string>
   <string name="head_only_enable_dialog_positive">Uključi</string>
@@ -675,7 +670,6 @@ Kopija: %4$s
   <string name="notification_exchange_calendar_added">Dodan Exchange kalendar</string>
   <string name="ok">U redu</string>
   <string name="okay_action">U redu</string>
-  <string name="open_proxy_in_settings">"Gmail nije dostupan na vašoj trenutnoj lokaciji. Još uvijek možete slati i primati poruke iz vašeg Gmail računa pomoću proxy poslužitelja Pošte. Možete uključiti/isključiti ovu značajku u bilo koje vrijeme u Postavkama."</string>
   <string name="other_mail">Ostala e-pošta</string>
   <string name="outbox_alert_button_confirm">Uredi</string>
   <string name="outbox_alert_button_no_resend">"Nemoj poslati"</string>
@@ -977,7 +971,6 @@ Kopija: %4$s
   <string name="upload_log_success">Dnevnici uspješno poslani</string>
   <string name="upload_log_title">Poslati dnevnike dijagnostike?</string>
   <string name="upload_log_url">http://fb14.iciba.com/api.php?action=post.upload</string>
-  <string name="upload_log_yes">Pošalji</string>
   <string name="uploading_logs">Slanje dnevnika</string>
   <string name="validation_failed_prompt">"Ne mogu provjeriti račun. Provjerite postavke poslužitelja %s"</string>
   <string name="veiled_address"/>
@@ -1002,6 +995,6 @@ Dodirnite "&lt;b&gt;Sinkroniziraj sada&lt;/b&gt; da biste poštu sinkronizirali 
   <string name="widget_other_views">Ostalo</string>
   <string name="wrong_password">Zaporka koju ste unijeli nije točna</string>
   <string name="yes">Da</string>
-  <string name="you_are_in_mobile_network">Sada koristite mobilnu podatkovnu vezu</string>
+  <string name="you_are_in_mobile_network">Trenutno koristite mobilnu podatkovnu vezu, obrtite pozornost na uporabu podataka!</string>
   <string name="zip_viewer_no_file">Nema datoteka</string>
 </resources>
