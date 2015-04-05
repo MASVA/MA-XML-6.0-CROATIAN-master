@@ -182,9 +182,6 @@ koristeći %s"</string>
   <string name="day_of_week_label_typeface">sans-serif</string>
   <string name="day_picker_description">Mreža dana u mjesecu</string>
   <string name="days">dana</string>
-  <string name="db_default_journal_mode">PERSIST</string>
-  <string name="db_default_sync_mode">FULL</string>
-  <string name="db_wal_sync_mode">FULL</string>
   <string name="decline">Odbaci</string>
   <string name="defaultMsisdnAlphaTag">MSISDN1</string>
   <string name="defaultVoiceMailAlphaTag">Govorna pošta</string>

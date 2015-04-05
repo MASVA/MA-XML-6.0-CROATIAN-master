@@ -71,4 +71,5 @@
     <plurals name="zen_mode_duration_hours">
         <item quantity="other">%d h</item>
         <item quantity="one">Jedan sat</item>
+	</plurals>
 </resources> 

@@ -180,13 +180,6 @@
         <item>Prijenosna SD kartica</item>
         <item>Neka sustav odluči</item>
     </string-array>
-    <string-array name="app_ops_categories">
-        <item>Lokacija</item>
-        <item>Osobno</item>
-        <item>Slanje poruka</item>
-        <item>Mediji</item>
-        <item>Uređaj</item>
-    </string-array>
     <string-array name="app_ops_permissions">
         <item>Dopusti</item>
         <item>Ignoriraj</item>
