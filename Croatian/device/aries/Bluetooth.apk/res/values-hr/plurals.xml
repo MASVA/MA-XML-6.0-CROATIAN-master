@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ble_profile_mi_band">
+        <item>Vibracija kod poziva</item>
+        <item>Vibracija kod primljene poruke</item>
+        <item>Vibracija kod alarma</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Snimi fotografiju</item>
+        <item>Pronađi telefon</item>
+        <item>Pronađi MiKey</item>
+    </string-array>
+</resources>

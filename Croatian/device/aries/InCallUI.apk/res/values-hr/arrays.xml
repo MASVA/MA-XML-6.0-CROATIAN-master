@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ims_call_types">
+        <item>Glas</item>
+        <item>Video</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Samo domaće</item>
+        <item>Automatski</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normalno</item>
+        <item>Dugo</item>
+    </string-array>
+	<string-array name="preferred_network_mode_choices">
+        <item>LTE / WCDMA</item>
+        <item>LTE</item>
+        <item>Globalno</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>EvDo samo</item>
+        <item>CDMA w/o EvDo</item>
+        <item>CDMA/EvDo auto</item>
+        <item>GSM/WCDMA auto</item>
+        <item>WCDMA samo</item>
+        <item>GSM samo</item>
+        <item>GSM/WCDMA poželjno</item>
+     </string-array>
+</resources>
+
