@@ -148,9 +148,9 @@
   <string name="i_know">U redu</string>
   <string name="impunity_declaration">Online sadržaj potječe iz Baidu Online Music Service. Korištenjem ove usluge, pristajete na Baidu http://music.baidu.com/doc/agreement" Uvjeti pružanja usluge</string>
   <string name="impunity_declaration_ignore">"Ne prikazuj ponovo"</string>
-  <string name="impunity_declaration_settings">Prikaži "Uvjeti pružanja usluge"</string>
   <string name="impunity_declaration_negative_text">Zatvori</string>
   <string name="impunity_declaration_positive_text">U redu i nastavi</string>
+  <string name="impunity_declaration_settings">Prikaži "Uvjeti pružanja usluge"</string>
   <string name="impunity_declaration_summary">Prikaži skočni prozor "Uvjeti pružanja usluge" za Baidu Online Music Service svaki puta kada se otvori aplikacija "Glazba"</string>
   <string name="impunity_declaration_title">Uvjeti pružanja usluge</string>
   <string name="in_searching_please_wait">Pretraživanje…</string>
@@ -251,6 +251,7 @@
   <string name="send_to">Dijeli</string>
   <string name="send_to_title">Pošalji (%1$s)</string>
   <string name="set_album_successful">Albuma je spremljen</string>
+  <string name="server_error">Pogreška poslužitelja. Pokušajte ponovo kasnije</string>
   <string name="set_as_ring">Postavi za zvuk zvona</string>
   <string name="set_id3_failed">"Ne mogu spremiti informacije"</string>
   <string name="set_id3_successful">Informacije pjesme su spremljene</string>

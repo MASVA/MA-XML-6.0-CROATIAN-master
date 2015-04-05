@@ -64,6 +64,7 @@
   <string name="gift_purchased_list_empty_with_received_list_empty">Nema poklona.</string>
   <string name="gift_received_endnote">Šalje: %1$s (primljeno %2$s)</string>
   <string name="gift_received_list_empty">"Nemate primljenih poklona."</string>
+  <string name="gift_received_notification_title">%s vam je poklonio temu.</string>
   <string name="gift_share">Podijeli</string>
   <string name="gift_transfer">Prenesi</string>
   <string name="gift_unbind_fail_dlg_title">"Ne mogu kreirati kod"</string>
@@ -318,6 +319,7 @@
   <string name="theme_user_agreement_content3">" i "</string>
   <string name="theme_user_agreement_content4">Pravila o Privatnosti</string>
   <string name="theme_user_agreement_content5">. Ova aplikacija treba povezivanje na internet za normalan rad. "</string>
+  <string name="theme_user_agreement_exit">Izlaz</string>
   <string name="theme_user_agreement_remind_again">Prikaži upit Uvjeti Korištenja</string>
   <string name="theme_user_agreement_remind_never">"Ne prikazuj ponovo"</string>
   <string name="theme_user_agreement_remind_summary">Prikaži upit Uvjeti Korištenja svaki put kada se otvori aplikacija "Teme". Ova postavka će stupiti na snagu nakon što ponovno pokrenete svoj uređaj.</string>

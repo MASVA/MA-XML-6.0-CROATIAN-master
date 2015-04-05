@@ -1945,8 +1945,8 @@ Ova postavka utječe na sve korisnike na ovom uređaju."</string>
   <string name="search_description">"Postavke pretraživanja"</string>
   <string name="search_display">zaslon</string>
   <string name="search_font">font</string>
-  <string name="search_handy_mode">uprav. jednom rukom</string>
   <string name="search_gps">gps</string>
+  <string name="search_handy_mode">uprav. jednom rukom</string>
   <string name="search_hint">"Postavke pretraživanja"</string>
   <string name="search_key">tipka</string>
   <string name="search_label">Postavke</string>

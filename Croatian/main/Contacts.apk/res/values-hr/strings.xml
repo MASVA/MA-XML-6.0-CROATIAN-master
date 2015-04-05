@@ -1157,6 +1157,7 @@ Odaberite jednu od sljedećih opcija:</string>
   <string name="yellowPageNavigationLabel">Žute Stranice</string>
   <string name="yellowpage_navigation_clear_search_history">Izbriši povijest</string>
   <string name="yellowpage_navigation_more_items">Više</string>
+  <string name="yellowpage_navigation_more_items_title">Više usluga</string>
   <string name="yellowpage_navigation_no_content">"Ništa nije pronađeno"</string>
   <string name="yellowpage_navigation_search_city_name_hint">Grad</string>
   <string name="yellowpage_navigation_search_history">Povijest</string>

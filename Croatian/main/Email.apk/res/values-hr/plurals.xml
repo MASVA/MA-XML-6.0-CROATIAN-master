@@ -6,7 +6,7 @@
     <plurals name="confirm_archive_conversation">
         <item quantity="other">Arhivirati ove razgovore: %1$d?</item>
         <item quantity="zero">Arhivirati ove razgovore: %1$d?</item>
-		<item quantity="one">Arhivirati ovaj razgovor?</item>
+	<item quantity="one">Arhivirati ovaj razgovor?</item>
         <item quantity="two">Arhivirati ove razgovore: %1$d?</item>
         <item quantity="few">Arhivirati ove razgovore: %1$d?</item>
         <item quantity="many">Arhivirati ove razgovore: %1$d?</item>
