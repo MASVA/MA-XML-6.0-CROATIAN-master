@@ -44,13 +44,13 @@
         <item quantity="other">Ovoliko aplikacija može čitati obavijesti: %d</item>
         <item quantity="one">%d aplikacija može čitati obavijesti</item>
     </plurals>
+	<plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">Broj aplikacija koje pružaju uvjete: %d</item>
+        <item quantity="one">%d aplikacija pruža uvjete</item>
+    </plurals>
     <plurals name="wrong_pin_code">
         <item quantity="other">Netočan PIN kôd SIM kartice; imate još ovoliko preostalih pokušaja: %d.</item>
         <item quantity="one">Netočan PIN kôd SIM kartice; imate još %d pokušaj prije nego što budete morali kontaktirati svog mobilnog operatera da bi otključao vaš uređaj.</item>
-    </plurals>
-    <plurals name="print_search_result_count_utterance">
-        <item quantity="other">Pronađen je sljedeći broj pisača: %1$s</item>
-        <item quantity="one">Pronađen je %1$s pisač</item>
     </plurals>
 	<plurals name="show_pho_countdown">
         <item quantity="other">"Još %1$d koraka od ulaska u informacije o telefonu."</item>
@@ -64,4 +64,12 @@
         <item quantity="other">Još %1$d koraka do ulaska u prijavljivanja grešaka.</item>
         <item quantity="one">Još %1$d korak do ulaska u prijavljivanje grešaka.</item>
     </plurals>
+	    <plurals name="zen_mode_duration_minutes">
+        <item quantity="other">%d min</item>
+        <item quantity="one">Jednu minutu</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="one">Jedan sat</item>
+	</plurals>
 </resources> 

@@ -486,7 +486,7 @@ Da biste otkvačili zaslon, dodirnite i zadržite Pregled."</string>
   <string name="lockscreen_access_pattern_detected">Uzorak je dovršen</string>
   <string name="lockscreen_access_pattern_start">Uzorak se pokrenuo</string>
   <string name="lockscreen_airplane_mode_on">Zrakoplovni način</string>
-  <string name="lockscreen_battery_short">%d%%</string>
+  <string name="lockscreen_battery_short">%d %%</string>
   <string name="lockscreen_carrier_default">Nema usluge.</string>
   <string name="lockscreen_charged">Napunjeno</string>
   <string name="lockscreen_emergency_call">Hitan poziv</string>
@@ -519,7 +519,7 @@ Posjetite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_pattern_instructions">Iscrtajte uzorak za otključavanje</string>
   <string name="lockscreen_pattern_wrong">Pokušajte ponovo</string>
   <string name="lockscreen_permanent_disabled_sim_instructions">"Vaša SIM kartica trajno je onemogućena.
- Obratite se svom pružatelju bežičnih usluga da biste dobili drugu SIM karticu."</string>
+ Obratite se svom davatelju usluga da biste dobili drugu SIM karticu."</string>
   <string name="lockscreen_permanent_disabled_sim_message_short">Neupotrebljiva SIM kartica.</string>
   <string name="lockscreen_plugged_in">Punjenje, %d%%</string>
   <string name="lockscreen_return_to_call">Uzvrati poziv</string>

@@ -23,6 +23,7 @@
   <string name="acessibility_cal_notification">Obavijesti Kalendara</string>
   <string name="acessibility_selected_marker_description">Odabrani događaj</string>
   <string name="acessibility_snooze_notification">Odgodi obavijest</string>
+  <string name="action_label">Vrati</string>
   <string name="action_text_new_event">Novi događaj</string>
   <string name="action_text_online">Online</string>
   <string name="action_text_today">Danas</string>
@@ -95,7 +96,6 @@
   <string name="dismiss_all_label">Odbaci sve</string>
   <string name="do_not_check">NE provjeravaj -&gt;</string>
   <string name="does_not_repeat">Jednokratni događaj</string>
-  <string name="done">Vrati</string>
   <string name="edit_event_all_day_label">Cijeli dan</string>
   <string name="edit_event_calendar_label">Kalendar</string>
   <string name="edit_event_confirm_message">Odbaciti promjene za događaj?</string>

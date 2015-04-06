@@ -118,12 +118,20 @@
     <string-array name="wifi_sleep_policy_entries">
         <item>Uvijek</item>
         <item>Samo kad je uključeno</item>
-        <item>Nikada (povećava uporabu podataka)</item>
+        <item>Nikada</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Uvijek</item>
         <item>Samo kad je uključeno</item>
         <item>Nikad</item>
+    </string-array>
+	<string-array name="data_usage_data_range">
+        <item>Posljednjih 30 dana</item>
+        <item>Postavi ciklus uporabe...</item>
+    </string-array>
+    <string-array name="sim_card_data_range">
+        <item>Zadnje 4 znamenke</item>
+        <item>Prve 4 znamenke</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Automatski</item>
@@ -132,7 +140,7 @@
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Vrijeme upotrebe</item>
-        <item>Pokreni brojanje</item>
+        <item>Posljednja upotreba</item>
         <item>Naziv aplikacije</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
@@ -154,11 +162,7 @@
     <string-array name="wifi_proxy_settings">
         <item>Ništa</item>
         <item>Ručno</item>
-    </string-array>
-    <string-array name="emergency_tone_entries">
-        <item>Isključeno</item>
-        <item>Upozorenje</item>
-        <item>Vibracija</item>
+        <item>Proxy Auto-Config</item>
     </string-array>
     <string-array name="apn_auth_entries">
         <item>Ništa</item>
@@ -176,22 +180,28 @@
         <item>Prijenosna SD kartica</item>
         <item>Neka sustav odluči</item>
     </string-array>
+    <string-array name="app_ops_permissions">
+        <item>Dopusti</item>
+        <item>Ignoriraj</item>
+        <item>Uvijek pitaj</item>
+    </string-array>
     <string-array name="app_ops_categories">
         <item>Lokacija</item>
         <item>Osobno</item>
         <item>Slanje poruka</item>
         <item>Mediji</item>
         <item>Uređaj</item>
+        <item>Pokretanje</item>
     </string-array>
     <string-array name="app_ops_summaries">
         <item>približna lokacija</item>
         <item>precizna lokacija</item>
-        <item>GPS</item>
+        <item>gps</item>
         <item>vibriranje</item>
         <item>čitanje kontakata</item>
-        <item>izmjena kontakata</item>
+        <item>pisanje kontakata</item>
         <item>čitanje zapisnika poziva</item>
-        <item>izmjena zapisnika poziva</item>
+        <item>pisanje zapisnika poziva</item>
         <item>čitanje kalendara</item>
         <item>izmjena kalendara</item>
         <item>skeniranje Wi-Fi-ja</item>
@@ -227,6 +237,23 @@
         <item>zadrži u aktivnom stanju</item>
         <item>praćenje lokacije</item>
         <item>praćenje lokacije s visokom potrošnjom energije</item>
+        <item>dohvaćanje statistike o upotrebi</item>
+        <item>isključivanje/uključivanje mikrofona</item>
+        <item>toast prozora</item>
+        <item>projiciranje medija</item>
+        <item>aktiviraj VPN</item>
+        <item>izmjena wlana</item>
+        <item>izmjena bluetooth</item>
+        <item>slanje MMS-a</item>
+        <item>čitanje MMS-a</item>
+        <item>pisanje MMS-a</item>
+        <item>auto start</item>
+        <item>izmjena nfc-a</item>
+        <item>brisanje SMS-a</item>
+        <item>brisanje MMS-a</item>
+        <item>brisanje kontakata</item>
+        <item>brisanje zapisnika poziva</item>
+        <item>izmjena podataka</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Lokacija</item>
@@ -272,6 +299,23 @@
         <item>Zadrži u aktivnom stanju</item>
         <item>Lokacija</item>
         <item>Lokacija</item>
+        <item>Dohvati statistike o upotrebi</item>
+        <item>Isključi/uključi mikrofon</item>
+        <item>Toast prozor</item>
+        <item>Projiciraj medij</item>
+        <item>Aktiviraj VPN</item>
+        <item>Izmjeni WLAN</item>
+        <item>Izmjeni Bluetooth</item>
+        <item>Pošalji MMS</item>
+        <item>Čitaj MMS</item>
+        <item>Piši MMS</item>
+        <item>Auto start</item>
+        <item>Izmjeni Nfc</item>
+        <item>Izbriši SMS</item>
+        <item>Izbriši MMS</item>
+        <item>Izbriši kontakte</item>
+        <item>Izbriši zapisnik poziva</item>
+        <item>Izmjeni podatke</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Kratko</item>
@@ -282,8 +326,23 @@
         <item>Zadano</item>
         <item>Sans-serif</item>
         <item>Sans-serif zgusnuti</item>
+        <item>Fiksna širina bez serifa</item>
         <item>Serif</item>
-        <item>Neproporcionalni</item>
+        <item>Fiksna širina sa serifima</item>
+        <item>Jednostavno</item>
+        <item>Kurziv</item>
+        <item>Mala slova</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_values">
+        <item></item>
+        <item>sans-serif</item>
+        <item>sans-serif-consended</item>
+        <item>sans-serif-monospace</item>
+        <item>serif</item>
+        <item>serif-monospace</item>
+        <item>casual</item>
+        <item>cursive</item>
+        <item>sans-serif-smallcaps</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Vrlo mali</item>
@@ -293,11 +352,15 @@
         <item>Vrlo veliki</item>
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
+        <item>Zadano</item>
         <item>Ništa</item>
         <item>Obris</item>
         <item>Sjena</item>
+        <item>Izdignuto</item>
+        <item>Utisnuto</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
+        <item>Uporaba zadanih postavki aplikacije</item>
         <item>Bijelo na crnom</item>
         <item>Crno na bijelom</item>
         <item>Žuto na crnom</item>
@@ -374,7 +437,6 @@
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Isključeno</item>
-        <item>Na zaslonu u obliku traka</item>
         <item>Na zaslonu u obliku crta</item>
         <item>U naredbi adb shell dumpsys gfxinfo</item>
     </string-array>
@@ -382,7 +444,6 @@
         <item>Isključeno</item>
         <item>Pokaži područja slojnih iscrtavanja</item>
         <item>Prikaži područja za deuteranomaliju</item>
-        <item>Prikaži brojač slojnih iscrtavanja</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Standardna granica</item>
@@ -425,6 +486,33 @@
         <item>umjereno</item>
         <item>nisko</item>
         <item>kritično</item>
+    </string-array>
+    <string-array name="entries_zen_mode">
+        <item>Isključeno</item>
+        <item>Ograničeni prekidi</item>
+        <item>Bez prekida</item>
+    </string-array>
+    <string-array name="proc_stats_memory_states">
+        <item>Uobičajena</item>
+        <item>Umjerena</item>
+        <item>Niska</item>
+        <item>Kritična</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+        <item>Postojana</item>
+        <item>Glavna aktivnost</item>
+        <item>Važna (u prvom planu)</item>
+        <item>Važna (u pozadini)</item>
+        <item>Pričuvna</item>
+        <item>Teška</item>
+        <item>Usluga (izvodi se)</item>
+        <item>Usluga (ponovno pokretanje)</item>
+        <item>Prijamnik</item>
+        <item>Kuća</item>
+        <item>Posljednja aktivnost</item>
+        <item>Predmemorija (aktivnost)</item>
+        <item>Predmemorija (klijent aktivnosti)</item>
+        <item>Predmemorija (prazna)</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
         <item>Jako</item>
@@ -473,13 +561,6 @@
         <item>Cijan</item>
         <item>Bijela</item>
         <item>Ljubičasta</item>
-    </string-array>
-   <string-array name="pink_panel_led_color_values">
-        <item>blue</item>
-        <item>red</item>
-        <item>yellow</item>
-        <item>green</item>
-        <item>\#FFAA00AA</item>
     </string-array>
     <string-array name="pink_panel_led_color_entries">
         <item>Lila</item>
@@ -639,34 +720,18 @@
         <item>Brzo</item>
         <item>Brže</item>
     </string-array>
-    <string-array name="tts_rate_xunfei_values">
-        <item>60</item>
-        <item>80</item>
-        <item>100</item>
-        <item>150</item>
-        <item>200</item>
-	</string-array>
+   <string-array name="select_logd_size_summaries">
+        <item>64 KB po međusprem.</item>
+        <item>256 KB po međuspr.</item>
+        <item>1 MB po međusprem.</item>
+        <item>4 MB po međusprem.</item>
+        <item>16 MB po međusprem.</item>
+    </string-array>
     <string-array name="whetstone_level_entries">
        <item>Isključeno</item>
        <item>Nisko</item>
        <item>Srednje</item>
        <item>Visoko</item>
-    </string-array>
-    <string-array name="whetstone_level_values">
-       <item>0</item>
-       <item>1</item>
-       <item>2</item>
-       <item>3</item>
-    </string-array>
-    <string-array name="handy_mode_size_text_entries">
-        <item>4.5 inča</item>
-        <item>4.0 inča</item>
-        <item>3.5 inča</item>
-    </string-array>
-    <string-array name="handy_mode_size_value_entries">
-        <item>4.5</item>
-        <item>4.0</item>
-        <item>3.5</item>
     </string-array>
     <string-array name="agps_network_entries">
         <item>Kućna mreža</item>
