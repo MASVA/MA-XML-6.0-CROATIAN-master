@@ -32,11 +32,11 @@
   <string name="accessibility_feature_state_on">Uključeno</string>
   <string name="accessibility_global_gesture_preference_description">"Kada je ova značajka uključena, možete brzo omogućiti značajke pristupačnosti u dva koraka:   
 
-Korak 1: Pritisnite i držite tipku za uključivanje dok ne čujete zvuk ili osjetite vibraciju.
+Korak 1: Pritisnite i držite tipku za uključivanje/isključivanje dok ne čujete zvuk ili osjetite vibraciju.
 
-Korak 2: Dodirnite i zadržite dva prsta dok ne čujete zvukovnu potvrdu.
+Korak 2: Dodirnite i držite s dva prsta dok ne čujete zvučnu potvrdu.
 
-Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaključavanja privremeno omogućuje dostupnost dok se uređaj ne otključa."</string>
+Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje pristupačnost dok se uređaj ne otključa."</string>
   <string name="accessibility_global_gesture_preference_summary_off">Isključeno</string>
   <string name="accessibility_global_gesture_preference_summary_on">Uključeno</string>
   <string name="accessibility_global_gesture_preference_title">Prečac pristupačnosti</string>
@@ -47,13 +47,13 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="accessibility_screen_magnification_enable">Pokreti povećavanja</string>
   <string name="accessibility_screen_magnification_summary">"Ako je ova značajka uključena, možete povećati ili smanjiti prikaz ako triput dodirnete zaslon. 
   
-  Dok je prikaz uvećan, možete: 
-  “Pomicati pogled: Povucite dva ili više prstiju preko zaslona. 
-  „Podesiti razinu uvećavanja: Privucite dva ili više prstiju ili ih raširite."
-  
-  "Možete također privremeno uvećati područje ispod prsta tako da triput dodirnete i zadržite dodir. U ovom uvećanom stanju, možete povlačiti prstom kako bi istražili druge dijelove zaslona. Podignite prst za povratak na prethodno stanje. 
-  
-  Napomena: Trostruki dodir za uvećavanje vrijedi svugdje osim na tipkovnici i navigacijskoj traci."</string>
+Nakon povećanja prikaza možete sljedeće:
+"&lt;li&gt;&lt;ul&gt;"Pomicati: pomoću dva prsta ili više prstiju povlačite prikaz na zaslonu.
+"&lt;li&gt;Podesiti razinu zumiranja: stisnite dva prsta ili više prstiju ili ih raširite.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
+
+Takđer možete privremeno povećati stavku ispod prsta ako je triput dodirnete i držite. U tom slučaju možete povlačiti prst kako biste istražili različite dijelove zaslona. Podignite prst da se vratite na prijašnje stanje.
+
+Napomena: povećanje trostrukim dodirom moguće je svuda osim na tipkovnici i traci za navigaciju."</string>
   <string name="accessibility_screen_magnification_title">Pokreti povećavanja</string>
   <string name="accessibility_service_default_description">Nije dan opis.</string>
   <string name="accessibility_service_no_apps_message">TalkBack daje govorne povratne informacije kao pomoć slijepim i slabovidnim korisnicima. Želite li ga besplatno instalirati s usluge Trg. Play?</string>
@@ -287,10 +287,10 @@ Jednostavno približite jedan uređaj drugom (obično se njihove stražnje stran
   <string name="battery_desc_users">Baterija koju upotrebljava korisnik</string>
   <string name="battery_desc_voice">Baterija upotrijebljena uslugom glasovnog poziva</string>
   <string name="battery_desc_wifi">Baterijom se služi WLAN</string>
-  <string name="battery_history_days">%1$d d %2$d h %3$d min %4$d s</string>
-  <string name="battery_history_days_no_seconds">%1$d d %2$d h %3$d min</string>
-  <string name="battery_history_hours">%1$d h %2$dmin %3$d s</string>
-  <string name="battery_history_hours_no_seconds">%1$d h %2$d min</string>
+  <string name="battery_history_days">%1$d d %2$d s %3$d min %4$d s</string>
+  <string name="battery_history_days_no_seconds">%1$d d %2$d s %3$d min</string>
+  <string name="battery_history_hours">%1$d s %2$dmin %3$d s</string>
+  <string name="battery_history_hours_no_seconds">%1$d s %2$d min</string>
   <string name="battery_history_minutes">%1$d min %2$d s</string>
   <string name="battery_history_minutes_no_seconds">%1$d min</string>
   <string name="battery_history_seconds">%1$d s</string>
@@ -957,7 +957,7 @@ Ta postavka utječe na sve korisnike telefona."</string>
   <string name="dlg_confirm_unmount_title">Isključiti USB pohranu?</string>
   <string name="dlg_confirm_usb_unmount_text">Ako isključite USB pohranu, neke aplikacije koje upotrebljavate zaustavit će se i mogu biti nedostupne dok ponovo ne uključite USB pohranu.</string>
   <string name="dlg_confirm_usb_unmount_title">Isključiti USB pohranu?</string>
-  <string name="dlg_error_uicc_unmount_text">"pohrana ne može se isključiti. Pokušajte ponovo kasnije."</string>
+  <string name="dlg_error_uicc_unmount_text">"UICC pohrana ne može se isključiti. Pokušajte ponovo kasnije."</string>
   <string name="dlg_error_unmount_text">USB pohrana ne može se isključiti. Pokušajte ponovo kasnije.</string>
   <string name="dlg_error_unmount_title"/>
   <string name="dlg_error_usb_unmount_text">"USB pohrana ne može se isključiti. Pokušajte ponovo kasnije."</string>
@@ -1135,7 +1135,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="font_size_medium">Srednji</string>
   <string name="font_size_normal">Standardan</string>
   <string name="font_size_preview">MIUI</string>
-  <string name="font_size_preview_text">Ovo je za one koji vole MIUI. by "MASVA"</string>
+  <string name="font_size_preview_text">Ovo je za sve one koji vole MIUI. by "MASVA"</string>
   <string name="font_size_save">"U redu"</string>
   <string name="font_size_small">Mali</string>
   <string name="font_size_summary">"Promjena veličine fonta teksta početnog zaslona, panela obavijesti, tipkovnice i posvuda drugdje"</string>
@@ -1333,7 +1333,7 @@ Ako je tekst vašeg sustava još uvijek premalen, pokušajte koristiti "</string
   <string name="keywords_text_to_speech_output">brzina jezik zadano govoriti govor</string>
   <string name="keywords_users">ograničenje ograničiti ograničeno</string>
   <string name="keywords_voice_input">prepoznavanje unos govor govoriti jezik bez ruku uvredljiva riječ audio povijest bluetooth slušalice</string>
-  <string name="keywords_wifi">wifi wi-fi mreža veza</string>
+  <string name="keywords_wifi">wlan wlan mreža veza</string>
   <string name="language_keyboard_settings_title">Jezik &amp; unos</string>
   <string name="language_picker_title">Jezik</string>
   <string name="language_settings">Jezik &amp; unos</string>
@@ -1358,7 +1358,7 @@ Ako je tekst vašeg sustava još uvijek premalen, pokušajte koristiti "</string
   <string name="line_breaking_summary">Optimiziraj prelamanje linija u odlomku</string>
   <string name="line_breaking_title">Optimiziraj tekst</string>
   <string name="link_speed_label">Brzina veze:</string>
-  <string name="loading_notification_apps">Učitavanje aplikacija...</string>
+  <string name="loading_notification_apps">Učitavanje aplikacija…</string>
   <string name="local_auto_backup_off">Isključi</string>
   <string name="local_auto_backup_on">Uključi</string>
   <string name="local_auto_backup_section_title">Napravi autom. Sig. kopiju</string>
@@ -1554,7 +1554,7 @@ Za brisanje glazbe, slika i ostalih korisničkih podataka, "&lt;b&gt;USB pohrana
   <string name="master_clear_personal_data">"Izbrisati sve osobne podatke? Radnja se ne može poništiti!"</string>
   <string name="master_clear_personal_data_application">Izbrisati sve osobne podatke i preuzete aplikacije? Radnja se ne može poništiti!</string>
   <string name="master_clear_personal_data_sdcard">"Izbrisati vaše osobne informacije i sadržaj? Radnja se ne može poništiti!"</string>
-  <string name="master_clear_progress_text">Pričekajte...</string>
+  <string name="master_clear_progress_text">Pričekajte…</string>
   <string name="master_clear_progress_title">Brisanje</string>
   <string name="master_clear_summary">Briše sve podatke na uređaju</string>
   <string name="master_clear_title">Vraćanje na tvorničko stanje</string>
@@ -1756,7 +1756,7 @@ i pokrenite ga."</string>
   <string name="next_button_label">"Dalje"</string>
   <string name="next_label">"Dalje"</string>
   <string name="nfc_category_title">NFC</string>
-  <string name="nfc_more_title">Više...</string>
+  <string name="nfc_more_title">Više…</string>
   <string name="nfc_payment_favor_foreground">Daj prednost aplikaciji u prednjem planu</string>
   <string name="nfc_payment_learn_more">Saznajte više</string>
   <string name="nfc_payment_menu_item_add_service">Traženje aplikacija</string>
@@ -2115,18 +2115,18 @@ i pokrenite ga."</string>
   <string name="remove_device_admin">Deaktiviraj</string>
   <string name="remove_from_frequently_fragment">Ukloniti %s iz Brzih postavki?</string>
   <string name="remove_managed_profile_label">Ukloni radni profil</string>
-  <string name="repeat_title">Repeat</string>
+  <string name="repeat_title">Ponovi</string>
   <string name="reset_app_preferences">Poništi željene postavke aplikacije</string>
   <string name="reset_app_preferences_button">Poništi aplikacije</string>
-  <string name="reset_app_preferences_desc">"Ovo će poništiti sve željene postavke za:
- "Onemogućene aplikacije,"
- "Obavijesti onemogućenih aplikacija,"
- "Zadane aplikacije za radnje,"
- "Ograničenja pozadinskih podataka za aplikacije."
- "Sva ograničenja dopuštenja"
+  <string name="reset_app_preferences_desc">"Sve postavke za sljedeće vratit će se na zadano:
 
+ "&lt;li&gt;Onemogućene aplikacije&lt;/li&gt;"
+ "&lt;li&gt;Onemogućene obavijesti aplikacija&lt;/li&gt;"
+ "&lt;li&gt;zadane aplikacije za radnje&lt;/li&gt;"
+ "&lt;li&gt;ograničenja pozadinskih podataka za aplikacije&lt;/li&gt;"
+ "&lt;li&gt;sva ograničenja dozvola.&lt;/li&gt;"
 
- Nećete izgubiti podatke aplikacija."</string>
+ Nećete izgubiti podatke nijedne aplikacije."</string>
   <string name="reset_app_preferences_title">Poništiti željene postavke aplikacija?</string>
   <string name="reset_legacy_password_settings_preface_text">Morate resetirati vašu zaporku za zaključavanje zaslona.</string>
   <string name="resource_ringtone_volume_mute">Ton zvona je isključen</string>
@@ -2274,7 +2274,7 @@ Ova postavka utječe na sve korisnike na ovom uređaju."</string>
   <string name="search_launcher">Pokretač</string>
   <string name="search_led">led</string>
   <string name="search_network">mreža</string>
-  <string name="search_power_mode">running mode; performance; priority performance; performance mode; normal mode; conventional mode; default mode; balanced performance; saving mode; energy-saving mode; performance; power</string>
+  <string name="search_power_mode">način rada; performanse; prioritetni nastup; performanse; normalan; konvencionalan; zadani; balansirano; ušteda; ušteda energije; performanse; energija</string>
   <string name="search_privacy">privatnost</string>
   <string name="search_ring_volume">glasnoća zvona</string>
   <string name="search_ringtone">zvuk zvona</string>
@@ -2394,19 +2394,19 @@ Možda je PIN netočan."</string>
   <string name="sim_editor_num_format">Prikaži brojeve</string>
   <string name="sim_editor_number">Broj</string>
   <string name="sim_editor_title">SIM kartica</string>
-  <string name="sim_enable_disable_lock_not_supported">"Unable to Change SIM/RUIM Lock.
- SIM/RUIM doesn't support it."</string>
+  <string name="sim_enable_disable_lock_not_supported">"Nije moguće promijeniti stanje SIM/RUIM zaključanosti.
+ SIM/RUIM ga ne podržava."</string>
   <string name="sim_enable_sim_lock">Zaključaj SIM karticu</string>
-  <string name="sim_enabled">enabled</string>
-  <string name="sim_enabler_airplane_on">ERROR, airplane mode is on!</string>
-  <string name="sim_enabler_both_inactive">"Error, can't disable all the SIMs"</string>
-  <string name="sim_enabler_disabling">Deactivating...</string>
-  <string name="sim_enabler_enabling">Activating...</string>
-  <string name="sim_enabler_in_call">ERROR, in call!</string>
-  <string name="sim_enabler_need_disable_sim">Deactivating the SIM, are you sure?</string>
-  <string name="sim_enabler_need_enable_sim">Activating the SIM, are you sure?</string>
-  <string name="sim_enabler_summary">SIM is %1$s</string>
-  <string name="sim_enabler_title">SIM Enablers</string>
+  <string name="sim_enabled">Omogućeno</string>
+  <string name="sim_enabler_airplane_on">POGREŠKA, Zrakoplovni način je uključen!</string>
+  <string name="sim_enabler_both_inactive">"Pogreška, ne mogu onemogućiti SIM kartice"</string>
+  <string name="sim_enabler_disabling">Deaktiviranje…</string>
+  <string name="sim_enabler_enabling">Aktiviranje…</string>
+  <string name="sim_enabler_in_call">POGREŠKA, poziv u tijeku!</string>
+  <string name="sim_enabler_need_disable_sim">Deaktivacija SIM kartice, jeste li sigurni?</string>
+  <string name="sim_enabler_need_enable_sim">Aktivacija SIM kartice, jeste li sigurni?</string>
+  <string name="sim_enabler_summary">SIM je %1$s</string>
+  <string name="sim_enabler_title">SIM Omogućitelji</string>
   <string name="sim_enter_cancel">Odustani</string>
   <string name="sim_enter_new">Novi SIM PIN</string>
   <string name="sim_enter_ok">"U redu"</string>
@@ -2420,22 +2420,22 @@ Možda je PIN netočan."</string>
   <string name="sim_lock_settings">Postavke zaključavanja SIM kartice</string>
   <string name="sim_lock_settings_category">Postavite zaključavanje SIM kartice</string>
   <string name="sim_lock_settings_title">SIM kartica je zaključana</string>
-  <string name="sim_management_title">SIM cards and mobile networks</string>
-  <string name="sim_missing">missing or error</string>
+  <string name="sim_management_title">SIM kartice i mobilne mreže</string>
+  <string name="sim_missing">SIM nedostaje ili pogreška</string>
   <string name="sim_multi_sims_summary">Odaberite SIM putem kojeg želite upotrebljavati mobilni prijenos podataka.</string>
-  <string name="sim_multi_sims_title">Pronađeno je više SIM-ova</string>
+  <string name="sim_multi_sims_title">Pronađeno je više SIM kartica</string>
   <string name="sim_no_inserted_msg">SIM kartica nije umetnuta</string>
   <string name="sim_other_call_settings">Ostale postavke poziva</string>
   <string name="sim_outgoing_call_title">SIM za odlazne pozive</string>
   <string name="sim_pin_attempts">"
-Attempts Remaining :"</string>
+Preostalo pokušaja:"</string>
   <string name="sim_pin_change">"Promijeni PIN za SIM"</string>
-  <string name="sim_pin_change_failed_enable_sim_lock">"Unable to Change SIM/RUIM PIN.
- Enable SIM/RUIM Lock."</string>
-  <string name="sim_pin_disable_failed">"Can't disable PIN."</string>
-  <string name="sim_pin_disabled">PIN1 Disabled!</string>
-  <string name="sim_pin_enable_failed">"Can't enable PIN."</string>
-  <string name="sim_pin_enabled">PIN1 Enabled!</string>
+  <string name="sim_pin_change_failed_enable_sim_lock">"Ne mogu promjeniti SIM/RUIM PIN.
+ Omogući SIM/RUIM Zaključavanje."</string>
+  <string name="sim_pin_disable_failed">"Ne mogu onemogućiti PIN."</string>
+  <string name="sim_pin_disabled">PIN1 onemogućen!</string>
+  <string name="sim_pin_enable_failed">"Ne mogu omogućiti PIN."</string>
+  <string name="sim_pin_enabled">PIN1 omogućen!</string>
   <string name="sim_pin_toggle">Zaključaj SIM karticu</string>
   <string name="sim_pins_dont_match">PIN-ovi se ne podudaraju</string>
   <string name="sim_pref_divider">Aktivnosti</string>
@@ -2490,7 +2490,7 @@ Za više informacija kontaktirajte vašeg administratora.</string>
   <string name="ssl_ca_cert_warning_message">"Treća je strana u mogućnosti pratiti vašu mrežnu aktivnost, uključujući e-poštu, aplikacije i sigurne web-lokacije. 
 To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</string>
   <string name="stable_build">" | Stabilno"</string>
-  <string name="status_awaiting_tap">Dodirnite oznaku da biste zapisali podatke...</string>
+  <string name="status_awaiting_tap">Dodirnite oznaku da biste zapisali podatke…</string>
   <string name="status_awake_time">Vrijeme bez mirovanja</string>
   <string name="status_bar_and_notification_bar">Panel obavijesti i statusna traka</string>
   <string name="status_bar_key_position_custom">Prilagođena pozicija tipki</string>
@@ -2560,8 +2560,8 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="status_up_time">Vrijeme aktivnosti</string>
   <string name="status_wifi_mac_address">MAC adresa WLAN-a</string>
   <string name="status_wimax_mac_address">4G MAC adresa</string>
-  <string name="status_write_success">Success!</string>
-  <string name="storage_format">Format</string>
+  <string name="status_write_success">Uspjeli ste!</string>
+  <string name="storage_format">Formatiraj</string>
   <string name="storage_label">Prostor za pohranu</string>
   <string name="storage_low_summary">Neke funkcije sustava, kao što je sinkroniziranje, možda neće ispravno funkcionirati. Pokušajte osloboditi prostor brisanjem stavki ili ih otkvačite, primjerice aplikacije ili medijski sadržaj.</string>
   <string name="storage_low_title">Ponestaje prostora za pohranu</string>
@@ -2577,18 +2577,18 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="storageuse_settings_title">Upotreba pohrane</string>
   <string name="strict_mode">Omogućen strogi način</string>
   <string name="strict_mode_summary">Bljeskanje zaslona kada aplikacije izvršavaju duge operacije na glavnoj niti</string>
-  <string name="sub_activate_failed">Activation failed.</string>
-  <string name="sub_activate_not_supported">Activation not supported</string>
-  <string name="sub_activate_success">Successfully Activated.</string>
-  <string name="sub_deactivate_failed">Deactivation failed.</string>
-  <string name="sub_deactivate_not_supported">Deactivation not supported</string>
-  <string name="sub_deactivate_success">Successfully Deactivated.</string>
+  <string name="sub_activate_failed">Aktivacija nije uspjela.</string>
+  <string name="sub_activate_not_supported">Aktivacija nije podržana</string>
+  <string name="sub_activate_success">Uspješno aktivirano.</string>
+  <string name="sub_deactivate_failed">Deaktivacija nije uspjela.</string>
+  <string name="sub_deactivate_not_supported">Deaktivacija nije podržana</string>
+  <string name="sub_deactivate_success">Uspješno deaktivirano.</string>
   <string name="subs_settings">SUBS Status</string>
   <string name="sum_carrier_select">Odaberite mrežnog operatera</string>
   <string name="summary_divider_text">", "</string>
   <string name="summary_font_size">%1$s</string>
-  <string name="supl_not_set">&lt;Not set&gt;</string>
-  <string name="supplicant_state_label">Supplicant state:</string>
+  <string name="supl_not_set">&lt;Nije postavljeno&gt;</string>
+  <string name="supplicant_state_label">Stanje suplikanta:</string>
   <string name="switch_off_text">Isključeno</string>
   <string name="switch_on_text">Uključeno</string>
   <string name="symbols_not_allowed_for_password">"Zaporka ne može sadržavati simbole"</string>
@@ -2656,7 +2656,7 @@ Googleov pristup sinkronizaciji podataka za mogućnost pristupa kontaktima, sast
   <string name="touch_sensitive_turn_off_confirm">"U redu"</string>
   <string name="touch_sensitive_turn_off_summary">Isključiti također i sprječavanje slučajnog biranja u džepu?</string>
   <string name="touch_sensitive_turn_off_title">Način rada u rukavicama je isključen</string>
-  <string name="touch_sounds_title">Touch sounds</string>
+  <string name="touch_sounds_title">Zvukovi dodirivanja</string>
   <string name="touch_title">Dodir</string>
   <string name="track_frame_time">Profiliraj GPU prikazivanje</string>
   <string name="trackball_settings">Trackball</string>
@@ -2719,20 +2719,20 @@ Googleov pristup sinkronizaciji podataka za mogućnost pristupa kontaktima, sast
   <string name="turn_off_radio">Isključi radio</string>
   <string name="turn_off_security_lock">Isključi zaključavanje zaslona</string>
   <string name="turn_on_radio">Uključi radio</string>
-  <string name="uicc_eject">Unmount UICC storage</string>
-  <string name="uicc_eject_summary">Unmount the UICC storage so you can safely remove it</string>
-  <string name="uicc_format">Erase UICC storage</string>
-  <string name="uicc_format_summary">Erases all data on the UICC storage, such as music and photos</string>
-  <string name="uicc_insert_summary">Insert an UICC storage for mounting</string>
-  <string name="uicc_media_format_button_text">Erase UICC storage</string>
-  <string name="uicc_media_format_desc">Erase the UICC storage? You will lose &lt;b&gt;all&lt;/b&gt; data on the storage!</string>
-  <string name="uicc_media_format_final_desc">"Erase the UICC storage, deleting all files stored there? You can't reverse this action!"</string>
-  <string name="uicc_media_format_gesture_explanation">You need to draw your unlock pattern to confirm that you want to erase the UICC storage.</string>
-  <string name="uicc_media_format_summary">Erases all data on the UICC storage</string>
-  <string name="uicc_media_format_title">Erase UICC storage</string>
-  <string name="uicc_mount">Mount UICC storage</string>
+  <string name="uicc_eject">Isključi UICC memoriju</string>
+  <string name="uicc_eject_summary">Isključite UICC memoriju, tako da je možete ukloniti na siguran način</string>
+  <string name="uicc_format">Izbriši UICC memoriju</string>
+  <string name="uicc_format_summary">Briše sve podatke na UICC memoriji, kao što su glazba i fotografije</string>
+  <string name="uicc_insert_summary">Umetnite UICC memoriju za uključivanje</string>
+  <string name="uicc_media_format_button_text">Izbriši UICC memoriju</string>
+  <string name="uicc_media_format_desc">Izbrisati UICC memoriju? Izgubiti će te &lt;b&gt;all&lt;/b&gt; sve podatke s memorije!</string>
+  <string name="uicc_media_format_final_desc">"Izbrisati UICC memoriju, brisanje svih datoteka pohranjenih na njoj? Ne možete poništiti tu radnju!"</string>
+  <string name="uicc_media_format_gesture_explanation">Morate nacrtati svoj uzorak za otključavanje da potvrdite da želite izbrisati UICC memoriju.</string>
+  <string name="uicc_media_format_summary">Briše sve podatke na UICC memoriji</string>
+  <string name="uicc_media_format_title">Izbriši UICC memoriju</string>
+  <string name="uicc_mount">Učitaj UICC memoriju</string>
   <string name="uicc_mount_summary"/>
-  <string name="uicc_unmount_inform_text">UICC storage will be unmounted.</string>
+  <string name="uicc_unmount_inform_text">UICC memorija će biti isključena.</string>
   <string name="under_keyguard">Na zaključanom zaslonu</string>
   <string name="uninstall_all_users_text">Deinstaliraj za sve korisnike</string>
   <string name="uninstall_text">Deinstaliraj</string>
@@ -2801,24 +2801,24 @@ Googleov pristup sinkronizaciji podataka za mogućnost pristupa kontaktima, sast
   <string name="usage_type_wifi_running">WLAN uključen</string>
   <string name="usb_audio_disable_routing">Onemogući USB audiousmj.</string>
   <string name="usb_audio_disable_routing_summary">Onemogući aut. usmjeravanje na USB audioperiferiju</string>
-  <string name="usb_charging_summary">Lets you disable all data and file transfer connection with computer and put device in charging only mode.</string>
-  <string name="usb_charging_title">Charging</string>
+  <string name="usb_charging_summary">Omogućuje vam prekid povezivanja i prijenos podataka i datoteka s računalom i stavlanja uređaja samo u način rada punjenja.</string>
+  <string name="usb_charging_title">Punjenje</string>
   <string name="usb_connection_category">Poveži kao</string>
-  <string name="usb_eject">Unmount USB storage</string>
-  <string name="usb_eject_summary">Unmount the USB storage so you can safely remove it</string>
-  <string name="usb_format">Erase USB storage</string>
-  <string name="usb_format_summary">Erases all data on the USB storage, such as music and photos</string>
+  <string name="usb_eject">Isključi USB memoriju</string>
+  <string name="usb_eject_summary">Isključite USB memoriju, tako da je možete ukloniti na siguran način</string>
+  <string name="usb_format">Izbriši USB memoriju</string>
+  <string name="usb_format_summary">Briše sve podatke na USB memoriji, kao što su glazba i fotografije</string>
   <string name="usb_host_mode_subtext">Za korištenje igraćih kontrolera i ostalih perifernih uređaja na USB priključku, može smanjiti trajanje baterije </string>
   <string name="usb_host_mode_text">Način USB domaćina</string>
-  <string name="usb_insert_summary">Insert an USB storage for mounting</string>
+  <string name="usb_insert_summary">Umetnite USB memoriju za uključivanje</string>
   <string name="usb_label_installer_cd">Instaliraj alate za prijenos datoteka</string>
-  <string name="usb_media_format_button_text">Erase USB storage</string>
-  <string name="usb_media_format_desc">Erase the USB storage? You will lose &lt;b&gt;all&lt;/b&gt; data on the storage!</string>
-  <string name="usb_media_format_final_desc">"Erase the USB storage, deleting all files stored there? You can't reverse this action!"</string>
-  <string name="usb_media_format_gesture_explanation">You need to draw your unlock pattern to confirm that you want to erase the USB storage.</string>
-  <string name="usb_media_format_summary">Erases all data on the USB storage</string>
-  <string name="usb_media_format_title">Erase USB storage</string>
-  <string name="usb_mount">Mount USB storage</string>
+  <string name="usb_media_format_button_text">Izbriši USB memoriju</string>
+  <string name="usb_media_format_desc">Izbrisati USB memoriju? Izgubiti će te &lt;b&gt;all&lt;/b&gt; sve podatke s memorije!</string>
+  <string name="usb_media_format_final_desc">"Izbrisati USB memoriju, brisanje svih datoteka pohranjenih na njoj? Ne možete poništiti tu radnju!"</string>
+  <string name="usb_media_format_gesture_explanation">Morate nacrtati svoj uzorak za otključavanje da potvrdite da želite izbrisati USB memoriju.</string>
+  <string name="usb_media_format_summary">Briše sve podatke na USB memoriji</string>
+  <string name="usb_media_format_title">Izbriši USB memoriju</string>
+  <string name="usb_mount">Učitaj USB memoriju</string>
   <string name="usb_mount_summary"/>
   <string name="usb_msd_driver_installer_summary">Pribavi upravljačke programe za Windows i OSX</string>
   <string name="usb_msd_driver_installer_title">Disk za instalaciju upravljačkih programa (MSD).</string>
@@ -2828,8 +2828,8 @@ Googleov pristup sinkronizaciji podataka za mogućnost pristupa kontaktima, sast
   <string name="usb_mtp_title">Uređaj za medije (MTP)</string>
   <string name="usb_ptp_summary">Omogućuje vam prijenos fotografija pomoću softvera Kamere i prijenos bilo koje datoteke na računala koja ne podržavaju MTP</string>
   <string name="usb_ptp_title">Kamera (PTP)</string>
-  <string name="usb_sdcard_summary">Lets you transfer media files in the SD card on computer</string>
-  <string name="usb_sdcard_title">Mount SD card</string>
+  <string name="usb_sdcard_summary">Omogućuje prijenos medijskih datoteka sa SD kartice na računalo</string>
+  <string name="usb_sdcard_title">Učitaj SD karticu</string>
   <string name="usb_tethering_active_subtext">Povezano za dijeljenje veze</string>
   <string name="usb_tethering_available_subtext">USB priključen, odaberite za dijeljenje veze</string>
   <string name="usb_tethering_button_text">Dijeljenje veze USB-om</string>
@@ -2838,7 +2838,7 @@ Googleov pristup sinkronizaciji podataka za mogućnost pristupa kontaktima, sast
   <string name="usb_tethering_turnon_subtext">Povežite se radi uključivanja</string>
   <string name="usb_tethering_unavailable_subtext">USB nije priključen</string>
   <string name="usb_title">USB</string>
-  <string name="usb_unmount_inform_text">USB storage will be unmounted.</string>
+  <string name="usb_unmount_inform_text">USB memorija će biti isključena.</string>
   <string name="use_default_tts_settings_summary">Donje zadane postavke nadjačavaju postavke aplikacije</string>
   <string name="use_default_tts_settings_title">Uvijek koristi moje postavke</string>
   <string name="use_location_summary">Dopustiti da Google upotrebljava vašu lokaciju za poboljšanje rezultata pretraživanja i drugih usluga</string>
@@ -2905,7 +2905,7 @@ Riječ možete dodati dodirom na tipku Dodaj (+)"</string>
   <string name="user_exit_guest_title">Uklanjanje gosta</string>
   <string name="user_guest">Gost</string>
   <string name="user_image_choose_photo">Odaberite fotografiju iz Galerije</string>
-  <string name="user_image_photo_selector">Odabir slike</string>
+  <string name="user_image_photo_selector">Odabir fotografije</string>
   <string name="user_image_take_photo">Snimite fotografiju</string>
   <string name="user_info_settings_title">Podaci o korisniku</string>
   <string name="user_list_title">Korisnici &amp; profili</string>
@@ -3045,7 +3045,7 @@ Riječ možete dodati dodirom na tipku Dodaj (+)"</string>
   <string name="vpn_username">Korisničko ime</string>
   <string name="wait_for_debugger">Čekanje na program za otkrivanje pogrešaka</string>
   <string name="wait_for_debugger_summary">Aplikacija čeka priključivanje programa za uklanjanje pogrešaka prije pokretanja</string>
-  <string name="wallpaper_attributions">Wallpapers</string>
+  <string name="wallpaper_attributions">Slike pozadine</string>
   <string name="wallpaper_attributions_values">"Davatelji satelitskih slika:
 ©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
   <string name="wallpaper_desktop">Početni zaslon</string>
@@ -3077,23 +3077,23 @@ Riječ možete dodati dodirom na tipku Dodaj (+)"</string>
   <string name="wifi_advanced_mac_address_title">MAC adresa</string>
   <string name="wifi_advanced_settings_label">IP postavke</string>
   <string name="wifi_advanced_titlebar">Napredni WLAN</string>
-  <string name="wifi_aggressive_handover">Aktivni prijelaz s Wi‑Fi na mob. mrežu</string>
-  <string name="wifi_aggressive_handover_summary">Ako je omogućeno, Wi-Fi će aktivno prebacivati podatkovnu vezu mobilnoj mreži kada je Wi-Fi signal slab.</string>
-  <string name="wifi_allow_scan_with_traffic">Uvijek dopusti slobodno traženje Wi-Fi mreže</string>
-  <string name="wifi_allow_scan_with_traffic_summary">Dopuštanje/blokiranje slobodnog traženja Wi-Fi mreža na temelju količine podatkovnog prometa u sučelju</string>
-  <string name="wifi_and_mobile_skipped_message">UPOZORENJE: ako preskočite Wi‑Fi, telefon neće imati internetsku vezu za početna preuzimanja ili ažuriranja.</string>
-  <string name="wifi_assistant_card_message">Automatski se povežite s dostupnim mrežama pomoću Wi‑Fi Assistanta.</string>
+  <string name="wifi_aggressive_handover">Aktivni prijelaz s WLAN-a na mob. mrežu</string>
+  <string name="wifi_aggressive_handover_summary">Ako je omogućeno, WLAN će aktivno prebacivati podatkovnu vezu mobilnoj mreži kada je WLAN signal slab.</string>
+  <string name="wifi_allow_scan_with_traffic">Uvijek dopusti slobodno traženje WLAN mreže</string>
+  <string name="wifi_allow_scan_with_traffic_summary">Dopuštanje/blokiranje slobodnog traženja WLAN mreža na temelju količine podatkovnog prometa u sučelju</string>
+  <string name="wifi_and_mobile_skipped_message">UPOZORENJE: ako preskočite WLAN, telefon neće imati internetsku vezu za početna preuzimanja ili ažuriranja.</string>
+  <string name="wifi_assistant_card_message">Automatski se povežite s dostupnim mrežama pomoću WLAN Asistenta.</string>
   <string name="wifi_assistant_intro_setup">"Novo!
-Wi‑Fi Assistant"</string>
+WLAN Asistent"</string>
   <string name="wifi_assistant_no_thanks">NE, HVALA</string>
   <string name="wifi_assistant_open_app">OTVORI APLIKACIJU</string>
   <string name="wifi_assistant_setup">POSTAVI</string>
-  <string name="wifi_assistant_title">Wi‑Fi Assistant</string>
-  <string name="wifi_assistant_title_message">%1$s automatski vas povezuje s najboljom dostupnom Wi‑Fi mrežom</string>
-  <string name="wifi_auto_connect">Auto connect</string>
-  <string name="wifi_automatically_manage_summary">Neka %1$s upravlja Wi‑Fi vezom</string>
-  <string name="wifi_automatically_manage_title">Automatski upravljaj Wi‑Fi vezom</string>
-  <string name="wifi_available_title">Connect to WLAN</string>
+  <string name="wifi_assistant_title">WLAN Asistent</string>
+  <string name="wifi_assistant_title_message">%1$s automatski vas povezuje s najboljom dostupnom WLAN mrežom</string>
+  <string name="wifi_auto_connect">Autom. poveži</string>
+  <string name="wifi_automatically_manage_summary">Neka %1$s upravlja WLAN vezom</string>
+  <string name="wifi_automatically_manage_title">Automatski upravljaj WLAN vezom</string>
+  <string name="wifi_available_title">Poveži se na WLAN</string>
   <string name="wifi_avoid_poor_network_detection_summary">Koristi samo mreže s dobrom internetskom vezom</string>
   <string name="wifi_band_24ghz">2.4GHz</string>
   <string name="wifi_band_5ghz">5GHz</string>
@@ -3166,9 +3166,9 @@ Wi‑Fi Assistant"</string>
   <string name="wifi_forget">Zaboravi</string>
   <string name="wifi_frequency">Učestalost</string>
   <string name="wifi_gateway">Pristupnik</string>
-  <string name="wifi_hotspot_checkbox_text">Wi‑Fi žarišna točka</string>
-  <string name="wifi_hotspot_checkbox_text_summary">Koristi mob. vezu za pružanje WiFi mreže</string>
-  <string name="wifi_hotspot_configure_ap_text">Postavljanje Wi‑Fi žar. točke</string>
+  <string name="wifi_hotspot_checkbox_text">WLAN žarišna točka</string>
+  <string name="wifi_hotspot_checkbox_text_summary">Koristi mob. vezu za pružanje WLAN mreže</string>
+  <string name="wifi_hotspot_configure_ap_text">Postavljanje WLAN žar. točke</string>
   <string name="wifi_hotspot_configure_ap_text_summary">AndroidAP WPA2 PSK pokretna Wi-Fi točka</string>
   <string name="wifi_hotspot_connect">POVEŽI</string>
   <string name="wifi_hotspot_message">%1$s zahtijeva prijavu na webu za povezivanje s mrežom.</string>
@@ -3183,7 +3183,7 @@ Wi‑Fi Assistant"</string>
   <string name="wifi_ip_settings_invalid_network_prefix_length">Upišite prefiks mreže duljine između 0 i 32 znaka.</string>
   <string name="wifi_ip_settings_menu_cancel">Odustani</string>
   <string name="wifi_ip_settings_menu_save">"Spremi"</string>
-  <string name="wifi_limit_optimizations_summary">Ograniči bateriju za Wi‑Fi</string>
+  <string name="wifi_limit_optimizations_summary">Ograniči bateriju za WLAN</string>
   <string name="wifi_menu_advanced">Napredno</string>
   <string name="wifi_menu_connect">Poveži s mrežom</string>
   <string name="wifi_menu_forget">Zaboravi mrežu</string>
@@ -3240,8 +3240,8 @@ Wi‑Fi Assistant"</string>
   <string name="wifi_quick_toggle_title">WLAN</string>
   <string name="wifi_remembered">Spremljeno</string>
   <string name="wifi_required_info_text">Da bi se postavljanje dovršilo, vaš uređaj treba pristupiti WLAN mreži. Nakon postavljanja možete izmjenjivati mobilnu podatkovnu vezu i WLAN.</string>
-  <string name="wifi_rssi_threshold_check">Enable RSSI threshold</string>
-  <string name="wifi_rssi_threshold_check_summary">Do not connect to an AP if RSSI is poor</string>
+  <string name="wifi_rssi_threshold_check">Omogući RSSI prag</string>
+  <string name="wifi_rssi_threshold_check_summary">Nemoj spajati na AP, ako je RSSI je loš</string>
   <string name="wifi_save">"Spremi"</string>
   <string name="wifi_saved_access_points_label">Spremljene mreže</string>
   <string name="wifi_saved_access_points_titlebar">Spremljene mreže</string>
@@ -3265,7 +3265,7 @@ Wi‑Fi Assistant"</string>
   <string name="wifi_setting_frequency_band_error">Problem pri postavljanju pojasa frekvencije.</string>
   <string name="wifi_setting_frequency_band_summary">Odredi raspon frekvencije rada</string>
   <string name="wifi_setting_frequency_band_title">Pojas frekvencije WLAN mreže</string>
-  <string name="wifi_setting_on_during_sleep_title">Wi‑Fi ostaje aktivan u mirovanju</string>
+  <string name="wifi_setting_on_during_sleep_title">WLAN ostaje aktivan u mirovanju</string>
   <string name="wifi_setting_sleep_policy_error">Pojavio se problem s promjenom postavke</string>
   <string name="wifi_setting_sleep_policy_title">Zadrži WLAN tijekom mirovanja</string>
   <string name="wifi_settings">WLAN</string>
@@ -3305,7 +3305,7 @@ Dodirnite "&lt;b&gt;Natrag&lt;/b&gt; za povezivanje s nekom drugom WLAN mrežom.
   <string name="wifi_setup_wizard_title">Odaberite WLAN mrežu</string>
   <string name="wifi_setup_wps">Autom. postavljanje (WPS)</string>
   <string name="wifi_share">Podijeli WLAN</string>
-  <string name="wifi_share_action_turn_off">Prestani dijeliti mreže</string>
+  <string name="wifi_share_action_turn_off">Zaustavi dijeljenje mreže</string>
   <string name="wifi_share_action_turn_on">Podijeli WLAN</string>
   <string name="wifi_share_action_turn_on_summary">Prijavite se na vaš Mi Račun radi dijeljenja</string>
   <string name="wifi_share_add">Podijeli moje javne mreže</string>
@@ -3356,7 +3356,7 @@ Postavljanje uređaja može zahtijevati znatnu mrežnu aktivnost."</string>
   <string name="wifi_status_test">WLAN status</string>
   <string name="wifi_stopping">Isključivanje WLAN-a…</string>
   <string name="wifi_subnet_mask">Maska podmreže</string>
-  <string name="wifi_suspend_efficiency_title">Improve efficiency</string>
+  <string name="wifi_suspend_efficiency_title">Poboljšaj učinkovitost</string>
   <string name="wifi_suspend_optimizations">Optimizacija WLAN-a</string>
   <string name="wifi_suspend_optimizations_summary">Minimiziraj potrošnju baterije kad je WLAN uključen</string>
   <string name="wifi_tether_checkbox_text">Prijenosni hotspot</string>
@@ -3454,11 +3454,11 @@ Postavljanje uređaja može zahtijevati znatnu mrežnu aktivnost."</string>
   <string name="zen_mode_from_starred">Samo kontakti sa zvjezdicom</string>
   <string name="zen_mode_important_category">Prioritetni prekidi</string>
   <string name="zen_mode_messages">Poruke</string>
-  <string name="zen_mode_miui_disturb_category">disturb mode</string>
-  <string name="zen_mode_miui_silent_category">silent mode</string>
+  <string name="zen_mode_miui_disturb_category">ne ometaj</string>
+  <string name="zen_mode_miui_silent_category">bešumno</string>
   <string name="zen_mode_option_important_interruptions">Dopusti samo prioritetne prekide</string>
-  <string name="zen_mode_option_miui_silent">Allow miui vibrate interrupt</string>
-  <string name="zen_mode_option_miui_vibrate">Do Not Disturb</string>
+  <string name="zen_mode_option_miui_silent">Dopusti da MIUI prekine vibraciju</string>
+  <string name="zen_mode_option_miui_vibrate">Ne ometaj</string>
   <string name="zen_mode_option_no_interruptions">Ne prekidaj</string>
   <string name="zen_mode_option_off">Uvijek prekidaj</string>
   <string name="zen_mode_option_title">Kada stignu pozivi i obavijesti</string>
