@@ -1,24 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="clir_display_values">
-        <item>Zdana postavka mreže</item>
+        <item>Zadana postavka mreže</item>
         <item>Sakrij broj</item>
         <item>Prikaži broj</item>
-    </string-array>
-    <string-array name="preferred_network_mode_choices">
-        <item>LTE/WCDMA</item>
-        <item>LTE</item>
-        <item>Globalno</item>
-        <item>GSM/WCDMA/LTE</item>
-        <item>CDMA + LTE/EvDo</item>
-        <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>Samo EvDo</item>
-        <item>CDMA bez EvDo-a</item>
-        <item>Automatski CDMA/EvDo</item>
-        <item>Automatski GSM/WCDMA</item>
-        <item>Samo WCDMA</item>
-        <item>Samo GSM</item>
-        <item>Preferirano GSM/WCDMA</item>
     </string-array>
     <string-array name="list_language_entries">
         <item>engleski</item>
@@ -60,12 +45,6 @@
         <item>Normalni</item>
         <item>Dugo</item>
     </string-array>
-	   <string-array name="uplmn_prefer_network_mode_td_choices">
-        <item>GSM</item>
-        <item>TD-SCDMA</item>
-        <item>LTE</item>
-        <item>Trostruki način</item>
-		</string-array>
     <string-array name="uplmn_prefer_network_mode_w_choices">
         <item>GSM</item>
         <item>WCDMA</item>
