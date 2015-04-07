@@ -77,7 +77,7 @@
   <string name="activate_status_desc_wait_for_sms_fail">"Nije bilo moguće primiti SMS aktivacije s poslužitelja"</string>
   <string name="activate_status_desc_wait_for_sms_success">SMS aktivacije s poslužitelja uspješno primljen</string>
   <string name="activate_status_title_activating">Aktivacija SIM kartice</string>
-  <string name="activate_status_title_activating_msim">Aktivacija SIM kartice %s</string>
+  <string name="activate_status_title_activating_msim">Aktivacija SIM karticu %s</string>
   <string name="app_name">Xiaomi Aktivacija</string>
   <string name="error_device_id_message">"Neispravan ID Uređaja: %s
 ID Uređaja mora biti valjana IMEI ili MAC adresa. Bez ID Uređaja, neki računi i cloud značajke neće biti raspoložive."</string>

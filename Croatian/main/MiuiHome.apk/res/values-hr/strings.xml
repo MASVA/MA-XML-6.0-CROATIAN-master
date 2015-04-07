@@ -40,18 +40,17 @@
   <string name="choose_wallpaper">Odaberi sliku pozadine</string>
   <string name="chooser_wallpaper">Odaberi sliku pozadine</string>
   <string name="cloud_app_restore_title">Na čekanju</string>
-  <string name="configure_wallpaper">Postavke</string>
   <string name="confirm_btn_label">U redu</string>
   <string name="current_preview">Pregled</string>
   <string name="current_wallpaper">Trenutna</string>
   <string name="custom_wallpaper_picker">Prilagođeno</string>
   <string name="default_folder_title_game">Igre</string>
-  <string name="default_folder_title_recommend">Razno</string>
+  <string name="default_folder_title_recommend">Više Aplik.</string>
   <string name="default_folder_title_security">Sustav</string>
   <string name="default_folder_title_tools">Alati</string>
   <string name="delete">Izbriši</string>
-  <string name="delete_wallpaper_message">Izbrisati(%1$d) sliku pozadine ?</string>
-  <string name="delete_wallpapers_message">Izbrisati (%1$d) slike pozadine ?</string>
+  <string name="delete_wallpaper_message">Izbrisati sliku pozadine: %1$d?</string>
+  <string name="delete_wallpapers_message">Izbrisati slike pozadine: %1$d?</string>
   <string name="disable">Onemogući</string>
   <string name="disable_wallpaper_scroll">Isključi pomicanje slike</string>
   <string name="edit_folder_title">Uredi naziv mape</string>
@@ -69,7 +68,6 @@
   <string name="failed_to_drop">"Ne mogu premjestiti"</string>
   <string name="failed_to_drop_widget_invalid">Neispravan Widget</string>
   <string name="failed_to_drop_widget_nospace">Na ovom zaslonu više nema mjesta</string>
-  <string name="failed_to_load_image">"Ne mogu učitati sliku"</string>
   <string name="folder_name">Mapa</string>
   <string name="frame_load_failed">"Ne mogu učitati okvir"</string>
   <string name="free_style_apps_title">Odaberi aplikaciju</string>
@@ -147,7 +145,6 @@
   <string name="menu_wallpaper">Slika pozadine</string>
   <string name="menu_workspace_preview">Pregled Početnih zaslona</string>
   <string name="mi_wallpaper">MIUI Trgovina Tema</string>
-  <string name="mtzgadget_missing_text">"Nije predviđeno više, dodajte ponovo"</string>
   <string name="multi_selecting_tips">Da pokupite aplikaciju, dodirnite njenu ikonu</string>
   <string name="online_wallpaper">Online</string>
   <string name="out_of_space">Na ovom zaslonu više nema mjesta.</string>

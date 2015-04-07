@@ -3249,6 +3249,7 @@ WLAN Asistent"</string>
   <string name="wifi_scan_always_available_summary">Dopustiti da Googleova usluga lokacije i druge aplikacije traže mreže, čak i kada je WLAN isključen</string>
   <string name="wifi_scan_always_available_title">Uvijek omogući pretraživanje</string>
   <string name="wifi_scan_always_confirm_allow">Dopusti</string>
+  <string name="wifi_scan_always_confirm_deny">Odbij</string>
   <string name="wifi_scan_always_turnoff_message">Isključite putem opcije Napredno na dodatnom izborniku.</string>
   <string name="wifi_scan_always_turnon_message">"Radi poboljšanja preciznosti lokacije kao i u druge svrhe aplikacija %1$s želi uključiti pregledavanje mreže, čak i kada je Wi-Fi isključen.
 
