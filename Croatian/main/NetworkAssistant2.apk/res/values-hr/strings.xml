@@ -158,11 +158,11 @@ podatkovnu vezu"</string>
   <string name="main_primary_message_traffic_purchase">Morate nadoplatiti bon</string>
   <string name="main_primary_message_traffic_warning">Približavanje ograničenja uporabe podataka</string>
   <string name="main_secondary_message_traffic_detail_leisure">"
-Isklj. Maks.: %1$s preostalo | %2$s iskorišteno"</string>
+Isklj. Maks.: %1$s | %2$s iskorišteno"</string>
   <string name="main_secondary_message_traffic_detail_normal">"
-Maks.: %1$s%2$s preostalo | %3$s iskorišteno"</string>
-  <string name="main_secondary_message_traffic_over">prekoračeno</string>
-  <string name="main_secondary_message_traffic_remain">preostalo</string>
+Maks.: %1$s%2$s | %3$s iskorišteno"</string>
+  <string name="main_secondary_message_traffic_over">"prekoračeno ""</string>
+  <string name="main_secondary_message_traffic_remain">"preostalo ""</string>
   <string name="main_secondary_message_traffic_used_leisure">%s Isklj. maks. podataka iskorišteno</string>
   <string name="main_secondary_message_traffic_used_noleisure">%s maks.podataka iskorišteno | nema isklj. maks. podataka preostalo</string>
   <string name="main_secondary_message_traffic_used_normal">%s maks.podataka iskorišteno</string>
@@ -293,6 +293,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg davatelja mobilnih
   <string name="read_number">86 predmeta</string>
   <string name="read_unit">" predmeta"</string>
   <string name="repair">Obnovi</string>
+  <string name="repair_loading_text">Učitavanje…</string>
   <string name="replace_dns">Zamjeni DNS automatski</string>
   <string name="right_precent">100%</string>
   <string name="roaming_not_start_body">Aplikacije na popisu dopuštenih će se moći povezati na podatkovne usluge u međ. roamingu.</string>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accept_modify_call_request_prompt">Prihvatiti zahtjev promjene poziva?</string>
-  <string name="accessibility_bluetooth_headset_selected">Bluetooth headset selected</string>
+  <string name="accessibility_bluetooth_headset_selected">Bluetooth slušalica odbrana</string>
   <string name="accessibility_call_muted">Poziv utišan.</string>
   <string name="accessibility_call_put_on_hold">Poziv stavljen na čekanje.</string>
   <string name="accessibility_call_removed_from_hold">Poziv vraćen s čekanja.</string>
@@ -30,7 +30,7 @@
   <string name="alert_dialog_no">Ne</string>
   <string name="alert_dialog_ok">U redu</string>
   <string name="alert_dialog_yes">Da</string>
-  <string name="antispam_marked_count">%1$d oodbijeno</string>
+  <string name="antispam_marked_count">%1$d odbijeno</string>
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Nepoznat broj</string>
   <string name="antispam_provider">Identificiran od %s</string>
