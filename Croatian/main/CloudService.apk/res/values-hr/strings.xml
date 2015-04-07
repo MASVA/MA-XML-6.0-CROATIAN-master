@@ -28,12 +28,22 @@ Da dobijete više prostora za pohranu, posjetite mi.com/micloud."</string>
   <string name="buy_space_sulotion_title">Kupite prostor za pohranu</string>
   <string name="calendar_sync">Kalendar</string>
   <string name="click_to_enabled">Dodirni za sinkr.</string>
+  <string name="close_cloud_app_backup_cancel">Odustani</string>
+  <string name="close_cloud_app_backup_close">Zatvori</string>
+  <string name="close_cloud_app_backup_local_backup">Napravi Sig. kopiju</string>
+  <string name="close_cloud_app_backup_message">Cloud App Backup Usluga će biti zaustavljena i podaci će biti izbrisani 1. svibnja 2015, molimo Vas, kopirajte vaše podatke u najkraćem mogućem roku.</string>
+  <string name="close_cloud_app_backup_notification_message">Dodirnite za detalje</string>
+  <string name="close_cloud_app_backup_notification_title">Prilagodi obavijest Mi Cloud Usluge</string>
+  <string name="close_cloud_app_backup_title">Zatvori obavijest</string>
+  <string name="cloud_app_back_up_quit_notification_content1">"Mi Cloud App Backup Usluga će biti obustavljena za ne-MIUI aplikacije. Srodni podaci drugih aplikacija će biti izbrisani od 1. svibnja 2015. Da izbjegnete gubitak važnih informacija, napravite sada lokalnu sig. kopiju vaših podataka aplikacija."</string>
+  <string name="cloud_app_back_up_quit_notification_content2">To neće utjecati na Kontakte, Poruke, Galeriju i druge aplikacije sustava MIUI.</string>
+  <string name="cloud_app_back_up_quit_notification_content3">Napravi Sig. kopiju podataka aplikacija</string>
   <string name="cloud_back_up_button_ok">Prisilno zaustavi</string>
   <string name="cloud_back_up_close_info">Dodirni za izradu Sig. kopije</string>
   <string name="cloud_back_up_dialog_content">"Zaustaviti izradu Sig. kopije u tijeku? Ako zaustavite sada, nećete biti u mogućnosti koristiti ovu Sig. kopiju za vraćanje aplikacija."</string>
   <string name="cloud_back_up_interval_long">7 dana</string>
   <string name="cloud_back_up_interval_short">1 sat</string>
-  <string name="cloud_back_up_network_unavailable">"Ne mogu se ukloniti. Povežite se na WLAN i pokušajte ponovno."</string>
+  <string name="cloud_back_up_network_unavailable">"Ne mogu ukloniti. Povežite se na WLAN i pokušajte ponovno."</string>
   <string name="cloud_back_up_open_info">"Napravi Sig. kopiju Početnog zaslona i aplikacija svakih %1$s kada je povezano na WLAN
 Zadnja Sig. kopija: %2$s"</string>
   <string name="cloud_back_up_open_info_no_backuptime">Napravi Sig. kopiju Početnog zaslona i aplikacija svakih %1$s kada je povezano na WLAN</string>
