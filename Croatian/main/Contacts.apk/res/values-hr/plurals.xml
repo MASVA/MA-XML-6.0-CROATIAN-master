@@ -9,11 +9,11 @@
         <item quantity="one">1 kontakt</item>
     </plurals>
     <plurals name="listFoundAllContacts">
-        <item quantity="other">"Pronađeno kontakata (%d)"</item>
+        <item quantity="other">"Pronađeno (%d) kontakata"</item>
         <item quantity="one">"1 pronađen"</item>
     </plurals>
     <plurals name="searchFoundContacts">
-        <item quantity="other">"Pronađeno kontakata (%d)"</item>
+        <item quantity="other">"Pronađeno (%d) kontakata"</item>
         <item quantity="one">"1 pronađen"</item>
     </plurals>
     <plurals name="merge_info">
@@ -33,7 +33,7 @@
         <item quantity="one">Broj osoba (%1$d)</item>
     </plurals>
     <plurals name="group_list_num_numbers_in_group">
-        <item quantity="other">Ukupno brojeva (%1$d)</item>
+        <item quantity="other">Ukupno (%1$d) brojeva</item>
         <item quantity="one">%1$d broj</item>
     </plurals>
     <plurals name="notification_voicemail_title">
@@ -41,7 +41,7 @@
         <item quantity="one">"Govorna pošta"</item>
     </plurals>
     <plurals name="export_sim_contacts_dialog_message">
-        <item quantity="other">SIM kartica može pohraniti ovoliko kontakata (%d).</item>
+        <item quantity="other">SIM kartica može pohraniti (%d) kontakata.</item>
         <item quantity="one">SIM kartica može pohraniti(%d) kontakt.</item>
     </plurals>
     <plurals name="confirm_delete_sim_entry_miui">
@@ -81,15 +81,15 @@
         <item quantity="one">1 nedavni kontakt</item>
     </plurals>
     <plurals name="group_add_success_toast">
-        <item quantity="other">Dodano kontakata (%1$d)</item>
+        <item quantity="other">Dodano (%1$d) kontakata</item>
         <item quantity="one">%1$d kontakt dodan</item>
     </plurals>
     <plurals name="export_sim_contact_finish_success">
-        <item quantity="other">Kopirano kontakata (%d)</item>
+        <item quantity="other">Kopirano (%d) kontakata</item>
         <item quantity="one">Kopiran %d kontakt</item>
     </plurals>
     <plurals name="btn_delete_multi_contacts">
-        <item quantity="other">Izbrisati kontakte (%d)</item>
+        <item quantity="other">Izbrisati (%d) kontakte</item>
         <item quantity="one">Izbriši kontakt</item>
     </plurals>
     <plurals name="smart_group_member_count">
@@ -97,11 +97,11 @@
         <item quantity="one">1 osoba</item>
     </plurals>
     <plurals name="device_import_done_toast">
-        <item quantity="other">Uvezeno kontakata (%1$d)</item>
+        <item quantity="other">Uvezeno (%1$d) kontakata</item>
         <item quantity="one">%1$d kontak uvezen</item>
     </plurals>
 	<plurals name="batch_delete_msg">
-        <item quantity="other">Izbrisati kontakte (%d)?</item>
+        <item quantity="other">Izbrisati (%d) kontakata?</item>
         <item quantity="one">Izbrisati %d kontakt?</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
@@ -110,7 +110,7 @@
         <item quantity="one">%1$d odabran</item>
     </plurals>
 	<plurals name="callNoAnswerTimeFormat">
-        <item quantity="other">Zvoni ovoliko puta (%d)</item>
-        <item quantity="one">Zvoni ovoliko puta (%d)</item>
+        <item quantity="other">Zvoni (%d) puta </item>
+        <item quantity="one">Zvoni (%d) puta</item>
     </plurals>
 </resources> 

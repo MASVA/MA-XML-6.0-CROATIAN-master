@@ -702,6 +702,7 @@
   <string name="toast_network_eror">"Ne mogu se povezati na mrežu"</string>
   <string name="toast_network_switch">Ova se aplikacija može povezati na internet</string>
   <string name="toast_removed_from_white_list">" je uklonjen iz iznimaka"</string>
+  <string name="toast_resolve_apk_error">Rješavanje pogreške Apk</string>
   <string name="toast_root_apply_accept">ROOT pristup odobren za %s</string>
   <string name="toast_root_apply_reject">ROOT pristup odbijen za %s</string>
   <string name="toast_shortcut_install">Prečac stavljen na Početni zaslon</string>

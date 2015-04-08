@@ -13,7 +13,7 @@
   <string name="activity_title_confirm_add_detail">Dodavanje kontaktu</string>
   <string name="activity_title_contacts_filter">"Kontakti za prikaz"</string>
   <string name="activity_title_settings">Postavke</string>
-  <string name="addPeopleToGroup">Da biste dodali neke članove, uredite grupu.</string>
+  <string name="addPeopleToGroup">Da dodate neke članove, uredite grupu.</string>
   <string name="add_2sec_pause">"Dodaj pauzu od 2 sek."</string>
   <string name="add_account">"Dodaj račun"</string>
   <string name="add_blacklist">Blokiraj</string>
