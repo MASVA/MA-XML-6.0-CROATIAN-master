@@ -92,6 +92,7 @@
   <string name="call_recording_notification_title_error">"Ne mogu snimiti poziv."</string>
   <string name="call_settings">Postavke poziva</string>
   <string name="call_title_redialing_with_times">%d puta ponovno pozvano</string>
+  <string name="call_title_redialing_with_times_miui">%d puta ponovno pozvano</string>
   <string name="caller_manage_header">Konferencijski poziv %s</string>
   <string name="calling_via_template">Pozivanje putem %s</string>
   <string name="cancel">Cancel</string>
@@ -197,7 +198,6 @@
   <string name="display_name">DisplayName</string>
   <string name="display_name_summary">&lt;Isto kao i korisničko ime&gt;</string>
   <string name="display_name_title">Prikaži ime</string>
-  <string name="domain_address">SipDomena</string>
   <string name="domain_address_title">Poslužitelj</string>
   <string name="doneButton">Gotovo</string>
   <string name="dtmf_tone_enable_title">Zvukovi tipkovnice</string>
@@ -247,6 +247,7 @@
   <string name="eo_enable">Mogućnosti zapošljavanja omogućene</string>
   <string name="error_updating_title">Pogreška postavki poziva</string>
   <string name="exception_error">Pogreška Mreže ili SIM kartice.</string>
+  <string name="fake_phone_activity_infoText_text">Dolazni broj telefona</string>
   <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
   <string name="fake_phone_activity_placeCall_text">Lažan Dolazni Poziv</string>
   <string name="fdn">FDN lista</string>
@@ -304,6 +305,16 @@
   <string name="ivr_menu_dialing_msg_no_mute">Idite na odabranu uslugu…[Automatsko ispravljanje pogrešaka je omogućeno]</string>
   <string name="ivr_menu_list_sub_menu_count_format">Pritisnite %s</string>
   <string name="ivr_menu_list_title">Glasovni izbornik</string>
+  <string name="jeejen_answer_call_text">Primanje poziva</string>
+  <string name="jeejen_card_title_call_cancel">Otkaži poziv</string>
+  <string name="jeejen_card_title_call_ended">Poziv završen</string>
+  <string name="jeejen_card_title_dialing">Biranje</string>
+  <string name="jeejen_card_title_in_call"/>
+  <string name="jeejen_card_title_incoming_call">Dolazni poziv</string>
+  <string name="jeejen_card_title_on_hold"/>
+  <string name="jeejen_end_call_text">Završi poziv</string>
+  <string name="jeejen_reject_call_text">Odbij</string>
+  <string name="jeejen_toggle_dialpad_text">Tipkovnica</string>
   <string name="labelCDMAMore">CDMA postavke poziva</string>
   <string name="labelCF">Prosljeđivanje poziva</string>
   <string name="labelCFB">Proslijedi tokom zauzeća</string>
@@ -323,6 +334,7 @@
   <string name="list_language_summary">Odaberite jezik vijesti</string>
   <string name="list_language_title">Jezik</string>
   <string name="livetalk_provider_info">Pruža vam %s</string>
+  <string name="livetalk_waiting">Čekanje...</string>
   <string name="load_networks_progress">Pretraživanje…</string>
   <string name="local_disable">Lokalne vijesti onemogućene</string>
   <string name="local_enable">Lokalne vijesti omogućene</string>
@@ -553,6 +565,7 @@ Pokušajte ponovo ili se obratite službi za korisnike za više opcija."</string
   <string name="requesting_unlock">Zahtjev za otključavanje mreže…</string>
   <string name="reset_my_choice_hint">Možete promijeniti svoj zadani račun za internetske pozive u Postavke &gt; Postavke poziva &gt; Postavke internet poziva &gt; Računi.</string>
   <string name="respond_via_sms_canned_response_1">"Žao mi je, ne mogu javiti na telefon. Nazovem te kasnije."</string>
+  <string name="respond_via_sms_canned_response_1_miui">"Žao mi je, ne mogu javiti na telefon. Nazovem te kasnije."</string>
   <string name="respond_via_sms_canned_response_2">"Nazovem te kasnije."</string>
   <string name="respond_via_sms_canned_response_3">"Nazvat ću te kasnije."</string>
   <string name="respond_via_sms_canned_response_4">"Stvarno sam zauzet. Nazovem te kasnije."</string>
@@ -586,6 +599,7 @@ Pokušajte ponovo ili se obratite službi za korisnike za više opcija."</string
   <string name="send_keepalive">SendKeepAlive</string>
   <string name="send_keepalive_title">Pošalji keep-alive</string>
   <string name="separate_from_conference">Odvoji poziv</string>
+  <string name="separate_from_conference_miui">Odvoji poziv</string>
   <string name="set_primary">Postavi primarno</string>
   <string name="set_primary_summary">Koristi se za odlazne pozive</string>
   <string name="set_primary_title">Postavi kao primarni račun</string>
@@ -599,6 +613,7 @@ Pokušajte ponovo ili se obratite službi za korisnike za više opcija."</string
   <string name="sip_account_list">Računi za internet pozivanje</string>
   <string name="sip_accounts">Računi za internet pozivanje (SIP)</string>
   <string name="sip_accounts_title">Računi</string>
+  <string name="sip_always_send_keepalive">Uvijek pošalji</string>
   <string name="sip_call_options_entry_1">Za sve pozive kada je mreža dostupna</string>
   <string name="sip_call_options_entry_2">Samo za internet pozive</string>
   <string name="sip_call_options_entry_3">Pitaj za svaki poziv</string>
