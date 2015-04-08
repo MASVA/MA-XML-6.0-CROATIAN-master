@@ -2357,6 +2357,7 @@ Da biste upotrebljavali prikvačivanje zaslona:
   <string name="search_language">jezik</string>
   <string name="search_launcher">Pokretač</string>
   <string name="search_led">led</string>
+  <string name="search_menu">Pretražite</string>
   <string name="search_network">mreža</string>
   <string name="search_power_mode">način rada; performanse; prioritetni nastup; performanse; normalan; konvencionalan; zadani; balansirano; ušteda; ušteda energije; performanse; energija</string>
   <string name="search_privacy">privatnost</string>
