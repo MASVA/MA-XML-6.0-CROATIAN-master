@@ -144,7 +144,7 @@ Za uključivanje ove značajke, idite na Postavke &gt; Dodatne postavke &gt; Tip
   <string name="status_bar_toggle_paper_mode">Način čitanja</string>
   <string name="status_bar_toggle_power_mode">Performanse</string>
   <string name="status_bar_toggle_privacy_mode">Gost</string>
-  <string name="status_bar_toggle_quiet_mode">Ne smetaj</string>
+  <string name="status_bar_toggle_quiet_mode">Ne ometaj</string>
   <string name="status_bar_toggle_reboot">Ponovno pokretanje</string>
   <string name="status_bar_toggle_rotate">Rotacija</string>
   <string name="status_bar_toggle_screen_button">Gumbi</string>
