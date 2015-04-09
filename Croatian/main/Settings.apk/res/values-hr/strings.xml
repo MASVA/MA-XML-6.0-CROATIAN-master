@@ -2287,7 +2287,7 @@ Ova postavka utječe na sve korisnike na ovom uređaju."</string>
   <string name="screen_paper_mode_turn_off">Isključeno</string>
   <string name="screen_paper_mode_turn_on">Uključeno</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Ne pitaj</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Slažem se & Nastavi</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Slažem se i Nastavi</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Da se ažurira popis aplikacija koje mogu koristiti način čitanja, potrebno je povezati se na mrežu. Slažete li se?</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Uvjeti i Odredbe</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Ažuriraj popis aplikacija koje koriste načina čitanja preko mreže</string>
