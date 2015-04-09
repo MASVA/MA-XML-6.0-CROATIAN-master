@@ -310,11 +310,6 @@
   <string name="dialpad_pound_number">\#</string>
   <string name="dialpad_star_letters"/>
   <string name="dialpad_star_number">*</string>
-  <string name="dial_emergency_empty_error">Poziv nije upućen. Birajte broj hitne službe!</string>
-  <string name="dial_emergency_error">Poziv nije upućen. %s nije broj za hitne pozive!</string>
-  <string name="dial_pad_autocomplete">Samodovršavanje biranja brojeva</string>
-  <string name="dial_related_setting_catory">Biranje</string>
-  <string name="dialog_network_priority_title">Prioritet</string>
   <string name="disable">Isključi</string>
   <string name="disable_all_cf">Isključi sve značajke preusmjeravanja poziva</string>
   <string name="disable_cfb_forbidden">Vaš davatelj usluga ne podržava onemogućavanje preusmjeravanja poziva ako je vaš telefon zauzet.</string>
