@@ -21,12 +21,12 @@
     <string-array name="prefEntries_autoAdvance">
         <item>Novije poruke</item>
         <item>Starije poruke</item>
-        <item>Popis razgovora</item>
+        <item>Dolazna pošta</item>
     </string-array>
     <string-array name="prefSummaries_autoAdvance">
         <item>Prikaz novijeg razgovora nakon brisanja</item>
         <item>Prikaz starijeg razgovora nakon brisanja</item>
-        <item>Prikaz popisa razgovora nakon brisanja</item>
+        <item>Prikaz dolazne pošte nakon brisanja</item>
     </string-array>
     <string-array name="prefEntries_removal_action">
         <item>Prikaži samo arhiviranje</item>

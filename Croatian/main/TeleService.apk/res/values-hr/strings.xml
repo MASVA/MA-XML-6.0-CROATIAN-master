@@ -12,7 +12,6 @@
   <string name="administrative_disable">Administracija je isključena</string>
   <string name="administrative_enable">Administracija je uključena</string>
   <string name="advanced_settings">Izborne postavke</string>
-  <string name="advanced_settings_container">napredne postavke</string>
   <string name="advanced_settings_hide">▽ Dodirnite kako bi sakrili sve</string>
   <string name="advanced_settings_show">▷ Dodirnite da biste prikazali sve</string>
   <string name="advertisements_disable">Oglašavanje je isključeno</string>
@@ -253,10 +252,8 @@
   <string name="deactivate_all">Otkaži sve</string>
   <string name="default_call_type">CSVoice</string>
   <string name="default_notification_description">Zadani zvuk (%1$s)</string>
-  <string name="default_port">5060</string>
   <string name="default_preference_summary">&lt;Nije postavljeno&gt;</string>
   <string name="default_sim_setting">Zadane SIM postavke kao:</string>
-  <string name="default_transport">UDP</string>
   <string name="delete">Izbriši</string>
   <string name="deleteAllSimEntries">Izbriši sve kontakte sa SIM kartice</string>
   <string name="deleteSimContacts">Brisanje kontakata…</string>
@@ -266,12 +263,12 @@
   <string name="description_dial_button">biraj</string>
   <string name="description_dialpad_overflow">Više opcija</string>
   <string name="description_image_button_eight">osam</string>
-  <string name="description_image_button_five">peť</string>
+  <string name="description_image_button_five">pet</string>
   <string name="description_image_button_four">četiri</string>
   <string name="description_image_button_nine">deveť</string>
   <string name="description_image_button_one">jedan</string>
   <string name="description_image_button_plus">plus</string>
-  <string name="description_image_button_pound">libra</string>
+  <string name="description_image_button_pound">ljestve</string>
   <string name="description_image_button_seven">sedam</string>
   <string name="description_image_button_six">šest</string>
   <string name="description_image_button_star">zvijezda</string>
@@ -334,7 +331,7 @@
   <string name="emergency_call_area_code_edit_dialog_button">Poziv</string>
   <string name="emergency_call_area_code_edit_dialog_hint">Unesite pozivni broj</string>
   <string name="emergency_enable_radio_dialog_message">Uključivanje radija…</string>
-  <string name="emergency_enable_radio_dialog_retry">Izvan područja usluge, ponovni pokušaj...</string>
+  <string name="emergency_enable_radio_dialog_retry">Izvan područja usluge, ponovni pokušaj…</string>
   <string name="emergency_enable_radio_dialog_title">Hitan poziv</string>
   <string name="empty_alert">"Polje %s obavezno je i ne može ostati prazno."</string>
   <string name="empty_networks_list">Nije pronađena mreža.</string>
@@ -612,9 +609,9 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="network_lte">LTE (preporučeno)</string>
   <string name="network_message">Mrežna poruka</string>
   <string name="network_query_error">Pogreška tijekom pretraživanja mreža.</string>
-  <string name="network_settings_auto_select_title">Mrežna veza</string>
-  <string name="network_settings_automatically_option">Automatski odaberi željenu mrežu (%s)</string>
-  <string name="network_settings_confirm_message">Mreža je nedostupna.</string>
+  <string name="network_settings_auto_select_title">Zatvori Autom. odabir</string>
+  <string name="network_settings_automatically_option">Autom. odaberi željenu mrežu (%s)</string>
+  <string name="network_settings_confirm_message">Mreža je možda nedostupna, jeste li sigurni?</string>
   <string name="network_settings_data_connected_change">Morate isključiti mobilne podatke kod prebacivanja na drugu mrežu.</string>
   <string name="network_settings_duringcall">"Radnja nije dozvoljena tijekom poziva"</string>
   <string name="network_settings_forbidden">%s (zabranjeno)</string>
@@ -696,7 +693,7 @@ Koristiti će se željena mreža umjesto toga."</string>
   <string name="ota_hfa_activation_dialog_message">"Telefon aktivira vašu podatkovnu mobilnu uslugu.
 
 To može potrajati do 5 minuta."</string>
-  <string name="ota_hfa_activation_title">Aktivacija...</string>
+  <string name="ota_hfa_activation_title">Aktivacija…</string>
   <string name="ota_listen">Slijedite govorne upute sve dok ne čujete da je aktivacija dovršena.</string>
   <string name="ota_next">Dalje</string>
   <string name="ota_progress">Pričekajte dok ne završi programiranje vašeg telefona.</string>
@@ -771,7 +768,6 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="place_a_call3">Subscription 3</string>
   <string name="pocket_mode_summary">Automatski zaključaj kada se stavi u džep</string>
   <string name="pocket_mode_title">Spriječite džepna biranja</string>
-  <string name="port">Port</string>
   <string name="port_title">Broj Porta</string>
   <string name="preference_auto_ip_summary_disable">Isključeno</string>
   <string name="preference_auto_ip_summary_on">"IP dav. usluga: %s"</string>

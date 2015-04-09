@@ -80,9 +80,8 @@ Zadnja Sig. kopija: %2$s"</string>
   <string name="find_device_disabled_title">"Pronađi Uređaj" isključeno</string>
   <string name="find_device_disabling">Isključivanje…</string>
   <string name="find_device_dspt">Locirajte, zaključajte, ili resetiratjte vaš uređaj na daljinu</string>
-  <string name="find_device_dspt_provision">"Pronađi Uređaj
-   
-Pronađite, zaključajte, ili resetirajte vaš uređaj na  "</string>
+  <string name="find_device_dspt_provision">"Ako izgubite svoj uređaj, možete ići na %s za pronalaženje, zaključavanje, ili ga poništiti. 
+ Možete uključiti/isključiti tu značajku bilo kada u Postavkama."</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
   <string name="find_device_dspt_provision_3">. Možete uključiti/isključiti tu značajku bilo kada u Postavkama.</string>
@@ -93,9 +92,11 @@ Pronađite, zaključajte, ili resetirajte vaš uređaj na  "</string>
   <string name="find_device_noise_title">Zvuk lociranja uređaja</string>
   <string name="find_device_notice_p1">Idite na</string>
   <string name="find_device_notice_p2">i.mi.com</string>
-  <string name="find_device_notice_p3">"da pronađete, zaključate, ili obnovite svoj uređaj na daljinu.
-Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za ponovno aktiviranje ovu značajku."</string>
-  <string name="find_device_send_sms_alert">Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za ponovno aktiviranje ovu značajku.</string>
+  <string name="find_device_notice_p3">"da pronađete, zaključate, ili poništite svoj uređaj na daljinu.
+Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za ponovno aktiviranje ove značajke."</string>
+  <string name="find_device_send_sms_alert">"
+  
+Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za ponovno aktiviranje ove značajke."</string>
   <string name="find_device_status_ok">Pronađite svoj ureðaj s bilo kojeg mjesta na i.mi.com</string>
   <string name="find_device_status_ok_international">Pronađite svoj ureðaj s bilo kojeg mjesta na www.mi.com/micloud</string>
   <string name="find_device_stop_noise">Dodirnite U redu za utišavanje</string>
@@ -260,8 +261,13 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="sub_sync_item_sms_title_wifi_only">Sinkronizacija MMS-a samo preko WLAN-a</string>
   <string name="success_upgraded_space">%s dodano</string>
   <string name="sync_dspt">Sinkr.</string>
-  <string name="sync_dspt_entrance_provision">"Sinkronizirajte vaše fotografije, kontakte i poruke, ili locirajte uređaj."</string>
+  <string name="sync_dspt_entrance_provision">"Sinkronizirajte vaše fotografije, kontakte, povijest poziva i poruke između svih vaših uređaja. Pristupite stavkama sinkronizacije s bilo kojeg preglednika na %s."</string>
   <string name="sync_dspt_entrance_provision_2">Saznajte više</string>
+  <string name="sync_dspt_entrance_provision_confirm_close">"Ne koristi"</string>
+  <string name="sync_dspt_entrance_provision_confirm_content">"MIUI aplikacijama je Mi Cloud potreban za izradu sig. kopije fotografija, kontakata, bilješki i još mnogo toga. Mi Cloud je besplatan i spreman za korištenje dok kažete MIUI ADRIA."</string>
+  <string name="sync_dspt_entrance_provision_confirm_open">Koristi Mi Cloud</string>
+  <string name="sync_dspt_entrance_provision_confirm_title">"Ne možete koristiti Mi Cloud?"</string>
+  <string name="sync_dspt_entrance_provision_skip">&lt;u&gt;Preskoči ovaj korak&lt;/u&gt;</string>
   <string name="sync_dspt_provision">"Sinkronizacija
 Sinkronizirajte vaše fotografije, kontakte, bilješke, i više između svih vaših uređaja ili im pristupite na "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
@@ -300,7 +306,7 @@ Sinkronizirajte vaše fotografije, kontakte, bilješke, i više između svih va�
   <string name="user_agreement">Korisnički Sporazum</string>
   <string name="user_agreement_p6">"
   
-  Vaše korištenje ove značajke podliježe  "</string>
+Korištenjem ove usluge, slažete se s "</string>
   <string name="user_agreement_p7">"Mi Cloud Uvjetima pružanja usluge"</string>
   <string name="user_agreement_p8">.</string>
   <string name="user_agreement_title">"Mi Cloud Uvjeti pružanja usluge"</string>

@@ -216,4 +216,8 @@ Povucite dolje za zaključavanje"</string>
   <string name="user_guide_for_notification">Kliznite prema dolje jednim prstom radi prikaza panela obavijesti</string>
   <string name="user_guide_for_toggle">Popis prečaca je moguće pomicati vodoravno</string>
   <string name="user_guide_for_toggle_list">Upravljaj prečacima</string>
+  <string name="vpn_text">Dodirni za prikaz postavki.</string>
+  <string name="vpn_text_long">Povezano na %s. Dodirni za prikaz detalja.</string>
+  <string name="vpn_title">VPN aktiviran</string>
+  <string name="vpn_title_long">Povezivanje na VPN koristeći %s</string>
 </resources>

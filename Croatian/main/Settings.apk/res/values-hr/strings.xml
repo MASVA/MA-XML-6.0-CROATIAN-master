@@ -694,6 +694,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="controls_label">Kontrole</string>
   <string name="controls_subtitle">Podesi potrošnju energije</string>
   <string name="copyright_title">Autorska prava</string>
+  <string name="country_name">%s (sustav)</string>
   <string name="create">Izradi</string>
   <string name="credential_storage_type">Vrsta pohrane</string>
   <string name="credential_storage_type_hardware">Hardverska</string>
@@ -1316,6 +1317,7 @@ Ako je tekst vašeg sustava još uvijek premalen, pokušajte koristiti "</string
   <string name="input_settings">Postavke unosa</string>
   <string name="install_all_warning">Vaše uređaj i osobni podaci izloženiji su napadima aplikacija iz nepoznatih izvora. Prihvaćate isključivu odgovornost za svu štetu nastalu na uređaju ili gubitak podataka uzrokovan upotrebom tih aplikacija.</string>
   <string name="install_applications">Nepoznati izvori</string>
+  <string name="install_preinstall_app">Učitavanje aplikacija…</string>
   <string name="install_applications_title">Dopusti sve izvore aplikacija</string>
   <string name="install_text">"Instaliraj"</string>
   <string name="install_unknown_applications">Dopustite instalaciju aplikacija iz nepoznatih izvora</string>
@@ -1422,6 +1424,7 @@ Ako je tekst vašeg sustava još uvijek premalen, pokušajte koristiti "</string
   <string name="local_backup_section_summary">Sig. kopija postavki sustava, detalja računa, i aplikacija</string>
   <string name="local_backup_section_title">Lokalna pohrana</string>
   <string name="locale_default">Zadano</string>
+  <string name="locale_settings">Lokalno</string>
   <string name="location_access_off">Isklj.</string>
   <string name="location_access_on">Uklj.</string>
   <string name="location_access_summary">Omogućite da aplikacije koje su tražile vaše dopuštenje upotrebljavaju informacije o vašoj lokaciji</string>
@@ -2275,12 +2278,20 @@ Ova postavka utječe na sve korisnike na ovom uređaju."</string>
   <string name="screen_on_proximity_sensor_summary">Automatski zaključaj kada se stavi u džep</string>
   <string name="screen_on_proximity_sensor_title">Spriječi slučajno biranje u džepu</string>
   <string name="screen_optimize">Kontrast</string>
+  <string name="screen_paper_mode_adjust_level">Prilagodi efekat Načina čitanja</string>
+  <string name="screen_paper_mode_apps_loading">Učitavanje…</string>
   <string name="screen_paper_mode_apps_title">Koristi Način čitanja za ove aplikacije</string>
   <string name="screen_paper_mode_off_apps_title">"Nemoj koristiti Način čitanja za sljedeće aplikacije"</string>
   <string name="screen_paper_mode_summary">"Smanji odsjaj pozadine"</string>
   <string name="screen_paper_mode_title">Način čitanja</string>
   <string name="screen_paper_mode_turn_off">Isključeno</string>
   <string name="screen_paper_mode_turn_on">Uključeno</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Ne pitaj</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Slažem se & Nastavi</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Da se ažurira popis aplikacija koje mogu koristiti način čitanja, potrebno je povezati se na mrežu. Slažete li se?</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Uvjeti i Odredbe</string>
+  <string name="screen_paper_mode_update_white_pkg_list_summary">Ažuriraj popis aplikacija koje koriste načina čitanja preko mreže</string>
+  <string name="screen_paper_mode_update_white_pkg_list_title">Popis ažuriranja mreže</string>
   <string name="screen_pinning_description">"Kad je prikvačivanje zaslona uključeno, možete zadržati trenutačan zaslon u prednjem planu dok ga ne otkvačite.
 
 Da biste upotrebljavali prikvačivanje zaslona:
@@ -2543,6 +2554,7 @@ Preostalo pokušaja:"</string>
   <string name="sim_status_title">Status SIM-a</string>
   <string name="simulate_color_space">Simuliraj prostor boja</string>
   <string name="skip_label">Preskoči</string>
+  <string name="skip_lock_screen_confirm_msg">Sljedeće značajke će biti onemogućene za zaključavanje zaslona: obavijesti, kontrole sviranje glazbe, Povucite lijevo za Kameru i Povucite desno za Telefon.</string>
   <string name="skip_step">Preskoči</string>
   <string name="slot_name">SIM %d</string>
   <string name="slot_status_title">IMEI podaci</string>

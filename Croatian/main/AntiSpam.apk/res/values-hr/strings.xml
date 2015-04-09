@@ -47,9 +47,9 @@
   <string name="address_choose_hint">%1$s, %2$s i %3$d ostale lokacije</string>
   <string name="addwhitelist">Dodaj u iznimke</string>
   <string name="all_address_choose_hint">Svi brojevi u ovoj pokrajini</string>
-  <string name="antispam_notificaiton_type_show_all">Pokaži kada je bilo koji poziv blokiran</string>
-  <string name="antispam_notificaiton_type_show_except_blacklist">Pokaži kada je poziv van liste zabranjenih blokiran</string>
-  <string name="antispam_notificaiton_type_show_none">"Ne prikazuj obavijesti"</string>
+  <string name="antispam_notificaiton_type_show_all">Svi brojevi</string>
+  <string name="antispam_notificaiton_type_show_except_blacklist">Neblokirani brojevi</string>
+  <string name="antispam_notificaiton_type_show_none">Nikad</string>
   <string name="antispam_notification_setting_title">Obavijesti liste zabranjenih</string>
   <string name="app_name">Lista zabranjenih</string>
   <string name="backsound_set_hint">Postaviti svoju poruku \"Odsutan sam\" za %s?</string>
