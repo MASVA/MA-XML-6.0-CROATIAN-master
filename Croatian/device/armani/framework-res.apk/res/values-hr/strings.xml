@@ -667,7 +667,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="permdesc_accessLocationExtraCommands">Aplikaciji omogućuje pristup dodatnim naredbama za pružatelja usluga lokacije. To aplikaciji može omogućiti ometanje rada GPS-a ili drugih izvora lokacije.</string>
   <string name="permdesc_accessMockLocation">Stvaranje lažnih izvora lokacije radi testiranja ili za instaliranje novog pružatelja usluga lokacije. To aplikaciji omogućuje zaobilaženje lokacije i/ili statusa koji vraćaju drugi izvori lokacije, primjerice GPS ili pružatelji usluga lokacije.</string>
   <string name="permdesc_accessMtp">Omogućuje pristup upravljačkom programu jezgre MTP-a radi implementacije MTP USB protokola.</string>
-  <string name="permdesc_accessNetworkState">Aplikaciji omogućuje pregled informacija o mrežnim vezama, primjerice koje mreže postoje i koje su spojene.</string>
+  <string name="permdesc_accessNetworkConditions">Omogućuje aplikaciji praćenje motrenja mrežnih uvjeta. Ne bi trebalo biti potrebno za uobičajene aplikacije.</string>
   <string name="permdesc_accessNetworkState">Aplikaciji omogućuje pregled informacija o mrežnim vezama, primjerice koje mreže postoje i koje su spojene.</string>
   <string name="permdesc_accessNotifications">Omogućuje aplikaciji dohvaćanje, pregledavanje i brisanje obavijesti, uključujući obavijesti drugih aplikacija.</string>
   <string name="permdesc_accessSurfaceFlinger">Aplikaciji omogućuje upotrebu značajki niske razine SurfaceFlinger.</string>
@@ -776,7 +776,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="permdesc_manageNetworkPolicy">Aplikaciji omogućuje upravljanje mrežnim pravilima i određivanje pravila za aplikacije.</string>
   <string name="permdesc_manageUsb">Aplikaciji omogućuje upravljanje postavkama i dozvolama za USB uređaje.</string>
   <string name="permdesc_manageUsers">Omogućuje aplikacijama upravljanje korisnicima na uređaju, uključujući upit, izradu i brisanje.</string>
-  <string name="permdesc_manageUsers">Omogućuje aplikacijama upravljanje korisnicima na uređaju, uključujući upit, izradu i brisanje.</string>
+  <string name="permdesc_markNetworkSocket">Dopušta aplikaciji izmjenu oznaka utičnica za usmjeravanje</string>
   <string name="permdesc_masterClear">Omogućuje aplikaciji potpuno vraćanje sustava na tvorničke postavke čime se brišu svi podaci, konfiguracija i instalirane aplikacije.</string>
   <string name="permdesc_mediaContentControl">Omogućuje aplikaciji upravljanje reprodukcijom medija i pristupanje podacima o medijima (naslov, autor…).</string>
   <string name="permdesc_mediaStorageWrite">Aplikaciji omogućuje izmjenu sadržaja pohranjenog na internim medijima.</string>
@@ -1481,7 +1481,6 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="whichApplication">Radnju dovrši pomoću stavke</string>
   <string name="whichHomeApplication">Odaberite aplikaciju na početnom zaslonu</string>
   <string name="wifi_available_sign_in">Prijavite se na Wi-Fi mrežu</string>
-  <string name="wifi_display_notification_disconnect">Isključi</string>
   <string name="wifi_display_notification_connected_title">Emitiranje zaslona</string>
   <string name="wifi_display_notification_connecting_message">Povezivanje sa zaslonom %1$s</string>
   <string name="wifi_display_notification_connecting_title">Emitiranje zaslona</string>
