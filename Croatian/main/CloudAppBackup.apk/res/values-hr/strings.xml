@@ -19,11 +19,11 @@
   <string name="button_restore">Obnovi</string>
   <string name="button_stop">Zaustavi</string>
   <string name="cancel_recover_settings">&lt;u&gt;Odustani&lt;/u&gt;</string>
-  <string name="cloud_app_backup_already">" je napravljena Sig. kopija"</string>
+  <string name="cloud_app_backup_already">" napravljena Sig. kopija"</string>
   <string name="cloud_app_backup_cancel">Otkazivanje…</string>
   <string name="cloud_app_backup_cancel_prompt_message">"Sig. kopija nije završena, svejedno zaustaviti?"</string>
   <string name="cloud_app_backup_cancel_prompt_title">Zaustaviti izradu Sig. kopije?</string>
-  <string name="cloud_app_backup_date">"Sig. kopija napravljena na "</string>
+  <string name="cloud_app_backup_date">"Sig. kopija napravljena "</string>
   <string name="cloud_app_backup_pending">Čekanje…</string>
   <string name="cloud_app_backup_progress">Sig. kopija…</string>
   <string name="cloud_app_backup_size">"Veličina: "</string>
@@ -32,7 +32,7 @@
   <string name="cloud_app_backup_title">Napravi Sig. kopiju podataka aplikacija</string>
   <string name="cloud_app_check_data">Dobivanje podataka s MiCloud-a…</string>
   <string name="cloud_app_current_device">Trenutni uređaj</string>
-  <string name="cloud_app_delete_data">Obrisati Sig. kopiju</string>
+  <string name="cloud_app_delete_data">Izbriši Sig. kopiju</string>
   <string name="cloud_app_dont_restore">"Ne obnavljaj"</string>
   <string name="cloud_app_function_summary">Kada napravite Sig. kopiju aplikacija na Mi Cloud, možete ih vratiti na bilo koji uređaj</string>
   <string name="cloud_app_invalid_op_when_removing">"Ne možete vidjeti cloud podatke dok se uklanjaju."</string>
@@ -47,7 +47,7 @@ svejedno zaustaviti?"</string>
   <string name="cloud_app_remove_error">"Ne mogu izbrisati!"</string>
   <string name="cloud_app_remove_pending">Čekanje…</string>
   <string name="cloud_app_remove_progress">Brisanje…</string>
-  <string name="cloud_app_remove_prompt">"%1$s Sig. kopija će biti obrisano."</string>
+  <string name="cloud_app_remove_prompt">"Sig. kopija %1$s će biti izbrisana."</string>
   <string name="cloud_app_remove_success">Aplikacije izbrisane</string>
   <string name="cloud_app_restore_action_bar_title">%1$s detalji Sig. kopije</string>
   <string name="cloud_app_restore_app_and_data">Obnova aplikacija i korisničkih podataka</string>
