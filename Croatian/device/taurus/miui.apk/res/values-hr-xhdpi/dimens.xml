@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="normal_text_size">15.0sp</dimen>
-    <dimen name="large_text_size">16.0sp</dimen>
-    <dimen name="small_text_size">14.0sp</dimen>
-    <dimen name="search_bar_text_size">7.0sp</dimen>
-    <dimen name="edit_text_size">12.0sp</dimen>
-</resources>
