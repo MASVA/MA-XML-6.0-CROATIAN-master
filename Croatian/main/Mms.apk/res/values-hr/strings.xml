@@ -79,7 +79,7 @@
   <string name="confirm_no_block_title">"Ne blokirati broj i vratiti sve poruke?"</string>
   <string name="confirm_rate_limit">Šalje se veliki broj multimedijskih poruka. Je li to u redu?</string>
   <string name="confirm_restore_all_title">Vratiti sve poruke s ovog broja?</string>
-  <string name="confirm_restore_checkbox">Deblokiraj Poruke poslane s tog broja</string>
+  <string name="confirm_restore_checkbox">Vrati odabrane Poruke</string>
   <string name="confirm_restore_message">Vratiti odabrane Poruke?</string>
   <string name="confirm_restore_positive">Vrati</string>
   <string name="confirm_restore_title">Vratćanje Poruka</string>
@@ -508,6 +508,7 @@
   <string name="storage_limits_message">Ograničiti broj poruka koje spremate po razgovoru?</string>
   <string name="storage_limits_setting">Postavi ograničenja</string>
   <string name="storage_limits_setting_dismiss">Nema ograničenja</string>
+  <string name="storage_unavailable">Nema dostupnog prostora</string>
   <string name="subject_hint">Predmet</string>
   <string name="subject_label">"Predmet: "</string>
   <string name="text_in_popup_saved_to_clipboard">Uređivan tekst u skočnom prozoru je spremljen u međuspremnik</string>

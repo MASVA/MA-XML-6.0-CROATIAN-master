@@ -31,10 +31,10 @@ Da dobijete više prostora za pohranu, posjetite mi.com/micloud."</string>
   <string name="close_cloud_app_backup_cancel">Odustani</string>
   <string name="close_cloud_app_backup_close">Zatvori</string>
   <string name="close_cloud_app_backup_local_backup">Napravi Sig. kopiju</string>
-  <string name="close_cloud_app_backup_message">Cloud App Backup Usluga će biti zaustavljena i podaci će biti izbrisani 1. svibnja 2015, molimo Vas, kopirajte vaše podatke u najkraćem mogućem roku.</string>
-  <string name="close_cloud_app_backup_notification_message">Dodirnite za detalje</string>
-  <string name="close_cloud_app_backup_notification_title">Prilagodi obavijest Mi Cloud Usluge</string>
-  <string name="close_cloud_app_backup_title">Zatvori obavijest</string>
+  <string name="close_cloud_app_backup_message">"Mi Cloud App Backup Usluga će se obustaviti za ne-MIUI aplikacije. Povezani podaci za druge aplikacije će biti izbrisani od 1. svibnja 2015. Da izbjegnete gubitak važnih informacija, sada napravite sig. kopiju podataka vaših aplikacija."</string>
+  <string name="close_cloud_app_backup_notification_message">Dodirni za prikaz detalja</string>
+  <string name="close_cloud_app_backup_notification_title">Obavijest sig. kopije aplikacija</string>
+  <string name="close_cloud_app_backup_title">Zatvori</string>
   <string name="cloud_app_back_up_quit_notification_content1">"Mi Cloud App Backup Usluga će biti obustavljena za ne-MIUI aplikacije. Srodni podaci drugih aplikacija će biti izbrisani od 1. svibnja 2015. Da izbjegnete gubitak važnih informacija, napravite sada lokalnu sig. kopiju vaših podataka aplikacija."</string>
   <string name="cloud_app_back_up_quit_notification_content2">To neće utjecati na Kontakte, Poruke, Galeriju i druge aplikacije sustava MIUI.</string>
   <string name="cloud_app_back_up_quit_notification_content3">Napravi Sig. kopiju podataka aplikacija</string>
