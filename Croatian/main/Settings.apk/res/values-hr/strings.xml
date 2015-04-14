@@ -910,9 +910,9 @@ Ta postavka utječe na sve korisnike telefona."</string>
   <string name="device_admin_title">Administracija uređaja</string>
   <string name="device_admin_warning">Aktiviranjem ovog administratora dopustit ćete aplikaciji %1$s da izvede sljedeće postupke:</string>
   <string name="device_cpu">CPU</string>
-  <string name="device_cpu2_info">2-jezgreni</string>
-  <string name="device_cpu4_info">4-jezgreni</string>
-  <string name="device_cpu8_info">8-jezgreni</string>
+  <string name="device_cpu2_info">2-jezgreni </string>
+  <string name="device_cpu4_info">4-jezgreni </string>
+  <string name="device_cpu8_info">8-jezgreni </string>
   <string name="device_edit_title">Preimenuj uređaj</string>
   <string name="device_feedback">Pošalji povr. informacije o uređaju</string>
   <string name="device_info_default">Nepoznato</string>
