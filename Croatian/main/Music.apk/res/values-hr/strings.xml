@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account">Račun</string>
   <string name="action_item_add">Dodaj</string>
@@ -42,6 +42,7 @@
   <string name="data_usage_warning">Uporaba podataka</string>
   <string name="data_usage_warning_summary">Korištenje vaše mobilne podatkovne veze za streaming visoko kvalitetne glazbe može povećati troškove uporabe podataka.</string>
   <string name="delete_file_as_well">Izbriši i lokalnu datoteku</string>
+  <string name="delete">Izbriši</string>
   <string name="delete_file_end">Izbriši u potpunosti</string>
   <string name="delete_file_start">Izbriši odabrane datoteke</string>
   <string name="device_connected">Povezano</string>
@@ -215,6 +216,7 @@
   <string name="ok">"U redu"</string>
   <string name="online_music">Online Glazba</string>
   <string name="online_playlist_is_empty">Popis pjesama je prazan</string>
+  <string name="only_online_can_select_quality">Samo se za online pjesme može odabrati kvaliteta</string>
   <string name="order_process_fail">"Nije bilo moguće autorizirati vaš račun. Pričekajte nekoliko minuta i pokušajte ponovno."</string>
   <string name="payment_fail">Plaćanje nije uspjelo</string>
   <string name="payment_success">Plaćanje završeno</string>
@@ -231,6 +233,7 @@
   <string name="project_device_mobile">Mobilni uređaj</string>
   <string name="quit_warining">Reprodukcija će prestati za %d min.</string>
   <string name="recommend_fragment_title">Istaknuto</string>
+  <string name="remove">Ukloni</string>
   <string name="retry">Pokušaj ponovno</string>
   <string name="ringtone_not_support">"Format ove pjesme nije podržan."</string>
   <string name="search_album">Potražite album na internetu</string>
@@ -265,6 +268,9 @@
   <string name="sleep_mode_title">Sleep timer</string>
   <string name="song_name">Pjesma</string>
   <string name="song_not_find">"Ne mogu se povezati na mrežu ili ova pjesma nije dostupna."</string>
+  <string name="sort_by_language">Jezik</string>
+  <string name="sort_by_name">Naziv</string>
+  <string name="sort_by_time">Datum</string>
   <string name="source_from">Izvor: %1$s</string>
   <string name="start_to_play">Reproduciraj</string>
   <string name="stream_quality">Kvaliteta streama</string>
@@ -277,7 +283,6 @@
   <string name="tab_local_track_list">Pjesme</string>
   <string name="tab_track_list">Pjesme</string>
   <string name="take_effect_afater_restart">Morate ponovno pokrenuti aplikaciju da ove postavke stupe na snagu.</string>
-  <string name="today_update">Glazba je ažurirana</string>
   <string name="track_list_control_download">"Preuzmi"</string>
   <string name="track_list_control_edit_add_tracks">Dodaj pjesme</string>
   <string name="track_list_control_edit_delete_playlist">"Izbriši"</string>
