@@ -2,6 +2,9 @@
 <resources>
   <string name="ApplicationIconMore99">99+</string>
   <string name="Folders">Mape</string>
+  <string name="SMTP_independent_verification_text">SMTP neovisna provjera</string>
+  <string name="SMTP_password_text">Zaporka</string>
+  <string name="SMTP_username_text">Korisničko ime</string>
   <string name="abc_action_bar_home_description">Navigiraj kući</string>
   <string name="abc_action_bar_up_description">Navigiraj gore</string>
   <string name="abc_action_menu_overflow_description">Više opcija</string>
@@ -379,7 +382,7 @@
   <string name="dialog_auto_download_failed">"Ne mogu završiti autom. preuzimanje, pokušajte ručno preuzimanje."</string>
   <string name="dialog_insufficient_space_for_single_account_on_internal">Nedovoljno prostora za %s.</string>
   <string name="dialog_insufficient_space_on_external">"Ne mogu završiti autom. preuzimanje. Nema dovoljno prostora na vanjskoj pohrani."</string>
-  <string name="dialog_insufficient_space_on_internal">"Nema dovoljno prostora na vanjskoj pohrani."</string>
+  <string name="dialog_insufficient_space_on_internal">Pomanjkanje prostora za pohranu za autom. preuzimanje privitaka</string>
   <string name="disable_admin_warning">UPOZORENJE: Deaktivacijom ovlasti aplikacije E-pošta za upravljanje uređajem izbrisat će se svi računi e-pošte koji traže tu ovlast, kao i e-pošta, kontakti, događaji kalendara i drugi podaci.</string>
   <string name="discard">Zanemari</string>
   <string name="discard_drafts">Odbaci skice</string>
@@ -465,6 +468,7 @@
   <string name="folder_sent_name_en3">Poslane stavke</string>
   <string name="folder_sent_name_en4">[Gmail]/Poslana pošta</string>
   <string name="folder_shortcut_widget_label">Mapa e-pošte</string>
+  <string name="folder_synchronization_mail_settings">Postavke sinkronizacije mape e-pošte</string>
   <string name="folder_trash_name_cn0">已删除</string>
   <string name="folder_trash_name_cn1">已删除邮件</string>
   <string name="folder_trash_name_cn2">[Gmail]/已删除邮件</string>
@@ -545,7 +549,7 @@
   <string name="mail_header_downloading_message_body">Preuzimanje…</string>
   <string name="mail_header_message_body_auto_download_complete">Preuzeti sadržaj e-pošte putem WLAN-a.</string>
   <string name="mail_header_message_body_auto_download_tip">Sadržaj e-pošte će se preuzeti putem WLAN-a.</string>
-  <string name="mail_header_message_body_download_failed">Istek vremena povezivanja.</string>
+  <string name="mail_header_message_body_download_failed">Preuzimanje sadržaja e-pošte nije uspjelo</string>
   <string name="mail_header_network_not_available">"Nemate mrežnu vezu."</string>
   <string name="mailbox_list_account_selector_combined_view">Kombinirani prikaz</string>
   <string name="mailbox_name_display_drafts">Skice</string>
@@ -795,7 +799,7 @@ Kopija: %4$s
   <string name="quick_reply_hint_bcc">(U BCC)</string>
   <string name="quick_reply_hint_cc">(U CC)</string>
   <string name="quick_responses_empty_view">Nema brzih odgovora</string>
-  <string name="quote_begin">&lt;div class=\"citiraj\"&gt;</string>
+  <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
   <string name="quote_divider_1">-------- 原始邮件 --------</string>
   <string name="quote_divider_10">-----------------------------------</string>
   <string name="quote_divider_11">----- 原文 -----</string>
@@ -818,11 +822,6 @@ Kopija: %4$s
   <string name="quote_divider_ks_web">________________________________________</string>
   <string name="quote_divider_qq_en">------------------ Original ------------------</string>
   <string name="quote_divider_qq_zh">------------------ 原始邮件 ------------------</string>
-  <string name="quote_divider_wps_zh">发自WPS Mail</string>
-  <string name="quote_divider_wps_zh_hk">發自WPS Mail</string>
-  <string name="quote_divider_xm_rsh">Отправлено с MiPhone</string>
-  <string name="quote_divider_xm_zh">发自我的小米手机</string>
-  <string name="quote_divider_xm_zh_hk">發自我的小米手機</string>
   <string name="quoted_text">Obuhvati citirani tekst</string>
   <string name="quoted_text_label">Citirani tekst</string>
   <string name="read_string">Razgovor je pročitan</string>
@@ -959,11 +958,11 @@ Kopija: %4$s
   <string name="tip_cannot_switchview_in_unread_folder">Nije moguće prebaciti način prikaza agregacije nepročitane pošte</string>
   <string name="to">Prima</string>
   <string name="to_heading">"Prima: "</string>
-  <string name="toast_bar_fail_synchronization">Nenormalano povezivanje s mrežom. Pokušajte ponovo kasnije</string>
-  <string name="toast_bar_insufficient_memory_space">Nedovoljno prostora za pohranu u telefonu, sinkr. e-pošte nije uspjela</string>
-  <string name="toast_bar_invalid_account">Račun je istekao, prijavite se ponovno</string>
-  <string name="toast_bar_no_connection_network">Nije povezano s mrežom, kliknite na postavljanje</string>
-  <string name="toast_bar_open_gmail_synchronization">Neka korištenje Gmaila više nije ograničeno, kliknite na korištenje</string>
+  <string name="toast_bar_fail_synchronization">"Ne mogu se povezati s mrežom"</string>
+  <string name="toast_bar_insufficient_memory_space">Nedovoljno prostora za pohranu</string>
+  <string name="toast_bar_invalid_account">Morate se prijaviti ponovno</string>
+  <string name="toast_bar_no_connection_network">"Niste povezani s internetom"</string>
+  <string name="toast_bar_open_gmail_synchronization">Dodirnite za korištenje proxy poslužitelja za Gmail</string>
   <string name="too_large_to_attach_additional">"Veličina datoteke ne smije prelaziti %1$s."</string>
   <string name="too_large_to_attach_multiple">Jedna ili više datoteka nije priloženo.Veličina ne smije prelaziti %1$s."</string>
   <string name="too_large_to_attach_single">"Ne mogu priložiti datoteku koristeći %1$s."</string>
