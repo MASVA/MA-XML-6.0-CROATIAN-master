@@ -1758,9 +1758,6 @@ i pokrenite ga."</string>
   <string name="music_dirac_mode_piston_2">Mi Piston-2</string>
   <string name="music_dirac_mode_piston_basic">Basic Edition</string>
   <string name="music_dirac_mode_piston_youth">Xiaomi Piston-1</string>
-  <string name="music_dolby_mode_movie">Video</string>
-  <string name="music_dolby_mode_music">Glazba</string>
-  <string name="music_dolby_mode_off">Isključeno</string>
   <string name="music_dolby_dialogue_enhancer">Dialogue Enhancer</string>
   <string name="music_dolby_effects">Dolby efekti</string>
   <string name="music_dolby_eq_enter_alert_msg">Equalizer možete koristiti samo u Dolby glazbenom načinu. Omogućiti ga sada?</string>
@@ -1801,7 +1798,6 @@ i pokrenite ga."</string>
   <string name="music_mi_effect_summary">Uvijek koristi Mi Sound Enhancer prilikom korištenja zvučnika</string>
   <string name="music_mi_effect_title">Koristi Mi Sound Enhancer</string>
   <string name="music_title_dolby_control">Dolby digital plus</string>
-  <string name="music_title_dolby_control">DOLBY</string>
   <string name="musicfx_title">Glazbeni efekti</string>
   <string name="mvno_match_data">Vrijednost MVNO-a</string>
   <string name="mvno_type">Vrsta MVNO-a</string>
