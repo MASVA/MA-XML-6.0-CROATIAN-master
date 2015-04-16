@@ -3,6 +3,7 @@
   <string name="access_denied">Pristup odbijen</string>
   <string name="account">Račun</string>
   <string name="activate">Aktiviraj</string>
+  <string name="activate_number_change_dialog_message">Odaberite veliki broj koji je potrebno aktivirati, prilikom VOIP poziva, nazvana stranka će vidjeti ovaj broj</string>
   <string name="activating">Aktiviranje…</string>
   <string name="alert_notif_title_dspt">Nije sinkronizirano</string>
   <string name="antispam_sync">Postavke "Ne ometaj me"</string>
@@ -221,7 +222,9 @@ Možete uključiti/isključiti tu značajku bilo kada u Postavkama."</string>
   
   
 Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string>
+  <string name="mx_dspt_provision_with_voip">Nazovite druge MIUI korisnike besplatno koristeći internetsku vezu. Možete uključiti/isključiti ovu značajku u bilo kojem trenutku u postavkama.</string>
   <string name="mx_sub_dspt_provision">Mi Poruka</string>
+  <string name="mx_sub_dspt_provision_with_voip">Internetski pozivi</string>
   <string name="next">Dalje</string>
   <string name="noRemind">"Ne podsjećaj me"</string>
   <string name="no_sim">"Nema SIM kartice"</string>
@@ -313,6 +316,8 @@ Korištenjem ove usluge, slažete se s "</string>
   <string name="vcode">Provjera koda</string>
   <string name="verify">Potvrdi</string>
   <string name="view_storage_title">Prostor za pohranu</string>
+  <string name="voip_choose_sim">Odaberite broj telefona za aktiviranje Mi Voice</string>
+  <string name="voip_dspt">Mi Voice</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
