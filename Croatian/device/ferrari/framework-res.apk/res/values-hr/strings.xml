@@ -65,7 +65,6 @@
   <string name="alwaysUse">Koristi se kao zadana postavka za ovu lokaciju.</string>
   <string name="android_system_label">Sustav Android</string>
   <string name="android_upgrading_apk">Optimiziranje aplikacije %1$d od %2$d.</string>
-  <string name="android_upgrading_complete">Prebieha dokončovanie spúšťania.</string>
   <string name="android_upgrading_complete">Završetak inicijalizacije.</string>
   <string name="android_upgrading_starting_apps">Pokretanje aplikacija.</string>
   <string name="android_upgrading_title">Android se nadograđuje…</string>

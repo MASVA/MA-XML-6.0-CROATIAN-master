@@ -406,6 +406,8 @@
   <string name="fdn_invalid_number">FDN nije ažuriran jer broj ne može premašivati 20 znamenki.</string>
   <string name="fdn_service_unavailable">FDN usluga nije dostupna.</string>
   <string name="fdn_summary">Ograniči odlazne pozive navedenim na FDN popisu ili na brojeve s određenim prefiksima</string>
+  <string name="flash_when_ring_summary">Obavijesti Bljeskalicom za dolazne pozive</string>
+  <string name="flash_when_ring_title">Bljeskalica i za pozive</string>
   <string name="fw_change_failed">"Nije bilo moguće promijeniti broj za preusmjeravanje.
 Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="fw_get_in_vm_failed">"Dohvaćanje i spremanje trenutačnih postavki broja za preusmjeravanje nije uspjelo.

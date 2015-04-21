@@ -185,6 +185,7 @@ niz"</string>
   <string name="continue_reach_goal_new_record">Postignut novi rekord</string>
   <string name="continue_tips_format">Najdulje: %1$s dana.</string>
   <string name="contour_track_failed_to_create">Ne mogu podijeliti, provjerite preostali prostor za pohranu.</string>
+  <string name="current_weight">Trenutna težina</string>
   <string name="daily_consume">Konzumirano danas(Cal)</string>
   <string name="daily_sport_report">Dnevni sportski rezultat</string>
   <string name="daily_sport_report_contintue_info">"%1$s preostalo ljenih dana,
@@ -738,7 +739,7 @@ ili oko 12.000 koraka dnevno za aktivan, zdrav stil života. "</string>
   <string name="select_from_camera">Kamera</string>
   <string name="select_from_local">Odaberite iz Galerije</string>
   <string name="select_image">Promijeni sliku profila</string>
-  <string name="sensor_hub_tip">"Korak broj je pohranjen lokalno
+  <string name="sensor_hub_tip">"Broj koraka je pohranjen lokalno
 na ovom uređaju, i neće biti
 učitan na poslužitelj."</string>
   <string name="service_call_notice">24-satna usluga</string>
@@ -977,8 +978,8 @@ Potrošeno %3$s cal. Prethodni rekord je bio %5$s koraka, postavljen %4$s."</str
   <string name="state_deauthorization_doing">Poništavaje autorizacije…</string>
   <string name="state_deauthorization_error">Neuspjelo poništavanje autorizacije!</string>
   <string name="state_deauthorization_success">Uspješno poništavanje autorizacije!</string>
-  <string name="state_open">Otvori</string>
   <string name="state_unbind_success">Uklonjen QQ Račun</string>
+  <string name="state_open">Otvori</string>
   <string name="state_unbinded">Odjavljeno</string>
   <string name="statistic">Statistika</string>
   <string name="statistic_day_average">Dnevni prosjek</string>
@@ -1046,7 +1047,7 @@ Držite MiBand i telefon udaljenim najmanje 5m."</string>
   <string name="unbind_weight_scale">Raspariti vage ?</string>
   <string name="unbinding">Rasparivanje…</string>
   <string name="unit_british">Engleski</string>
-  <string name="unit_british_detail">Engleski sustav(inča, milja)</string>
+  <string name="unit_british_detail">Engleski (inča, milja)</string>
   <string name="unit_calorie">kal</string>
   <string name="unit_foot">" Stopa"</string>
   <string name="unit_hour">s</string>
@@ -1054,7 +1055,7 @@ Držite MiBand i telefon udaljenim najmanje 5m."</string>
   <string name="unit_kilometer">km</string>
   <string name="unit_meter">m</string>
   <string name="unit_metric">Metar</string>
-  <string name="unit_metric_detail">Metrički (Metar, kilometar)</string>
+  <string name="unit_metric_detail">Metar (Metara, kilometara)</string>
   <string name="unit_mile">Milja</string>
   <string name="unit_min">min</string>
   <string name="unit_min_short">m</string>

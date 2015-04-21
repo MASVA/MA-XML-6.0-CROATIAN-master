@@ -44,7 +44,7 @@
   <string name="data_usage_disabled_dialog">"Dosegli ste ograničenje uporabe podataka. 
 
 Korištenje više od planiranog ograničenja podataka vašeg davatelja usluga može dovesti do povećanih troškova."</string>
-  <string name="data_usage_disabled_dialog_enable">Upozorenje uporabe podataka</string>
+  <string name="data_usage_disabled_dialog_enable">Uključi mob. podatke</string>
   <string name="data_usage_leisure_warning_body">Dodirnite za pregled pojedinosti uporabe podataka.</string>
   <string name="data_usage_leisure_warning_title">Ograničenje uporabe podataka</string>
   <string name="data_usage_limit_body">Dodirnite za uključivanje mobilnih podataka.</string>

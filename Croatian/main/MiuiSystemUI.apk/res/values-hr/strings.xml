@@ -49,7 +49,7 @@
   <string name="app_label">"UI Sustava"</string>
   <string name="audio_effect_custom">Konfiguriraj</string>
   <string name="audio_effect_info">Optimiziraj zvuk</string>
-  <string name="audio_effect_settings">odaberi vrstu slušalica</string>
+  <string name="audio_effect_settings">Odaberi vrstu slušalica</string>
   <string name="battery_low_percent_format">preostalo %d%%</string>
   <string name="battery_low_title">"Priključite punjač"</string>
   <string name="battery_profiles">Koristi profile baterije</string>
@@ -69,6 +69,7 @@
   <string name="camera_key_action_toggle_title">Promjena stanja okidača</string>
   <string name="chooseUsbActivity">"Odabir aplikacije za USB uređaj"</string>
   <string name="data_usage_disabled_dialog">Dosegli ste vaše postavljeno ograničenje upotrebe podataka. 
+
 Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="data_usage_disabled_dialog_3g_title">"2G-3G podaci su onemogućeni"</string>
   <string name="data_usage_disabled_dialog_4g_title">"4G podaci su onemogućeni"</string>
@@ -116,10 +117,10 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="mdb_restore_label">MDB obnova</string>
   <string name="mdb_restore_mode">Način rada obnove</string>
   <string name="mdb_usb_disconnection_exit">"USB nije povezan"</string>
-  <string name="mount_storage">"Da"</string>
   <string name="media_projection_action_text">Započni</string>
   <string name="media_projection_dialog_text">"%s će početi snimanje svega što se prikazuje na zaslonu."</string>
   <string name="media_projection_remember_text">"Ne prikazuj ponovo"</string>
+  <string name="mount_storage">"Da"</string>
   <string name="no_notification_tips">Nema obavijesti</string>
   <string name="notification_otg_gamestick_in">Igrači kontroler je povezan</string>
   <string name="notification_otg_gamestick_out">Igrači kontroler nije povezan</string>
@@ -173,7 +174,7 @@ Povucite dolje za zaključavanje"</string>
   <string name="status_bar_recent_memory_info1">%1$sB | %2$sB dostupno</string>
   <string name="status_bar_recent_memory_info2"/>
   <string name="status_bar_recording_back">Vrati se na snimanje zvuka</string>
-  <string name="status_bar_recording_pause">Snimanje zvuka je pauzirano. Dodirnite za povratak na snimanje zvuka.</string>
+  <string name="status_bar_recording_pause">Snimanje zvuka je pauzirano</string>
   <string name="status_bar_settings_airplane">"Zrakoplovni način"</string>
   <string name="status_bar_settings_signal_meter_disconnected">"Nema internetske veze"</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">"WLAN je povezan"</string>
