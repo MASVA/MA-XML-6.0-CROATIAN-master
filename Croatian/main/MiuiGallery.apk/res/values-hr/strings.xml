@@ -448,7 +448,7 @@ uređaja"</string>
   <string name="photoeditor_name">Foto Studio</string>
   <string name="photos">Fotografije</string>
   <string name="pick_too_many_recipients">Previše primatelja</string>
-  <string name="pick_too_much_tips">%d stavaka najviše</string>
+  <string name="pick_too_much_tips">Maks. %d stavaka</string>
   <string name="picker_no_album_selected">Nema odabranih albuma</string>
   <string name="picker_no_items_selected">Nema odabranih stavki</string>
   <string name="picker_select_album_title_empty">Odaberite album</string>

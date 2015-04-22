@@ -41,6 +41,7 @@ Da dobijete više prostora za pohranu, posjetite mi.com/micloud."</string>
   <string name="cloud_app_back_up_quit_notification_content3">Napravi Sig. kopiju podataka aplikacija</string>
   <string name="cloud_back_up_button_ok">Prisilno zaustavi</string>
   <string name="cloud_back_up_close_info">Dodirni za izradu Sig. kopije</string>
+  <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
   <string name="cloud_back_up_dialog_content">"Zaustaviti izradu Sig. kopije u tijeku? Ako zaustavite sada, nećete biti u mogućnosti koristiti ovu Sig. kopiju za vraćanje aplikacija."</string>
   <string name="cloud_back_up_interval_long">7 dana</string>
   <string name="cloud_back_up_interval_short">1 sat</string>

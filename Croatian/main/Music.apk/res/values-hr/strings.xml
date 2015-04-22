@@ -125,7 +125,7 @@
   <string name="filter_by_duration_min">0 sek</string>
   <string name="filter_by_duration_prefix">"Sakrij datoteke kraće od "</string>
   <string name="filter_by_duration_summary">"Sakrij kratke audio datoteke"</string>
-  <string name="filter_by_folder">Po mapama</string>
+  <string name="filter_by_folder">Filtriraj po mapama</string>
   <string name="filter_by_folder_summary">Odaberite mape za prikaz</string>
   <string name="filter_by_size">Po veličini</string>
   <string name="filter_by_size_max">2MB</string>
@@ -159,7 +159,7 @@
   <string name="ktv_playlist">KTV popis reprodukcije</string>
   <string name="like">Sviđa mi se</string>
   <string name="list_item_play_FM_radio">Dodirnite za reprodukciju FM Radija</string>
-  <string name="list_item_play_all_tracks">Dodirnite za reprodukciju svih pjesama</string>
+  <string name="list_item_play_all_tracks">Reproduciraj sve pjesme</string>
   <string name="listview_index_of_total">%1$d/%2$d</string>
   <string name="loading_hint">Učitavanje…</string>
   <string name="local_music">Izvanmrežno</string>
