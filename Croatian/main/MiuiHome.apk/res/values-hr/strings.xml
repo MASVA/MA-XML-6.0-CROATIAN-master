@@ -147,7 +147,7 @@
   <string name="menu_wallpaper">Slika pozadine</string>
   <string name="menu_workspace_preview">Pregled Početnih zaslona</string>
   <string name="mi_wallpaper">MIUI Trgovina Tema</string>
-  <string name="mtzgadget_missing_text">"Nije predviđeno više, dodajte ponovo"</string>
+  <string name="mtzgadget_missing_text">"Widget nije dostupan"</string>
   <string name="multi_selecting_tips">Da pokupite aplikaciju, dodirnite njenu ikonu</string>
   <string name="online_wallpaper">Online</string>
   <string name="out_of_space">Na ovom zaslonu više nema mjesta.</string>

@@ -2293,7 +2293,7 @@ Ova postavka utječe na sve korisnike na ovom uređaju."</string>
   <string name="screen_paper_mode_turn_on">Uključeno</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">"Ne prikazuj ponovo"</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Slažem se i Nastavi</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Da se ažurira popis aplikacija koje mogu koristiti način čitanja, potrebno je povezati se na mrežu. Slažete li se?</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Da ažurirate popis aplikacija koje mogu koristiti način čitanja, potrebno je povezivanje s internetom.</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Uvjeti i Odredbe</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Ažuriraj popis aplikacija koje koriste načina čitanja preko mreže</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Popis ažuriranja mreže</string>
@@ -2559,7 +2559,7 @@ Preostalo pokušaja:"</string>
   <string name="sim_status_title">Status SIM-a</string>
   <string name="simulate_color_space">Simuliraj prostor boja</string>
   <string name="skip_label">Preskoči</string>
-  <string name="skip_lock_screen_confirm_msg">Sljedeće značajke će biti onemogućene za zaključavanje zaslona: obavijesti, kontrole sviranje glazbe, Povucite lijevo za Kameru i Povucite desno za Telefon.</string>
+  <string name="skip_lock_screen_confirm_msg">Obavijesti, kontrole sviranja glazbe, Kamera i Mi Home će biti onemogućeni na zaključanom zaslonu.</string>
   <string name="skip_step">Preskoči</string>
   <string name="slot_name">SIM %d</string>
   <string name="slot_status_title">IMEI podaci</string>
@@ -2604,6 +2604,9 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="status_awaiting_tap">Dodirnite oznaku da zapišete podatke…</string>
   <string name="status_awake_time">Vrijeme bez mirovanja</string>
   <string name="status_bar_and_notification_bar">Panel obavijesti i statusna traka</string>
+  <string name="status_bar_app_disable_notification">Prazno</string>
+  <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Zaklj. zaslon, Panel obavijesti</string>
+  <string name="status_bar_app_enable_on_notificationBar">Panel obavijesti</string>
   <string name="status_bar_filter_item_description">Za postavljanje upozorenja, idite na Postavke &gt; Obavijesti &gt; Upravljaj obavijestima</string>
   <string name="status_bar_filter_item_preview_image">Pregled</string>
   <string name="status_bar_key_position_custom">Prilagođena pozicija tipki</string>
@@ -2758,10 +2761,13 @@ Googleov pristup sinkronizaciji podataka za mogućnost pristupa kontaktima, sast
   <string name="title_color_calibration">Način Korekcija boja</string>
   <string name="title_dolby_control">Dolby digital plus</string>
   <string name="title_font">Font</string>
+  <string name="title_font2">Font</string>
   <string name="title_font_current">Odaberite font sustava</string>
+  <string name="title_font_current2">Odaberite font sustava</string>
   <string name="title_font_size">Veličina fonta</string>
   <string name="title_hdmi_color_calibration">Pohranjene postavke korekcije boje</string>
   <string name="title_layout_current">Odabeite veličinu fonta</string>
+  <string name="title_layout_current2">Odabeite veličinu fonta</string>
   <string name="title_local_resource">Lokalni resursi</string>
   <string name="title_system_resource">Resursi sistema</string>
   <string name="toast_lockscreen_glogin_empty_password">Unesite zaporku</string>

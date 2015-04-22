@@ -283,8 +283,8 @@
   <string name="snooze_label">Odgodi</string>
   <string name="subscribe_all">Prijava</string>
   <string name="sync_notice_cancel_toast_message">"Lokalni Kalendar neće biti sinkroniziran s Mi Cloudom"</string>
-  <string name="sync_notice_message">Niste sinkronizirali Kalendar s Mi Cloudom, dopustiti sinkr. sada?</string>
-  <string name="sync_notice_ok">Dopusti</string>
+  <string name="sync_notice_message">Sinkronizirati Kalendar s Mi Cloudom?</string>
+  <string name="sync_notice_ok">Sinkr. sada</string>
   <string name="sync_notice_ok_toast_message">Lokalni Kalendar biti će sinkroniziran s Mi Cloudom</string>
   <string name="sync_notice_title">Zahtjev za sinkr.</string>
   <string name="synced">Sinkronizirano</string>

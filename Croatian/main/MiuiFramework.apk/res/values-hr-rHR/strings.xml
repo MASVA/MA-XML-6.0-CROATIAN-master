@@ -3,9 +3,6 @@
   <string name="alwaysUsePrompt">"Zapamti ovaj izbor"</string>
   <string name="anniversary_of_lifting_martial_law"/>
   <string name="anti_aggression_day"/>
-  <string name="app_no_notification">Ništa</string>
-  <string name="app_notificaiton_on_notificationBar">Panel obavijesti</string>
-  <string name="app_notificaiton_on_statusBar_and_notificationBar">Zaklj. zaslon, panel obavijesti</string>
   <string name="arbor_day"/>
   <string name="armed_forces_day"/>
   <string name="auto_start_warning_allow">Dopusti</string>

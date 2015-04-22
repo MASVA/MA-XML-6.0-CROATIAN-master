@@ -18,7 +18,7 @@
   <string name="add_to_cloud_space_full_message">Cloud album je pun.</string>
   <string name="add_to_cloud_successfully_message">Dodano u Cloud album.</string>
   <string name="add_to_cloud_type_not_support_message">"Ova vrsta datoteke nije podržana"</string>
-  <string name="add_to_cloud_unfinished_message_with_count">"Stavaka nije dodano na Mi Cloud: %1$s"</string>
+  <string name="add_to_cloud_unfinished_message_with_count">"Stavaka (%1$s) nije dodano na Mi Cloud"</string>
   <string name="add_to_cloud_unknow_reasons">Nepoznata greška</string>
   <string name="add_to_secret_failed_message_with_count">"%2$s stavaka ne može biti dodano u sakriveni album: %1$s."</string>
   <string name="add_to_secret_successfully_message">Dodano u sakriveni album</string>
@@ -28,7 +28,7 @@
   <string name="album_member">Član albuma %s</string>
   <string name="album_name">Naziv albuma</string>
   <string name="album_quota_fulfiled">Previše albuma. Izbrišite neke albume i pokušajte ponovno.</string>
-  <string name="album_share_exit_confirm">Napustiti album?</string>
+  <string name="album_share_exit_confirm">Izaći iz albuma?</string>
   <string name="album_share_kicked">Uklonjeni ste iz %1$s</string>
   <string name="album_share_stat_content">Pozivnice</string>
   <string name="album_share_subtitle_accepting">Prihvaćanje pozvinice od %1$s…</string>
@@ -48,6 +48,7 @@
   <string name="alert_secret_album_message">Prijeđite prstom prema dolje pri dnu vaših albuma u Mi Cloudu za prikaz sakrivenih albuma.</string>
   <string name="alert_secret_album_set_pattern">Podesite uzorak otključavanja</string>
   <string name="alert_secret_album_title">Dodano u sakriveni album</string>
+  <string name="all_video_album_display_name">Svi videozapisi</string>
   <string name="already_apply_album">Otvoriti %1$s?</string>
   <string name="always_rotate_alert_msg">Možete uključiti/isključiti ovu značajku u bilo kojem trenutku u postavkama Galerije</string>
   <string name="always_rotate_alert_positive_button_text">Uključi</string>
@@ -132,6 +133,7 @@
   <string name="comfirm_delete_current_album">Izbrisati ovaj album?</string>
   <string name="comma">, </string>
   <string name="confirm">U redu</string>
+  <string name="confirm_all_photo_not_this_people_face">Sigurno sve fotografije?</string>
   <string name="confirm_delete">Izbrisati fotografije (%s)?</string>
   <string name="confirm_delete_album" formatted="false">Izbrisati albume %s (ukupno %s)?</string>
   <string name="confirm_delete_has_cloud_image_video">"Izbrisati stavke (%s) u cloudu?"</string>
@@ -143,7 +145,10 @@
   <string name="confirm_download">Morate preuzeti %s.</string>
   <string name="confirm_download_video_message">Morate završiti s preuzimanjem ovog videozapisa prije nego što ga možete pogledati. Preuzimanje će se nastaviti kada je WLAN dostupan.</string>
   <string name="confirm_download_video_title">Preuzmi videozapis</string>
+  <string name="confirm_face">Podudaranje</string>
+  <string name="confirm_left_photo_will_move_out">Preostale fotografije će biti premještene iz ovog albuma</string>
   <string name="confirm_merge_face_albums">" "&lt;Data&gt; Spoji ovaj album s &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
+  <string name="confirm_not_face">Ne ovu osobu</string>
   <string name="contact_photo">Postavi za sliku kontakta</string>
   <string name="context_menu_add_contact">Dodaj u kontakte</string>
   <string name="context_menu_copy">Kopiraj</string>
@@ -201,6 +206,7 @@
   <string name="email_picker_title">Dodaj podijeljenu e-poštu</string>
   <string name="enable">Uključi</string>
   <string name="enable_cloud_for_sharing">Omogućite MiCloud album za pregled zajedničkih slika.</string>
+  <string name="enabling_face_feature">Uključivanje…</string>
   <string name="enter_email_hint">"Unesite adresu E-pošte"</string>
   <string name="error_album_not_exist">"Album ne postoji."</string>
   <string name="error_cloud_not_active">Nema fotografija u cloudu.</string>
@@ -231,6 +237,7 @@
   <string name="face_album_rename_hint">Unesite naziv</string>
   <string name="face_albumset_detecting_tip">Trenutak…</string>
   <string name="face_albumset_empty">Prazno.</string>
+  <string name="face_albumset_pending_enable_tip">Sortiraj fotografije kada je uređaj spojen na WLAN</string>
   <string name="face_albumset_use_tip">"Koristite Prepoznavanje lica za sortiranje fotografija prema osobama koje su na njima"</string>
   <string name="face_move_dialog_title">Odaberite album</string> 
   <string name="facelift">Sjaj lica</string>
@@ -280,6 +287,7 @@
   <string name="home_page_tab_face">Lice</string>
   <string name="home_page_tab_local">Lokalno</string>
   <string name="home_page_tab_photo">Fotografije</string>
+  <string name="ignore_album">Ignoriraj</string>
   <string name="ignore_face">Ignoriraj ovu osobu</string>
   <string name="image_download_item_title">Preuzmimanje datoteke (%s)</string>
   <string name="image_quota_fulfiled">Previše slika. Izbrišite neke slike i pokušajte ponovno.</string>
@@ -292,6 +300,7 @@
   <string name="impunity_declaration_settings">Obavijest povezivanje s internetom</string>
   <string name="impunity_declaration_summary">Prikaži obavijest povezivanje s internetom svaki put kad se pokrene aplikacija Galerija</string>
   <string name="impunity_declaration_title">Povezivanje s internetom</string>
+  <string name="in_home_page_long_press_photo_setting_secret_photo">U galeriji, dugi pritisak na fotografiju koju želite postaviti privatnom, a zatim odaberite Dodaj u skriveni album</string>
   <string name="initial_cloud_button_text">Prijavite se</string>
   <string name="initial_cloud_text">Pohranite i pregledajte vaše slike s bilo kojeg mjesta.</string>
   <string name="initializing_cloud">Pokretanje…</string>
@@ -312,6 +321,10 @@
   <string name="kick_sharer">Ukloni dijeljitelja</string>
   <string name="kick_sharer_failed">"Ne mogu ukloniti korisnika"</string>
   <string name="kick_sharer_successfully">Korisnik uklonjen</string>
+  <string name="last_chinese_new_year">Zadnja Kineska Nova godina</string>
+  <string name="last_new_year">Zadnja Nova godina</string>
+  <string name="last_valentine_day">Zadnje Valentinovo</string>
+  <string name="last_year_today">Lani</string>
   <string name="loading">Učitavanje…</string>
   <string name="loading_failure">"Ne mogu učitati fotografiju"</string>
   <string name="loading_image">Preuzimanje slike…</string>
@@ -358,6 +371,7 @@
   <string name="moman_camera_icon">Moman Camera emotikon</string>
   <string name="moman_camera_picture">Moman Camera slike</string>
   <string name="more">Više</string>
+  <string name="mosaic">Mozaik</string>
   <string name="move">Premjesti</string>
   <string name="move_to_cloud_album">Premjesti u</string>
   <string name="mtgif">MTGIF</string>
@@ -367,6 +381,7 @@
   <string name="name_wrong">"Ovo nije %s"</string>
   <string name="negative">Negativan</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
+  <string name="network_connected_rescan">Skenirajte ponovno nakon povezivanja s internetom</string>
   <string name="new_device_tips">"Dodirnite za prikaz 
 uređaja"</string>
   <string name="no">Ne</string>
@@ -376,6 +391,7 @@ uređaja"</string>
   <string name="no_map_app">Nije pronađena aplikacija za obradu ove radnje</string>
   <string name="no_network_connected">Nema dostupnih mrežnih veza</string>
   <string name="no_picture_or_video">Prazno</string>
+  <string name="no_secret_photo">Nema tajnih fotografija</string>
   <string name="no_storage_disable_cloud_albums">Cloud je nedostupan.</string>
   <string name="no_such_album">Album nije pronađen</string>
   <string name="no_such_item">"Ne mogu pronaći stavku"</string>
@@ -412,11 +428,13 @@ uređaja"</string>
   <string name="original_scale">Original</string>
   <string name="other_category">Dodatne postavke</string>
   <string name="owner_album_subtitle">Podijeljeno s %1$s članova</string>
+  <string name="paint_brush">Kist</string>
   <string name="paint_cancel_context">"Odbaciti promjene napravljene na ovoj slici?"</string>
   <string name="paint_cancel_title">Odbaciti promjene</string>
   <string name="paint_crop_cancel_context">Spremiti obrezanu sliku?</string>
   <string name="paint_crop_cancel_title">Odbaciti promjene</string>
   <string name="paint_crop_tips">Da dobijete bolju sliku, pokušajte staviti njegove interesne dijelove na mrežne točke promjenom veličine i pomicanjem.</string>
+  <string name="paint_highlight">Istaknuto</string>
   <string name="path">Putanja</string>
   <string name="people">Osobe</string>
   <string name="photo_page_always_rotate">Automatsko zakretanje slika</string>
@@ -424,14 +442,13 @@ uređaja"</string>
   <string name="photo_page_save_image">Spremi</string>
   <string name="photo_page_save_uri_image_fail">"Ne mogu spremiti u fotografije Kamere"</string>
   <string name="photo_page_save_uri_image_ok">Fotografija spremljena u fotografije Kamere.</string>
-  <string name="photo_paint_crop">Obreži</string>
   <string name="photo_paint_rotate">Rotiraj</string>
   <string name="photo_save_succeed">Uspješno spremljeno</string>
   <string name="photo_size">Veličina</string>
   <string name="photoeditor_name">Foto Studio</string>
   <string name="photos">Fotografije</string>
   <string name="pick_too_many_recipients">Previše primatelja</string>
-  <string name="pick_too_much_tips">"Ne mogu pokupiti toliko mnogo stavaka (maks. %d stavaka)."</string>
+  <string name="pick_too_much_tips">%d stavaka najviše</string>
   <string name="picker_no_album_selected">Nema odabranih albuma</string>
   <string name="picker_no_items_selected">Nema odabranih stavki</string>
   <string name="picker_select_album_title_empty">Odaberite album</string>
@@ -446,8 +463,9 @@ uređaja"</string>
   <string name="preparing_data_to_delete">Priprema za brisanje slika…</string>
   <string name="priority_storage">Spremi na SD karticu</string>
   <string name="priority_storage_summary">Kad je umetnuta SD kartica, automatski preuzimaj datoteke na SD karticu</string>
+  <string name="project_available_tip">Otkriven projektor</string>
   <string name="projection">Uloge</string>
-  <string name="public_url_descript">Svatko može pristupiti albumu koristeći ovaj URL</string>
+  <string name="public_url_descript">Svatko može pristupiti albumu koristeći ovu Poveznicu</string>
   <string name="publish_failed">"Ne mogu objaviti"</string>
   <string name="publish_succeeded">Album je objavljen</string>
   <string name="publishing">Objavljivanje…</string>
@@ -477,6 +495,7 @@ uređaja"</string>
   <string name="request_sms_url_title">Savjet</string>
   <string name="retry_to_create_album">Pokušaj ponovo</string>
   <string name="retry_to_request_qr_code">Pokušaj ponovo</string>
+  <string name="return_to_top">Dodinite \"Fotografija\" za povratak na vrh</string>
   <string name="rise">Toplo</string>
   <string name="rotate">Rotiraj</string>
   <string name="rotate_tooltip">Povucite fotografiju da je rotirate</string>
@@ -486,7 +505,7 @@ uređaja"</string>
   <string name="save">Spremi</string>
   <string name="save_error">"Ne mogu spremiti obrezanu sliku."</string>
   <string name="save_photo">Spremiti uređenu fotografiju?</string>
-  <string name="saving_failure">"Ne mogu spremit sliku"</string>
+  <string name="saving_failure">"Ne mogu spremiti sliku"</string>
   <string name="saving_image">Spremanje slike…</string>
   <string name="scan_barcode_guide">Za dobivanje QR koda albuma, dodirnite Dijeli ikonu u gornjem desnom kutu.</string>
   <string name="scan_barcode_to_join">Skeniranje QR koda za pridruživanje albumu.</string>
@@ -494,6 +513,7 @@ uređaja"</string>
   <string name="scan_qr_code_failure">Neuspjelo skeniranje QR koda.</string>
   <string name="screensaver_activate_mode">Dijaprojekcija Čuvara zaslona</string>
   <string name="screensaver_activate_only_charging">Aktiviraj Čuvara zaslona samo tijekom punjenja</string>
+  <string name="script">Skripta</string>
   <string name="sd_not_available">"Ne mogu pristupiti SD kartici."</string>
   <string name="sdcard_root">Root direktorij SD kartice</string>
   <string name="seconds">" sekundi"</string>
@@ -502,6 +522,7 @@ uređaja"</string>
   <string name="select_auto_upload_albums">Odaberite albume za sinkr.</string>
   <string name="select_image">Odaberi fotog.</string>
   <string name="select_item">Odaberi stavku</string>
+  <string name="select_item_face">Odabrane fotografije pripadaju %1</string>
   <string name="select_too_much_to_send_tips">"Ne mogu poslati tako puno stavaka (maks. %d)."</string>
   <string name="select_video">Odaberite videoz.</string>
   <string name="send">Pošalji</string>
@@ -539,6 +560,8 @@ uređaja"</string>
   <string name="show_on_map">Pokaži na karti</string>
   <string name="show_videos_only">Samo videozapisi</string>
   <string name="sina_weibo">Weibo</string>
+  <string name="single_device_project_dialog_checkbox_text">Zapamti ovaj zaslon</string>
+  <string name="single_device_project_dialog_title">Emitiraj na %s</string>
   <string name="size_above">%1$s ili više</string>
   <string name="size_below">%1$s ili manje</string>
   <string name="size_between">%1$s do %2$s</string>
@@ -583,17 +606,16 @@ uređaja"</string>
   <string name="tieba">Tie Ba</string>
   <string name="time">Vrijeme</string>
   <string name="times">Vremena</string>
-  <string name="tint">Svijetlija nijansa</string>
+  <string name="tint">Svjetlija nijansa</string>
   <string name="title">Naslov</string>
   <string name="to_count">%d ukupno</string>
   <string name="too_many_recipients">"Ne možete dodati više od %2$s primatelja (Trenutno ste dodali %1$s)."</string>
   <string name="try_to_send">Poslano</string>
-  <string name="ubifocus_data_missing">Neki podaci ove slike su izgubljeni</string>
+  <string name="ubifocus_data_invalid">Neki od podataka za ovu sliku su nevažeći</string>
+  <string name="ubifocus_data_missing">Potrebno je preuzimanje nekih podataka</string>
   <string name="ubifocus_guide_text">Dodirni &amp; drži za ponovno fokusiranje</string>
-  <string name="ubifocus_map_error">Pojedini podaci ove slike sadrže pogreške</string>
-  <string name="ubifocus_refocus_data_missing">"Ne mogu ponovno fokusirati jer neki podaci ove slike nedostaju"</string>
+  <string name="ubifocus_refocus_data_invalid">"Ne mogu ponovno fokusirati jer neki podaci ove slike su nevažeći"</string>
   <string name="ubifocus_refocus_download_tip">"Morate preuzeti podatke o ovoj slici prije ponovnog fokusiranja."</string>
-  <string name="ubifocus_refocus_map_error">"Ne mogu ponovno fokusirati jer neki podaci ove slike  pogreške"</string>
   <string name="uc">UC</string>
   <string name="ucdownloads_screenshot">UC Preglednik</string>
   <string name="unit_mm">mm</string>
@@ -604,6 +626,7 @@ uređaja"</string>
   <string name="user_alias_self">Sam</string>
   <string name="video_err">"Ne mogu reproducirati videozapis."</string>
   <string name="video_not_exist">Videozapis ne postoji</string>
+  <string name="videos">Videozapisi</string>
   <string name="view_face_album">Pogledaj album</string>
   <string name="view_sharers">Pogledaj sudionike</string>
   <string name="vignette">Vinjeta</string>

@@ -79,7 +79,7 @@
   <string name="pref_camera_antibanding_entry_3">Auto</string>
   <string name="pref_camera_antibanding_title">Smanjenje traka na zaslonu</string>
   <string name="pref_camera_asd_night_title">Auto. poboljšanje kod noćnog slikanja</string>
-  <string name="pref_camera_asd_popup_title">Opcija skočnog prozora kada je potrebna bljeskalica</string>
+  <string name="pref_camera_asd_popup_title">Pitaj ako je potrebna bljeskalica</string>
   <string name="pref_camera_audio_capture_title">Zvuk</string>
   <string name="pref_camera_auto_capture_when_stable_title">Auto. snimi kad je stabilno</string>
   <string name="pref_camera_auto_chroma_flash_title">Chroma Flash</string>
@@ -150,8 +150,8 @@
   <string name="pref_camera_hfr_entry_3x">90</string>
   <string name="pref_camera_hfr_entry_4x">120</string>
   <string name="pref_camera_hfr_entry_off">Isključeno</string>
-  <string name="pref_camera_histogram_entry_disable">Onemogući</string>
-  <string name="pref_camera_histogram_entry_enable">Omogući</string>
+  <string name="pref_camera_histogram_entry_disable">Isključi</string>
+  <string name="pref_camera_histogram_entry_enable">Uključi</string>
   <string name="pref_camera_iso_entry_auto">Auto</string>
   <string name="pref_camera_iso_entry_iso100">ISO 100</string>
   <string name="pref_camera_iso_entry_iso1600">ISO 1600</string>
@@ -293,8 +293,8 @@
   <string name="pref_video_speed_entry_fast">Brzo</string>
   <string name="pref_video_speed_entry_normal">Normalno</string>
   <string name="pref_video_speed_entry_slow">Sporo</string>
-  <string name="pref_video_speed_fast_title">Brzo</string>
-  <string name="pref_video_speed_slow_title">Sporo</string>
+  <string name="pref_video_speed_fast_title">Time-lapse</string>
+  <string name="pref_video_speed_slow_title">Slow-motion</string>
   <string name="pref_video_speed_title">Brzina snimanja videozapisa</string>
   <string name="pref_video_time_lapse_frame_interval_entry_10">Interval od 0.3 sek. (10 puta)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_120">Interval od 4 sek. (120 puta)</string>
@@ -333,13 +333,13 @@
   <string name="simple_mode_button_text_countdown">Isključi odbrojavanje</string>
   <string name="simple_mode_button_text_delay_capture">Isključi odbrojavanje</string>
   <string name="simple_mode_button_text_face_beauty">Isključi tonove</string>
-  <string name="simple_mode_button_text_fast_video">Isključi</string>
+  <string name="simple_mode_button_text_fast_video">Isključi slow-motion</string>
   <string name="simple_mode_button_text_hand_night">Isključi HHT</string>
   <string name="simple_mode_button_text_hdr">Isključi HDR</string>
   <string name="simple_mode_button_text_manual">Isključi Ručno</string>
   <string name="simple_mode_button_text_panorama">Isključi panoramu</string>
   <string name="simple_mode_button_text_scene">Isključi način scena</string>
-  <string name="simple_mode_button_text_slow_video">Isključi brzo snimanje</string>
+  <string name="simple_mode_button_text_slow_video">Isključi time-lapse</string>
   <string name="simple_mode_button_text_ubifocus">Isključi Refocus</string>
   <string name="snapshot_lower_than_video">Veličina pregledane snimke manja od veličine videozapisa. Prekrivanje na veličinu videozapisa. Odaberite razlučivost višu ili jednaku trenutnoj veličini videozapisa.</string>
   <string name="snapshotsize_low_powermode">"Razlučivost slike nije podržana trenutnim postavkama upravljanja napajanjem. Veličina snimanja videozapisa će se koristiti".</string>
@@ -357,5 +357,5 @@
   <string name="ubifocus_capture_warning_message">Za najbolje rezultate, vaša fotografija bi trebala sadržavati objekte i blizu (manje od 1 metra od objektiva) i daleko</string>
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Dostignuto ograničenje veličine.</string>
-  <string name="wait">Pričekajte…</string>
+  <string name="wait">Trenutak…</string>
 </resources>

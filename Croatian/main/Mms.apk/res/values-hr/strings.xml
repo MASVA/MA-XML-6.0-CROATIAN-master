@@ -359,14 +359,14 @@
   <string name="pref_title_mms_delete">Ograničenje multimedijske poruke</string>
   <string name="pref_title_mms_read_reports">Čitaj izvješća</string>
   <string name="pref_title_mms_retrieval_during_roaming">Automatsko vraćanje u Roamingu</string>
-  <string name="pref_title_mms_validity_period">Vrijeme valjanosti MMS-a</string>
+  <string name="pref_title_mms_validity_period">Valjanost MMS-a</string>
   <string name="pref_title_notification_body_enabled">Prikaži obavijest na zaklj. zaslonu</string>
   <string name="pref_title_ringtone_repeat">Broj ponavljanja tona obavijesti</string>
   <string name="pref_title_ringtone_repeat_summary">"Broj ponavljanja tona obavijesti kod primljenog SMS-a dok je zaslon isključen: "</string>
   <string name="pref_title_send_delivery_reports">Pošalji izvješće o isporuci</string>
   <string name="pref_title_show_recent_contacts">Nedavni kontakti</string>
   <string name="pref_title_sms_delete">Ograničenje teksta poruke</string>
-  <string name="pref_title_sms_validity_period">Vrijeme valjanosti SMS-a</string>
+  <string name="pref_title_sms_validity_period">Valjanost SMS-a</string>
   <string name="pref_title_storage_status">Status pohrane poruka</string>
   <string name="pref_title_system_mms_priority">Postavi kao zadano</string>
   <string name="pref_title_vcard">Pošalji kroz vCard</string>
@@ -529,7 +529,7 @@
   <string name="toast_feedback_finish">Izvješće će biti poslano automatski kada se spojite na WLAN</string>
   <string name="toast_feedback_max">"Ne mogu poslati više od 3 izvješća dnevno"</string>
   <string name="toast_feedback_start">Dobivanje podataka zapisa…</string>
-  <string name="too_many_attachments">Ograničenje broja privitaka je: %1$s. Dodano će biti samo ovoliko prvih privitaka: %2$s.</string>
+  <string name="too_many_attachments">"Ne mogu premašiti %1$s privitaka. Samo prvih %2$s privitaka će biti dodano."</string>
   <string name="too_many_recipients">Poruka ima previše primatelja (%1$s). Granica broja primatelja iznosi: %2$s.</string>
   <string name="too_many_unsent_mms">"Ovu poruku trenutačno nije moguće poslati. Postoji previše neposlanih multimedijskih poruka."</string>
   <string name="try_to_send">Pokušati poslati</string>

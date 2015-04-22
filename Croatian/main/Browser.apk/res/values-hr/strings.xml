@@ -368,6 +368,7 @@ Jeste li sigurni da želite otići s ove stranice?"</string>
   <string name="miui_quicksearch_enable_pref_title">Traka pretrage u panelu obavijesti</string>
   <string name="miui_search_notification_message">Dodirnite za otvaranje trake pretrage</string>
   <string name="miui_search_notification_title">Brzo pretraživanje</string>
+  <string name="miuichromium_error_page_diagnostic">Dijagnostika mreže</string>
   <string name="miuichromium_error_page_mobile">Mobilna mreža</string>
   <string name="miuichromium_error_page_reason_network">Prikaži Poveznicu</string>
   <string name="miuichromium_error_page_reason_server">Nije moguće učitati ovu stranicu</string>
@@ -684,6 +685,10 @@ Jeste li sigurni da želite otići s ove stranice?"</string>
   <string name="sub_sync_item_browser_title_history_summary">Sink. povijesti Preglednika</string>
   <string name="sub_sync_item_browser_title_novel">Sink. novela</string>
   <string name="sub_sync_item_browser_title_novel_summary">Sink. novela iz Preglednika</string>
+  <string name="sub_sync_item_browser_title_useful">Sink. korisnih</string>
+  <string name="sub_sync_item_browser_title_useful_summary">Sink. korisnih stranica preglednika</string>
+  <string name="sub_sync_item_browser_title_video">Sink. povijest videozapisa</string>
+  <string name="sub_sync_item_browser_title_video_summary">"Sink. popis videozapisa koje ste nedavno gledali imeđu svojih uređaja"</string>
   <string name="sub_sync_item_browser_title_webapp">Sink. web aplikacija</string>
   <string name="sub_sync_item_browser_title_webapp_summary">Sink. dodanih web aplik. i favorita</string>
   <string name="suggest_access_appstore">Mi App Store</string>

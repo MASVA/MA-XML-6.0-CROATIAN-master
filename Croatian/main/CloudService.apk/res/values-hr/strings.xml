@@ -45,11 +45,11 @@ Da dobijete više prostora za pohranu, posjetite mi.com/micloud."</string>
   <string name="cloud_back_up_interval_long">7 dana</string>
   <string name="cloud_back_up_interval_short">1 sat</string>
   <string name="cloud_back_up_network_unavailable">"Ne mogu ukloniti. Povežite se na WLAN i pokušajte ponovno."</string>
-  <string name="cloud_back_up_open_info">"Napravi Sig. kopiju Početnog zaslona i aplikacija svakih %1$s kada je povezano na WLAN
+  <string name="cloud_back_up_open_info">"Napravi Sig. kopiju rasporeda aplikacija Početnog zaslona kada je povezano na WLAN svakih %1$s 
 Zadnja Sig. kopija: %2$s"</string>
-  <string name="cloud_back_up_open_info_no_backuptime">Napravi Sig. kopiju Početnog zaslona i aplikacija svakih %1$s kada je povezano na WLAN</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Napravi Sig. kopiju rasporeda aplikacija Početnog zaslona kada je povezano na WLAN svakih %1$s</string>
   <string name="cloud_back_up_remove_success">Sig. kopija je izbrisana</string>
-  <string name="cloud_back_up_title">Sig. kopija Početnog zaslona</string>
+  <string name="cloud_back_up_title">Sig. kopija rasporeda Početnog zaslona</string>
   <string name="cloud_backup_dialog_title">Napravi Sig. kopiju s Mi Cloudom</string>
   <string name="cloud_find_device">Pronađi Uređaj</string>
   <string name="cloud_space_upgrade_message">Dodirnite za dodavanje %sGB na vaš cloud.</string>

@@ -110,7 +110,15 @@
         <item quantity="one">%1$d odabran</item>
     </plurals>
 	<plurals name="callNoAnswerTimeFormat">
-        <item quantity="other">Zvoni (%d) puta </item>
+        <item quantity="other">Zvoni (%d) puta</item>
         <item quantity="one">Zvoni (%d) puta</item>
+    </plurals>
+    <plurals name="dlg_add_blacklist">
+        <item quantity="other">Blokirati ove brojeve (%1$d)?</item>
+        <item quantity="one">Blokirati ovaj broj?</item>
+    </plurals>
+    <plurals name="dlg_remove_blacklist">
+        <item quantity="other">Odblokirati ove brojeve (%1$d)?</item>
+        <item quantity="one">Odblokirati ovaj broj?</item>
     </plurals>
 </resources> 
