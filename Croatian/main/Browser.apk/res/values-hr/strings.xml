@@ -685,8 +685,8 @@ Jeste li sigurni da želite otići s ove stranice?"</string>
   <string name="sub_sync_item_browser_title_history_summary">Sink. povijesti Preglednika</string>
   <string name="sub_sync_item_browser_title_novel">Sink. novela</string>
   <string name="sub_sync_item_browser_title_novel_summary">Sink. novela iz Preglednika</string>
-  <string name="sub_sync_item_browser_title_useful">Sink. korisnih</string>
-  <string name="sub_sync_item_browser_title_useful_summary">Sink. korisnih stranica preglednika</string>
+  <string name="sub_sync_item_browser_title_useful">Sink. početne stranice</string>
+  <string name="sub_sync_item_browser_title_useful_summary">"Sink. stranica koje ste dodali na početnu stranicu"</string>
   <string name="sub_sync_item_browser_title_video">Sink. povijest videozapisa</string>
   <string name="sub_sync_item_browser_title_video_summary">"Sink. popis videozapisa koje ste nedavno gledali imeđu svojih uređaja"</string>
   <string name="sub_sync_item_browser_title_webapp">Sink. web aplikacija</string>

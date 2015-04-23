@@ -102,7 +102,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="ext_media_unmountable_notification_title">Oštećena USB pohrana</string>
   <string name="gps_notification_found_text">Lokaciju postavio GPS</string>
   <string name="gps_notification_searching_text">Traženje GPS-a</string>
-  <string name="headset_custom">Konfiguriraj</string>
+  <string name="headset_custom">Odbaci</string>
   <string name="headset_info">Dodirnite za podešavanje vrste slušalica i funkcije tipaka</string>
   <string name="headset_settings">Slušalice su spojene</string>
   <string name="hint_for_long_press_app_switch_key">Pritisni &amp; drži za izbornik</string>

@@ -17,7 +17,7 @@
   <string name="add_2sec_pause">"Dodaj pauzu od 2 sek."</string>
   <string name="add_account">"Dodaj račun"</string>
   <string name="add_blacklist">Blokiraj</string>
-  <string name="add_blacklist_dialog_title">Blokirati ovaj broj?</string>
+  <string name="add_blacklist_dialog_title">Dodaj na listu blokiranih</string>
   <string name="add_connection_button">"Dodaj vezu"</string>
   <string name="add_contact_dlg_message_fmt">Dodati \"%s\" kontaktima?</string>
   <string name="add_field">Dodaj drugo polje</string>
@@ -792,7 +792,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="relationLabelsGroup">"Odnos"</string>
   <string name="removePhoto">Ukloni fotografiju</string>
   <string name="remove_blacklist">Odblokiraj</string>
-  <string name="remove_blacklist_dialog_title">Odblokirati ovaj broj?</string>
+  <string name="remove_blacklist_dialog_title">Ukloni s liste blokiranih</string>
   <string name="remove_duplicate">"MIUI će vam pomoći u pronalaženju i združivanju dvostrukih kontakata. 
 
  Za početak, dodirnite ikonu "Združi" na dnu zaslona."</string>

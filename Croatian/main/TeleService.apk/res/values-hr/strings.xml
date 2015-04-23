@@ -190,6 +190,8 @@
   <string name="carrier_settings_title">Postavke davatelja usluge</string>
   <string name="cb_sms_settings">Postavke SMS-a iz mobilne mreže</string>
   <string name="cdma_activate_device">Aktivacija uređaja</string>
+  <string name="cdma_alert_message">"Ako odaberete drugu karticu kao zadanu za mobilne podatke, nećete biti u mogućnosti koristiti vašu China Telecom SIM karticu."</string>
+  <string name="cdma_alert_title">UIM kartica mora biti zadana</string>
   <string name="cdma_display_precise_call_state_message">"Ako vaš davatelj mobilnih usluga ne podržava ovu funkciju, status poziva može biti netočan."</string>
   <string name="cdma_display_precise_call_state_summary">Potvrdite da vaš davatelj mobilnih usluga podržava ovu funkciju</string>
   <string name="cdma_display_precise_call_state_title">Prikaži status poziva</string>
@@ -210,6 +212,9 @@
   <string name="cfnrc_title_cta">Proslijedi kad je nedostupno</string>
   <string name="cfnry_title">Proslijedi kad je neodgovoreno</string>
   <string name="cfu_title">Uvijek proslijedi pozive</string>
+  <string name="change_default_data">Promijeni</string>
+  <string name="change_default_data_alert_message">"Nećete biti u mogućnosti koristiti vašu China Telecom SIM karticu."</string>
+  <string name="change_default_data_alert_title">UIM kartica mora biti zadana</string>
   <string name="change">Postavi</string>
   <string name="change_num">Ažuriraj</string>
   <string name="change_password">Promjena zaporke zabrane</string>
@@ -224,6 +229,7 @@
   <string name="cloud_antispam_title">Identificiraj nepoznate brojeve</string>
   <string name="command_error_fdn_failure">Morate prvo isključiti FDN</string>
   <string name="config_dialing_emergency_number_suffix"/>
+  <string name="confirm_change_default_data">Promijeni</string>
   <string name="confirmPin2Label">Potvrdi novi PIN2</string>
   <string name="confirmPinLabel">Potvrdi novi PIN</string>
   <string name="confirm_password_label">Potvrdi novu zaporku</string>
@@ -648,6 +654,7 @@ Koristiti će se željena mreža umjesto toga."</string>
   <string name="no_wifi_available_title">Nema WLAN veze</string>
   <string name="not_a_valid_port">Broj priključka trebao bi biti između 1000 i 65534.</string>
   <string name="not_allowed">Vaša SIM kartica ne dopušta povezivanje s ovom mrežom.</string>
+  <string name="not_change_default_data">"Ne mijenjaj"</string>
   <string name="not_voice_capable">Glasovni pozivi nisu podržani</string>
   <string name="notification_action_end_call">Prekini vezu</string>
   <string name="notification_dialing">Biranje broja</string>
@@ -888,7 +895,8 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="reject_via_sms">Brzi odgovori</string>
   <string name="reject_via_sms_summary">Uredi prethodno napisane poruke</string>
   <string name="reject_via_sms_title">Brzi odgovori</string>
-  <string name="remember_my_choice">Vždy používajte toto umiestnenie pre volanie cez internet</string>
+  <string name="remember_my_choice">Uvijek koristi za pozive preko interneta</string>
+  <string name="remind_another_time">"Ne prikazuj ponovo"</string>
   <string name="remove">Ukloni</string>
   <string name="remove_ims_account">Odaberi račun</string>
   <string name="remove_sip_account">Ukloni račun</string>

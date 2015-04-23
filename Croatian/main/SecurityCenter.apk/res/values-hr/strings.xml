@@ -95,7 +95,7 @@
   <string name="button_optimizer">U redu</string>
   <string name="button_text_accept">Odobri</string>
   <string name="button_text_accept_timer">Odobri (%d)</string>
-  <string name="button_text_add_to_white_list">Dodaj u iznimke</string>
+  <string name="button_text_add_to_white_list">Iznimke</string>
   <string name="button_text_backup_uninstall">Pohrani i deinstaliraj</string>
   <string name="button_text_cancel">Odustani</string>
   <string name="button_text_cancel_clean">Odustani</string>

@@ -107,7 +107,7 @@ Administrator može nadzirati postavke, pristup, aplikacije i podatke povezane s
   <string name="agps_roaming">A-GPS u roamingu</string>
   <string name="agps_roaming_dia">"Korištenje A-GPS u roamingu može značajno povećati uporabu podataka. Ako premašite svoje ograničenje podataka, vaš davatelj usluga vam može naplatiti dodatne troškove."</string>
   <string name="agps_roaming_dia_title">Koristi A-GPS u roamingu</string>
-  <string name="agps_roaming_summary">Korištenje A-GPS-a u roamingu, može vas stajati dodatnih troškova.</string>
+  <string name="agps_roaming_summary">Koristi mobilne podatke za pomoć GPS-a u roamingu</string>
   <string name="airplane_mode">Zrakoplovni način</string>
   <string name="alarm_volume_option_title">Alarm</string>
   <string name="alarm_volume_title">Alarm</string>
