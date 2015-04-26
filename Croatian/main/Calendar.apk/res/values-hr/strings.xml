@@ -96,6 +96,7 @@
   <string name="dismiss_all_label">Odbaci sve</string>
   <string name="do_not_check">NE provjeravaj -&gt;</string>
   <string name="does_not_repeat">Jednokratni događaj</string>
+  <string name="done">Ďalej</string>
   <string name="edit_event_all_day_label">Cijeli dan</string>
   <string name="edit_event_calendar_label">Kalendar</string>
   <string name="edit_event_confirm_message">Odbaciti promjene za događaj?</string>
@@ -273,8 +274,6 @@
   <string name="select_synced_calendars_title">Kalendari za sinkronizaciju</string>
   <string name="select_visible_calendars_title">Kalendari za prikaz</string>
   <string name="setting_wifi_mode">Sinkr. samo preko WLAN-a</string>
-  <string name="show_all_lunar">Lunarno (Kina)</string>
-  <string name="show_almanac">Almanah (Kina)</string>
   <string name="show_controls">Pokaži kontrole</string>
   <string name="show_day_view">Pokaži dan</string>
   <string name="show_newer_events">Dodirnite za pregled događaja nakon %1$s</string>
@@ -292,7 +291,7 @@
   <string name="tab_online">Preporuka</string>
   <string name="taishen">Božje dijete</string>
   <string name="tardis">TARDIS</string>
-  <string name="template_announce_item_index">Događaj %1$s od %2$s.</string>
+  <string name="template_announce_item_index" formatted="false">Događaj %1$s od %2$s</string>
   <string name="text_year">Godina</string>
   <string name="time_zone">Vremenska zona</string>
   <string name="timezone_label">Vremenska zona</string>

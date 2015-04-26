@@ -20,7 +20,7 @@
   <string name="artist_search_title">"Izvođač"</string>
   <string name="artist_view">"Izvođač"</string>
   <string name="audio_picker_title">Odaberi pjesmu</string>
-  <string name="auto_download_in_wifi">Automatski preuzmi omiljene pjesme preko WLAN-a</string>
+  <string name="auto_download_in_wifi">Automatski preuzmi favorite preko WLAN-a</string>
   <string name="available_playlist_name_format">Novi popis pjesama %d</string>
   <string name="avoid_to_use_traffic_summary">"Nemoj koristiti mobilnu mrežu za stream glazbe"</string>
   <string name="avoid_to_use_traffic_title">Koristi samo WLAN za stream</string>
@@ -34,8 +34,8 @@
   <string name="channel_list_fragment_title">Radio</string>
   <string name="choose_download_quality">Odaberi kvalitetu preuzimanja</string>
   <string name="choose_stream_quality">Odaberi kvalitetu streama</string>
-  <string name="click_modify">Dodirnite za uređivanje teksta pjesme</string>
-  <string name="click_to_shuffle">Dodirnite za izmiješati sve</string>
+  <string name="click_modify">Dodirnite za uređivanje teksta</string>
+  <string name="click_to_shuffle">Slučajni odabir za sve</string>
   <string name="click_to_view_new_local_audios">Dodirnite za pregled detalja.</string>
   <string name="close_music_time">"Preostalo vremena: "</string>
   <string name="create_playlist">Izradi novi popis pjesama</string>
@@ -65,13 +65,13 @@
   <string name="done">Gotovo</string>
   <string name="download">Preuzmi</string>
   <string name="download_all_song">Preuzmi sve</string>
-  <string name="download_auto_after_favorite_summary">Automatski preuzmi pjesme koje su vam favoriti</string>
+  <string name="download_auto_after_favorite_summary">Automatski preuzmi pjesme koje su favoriti</string>
   <string name="download_auto_after_favorite_title">Preuzimanje favorita</string>
   <string name="download_auto_cancel">Preuzimanje favorita je isključeno</string>
   <string name="download_auto_message">"Pjesme koje ste označili favoritima preuzet će se automatski kada ste povezani na WLAN. Možete isključiti ovu značajku bilo kada u Postavkama."</string>
   <string name="download_auto_quality_alert_sub_title_for_expired">Vaš probni dio ili pretplata je istekla. Odaberite drugu kvalitetu preuzimanja.</string>
   <string name="download_auto_quality_alert_sub_title_for_login">Da biste aktivirali, prijavite se sada na svoj Mi Račun.</string>
-  <string name="download_auto_quality_alert_title">Kvaliteta glazbe preuzimanja</string>
+  <string name="download_auto_quality_alert_title">Kvaliteta preuzete glazbe</string>
   <string name="download_auto_when_all_network">Koristi mobilnu mreže i WLAN</string>
   <string name="download_auto_when_free_network">Koristi samo WLAN</string>
   <string name="download_auto_when_free_network_summary">Dodatne postavke za pjesme koje su vam favoriti</string>
@@ -100,7 +100,7 @@
   <string name="eq_jazz">Jazz</string>
   <string name="eq_metal">Metal</string>
   <string name="eq_pop">Pop</string>
-  <string name="eq_preset_create">Stvori</string>
+  <string name="eq_preset_create">Izradi</string>
   <string name="eq_preset_format">Podešenja korisnika %d</string>
   <string name="eq_preset_hint">Naziv podešenja</string>
   <string name="eq_preset_rename">Preimenuj</string>
@@ -110,7 +110,7 @@
   <string name="error_forbidden">Sinkronizacija je isključena zbog problema s vašim Mi Računom.</string>
   <string name="error_not_acceptable">Sinkronizacija je isključena</string>
   <string name="error_title">"Ne mogu sinkronizirati s Mi Računom"</string>
-  <string name="error_unauthorized">Sinkronizacija je isključena zbog previše pokušaja prijava.</string>
+  <string name="error_unauthorized">Sinkronizacija je isključena zbog previše pokušaja prijave</string>
   <string name="expired">Istekao</string>
   <string name="fail_to_play">"Ne mogu reproducirati pjesmu"</string>
   <string name="favorite_canceled">Uklonjeno iz favorita</string>
@@ -147,7 +147,7 @@
   <string name="higher_quality_music">Visoka kvaliteta zvuka</string>
   <string name="higher_quality_music_summary">Stream i preuzimanje datoteka veće brzine prijenosa</string>
   <string name="i_know">U redu</string>
-  <string name="impunity_declaration">Online sadržaj potječe iz Baidu Online Music Service. Korištenjem ove usluge, pristajete na Baidu "&lt;a href="http://music.baidu.com/doc/agreement"&gt;Uvjeti pružanja uslugee&lt;/a&gt;.</string>
+  <string name="impunity_declaration">Online sadržaj potječe iz Baidu Online Music Service. Korištenjem ove usluge, pristajete na Baidu "&lt;a href="http://music.baidu.com/doc/agreement"&gt;Uvjeti pružanja usluge&lt;/a&gt;.</string>
   <string name="impunity_declaration_ignore">"Ne prikazuj ponovo"</string>
   <string name="impunity_declaration_negative_text">Zatvori</string>
   <string name="impunity_declaration_positive_text">U redu i nastavi</string>
@@ -181,7 +181,7 @@
   <string name="min_sleep_time">1</string>
   <string name="modify_lyric">Uredi tekst</string>
   <string name="modify_progress">Promjena brzine pomicanja teksta</string>
-  <string name="modify_progress_helper">Pomaknite gore ili dolje za podešavanje napretka teksta</string>
+  <string name="modify_progress_helper">Prijeđite prstom prema gore ili dolje za podešavanje teksta</string>
   <string name="modify_song_info">Uređivanje informacija pjesme</string>
   <string name="more_about_artist">Više o %s</string>
   <string name="music_browser_label">Glazba</string>
