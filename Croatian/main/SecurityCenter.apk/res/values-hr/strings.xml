@@ -562,5 +562,5 @@
   <string name="usage_type_video">Videozapis</string>
   <string name="usage_type_wake_lock">Zadrži u aktivnom stanju</string>
   <string name="usage_type_wifi_running">WLAN uključen</string>
-  <string name="virus_list_header_title">Otriveno (%d) virusa</string>
+  <string name="virus_list_header_title">Otriveno virusa (%d)</string>
 </resources>
