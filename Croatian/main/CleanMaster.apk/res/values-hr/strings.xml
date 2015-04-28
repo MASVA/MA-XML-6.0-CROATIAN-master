@@ -76,6 +76,8 @@
   <string name="hints_garbage_cleanup_result_danger">Očistite nagomilani otpad</string>
   <string name="hints_garbage_cleanup_result_risk">Očistite nagomilani otpad</string>
   <string name="hints_garbage_cleanup_result_safe">Sve izgleda uredno</string>
+  <string name="hints_garbage_handle_item_content">Stavke: %1$d, %2$s</string>
+  <string name="hints_garbage_handle_item_empty_content">Prazno</string>
   <string name="hints_install_apps_interval">korišteno prije %d dana</string>
   <string name="hints_install_apps_new">nekorišteno</string>
   <string name="hints_install_apps_risk">riskantno</string>
@@ -97,6 +99,7 @@
   <string name="hints_title_garbage">smeća</string>
   <string name="item_title_process_mode">Odaberite radnju</string>
   <string name="last_check_canceled">Prethodno skeniranje je otkazano</string>
+  <string name="msg_cleanup_db_update_checking">Provjera ažuriranja...</string>
   <string name="msg_cleanup_db_update_time_unknown">Zadnje ažuriranje nepoznato</string>
   <string name="msg_update_error_code_already_running">Ažuriranje</string>
   <string name="msg_update_error_code_network_error">"Ne mogu se povezati na mrežu"</string>
@@ -158,7 +161,7 @@
   <string name="toast_resolve_apk_error">Rješavanje pogreške aplik.</string>
   <string name="toast_uninstall_success">Deinstaliranje završeno</string>
   <string name="white_list_ad_header">Reklama: %d</string>
-  <string name="white_list_apk_header">Instal. paketa: %d</string>
+  <string name="white_list_apk_header">Instal. aplik.: %d</string>
   <string name="white_list_cache_header">Predmorija: %d</string>
   <string name="white_list_large_file_header">Vel.datoteka: %d</string>
   <string name="white_list_residual_header">Ostataka: %d</string>
