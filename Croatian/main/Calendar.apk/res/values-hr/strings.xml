@@ -96,7 +96,7 @@
   <string name="dismiss_all_label">Odbaci sve</string>
   <string name="do_not_check">NE provjeravaj -&gt;</string>
   <string name="does_not_repeat">Jednokratni događaj</string>
-  <string name="done">Ďalej</string>
+  <string name="done">Dalje</string>
   <string name="edit_event_all_day_label">Cijeli dan</string>
   <string name="edit_event_calendar_label">Kalendar</string>
   <string name="edit_event_confirm_message">Odbaciti promjene za događaj?</string>
@@ -106,7 +106,7 @@
   <string name="edit_event_show_all">Prikaži sve</string>
   <string name="edit_event_to_label">Do</string>
   <string name="edit_label">"Uredi"</string>
-  <string name="email_guests_label">Slanje e-poruke gostima</string>
+  <string name="email_guests_label">Slanje e-pošte gostima</string>
   <string name="email_picker_label">Pošalji e-poštu s</string>
   <string name="email_subject_prefix">"Odgovor: "</string>
   <string name="empty_event">Nije stvoren prazan događaj.</string>
@@ -186,12 +186,12 @@
   <string name="movable_list_header_label">Kratak uvod</string>
   <string name="new_event_dialog_label">Novi događaj</string>
   <string name="new_event_dialog_option">Novi događaj</string>
-  <string name="no_calendars_found">Prije nego što ćete moći dodati događaj morate dodati barem jedan račun usluge Kalendar na svoj uređaj i učiniti ga vidljivim. Da biste dodali račun, dodirnite Dodaj račun (ako ste upravo dodali račun, pričekajte da se dovrši sinkronizacija i pokušajte ponovo). Ili dodirnite Otkaži i provjerite da je barem jedan kalendar vidljiv.</string>
+  <string name="no_calendars_found">Prije nego što možete dodati događaj morate dodati barem jedan račun usluge Kalendar na svoj uređaj i učiniti ga vidljivim. Da biste dodali račun, dodirnite Dodaj račun (ako ste upravo dodali račun, pričekajte da se dovrši sinkronizacija i pokušajte ponovo). Ili dodirnite Otkaži i provjerite da je barem jedan kalendar vidljiv.</string>
   <string name="no_local_calendar">Nema upisa kalendara :)</string>
   <string name="no_network">Nema mreže, pokušajte ponovno obnoviti mrežu :)</string>
   <string name="no_syncable_calendars">Nema kalendara</string>
   <string name="no_title_label">(bez naslova)</string>
-  <string name="not_synced">nije sinkronizirano</string>
+  <string name="not_synced">Nije sinkronizirano</string>
   <string name="online_calendar_activity_label">Upis kalendara</string>
   <string name="pengzu"/>
   <string name="prefDialogTitle_vibrateWhen">Vibracija</string>

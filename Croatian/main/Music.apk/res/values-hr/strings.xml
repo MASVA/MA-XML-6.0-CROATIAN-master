@@ -147,6 +147,7 @@
   <string name="higher_quality_music">Visoka kvaliteta zvuka</string>
   <string name="higher_quality_music_summary">Stream i preuzimanje datoteka veće brzine prijenosa</string>
   <string name="i_know">U redu</string>
+  <string name="i_know_it">U redu</string>
   <string name="impunity_declaration">Online sadržaj potječe iz Baidu Online Music Service. Korištenjem ove usluge, pristajete na Baidu "&lt;a href="http://music.baidu.com/doc/agreement"&gt;Uvjeti pružanja usluge&lt;/a&gt;.</string>
   <string name="impunity_declaration_ignore">"Ne prikazuj ponovo"</string>
   <string name="impunity_declaration_negative_text">Zatvori</string>
@@ -254,6 +255,7 @@
   <string name="send_to">Dijeli</string>
   <string name="send_to_title">Pošalji (%1$s)</string>
   <string name="server_error">Pogreška poslužitelja. Pokušajte ponovo kasnije</string>
+  <string name="service_stop">Usluga je obustavljena</string>
   <string name="set_album_successful">Albuma je spremljen</string>
   <string name="set_as_ring">Postavi za zvuk zvona</string>
   <string name="set_id3_failed">"Ne mogu spremiti informacije"</string>
@@ -298,6 +300,12 @@
   <string name="ultra_high_quality">Najviša</string>
   <string name="unknown_album_name">Nepoznati album</string>
   <string name="unknown_artist_name">Nepoznati izvođač</string>
+  <string name="upgrade_force">"Obustavljamo našu trenutnu streaming uslugu zbog pitanja autorskih prava. Ažurirajte na najnoviju verziju aplikacije Glazba za slušanje glazbe visoke kvalitete."</string>
+  <string name="upgrade_immediate">Ažuriraj sada</string>
+  <string name="upgrade_nobeta">"Obustavljamo našu trenutnu streaming uslugu, dok ne riješimo probleme oko autorskih prava. Žao nam je zbog neugodnosti :("</string>
+  <string name="upgrade_remind">Dostupno je ažuriranje</string>
+  <string name="upgrade_suggest">"Obustavljamo našu trenutnu streaming uslugu zbog pitanja autorskih prava. Ažurirajte na najnoviju verziju aplikacije Glazba za slušanje glazbe visoke kvalitete."</string>
+  <string name="upgrade_waringing">"Moći ćete samo slušati glazbu pohranjenu na vašem uređaju."</string>
   <string name="valid_period">"Vrijedi do: "</string>
   <string name="vip_recommend_title">Nabavite višu kvalitetu glazbe</string>
 </resources>

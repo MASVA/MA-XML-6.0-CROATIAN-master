@@ -8,7 +8,10 @@
   <string name="calibrate_failed">Ne mogu kalibrirati visinu</string>
   <string name="calibrate_failed_no_location">"Ne mogu kalibrirati"</string>
   <string name="calibrate_failed_timeout">"Ne mogu se povezati na poslužitelj"</string>
-  <string name="calibrate_success">Kalibriranje završeno</string>
+  <string name="calibrate_rotate_again">Pokušaj ponovo</string>
+  <string name="calibrate_success">Kalibrirano</string>
+  <string name="calibrate_tip">Naginjite uređaj da kotrljate loptom oko kruga</string>
+  <string name="calibrate_title">Kalibriranje kompasa</string>
   <string name="cannot_get_location">--</string>
   <string name="dialog_calibrat_altitude">Kalibriranje…</string>
   <string name="dialog_title_no_network">"Ne mogu se povezati na mrežu"</string>

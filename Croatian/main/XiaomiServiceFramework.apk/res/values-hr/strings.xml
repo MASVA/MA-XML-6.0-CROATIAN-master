@@ -46,6 +46,7 @@
   <string name="activate_popup_title_new_sim_card">Aktiviraj ponovo %s</string>
   <string name="activate_popup_title_register_account">Izradi Mi Račun</string>
   <string name="activate_popup_title_upload_diagnosis_info">"Ne mogu aktivirati SIM karticu"</string>
+  <string name="activate_sms_postfix">[Ova SMS poruka je korištena za aktiviranje vašeg Mi Uređaja.]</string>
   <string name="activate_status_desc_acquire_phone_number">Dobivanje broja telefona s poslužitelja</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Došlo je do pogreške na poslužitelju pri dobivanju broja telefona</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">"Ne mogu dobiti broj telefona"</string>
@@ -53,8 +54,6 @@
   <string name="activate_status_desc_checking_xiaomi_account_server_error">Došlo je do pogreške na poslužitelju pri provjeri Mi Računa</string>
   <string name="activate_status_desc_failed_getting_gateway">Neuspjelo dobivanje SMS-a s pristupnika</string>
   <string name="activate_status_desc_getting_gateway">Dobivanje SMS-a s pristupnika</string>
-  <string name="activate_status_desc_getting_sim_info">Dobivanje informacija SIM kartice</string>
-  <string name="activate_status_desc_getting_sim_info_fail">"Ne mogu dobiti informacije SIM kartice"</string>
   <string name="activate_status_desc_prepare_sending_sms">Priprema slanja aktivacijskog SMS-a pristupniku</string>
   <string name="activate_status_desc_query_activation_info">Upit informacija o aktivaciji s poslužitelja</string>
   <string name="activate_status_desc_query_activation_info_downlink_sms_error">Poslužitelj nije uspio poslati SMS aktivacije na vaš telefon</string>
@@ -64,15 +63,11 @@
   <string name="activate_status_desc_registering_sim_account_server_error">Došlo je do pogreške na poslužitelju prilikom registracije SIM kartice</string>
   <string name="activate_status_desc_registering_xiaomi_account">Registracija Mi Računa na poslužitelju</string>
   <string name="activate_status_desc_registering_xiaomi_account_server_error">Došlo je do pogreške na poslužitelju prilikom registracije Mi Računa</string>
-  <string name="activate_status_desc_registration">Registracija SIM kartice</string>
-  <string name="activate_status_desc_registration_server_error">Došlo je do pogreške na poslužitelju prilikom registracije SIM kartice</string>
   <string name="activate_status_desc_request_activation_sms">Potreban SMS aktivacije s poslužitelja na vaš telefon</string>
-  <string name="activate_status_desc_request_activation_sms_phone_error">Broj telefona koji ste unijeli nije ispravan</string>
   <string name="activate_status_desc_request_activation_sms_server_error">Došlo je do pogreške na poslužitelju tijekom zahtjeva SMS-a aktivacije s poslužitelja na vaš telefonu</string>
   <string name="activate_status_desc_sending_sms">Slanje SMS-a aktivacije</string>
   <string name="activate_status_desc_sending_sms_fail">"Ne mogu poslati SMS aktivacije poslužitelju"</string>
   <string name="activate_status_desc_sms_sent">SMS aktivacije poslan</string>
-  <string name="activate_status_desc_wait_for_phone_service">Čeka se usluga</string>
   <string name="activate_status_desc_wait_for_sms">Čeka se SMS aktivacije s poslužitelja</string>
   <string name="activate_status_desc_wait_for_sms_fail">"Nije bilo moguće primiti SMS aktivacije s poslužitelja"</string>
   <string name="activate_status_desc_wait_for_sms_success">SMS aktivacije s poslužitelja uspješno primljen</string>

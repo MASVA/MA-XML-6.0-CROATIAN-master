@@ -2619,6 +2619,7 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="status_bar_settings_advanced">"Dodatne postavke"</string>
   <string name="status_bar_settings_all_app_display_loading">Učitavanje…</string>
   <string name="status_bar_settings_basic_settings">Osnovne postavke</string>
+  <string name="status_bar_settings_carrier_sim">SIM %1$s:</string>
   <string name="status_bar_settings_custom_carrier">Uredi naziv davatelja usluga</string>
   <string name="status_bar_settings_custom_notification">Upravljaj obavijestima</string>
   <string name="status_bar_settings_custom_wifi_name">Uredi naziv WLAN-a</string>

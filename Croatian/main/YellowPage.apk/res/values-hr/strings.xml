@@ -204,6 +204,7 @@ Provjerite broj za praćenje."</string>
   <string name="group_name_title"/>
   <string name="hms_no_subject_view">(Nema predmeta)</string>
   <string name="hms_notification">Poruke</string>
+  <string name="info_divider">|</string>
   <string name="loading">Učitavanje…</string>
   <string name="loading_resource_detail_fail">"Ne mogu učitati resurse"</string>
   <string name="loading_resource_detail_info">Učitavanje…</string>

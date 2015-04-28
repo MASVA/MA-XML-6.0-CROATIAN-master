@@ -211,5 +211,8 @@ Ne mogu poslati Povratnu informaciju"</string>
   <string name="vote_recommend">Preporučujem ovo ažuriranje</string>
   <string name="vote_submit">Pošalji</string>
   <string name="weekly_build">Tjedno izdanje</string>
+  <string name="welcom_button">U redu</string>
+  <string name="welcom_message">"Spremni ste da rasturite"</string>
+  <string name="welcom_title">Dobrodošli u MIUI 6</string>
   <string name="worst_update">Najgore ažuriranje do sad</string>
 </resources>
