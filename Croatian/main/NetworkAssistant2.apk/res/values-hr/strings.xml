@@ -300,6 +300,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg davatelja mobilnih
   <string name="roaming_not_start_title">Međunarodni roaming</string>
   <string name="roaming_start_body">Aplikacije se povezivaju na podatkovne usluge.</string>
   <string name="roaming_start_title">Međunarodni roaming</string>
+  <string name="root">Root</string>
   <string name="sc_allow_network_dialog_message">Morate dopustiti aplikaciji povezivanje na internet da funkcionira normalno.</string>
   <string name="sc_allow_network_dialog_tiltle">"Ne mogu koristiti Uštedu podataka"</string>
   <string name="see_detail">Detalji</string>

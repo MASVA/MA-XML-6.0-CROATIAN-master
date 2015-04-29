@@ -1174,6 +1174,12 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="firmware_version">Verzija sustava Android</string>
   <string name="floating_window_switch_label">Prikaži skočne prozore </string>
   <string name="floating_window_switch_label_disable">Sakrij skočne prozore</string>
+  <string name="fluency_mode">Optimiziranje performansi sustava</string>
+  <string name="fluency_mode_confirm_title">Ponovno pokrenuti?</string>
+  <string name="fluency_mode_confirm_will_fluency_mode_text">Potrebno je ponvono pokretanje uređaja za primjenu ovih postavki.</string>
+  <string name="fluency_mode_confirm_will_normal_mode_text">Uključivanje animacije i korištenje dodatne memorije može uzrokovati sporije performanse na nekim uređajima.</string>
+  <string name="fluency_mode_enabled_name">Optimiziranje performansi sustava</string>
+  <string name="fluency_mode_summary">Isključite animacije sustava i smanjite potrošnju memorije</string>
   <string name="font_size_huge">Ogroman</string>
   <string name="font_size_large">Velik</string>
   <string name="font_size_medium">Srednji</string>
@@ -1240,6 +1246,7 @@ Ako je tekst vašeg sustava još uvijek premalen, pokušajte koristiti "</string
   <string name="gadget_toggle_wifi">Ažuriranje WLAN postavki</string>
   <string name="gadget_wifi">WLAN</string>
   <string name="game_controller_settings_category">Upravljač igrama</string>
+  <string name="gesture_wakeup_title">Dvaput dodirnite zaslon za buđenje</string>
   <string name="getConfiguredNetworks">getConfiguredNetworks</string>
   <string name="getConnectionInfo">getConnectionInfo</string>
   <string name="global_change_warning">Ova postavka utječe na sve korisnike ovog telefona.</string>
@@ -2364,6 +2371,7 @@ Da biste upotrebljavali prikvačivanje zaslona:
   <string name="search_date_time">datum vrijeme</string>
   <string name="search_description">"Postavke pretraživanja"</string>
   <string name="search_display">zaslon</string>
+  <string name="search_fluency_mode">tečnost</string>
   <string name="search_font">font</string>
   <string name="search_handy_mode">uprav. jednom rukom</string>
   <string name="search_gps">gps</string>
@@ -2619,7 +2627,7 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="status_bar_settings_advanced">"Dodatne postavke"</string>
   <string name="status_bar_settings_all_app_display_loading">Učitavanje…</string>
   <string name="status_bar_settings_basic_settings">Osnovne postavke</string>
-  <string name="status_bar_settings_carrier_sim">SIM %1$s:</string>
+  <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_bar_settings_custom_carrier">Uredi naziv davatelja usluga</string>
   <string name="status_bar_settings_custom_notification">Upravljaj obavijestima</string>
   <string name="status_bar_settings_custom_wifi_name">Uredi naziv WLAN-a</string>

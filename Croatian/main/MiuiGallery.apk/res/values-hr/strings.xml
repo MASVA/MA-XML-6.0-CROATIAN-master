@@ -507,10 +507,10 @@ uređaja"</string>
   <string name="save_photo">Spremiti uređenu fotografiju?</string>
   <string name="saving_failure">"Ne mogu spremiti sliku"</string>
   <string name="saving_image">Spremanje slike…</string>
-  <string name="scan_barcode_guide">Za dobivanje QR koda albuma, dodirnite Dijeli ikonu u gornjem desnom kutu.</string>
-  <string name="scan_barcode_to_join">Skeniranje QR koda za pridruživanje albumu.</string>
-  <string name="scan_qr_code_buttom_text">Skeniranje QR koda za pregled ovog albuma.</string>
-  <string name="scan_qr_code_failure">Neuspjelo skeniranje QR koda.</string>
+  <string name="scan_barcode_guide">"Za dobivanje QR koda albuma, dodirnite ikonu Dijeli."</string>
+  <string name="scan_barcode_to_join">Skeniraj QR kod za dodavanje albuma</string>
+  <string name="scan_qr_code_buttom_text">Skeniraj QR kod za pregled ovog albuma</string>
+  <string name="scan_qr_code_failure">Skeniranje QR koda nije uspjelo.</string>
   <string name="screensaver_activate_mode">Dijaprojekcija Čuvara zaslona</string>
   <string name="screensaver_activate_only_charging">Aktiviraj Čuvara zaslona samo tijekom punjenja</string>
   <string name="script">Skripta</string>
