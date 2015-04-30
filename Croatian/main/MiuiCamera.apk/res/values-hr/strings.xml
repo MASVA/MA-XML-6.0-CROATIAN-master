@@ -140,6 +140,7 @@
   <string name="pref_camera_focusmode_entry_manual">Ručno</string>
   <string name="pref_camera_focusmode_entry_normal">Normalno</string>
   <string name="pref_camera_focusmode_title">Način izoštravanja</string>
+  <string name="pref_camera_gradienter_title">Gradijent</string>
   <string name="pref_camera_hand_night_title">HHT</string>
   <string name="pref_camera_hdr_entry_auto">Auto</string>
   <string name="pref_camera_hdr_entry_live">Uživo</string>
@@ -334,6 +335,7 @@
   <string name="simple_mode_button_text_delay_capture">Isključi odbrojavanje</string>
   <string name="simple_mode_button_text_face_beauty">Isključi tonove</string>
   <string name="simple_mode_button_text_fast_video">Isključi slow-motion</string>
+  <string name="simple_mode_button_text_gradienter">Isključi Gradijent</string>
   <string name="simple_mode_button_text_hand_night">Isključi HHT</string>
   <string name="simple_mode_button_text_hdr">Isključi HDR</string>
   <string name="simple_mode_button_text_manual">Isključi Ručno</string>
