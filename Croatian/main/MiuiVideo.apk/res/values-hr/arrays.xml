@@ -22,4 +22,9 @@
         <item>Svi dodaci</item>
         <item>Moji dodaci</item>
    </string-array>
+   <string-array name="version_list_entries">
+        <item>Stabilna</item>
+        <item>Developer</item>
+        <item>Alpha</item>
+    </string-array>
 </resources>

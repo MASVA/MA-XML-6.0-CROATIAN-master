@@ -75,6 +75,7 @@
   <string name="callFailed_userBusy">Linija zauzeta</string>
   <string name="callUnanswered_forwarded">Odgovoreni i proslijeđeni razgovori</string>
   <string name="call_description_recording">Snimanje…</string>
+  <string name="call_extension_conference_mode">Konferencija</string>
   <string name="call_forwarding_settings">Postavke poziva za prosljeđivanje</string>
   <string name="call_lost">Poziv je izgubljen.</string>
   <string name="call_record_button_label">Snimanje %s</string>
@@ -445,6 +446,7 @@
   <string name="onscreen_add_call_text">Dodaj poziv</string>
   <string name="onscreen_audio_mode">Odgovori putem</string>
   <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
+  <string name="onscreen_audio_mode_conference">Konferencija</string>
   <string name="onscreen_audio_mode_handset">Hands-free</string>
   <string name="onscreen_audio_mode_headset">Slušalice</string>
   <string name="onscreen_audio_mode_speaker">Zvučnik</string>

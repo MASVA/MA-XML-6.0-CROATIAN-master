@@ -2371,7 +2371,7 @@ Da biste upotrebljavali prikvačivanje zaslona:
   <string name="search_date_time">datum vrijeme</string>
   <string name="search_description">"Postavke pretraživanja"</string>
   <string name="search_display">zaslon</string>
-  <string name="search_fluency_mode">tečnost</string>
+  <string name="search_fluency_mode">performanse</string>
   <string name="search_font">font</string>
   <string name="search_handy_mode">uprav. jednom rukom</string>
   <string name="search_gps">gps</string>
