@@ -529,6 +529,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="simple_mode_button_text_face_beauty">Isključi tonove</string>
   <string name="simple_mode_button_text_fast_video">Isključi slow-motion</string>
   <string name="simple_mode_button_text_gradienter">Isključi</string>
+  <string name="pref_camera_gradienter_title">Gradijent</string>
   <string name="simple_mode_button_text_hand_night">Isključi HHT</string>
   <string name="simple_mode_button_text_hdr">Isključi HDR</string>
   <string name="simple_mode_button_text_manual">Isključi Ručno</string>
@@ -544,9 +545,9 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="snapshot_qcif_and_d1">Samo je veličina video snimke podržana za ovu rezoluciju.</string>
   <string name="snapshotsize_low_powermode">"Razlučivost slike nije podržana trenutnim postavkama upravljanja napajanjem. Veličina snimanja videozapisa će se koristiti".</string>
   <string name="spaceIsLow_content">USB memoriji ponestaje prostora.</string>
-  <string name="start_capture">Zatvoriť</string>
+  <string name="start_capture">U redu</string>
   <string name="success_message_import_from_account">Uspješno uvezeno</string>
-  <string name="tags">Značky</string>
+  <string name="tags">Oznake</string>
   <string name="tap_to_exposure">Dodirni za ručno podešavanje ekspozicije</string>
   <string name="tap_to_focus">Dodirni za izoštravanje</string>
   <string name="time">Vrijeme</string>
