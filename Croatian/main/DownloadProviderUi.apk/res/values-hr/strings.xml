@@ -70,7 +70,7 @@
   <string name="download_title">Preuzimanja</string>
   <string name="download_title_sorted_by_date">Preuzimanja - Poredano po datumu</string>
   <string name="download_title_sorted_by_size">Preuzimanja - Poredano po veličini</string>
-  <string name="download_wait_connect">Preuzimanje čeka na povezivanje</string>
+  <string name="download_wait_connect">Čekanje na povezivanje</string>
   <string name="download_when_network_connected">Preuzmi koristeći mobilnu mrežu</string>
   <string name="downloads_operating">Radim…</string>
   <string name="dredge_xunlei_account">Izradite Xunlei Račun</string>
@@ -105,7 +105,7 @@
   <string name="package_filter">PAKETI</string>
   <string name="pause_download">Pauza</string>
   <string name="paused_by_app">Pauzirano</string>
-  <string name="paused_insufficient_space">Čekanje</string>
+  <string name="paused_insufficient_space">Čekanje na prostor za pohranu</string>
   <string name="paused_queued_for_wifi">Pauzirano, čeka se WLAN</string>
   <string name="paused_unknown">Nepoznata greška</string>
   <string name="paused_waiting_for_network">Čekanje na mobilnu mrežu</string>
@@ -137,7 +137,7 @@ Ova značajka se ne preporučuje izvan Kine"</string>
   <string name="turn_off_xunlei_title">Onemogući Xunlei alat preuzimanja</string>
   <string name="unbind_xunlei_2_success">Xunlei Račun dodan</string>
   <string name="unbind_xunlei_success">Odjavljen iz Xunlei Računa</string>
-  <string name="valid_in_this_month">Vrijedi samo u ovom mjesecu</string>
+  <string name="valid_in_this_month">Vrijedi ovaj mjesec</string>
   <string name="vip_auto_speedup">Xunlei ubrzanje preuzimanja uključeno</string>
   <string name="xunlei_brand">Powered by Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
