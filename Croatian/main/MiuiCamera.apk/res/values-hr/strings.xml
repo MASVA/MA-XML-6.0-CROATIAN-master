@@ -1,16 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="Import">Uvoz</string>
   <string name="access_sd_fail">"Ne mogu pristupiti USB pohrani."</string>
-  <string name="accessibility_camera_picker">Sklopka prednje/stražnje kamere</string>
+  <string name="accessibilit_camera_video_switch_picker_and_state">Prebaci fotoaparat i video (trenutno koristite %s)</string>
+  <string name="accessibility_camera_auto_flashmode">Autom. bljeskalica</string>
+  <string name="accessibility_camera_flash_closemode">Bez bljeskalice</string>
+  <string name="accessibility_camera_flashmode">Uvijek</string>
+  <string name="accessibility_camera_picker">Sklopka prednje i stražnje kamere</string>
+  <string name="accessibility_close_more_ptions">Onemogući više opcija</string>
+  <string name="accessibility_ev_control">Balansiranje kontrole ekspozicije</string>
   <string name="accessibility_flash_mode_button">Bljeskalica</string>
   <string name="accessibility_hdr">HDR tipka</string>
   <string name="accessibility_more_ptions_closed">Više opcija onemogućene</string>
+  <string name="accessibility_more_ptions_opened">Više opcija omogućene</string>
+  <string name="accessibility_open_more_ptions">Omogući više opcija</string>
   <string name="accessibility_panorama_review_cancel">Odustani</string>
   <string name="accessibility_review_thumbnail">Najnovije fotografije</string>
   <string name="accessibility_seek_bar_line">SeekBarLine</string>
   <string name="accessibility_setting_button">Tipka dodat. postavki</string>
+  <string name="accessibility_show_setting_panel_button">Postavke</string>
   <string name="accessibility_shutter_button">Tipka okidača</string>
-  <string name="accessibility_skin_beautify_button">SkinBeautifyButton</string>
+  <string name="accessibility_skin_beautify_button">Poboljšavanje tona kože</string>
   <string name="accessibility_skin_beautify_closed">Onemogućen pojačivač tona kože</string>
   <string name="accessibility_skin_beautify_opened">Omogućen pojačivač tona kože</string>
   <string name="accessibility_zoom_control">Kontrola zooma</string>
@@ -29,7 +39,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="can_not_play_video">Otključaj zaslon za prikaz reprodukcije</string>
   <string name="cancel">Odustani</string>
   <string name="cannot_connect_camera_once">"Ne mogu se spojiti s kamerom."</string>
-  <string name="cannot_connect_camera_twice">"Ne mogu se spojiti s kamerom, ponovno pokrenite vaš uređaj."</string>
+  <string name="cannot_connect_camera_twice">"Ne mogu se povezati s kamerom, ponovno pokrenite vaš uređaj."</string>
   <string name="cannot_move_warning_message">Fotografiram, držite uređaj mirnim</string>
   <string name="clear_effects">Očisti efekte</string>
   <string name="close">Zatvori</string>
@@ -89,7 +99,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="error_app_unsupported">Nepodržana video rezolucija za ovu vrstu enkodera</string>
   <string name="error_app_unsupported_hfr_720p">720P može podržati do 90FPS</string>
   <string name="error_app_unsupported_hfr_codec">Samo je H264 video enkodiranje podržano kada je HFR UKLJUČEN</string>
-  <string name="error_app_unsupported_raw_wavelet">Odšumenje neće stupiti na snagu kod snimanja raw fotografija</string>
+  <string name="error_app_unsupported_raw_wavelet">Uklanjanje šuma nije moguće u RAW načinu rada</string>
   <string name="error_fail_to_start_audio_capture">Neuspješno pokretanje snimanja zvuka: Mikrofon se možda koristiti od strane drugih aplikacija.</string>
   <string name="exposure_time">Vrijeme ekspozicije</string>
   <string name="face_analyze_info">Godine: %2$s (%1$s)</string>
@@ -310,7 +320,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="pref_camera_jpegquality_entry_low">Niska</string>
   <string name="pref_camera_jpegquality_entry_normal">Standardna</string>
   <string name="pref_camera_jpegquality_title">Kvaliteta slike</string>
-  <string name="pref_camera_long_press_shutter_feature_title">Klikni &amp; drži tipku okidača</string>
+  <string name="pref_camera_long_press_shutter_feature_title">Duži pritisak na tipku okidača</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Brzo snimanje</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Fokus</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_off">Fokus</string>
@@ -537,6 +547,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="simple_mode_button_text_panorama">Isključi panoramu</string>
   <string name="simple_mode_button_text_scene">Isključi način scena</string>
   <string name="simple_mode_button_text_slow_video">Isključi time-lapse</string>
+  <string name="simple_mode_button_text_ubi_focus">Isključi</string>
   <string name="simple_mode_button_text_ubifocus">Isključi</string>
   <string name="simple_mode_title">Jednostavan način</string>
   <string name="slideshow">Prezentacija</string>
