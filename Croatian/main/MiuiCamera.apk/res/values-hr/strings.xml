@@ -402,9 +402,9 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="pref_camera_settings_category">Postavke kamere</string>
   <string name="pref_camera_settings_title">Postavke</string>
   <string name="pref_camera_sharpness_title">Oštrina</string>
-  <string name="pref_camera_show_gender_age_entry_alias">Prikaži godine</string>
+  <string name="pref_camera_show_gender_age_entry_alias">Prikaži godine s uklj. uljepšanjem</string>
   <string name="pref_camera_show_gender_age_entry_off">Isključeno</string>
-  <string name="pref_camera_show_gender_age_entry_on">Prikaži godine i spol</string>
+  <string name="pref_camera_show_gender_age_entry_on">Prikaži godine i spol s uklj. uljepšanjem</string>
   <string name="pref_camera_show_gender_age_title">Prepoznavanje lica</string>
   <string name="pref_camera_skinToneEnhancement_entry_auto">Auto poboljšanje</string>
   <string name="pref_camera_skinToneEnhancement_entry_disable">Onemogući</string>

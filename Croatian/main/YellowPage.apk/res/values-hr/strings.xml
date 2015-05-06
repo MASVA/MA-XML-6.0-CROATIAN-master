@@ -241,6 +241,7 @@ Provjerite broj za praćenje."</string>
   <string name="nearby_no_yellow_page">Nema rezultata u blizini</string>
   <string name="nearby_yellow_page_title">U blizini</string>
   <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
+  <string name="network_access_denied">Mrežni pristup odbijen</string>
   <string name="network_unavaliable">"Ne mogu se povezati na mrežu"</string>
   <string name="no_brief">Nema sažetka</string>
   <string name="no_evaluation">Nema recenzija</string>

@@ -926,7 +926,7 @@ Kopija: %4$s
 %2$s"</string>
   <string name="single_new_message_notification_title">%1$s: %2$s</string>
   <string name="smtp_password_error">Pogrešna zaporka odlaznog poslužitelja</string>
-  <string name="sort_attachment">Poedaj po</string>
+  <string name="sort_attachment">Poredaj po</string>
   <string name="spaceChar">" "</string>
   <string name="special_text_1">写道:</string>
   <string name="special_text_2">写道：</string>
@@ -938,7 +938,7 @@ Kopija: %4$s
   <string name="special_text_qq_subscribe">loadScript(_aoFiles){</string>
   <string name="special_text_sender_en">sender</string>
   <string name="special_text_sender_zh">发件人</string>
-  <string name="status_network_error">"Ne mogu se spojiti na mrežu. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
+  <string name="status_network_error">"Ne mogu se povezati na mrežu. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
   <string name="storage">Pohrana</string>
   <string name="str_select_all">Odaberi sve</string>
   <string name="str_select_none">Poništi odabir</string>

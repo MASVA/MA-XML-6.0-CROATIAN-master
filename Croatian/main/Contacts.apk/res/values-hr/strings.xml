@@ -722,6 +722,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="preference_contacts_display">Prikaži željene postavke</string>
   <string name="preference_contacts_filter">Konfiguriraj popis kontakata</string>
   <string name="preference_contacts_more">Organiziraj kontakte</string>
+  <string name="preference_contacts_recovery_introduction">Obnovi kontakte</string>
   <string name="preference_dial_pad_touch_tone_default">Zadano</string>
   <string name="preference_dial_pad_touch_tone_human">Glas</string>
   <string name="preference_dial_pad_touch_tone_piano">Klavir</string>
