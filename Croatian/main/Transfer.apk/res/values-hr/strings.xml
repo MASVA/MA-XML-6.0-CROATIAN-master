@@ -48,7 +48,7 @@
   <string name="error_nofile_selected">Odaberite mapu</string>
   <string name="error_not_enough_space">Nema dovoljno prostora na uređaju</string>
   <string name="error_not_selected">Datoteka nije odabrana ili ne postoji</string>
-  <string name="error_peer_disconnected">Peer isključen</string>
+  <string name="error_peer_disconnected">Povezivanje je završeno</string>
   <string name="error_select">Greška datoteke ili nije odabrana</string>
   <string name="error_transmit">Greška pri prijenosu</string>
   <string name="error_upload">Greška pri slanju</string>
@@ -182,7 +182,7 @@ i može primati datoteke."</string>
   <string name="share_message">Dijeljenih datoteka: %1$s</string>
   <string name="share_msg_model">"Podijelio sam datoteku s vama:
 %1$s"</string>
-  <string name="share_text">MIUI v5 podržava prijenos datoteka bez korištenja mobilnih podataka. Ne-MIUI v5 korisnici preuzmite: %1$s</string>
+  <string name="share_text">MIUI v6 podržava prijenos datoteka bez korištenja mobilnih podataka. Ne-MIUI v6 korisnici preuzmite: %1$s</string>
   <string name="shortmessage">Kratka poruka</string>
   <string name="start">Započni</string>
   <string name="summary_step_one">Pošalji slike, glazbu, kontakte i druge različite sadržaje</string>

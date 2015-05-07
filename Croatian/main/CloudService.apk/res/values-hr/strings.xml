@@ -146,8 +146,8 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_main_data_unsynced">Čeka na sinkr.: %s</string>
   <string name="micloud_main_detail">Prikaži detalje</string>
   <string name="micloud_main_last_sync_time">Zadnje sinkr. %s</string>
-  <string name="micloud_main_network_abnormal">"Ne mogu se spojiti na mrež"</string>
-  <string name="micloud_main_network_error">Ne mogu se spojiti na mrežu.</string>
+  <string name="micloud_main_network_abnormal">"Ne mogu se povezati na mrežu"</string>
+  <string name="micloud_main_network_error">Ne mogu se povezati na mrežu</string>
   <string name="micloud_main_set_internet">Mreža</string>
   <string name="micloud_main_space_full">Nedovoljno prostora za pohranu</string>
   <string name="micloud_main_space_risk">Sinkronizirano (%d) stavaka</string>
