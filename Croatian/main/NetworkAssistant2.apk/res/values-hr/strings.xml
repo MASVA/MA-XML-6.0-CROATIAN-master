@@ -107,6 +107,8 @@ Za više informacija provjerite poruku koju ste dobili od svog davatelja usluga"
   <string name="firewall_fragment_sys_listempty">Prazno</string>
   <string name="firewall_fragment_tab_title_nonsys">Instalirano</string>
   <string name="firewall_fragment_tab_title_sys">Sustav</string>
+  <string name="firewall_network_restrict_notify_message">Dodirni za promjenu postavki.</string>
+  <string name="firewall_network_restrict_notify_title">"%1$s nije dopušteno povezivanje na %2$s."</string>
   <string name="firewall_rule_group_title_mobile">2G/3G</string>
   <string name="firewall_rule_group_title_roaming">Međunarodni roaming</string>
   <string name="firewall_rule_group_title_wifi">WLAN</string>
@@ -381,6 +383,7 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="traffic_correction_start_correction">"Razgovor s poslužiteljem davatelja mobilnih usluga…"</string>
   <string name="traffic_correction_start_correction_failed">Zahtjev nije uspio, provjerite postavke davatelja mobilnih usluga</string>
   <string name="traffic_correction_success">Uporaba podataka ažurirana</string>
+  <string name="traffic_correction_success_notify_message">Dodirni za prikaz detalja.</string>
   <string name="traffic_limit_error_alert_body">"Prema vašem davatelju usluga preostalo vam je još %1$s za ovaj mjesec. To je više od %2$s ograničenja koji ste postavili ručno."</string>
   <string name="traffic_limit_error_alert_iknow">U redu</string>
   <string name="traffic_limit_error_alert_reset">Resetiraj ograničenje</string>

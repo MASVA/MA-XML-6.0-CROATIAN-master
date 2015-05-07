@@ -456,7 +456,8 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="incall_error_no_active_sim">SIM kartica nije aktivirana</string>
   <string name="incall_error_no_phone_number_supplied">Poziv nije uspostavljen, nije unijet valjani broj.</string>
   <string name="incall_error_out_of_service">Mobilna mreža nije dostupna.</string>
-  <string name="incall_error_power_off">Da biste uspostavili poziv, prvo isključite način rada u zrakoplovu.</string>
+  <string name="incall_error_power_off">Za uspostavu poziva, prvo isključite Zrakoplovni način.</string>
+  <string name="incall_error_sim_deactive">Neaktivna SIM kartica</string>
   <string name="incall_error_supp_service_conference">Nije moguće uspostaviti konferencijske pozive.</string>
   <string name="incall_error_supp_service_hangup">Nije moguće ostvariti pozi(e).</string>
   <string name="incall_error_supp_service_reject">Nije moguće odbiti poziv.</string>

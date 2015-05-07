@@ -1324,6 +1324,8 @@ Ako je tekst vašeg sustava još uvijek premalen, pokušajte koristiti "</string
   <string name="input_settings">Postavke unosa</string>
   <string name="install_all_warning">Vaše uređaj i osobni podaci izloženiji su napadima aplikacija iz nepoznatih izvora. Prihvaćate isključivu odgovornost za svu štetu nastalu na uređaju ili gubitak podataka uzrokovan upotrebom tih aplikacija.</string>
   <string name="install_applications">Nepoznati izvori</string>
+  <string name="install_no_market_app_summary">Dopusti instalaciju aplikacija iz drugih izvora osim App Store</string>
+  <string name="install_no_market_app_title">Nepoznati izvori</string>
   <string name="install_preinstall_app">Učitavanje aplikacija…</string>
   <string name="install_applications_title">Dopusti sve izvore aplikacija</string>
   <string name="install_text">"Instaliraj"</string>

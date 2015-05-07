@@ -17,6 +17,7 @@ Dozvoliti sada i ubuduće?"</string>
 Svi postojeći podaci aplikacije će biti spremljeni."</string>
   <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) će zamijeniti trenutno instaliranu verziju (%3$s). Svi postojeći podaci aplikacije će biti spremljeni."</string>
   <string name="dlg_app_replacement_title">Zamijeniti postojeću aplikaciju?</string>
+  <string name="dlg_appstore_notice">Nabavite ovu aplikaciju iz naše službene &lt;u&gt;&lt;font color=#91c727&gt;App Store&lt;/font&gt;&lt;/u&gt;</string>
   <string name="dlg_ok">U redu</string>
   <string name="dlg_sys_app_replacement_statement">"To je aplikacija sustava. Još je želite zamijeniti?
 
@@ -39,6 +40,7 @@ Svi postojeći podaci aplikacije će biti spremljeni."</string>
   <string name="installing">Instaliranje…</string>
   <string name="launch">Otvori</string>
   <string name="lift_ban">Dopusti</string>
+  <string name="lift_ban_once">Dopusti jednom</string>
   <string name="low_risk_perms">Dopuštenja niskog rizika</string>
   <string name="manage_applications">Upravljanje aplikacijama</string>
   <string name="manage_device_administrators">Upravljanje administratorima uređaja</string>
@@ -76,7 +78,7 @@ Svi postojeći podaci aplikacije će biti spremljeni."</string>
   <string name="uninstall_application_text">Ova će aplikacija biti deinstalirana</string>
   <string name="uninstall_application_title">Deinstalirati ovu aplikaciju?</string>
   <string name="uninstall_confirm_question">Deinstalirati ovu aplikaciju?</string>
-  <string name="uninstall_done">Aplikacija deinstalirana</string>
+  <string name="uninstall_done">Aplikacija je deinstalirana</string>
   <string name="uninstall_failed">"Ne mogu deinstalirati ovu aplikaciju"</string>
   <string name="uninstall_failed_device_policy_manager">"Ne mogu deinstalirati paket koji je aktivan administrator uređaja."</string>
   <string name="uninstall_failed_msg">Aplikaciju %1$s nije moguće deinstalirati.</string>
@@ -85,7 +87,7 @@ Svi postojeći podaci aplikacije će biti spremljeni."</string>
   <string name="uninstall_update_title">Deinstalirati ovo ažuriranje?</string>
   <string name="uninstalling">Deinstaliranje…</string>
   <string name="unknown">Nepoznato</string>
-  <string name="unknown_apps_dlg_text">Vaš je telefon postavljen da blokira instaliranje aplikacija iz nepoznatih izvora. Možete isključili tu značajku u Postavke -&gt; Sigurnost -&gt; Nepoznati izvori.</string>
+  <string name="unknown_apps_dlg_text">Vaš telefon i osobni podaci izloženiji su napadima aplikacija iz nepoznatih izvora. Suglasni ste da ste isključivo sami odgovorni za gubitak podataka ili bilo kakvu štetu nastalu na vašem uređaju koja može proizaći korištenjem ove aplikacije. Možete isključiti ovu obavijest u Postavkama.</string>
   <string name="unknown_apps_dlg_title">Instaliranje je blokirano</string>
   <string name="unknown_installer">Nepoznat PC alat</string>
   <string name="virus_scan_caller_unknown">Nepoznato</string>
