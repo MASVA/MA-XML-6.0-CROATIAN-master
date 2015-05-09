@@ -17,4 +17,8 @@
         <item quantity="other">%s inča</item>
         <item quantity="one">%s inč</item>
     </plurals>
+	<plurals name="weight_match_user">
+        <item quantity="other">%1$d podudaranja.</item>
+        <item quantity="one">%1$d podudaranje.</item>
+    </plurals>
 </resources>
