@@ -597,7 +597,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="msim_setting_sim_info_editor_title">Uredi podatke SIM kartice</string>
   <string name="msim_sim_lock">Zaključano</string>
   <string name="msim_sim_radio_off">Isključeno</string>
-  <string name="msim_switch_data_conn_toast">Postavke mreže su promijenjene da je preferirana LTE mreža. Možete to promijeniti u postavkama SIM kartice.</string>
+  <string name="msim_switch_data_conn_toast">SIM kartice su promijenjene. Vrsta mreže se promijenila. Pogledaj dodatne informacije za SIM kartice i mobilne mreže u izborniku Postavki.</string>
   <string name="msim_switch_data_conn_toast_for_h2xct">SIM utor 2 podržava samo GSM mreže. Poželjna vrsta mreža za ovaj utor je promijenjen na \"Samo 2G mreža\".</string>
   <string name="multi_category_disable">Višestruke kategorije su isključene</string>
   <string name="multi_category_enable">Višestruke kategorije su uključene</string>

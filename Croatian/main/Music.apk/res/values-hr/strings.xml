@@ -227,6 +227,7 @@
   <string name="playlist_renamed_message">Popis pjesama preimenovan.</string>
   <string name="please_download_first">Morate preuzeti tu pjesmu prije nego što je možete postaviti kao zvuk zvona</string>
   <string name="please_search_or_select">Pretražite ili odaberite polje</string>
+  <string name="preset_music_playlist">Popis Mi Glazbe</string>
   <string name="presonal_center">Postavke računa</string>
   <string name="priority_storage">Koristi vanjsku SD karticu</string>
   <string name="priority_storage_summary">Automatsko preuzimanje na vanjsku SD karticu ako je dostupna</string>
@@ -259,6 +260,8 @@
   <string name="set_album_successful">Albuma je spremljen</string>
   <string name="set_as_ring">Postavi za zvuk zvona</string>
   <string name="set_id3_failed">"Ne mogu spremiti informacije"</string>
+  <string name="set_id3_not_have_read_or_write_permission">"Nemate dopuštenje za uređivanje ove datoteke"</string>
+  <string name="set_id3_not_support_format">"Ne mogu urediti format ove datoteke"</string>
   <string name="set_id3_successful">Informacije pjesme su spremljene</string>
   <string name="set_lyric_successful">Tekst je spremljen</string>
   <string name="set_ringtones_failed">Ne mogu postaviti zvuk zvona.</string>
@@ -269,7 +272,7 @@
   <string name="sleep_mode_summary">Zaustavi reprodukciju nakon određenog vremena</string>
   <string name="sleep_mode_title">Sleep timer</string>
   <string name="song_name">Pjesma</string>
-  <string name="song_not_find">"Ne mogu se povezati na mrežu ili ova pjesma nije dostupna."</string>
+  <string name="song_not_find">"Ova pjesma nije dostupna."</string>
   <string name="sort_by_language">Jezik</string>
   <string name="sort_by_name">Naziv</string>
   <string name="sort_by_time">Datum</string>

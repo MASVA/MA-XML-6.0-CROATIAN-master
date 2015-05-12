@@ -136,11 +136,11 @@
   <string name="confirm_all_photo_not_this_people_face">Nema podudaranja?</string>
   <string name="confirm_delete">Izbrisati fotografije (%s)?</string>
   <string name="confirm_delete_album" formatted="false">Izbrisati albume %s (ukupno %s)?</string>
-  <string name="confirm_delete_has_cloud_image_video">"Izbrisati stavke (%s) u cloudu?"</string>
-  <string name="confirm_delete_has_cloud_local_image_video">"Izbrisati stavke (%s) lokalno i u cloudu?"</string>
+  <string name="confirm_delete_has_cloud_image_video">"Izbrisati fotografije (%s) na ovom uređaju i u Mi Cloudu?"</string>
+  <string name="confirm_delete_has_cloud_local_image_video">"Izbrisati fotografije (%s) na ovom uređaju i u Mi Cloudu?"</string>
   <string name="confirm_delete_has_local_image_video">Izbrisati stavku %s?</string>
-  <string name="confirm_delete_init_message">Slike će biti izbrisane iz MiClouda i iz vašeg uređaja. Da ih izbrišete samo s uređaja, prijeđite na karticu \"Lokalno\".</string>
-  <string name="confirm_delete_init_title">Izbriši slike</string>
+  <string name="confirm_delete_init_message">Fotografije će biti izbrisane s ovog uređaja i s MiClouda. Ako ih želite izbrisati samo s uređaja, prijeđite na karticu \"Izvanmrežno\".</string>
+  <string name="confirm_delete_init_title">Izbriši fotografiju</string>
   <string name="confirm_delete_system_album">%s je album sustava</string>
   <string name="confirm_download">Morate preuzeti %s.</string>
   <string name="confirm_download_video_message">Morate završiti s preuzimanjem ovog videozapisa prije nego što ga možete pogledati. Preuzimanje će se nastaviti kada je WLAN dostupan.</string>

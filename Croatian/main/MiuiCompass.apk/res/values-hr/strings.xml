@@ -24,6 +24,8 @@
   <string name="direction_south_west">JZ</string>
   <string name="direction_west">Z</string>
   <string name="do_not_show_next_time">"Ne pokazuj ponovo"</string>
+  <string name="first_using_dialog_message">"Kompas treba koristiti mrežnu vezu, kameru i usluge lokacije vašeg uređaja za ispravan rad."</string>
+  <string name="first_using_dialog_title">Dopuštenje pristupa</string>
   <string name="getting_location">Kalibriranje…</string>
   <string name="guide_toast">"Da kalibrirate, pomičite vaš telefon pokretima ispod"</string>
   <string name="latitude">ŠIR</string>
@@ -45,7 +47,5 @@
   <string name="pressure_unit">hPa</string>
   <string name="shake_enter_tip">Protresite za kalibriranje</string>
   <string name="using_camera_confirm_cancel">Zatvori</string>
-  <string name="using_camera_confirm_message">"Kompas treba koristiti mrežnu vezu i kameru vašeg uređaja za normalan rad."</string>
   <string name="using_camera_confirm_ok">Slažem se</string>
-  <string name="using_camera_confirm_title">Pristup Kameri</string>
 </resources>

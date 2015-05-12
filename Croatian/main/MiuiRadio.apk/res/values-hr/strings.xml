@@ -7,6 +7,7 @@
   <string name="app_to_share">Odaberi aplikaciju za podijeliti</string>
   <string name="avoid_to_use_traffic_summary">Izbjegavaj visoke naknade</string>
   <string name="avoid_to_use_traffic_title">Skočnim prozorom podsjeti korisnika prilikom korištenja mobilne mreže</string>
+  <string name="batch_download_start_toast">Priprema preuzimanja</string>
   <string name="bluetooth_device">Bluetooth uređaj</string>
   <string name="broadcasting">"Emitiranje: "</string>
   <string name="buffering">Buffering…</string>
@@ -21,12 +22,12 @@
   <string name="device_connected">Povezano</string>
   <string name="device_not_connected">Nije povezano</string>
   <string name="dialog_title_download_quality">Kvaliteta preuzimanja Radija</string>
-  <string name="dialog_title_tone_quality">Odaberite kavlitetu reprodukcije</string>
+  <string name="dialog_title_listen_quality">Odaberite kvalitetu slušanja</string>
+  <string name="dialog_title_tone_quality">Odaberite kvalitetu reprodukcije</string>
   <string name="download_completed">Preuzeto</string>
   <string name="download_invalid">Nema dostupnog izvora</string>
   <string name="download_network_is_not_available">"Ne mogu preuzeti: Mreža nije dostupna."</string>
   <string name="download_progress_toast">%1$d%%</string>
-  <string name="download_quality_toast">Odaberite kvalitetu preuzimanja</string>
   <string name="download_start_toast">Priprema preuzimanja %1$s(%2$dbps)</string>
   <string name="download_successful">Preuzeto</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>

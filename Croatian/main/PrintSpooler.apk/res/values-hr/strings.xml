@@ -31,7 +31,7 @@
     <string name="print_options_collapsed">Opcije ispisa sažete</string>
     <string name="search">Pretraživanje</string>
     <string name="all_printers_label">Svi pisači</string>
-    <string name="add_print_service_label">Dodaj uslugu</string>
+    <string name="add_print_service_label">+</string>
     <string name="print_search_box_shown_utterance">Okvir za pretraživanje prikazan je</string>
     <string name="print_search_box_hidden_utterance">Okvir za pretraživanje skriven je</string>
     <string name="print_add_printer">Dodaj pisač</string>
