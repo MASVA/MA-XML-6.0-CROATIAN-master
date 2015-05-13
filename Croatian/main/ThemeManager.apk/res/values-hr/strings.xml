@@ -308,6 +308,8 @@
   <string name="theme_fresh_man_notifaction">Dostupne nove teme</string>
   <string name="theme_immediately_apply_tip">Primjeniti ažuriranje teme?</string>
   <string name="theme_import_from_sdcard">Uvezi sa SD kartice</string>
+  <string name="theme_is_external_priority_storage">Spremi na SD karticu</string>
+  <string name="theme_is_external_priority_storage_summary">Aplikacija Teme će se odmah ponovno pokrenuti za primjenu postavki</string>
   <string name="theme_multiple_button_title_customize">Prilagodi</string>
   <string name="theme_name">%1$s</string>
   <string name="theme_no">Ne</string>

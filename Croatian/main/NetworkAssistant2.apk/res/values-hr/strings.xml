@@ -32,10 +32,10 @@
   <string name="check_network_state">Provjeri status mreže</string>
   <string name="checkout_traffic_saving_history">Prikaži povijest</string>
   <string name="choose">Odaberi</string>
-  <string name="connect_internet_by_mobiledata">Povezivanje pomoću Mobilnih podataka</string>
-  <string name="connect_internet_by_usbshare">Povezivanje pomoću USB-a</string>
-  <string name="connect_internet_by_wifi">Povezivanje pomoću WLAN-a</string>
-  <string name="current_network_state_not_need_diagnose">Normalno</string>
+  <string name="connect_internet_by_mobiledata">Mobilna podatkovna veza</string>
+  <string name="connect_internet_by_usbshare">Internet putem USB-a</string>
+  <string name="connect_internet_by_wifi">WLAN</string>
+  <string name="current_network_state_not_need_diagnose">Internet povezivanje je u redu</string>
   <string name="daily_limit_network_available_body">Dodirni za pregled statistike uporabe podataka.</string>
   <string name="daily_limit_over_message">"Premašili ste svoje dnevno ograničenja uporabe podataka."</string>
   <string name="daily_pkg_traffic">Postavi ograničenje maks. uporabe podataka</string>
@@ -94,13 +94,13 @@ Za više informacija provjerite poruku koju ste dobili od svog davatelja usluga"
   <string name="dialog_app_roaming_message">"Kada ste u međunarodnom roamingu, samo aplikacije koje ste dodali na popis dopuštenih mogu koristiti podatkovne usluge. %1$s nije dodan na popis dopuštenih."</string>
   <string name="dialog_app_roaming_title">"Međunarodni roaming nije omogućen za %1$s"</string>
   <string name="dialog_roaming_message">Aplikacije na popisu dopuštenih će se moći povezivati na podatkovne usluge u međunarodnom roamingu. Dodati ovu aplikaciju na popis dopuštenih?</string>
-  <string name="disable_air_mode">Isključite zrakoplovni način</string>
+  <string name="disable_air_mode">Isključite najprije Zrakoplovni način</string>
   <string name="dns_exception_summary">"Provjerite DNS postavke routera."</string>
   <string name="dns_exception_title">Provjera postavki DNS-a</string>
   <string name="dialog_roaming_title">Međunarodni roaming</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
-  <string name="enable_network">Uključite mobilne podatke</string>
+  <string name="enable_network">Uključite najprije mobilne podatke</string>
   <string name="firewall_activity_lable">Ograničite uporabu podataka aplikacija</string>
   <string name="firewall_applist">Aplikacije</string>
   <string name="firewall_fragment_nonesys_listempty">Prazno</string>
@@ -169,9 +169,9 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="main_secondary_message_traffic_used_noleisure">%s maks.podataka iskorišteno | nema isklj. maks. podataka preostalo</string>
   <string name="main_secondary_message_traffic_used_normal">%s maks.podataka iskorišteno</string>
   <string name="main_toolbar_firewall">Ograniči uporabu podataka aplikacija</string>
-  <string name="main_toolbar_internet_by_mobiledata">Povezivanje pomoću Mobilnih podataka</string>
-  <string name="main_toolbar_internet_by_pc_brige">Povezivanje pomoću USB-a</string>
-  <string name="main_toolbar_internet_by_wifi">Povezivanje pomoću WLAN-a</string>
+  <string name="main_toolbar_internet_by_mobiledata">Mobilna podatkovna veza</string>
+  <string name="main_toolbar_internet_by_pc_brige">Internet putem USB-a</string>
+  <string name="main_toolbar_internet_by_wifi">WLAN</string>
   <string name="main_toolbar_purchase">Nadoplata</string>
   <string name="main_toolbar_saving">Ušteda</string>
   <string name="main_toolbar_statistic">Statistika uporabe podataka</string>
@@ -225,7 +225,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="pref_automatic_adjust">Automatski sink. statistiku uporabe podataka</string>
   <string name="pref_avaible_traffic">Mobilni podaci</string>
   <string name="pref_category_title_other">Dodatne postavke</string>
-  <string name="pref_check_network_diagnostics">Provjerite da li vaša podatkovna veza funkcionira normalno</string>
+  <string name="pref_check_network_diagnostics">"Test internetske veze uređaja"</string>
   <string name="pref_connect_settings_enable_background">Dopustiti pozadinske podatke</string>
   <string name="pref_connect_settings_enable_background_hint">"Dopustiti Aplikacijama korištenje mobilnih podataka kada ih ne koristite"</string>
   <string name="pref_connect_settings_exceed_limit">Ograničite uporabu podataka</string>
@@ -260,7 +260,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="pref_specified_traffic_settings">Postavke ograničenja podataka</string>
   <string name="pref_title_declaration">Odricanje odgovornosti</string>
   <string name="pref_title_mobile_traffic">Prikaži podatke korištenja dok je uređaj bio zaključan</string>
-  <string name="pref_title_network_diagnostics">Dijagnostika mreže</string>
+  <string name="pref_title_network_diagnostics">Test mreže</string>
   <string name="pref_title_over_traffic_limit_warning">Kada je premašeno</string>
   <string name="pref_title_traffic_limit_number">Veličina</string>
   <string name="pref_title_traffic_speed_state">Prikaži brzinu mreže u traci obavijesti</string>
@@ -463,8 +463,8 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="usage_sorted_activity_lable">Uporaba podataka</string>
   <string name="usage_sorted_empty_text">Prazno</string>
   <string name="usage_sorted_loading_text">Učitavanje…</string>
-  <string name="usbsharenet_exception_summary">"Ne mogu testirati mrežu koja se dijeli sa Mi PC Suite."</string>
-  <string name="usbsharenet_exception_title">Test USB dijeljene mreže</string>
+  <string name="usbsharenet_exception_summary">"Ne mogu se povezati na internet putem USB veze. Provjerite USB priključak vašeg uređaja i ponovno pokrenite Mi PC Suite."</string>
+  <string name="usbsharenet_exception_title">Test povezivanja putem USB-a</string>
   <string name="wifi_exception_summary">Test povezivanja dostupne WLAN mreže</string>
   <string name="wifi_exception_title">Test WLAN mreže</string>
 </resources>

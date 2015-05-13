@@ -321,6 +321,13 @@
   <string name="confirm_send_message_with_no_body">"Nema teksta u tijelu poruke."</string>
   <string name="confirm_send_message_with_no_subject">"Ova poruka nema predmet."</string>
   <string name="confirm_send_title">Poslati poruku?</string>
+  <string name="contact_edit_set_black_list">Podesi listu blokiranih</string>
+  <string name="contact_edit_set_phone_contact">Uredi kontakte telefona</string>
+  <string name="contact_edit_set_pop_up_tips">Savjeti skoč. prozora</string>
+  <string name="contact_edit_set_unread_top">Prikaži najprije nepročitanu e-poštu</string>
+  <string name="contact_edit_set_vip">Podesi VIP</string>
+  <string name="contact_edit_title_permission">"Dopuštenja kontakata"</string>
+  <string name="contact_edit_title_phone_contact">Popis kontakata telefona</string>
   <string name="contact_content_provider">Kontaktirajte davatelja sadržaja</string>
   <string name="contact_info_string">Prikaži podatke o kontaktu za %1$s</string>
   <string name="contact_info_string_default">Prikaži podatke o kontaktu</string>
@@ -830,6 +837,8 @@ Kopija: %4$s
   <string name="quote_divider_qq_zh">------------------ 原始邮件 ------------------</string>
   <string name="quoted_text">Obuhvati citirani tekst</string>
   <string name="quoted_text_label">Citirani tekst</string>
+  <string name="re_download_message_button">Dodirni za ponovno preuzimanje</string>
+  <string name="re_download_message_info">"Ne mogu preuzeti e-poštu"</string>
   <string name="read_string">Razgovor je pročitan</string>
   <string name="recent_folders_heading">Nedavne mape</string>
   <string name="recipient_needed">Dodajte barem 1 primatelja.</string>
