@@ -105,7 +105,7 @@ Administrator može nadzirati postavke, pristup, aplikacije i podatke povezane s
   <string name="advanced_settings">Napredne postavke</string>
   <string name="advanced_settings_summary">Omogući više opcija postavki</string>
   <string name="agps_roaming">A-GPS u roamingu</string>
-  <string name="agps_roaming_dia">"Korištenje A-GPS u roamingu može značajno povećati uporabu podataka. Ako premašite svoje ograničenje podataka, vaš davatelj usluga vam može naplatiti dodatne troškove."</string>
+  <string name="agps_roaming_dia">"Korištenje A-GPS u roamingu može značajno povećati uporabu podataka. Ako premašite svoje ograničenje podataka, vaš operater vam može naplatiti dodatne troškove."</string>
   <string name="agps_roaming_dia_title">Koristi A-GPS u roamingu</string>
   <string name="agps_roaming_summary">Korištenje A-GPS-a u roamingu, može vas stajati dodatnih troškova.</string>
   <string name="airplane_mode">Zrakoplovni način</string>
@@ -1391,7 +1391,7 @@ Ako je tekst vašeg sustava još uvijek premalen, pokušajte koristiti "</string
   <string name="location_agps_reset_type">Vrste resetiranja</string>
   <string name="location_agps_reset_type_choose_dialog_title">Vrste resetiranja</string>
   <string name="location_agps_reset_type_summary">Odaberite željenu vrstu resetiranja</string>
-  <string name="location_agps_roaming_help">Odabir sve mreže može povećati podatkovni promet u roamingu. Ako premašite svoje ograničenje podataka, vaš davatelj usluga vam može naplatiti dodatne troškove."</string>
+  <string name="location_agps_roaming_help">Odabir sve mreže može povećati podatkovni promet u roamingu. Ako premašite svoje ograničenje podataka, vaš operater vam može naplatiti dodatne troškove."</string>
   <string name="location_agps_si_mode">AGPS SI način</string>
   <string name="location_agps_si_mode_dialog_title">AGPS metoda</string>
   <string name="location_agps_si_mode_summary">Odaberite željenu AGPS metodu</string>

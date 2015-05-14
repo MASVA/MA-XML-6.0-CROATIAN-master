@@ -189,9 +189,9 @@
   <string name="dial_pad_autocomplete">Automatsko popunjavanje biranja</string>
   <string name="dialerKeyboardHintText">Koristite tipkovnicu za unos broja</string>
   <string name="disable">Onemogući</string>
-  <string name="disable_cfb_forbidden">Vaš davatelj usluga ne dopušta isključivanje prosljeđivanja poziva kada je telefon zauzet.</string>
-  <string name="disable_cfnrc_forbidden">Vaš davatelj usluga ne podržava onemogućavanje preusmjeravanja poziva ako je vaš telefon nedostupan.</string>
-  <string name="disable_cfnry_forbidden">"Vaš davatelj usluga ne dopušta isključivanje prosljeđivanja poziva kada nema odgovora na telefon."</string>
+  <string name="disable_cfb_forbidden">Vaš operater ne dopušta isključivanje prosljeđivanja poziva kada je telefon zauzet.</string>
+  <string name="disable_cfnrc_forbidden">Vaš operater ne podržava onemogućavanje preusmjeravanja poziva ako je vaš telefon nedostupan.</string>
+  <string name="disable_cfnry_forbidden">"Vaš operater ne dopušta isključivanje prosljeđivanja poziva kada nema odgovora na telefon."</string>
   <string name="disable_fdn">Onemogući FDN</string>
   <string name="disable_fdn_ok">Omogući FDN</string>
   <string name="disable_pin_ok">SIM PIN onemogućen</string>
@@ -265,9 +265,9 @@
   <string name="fraud_call_decline">Odbij</string>
   <string name="fraud_call_waring">Budite oprezni: uvijek biste trebali provjeriti identitet prije nego što bilo kavkom kontaktu odgovorite na pitanja o vašim osobnim podacima.</string>
   <string name="fw_change_failed">"Dohvaćanje i spremanje trenutnih postavki prosljeđivanja broja neuspješno.
-Želite li se ipak prebaciti na drugog davatelja usluga?"</string>
+Želite li se ipak prebaciti na drugog operatera?"</string>
   <string name="fw_get_in_vm_failed">"Dohvaćanje i spremanje trenutnih postavki prosljeđivanja broja neuspješno.
-Želite li se ipak prebaciti na drugog davatelja usluga?"</string>
+Želite li se ipak prebaciti na drugog operatera?"</string>
   <string name="general_news_settings">Opće vijesti</string>
   <string name="get_pin2">Unesite PIN2</string>
   <string name="goPrivate">Privatno</string>
@@ -295,7 +295,7 @@
   <string name="incall_error_supp_service_unknown">Nepodržana usluga.</string>
   <string name="incall_status_dialed_mmi">Pokretanje MMI sekvence…</string>
   <string name="incoming_call_forwarded_title">Preusmjeri proslijeđeni poziv</string>
-  <string name="incoming_via_template">Dolazni pozivi putem davatelja %s</string>
+  <string name="incoming_via_template">Dolazni pozivi putem operatera %s</string>
   <string name="international_disable">Međunarodne vijesti onemogućene</string>
   <string name="international_enable">Međunarodne vijesti omogućene</string>
   <string name="internet_phone">Internetski poziv</string>
@@ -334,6 +334,7 @@
   <string name="list_language_dtitle">Jezici</string>
   <string name="list_language_summary">Odaberite jezik vijesti</string>
   <string name="list_language_title">Jezik</string>
+  <string name="livetalk_left_minute">%s min. preostalo</string>
   <string name="livetalk_provider_info">Pruža vam %s</string>
   <string name="livetalk_waiting">Čekanje...</string>
   <string name="load_networks_progress">Pretraživanje…</string>
@@ -639,7 +640,7 @@ Pokušajte ponovo ili se obratite službi za korisnike za više opcija."</string
   <string name="stock_quotes_enable">Omogućene su burzovne kotacije</string>
   <string name="sub_1">SUB 1</string>
   <string name="sub_2">SUB 2</string>
-  <string name="sum_carrier_select">Odaberite davatelja usluge</string>
+  <string name="sum_carrier_select">Odaberite operatera</string>
   <string name="sum_cdma_call_settings">Dodatne postavke samo za CDMA poziv</string>
   <string name="sum_cfb_disabled">Onemogućeno</string>
   <string name="sum_cfb_enabled">Prosljeđivanje na {0}</string>
@@ -653,7 +654,7 @@ Pokušajte ponovo ili se obratite službi za korisnike za više opcija."</string
   <string name="sum_cfu_enabled_no_number">Broj je nedostupan</string>
   <string name="sum_cw_disabled">Tijekom razgovora, obavijesti me o dolaznim pozivima</string>
   <string name="sum_cw_enabled">Tijekom razgovora, obavijesti me o dolaznim pozivima</string>
-  <string name="sum_default_caller_id">Koristi standardne postavkedavatelja usluga za prikaz broja odlaznih poziva</string>
+  <string name="sum_default_caller_id">Koristi standardne postavke operatera za prikaz broja odlaznih poziva</string>
   <string name="sum_fdn">Upravljanje brojeva za fiksno biranje</string>
   <string name="sum_fdn_change_pin">Promijeni PIN za FDN pristup</string>
   <string name="sum_fdn_manage_list">Upravljanje popisa telefonskih brojeva</string>
@@ -673,7 +674,7 @@ Pokušajte ponovo ili se obratite službi za korisnike za više opcija."</string
   <string name="throttle_data_usage">Uporaba podataka</string>
   <string name="throttle_data_usage_subtext">%1$s (%2$d٪) od %3$s</string>
   <string name="throttle_help">Saznajte više</string>
-  <string name="throttle_help_subtext">"Više informacija o vašem davatelju usluga mobilne mreže"</string>
+  <string name="throttle_help_subtext">"Više informacija o vašem operateru mobilne mreže"</string>
   <string name="throttle_rate">Pravilo za brzinu prijenosa podataka</string>
   <string name="throttle_rate_subtext">Brzina prijenosa podataka smanjiti će se na %1$d Kb/s ako je potrošnja podataka premašila ograničenje</string>
   <string name="throttle_status_subtext">"%1$s (%2$d٪) od %3$s maksimalno u  razdoblju. Sljedeće razdoblje započinje u %4$d dana (%5$s)"</string>
@@ -701,7 +702,7 @@ Pokušajte ponovo ili se obratite službi za korisnike za više opcija."</string
   <string name="voice_privacy_summary">Omogući privatnost govorne pošte</string>
   <string name="voicemail">Govorna pošta</string>
   <string name="voicemail_abbreviated">VM:</string>
-  <string name="voicemail_default">Moj davatelj usluga</string>
+  <string name="voicemail_default">Moj operater</string>
   <string name="voicemail_notification_ringtone_title">Melodija zvona</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Vibracija</string>
   <string name="voicemail_notification_vibrate_when_title">Vibracija</string>

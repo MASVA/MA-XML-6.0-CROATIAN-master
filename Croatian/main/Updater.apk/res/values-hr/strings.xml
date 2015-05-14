@@ -93,7 +93,7 @@
   <string name="next">Dalje</string>
   <string name="no_log">Nema dostupnih sažetaka</string>
   <string name="no_wifi_msg">"Korištenje vaše mobilne podatkovne veze za preuzimanje ažuriranja će povećati vašu uporabu podataka.
-  Ako premašite svoje ograničenje podataka, vaš davatelj usluga vam može naplatiti dodatne troškove."</string>
+  Ako premašite svoje ograničenje podataka, vaš operater vam može naplatiti dodatne troškove."</string>
   <string name="no_wifi_title">Upozorenje uporabe podataka</string>
   <string name="not_open">Ne sada</string>
   <string name="notification_downloading">Preuzimanje ažuriranja…</string>
@@ -129,7 +129,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="set_auto_update_title">Preuzimanje ažuriranja automatski</string>
   <string name="set_installfail_full_msg">"Ne mogu ažurirati u ovom trenutku. Dodirnite U redu kako bi prijavili ovu pogrešku."</string>
   <string name="set_installfail_msg">Niste povezani na WLAN mrežu. Korištenje vaše mobilne podatkovne veze za preuzimanje ažuriranja će povećati vašu uporabu podataka.
-  Ako premašite svoje ograničenje podataka, vaš davatelj usluga vam može naplatiti dodatne troškove</string>
+  Ako premašite svoje ograničenje podataka, vaš operater vam može naplatiti dodatne troškove</string>
   <string name="set_installfail_title">Pokušati ponovno preuzeti ažuriranja?</string>
   <string name="set_installfail_title_full">"Ne mogu ažurirati"</string>
   <string name="set_network_msg">Za preuzimanje ovog ažuriranja, poveži se s WLAN mrežom </string>

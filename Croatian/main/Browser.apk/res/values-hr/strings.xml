@@ -191,8 +191,8 @@
   <string name="copy_url">Kopiraj Poveznicu</string>
   <string name="create_qr_code">Kopiraj QR kod</string>
   <string name="create_shortcut_bookmark">Dodaj prečac početnoj stranici</string>
-  <string name="data_traffic_prompt_change">Korištenje vaše mobilne podatkovne veze za gledanje videozapisa će povećati uporabu podataka. Ako prekoračite svoje ograničenje uporabe podataka, vaš davatelj usluga vam može naplatiti dodatne naknade.</string>
-  <string name="data_traffic_prompt_message">Korištenje vaše mobilne podatkovne veze za pregledavanje internetom će povećati uporabu podataka. Ako prekoračite svoje ograničenje uporabe podataka, vaš davatelj usluga vam može naplatiti dodatne naknade.</string>
+  <string name="data_traffic_prompt_change">Korištenje vaše mobilne podatkovne veze za gledanje videozapisa će povećati uporabu podataka. Ako prekoračite svoje ograničenje uporabe podataka, vaš operater vam može naplatiti dodatne naknade.</string>
+  <string name="data_traffic_prompt_message">Korištenje vaše mobilne podatkovne veze za pregledavanje internetom će povećati uporabu podataka. Ako prekoračite svoje ograničenje uporabe podataka, vaš operater vam može naplatiti dodatne naknade.</string>
   <string name="data_traffic_prompt_title">Upozorenje uporabe podataka</string>
   <string name="date_picker_dialog_clear">Očisti</string>
   <string name="date_picker_dialog_other_button_label">Ostalo</string>

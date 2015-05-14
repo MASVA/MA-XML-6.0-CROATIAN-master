@@ -105,7 +105,7 @@ Administrator može nadzirati postavke, pristup, aplikacije i podatke povezane s
   <string name="advanced_settings">Napredne postavke</string>
   <string name="advanced_settings_summary">Omogući više opcija postavki</string>
   <string name="agps_roaming">A-GPS u roamingu</string>
-  <string name="agps_roaming_dia">"Korištenje A-GPS u roamingu može značajno povećati uporabu podataka. Ako premašite svoje ograničenje podataka, vaš davatelj usluga vam može naplatiti dodatne troškove."</string>
+  <string name="agps_roaming_dia">"Korištenje A-GPS u roamingu može značajno povećati uporabu podataka. Ako premašite svoje ograničenje podataka, vaš operater vam može naplatiti dodatne troškove."</string>
   <string name="agps_roaming_dia_title">Koristi A-GPS u roamingu</string>
   <string name="agps_roaming_summary">Koristi mobilne podatke za pomoć GPS-a u roamingu</string>
   <string name="airplane_mode">Zrakoplovni način</string>
@@ -1456,7 +1456,7 @@ Ako je tekst vašeg sustava još uvijek premalen, pokušajte koristiti "</string
   <string name="location_agps_reset_type">Vrste resetiranja</string>
   <string name="location_agps_reset_type_choose_dialog_title">Vrste resetiranja</string>
   <string name="location_agps_reset_type_summary">Odaberite željenu vrstu resetiranja</string>
-  <string name="location_agps_roaming_help">Odabir sve mreže može povećati podatkovni promet u roamingu. Ako premašite svoje ograničenje podataka, vaš davatelj usluga vam može naplatiti dodatne troškove."</string>
+  <string name="location_agps_roaming_help">Odabir sve mreže može povećati podatkovni promet u roamingu. Ako premašite svoje ograničenje podataka, vaš operater vam može naplatiti dodatne troškove."</string>
   <string name="location_agps_si_mode">AGPS SI način</string>
   <string name="location_agps_si_mode_dialog_title">AGPS metoda</string>
   <string name="location_agps_si_mode_summary">Odaberite željenu AGPS metodu</string>
@@ -1818,7 +1818,7 @@ i pokrenite ga."</string>
   <string name="network_assistant">Uporaba podataka</string>
   <string name="network_detail">Detalji mreže %s</string>
   <string name="network_error">Pogreška mreže.</string>
-  <string name="network_operators_settings">Davatelji usluge</string>
+  <string name="network_operators_settings">Operater</string>
   <string name="network_scorer_change_active_dialog_text">Želite li upotrebljavati aplikaciju %1$s, a ne %2$s, za upravljanje mrežnim vezama?</string>
   <string name="network_scorer_change_active_dialog_title">Želite li zamijeniti Wi‑Fi assistanta?</string>
   <string name="network_scorer_change_active_no_previous_dialog_text">Želite li upotrebljavati aplikaciju %s za upravljanje mrežnim vezama?</string>
@@ -2633,7 +2633,7 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="status_bar_settings_all_app_display_loading">Učitavanje…</string>
   <string name="status_bar_settings_basic_settings">Osnovne postavke</string>
   <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
-  <string name="status_bar_settings_custom_carrier">Uredi naziv davatelja usluga</string>
+  <string name="status_bar_settings_custom_carrier">Uredi naziv operatera</string>
   <string name="status_bar_settings_custom_notification">Upravljaj obavijestima</string>
   <string name="status_bar_settings_custom_wifi_name">Uredi naziv WLAN-a</string>
   <string name="status_bar_settings_enable_notification">Dopusti obavijesti</string>
@@ -2643,7 +2643,7 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="status_bar_settings_notification_bar">Panel obavijesti</string>
   <string name="status_bar_settings_notification_led">Svjetlo obavijesti</string>
   <string name="status_bar_settings_notification_sound_vibrate">Zvuk &amp; vibracija</string>
-  <string name="status_bar_settings_show_carrier">Prikaži naziv davatelja usluga</string>
+  <string name="status_bar_settings_show_carrier">Prikaži naziv operatera</string>
   <string name="status_bar_settings_show_carrier_summary">Prikaži samo na zaključanom zaslonu</string>
   <string name="status_bar_settings_show_flow_info">Prikaži detalje plutanja</string>
   <string name="status_bar_settings_show_home_message">Značka ikone aplikacije</string>
@@ -3569,7 +3569,7 @@ Postavljanje uređaja može zahtijevati znatnu mrežnu aktivnost."</string>
   <string name="wps_connect_summary">Provjerite da usmjerivač podržava te ima omogućen WPS</string>
   <string name="wps_connect_title">Poveži WPS</string>
   <string name="write_tag">Piši</string>
-  <string name="wrong_pin_code_pukked">Netočan PIN kôd SIM kartice; sada morate kontaktirati svog davatelja usluga da vam otključa vaš uređaj.</string>
+  <string name="wrong_pin_code_pukked">Netočan PIN kôd SIM kartice; sada morate kontaktirati svog operatera da vam otključa vaš uređaj.</string>
   <string name="xiaomi_account">Mi Račun</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xiaomi_money_service">Mi Krediti</string>

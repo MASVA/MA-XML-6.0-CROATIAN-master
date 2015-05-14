@@ -23,6 +23,8 @@
   <string name="notif_title_single_downloading">Preuzimanje: %1$s</string>
   <string name="notification_download_complete">Preuzimanje je dovršeno.</string>
   <string name="notification_download_failed">Preuzimanje nije uspjelo.</string>
+  <string name="notification_download_failed_more">Preuzimanje %1$d nije uspjelo</string>
+  <string name="notification_download_success_more">Preuzeto %1$ datoteka</string>
   <string name="notification_need_wifi_for_size">Veličina zahtijeva WLAN</string>
   <string name="notification_paused_in_background">Pauzirano u pozadini.</string>
   <string name="paused_waiting_for_network">Čekanje na mrežu</string>
@@ -49,7 +51,7 @@
   <string name="root_downloads">Preuzimanja</string>
   <string name="task_already_exist">Zadatak već postoji</string>
   <string name="warning_tip_cancel">Preuzmi</string>
-  <string name="warning_tip_content">"Više niste povezani s WLAN-om. Korištenje vaše mobilne podatkovne veze za dovršetak ovog preuzimanja će povećati uporabu podataka. Ako premašite svoje ograničenje, vaš davatelj usluga vam može naplatiti dodatne naknade."</string>
+  <string name="warning_tip_content">"Više niste povezani s WLAN-om. Korištenje vaše mobilne podatkovne veze za dovršetak ovog preuzimanja će povećati uporabu podataka. Ako premašite svoje ograničenje, vaš operater vam može naplatiti dodatne naknade."</string>
   <string name="warning_tip_ok">Pauza</string>
   <string name="warning_tip_title">Upozorenje uporabe podataka</string>
   <string name="wifi_recommended_body" formatted="false">"Pokretanje ovog preuzimanja od %s  može skratiti vijek baterije i/ili uzrokovati pretjeranu upotrebu podatkovne veze i dodatne troškove.

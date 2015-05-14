@@ -72,10 +72,10 @@
   <string name="count_ji_quan">Sve %d Ep.</string>
   <string name="count_qi">Ep. %s</string>
   <string name="data_buffering">Buffering</string>
-  <string name="datastream_alert_download">Korištenje vaše mobilne podatkovne veze za preuzimanje videozapisa će povećati uporabu podataka. Ako prekoračite svoje mjesečno ograničenje, vaš davatelj usluga vam može naplatiti dodatne troškove.</string>
+  <string name="datastream_alert_download">Korištenje vaše mobilne podatkovne veze za preuzimanje videozapisa će povećati uporabu podataka. Ako prekoračite svoje mjesečno ograničenje, vaš operater vam može naplatiti dodatne troškove.</string>
   <string name="datastream_alert_hint">Možete isključiti obavijesti o uporabi podataka u bilo kojem trenutku u Postavkama</string>
   <string name="datastream_alert_negative_button">Odustani</string>
-  <string name="datastream_alert_play">Korištenje vaše mobilne podatkovne veze za preuzimanje videozapisa će povećati uporabu podataka. Ako prekoračite svoje mjesečno ograničenje, vaš davatelj usluga vam može naplatiti dodatne troškove.</string>
+  <string name="datastream_alert_play">Korištenje vaše mobilne podatkovne veze za preuzimanje videozapisa će povećati uporabu podataka. Ako prekoračite svoje mjesečno ograničenje, vaš operater vam može naplatiti dodatne troškove.</string>
   <string name="datastream_alert_positive_button">Preuzmi</string>
   <string name="datastream_alert_title">Upozorenje uporabe prometa</string>
   <string name="day">Dan</string>
@@ -194,7 +194,7 @@
   <string name="not_login">Prijavite se</string>
   <string name="nowifi_alert_dialog_continue">Shvaćam</string>
   <string name="nowifi_alert_dialog_exit">Izađi</string>
-  <string name="nowifi_alert_dialog_message">Korištenje vaše mobilne podatkovne veze za gledanje videa će povećati upotrebu podataka. Ako prekoračite svoje mjesečno ograničenje, vaš davatelj usluga vam može naplatiti dodatne troškove.</string>
+  <string name="nowifi_alert_dialog_message">Korištenje vaše mobilne podatkovne veze za gledanje videa će povećati upotrebu podataka. Ako prekoračite svoje mjesečno ograničenje, vaš operater vam može naplatiti dodatne troškove.</string>
   <string name="nowifi_alert_dialog_title">Upozorenje uporabe podataka</string>
   <string name="offline">Preuzeto</string>
   <string name="offline_add_queue_fail">Preuzimanje \"%1$s\" nije uspjelo, pokušajte ponovno kasnije</string>
@@ -354,7 +354,7 @@
   <string name="vp_content_description">Opis</string>
   <string name="vp_datastream_alert_hint">Možete isključiti obavijesti o uporabi podataka bilo koje vrijeme u Postavkama.</string>
   <string name="vp_datastream_alert_negative_button">Odustani</string>
-  <string name="vp_datastream_alert_play">Korištenje vaše mobilne podatkovne veze za gledanje videa će povećati upotrebu podataka. Ako prekoračite svoje mjesečno ograničenje, vaš davatelj usluga vam može naplatiti dodatne troškove.</string>
+  <string name="vp_datastream_alert_play">Korištenje vaše mobilne podatkovne veze za gledanje videa će povećati upotrebu podataka. Ako prekoračite svoje mjesečno ograničenje, vaš operater vam može naplatiti dodatne troškove.</string>
   <string name="vp_datastream_alert_positive_button">Nastavi</string>
   <string name="vp_datastream_alert_title">Upozorenje uporabe podataka</string>
   <string name="vp_device_list">Uređaji</string>

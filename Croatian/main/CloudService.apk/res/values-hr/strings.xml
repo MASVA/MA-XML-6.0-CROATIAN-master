@@ -209,7 +209,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   
   
 Možete uključiti/isključiti tu značajku bilo kada u Postavkama."</string>
-  <string name="mx_dspt_provision_privacy">"Ova značajka može zatražiti vaš broj telefona. Vaš davatelj usluga može vam naplatiti SMS poruku korištenu za aktiviranje ove značajke.
+  <string name="mx_dspt_provision_privacy">"Ova značajka može zatražiti vaš broj telefona. Vaš operater može vam naplatiti SMS poruku korištenu za aktiviranje ove značajke.
   
   
 Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string>
@@ -277,7 +277,7 @@ Sinkronizirajte vaše fotografije, kontakte, bilješke, i više između svih va�
   <string name="sync_item_sms_title">Sinkroniziraj SMS</string>
   <string name="sync_off">Isključeno</string>
   <string name="sync_on">Uključeno</string>
-  <string name="sync_resend_sms_dspt_provision">  "Ako promijenite SIM kartice, vaš davatelj usluga može vam naplatiti SMS poruku korištenu za ponovno aktiviranje ove usluge."</string>
+  <string name="sync_resend_sms_dspt_provision">  "Ako promijenite SIM kartice, vaš operater može vam naplatiti SMS poruku korištenu za ponovno aktiviranje ove usluge."</string>
   <string name="sync_setting">Uporaba mobilnih podataka</string>
   <string name="sync_standard">SMS i povijest poziva</string>
   <string name="sync_sub_1_intl_sms">Međunarodni i domaći SMS će biti poslan za povezivanje vaših SIM kartica s ovim računom. Snositi ćete naknade vašeg mobilnog operatera.</string>

@@ -11,22 +11,21 @@
   <string name="adjust_traffic_carrier_summary_two_day_before">Ažurirano prije 2 dana</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Ažurirano jučer u %s</string>
   <string name="adjust_traffic_data">Podesi uporabu podataka</string>
-  <string name="alter_dialog_message">Povezivanje na podatkovne usluge u međunarodnom roamingu može dovesti do velikih troškove od Vašeg davatelja usluga. Dopustiti aplikacijama s popisa dopuštenih povezivanje s podatkovnim uslugama u međunarodnom roamingu?</string>
+  <string name="alter_dialog_message">Povezivanje na podatkovne usluge u međunarodnom roamingu može dovesti do velikih troškove od Vašeg operatera. Dopustiti aplikacijama s popisa dopuštenih povezivanje s podatkovnim uslugama u međunarodnom roamingu?</string>
   <string name="app_detail">Detalji</string>
-  <string name="apn_exception_summary">Test konfiguracije APN-a davatelja usluga</string>
+  <string name="apn_exception_summary">Test konfiguracije APN-a operatera</string>
   <string name="apn_exception_title">Provjerite postavke APN-a</string>
   <string name="app_mobile">2G/3G</string>
   <string name="app_name">Uporaba podataka</string>
   <string name="app_version">"Verzija "</string>
   <string name="app_wifi">WLAN</string>
-  <string name="arrearage_exception_summary">"Vaš davatelj usluga pokazuje da nadoplatite vaš račun"</string>
-  <string name="arrearage_exception_title">Stanje vašeg računa je nisko</string>
   <string name="background_traffic">Pozadina %s</string>
   <string name="begin_date">Datum resetiranja ciklusa uporabe</string>
   <string name="btn_finish_diagnostic">U redu</string>
   <string name="btn_start_diagnostic">Pokreni dijagnostiku</string>
   <string name="btn_stop_diagnostic">Zaustavi dijagnostiku</string>
   <string name="cancel_button">Odustani</string>
+  <string name="captive_portal_exception_title">Povezivanje s javnom mrežom</string>
   <string name="chat_number">10 sati</string>
   <string name="chat_uint">" sati"</string>
   <string name="check_network_state">Provjeri status mreže</string>
@@ -34,16 +33,17 @@
   <string name="choose">Odaberi</string>
   <string name="connect_internet_by_mobiledata">Mobilna podatkovna veza</string>
   <string name="connect_internet_by_usbshare">Internet putem USB-a</string>
-  <string name="connect_internet_by_wifi">WLAN</string>
+  <string name="connect_internet_by_wifi">Internet putem WLAN-a</string>
   <string name="current_network_state_not_need_diagnose">Internet povezivanje je u redu</string>
   <string name="daily_limit_network_available_body">Dodirni za pregled statistike uporabe podataka.</string>
   <string name="daily_limit_over_message">"Premašili ste svoje dnevno ograničenja uporabe podataka."</string>
   <string name="daily_pkg_traffic">Postavi ograničenje maks. uporabe podataka</string>
+  <string name="data_network_blocked_notification_title">Nema povezivanja s internetom</string>
   <string name="data_usage_correction_timeout_body">Dodirnite za ručno ažuriranje.</string>
   <string name="data_usage_correction_timeout_title">Isteklo je vrijeme sinkronizacije uporabe podataka</string>
   <string name="data_usage_disabled_dialog">"Dosegli ste ograničenje uporabe podataka. 
 
-Korištenje više od planiranog ograničenja podataka vašeg davatelja usluga može dovesti do povećanih troškova."</string>
+Korištenje više od planiranog ograničenja podataka vašeg operatera može dovesti do povećanih troškova."</string>
   <string name="data_usage_disabled_dialog_enable">Uključi mob. podatke</string>
   <string name="data_usage_leisure_warning_body">Dodirnite za pregled pojedinosti uporabe podataka.</string>
   <string name="data_usage_leisure_warning_title">Ograničenje uporabe podataka</string>
@@ -53,7 +53,7 @@ Korištenje više od planiranog ograničenja podataka vašeg davatelja usluga mo
   <string name="data_usage_mobile_limit_title">Postignuto ograničenje podataka</string>
   <string name="data_usage_no_total_package_body">Dodirnite za postavljanje ograničenja uporabe podataka</string>
   <string name="data_usage_no_total_package_body_dual">Dodirnite za postavljanje ograničenja uporabe podataka za %s?</string>
-  <string name="data_usage_no_total_package_title">Nema ograničenja Uporabe podataka</string>
+  <string name="data_usage_no_total_package_title">Podesi ograničenje Uporabe podataka</string>
   <string name="data_usage_restricted_body">Dodirnite da uključite pozadinske podatke</string>
   <string name="data_usage_restricted_title">Pozadinski podaci ograničeni</string>
   <string name="data_usage_warning_body">Dodirnite da biste vidjeli pojedinosti uporabe podataka.</string>
@@ -78,11 +78,11 @@ Korištenje više od planiranog ograničenja podataka vašeg davatelja usluga mo
   <string name="datausage_purchase_pay_hint">Za poništenje, birajte %s</string>
   <string name="datausage_purchase_pkglist_networkerror">"Ne mogu se spojiti na mrežu. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
   <string name="datausage_purchase_pkglist_nodata">"Postoji sukob između vašeg trenutnog paketa podataka i paketa podataka koji pokušavate kupiti.
- Provjerite kod svojeg davatelja usluga za više informacija."</string>
+ Provjerite kod svojeg operatera za više informacija."</string>
   <string name="datausage_purchase_pkglist_servererror">Nešto je pošlo po krivu s našim poslužiteljem.</string>
-  <string name="datausage_purchase_result_failed">"Nije bilo moguće kupiti podatke. Provjerite kod svojeg davatelja usluga za više informacija o tom pitanju. "</string>
+  <string name="datausage_purchase_result_failed">"Nije bilo moguće kupiti podatke. Provjerite kod svojeg operatera za više informacija o tom pitanju. "</string>
   <string name="datausage_purchase_result_ok">"Kupili ste %s
-Za više informacija provjerite poruku koju ste dobili od svog davatelja usluga"</string>
+Za više informacija provjerite poruku koju ste dobili od svog operatera"</string>
   <string name="datausage_purchase_time_in">" na "</string>
   <string name="datausage_purchase_title_confirm">Pojedinosti o kupnji</string>
   <string name="datausage_purchase_title_order">Dodatne pojedinosti o kupnji</string>
@@ -93,6 +93,7 @@ Za više informacija provjerite poruku koju ste dobili od svog davatelja usluga"
   <string name="detail_app_button">Detalji aplikacije</string>
   <string name="dialog_app_roaming_message">"Kada ste u međunarodnom roamingu, samo aplikacije koje ste dodali na popis dopuštenih mogu koristiti podatkovne usluge. %1$s nije dodan na popis dopuštenih."</string>
   <string name="dialog_app_roaming_title">"Međunarodni roaming nije omogućen za %1$s"</string>
+  <string name="dialog_roaming_apps_sorted_title">Poredaj po</string>
   <string name="dialog_roaming_message">Aplikacije na popisu dopuštenih će se moći povezivati na podatkovne usluge u međunarodnom roamingu. Dodati ovu aplikaciju na popis dopuštenih?</string>
   <string name="disable_air_mode">Isključite najprije Zrakoplovni način</string>
   <string name="dns_exception_summary">"Provjerite DNS postavke routera."</string>
@@ -124,15 +125,20 @@ Za više informacija provjerite poruku koju ste dobili od svog davatelja usluga"
   <string name="free_traffic_settings">Postavke uporabe podataka</string>
   <string name="gateway_exception_summary">Provjerite svoj router i pokušajte ponovo.</string>
   <string name="gateway_exception_title">Test routera</string>
+  <string name="hints_input_roaming_daily_limit">Unesite ograničenje uporabe podataka</string>
+  <string name="hints_install_apps_new">Nije korišteno</string>
+  <string name="hints_install_apps_today">Korišteno danas</string>
   <string name="input_aviable_traffic">Postavi ograničenje uporabe podataka</string>
   <string name="input_traffic_pkg">Unesite uporabu podataka</string>
   <string name="input_used_hint">Unesite uporabu podataka</string>
   <string name="input_used_max_hint">Unesite uporabu podataka (manje od %s)</string>
   <string name="international_roaming_setting">Međunarodni roaming</string>
   <string name="international_roaming_whitelist_count">%d aplik. se može povezati na podatkovne usluge u međunarodnom roamingu</string>
+  <string name="ip_address_exception_summary">"Nije bilo moguće dobiti IP adresu. Ako naiđete ponovno na ovaj problem, pokušajte koristiti statičnu IP adresu."</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Prazno</string>
   <string name="load_fail">"Ne mogu učitati"</string>
+  <string name="local_ip_exception_summary">"Nije bilo moguće dobiti lokalnu IP adresu. Da prijavite MIUI-u ovaj problem, idite u aplikaciju Prijava grešaka i pošaljite izvješće sa svog uređaja."</string>
   <string name="lock_screen_setting_summary">Prikaži obavijest kada se iskoristi preko 100kB u manje od 2 dana</string>
   <string name="lock_screen_traffic_guide_notification_summary">Mob. podaci korišteni tijekom zaklj. zaslona.</string>
   <string name="lock_screen_traffic_guide_notification_title">Iskorišteno %s mob. podataka</string>
@@ -146,12 +152,12 @@ Za više informacija provjerite poruku koju ste dobili od svog davatelja usluga"
 podatkovnu vezu"</string>
   <string name="main_button_idel_traffic">Ograničenje</string>
   <string name="main_button_normal_traffic">Premašeno</string>
-  <string name="main_button_usage_adjust">Postavite ograničenje uporabe podataka</string>
+  <string name="main_button_usage_adjust">Sinkr. uporabe podataka</string>
   <string name="main_button_usage_adjust_manual">Postavite ograničenje uporabe podataka</string>
   <string name="main_button_usage_adjusting">Promjena…</string>
   <string name="main_button_usage_package_setting">Postavite ograničenje uporabe podataka</string>
   <string name="main_primary_message_traffic_cur_leisure">Isključivanje maks. uporabe podataka</string>
-  <string name="main_primary_message_traffic_cur_normal">Ispod ograničenja podataka</string>
+  <string name="main_primary_message_traffic_cur_normal">Ispod vrha ograničenja podataka</string>
   <string name="main_primary_message_traffic_cur_normal_overlimit">Ograničenja podataka prekoračeno</string>
   <string name="main_primary_message_traffic_cur_normal_warning">Upozorenje uporabe podataka</string>
   <string name="main_primary_message_traffic_enough">Ispod ograničenja uporabe podataka</string>
@@ -171,7 +177,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="main_toolbar_firewall">Ograniči uporabu podataka aplikacija</string>
   <string name="main_toolbar_internet_by_mobiledata">Mobilna podatkovna veza</string>
   <string name="main_toolbar_internet_by_pc_brige">Internet putem USB-a</string>
-  <string name="main_toolbar_internet_by_wifi">WLAN</string>
+  <string name="main_toolbar_internet_by_wifi">Internet putem WLAN-a</string>
   <string name="main_toolbar_purchase">Nadoplata</string>
   <string name="main_toolbar_saving">Ušteda</string>
   <string name="main_toolbar_statistic">Statistika uporabe podataka</string>
@@ -186,23 +192,56 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
   <string name="mi_service_traffic_detail">Okvirni detalji</string>
-  <string name="network_assistant_upgraded_body">Dodirnite za prikaz detalja.</string>
+  <string name="mian_page_primary_txt">Međunarodni roaming</string>
+  <string name="network_assistant_upgraded_body">Dodirni za prikaz</string>
   <string name="network_assistant_upgraded_title">Ažurirano</string>
+  <string name="network_blocked_connected_open_wifi">Povezivanje s javnom mrežom</string>
+  <string name="network_blocked_notification_summary">Dodirni za prikaz</string>
+  <string name="network_blocked_switch_wifi">Promijeni mreže</string>
   <string name="network_control">Prikaz postavki aplikacije</string>
   <string name="network_diagnostics">Test mreže</string>
+  <string name="network_mobile_exception_detail">"Vaš uređaj se ne može povezati s internetom:
+
+ 1. Uvjerite se da niste premašili svoe mjesečno ograničenje uporabe podataka.
+ 2. Ako samo upravo obnovili svoj bon, ponovno pokrenite svoj uređaj i pokušajte ponovno.
+ 3. Signal mreže operatera može biti slab na vašoj trenutnoj lokaciji."</string>
+  <string name="network_operator_exception_summary">"Ne mogu aktivirati SIM karticu. Provjerite je li SIM kartica ispravno umetnuta i da je vaša tarifa aktivirana."</string>
+  <string name="network_permission_exception_tips">"Ne mogu koristiti mobilne podatke za povezivanje na mrežu"</string>
+  <string name="network_roaming_exception_tips">"Ne mogu koristiti mobilne podatke u roamingu za povezivanje na mrežuk."</string>
+  <string name="network_route_exception_detail">"Možda postoji problem s routerom na koji ste povezani:
+
+
+"&lt;b&gt;"1. Problemi javne WLAN mreže
+"&lt;/b&gt;"Ako ste povezani s javnom WLAN mrežom, broj korisnika povezanih s tom mrežom možda usporava ili stvara probleme s povezivanjem. Prebacite se na drugu mrežu i pokušajte ponovno.
+ 2."&lt;b&gt;" Problemi davatelja internetskih usluga
+"&lt;/b&gt;"Uvjerite se da vaš račun nema problema s vašim davateljem internetskih usluga.
+ 3."&lt;b&gt;"  Hardware problem routera
+"&lt;/b&gt;"Pokušajte ponovno pokrenuti vaš router ili provjerite admin postavke vašeg routera.
+ 4."&lt;b&gt;" Drugi problemi routera
+"&lt;/b&gt;"Pročitajte upute koje ste dobili s routerom i vratite router na tvorničke postavke.
+ 5."&lt;b&gt;" Provjerite je li router ispravno spojen
+"&lt;/b&gt;"Pokušajte povezati router s drugim Ethernet kabelom. Ako sumnjate da postoji problem s priključkom u vašem domu, obratite se davatelju internetskih usluga."</string>
+  <string name="network_sim_exception_detail">"Možda postoji problem s vašom SIM karticom:
+
+ 1. Provjerite da vaš vaš račun nema zaostalih troškova prema vašem operateru. Pokušajte koristiti SIM karticu od prijatelja i provjerite mogućnosti povezivanja njegovom SIM karticom.
+ 2. Ako koristite dvije SIM kartice, pokušajte se prebaciti na drugu karticu i provjerite ako ste u mogućnosti povezati se normalno.
+ 3. Provjerite da SIM kartica i utor SIM kartice nisu oštećeni. Potvrdite da je SIM kartica koju koristite ispravno umetnuta u SIM utor vašeg uređaja."</string>
   <string name="none_mi_service_app_detail">Prazno</string>
   <string name="notify_daily_data_usage_body">Iskorišteno %s danas. Dodirnite da post. ogranič.</string>
-  <string name="notify_daily_limit_body">Iskorišteno %s danas. Dodirnite da post. ogranič.</string>
+  <string name="notify_daily_limit_body">Iskorišteno %s danas. Dodirni za post. ogranič.</string>
   <string name="notify_daily_limit_title">Postavite dnevno ograničenje</string>
   <string name="notify_daily_limit_title_for_slotnum">Postavite dnevno ograničenje za %s</string>
-  <string name="notify_month_traffic_body">Iskorišteno %s ovaj mjesec. Dodirnite da post. ogranič.</string>
+  <string name="notify_month_traffic_body">Iskorišteno %s ovaj mjesec. Dodirni za post. ogranič.</string>
   <string name="notify_setting_pkg_title">Postavite mjesečno ograničenje podataka</string>
   <string name="notify_setting_pkg_title_for_slotnum">Postavite mjesečno ograničenje za %s</string>
-  <string name="notify_weekly_pkg_body">Iskorišteno %s ovaj tjedan. Dodirnite da post. ogranič.</string>
+  <string name="notify_weekly_pkg_body">Iskorišteno %s ovaj tjedan. Dodirni za post. ogranič.</string>
   <string name="ok_button">U redu</string>
   <string name="online_chat">Chat</string>
   <string name="online_read">Vijesti</string>
   <string name="online_songs">Glazba</string>
+  <string name="open_now">Dopusti aplikacijama korištenje mobilnih podataka</string>
+  <string name="other_exception_summary">"Nemate povezivanja s internetom"</string>
+  <string name="other_exception_title">Provjera drugih problema</string>
   <string name="pay_charge">Nadoplata</string>
   <string name="per_month_pkg_traffic_settings">Podesi ograničenje podataka</string>
   <string name="permit_running_network">Dopusti pozadinske podatke</string>
@@ -213,7 +252,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="pref_about">O aplikaciji</string>
   <string name="pref_about_traffic_title">Postavke uporabe podataka</string>
   <string name="pref_add_traffic_pkg">Dodatno kupljeni podaci</string>
-  <string name="pref_adjust_data_usage">Predložak poruke davatelja usluga</string>
+  <string name="pref_adjust_data_usage">Predložak poruke operatera</string>
   <string name="pref_adjust_traffic_data">Postavite uporabu podataka</string>
   <string name="pref_allow_connect_network_summary">Povezivanje na podatkovne usluge u međ. roamingu</string>
   <string name="pref_allow_connect_network_title">Međunarodni roaming podataka</string>
@@ -222,7 +261,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="pref_app_traffic_managent">Ograničite uporabu podataka aplikacijom</string>
   <string name="pref_auto_adjust_settings">Postavke Auto. sink. statistike uporabe podataka</string>
   <string name="pref_auto_adjust_traffic">Automatski sink. statistiku uporabe podataka</string>
-  <string name="pref_automatic_adjust">Automatski sink. statistiku uporabe podataka</string>
+  <string name="pref_automatic_adjust">Sink. up. pod. operatera</string>
   <string name="pref_avaible_traffic">Mobilni podaci</string>
   <string name="pref_category_title_other">Dodatne postavke</string>
   <string name="pref_check_network_diagnostics">"Test internetske veze uređaja"</string>
@@ -232,7 +271,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="pref_connect_settings_exceed_limit_hint">Prekinite podatkovnu vezu kada uporaba podataka dosegne ograničenje</string>
   <string name="pref_daily_adjust">Postavi ograničenje uporabe podataka</string>
   <string name="pref_daily_traffic">Ograničenje uporabe podataka</string>
-  <string name="pref_data_usage_ignore_settings">Ignoriraj uporabu podataka</string>
+  <string name="pref_data_usage_ignore_settings">Ignoriraj uporabu za odabrane aplik.</string>
   <string name="pref_data_usage_ignore_settings_summary">"Nemoj pratiti uporabu podataka odabrane skupine aplikacija"</string>
   <string name="pref_data_usage_not_set">Postavi ograničenje uporabe podataka</string>
   <string name="pref_free_adjust">Postavi ograničenje uporabe podataka</string>
@@ -246,13 +285,14 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="pref_month_first_day">Prvog dana u mjesecu</string>
   <string name="pref_more_traffic_settings">Dodatne postavke</string>
   <string name="pref_new_installed_preconfig_title">Zadane postavke novih aplikacija</string>
-  <string name="pref_open_adjust_traffic">"Ažurirajte svakodnevno stanje potrošnje podataka koristeći statistiku svog davatelja usluga"</string>
+  <string name="pref_open_adjust_traffic">"Ažurirajte svakodnevno stanje potrošnje podataka koristeći statistiku svog operatera"</string>
   <string name="pref_package_traffic_leisure">%1$s | Isklj.maks.: %2$s</string>
   <string name="pref_package_traffic_normal">Maks.: %s</string>
   <string name="pref_package_traffic_overlay">%1$s | Dodatno: %2$s</string>
   <string name="pref_package_traffic_settings">Ograničenje Mobilnih podataka</string>
   <string name="pref_pkg_begin_date">Datum resetiranja ciklusa uporabe</string>
-  <string name="pref_setting_operators_message">Uredite poruku koju vaš uređaj šalje davatelju usluga za sinkronizaciju statistike uporabe podataka</string>
+  <string name="pref_roaming_daily_limit_setting">Dnevno ograničenje podataka za roaming</string>
+  <string name="pref_setting_operators_message">Uredite poruku koju vaš uređaj šalje operaterU za sinkronizaciju statistike uporabe podataka</string>
   <string name="pref_show_mobile_traffic">Kada se otključa telefon, pokaži statistiku uporabe podataka za razdoblje kada je uređaj bio zaključan (mora biti duže od 3 minute)</string>
   <string name="pref_special_traffic_exceed_limit">Obavijesti me kada uporaba podataka dostigne ograničenje</string>
   <string name="pref_special_traffic_limit_warn">Postavite upozorenje uporabe podataka</string>
@@ -273,37 +313,46 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
 &lt;br /&gt;&lt;br /&gt;
 &lt;b&gt;2. Zašto ušteda podataka ne radi??&lt;/b&gt;
 &lt;br /&gt;&lt;br /&gt;
-Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg davatelja mobilnih usluga za slanje i preuzimanje sadržaja.</string>
+Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg operatera za slanje i preuzimanje sadržaja.</string>
   <string name="pref_traffic_saving_notify_switch">Prikaži u panelu obavijesti</string>
   <string name="pref_traffic_saving_notify_switch_hint">Prikaz informacija uštede podataka u traci obavijesti</string>
   <string name="pref_traffic_saving_switch">Smanjite uporabu podataka</string>
   <string name="pref_traffic_saving_switch_hint">Koristi proxy za sažimanje podataka</string>
   <string name="pref_traffic_saving_title">Postavke uštede podataka</string>
   <string name="pref_traffic_saving_whitelist">Iznimke</string>
-  <string name="pref_traffic_saving_whitelist_hint">"Podignite ograničenja podataka za odabranu skupinu aplikacija"</string>
+  <string name="pref_traffic_saving_whitelist_hint">"Ne ograničavaj up. pod. za odabrane aplikacije"</string>
   <string name="pref_version">Verzija %s</string>
   <string name="pref_warning_values">Stupanj upozorenja uporabe podataka</string>
   <string name="pref_whitelist_setting">Upravljanje popisa dopuštenih</string>
   <string name="privacy_declare_dialog_message">"Korištenjem ove usluge, slažete se s Opera &lt;a href=%s&gt; Uvjeti i Odredbe&lt;/a&gt;."</string>
   <string name="privacy_declare_dialog_title">Uvjeti i Odredbe</string>
-  <string name="privacy_prompt_tc_sms_report_message">"Vaš telefonski broj i detalji davatelja usluga će biti učitani na Xiaomi poslužitelje kako bi se ažurirale informacije uporabe podataka."</string>
-  <string name="privacy_prompt_traffic_adjust_message">"Ova značajka treba poslati IMEI vašeg uređaja, broj telefona i podatke vašeg davatelja usluga na MI poslužitelje kako bi dobili statistiku o uporabi podataka vašeg davatelja usluga.</string>
-  <string name="privacy_prompt_traffic_purchase_message">"Vaš telefonski broj i detalji davatelja usluga će biti učitani na Xiaomi poslužitelje kako bi dobili više informacija o mogućnosti kupnje podataka."</string>
+  <string name="privacy_prompt_tc_sms_report_message">"Vaš telefonski broj i detalji operatera će biti učitani na Xiaomi poslužitelje kako bi se ažurirale informacije uporabe podataka."</string>
+  <string name="privacy_prompt_traffic_adjust_message">"Ova značajka treba poslati IMEI vašeg uređaja, broj telefona i podatke vašeg operatera na MI poslužitelje kako bi dobili statistiku o uporabi podataka vašeg operatera.</string>
+  <string name="privacy_prompt_traffic_purchase_message">"Vaš telefonski broj i detalji operatera će biti učitani na Xiaomi poslužitelje kako bi dobili više informacija o mogućnosti kupnje podataka."</string>
   <string name="privacy_prompt_upload">Obavijesti privatnosti</string>
+  <string name="protocol_exception_title">Dijagnostika protokola mreže</string>
+  <string name="protocol_loop_back_exception_summary">Test Lokalne povratne petlje nije uspio. Da prijavite MIUI-u ovaj problem, idite u aplikaciju Prijava grešaka i pošaljite izvješće sa svog uređaja..</string>
   <string name="reach_daily_limit_value_body">Smanjite svoj mobilni podatkovni promet.</string>
   <string name="reach_daily_limit_value_title">Postignuto ograničenje dnevnih podataka</string>
   <string name="read_number">86 predmeta</string>
   <string name="read_unit">" predmeta"</string>
+  <string name="renew_ip">Pokušaj ponovo</string>
   <string name="repair">Obnovi</string>
   <string name="repair_loading_text">Učitavanje…</string>
   <string name="replace_dns">Zamjeni DNS automatski</string>
   <string name="right_precent">100%</string>
+  <string name="roaming_limit_dialog_message">Postignuto dnevno ograničenje pod. u roamingu.</string>
+  <string name="roaming_limit_network_notification_body">Dodirni za prikaz dostupnih podatkovnih mreža</string>
+  <string name="roaming_limit_notification_title">Postignuto dnevno ograničenje pod. u roamingu.</string>
+  <string name="roaming_limit_warning_notification_body">Dodirni za prikaz uporabe</string>
   <string name="roaming_not_start_body">Aplikacije na popisu dopuštenih će se moći povezati na podatkovne usluge u međ. roamingu.</string>
   <string name="roaming_not_start_title">Međunarodni roaming</string>
   <string name="roaming_start_body">Aplikacije se povezivaju na podatkovne usluge.</string>
   <string name="roaming_start_title">Međunarodni roaming</string>
   <string name="root">Root pristup</string>
-  <string name="sc_allow_network_dialog_message">Morate dopustiti aplikaciji povezivanje na internet da funkcionira normalno.</string>
+  <string name="sc_allow_network_dialog_message">Ova aplikacija treba povezivanje na internet da funkcionira normalno.</string>
+  <string name="sc_allow_network_dialog_tiltle">"Ne mogu koristiti ovu značajku"</string>
+  <string name="search_input_txt">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="sc_allow_network_dialog_tiltle">"Ne mogu koristiti Uštedu podataka"</string>
   <string name="see_detail">Detalji</string>
   <string name="setting_traffic_pkg">Podesite paket podataka</string>
@@ -311,7 +360,8 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg davatelja mobilnih
   <string name="show_traffic_dialog_message">Detalji vaše uporabe podataka će biti prikazani u panelu obavijesti. Možete uključiti/isključiti ovu značajku u bilo koje vrijeme u Uporaba podataka &gt; Postavke</string>
   <string name="show_traffic_dialog_title">Prikaži uporabu u panelu obavijesti</string>
   <string name="signal_exception_summary">"Ne mogu se povezati na mrežu na ovom području."</string>
-  <string name="signal_exception_title">Slabi signal mreže</string>
+  <string name="signal_exception_title">Test jačine signala</string>
+  <string name="sim_state_exception_summary">Stanje SIM kartice pokazuje da nešto nije u redu s vašom SIM karticom.</string>
   <string name="songs_number">18 pjesama</string>
   <string name="songs_unit">" pjesama"</string>
   <string name="sorted_button">Poredaj po</string>
@@ -321,7 +371,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg davatelja mobilnih
   <string name="system_app">Aplikacije sustava</string>
   <string name="tc_sms_report_direction">Upit za kod (naredba u SMS za operatera)</string>
   <string name="tc_sms_report_do_report">Pošalji</string>
-  <string name="tc_sms_report_get_default">"Nećete snositi troškove korištenja SMS poruka za dobivanje stanja uporabe podataka vašeg davatelja usluga."</string>
+  <string name="tc_sms_report_get_default">"Nećete snositi troškove korištenja SMS poruka za dobivanje stanja uporabe podataka vašeg operatera."</string>
   <string name="tc_sms_report_get_sms">Dobivanje SMS-a</string>
   <string name="tc_sms_report_get_sms2">Dobivanje SMS-a</string>
   <string name="tc_sms_report_get_sms_again">Osvježi SMS</string>
@@ -335,11 +385,11 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg davatelja mobilnih
   <string name="tc_sms_report_notify_correction_body">Idi u-&gt; Sigurnost-&gt; Uporaba podataka i pokušajte ponovno ručno.</string>
   <string name="tc_sms_report_notify_correction_failure_title">"Ne mogu ažurirati detalje uporabe podataka"</string>
   <string name="tc_sms_report_notify_get_failure_body">Ne mogu poslati izvješće o uporabi podataka. Provjerite da li ste spojeni na mobilnu mrežu.</string>
-  <string name="tc_sms_report_notify_get_failure_title">"Ne mogu dobiti izvješće o uporabi podataka"</string>
+  <string name="tc_sms_report_notify_get_failure_title">"Ne mogu dobiti SMS o uporabi podataka"</string>
   <string name="tc_sms_report_notify_get_timeout_body">Istek vremena obrade. Potvrdi sa svojim operaterom da je upit koda SMS-om koji ste unijeli je ispravan.</string>
-  <string name="tc_sms_report_notify_get_timeout_title">"Ne mogu dobiti izvješće o uporabi podataka"</string>
+  <string name="tc_sms_report_notify_get_timeout_title">"Ne mogu dobiti SMS o uporabi podataka"</string>
   <string name="tc_sms_report_receive_content">Sadržaj izvješća SMS-a uporabe podataka (Potvrda statistike o uporabi podataka)</string>
-  <string name="tc_sms_report_receive_content_null">"​Pomozite nam poboljšati ovu značajku!&lt;br/&gt;Evo kako:&lt;br/&gt;1. Idite na \"Provjeri naredbu SMS\" i \"Broj primatelja\"&lt;br/&gt;2. Dodirnite \"Dobivanje SMS predloška\"&lt;br/&gt;3. Pričekajte SMS poruku od svog davatelja usluga &lt;br/&gt;4. Dodirnite \"Pošalji MIUI\"​"</string>
+  <string name="tc_sms_report_receive_content_null">"​Pomozite nam poboljšati ovu značajku!&lt;br/&gt;Evo kako:&lt;br/&gt;1. Idite na \"Provjeri naredbu SMS\" i \"Broj primatelja\"&lt;br/&gt;2. Dodirnite \"Dobivanje SMS predloška\"&lt;br/&gt;3. Pričekajte SMS poruku od svog operatera &lt;br/&gt;4. Dodirnite \"Pošalji MIUI\"​"</string>
   <string name="tc_sms_report_receive_num">Broj primatelja</string>
   <string name="tc_sms_report_send_num">Broj telefona operatera</string>
   <string name="tc_sms_report_summary">Pomozite nam poboljšati ovu značajku slanjem izvješća kada je informacija uporabe podataka netočna ili ne uspijeva ažuriranje</string>
@@ -361,7 +411,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg davatelja mobilnih
   <string name="tips_dialog_title">"Ne znate svoje ograničenje?"</string>
   <string name="tips_message">"Ako su vam nejasni detalji Vašeg bežičnog plana, možete ih pogledati pozivom na %2$s (%1$s) (Samo Kina)"</string>
   <string name="title_limit_traffic_per_day">Dnevno ograničenje uporabe podataka</string>
-  <string name="traffic_config_alert_body">"Prema vašem davatelju usluga imate: %s.
+  <string name="traffic_config_alert_body">"Prema vašem operateru imate: %s.
 
 Prihvaćate li to?"</string>
   <string name="traffic_config_alert_body_extra">"
@@ -380,19 +430,19 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="traffic_config_alert_setted">Postavke primjenjene</string>
   <string name="traffic_config_alert_title">%s Ispravak</string>
   <string name="traffic_correction_failed">"Nije moguće doznati detalje uporabe podataka"</string>
-  <string name="traffic_correction_start_correction">"Razgovor s poslužiteljem davatelja mobilnih usluga…"</string>
-  <string name="traffic_correction_start_correction_failed">Zahtjev nije uspio, provjerite postavke davatelja mobilnih usluga</string>
+  <string name="traffic_correction_start_correction">"Razgovor s poslužiteljem operatera…"</string>
+  <string name="traffic_correction_start_correction_failed">Zahtjev nije uspio, provjerite postavke operatera</string>
   <string name="traffic_correction_success">Uporaba podataka ažurirana</string>
   <string name="traffic_correction_success_notify_message">Dodirni za prikaz detalja.</string>
-  <string name="traffic_limit_error_alert_body">"Prema vašem davatelju usluga preostalo vam je još %1$s za ovaj mjesec. To je više od %2$s ograničenja koji ste postavili ručno."</string>
+  <string name="traffic_limit_error_alert_body">"Prema vašem operateru preostalo vam je još %1$s za ovaj mjesec. To je više od %2$s ograničenja koji ste postavili ručno."</string>
   <string name="traffic_limit_error_alert_iknow">U redu</string>
   <string name="traffic_limit_error_alert_reset">Resetiraj ograničenje</string>
   <string name="traffic_limit_error_alert_title">Podsjetnik ograničenja podataka %s</string>
   <string name="traffic_none">Ništa</string>
   <string name="traffic_over_purchase_body">Dodirnite za prikaz pojedinosti.</string>
-  <string name="traffic_over_purchase_link">"Dosegli ste ograničenje uporabe podataka.&lt;br/&gt;Ako premašite vaše ograničenje, vaš davatelj usluga može vam naplatiti dodatne naknade.&lt;br/&gt;&lt;br/&gt;&lt;font color='ccffffff'&gt;&lt;U&gt;Obnovite bon.&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_over_purchase_link">"Dosegli ste ograničenje uporabe podataka.&lt;br/&gt;Ako premašite vaše ograničenje, vaš operater može vam naplatiti dodatne naknade.&lt;br/&gt;&lt;br/&gt;&lt;font color='ccffffff'&gt;&lt;U&gt;Obnovite bon.&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_over_purchase_title">Premašeno ograničenje podataka</string>
-  <string name="traffic_protection_data_usage_summary">"Korištenje više od planiranog ograničenja podataka vašeg davatelja usluga može dovesti do povećanih troškova."</string>
+  <string name="traffic_protection_data_usage_summary">"Korištenje više od planiranog ograničenja podataka vašeg operatera može dovesti do povećanih troškova."</string>
   <string name="traffic_protection_label">Upozorenje uporabe podataka</string>
   <string name="traffic_protection_next">Dalje</string>
   <string name="traffic_protection_summary">Postavi upozorenja kada uporaba podataka dosegne određenu razinu</string>
@@ -400,7 +450,7 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="traffic_protection_unknown">Postaviti kasnije</string>
   <string name="traffic_protection_use_data">Podaci omogućeni</string>
   <string name="traffic_purchase_body">Obnovite bon.</string>
-  <string name="traffic_purchse_suggestion">Ograničenje podataka premašeno</string>
+  <string name="traffic_purchse_suggestion">Nadoplata bona</string>
   <string name="traffic_saving_button_sorted">Grafikon</string>
   <string name="traffic_saving_button_sorted_chose_simcard">Poredaj po</string>
   <string name="traffic_saving_button_start">Uključi</string>
@@ -448,8 +498,8 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="traffic_setting_fragment_loading_text">Dobivanje detalja mreže…</string>
   <string name="traffic_setting_fragment_no_network">"Ne mogu se spojiti na mrežu"</string>
   <string name="traffic_setting_fragment_null">Prazno</string>
-  <string name="traffic_setting_fragment_operator">Davatelj usluga</string>
-  <string name="traffic_setting_fragment_send_num">Broj telefona davatelja usluga</string>
+  <string name="traffic_setting_fragment_operator">Operater</string>
+  <string name="traffic_setting_fragment_send_num">Broj telefona operatera</string>
   <string name="traffic_setting_fragment_send_num_tips">Unesite broj telefona</string>
   <string name="traffic_setting_fragment_sms_content">Sadržaj poruke</string>
   <string name="traffic_setting_fragment_sms_content_tips">Ovdje upišite svoju poruku</string>
@@ -465,6 +515,8 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="usage_sorted_loading_text">Učitavanje…</string>
   <string name="usbsharenet_exception_summary">"Ne mogu se povezati na internet putem USB veze. Provjerite USB priključak vašeg uređaja i ponovno pokrenite Mi PC Suite."</string>
   <string name="usbsharenet_exception_title">Test povezivanja putem USB-a</string>
+  <string name="usbsharenet_pc_exception_summary">"Ne mogu se povezati na internet putem dijeljene veze. Provjerite internetsku vezu vašeg računala."</string>
   <string name="wifi_exception_summary">Test povezivanja dostupne WLAN mreže</string>
   <string name="wifi_exception_title">Test WLAN mreže</string>
+  <string name="wifi_network_blocked_notification_title">Nema povezivanja s internetom</string>
 </resources>

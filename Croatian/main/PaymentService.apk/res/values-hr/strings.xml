@@ -164,11 +164,11 @@ potrošeni prvi automatski"</string>
   <string name="msg_denomination_type">Mi Krediti</string>
   <string name="msg_error">Neuspjela nadoplata</string>
   <string name="msg_order_hint_1_1">Nakon što dodirnete Potvrdi kupnju, vaš telefon će</string>
-  <string name="msg_order_hint_1_2">Automatski se obratiti davatelju usluga.</string>
+  <string name="msg_order_hint_1_2">Automatski se obratiti operateru.</string>
   <string name="msg_picker_hint_1_1">1.</string>
   <string name="msg_picker_hint_1_2">Nadoplata putem SMS-a je skuplja: 2 RMB (0,24€) = 1 Mi Kredit</string>
   <string name="msg_picker_hint_2_1">2.</string>
-  <string name="msg_picker_hint_2_2">Za svaku nadoplatu putem SMS-a, davatelj usluga naplaćuje %1$s RMB naknade</string>
+  <string name="msg_picker_hint_2_2">Za svaku nadoplatu putem SMS-a, operater naplaćuje %1$s RMB naknade</string>
   <string name="msg_picker_hint_3_1">3.</string>
   <string name="msg_picker_hint_3_2">Maksimalno možete podići %1$s RMB mjesečno</string>
   <string name="msg_progress_hint_2_1">Vaš operator je kontaktiran!</string>
@@ -182,10 +182,10 @@ potrošeni prvi automatski"</string>
   <string name="msg_telecom_order_goods">%1s Mi Kredit(a)</string>
   <string name="msg_telecom_order_goods_label">Opis proizvoda:</string>
   <string name="msg_telecom_picker_hint_1_1">Nakon što dodirnete Potvrdi kupnju, vaš telefon će</string>
-  <string name="msg_telecom_picker_hint_1_2"> Automatski kontaktirati davatelja usluga.</string>
-  <string name="msg_telecom_picker_hint_2_1"> Vaš davatelj usluga je kontaktiran!</string>
+  <string name="msg_telecom_picker_hint_1_2"> Automatski kontaktirati operatera.</string>
+  <string name="msg_telecom_picker_hint_2_1"> Vaš operater je kontaktiran!</string>
   <string name="msg_telecom_picker_hint_2_2">Uskoro ćete dobiti SMS potvrde.</string>
-  <string name="msg_telecom_sending">Kontaktiranje vašeg davatelja usluga…</string>
+  <string name="msg_telecom_sending">Kontaktiranje vašeg operatera…</string>
   <string name="order_price">Mi Kredita %1$s</string>
   <string name="partner_giftcard_payment">%1$s: %2$sMi Kredita </string>
   <string name="password_error">Zaporka nije točna.</string>
@@ -205,11 +205,11 @@ potrošeni prvi automatski"</string>
   <string name="paytool_msp_not_installed">Nemate instaliran %1$s plugin mobilne sigurnosti, instalirati ga sada?</string>
   <string name="paytool_tenpay">Tenpay</string>
   <string name="prepaid_card_order_info">%1$s nadoplata kartica: RMB %2$s</string>
-  <string name="prepaid_carriers_picker_hint">Odaberite davatelja usluga</string>
+  <string name="prepaid_carriers_picker_hint">Odaberite operatera</string>
   <string name="prepaid_edit_limit">brojke</string>
   <string name="prepaid_error_card_length">Nevažeći broj kartice ili zaporka.</string>
   <string name="prepaid_error_card_number">Broj kartice nije valjan.</string>
-  <string name="prepaid_error_carrier">Odaberite davatelja usluge</string>
+  <string name="prepaid_error_carrier">Odaberite operatera</string>
   <string name="prepaid_error_denomination">Odaberite iznos</string>
   <string name="prepaid_error_password">Zaporka kartice nije valjana.</string>
   <string name="prepaid_number_edit_hint">Broj</string>

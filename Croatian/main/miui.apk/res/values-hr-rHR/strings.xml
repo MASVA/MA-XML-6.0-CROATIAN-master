@@ -157,10 +157,10 @@ idite na: %s."</string>
   <string name="select_all">Odaberi sve</string>
   <string name="select_item">Odaberi stavke</string>
   <string name="send">Pošalji</string>
-  <string name="send_sms_for_sync_notice">Vaš davatelj usluga može vam naplatiti SMS poruku korištenu za aktiviranje ove usluge.</string>
+  <string name="send_sms_for_sync_notice">Vaš operater može vam naplatiti SMS poruku korištenu za aktiviranje ove usluge.</string>
   <string name="send_sms_for_sync_title">Upozorenje uporabe podataka</string>
-  <string name="sim_changed_reactivate_int_notice">Vaš davatelj usluga može vam naplatiti međunarodnu SMS poruku korištenu za ponovno aktiviranje ove usluge.</string>
-  <string name="sim_changed_reactivate_notice">Vaš davatelj usluga može vam naplatiti SMS poruku korištenu za ponovno aktiviranje ove usluge.</string>
+  <string name="sim_changed_reactivate_int_notice">Vaš operater može vam naplatiti međunarodnu SMS poruku korištenu za ponovno aktiviranje ove usluge.</string>
+  <string name="sim_changed_reactivate_notice">Vaš operater može vam naplatiti SMS poruku korištenu za ponovno aktiviranje ove usluge.</string>
   <string name="sim_in_airplane_mode">Isključite Zrakoplovni način.</string>
   <string name="sim_locked">SIM kartica je zaključana.</string>
   <string name="sim_not_ready">SIM kartica je u upotrebi. Pokušajte ponovno kasnije.</string>

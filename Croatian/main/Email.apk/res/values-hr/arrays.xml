@@ -78,7 +78,7 @@
         <item>WeChat:</item>
         <item>Fax:</item>
         <item>Poštanski broj:</item>
-		</string-array>
+	</string-array>
     <string-array name="signature_special_string_array">
         <item>Odricanje:</item>
         <item>E-pošta Odricanje</item>

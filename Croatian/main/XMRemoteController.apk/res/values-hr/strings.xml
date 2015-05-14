@@ -293,7 +293,7 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="passport_reg_using_other_phone">Registriraj se koristeći drugi broj telefona</string>
   <string name="passport_reg_using_other_phone_number_prompt">Registriraj se koristeći drugi broj telefona</string>
   <string name="passport_reg_using_phone_number_prompt">Registriraj se koristeći broj telefona</string>
-  <string name="passport_reg_via_sms_alert">Vaš davatelj usluga može vam naplatiti SMS poruku korištenu za aktiviranje ove usluge.</string>
+  <string name="passport_reg_via_sms_alert">Vaš operater može vam naplatiti SMS poruku korištenu za aktiviranje ove usluge.</string>
   <string name="passport_reging">Izrada računa…</string>
   <string name="passport_register">Izradi račun</string>
   <string name="passport_register_account_goto_email">Idi u dolaznu poštu</string>
@@ -359,7 +359,7 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="select_area">Odaberite mjesto</string>
   <string name="select_brand">Odaberite %s marku</string>
   <string name="select_device">Odaberite uređaj</string>
-  <string name="select_dvb_carrier">Odaberite davatelja usluga</string>
+  <string name="select_dvb_carrier">Odaberite operatera</string>
   <string name="setting_airkan">Postavke bežičnog zaslona</string>
   <string name="setting_common">Općenito</string>
   <string name="setting_version">Verzija %1$s</string>
