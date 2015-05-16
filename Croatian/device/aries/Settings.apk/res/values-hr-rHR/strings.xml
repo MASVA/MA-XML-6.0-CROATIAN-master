@@ -740,7 +740,7 @@ Da biste nastavili upotrebljavati ​​telefon, morate vratiti tvorničke posta
   <string name="cryptkeeper_emergency_call">"Hitan poziv"</string>
   <string name="cryptkeeper_return_to_call">Vrati se na poziv</string>
   <string name="current_backup_pw_prompt">Ovdje unesite trenutačnu zaporku za potpunu sigurnosnu kopiju</string>
-  <string name="current_input_method">Trenutačna tipkovnica</string>
+  <string name="current_input_method">Trenutna tipkovnica</string>
   <string name="current_use_ese">Korištenje ugrađenog sigurnosnog elementa</string>
   <string name="current_use_uicc_se">Korištenje ugrađenog elementa na SIM kartici</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalija (crveno – zeleno)</string>
@@ -1958,7 +1958,7 @@ i pokrenite ga."</string>
  %2$s"</string>
   <string name="print_menu_item_add_printer">Dodaj pisač</string>
   <string name="print_menu_item_add_printers">Dodaj pisače</string>
-  <string name="print_menu_item_add_service">Dodaj uslugu</string>
+  <string name="print_menu_item_add_service">+</string>
   <string name="print_menu_item_search">Pretraživanje</string>
   <string name="print_menu_item_settings">Postavke</string>
   <string name="print_no_printers_found">Nije pronađen nijedan pisač</string>
@@ -2075,7 +2075,7 @@ i pokrenite ga."</string>
   <string name="radio_info_call_redirect_label">Preusmjeravanje poziva:</string>
   <string name="radio_info_call_status_label">Status poziva:</string>
   <string name="radio_info_cellinfo_label">Informacije o ćeliji:</string>
-  <string name="radio_info_current_network_label">Trenutačna mreža:</string>
+  <string name="radio_info_current_network_label">Trenutna mreža:</string>
   <string name="radio_info_data_attempts_label">Pokušaji za podatke:</string>
   <string name="radio_info_data_successes_label">Podatkovni uspjesi:</string>
   <string name="radio_info_dcrtinfo_label">Informacije o DcRt:</string>
@@ -3315,7 +3315,7 @@ Dodirnite "&lt;b&gt;Natrag&lt;/b&gt; za povezivanje s nekom drugom WLAN mrežom.
   <string name="wifi_share_connected_summary">"Povezani ste na javnu WLAN mrežu koju je podijelio drugi korisnik"</string>
   <string name="wifi_share_connected_title">MIUI dijeljeni WLAN</string>
   <string name="wifi_share_count">Podijelili ste %d mreža</string>
-  <string name="wifi_share_current_network">Trenutačna mreža</string>
+  <string name="wifi_share_current_network">Trenutna mreža</string>
   <string name="wifi_share_know">"U redu"</string>
   <string name="wifi_share_list_empty">Nisu pronađene dijeljene mreže.</string>
   <string name="wifi_share_login">Podijeli WLAN mrežu</string>
