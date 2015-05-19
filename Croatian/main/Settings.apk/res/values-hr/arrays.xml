@@ -741,10 +741,6 @@
         <item>Traži dopuštenje za rizične aplikacije</item>
         <item>Dopusti</item>
     </string-array>
-    <string-array name="install_non_market_app_contents">
-        <item>Traži dopuštenje</item>
-        <item>Dopusti</item>
-    </string-array>
 	<string-array name="lock_screen_secure_after_timeout_entries">
         <item>Odmah</item>
         <item>1 min.</item>
@@ -752,5 +748,17 @@
         <item>5 min.</item>
         <item>15 min.</item>
         <item>30 min.</item>
+    </string-array>
+    <string-array name="fluency_mode_entries">
+        <item>Sakrij animacije sustava</item>
+        <item>Prikaži animacije sustava</item>
+    </string-array>
+    <string-array name="fluency_mode_summaries">
+        <item>"Da ubrzate performanse uređaja, sakrijte animacije sustava"</item>
+        <item>"Prikaz animacija sustava može usporiti performanse uređaja"</item>
+    </string-array>
+    <string-array name="fluency_mode_confirms">
+        <item>Ponovno pokrenuti uređaj za primjenu ove postavke?</item>
+        <item>Ponovno pokrenuti uređaj za primjenu ove postavke?</item>
     </string-array>
 </resources>

@@ -53,7 +53,7 @@
   <string name="download_list_get_hightspeed_flow_pay_ok">Plaćanje završeno.</string>
   <string name="download_list_get_hightspeed_flow_sucess_head">Plaćanje završeno.</string>
   <string name="download_list_get_hightspeed_flow_sucess_tail">Uživajte u većoj brzini preuzimanja koje vam pruža Xunlei</string>
-  <string name="download_list_intoAuth">Potvrda vašeg ​​računa</string>
+  <string name="download_list_intoAuth">Potvrda vašeg ​​Računa</string>
   <string name="download_list_intoAuthAlert">Učitavanje…</string>
   <string name="download_list_open_xl_cancel">Odustani</string>
   <string name="download_list_open_xl_message">Xunlei ubrzanje preuzimanja će vam pomoći ubrzati preuzimanja</string>
@@ -122,7 +122,7 @@
   <string name="privacy_tip_content">"Koristiti Xunlei Accelerator za ubrzanje preuzimanja? URL domaćina preuzimanja će biti učitan na Xunlei poslužitelje. Detalji vašeg Mi Računa će biti učitani radi provjere je li imate aktivne pretplate na ovu uslugu."</string>
   <string name="privacy_tip_ok">U redu</string>
   <string name="privacy_tip_title">Koristiti Xunlei Accelerator?</string>
-  <string name="recommend_downloading">Preuzimanje</string>
+  <string name="recommend_downloading">Preuzimanje…</string>
   <string name="recommend_failed">Nije uspjelo</string>
   <string name="recommend_install">Instaliraj</string>
   <string name="recommend_installing">Instalranje…</string>
@@ -130,7 +130,7 @@
   <string name="recommend_open">Otvori</string>
   <string name="recommend_other_downloads">Popularno</string>
   <string name="recommend_paused">Pauzirano</string>
-  <string name="recommend_prepare">Čekaj</string>
+  <string name="recommend_prepare">Čekanje…</string>
   <string name="recommend_show_other_downloads">Prikaži popularno</string>
   <string name="remove_download">Ukloni</string>
   <string name="restart_download">Ponovno pokreni</string>

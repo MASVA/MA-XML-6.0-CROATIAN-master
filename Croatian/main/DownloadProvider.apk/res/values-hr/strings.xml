@@ -23,7 +23,7 @@
   <string name="notif_title_single_downloading">Preuzimanje: %1$s</string>
   <string name="notification_download_complete">Preuzimanje je dovršeno.</string>
   <string name="notification_download_failed">Preuzimanje nije uspjelo.</string>
-  <string name="notification_download_failed_more">Preuzimanje %1$d nije uspjelo</string>
+  <string name="notification_download_failed_more">"Ne mogu preuzeti %1$d stavaka"</string>
   <string name="notification_download_success_more">Preuzeto %1$ datoteka</string>
   <string name="notification_need_wifi_for_size">Veličina zahtijeva WLAN</string>
   <string name="notification_paused_in_background">Pauzirano u pozadini.</string>

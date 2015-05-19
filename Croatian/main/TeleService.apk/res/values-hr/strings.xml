@@ -1045,10 +1045,10 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="sum_xdivert_disabled">X-Divert je isključen</string>
   <string name="sum_xdivert_enabled">X-Divert je uključen</string>
   <string name="summary_manage_subscriptions">Upravljanje mrežnih postavki svake pretplate</string>
-  <string name="t9_indexing_method_pinyin">Pinyin</string>
+  <string name="t9_indexing_method_pinyin">Latinica</string>
   <string name="t9_indexing_method_title">T9 pretraživanje unosa</string>
-  <string name="t9_indexing_method_zhuyin">Zhuyin</string>
-  <string name="t9_indexing_rebuilding_message">Obnova T9 indeksa…</string>
+  <string name="t9_indexing_method_zhuyin">Zhuyin fonetski zapis</string>
+  <string name="t9_indexing_rebuilding_message">Samo tren…</string>
   <string name="technology_news_disable">Vijesti iz tehnologije su isključene</string>
   <string name="technology_news_enable">Vijesti iz tehnologije su uključene</string>
   <string name="telephony_setting">Postavke poziva</string>

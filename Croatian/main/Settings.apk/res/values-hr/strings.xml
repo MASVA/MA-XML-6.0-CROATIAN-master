@@ -3,16 +3,16 @@
   <string name="Accounts_settings_title">Računi</string>
   <string name="about_settings">O uređaju</string>
   <string name="about_settings_summary">Prikaži pravne informacije, status, verziju softvera</string>
-  <string name="ac_enable_title">Dozvole</string>
+  <string name="ac_enable_title">Zaključaj pojedine aplikacije</string>
   <string name="ac_privacy_mode_sum">Zatraži zaporku za onemogućavanje Gost načina</string>
   <string name="ac_privacy_mode_title">Zaporka</string>
-  <string name="ac_set_apps_title">Zaključavanje aplikacija</string>
+  <string name="ac_set_apps_title">Odaberite aplikacije za zaključavanje</string>
   <string name="accelerometer_summary_off">Promijeni orijentaciju automatski kod rotacije telefona</string>
   <string name="accelerometer_summary_on">Promijeni orijentaciju automatski kod rotacije telefona</string>
   <string name="accelerometer_title">Automatski zakreni zaslon</string>
   <string name="access_control_app_entry_multiple">Otvori %s</string>
   <string name="access_control_app_entry_single">Otvori aplikaciju</string>
-  <string name="access_control_need_password">"%s je zaštićen 
+  <string name="access_control_need_password">"%s je zaključan 
    "</string>
   <string name="access_control_need_to_unlock">Potrbna je zaporka</string>
   <string name="access_control_no_back_footer">Dodirni [ikonu] za izlaz</string>
@@ -1175,11 +1175,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="floating_window_switch_label">Prikaži skočne prozore </string>
   <string name="floating_window_switch_label_disable">Sakrij skočne prozore</string>
   <string name="fluency_mode">Optimiziranje performansi sustava</string>
-  <string name="fluency_mode_confirm_title">Ponovno pokrenuti?</string>
-  <string name="fluency_mode_confirm_will_fluency_mode_text">Potrebno je ponvono pokretanje uređaja za primjenu ovih postavki.</string>
-  <string name="fluency_mode_confirm_will_normal_mode_text">Uključivanje animacije i korištenje dodatne memorije može uzrokovati sporije performanse na nekim uređajima.</string>
-  <string name="fluency_mode_enabled_name">Optimiziranje performansi sustava</string>
-  <string name="fluency_mode_summary">Isključite animacije sustava i smanjite potrošnju memorije</string>
+  <string name="fluency_mode_confirm_and_reboot">Ponovno pokreni</string>
   <string name="font_size_huge">Ogroman</string>
   <string name="font_size_large">Velik</string>
   <string name="font_size_medium">Srednji</string>
@@ -1943,7 +1939,8 @@ i pokrenite ga."</string>
   <string name="passwordIncorrect">Zaporka koju ste unijeli nije točna</string>
   <string name="password_guard">Zaporka</string>
   <string name="percentage">%d%%</string>
-  <string name="permission_detail_info">Dopuštenja</string>
+  <string name="performance_category">Performanse</string>
+  <string name="permission_detail_info">Detalji</string>
   <string name="permission_detail_info_summary">%1$d sigurnost | %2$d privatnost | %3$d ostalo</string>
   <string name="permission_manage">Upravitelj dopuštenja</string>
   <string name="permission_manage_summary">Pitaj za dopuštenje prije nego se dopusti aplikacijama čitanje vaših kontakata, prikaz vaše povijesti poziva, promjeni postavki sustava, ili pristupu kameri i ostalim resursima uređaja</string>
@@ -2060,12 +2057,12 @@ i pokrenite ga."</string>
   <string name="priority_storage_settings_summary">Ako nije umetnuta SD kartica, vaši podaci će biti spremljeni na unutarnju pohranu vašeg uređaja automatski</string>
   <string name="priority_storage_summary">Odaberite gdje će se spremati vaši podaci</string>
   <string name="priority_storage_title">Postavke pohrane</string>
-  <string name="privacy_mode_dialog_message">Pozivi, bilješke, slike, poruke, i postavke pokretača će biti sakrivene od korisnika</string>
+  <string name="privacy_mode_dialog_message">Sakrij dolazne pozive i poruke, bilješke, fotografije i postavke Pokretača</string>
   <string name="privacy_mode_dialog_title">Gost način rada</string>
   <string name="privacy_mode_enable_sum">Sakrij poruke, bilješke, slike i dolazne pozive od korisnika</string>
   <string name="privacy_mode_enable_title">Gost način rada</string>
-  <string name="privacy_mode_summary">Korisnički podaci će biti skriveni od korisnika</string>
-  <string name="privacy_mode_title">Dopuštenja</string>
+  <string name="privacy_mode_summary">Zaključaj pojedine aplikacije ili sakrij osobne informacije</string>
+  <string name="privacy_mode_title">Postavke privatnosti</string>
   <string name="privacy_protect_title">Zaštita privatnosti</string>
   <string name="privacy_relative">Privatnost</string>
   <string name="privacy_settings">Stvori Sig. kopiju &amp; poništi</string>
@@ -2376,7 +2373,6 @@ Da biste upotrebljavali prikvačivanje zaslona:
   <string name="search_date_time">datum vrijeme</string>
   <string name="search_description">"Postavke pretraživanja"</string>
   <string name="search_display">zaslon</string>
-  <string name="search_fluency_mode">optimiziranje performansi sustava</string>
   <string name="search_font">font</string>
   <string name="search_handy_mode">uprav. jednom rukom</string>
   <string name="search_gps">gps</string>
