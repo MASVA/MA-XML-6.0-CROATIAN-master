@@ -400,6 +400,7 @@ Razlog: \"%s\""</string>
   <string name="group_rename_dialog_title">"Preimenuj grupu"</string>
   <string name="group_rename_fail_toast">Preimenovanje grupe nije uspjelo</string>
   <string name="group_rename_success_toast">Grupa je preimenovana</string>
+  <string name="group_sms_error_message">Pogreška Grupne SMS: ne više od %s</string>
   <string name="group_sms_progress_msg">Grupiranje…</string>
   <string name="groupsLabel">"Grupe"</string>
   <string name="groups_list_empty">Nema grupa</string>

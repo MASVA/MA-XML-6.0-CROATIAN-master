@@ -638,6 +638,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="category_work">Posao</string>
   <string name="cdma_security_settings_summary">Postavi Moju lokaciju, otključavanje zaslona, zaključavanje pohranjivanja vjerodajnica</string>
   <string name="cell_broadcast_settings">Hitna emitiranja</string>
+  <string name="cell_broadcast_settings_summary">Odaberite vrstu hitnih emitiranja za prikaz</string>
   <string name="cellular_data_summary">Dopusti mobilni prijenos podataka</string>
   <string name="cellular_data_title">Mobilni podaci</string>
   <string name="change_password">Promijeni zaporku</string>

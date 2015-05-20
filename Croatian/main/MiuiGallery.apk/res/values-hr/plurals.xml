@@ -1,6 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="confirm_delete_has_cloud_image">
+	<plurals name="confirm_delete_album">
+        <item quantity="other">Izbrisati albume %1$s (%2$s ukupno)?</item>
+        <item quantity="one">Izbrisati %1$s album (%2$s ukupno)?</item>
+    </plurals>
+	<plurals name="confirm_delete_has_cloud_image">
        <item quantity="other">"Izbrisati fotografije (%s) u Mi Cloudu ?"</item>
         <item quantity="one">"Izbrisati fotografiju (%s) u Mi Cloudu ?"</item>
     </plurals>
@@ -21,8 +25,12 @@
         <item quantity="one">"Izbrisati fotografiju (%s) u Mi Cloudu?"</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video">
-       <item quantity="other">"Izbrisati videozapise (%s) na ovom uređaju i u Mi Cloudu?"</item>
+        <item quantity="other">"Izbrisati videozapise (%s) na ovom uređaju i u Mi Cloudu?"</item>
         <item quantity="one">"Izbrisati videozapis (%s) na ovom uređaju i u Mi Cloudu?"</item>
+    </plurals>
+	 <plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">"Izbrisati videozapise %1$d iz %2$d albuma"</item>
+        <item quantity="one">"Izbrisati %1$d videozapis iz %2$d albuma"</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">"Odabrano: %1$d"</item>

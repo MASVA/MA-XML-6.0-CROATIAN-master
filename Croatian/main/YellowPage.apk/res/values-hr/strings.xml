@@ -99,6 +99,8 @@
   <string name="express_contact_phone">Unesite ​​broj telefona</string>
   <string name="express_contact_phone_finding">Dobivanje broja telefona…</string>
   <string name="express_contact_prefix">"Kontakt "</string>
+  <string name="express_copied">Broj za praćenje je kopiran</string>
+  <string name="express_copy_number">Kopiraj</string>
   <string name="express_delete_order">Izbriši</string>
   <string name="express_dest_city_label">Odredište</string>
   <string name="express_detailed_address">Adresa</string>
@@ -167,6 +169,8 @@ Provjerite broj za praćenje."</string>
   <string name="express_select_city">Odaberite grad</string>
   <string name="express_select_sender">Šalje</string>
   <string name="express_send">Pošalji</string>
+  <string name="express_send_mms">Pošalji</string>
+  <string name="express_send_mms_format">Paket vam je dostavio %1$s, broj za praćenje je %2$s.</string>
   <string name="express_send_notice">Zabranjeni predmeti</string>
   <string name="express_sender_info">Podaci o pošiljatelju</string>
   <string name="express_sender_name">Ime pošiljatelja</string>
@@ -211,8 +215,16 @@ Provjerite broj za praćenje."</string>
   <string name="locating_fail">"Ne mogu pronaći vašu lokaciju"</string>
   <string name="login_before_use">Morate se prvo prijaviti</string>
   <string name="login_ok">Prijava</string>
-  <string name="mark_number_custom_dialog_maintitle">Potvrdi ili ispravi oznaku</string>
-  <string name="mark_number_dialog_maintitle">Oznaći broj i učitaj</string>
+  <string name="mark_number_custom_mark_deleted">Oznaka je uklonjena</string>
+  <string name="mark_number_dialog_maintitle">Označi broj i učitaj</string>
+  <string name="mark_number_dialog_subtitle">Označeno kao %2$d od %1$s osoba.</string>
+  <string name="mark_number_feedback">Prijavi</string>
+  <string name="mark_number_feedback_hint">Vaša pov. informacija</string>
+  <string name="mark_number_feedback_invalid_hint">Unesite valjanu pov. informaciju</string>
+  <string name="mark_number_feedback_success">Pov. informacija poslana, broj će se potvrditi.</string>
+  <string name="mark_number_marked_maintitle">Izmjeni</string>
+  <string name="mark_number_marked_subtitle">Označio sam kao %s</string>
+  <string name="mark_number_remove">Ukloni oznaku</string>
   <string name="mark_title_null_hint">Unos ne može biti prazan</string>
   <string name="menu_about_yellow_page">O ovoj stranici</string>
   <string name="menu_add_black_list">Dodaj na listu zabranjenih</string>

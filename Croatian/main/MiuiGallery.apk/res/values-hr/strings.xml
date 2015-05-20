@@ -96,7 +96,7 @@
   <string name="cannot_remove_creator">"Ne mogu ukloniti autora"</string>
   <string name="cannot_send_message">"Ne mogu poslati poruku"</string>
   <string name="cannot_send_message_reason">Poruka nema valjanog primatelja.</string>
-  <string name="cant_delete_cloud_album">Ne mogu izbrisati %s jer je to album sustava."</string>
+  <string name="cant_delete_system_album">Ne mogu izbrisati %s jer je to album sustava."</string>
   <string name="choose_cloud_album">Odaberi album</string>
   <string name="cleaning_cache">Čišćenje memorije…</string>
   <string name="clear_thumbnail_cache">Očisti memoriju minijatura</string>
@@ -135,13 +135,11 @@
   <string name="confirm">U redu</string>
   <string name="confirm_all_photo_not_this_people_face">Nema podudaranja?</string>
   <string name="confirm_delete">Izbrisati fotografije (%s)?</string>
-  <string name="confirm_delete_album" formatted="false">Izbrisati albume %s (ukupno %s)?</string>
   <string name="confirm_delete_has_cloud_image_video">"Izbrisati fotografije (%s) na ovom uređaju i u Mi Cloudu?"</string>
   <string name="confirm_delete_has_cloud_local_image_video">"Izbrisati fotografije (%s) na ovom uređaju i u Mi Cloudu?"</string>
   <string name="confirm_delete_has_local_image_video">Izbrisati stavku %s?</string>
   <string name="confirm_delete_init_message">Fotografije će biti izbrisane s ovog uređaja i s MiClouda. Ako ih želite izbrisati samo s uređaja, prijeđite na karticu \"Izvanmrežno\".</string>
   <string name="confirm_delete_init_title">Izbriši fotografiju</string>
-  <string name="confirm_delete_system_album">%s je album sustava</string>
   <string name="confirm_download">Morate preuzeti %s.</string>
   <string name="confirm_download_video_message">Morate završiti s preuzimanjem ovog videozapisa prije nego što ga možete pogledati. Preuzimanje će se nastaviti kada je WLAN dostupan.</string>
   <string name="confirm_download_video_title">Preuzmi videozapis</string>
@@ -435,6 +433,8 @@ uređaja"</string>
   <string name="paint_crop_cancel_title">Odbaciti promjene</string>
   <string name="paint_crop_tips">Da dobijete bolju sliku, pokušajte staviti njegove interesne dijelove na mrežne točke promjenom veličine i pomicanjem.</string>
   <string name="paint_highlight">Istaknuto</string>
+  <string name="paint_highlight_cancel_context">Spremiti istaknutu sliku?</string>
+  <string name="paint_highlight_cancel_title">Odbaci promjene</string>
   <string name="path">Putanja</string>
   <string name="people">Osobe</string>
   <string name="photo_page_always_rotate">Automatsko zakretanje slika</string>
@@ -565,7 +565,7 @@ uređaja"</string>
   <string name="size_above">%1$s ili više</string>
   <string name="size_below">%1$s ili manje</string>
   <string name="size_between">%1$s do %2$s</string>
-  <string name="skip_hide_special_album">"Ne mogu sakriti albume sustava (npr. Kamera, Snimke zaslona)"</string>
+  <string name="skip_hide_special_album">"Ne mogu sakriti albume sustava (npr. Kamera, Snimke zaslona, Sve videozapise)"</string>
   <string name="slideshow">Dijaprojekcija</string>
   <string name="slideshow_category">Dijaprojekcija</string>
   <string name="slideshow_dream_name">Dijaprojekcija</string>
