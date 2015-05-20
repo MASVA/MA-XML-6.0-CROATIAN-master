@@ -761,4 +761,8 @@
         <item>Ponovno pokrenuti uređaj za primjenu ove postavke?</item>
         <item>Ponovno pokrenuti uređaj za primjenu ove postavke?</item>
     </string-array>
+	<string-array name="install_non_market_app_contents">
+        <item>Traži dopuštenje</item>
+        <item>Dopusti</item>
+    </string-array>
 </resources>
