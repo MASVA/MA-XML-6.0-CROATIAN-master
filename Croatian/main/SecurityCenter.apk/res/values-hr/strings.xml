@@ -143,10 +143,10 @@
   <string name="empty_title_virus_list">Nema virusa</string>
   <string name="every_day">Svaki dan</string>
   <string name="examination_score_100">Sve izgleda uredno!</string>
-  <string name="examination_score_100_with_recommend">Stavki može biti optimizirano: %d</string>
+  <string name="examination_score_100_with_recommend">Stavaka (%d) može biti optimizirano</string>
   <string name="examination_score_60_0">Skeniraj sada</string>
   <string name="examination_score_80_100">Nekoliko stavaka može biti optimizirano</string>
-  <string name="examination_score_80_100_with_recommend">Stavki može biti optimizirano: %d</string>
+  <string name="examination_score_80_100_with_recommend">Stavaka (%d) može biti optimizirano</string>
   <string name="examination_score_80_60">Neke stavke mogu biti optimizirane</string>
   <string name="examination_score_has_virus">Otkrivene su sumnjive aplikacije.</string>
   <string name="handle_text_cache">Predmemorija</string>
@@ -498,7 +498,7 @@
   <string name="summary_virus">Otkriveno virusa (%2$d)</string>
   <string name="summary_virus_cloudscan">Pošaljite i skenirajte nazive i detalje aplikacija koristeći online definicije virusa</string>
   <string name="summary_virus_update">Automatsko ažuriranje definicija virusa kada je povezano na WLAN</string>
-  <string name="system_check_content">sumnjivih stavki %1$d</string>
+  <string name="system_check_content">Sumnjivih stavki %1$d</string>
   <string name="system_header_title">Čišćenjem %1$d procesa oslobođeno %2$s memorije</string>
   <string name="text_antivirus">Učitaj nazive aplikacija i detalje</string>
   <string name="text_antivirus_oversea">Ažuriraj definicije virusa</string>
@@ -527,7 +527,7 @@
   <string name="title_permission_yes">Upravitelj dopuštenja uključen</string>
   <string name="title_power_optimizer">Štednja baterije</string>
   <string name="title_saving_switch">Ušteda podataka</string>
-  <string name="title_show_notification_no">Sakrij u panelu obavijesti</string>
+  <string name="title_show_notification">Kontrole panela obavijesti</string>
   <string name="title_telecom_operator">"Koristi izračun davatelja usluga"</string>
   <string name="title_usb_no">USB ukl. pogr. uključeno</string>
   <string name="title_usb_yes">USB ukl. pogr. isključeno</string>
