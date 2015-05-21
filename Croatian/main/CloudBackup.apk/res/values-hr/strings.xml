@@ -57,7 +57,7 @@
   <string name="process_whole_recovery">Vraćanje \"%s\"</string>
   <string name="recover_from_micloud">Vrati Sig. kopiju iz Mi Clouda</string>
   <string name="recover_home_settings">Vrati postavke Poč. zaslona</string>
-  <string name="recover_miui_settings">Restore postavke MIUI sustava</string>
+  <string name="recover_miui_settings">Vrati postavke MIUI sustava</string>
   <string name="recover_settings_description">Držite vaš uređaj uključenim</string>
   <string name="recovering">Vraćanje %s</string>
   <string name="remove_task_in_process">Uklanjanje</string>
