@@ -343,7 +343,7 @@
   <string name="eventTypeCustom">Prilagođeno</string>
   <string name="event_edit_field_hint_text">Datum</string>
   <string name="export_sim_contact_finish">Izvoz je završen</string>
-  <string name="export_sim_contact_finish_failure">Premješteno: %1$d Preostalo: %2$d</string>
+  <string name="export_sim_contact_finish_msg">Premješteno: %1$d| Preskočeno: %2$d |Preostalo: %2$d</string>
   <string name="export_to_sdcard">"Izvoz u pohranu"</string>
   <string name="export_to_sim">Izvoz na SIM karticu</string>
   <string name="export_to_sim1">Izvoz na SIM karticu 1</string>
@@ -388,7 +388,7 @@ Razlog: \"%s\""</string>
   <string name="ghostData_title">"Naslov"</string>
   <string name="groupSavedErrorToast">Promjene grupe nije moguće spremiti.</string>
   <string name="groupSavedToast">Skupina spremljena.</string>
-  <string name="group_add_fail_toast">Dodavanje kontakata nije uspjelo</string>
+  <string name="group_add_fail_toast">"Ne mogu dodati primatelje"</string>
   <string name="group_create_fail_toast">Kreiranje grupe nije uspjelo</string>
   <string name="group_create_success_toast">Grupa je kreirana</string>
   <string name="group_delete_success_toast">Grupa je izbrisana</string>
@@ -400,7 +400,7 @@ Razlog: \"%s\""</string>
   <string name="group_rename_dialog_title">"Preimenuj grupu"</string>
   <string name="group_rename_fail_toast">Preimenovanje grupe nije uspjelo</string>
   <string name="group_rename_success_toast">Grupa je preimenovana</string>
-  <string name="group_sms_error_message">Pogreška Grupne SMS: ne više od %s</string>
+  <string name="group_sms_error_message">"SMS ne može imati više od %s primatelja."</string>
   <string name="group_sms_progress_msg">Grupiranje…</string>
   <string name="groupsLabel">"Grupe"</string>
   <string name="groups_list_empty">Nema grupa</string>

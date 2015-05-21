@@ -48,7 +48,7 @@
   <string name="birthday_metric"/>
   <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_three_days_later">Za 3 dana ima %3$s (%4$s)!</string>
-  <string name="birthday_notification_text_three_days_later_with_activity">现在可为TA预定蛋糕、鲜花</string>
+  <string name="birthday_notification_text_three_days_later_with_activity">Kupite cvijeće ili tortu za TA</string>
   <string name="birthday_notification_text_today">Ne zaboravite čestitati!</string>
   <string name="birthday_notification_title_three_days_later">"Približava se %2$s od %1$s."</string>
   <string name="birthday_notification_title_today">"%1$s ima %3$s"</string>

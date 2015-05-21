@@ -47,6 +47,7 @@
   <string name="download_diff">Preuzimanje razlike</string>
   <string name="download_error">Nešto nije u redu. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="download_full">Preuzimanje završeno</string>
+  <string name="download_success_reboot_immediately">Ponovno pokreni za primjenu ažuriranja</string>
   <string name="download_title">Preuzimanje (%s)</string>
   <string name="download_title_first">Dobivanje informacija…</string>
   <string name="download_title_full_download">Dobivanje informacija…</string>
@@ -96,6 +97,7 @@
   Ako premašite svoje ograničenje podataka, vaš operater vam može naplatiti dodatne troškove."</string>
   <string name="no_wifi_title">Upozorenje uporabe podataka</string>
   <string name="not_open">Ne sada</string>
+  <string name="notification_auto_reboot_seccess_title">Uređaj je automatski ažuriran</string>
   <string name="notification_downloading">Preuzimanje ažuriranja…</string>
   <string name="notification_load_body_alpha">Nabavite najnovija ažuriranja za vaš uređaj.</string>
   <string name="notification_load_body_dev">Nabavite najnovija ažuriranja za vaš uređaj</string>
@@ -179,11 +181,13 @@ Ali možete sudjelovati sljedeći utorak."</string>
   <string name="update_sad">Hmm (nije dobro)</string>
   <string name="update_success">Uređaj je ažuriran</string>
   <string name="update_success_body">Verzija: %s</string>
+  <string name="update_success_reboot_immediately">Uređaj je ažuriran</string>
   <string name="update_success_title">Uređaj je ažuriran</string>
   <string name="updater_nolog">Nema sažetka ažuriranja</string>
   <string name="updater_nonetwork">"Ne mogu se povezati na mrežu"</string>
   <string name="updater_nonetwork_clause">"Ne mogu se povezati na mrežu"</string>
   <string name="upgrade_close">Zatvori</string>
+  <string name="updater_wait_for_unzip">Raspakiravanje ažuriranja…</string>
   <string name="upgrade_kernel">Kernel sustava zahtjeva ažuriranje</string>
   <string name="upgrade_kernel_msg">"Verzija kernela koju koristite ne odgovara MIUI ROM-u. Morate nadograditi kernel ručno. Pogledajte Xiaomi postupak nadogradnje: 
 "</string>

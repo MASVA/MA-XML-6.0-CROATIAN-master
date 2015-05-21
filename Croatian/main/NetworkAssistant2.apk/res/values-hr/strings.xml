@@ -203,28 +203,40 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="network_mobile_exception_detail">"Vaš uređaj se ne može povezati s internetom:
 
  1. Uvjerite se da niste premašili svoe mjesečno ograničenje uporabe podataka.
+ 
  2. Ako samo upravo obnovili svoj bon, ponovno pokrenite svoj uređaj i pokušajte ponovno.
+
  3. Signal mreže operatera može biti slab na vašoj trenutnoj lokaciji."</string>
   <string name="network_operator_exception_summary">"Ne mogu aktivirati SIM karticu. Provjerite je li SIM kartica ispravno umetnuta i da je vaša tarifa aktivirana."</string>
   <string name="network_permission_exception_tips">"Ne mogu koristiti mobilne podatke za povezivanje na mrežu"</string>
   <string name="network_roaming_exception_tips">"Ne mogu koristiti mobilne podatke u roamingu za povezivanje na mrežuk."</string>
   <string name="network_route_exception_detail">"Možda postoji problem s routerom na koji ste povezani:
 
-
 "&lt;b&gt;"1. Problemi javne WLAN mreže
+
 "&lt;/b&gt;"Ako ste povezani s javnom WLAN mrežom, broj korisnika povezanih s tom mrežom možda usporava ili stvara probleme s povezivanjem. Prebacite se na drugu mrežu i pokušajte ponovno.
+
  2."&lt;b&gt;" Problemi davatelja internetskih usluga
+ 
 "&lt;/b&gt;"Uvjerite se da vaš račun nema problema s vašim davateljem internetskih usluga.
+
  3."&lt;b&gt;"  Hardware problem routera
+ 
 "&lt;/b&gt;"Pokušajte ponovno pokrenuti vaš router ili provjerite admin postavke vašeg routera.
+
  4."&lt;b&gt;" Drugi problemi routera
+ 
 "&lt;/b&gt;"Pročitajte upute koje ste dobili s routerom i vratite router na tvorničke postavke.
+
  5."&lt;b&gt;" Provjerite je li router ispravno spojen
+ 
 "&lt;/b&gt;"Pokušajte povezati router s drugim Ethernet kabelom. Ako sumnjate da postoji problem s priključkom u vašem domu, obratite se davatelju internetskih usluga."</string>
   <string name="network_sim_exception_detail">"Možda postoji problem s vašom SIM karticom:
 
  1. Provjerite da vaš vaš račun nema zaostalih troškova prema vašem operateru. Pokušajte koristiti SIM karticu od prijatelja i provjerite mogućnosti povezivanja njegovom SIM karticom.
+ 
  2. Ako koristite dvije SIM kartice, pokušajte se prebaciti na drugu karticu i provjerite ako ste u mogućnosti povezati se normalno.
+ 
  3. Provjerite da SIM kartica i utor SIM kartice nisu oštećeni. Potvrdite da je SIM kartica koju koristite ispravno umetnuta u SIM utor vašeg uređaja."</string>
   <string name="none_mi_service_app_detail">Prazno</string>
   <string name="notify_daily_data_usage_body">Iskorišteno %s danas. Dodirnite da post. ogranič.</string>

@@ -34,7 +34,7 @@ Da dobijete više prostora za pohranu, posjetite mi.com/micloud."</string>
   <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
   <string name="cloud_back_up_dialog_content">"Zaustaviti izradu Sig. kopije u tijeku? Ako zaustavite sada, nećete biti u mogućnosti koristiti ovu Sig. kopiju za vraćanje aplikacija."</string>
   <string name="cloud_back_up_interval_long">7 dana</string>
-  <string name="cloud_back_up_interval_short">1 sat</string>
+  <string name="cloud_back_up_interval_short">1 dan</string>
   <string name="cloud_back_up_network_unavailable">"Ne mogu ukloniti. Povežite se na WLAN i pokušajte ponovno."</string>
   <string name="cloud_back_up_open_info">"Napravi Sig. kopiju rasporeda aplikacija Početnog zaslona kada je povezano na WLAN svakih %1$s 
 Zadnja Sig. kopija: %2$s"</string>
@@ -110,7 +110,8 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="loading_hint">Učitavanje</string>
   <string name="master_alert_notif_dspt_add">Za sinkr.: %s</string>
   <string name="master_alert_notif_dspt_no">Sinkronizirano</string>
-  <string name="master_alert_notif_title">Zadnja sinkr. prije dana %s</string>
+  <string name="master_alert_notif_title">Zadnja sinkr. prije %s dana</string>
+  <string name="micloud_buy_member">Nadogradnja članstva</string>
   <string name="micloud_check_sim_notify_text">"Izgleda da ste promijenili SIM kartice. Prijavite se
 na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_check_sim_notify_title">Ponovno aktiviraj Mi Cloud</string>
@@ -170,8 +171,21 @@ Dodirnite tipku Postavke za prikaz više opcija"</string>
   <string name="micloud_main_title_sync_on_wifi">Koristi WLAN</string>
   <string name="micloud_main_update_space">Nabavite više prostora za pohranu</string>
   <string name="micloud_main_wlan_sync_data_count">Stavaka (%d) čeka na sinkr.</string>
-  <string name="micloud_member">Premium</string>
+  <string name="micloud_member">Mi Cloud članstvo</string>
   <string name="micloud_member_advantage">Nabavite više prostora za pohranu.</string>
+  <string name="micloud_member_buy_content" formatted="false">"Valjanost %s-%s-%s
+
+%s Mi Kredita godišnje"</string>
+  <string name="micloud_member_buy_title">Potvrdite narudžbu</string>
+  <string name="micloud_member_net_error_alert_message">"Niste povezani s internetom."</string>
+  <string name="micloud_member_net_error_alert_title">"Ne mogu se povezati na mrežu"</string>
+  <string name="micloud_member_pay_fail_toast">"Nije moguće dovršiti plaćanje"</string>
+  <string name="micloud_member_pay_miid_error_toast">Pogreška računa</string>
+  <string name="micloud_member_pay_order_error_toast">Pogreška podataka</string>
+  <string name="micloud_member_refresh_button">Osvježi</string>
+  <string name="micloud_member_webload_fail_error_message">Pogreška mreže</string>
+  <string name="micloud_member_webload_fail_toast_4xx">"Ne mogu učitati stranicu"</string>
+  <string name="micloud_member_webload_fail_toast_5xx">Pogreška poslužitelja</string>
   <string name="micloud_more">Saznaj više</string>
   <string name="micloud_other_product_price">Usporedba cijena</string>
   <string name="micloud_proceed">Nastavi</string>
