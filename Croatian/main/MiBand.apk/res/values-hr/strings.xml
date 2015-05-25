@@ -32,8 +32,7 @@
   <string name="action_type_error">Vrsta pogreške</string>
   <string name="action_walk">Šetnja</string>
   <string name="add_family_member">Dodaj korisnika</string>
-  <string name="add_than_last_time">"Dodano
-za %1$s od zadnjeg vaganja"</string>
+  <string name="add_than_last_time">"Dodano  %1$s od zadnjeg vaganja"</string>
   <string name="add_weight_fail_with_value">Još uvijek trebate dobiti %1$s više težine</string>
   <string name="add_weight_succ">Težina uspješno dodana</string>
   <string name="add_weight_succ_with_value">"Težina uspješno dobivena,

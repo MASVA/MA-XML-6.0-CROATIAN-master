@@ -548,7 +548,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="maintenance_enable">Održavanje je uključeno</string>
   <string name="manageConferenceLabel">Upravljanje konferencijskim pozivom</string>
   <string name="manage_fdn_list">Popis FDN-a</string>
-  <string name="managed_roaming_dialog_cancel_button">Zrušiť</string>
+  <string name="managed_roaming_dialog_cancel_button">Odustani</string>
   <string name="managed_roaming_dialog_content">Pronađena je Mreža s ograničenom uslugom. Želite li pokrenuti pretraživanje Mreža?</string> 
   <string name="managed_roaming_dialog_ok_button">U redu</string>
   <string name="managed_roaming_title">Upravljani Roaming</string>
