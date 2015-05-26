@@ -1,8 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alwaysUsePrompt">"Zapamti ovaj izbor"</string>
+  <string name="android_ringtone_default_with_actual">Zadani zvuk zvona (%1$s)</string>
+  <string name="android_ringtone_silent">Ništa</string>
+  <string name="android_ringtone_unknown">Nepoznati zvuk zvona</string>
   <string name="anniversary_of_lifting_martial_law"/>
   <string name="anti_aggression_day"/>
+  <string name="app_no_notification">Bez obavijesti</string>
+  <string name="app_notificaiton_on_notificationBar">Panel obavijesti</string>
+  <string name="app_notificaiton_on_statusBar_and_notificationBar">Lista ili Panel obavijesti</string>
   <string name="arbor_day"/>
   <string name="armed_forces_day"/>
   <string name="auto_start_warning_allow">Dopusti</string>
