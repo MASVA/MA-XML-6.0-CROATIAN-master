@@ -39,7 +39,7 @@ Za uključivanje ove značajke, idite na Postavke &gt; Dodatne postavke &gt; Tip
   <string name="fools_day">1. travanj</string>
   <string name="force_exit_message">Uspješno zatvorena aplikacija: \"%1$s\"</string>
   <string name="force_exit_skip_message">"Ne mogu isključiti %1$s zato jer je potrebno sustavu."</string>
-  <string name="global_actions_airplane_mode">"Način rada u zrakoplovu"</string>
+  <string name="global_actions_airplane_mode">"Zrakoplovni način"</string>
   <string name="global_actions_reboot">"Ponovno pokreni"</string>
   <string name="global_actions_shutdown">"Isključi"</string>
   <string name="global_actions_silent_mode">"Bešumni način"</string>

@@ -9,7 +9,7 @@
   <string name="caller_info_name_delimiter">" ili "</string>
   <string name="copy">Kopiraj</string>
   <string name="cut">Izreži</string>
-  <string name="first_back_long_press_message">"Pritisnite &amp; držite tipku Natrag za isključivanje trenutnog procesa i njegovih pozadinskih usluga. 
+  <string name="first_back_long_press_message">"Dugi pritisak na tipku "Natrag" će zaustaviti trenutni proces i njegove pozadinske usluge. Za omogućavanje ove funkcije, idite na Postavke &gt; Sustav &gt; Tipke</string>
   <string name="fm_record_smaple_prefix_miui">FM Snimanje</string>
   <string name="force_exit_message">Uspješno zatvorena aplikacija: \"%1$s\"</string>
   <string name="force_exit_skip_message">"Ne mogu isključiti %1$s zato jer je potrebno sustavu."</string>
