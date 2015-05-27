@@ -223,6 +223,7 @@
   <string name="delete_unknown_contact_calllog_title">Izbrisati povijest poziva?</string>
   <string name="deleting">Brisanje…</string>
   <string name="deleting_sim_entry_miui">Brisanje kontakata sa SIM kartice…</string>
+  <string name="deleting_sim_entry_miui_prepare">Pripremi za brisanje…</string>
   <string name="description_add_contact">Dodaj kontakt</string>
   <string name="description_author">Autor</string>
   <string name="description_call">Pozovi: %1$s</string>
@@ -448,6 +449,7 @@ Razlog: \"%s\""</string>
   <string name="import_weibo_progress_name">Usklađivanje \"%1$s\"…</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_sim_contacts_miui">"Uvoz kontakata sa SIM kartice…"</string>
+  <string name="importing_sim_contacts_miui_prepare">Pripremi za uvoz…</string>
   <string name="importing_vcard_canceled_title">"Uvoz datoteke %s je otkazan"</string>
   <string name="importing_vcard_description">Uvoz %s</string>
   <string name="importing_vcard_finished_title">"Završetak uvoza datoteke %s kartice vCard"</string>
@@ -477,6 +479,7 @@ Razlog: \"%s\""</string>
   <string name="list_filter_phones">"Svi kontakti s telefonskim brojevima"</string>
   <string name="list_filter_single">"Kontakt"</string>
   <string name="loading">Učitavanje…</string>
+  <string name="loading_accounts">Učitavanje detalja SIM-a…</string>
   <string name="loading_group_members">Učitavanje članova grupe…</string>
   <string name="loading_groups">Učitavanje grupa…</string>
   <string name="loading_recent">Učitavanje nedavnih kontakata…</string>

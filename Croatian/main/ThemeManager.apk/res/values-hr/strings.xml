@@ -99,7 +99,7 @@
   <string name="resource_apply">Primjeni</string>
   <string name="resource_apply_trial">Pokušaj sad</string>
   <string name="resource_buy">Kupi</string>
-  <string name="resource_can_not_selected">"%1$s ne može biti odabrano!"</string>
+  <string name="resource_can_not_selected">"%1$s ne može biti odabran!"</string>
   <string name="resource_category">Kategorija</string>
   <string name="resource_clear_search_history">Izbriši povijest pretraživanja</string>
   <string name="resource_clear_search_history_dialog">Izbrisati svu povijest pretraživanja?</string>

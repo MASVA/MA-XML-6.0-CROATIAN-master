@@ -3,10 +3,12 @@
   <string name="access_history">Povijest</string>
   <string name="action_item_delete">Izbriši</string>
   <string name="add_favorite">Istaknuto</string>
+  <string name="all">Sve</string>
   <string name="app_name">Radio</string>
   <string name="app_to_share">Odaberi aplikaciju za podijeliti</string>
   <string name="avoid_to_use_traffic_summary">Izbjegavaj visoke naknade</string>
   <string name="avoid_to_use_traffic_title">Skočnim prozorom podsjeti korisnika prilikom korištenja mobilne mreže</string>
+  <string name="batch_download">Skupno Preuzimanje</string>
   <string name="batch_download_start_toast">Preuzimanje…</string>
   <string name="bluetooth_device">Bluetooth uređaj</string>
   <string name="broadcasting">"Emitiranje: "</string>
@@ -19,6 +21,7 @@
   <string name="category_tone_quality">KVALITETA RADIJA</string>
   <string name="click_to_play">Nema dostupnog programa</string>
   <string name="confirm_delete_history_text">Izbrisati odabrane stavke?</string>
+  <string name="continue_play">Reproduciraj</string>
   <string name="device_connected">Povezano</string>
   <string name="device_not_connected">Nije povezano</string>
   <string name="dialog_title_download_quality">Kvaliteta preuzimanja Radija</string>
@@ -36,6 +39,7 @@
   <string name="favorite">Favoriti</string>
   <string name="find_program">Online</string>
   <string name="first_program">Prvi program</string>
+  <string name="get_channel_failed">Dobivanje detalja kanala nije uspjelo</string>
   <string name="has_no_program_now">"Ovaj kanal ne emitira sadržaj"</string>
   <string name="high_quality">Više (48 bps)</string>
   <string name="hotlist_name">Xiaomi popularna lista</string>
@@ -81,11 +85,13 @@
   <string name="qingting_logo"> | Qingting FM</string>
   <string name="remaining_time">"Preostalo vrijeme: "</string>
   <string name="search_hint">Traži</string>
+  <string name="section">Odabir</string>
   <string name="select_device">Odaberi uređaj</string>
   <string name="share">Podijeli</string>
   <string name="share_button">Podijeli</string>
   <string name="share_text">iz MiuiRadio[Qingting FM]</string>
   <string name="share_text_other">%1$s, podijeli program.%2$s.</string>
+  <string name="similar_programs">Slični programi</string>
   <string name="sleep_mode_canceled">Sleep mode isključen</string>
   <string name="still_in_dev">U razvoju</string>
   <string name="summary_download">Automatski preuzmi zvuk samo na WLAN-u, povoljno uživajte izvanmrežno</string>
@@ -104,5 +110,5 @@
   <string name="ultra_high_quality">Dobra (64 bps)</string>
   <string name="unfavorite">Neomiljeni</string>
   <string name="updated">" ažurirano"</string>
-  <string name="use_fm_radio_failed">"Ovaj uređaji ne može koristiti FM radio"</string>
+  <string name="use_fm_radio_failed">"Ovaj uređaj ne može koristiti FM radio"</string>
 </resources>
