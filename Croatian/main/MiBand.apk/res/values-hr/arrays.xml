@@ -83,8 +83,8 @@
     </string-array>
     <string-array name="weight_body_figures">
         <item>Pothranjeno</item>
-        <item>Normalna težina</item>
-        <item>Prekomjerna težina</item>
+        <item>Normalna</item>
+        <item>Prekomjerna</item>
         <item>Pretilo</item>
         <item>Pretilo</item>
     </string-array>

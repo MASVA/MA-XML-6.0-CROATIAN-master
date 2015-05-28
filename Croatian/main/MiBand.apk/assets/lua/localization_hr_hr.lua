@@ -246,7 +246,7 @@ localization_hr_rHR_table = {
     cannot_find_bracelet="Ne možete pronaći svoj Mi Band?",
     cannot_find_bracelet_info="Uvjerite se da je baterija vašeg Mi Banda napunjena.",
 
-    bracelet_disconnect = "Ne mogžete se povezati? Kliknite za pomoć.",
+    bracelet_disconnect = "Ne možete se povezati? Kliknite za pomoć.",
 
     challenge_to_get="%s dana od postizanja novog rekorda!",
     record_reach_max="Izjednačili ste svoj postojeći rekord!",

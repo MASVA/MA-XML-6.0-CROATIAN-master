@@ -86,9 +86,9 @@ Uvjeti pružanja usluge: %2$s"</string>
   <string name="bind_bracelet_ok">Uspješno upareno</string>
   <string name="bind_devices">Upari uređaje</string>
   <string name="bind_mi_band">Upari Mi Band</string>
-  <string name="bind_mi_band_about">&lt;Data&gt;&amp;lt;a href=http://www.mi.com&amp;gt;Mi Band Website&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>  
+  <string name="bind_mi_band_about">&lt;Data&gt;&amp;lt;a href=http://www.mi.com&amp;gt;Mi Band Website&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
   <string name="bind_mi_weight">Upari Mi Vagu</string>
-  <string name="bind_mi_weight_about">&lt;Data&gt;&amp;lt;a href=http://www.mi.com&amp;gt;Mi vaga Website&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>  
+  <string name="bind_mi_weight_about">&lt;Data&gt;&amp;lt;a href=http://www.mi.com&amp;gt;Mi Scale Website&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
   <string name="bind_mi_weight_howto">Saznajte više</string>
   <string name="bind_mi_weight_howto_tips">Kako koristiti Mi Vagu</string>
   <string name="bind_new_mili">Dodaj novi Mi Band</string>
@@ -140,7 +140,7 @@ Adresa: %2$s"</string>
   <string name="bracelet_login_title">"Počnimo!"</string>
   <string name="bracelet_not_connected_bat_unknown">Mi Band nije uparen</string>
   <string name="bracelet_not_found_info">"Provjerite je li baterija vašeg Mi Banda napunjena, i ostala zatvorena."</string>
-  <string name="bracelet_not_found_title">Mi band nije pronađen</string>
+  <string name="bracelet_not_found_title">Mi Band nije pronađen</string>
   <string name="bracelet_notify_text">"Ne zaboravite nositi vaš Mi Band"</string>
   <string name="bracelet_notify_title">Baterija Mi Banda je napunjena</string>
   <string name="bracelet_store_desc">Mi Trgovina</string>
@@ -382,9 +382,9 @@ a ažuriranje će se automatski pokrenuti nakon punjenja MiBanda"</string>
   <string name="hello_world">Pozdrav svijete!</string>
   <string name="help">Pomoć</string>
   <string name="help_info_0">Pobrinite se da je Mi Band nalazi u blizini vašeg uređaja tijekom cijelog procesa uparivanja.</string>
-  <string name="help_info_1">"Pobrinite se da je Mi Band napunjen i nije odtao bez energije."</string>
-  <string name="help_info_2">Ponovno pokrenite Bluetooth tako da ga isključite i zatim ponovno uključite u Postavkama.</string>
-  <string name="help_info_3">Pobrinite se da je vaš Mi Band već uparen s drugim uređajem u blizini.</string>
+  <string name="help_info_1">"Pobrinite se da je Mi Band napunjen i nije ostao bez energije."</string>
+  <string name="help_info_2">Ponovno pokrenite Bluetooth tako da ga isključite/uključite u Postavkama.</string>
+  <string name="help_info_3">Pobrinite se da vaš Mi Band nije već uparen s drugim uređajem u blizini.</string>
   <string name="help_info_4">Pokušajte ponovno pokrenuti telefon i ponovno pokrenite Mi Band aplikaciju.</string>
   <string name="help_title_0">Je li vaš Mi Band predaleko?</string>
   <string name="help_title_1">"Provjerite bateriju Mi Banda"</string>
