@@ -13,10 +13,12 @@
   <string name="fm_record_smaple_prefix_miui">FM Snimanje</string>
   <string name="force_exit_message">Uspješno zatvorena aplikacija: \"%1$s\"</string>
   <string name="force_exit_skip_message">"Ne mogu isključiti %1$s zato jer je potrebno sustavu."</string>
-  <string name="global_actions_airplane_mode">"Način rada u zrakoplovu"</string>
+  <string name="global_actions_airplane_mode">"Zrakoplovni način"</string>
   <string name="global_actions_reboot">"Ponovno pokreni"</string>
   <string name="global_actions_shutdown">"Isključi"</string>
   <string name="global_actions_silent_mode">"Bešumni način"</string>
+  <string name="handy_mode_summary">Da zatvorite, pritisnite prazan prostor na isklj. zaslonu</string>
+  <string name="handy_mode_title">Upravljanje jednom rukom</string>
   <string name="key_btn_ok">U redu</string>
   <string name="key_btn_space">Razmak</string>
   <string name="lockscreen_access_pattern_cell_added">Dodan je mobitel</string>

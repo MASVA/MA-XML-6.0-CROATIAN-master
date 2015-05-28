@@ -9,6 +9,7 @@
   <string name="auth_notif_ticker">Zahtjev za provjeru autentičnosti Obex protokola</string>
   <string name="auth_notif_title">Šifra sesije</string>
   <string name="ble_device_address">Bluetooth Smart uređaj MAC</string>
+  <string name="ble_device_profile">Profil Bluetooth uređaja</string>
   <string name="ble_device_profile_header_title">Postavke</string>
   <string name="ble_device_profile_title">Upareni Bluetooth Smart uređaj</string>
   <string name="ble_device_rename">Preimenuj</string>
@@ -61,6 +62,7 @@
   <string name="empty_file_notification_sent">Bluetooth dijeljenje: Daljinski odbijena datoteku nulte duljine  %1$s</string>
   <string name="enabling_progress_content">Uključivanje Bluetootha…</string>
   <string name="enabling_progress_title">Pričekajte…</string>
+  <string name="goto_package">Otvori %1$s</string>
   <string name="hello">Zdravo svijete, testna aktivnost</string>
   <string name="inbound_history_title">Dolazni prijenosi</string>
   <string name="inbound_noti_title">Dijeljenje Bluetoothom: Primljene datoteke</string>
@@ -76,6 +78,7 @@ Prihvaćate li datoteku?"</string>
   <string name="incoming_file_confirm_title">Prijenos datoteka</string>
   <string name="incoming_file_toast_msg">Dolazna datoteka s drugog uređaja. Potvrdite da želite primiti tu datoteku.</string>
   <string name="insert_record">Umetni zapis</string>
+  <string name="install_package">Instaliraj %1$s za više radnji</string>
   <string name="localPhoneName">Moje ime</string>
   <string name="mi_band_vibrate_alarm">Vibracija kod alarma</string>
   <string name="mi_band_vibrate_incall">Vibracija kod poziva</string>
@@ -88,6 +91,10 @@ Prihvaćate li datoteku?"</string>
   <string name="mi_key_alert_dialog_title">Mi Key Alarm</string>
   <string name="mi_key_find_mikey">Pronađi Mi Key</string>
   <string name="mi_key_find_phone">Pronađi uređaj</string>
+  <string name="mi_key_open_camera">Otvori Kameru</string>
+  <string name="mi_key_summary_find_phone">Pritisni &amp; drži Mi-Key za zvuk zvona</string>
+  <string name="mi_key_summary_open_camera">2x klik Mi-Key za pokretanje Kamere</string>
+  <string name="mi_key_summary_take_photo">1x klik Mi-Key za snimanje fotografije</string>
   <string name="mi_key_take_photo">Snimi fotografiju</string>
   <string name="miui_transfer_history_title">Bluetooth prijenosi</string>
   <string name="miui_transfer_inbound_title">Dolazno</string>
@@ -121,7 +128,9 @@ Prihvaćate li datoteku?"</string>
   <string name="permlab_handoverStatus">Primaj prijenose s Bluetooth uređaja.</string>
   <string name="process"/>
   <string name="progress_scanning">Pretraživanje…</string>
+  <string name="reset_function_msg">Ponovno otvaranje funkcije će uzrokovati nevaljanom u %1$s</string>
   <string name="sharedUserId"/>
+  <string name="some_app_taking">(%1$s već koristi tu funkciju…)</string>
   <string name="start_server">Pokreni TCP poslužitelj</string>
   <string name="status_canceled">Korisnik je otkazao prijenos.</string>
   <string name="status_connection_error">Neuspješno povezivanje.</string>
