@@ -1895,7 +1895,7 @@ i pokrenite ga."</string>
   <string name="only_when_charging">Samo kada je priključeno</string>
   <string name="onscreen_keyboard_settings_summary">Postavke zaslonske tipkovnice</string>
   <string name="open_wifi_connect_summary">"Dotaknite za upravljanje"</string>
-  <string name="open_wifi_connect_title">Poveži se na otvorenu mrežu %1$s</string>
+  <string name="open_wifi_connect_title">Poveži se na %1$s</string>
   <string name="other_advanced_settings">Dodatne postavke</string>
   <string name="other_personal_settings">Osobne postavke</string>
   <string name="other_relative">Ostalo</string>

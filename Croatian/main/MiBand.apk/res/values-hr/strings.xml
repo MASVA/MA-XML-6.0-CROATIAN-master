@@ -18,8 +18,8 @@
   <string name="action_pop_lab">Dodatne značajke</string>
   <string name="action_pop_my_bracelet">Postavke</string>
   <string name="action_pop_person_info">Korisnik</string>
-  <string name="action_pop_sensorhub">Senzori</string>
-  <string name="action_pop_service">Usluge</string>
+  <string name="action_pop_sensorhub">Aktivnost</string>
+  <string name="action_pop_service">Račun</string>
   <string name="action_pop_smart_alarms">Alarm</string>
   <string name="action_pop_unlock_screen">Otključavanje zaslona</string>
   <string name="action_pop_weixin_enter">Dodaj Wechat</string>
@@ -709,7 +709,7 @@ Nastavite tako!"</string>
   <string name="notify_status_motor_shut_down">Isključivanje</string>
   <string name="notify_status_motor_smart_alarm">Alarm…</string>
   <string name="notify_status_motor_test">Test…</string>
-  <string name="odo">Udaljenost (km)</string>
+  <string name="odo">Udaljenost (%s)</string>
   <string name="odo_british">Ukupno milja</string>
   <string name="ok">U redu</string>
   <string name="on">UKLJ.</string>
@@ -1167,7 +1167,7 @@ Potrošeno %3$s cal. Prethodni rekord je bio %5$s koraka, postavljen %4$s."</str
   <string name="statistic_day_average">Dnevni prosjek</string>
   <string name="statistic_detail">Detalji</string>
   <string name="statistic_total">Ukupno</string>
-  <string name="step">koraka</string>
+  <string name="step">"koraka"</string>
   <string name="step1">Korak 1) </string>
   <string name="step2">Korak 2) </string>
   <string name="step_per_day"> koraka/dan</string>
@@ -1395,4 +1395,70 @@ Držite Mi Band i telefon udaljenim najmanje 5m."</string>
   <string name="your_gender">Spol</string>
   <string name="your_height">Visina</string>
   <string name="your_weight">Težina</string>
+  <string name="baby_boy_weight_model">Prosječna težina dječaka (kg)</string>
+  <string name="baby_girl_weight_model">Prosječna težina djevojčica (kg)</string>
+  <string name="baby_weight_adult_weight_content">Nakon što se Mi Vaga stabilizira, izvažite se držeći dijete</string>
+  <string name="baby_weight_adult_weight_title">Prvo izvažite sebe</string>
+  <string name="baby_weight_baby_weight_content">"Mi Vaga će izračunati težinu djeteta automatski"</string>
+  <string name="baby_weight_baby_weight_title">Izvažite se dok držite dijete</string>
+  <string name="baby_weight_detail_tips">"Nekoliko čimbenika je uključeno u određivanju je li djetetova težina zdrava. Mi Vaga uspoređuje veliki bazen podataka vaganja za zdravu djecu iste dobi i spola za određivanje prosječne težine.
+
+
+
+Standardno odstupanje odnosi se na prosječnu udaljenost od srednje težine ove grupe. Težine unutar 1-2 standardna odstupanja od prosječne težine grupe smatraju se normalnim. Težine ispod ili iznad toga područja određuju se kao pothranjenost ili pretilost.
+
+
+
+Iznad navedeni postupak može se koristiti samo za utvrđivanje je li težina djeteta normalna u odnosu na skupinu. Molimo, savjetujte se s liječnikom da potvrdite ako je dijete pothranjeno ili pretilo."</string>
+  <string name="baby_weight_help">Pomoć</string>
+  <string name="baby_weight_help_title">Sudeći prema visini djeteta - Standardna odstupanja</string>
+  <string name="baby_weight_notify_content">Dodirni za prikazati više.</string>
+  <string name="baby_weight_notify_title">Izvažite svoje dijete pomoću Mi Vage</string>
+  <string name="baby_weight_ref">"People's Republic of China Children Under 7 Growth Standards"</string>
+  <string name="baby_weight_report_monthyear_templates0">%2$s mjesečno - %1$s</string>
+  <string name="baby_weight_report_monthyear_templates1">%1$s mjesečno</string>
+  <string name="baby_weight_scale_not_nearby_content">Mi Vaga je predaleko.</string>
+  <string name="baby_weight_see_all">&lt;u&gt;Vidi još&lt;/u&gt;</string>
+  <string name="baby_weight_too_small_weight">Nisu otkrivene značajne promjene u težini. Držite li dijete?</string>
+  <string name="baby_weight_warning_content">Prije vaganja, pobrinite se da je Mi Vaga na stabilnoj, suhoj i ravnoj površini.</string>
+  <string name="baby_weight_warning_title">Sigurnost na prvom mjestu</string>
+  <string name="bind_fail">"Ne mogu sinkr. s Google Fit"</string>
+  <string name="bind_google_fit">Sinkr. s Google Fit</string>
+  <string name="bind_google_fit_tip">Sinkroniziraj fitness podatke s Mi Banda sa Google Fitom</string>
+  <string name="bind_succ">Fitness podaci će se sinkronizirati s Google Fit</string>
+  <string name="bohee_subtitle">Dodirnite da saznate više.</string>
+  <string name="bohee_title">Program mršavljenja je dostupan</string>
+  <string name="cannot_figure_bmi_causedby_age">"Ne mogu izračunati BMI za uzrast manji od 7 godina"</string>
+  <string name="cannot_figure_bmi_causedby_height">"Ne mogu izračunati BMI za visinu manju od 1 metra"</string>
+  <string name="china_adult_overweight_ref">"People's Republic of China Adult Obesity Prevention Guidelines"</string>
+  <string name="china_child_overweight_ref">"People's Republic of China Child Obesity Standards"</string>
+  <string name="date">Datum</string>
+  <string name="feedback_empty">Upišite pov. informaciju u polje iznad.</string>
+  <string name="feedback_failed">"Ne mogu poslati pov. informaciju"</string>
+  <string name="feedback_invalid">Kontakt Informacije koje ste unijeli nisu valjane.</string>
+  <string name="feedback_ok">Pov. informacija poslana</string>
+  <string name="give_up">Odustani</string>
+  <string name="incoming_delay_sencond">Odgodi vibraciju za dolazne pozive</string>
+  <string name="incoming_notify_tips2">Mi Band mora biti uparen s telefonom da ova značajka radi normalno.</string>
+  <string name="median">Median</string>
+  <string name="never_reminder">"Ne prikazuj ponovo"</string>
+  <string name="notify_setting">Obavijesti</string>
+  <string name="offline_notification_content">Drugi uređaj je prijavljen na vaš Mi Račun %3$s:%4$s on %2$s/%1$s. Ako smatrate da je vaš račun ugrožen, idite na account.mi.com i odmah promijenite zaporku.</string>
+  <string name="offline_notification_title">"Odjavljeni ste"</string>
+  <string name="personal_info_myself">Ja</string>
+  <string name="please_choose_user">Odaberi korisnika</string>
+  <string name="please_input_correct_weight">Težina koju ste unijeli nije valjana</string>
+  <string name="re_login">Prijavite se</string>
+  <string name="running_date_today">Danas</string>
+  <string name="running_share_img_failed_to_create">Dijeljenje nije uspjelo, provjerite preostali prostor za pohranu.</string>
+  <string name="title_activity_baby_tips_detail">Izvažite dijete</string>
+  <string name="title_activity_baby_weight">Izvažite dijete</string>
+  <string name="title_activity_baby_weight_info">Izvažite dijete</string>
+  <string name="title_activity_open">Sinkr. sa računom</string>
+  <string name="toast_disable_bluethooth_brocast">Bluetooth Smart je isklj.</string>
+  <string name="toast_enable_bluethooth_brocast">Bluetooth Smart je uklj.</string>
+  <string name="unbind_google_fit">Zaustavi sinkr. sa Google Fit</string>
+  <string name="weight_not_in_range">"Težina koje ste unijeli je izvan dometa Mi Vage."</string>
+  <string name="weight_ref">Reference</string>
+  <string name="weight_reference">Referentna tablica težine</string>
 </resources>

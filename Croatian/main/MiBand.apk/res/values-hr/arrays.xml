@@ -142,5 +142,15 @@
         <item>Vibriraj MiBandom za vrijeme alarma</item>
         <item>Vibriraj MiBandom kod dolazne SMS poruke</item>
     </string-array>
-
+	 <string-array name="weight_body_figures_for_child">
+        <item>Lagano</item>
+        <item>Normalno</item>
+        <item>Prekomjerna tjelesna težina </item>
+        <item>Pretilost</item>
+        <item>Pretilost</item>
+    </string-array>
+    <string-array name="contacts_notify_title">
+        <item>Samo za pozive iz kontakata</item>
+        <item>Samo za SMS iz kontakata</item>
+     </string-array>
 </resources>
