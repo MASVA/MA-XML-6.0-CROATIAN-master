@@ -65,8 +65,8 @@
   <string name="drm_forward_forbidden">Jedna ili više zaštićenih datoteka ne može se proslijediti.</string>
   <string name="drm_forwardforbidden_message">Neke zaštićene datoteke ne mogu se proslijediti.</string>
   <string name="drm_forwardforbidden_title">Zabranjeno prosljeđivanje</string>
-  <string name="drm_license_install_fail">Nije uspjela instalacija DRM licence.</string>
-  <string name="drm_license_install_success">Uspjela je instalacija DRM licence.</string>
+  <string name="drm_license_install_fail">Nije uspjelo instaliranje DRM licence.</string>
+  <string name="drm_license_install_success">Uspjelo je instaliranje DRM licence.</string>
   <string name="drm_licenseacquisition_message">%1$s nema dostupnu DRM licencu. Pritisnite gumb Obnovi za pribavljanje DRM licence.</string>
   <string name="drm_licenseacquisition_title">Pribavljanje DRM licence</string>
   <string name="drm_no_license">Nema dostupne DRM licence.</string>

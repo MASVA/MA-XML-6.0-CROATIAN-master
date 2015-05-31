@@ -29,7 +29,7 @@ Svi postojeći podaci aplikacije će biti spremljeni."</string>
   <string name="install_done">Aplikacija instalirana</string>
   <string name="install_failed">Aplikacija nije instalirana</string>
   <string name="install_failed_cpu_abi_incompatible">"Ova aplikacija nije kompatibilna s vašim uređajem."</string>
-  <string name="install_failed_file_not_found">Odabrani paket je izbrisan prije nego što se instalacija mogla biti dovršiti.</string>
+  <string name="install_failed_file_not_found">Odabrani paket je izbrisan prije nego što je instaliranje moglo biti dovršeno.</string>
   <string name="install_failed_inconsistent_certificates">Već je instaliran postojeći paket s istim imenom i konfliktnim potpisom.</string>
   <string name="install_failed_invalid_apk">Čini se da je paket oštećen.</string>
   <string name="install_failed_msg">Aplikaciju %1$s nije moguće instalirati na vaš uređaj.</string>

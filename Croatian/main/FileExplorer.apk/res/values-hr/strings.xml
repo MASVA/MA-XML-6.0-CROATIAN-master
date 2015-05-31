@@ -57,7 +57,7 @@
   <string name="create_share_link_description">Stvori vezu za dijeljenje…</string>
   <string name="cution">Savjeti</string>
   <string name="data_capacity">Podaci %1$s</string>
-  <string name="decompress_cancel">Otkaži</string>
+  <string name="decompress_cancel">Odustani</string>
   <string name="decompress_confirm">Raspakiraj</string>
   <string name="decompress_fail">Raspakiranje nespješno: arhiva oštećena ili datoteka istog naziva već postoji.</string>
   <string name="decompress_success">Raspakiranje završeno</string>
@@ -75,10 +75,10 @@
   <string name="dialog_type_audio">Zvuk</string>
   <string name="dialog_type_image">Slike</string>
   <string name="dialog_type_text">Tekst</string>
-  <string name="dialog_type_video">Video zapis</string>
+  <string name="dialog_type_video">Videozapisi</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Prazno</string>
-  <string name="dlg_error_unmount_text">Nije uspjelo odstraniti USB pohranu.</string>
+  <string name="dlg_error_unmount_text">Nije uspjelo ukloniti USB pohranu.</string>
   <string name="download_current_progress">%1$d%%</string>
   <string name="download_failed">Preuzimanje neuspješno!</string>
   <string name="download_link_completed">Podijelio sam %1$s preko KuaiPan. Dodirnite na vezu ispod za pregled:</string>
@@ -282,7 +282,7 @@
   <string name="sign_description">Prijava…</string>
   <string name="signin_error">"Ne mogu se povezati na poslužitelj. Provjerite svoju mrežnu vezu."</string>
   <string name="signin_success">"Prijavljeni ste!
-Dodano slobodnog prostora %1$s"</string>
+Dodano  %1$s slobodnog prostora"</string>
   <string name="space_info">KuaiPan: %1$s dostupno, %2$s ukupno</string>
   <string name="space_usage">Iskorišten prostor</string>
   <string name="start_server">Pokreni FTP poslužitelj</string>
@@ -311,7 +311,7 @@ Dodano slobodnog prostora %1$s"</string>
 oslobodite prostor.</string>
   <string name="trash_box_message2">Ispraznite koš za smeće kako bi
 oslobodili prostor.</string>
-  <string name="ui_filechange_btn_download">Preuzimanje datoteke?</string>
+  <string name="ui_filechange_btn_download">Preuzeti datoteku?</string>
   <string name="ui_filechange_btn_upload">Učitati datoteke</string>
   <string name="ui_main_menu_option_sign_in">Prijavite se</string>
   <string name="ui_main_menu_option_task_manage">Upravljanje prijenosa</string>

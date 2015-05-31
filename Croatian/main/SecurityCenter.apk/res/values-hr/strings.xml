@@ -517,8 +517,8 @@
   <string name="title_flow_purchase">Vrijeme je za nadoplatu!</string>
   <string name="title_flow_verify">Usporedi izračune</string>
   <string name="title_garbage_lib">Automatska ažuriranja su isključena</string>
-  <string name="title_install_virus_no">Instalacija nadzora isključena</string>
-  <string name="title_install_virus_yes">Instalacija nadzora uključena</string>
+  <string name="title_install_virus_no">Instaliranje nadzora isključeno</string>
+  <string name="title_install_virus_yes">Instaliranje nadzora uključeno</string>
   <string name="title_miui_update">Dostupno ažuriranje</string>
   <string name="title_mms_no">Filter poruka je isključen</string>
   <string name="title_mms_yes">Filter poruka je uključen</string>

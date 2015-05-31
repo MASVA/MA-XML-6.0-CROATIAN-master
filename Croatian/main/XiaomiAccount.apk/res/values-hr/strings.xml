@@ -137,7 +137,7 @@
   <string name="bind_sns_description">Prijavite se s %s.</string>
   <string name="bind_weibo_description">"Dodaj svoje prijatelje s Sina Wiebo</string>
   <string name="binded">Povezano</string>
-  <string name="binded_description" formatted="false">%s je povezan na vaš Mi Računom. Vaš profil je ažuriran sa informacijama iz vašeg %s Računa.</string>
+  <string name="binded_description" formatted="false">%s je povezan na vaš Mi Račun. Vaš profil je ažuriran sa informacijama iz vašeg %s Računa.</string>
   <string name="btn_return">Natrag</string>
   <string name="button_cancel">Odustani</string>
   <string name="button_unbind">Prekini vezu</string>
@@ -236,7 +236,7 @@ Unesite kôd za provjeru u e-pošti"</string>
   <string name="nobind">Nije povezano</string>
   <string name="other_devices">Ostali uređaji</string>
   <string name="passport_access_denied">Pristup odbijen</string>
-  <string name="passport_account_hint_text">E-pošta ili tel. broj</string>
+  <string name="passport_account_hint_text">E-pošta ili broj telefona</string>
   <string name="passport_account_name">Račun: %1$s</string>
   <string name="passport_account_not_activated">"Račun nije aktiviran"</string>
   <string name="passport_account_not_actived">"Vaš račun nije aktiviran"</string>
@@ -252,37 +252,37 @@ Unesite kôd za provjeru u e-pošti"</string>
   <string name="passport_change_account">Promjena računa</string>
   <string name="passport_checking_account">Provjera zaporke…</string>
   <string name="passport_checking_input">Provjera unosa…</string>
-  <string name="passport_choose_which_one_sim">Odaberite tel. broj</string>
+  <string name="passport_choose_which_one_sim">Odaberite broj telefona</string>
   <string name="passport_click_email_to_valid">"
 
-Da biste aktivirali svoj korisnički račun, slijedite
+Da aktivirate svoj korisnički račun, slijedite
 poveznicu u poruci koju smo poslali na vašu dolaznu poštu
 ."</string>
   <string name="passport_completed">Završeno</string>
   <string name="passport_confirm">U redu</string>
   <string name="passport_delete_account">Odjava</string>
-  <string name="passport_dspt_provision">"Koristite svoj Mi Račun za prijavu na Mi Cloud, MIUI Trgovinu Tema, te druge Mi Usluge, s bilo kojeg mjesta. "</string>
+  <string name="passport_dspt_provision">"Koristite svoj Mi Račun za prijavu na Mi Cloud, MIUI Trgovinu Tema, te druge Mi Usluge, s bilo kojeg mjesta."</string>
   <string name="passport_dspt_provision2">Saznajte više</string>
   <string name="passport_email">Adresa E-pošte</string>
   <string name="passport_email_or_id_hint_text">Adresa E-pošte ili ID Mi Računa</string>
-  <string name="passport_email_reg_success_summary">%1$s je vezan s vaš račun. Možete ga koristiti za prijavu ili za resetiranje vaše zaporke.</string>
+  <string name="passport_email_reg_success_summary">%1$s je vezan s vašim računom. Možete ga koristiti za prijavu ili za resetiranje vaše zaporke.</string>
   <string name="passport_error_device_id">"Ne mogu dobiti ID uređaja"</string>
   <string name="passport_error_dup_email">Ova adresa e-pošte već je povezana s drugim računom</string>
-  <string name="passport_error_dup_phone">Ovaj tel. broj već je povezan s drugim računom</string>
+  <string name="passport_error_dup_phone">Ovaj broj telefona već je povezan s drugim računom</string>
   <string name="passport_error_email">Adresa e-pošte koju ste unijeli nije važeća</string>
   <string name="passport_error_empty_captcha_code">Unesite passport_captcha kod</string>
   <string name="passport_error_empty_email">Unesite vašu adresu E-pošte</string>
-  <string name="passport_error_empty_phone_num">Unesite tel. broj</string>
+  <string name="passport_error_empty_phone_num">Unesite broj telefona</string>
   <string name="passport_error_empty_pwd">Unesite zaporku</string>
   <string name="passport_error_empty_username">Unesite korisničko ime</string>
   <string name="passport_error_empty_vcode">Unesite kod za provjeru</string>
   <string name="passport_error_illegal_pwd">Nevažeća zaporka</string>
   <string name="passport_error_invalid_dev_id">Nevažeći ID uređaja</string>
-  <string name="passport_error_invalid_phone_num">Nevažeći tel. broj</string>
+  <string name="passport_error_invalid_phone_num">Nevažeći broj telefona</string>
   <string name="passport_error_login">"Ne mogu se prijaviti"</string>
   <string name="passport_error_network">"Ne mogu se povezati na mrežu"</string>
   <string name="passport_error_no_sms_service">"Ne mogu poslati SMS poruku. Mobilna mreža nije dostupna."</string>
-  <string name="passport_error_phone_error">Nevažeći tel. broj</string>
+  <string name="passport_error_phone_error">Nevažeći broj telefona</string>
   <string name="passport_error_server">Pogreška poslužitelja</string>
   <string name="passport_error_sim_not_ready">"Ne mogu pronaći SIM karticu"</string>
   <string name="passport_error_ssl_hand_shake">Pogreška veze s poslužiteljem. Pokušajte postaviti datum/vrijeme svog sustava na trenutno vrijeme.</string>
@@ -297,7 +297,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_getting_verify_code">Nabava</string>
   <string name="passport_input_captcha_hint">Unesite kod</string>
   <string name="passport_input_password_hint">Unesite zaporku</string>
-  <string name="passport_input_phone_hint">Unesite tel. broj</string>
+  <string name="passport_input_phone_hint">Unesite broj telefona</string>
   <string name="passport_input_vcode_hint">Unesite kod za provjeru</string>
   <string name="passport_input_verify_code_hint">Unesite kod za provjeru</string>
   <string name="passport_license_host_unreachable">"Ne mogu se povezati na mrežu. Možete vidjeti ovu stranicu na %s."</string>

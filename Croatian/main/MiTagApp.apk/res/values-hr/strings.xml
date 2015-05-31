@@ -79,7 +79,7 @@ dotaknite ga stražnjom stranom vašeg telefona"</string>
   <string name="err_tag_read_only">"Ne možete pisati na ovu oznaku"</string>
   <string name="error_password">Greška zaporke</string>
   <string name="fail_get_contact_info">"Ne mogu dobiti informacije o kontaktu. Uvjerite se da ste odobrili dopuštenje PonPonTag za prikaz vaših informacija o kontaktu."</string>
-  <string name="failed_install">Instalacija nije uspjela</string>
+  <string name="failed_install">Instaliranje nije uspjelo</string>
   <string name="failed_to_erase">Brisanje nije uspjelo</string>
   <string name="failed_to_write">Pisanje nije uspjelo</string>
   <string name="fif_seconds">15 sek.</string>

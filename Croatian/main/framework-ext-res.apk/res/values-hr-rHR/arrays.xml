@@ -2,8 +2,8 @@
 <resources>
     <string-array name="boot_msg_text">
         <item>-==MIUI Adria==-</item>
-	<item>-==MIUI Adria==-</item>
-	<item>-==MIUI Adria==-</item>
+	    <item>-==MIUI Adria==-</item>
+        <item>-==MIUI Adria==-</item>
         <item>Instaliranje u tijeku.</item>
         <item>Instaliranje u tijeku..</item>
         <item>Instaliranje u tijeku...</item>

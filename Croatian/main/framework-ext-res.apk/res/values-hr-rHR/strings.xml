@@ -17,7 +17,7 @@
   <string name="global_actions_reboot">"Ponovno pokreni"</string>
   <string name="global_actions_shutdown">"Isključi"</string>
   <string name="global_actions_silent_mode">"Bešumni način"</string>
-  <string name="handy_mode_summary">Da zatvorite, pritisnite prazan prostor na isklj. zaslonu</string>
+  <string name="handy_mode_summary">Da zatvorite, dodirnite prazan prostor zaslonu</string>
   <string name="handy_mode_title">Upravljanje jednom rukom</string>
   <string name="key_btn_ok">U redu</string>
   <string name="key_btn_space">Razmak</string>
