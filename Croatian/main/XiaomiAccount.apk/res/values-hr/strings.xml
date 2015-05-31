@@ -7,7 +7,7 @@
   <string name="account">Račun</string>
   <string name="account_bind_devices">Uređaji</string>
   <string name="account_bind_new_phone">Dodaj novi telefon</string>
-  <string name="account_bind_phone_notice">Koristi ovaj broj telefona za prijavu na račun, poništavanje zaporke ili promijenu sigurnosnih postavki.</string>
+  <string name="account_bind_phone_notice">Koristi ovaj broj telefona za prijavu na račun, poništavanje zaporke ili promjenu sigurnosnih postavki.</string>
   <string name="account_bind_secure_email_title">Dodaj e-poštu za oporavak</string>
   <string name="account_bind_secure_phone_title">Dodaj telefon za oporavak</string>
   <string name="account_bind_settings">Računi</string>
