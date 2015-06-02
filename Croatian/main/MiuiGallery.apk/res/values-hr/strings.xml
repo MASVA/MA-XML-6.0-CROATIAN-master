@@ -6,6 +6,8 @@
   <string name="accept_or_deny">%1$s dijeljenih albuma %2$s s tobom.</string>
   <string name="activity_not_found">Nema pronađenih aplikacija za izvršenje ove radnje.</string>
   <string name="add_account">Dodaj račun</string>
+  <string name="add_event">Dodaj događaj</string>
+  <string name="add_event_hint">Unesite naziv</string>
   <string name="add_sharer">Dodaj člana</string>
   <string name="add_to_cloud_album">Dodaj u album</string>
   <string name="add_to_cloud_exceeded_the_size_message">Datoteka je prevelika</string>
@@ -144,8 +146,9 @@
   <string name="confirm_download_video_message">Morate završiti s preuzimanjem ovog videozapisa prije nego što ga možete pogledati. Preuzimanje će se nastaviti kada je WLAN dostupan.</string>
   <string name="confirm_download_video_title">Preuzmi videozapis</string>
   <string name="confirm_face">Podudaranje</string>
-  <string name="confirm_left_photo_will_move_out">Fotografije na lijevoj strani će biti uklonjene iz ovog albumaa</string>
+  <string name="confirm_left_photo_will_move_out">Fotografije na lijevoj strani nisu on (ona)?</string>
   <string name="confirm_merge_face_albums">" "&lt;Data&gt; Spoji ovaj album s &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
+  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Spojiti ove alume s &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
   <string name="confirm_not_face">Nije ova osoba</string>
   <string name="contact_photo">Postavi za sliku kontakta</string>
   <string name="context_menu_add_contact">Dodaj u kontakte</string>
@@ -220,6 +223,7 @@
   <string name="error_title">"Ne mogu sinkr."</string>
   <string name="error_unauthorized">Sinkr. onemogućena zbog previše pokušaje prijave</string>
   <string name="error_unknown_host">"Ne mogu se povezati na mrežu. Provjerite vašu podatkovnu vezu i pokušajte ponovno."</string>
+  <string name="event_manage_photos">Upravljanje fotografijama</string>
   <string name="exit">Izlaz</string>
   <string name="exit_share">Napusti album</string>
   <string name="exit_share_failed">"Ne mogu izaći iz %1$s"</string>
@@ -235,6 +239,7 @@
   <string name="face_album_rename_hint">Unesite naziv</string>
   <string name="face_albumset_detecting_tip">Trenutak…</string>
   <string name="face_albumset_empty">Prazno.</string>
+  <string name="face_albumset_loading_data">Učitavanje podataka…</string>
   <string name="face_albumset_pending_enable_tip">Sortiraj fotografije kada je uređaj spojen na WLAN</string>
   <string name="face_albumset_use_tip">"Koristite Prepoznavanje lica za sortiranje fotografija prema osobama koje su na njima"</string>
   <string name="face_move_dialog_title">Odaberite album</string> 
@@ -351,7 +356,9 @@
   <string name="menu_item_sort_size_asc">Veličini (ulazno)</string>
   <string name="menu_item_sort_size_desc">Veličini (silazno)</string>
   <string name="menu_view_contact">Prikaži kontakt</string>
+  <string name="merge_album">Spoji</string>
   <string name="merge_album_positive_button_text">Spoji</string>
+  <string name="merge_album_title">Spoji albume</string>
   <string name="message_no_delete_access">"Nemate dopuštenje za brisanje %s"</string>
   <string name="messagelist_sender_self">Ja</string>
   <string name="miliao">Mi Talk</string>
@@ -447,6 +454,7 @@ uređaja"</string>
   <string name="photo_size">Veličina</string>
   <string name="photoeditor_name">Foto Studio</string>
   <string name="photos">Fotografije</string>
+  <string name="pick_from_contact">Odaberi iz kontakata</string>
   <string name="pick_too_many_recipients">Previše primatelja</string>
   <string name="pick_too_much_tips">Maks. %d stavaka</string>
   <string name="picker_no_album_selected">Nema odabranih albuma</string>

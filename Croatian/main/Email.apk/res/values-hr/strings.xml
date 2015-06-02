@@ -146,7 +146,7 @@
   <string name="account_setup_incoming_server_label">Poslužitelj</string>
   <string name="account_setup_incoming_title">Postavljanje računa</string>
   <string name="account_setup_incoming_username_label">Korisničko ime</string>
-  <string name="account_setup_incoming_username_label_default_hint">Sadrži domenu</string>
+  <string name="account_setup_incoming_username_label_default_hint">Možete uključiti domenu</string>
   <string name="account_setup_names_account_name_label">Dodijelite ovom računu naziv (opcionalno)</string>
   <string name="account_setup_names_headline">Vaš je račun postavljen, a e-pošta stiže!</string>
   <string name="account_setup_names_title">Postavljanje računa</string>
@@ -655,9 +655,9 @@ Kopija: %4$s
   <string name="message_view_attachment_background_load">Jedan ili više privitaka u proslijeđenoj poruci preuzet će se prije slanja.</string>
   <string name="mibill_privacy_policy_button1">"Ne slažem se"</string>
   <string name="mibill_privacy_policy_button2">Slažem se</string>
-  <string name="mibill_privacy_policy_description">Dopustiti Mi Wallet je analiziranje i upravljanje vašim računima automatski. Ova značajka je automatski isključena za rad s poslom povezanim adresama e-pošte.</string>
-  <string name="mibill_privacy_policy_link">Pročitajte &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Uvjeti korištenja usluge&lt;/a&gt;.</string>
-  <string name="mibill_privacy_policy_title">Slažem se s upravljanjem računima automatski</string>
+  <string name="mibill_privacy_policy_description">Dopustiti Mi Wallet analiziranje i upravljanje vašim računima automatski. Ova značajka je isključena po defaultu za rad s povezanim adresama e-pošte.</string>
+  <string name="mibill_privacy_policy_link">"Korištenjem ove značajke, slažete se s našim" &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Uvjeti pružanja usluge&lt;/a&gt;</string>
+  <string name="mibill_privacy_policy_title">Upravljaj računima automatski</string>
   <string name="more_atts_remaining">%1$d još preostalo</string>
   <string name="more_atts_total">%1$d privitaka</string>
   <string name="more_context">Više</string>
@@ -696,8 +696,8 @@ Kopija: %4$s
   <string name="notification_action_undo_delete">Izbrisano</string>
   <string name="notification_action_undo_remove_label">Oznaka je uklonjena</string>
   <string name="notification_exchange_calendar_added">Dodan Exchange kalendar</string>
-  <string name="oauth_error_description">Nije moguće provjeriti autentičnost</string>
-  <string name="oauth_gmail_login_notify">"Prema Googleovim zahtjevima, trebate upisati svoju zaporku na stranici Google autorizacije"</string>
+  <string name="oauth_error_description">"Ne mogu provjeriti autentičnost"</string>
+  <string name="oauth_gmail_login_notify">"Unesite svoje korisničko ime i zaporku Google računa na sljedećoj stranicu za prijavu"</string>
   <string name="oauth_login_continue">Nastavi</string>
   <string name="ok">U redu</string>
   <string name="okay_action">U redu</string>
@@ -1008,7 +1008,6 @@ Kopija: %4$s
   <string name="upload_log_no">Odustani</string>
   <string name="upload_log_success">Dnevnici uspješno poslani</string>
   <string name="upload_log_title">Potvrdite slanje</string>
-  <string name="upload_log_url">http://fb14.iciba.com/api.php?action=post.upload</string>
   <string name="upload_log_yes">Pošalji</string>
   <string name="uploading_logs">Slanje dnevnika…</string>
   <string name="validation_failed_prompt">"Ne mogu provjeriti račun. Provjerite postavke poslužitelja %s"</string>
@@ -1034,6 +1033,6 @@ Dodirnite "&lt;b&gt;Sinkroniziraj sada&lt;/b&gt; da biste poštu sinkronizirali 
   <string name="widget_other_views">Ostalo</string>
   <string name="wrong_password">Zaporka koju ste unijeli nije točna</string>
   <string name="yes">Da</string>
-  <string name="you_are_in_mobile_network">Trenutno koristite mobilnu podatkovnu vezu, nastaviti sa slanjem (veličina nKB)?</string>
+  <string name="you_are_in_mobile_network">Poslati dnevnik korištenjem mobilne podatkovne veze? Ako prekoračite preko vaše ograničenje podataka, vaš mobilni operater može vam naplatiti dodatne naknade.</string>
   <string name="zip_viewer_no_file">Nema datoteka</string>
 </resources>

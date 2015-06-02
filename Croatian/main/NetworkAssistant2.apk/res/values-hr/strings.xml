@@ -193,20 +193,26 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
   <string name="mi_service_traffic_detail">Okvirni detalji</string>
   <string name="mian_page_primary_txt">Međunarodni roaming</string>
+  <string name="miuishare_title_more">Više</string>
+  <string name="miuishare_title_share">Podijeli</string>
+  <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
+  <string name="miuishare_weibo_title">Weibo</string>
   <string name="network_assistant_upgraded_body">Dodirni za prikaz</string>
   <string name="network_assistant_upgraded_title">Ažurirano</string>
   <string name="network_blocked_connected_open_wifi">Povezivanje s javnom mrežom</string>
   <string name="network_blocked_notification_summary">Dodirni za prikaz</string>
   <string name="network_blocked_switch_wifi">Promijeni mreže</string>
+  <string name="network_connected_exception_title">Test mreže</string>
   <string name="network_control">Prikaz postavki aplikacije</string>
   <string name="network_diagnostics">Test mreže</string>
   <string name="network_mobile_exception_detail">"Vaš uređaj se ne može povezati s internetom:
 
  1. Uvjerite se da niste premašili svoe mjesečno ograničenje uporabe podataka.
  
- 2. Ako samo upravo obnovili svoj bon, ponovno pokrenite svoj uređaj i pokušajte ponovno.
+ 2. Ako ste upravo obnovili svoj bon, ponovno pokrenite svoj uređaj i pokušajte ponovno.
 
  3. Signal mreže operatera može biti slab na vašoj trenutnoj lokaciji."</string>
+  <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
   <string name="network_operator_exception_summary">"Ne mogu aktivirati SIM karticu. Provjerite je li SIM kartica ispravno umetnuta i da je vaša tarifa aktivirana."</string>
   <string name="network_permission_exception_tips">"Ne mogu koristiti mobilne podatke za povezivanje na mrežu"</string>
   <string name="network_roaming_exception_tips">"Ne mogu koristiti mobilne podatke u roamingu za povezivanje na mrežuk."</string>
@@ -238,6 +244,9 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
  2. Ako koristite dvije SIM kartice, pokušajte se prebaciti na drugu karticu i provjerite ako ste u mogućnosti povezati se normalno.
  
  3. Provjerite da SIM kartica i utor SIM kartice nisu oštećeni. Potvrdite da je SIM kartica koju koristite ispravno umetnuta u SIM utor vašeg uređaja."</string>
+  <string name="networkchanged_exception_summary">Mrežno povezivanje se promijenilo. Testirajte ponovo.</string>
+  <string name="networkchanged_exception_title">Način povezivanja se promijenio</string>
+  <string name="no_network_btn">Pokušajte ponovo</string>
   <string name="none_mi_service_app_detail">Prazno</string>
   <string name="notify_daily_data_usage_body">Iskorišteno %s danas. Dodirnite da post. ogranič.</string>
   <string name="notify_daily_limit_body">Iskorišteno %s danas. Dodirni za post. ogranič.</string>
@@ -256,6 +265,8 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="other_exception_title">Provjera drugih problema</string>
   <string name="pay_charge">Nadoplata</string>
   <string name="per_month_pkg_traffic_settings">Podesi ograničenje podataka</string>
+  <string name="permission_exception_summary">"Neke aplikacije nemaju dopuštenje za povezivanje na internet"</string>
+  <string name="permission_exception_title">Prikaži mrežna dopuštenja</string>
   <string name="permit_running_network">Dopusti pozadinske podatke</string>
   <string name="person_hotpot">Mobilni hospot</string>
   <string name="pkg_traffic">Postavi ograničenje uporabe podataka</string>

@@ -101,8 +101,6 @@ Za uključivanje ove značajke, idite na Postavke &gt; Dodatne postavke &gt; Tip
   <string name="partys_day"/>
   <string name="paste">Zalijepi</string>
   <string name="peace_day"/>
-  <string name="perm_send_push_dspt">Dopusti Mi push poruke</string>
-  <string name="perm_send_push_lab">Pošalji push poruku</string>
   <string name="presentation_payphone">Telefonska govornica</string>
   <string name="presentation_private">Privatan broj</string>
   <string name="presentation_unknown">Nepoznat broj</string>

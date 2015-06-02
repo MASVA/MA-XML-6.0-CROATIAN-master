@@ -105,6 +105,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="header_data_and_synchronization">Podaci &amp; sink.</string>
   <string name="header_other_settings">Dodatne postavke</string>
   <string name="i_know">U redu</string>
+  <string name="internet_access_dspt">Ovoj je aplikaciji potrebno povezivanje s internetom da radi normalno.</string>
   <string name="license_host_unreachable">"Ne mogu se povezati na mrežu. Da biste vidjeli ove podatke sada, idite na %s."</string>
   <string name="loading">Učitavanje…</string>
   <string name="loading_hint">Učitavanje</string>
