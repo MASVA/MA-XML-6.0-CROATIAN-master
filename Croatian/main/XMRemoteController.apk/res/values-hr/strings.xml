@@ -221,7 +221,7 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="passport_data_keep_in_device">Zapamti zaporku</string>
   <string name="passport_data_wipe_from_device">"Nemoj zapamtiti zaporku"</string>
   <string name="passport_delete_account">Odjava</string>
-  <string name="passport_dspt_provision">"Koristite svoj Mi Račun sa Mi Cloud, MIUI Trgovinu Tema, te druge Mi Usluge, s bilo kojeg mjesta. "</string>
+  <string name="passport_dspt_provision">"Koristite svoj Mi Račun sa MiCloud, MIUI Trgovinu Tema, te druge Mi Usluge, s bilo kojeg mjesta. "</string>
   <string name="passport_dspt_provision2">Saznajte više</string>
   <string name="passport_email">Adresa E-pošte</string>
   <string name="passport_email_or_id_hint_text">Adresa E-pošte ili ID Mi Računa</string>
@@ -327,7 +327,7 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="passport_wrong_captcha">Uneseni kôd nije ispravan</string>
   <string name="passport_wrong_phone_number_format">Format broja telefona koji ste unijeli nije važeći</string>
   <string name="passport_wrong_vcode">Uneseni kôd nije ispravan</string>
-  <string name="passport_xiaomi_account_dspt">Koristite svoj Mi Račun za prijavu na Mi Cloud, MIUI Trgovinu Tema, te druge Mi Usluge, s bilo kojeg mjesta.</string>
+  <string name="passport_xiaomi_account_dspt">Koristite svoj Mi Račun za prijavu na MiCloud, MIUI Trgovinu Tema, te druge Mi Usluge, s bilo kojeg mjesta.</string>
   <string name="passport_xiaomi_account_sec_dspt"/>
   <string name="passport_xiaomi_account_sec_dspt2"/>
   <string name="place_frame">Lokacija:</string>

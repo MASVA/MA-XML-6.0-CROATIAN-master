@@ -67,7 +67,7 @@
   <string name="retry">Pokušaj ponovo</string>
   <string name="self_phone">Ovaj telefon</string>
   <string name="settings_backup">Postavke sustava</string>
-  <string name="start_backup_to_micloud">Napravi Sig. kopiju aplikacija na Mi Cloud</string>
+  <string name="start_backup_to_micloud">Napravi Sig. kopiju aplikacija na MiCloud</string>
   <string name="start_recover">Vraćanje %s</string>
   <string name="wait_icon_download">Preuzimanje ikone aplikacije</string>
   <string name="xiaomi_account_type">com.xiaomi</string>

@@ -11,16 +11,16 @@
   <string name="add_sharer">Dodaj člana</string>
   <string name="add_to_cloud_album">Dodaj u album</string>
   <string name="add_to_cloud_exceeded_the_size_message">Datoteka je prevelika</string>
-  <string name="add_to_cloud_failed_message_with_count">"%2$s stavaka ne može biti dodano u cloud : %1$s."</string>
+  <string name="add_to_cloud_failed_message_with_count">"%2$s stavaka ne može biti dodano u MiCloud : %1$s."</string>
   <string name="add_to_cloud_file_exist_message">Fotografija već postoji u odredišnom albumu.</string>
   <string name="add_to_cloud_folder">Dodaj u mapu</string>
   <string name="add_to_cloud_image_limit_exceeded_message">Ograničenje slike premašeno</string>
   <string name="add_to_cloud_local_space_full_message">Pohrana je puna ili nije spremna.</string>
   <string name="add_to_cloud_reasons"/>
-  <string name="add_to_cloud_space_full_message">Cloud album je pun.</string>
-  <string name="add_to_cloud_successfully_message">Dodano u Cloud album.</string>
+  <string name="add_to_cloud_space_full_message">MiCloud album je pun.</string>
+  <string name="add_to_cloud_successfully_message">Dodano u MiCloud album.</string>
   <string name="add_to_cloud_type_not_support_message">"Ova vrsta datoteke nije podržana"</string>
-  <string name="add_to_cloud_unfinished_message_with_count">"Stavaka (%1$s) nije dodano na Mi Cloud"</string>
+  <string name="add_to_cloud_unfinished_message_with_count">"Stavaka (%1$s) nije dodano na Mi MiCloud"</string>
   <string name="add_to_cloud_unknow_reasons">Nepoznata greška</string>
   <string name="add_to_secret_failed_message_with_count">"%2$s stavaka ne može biti dodano u sakriveni album: %1$s."</string>
   <string name="add_to_secret_successfully_message">Dodano u sakriveni album</string>
@@ -66,8 +66,8 @@
   <string name="auto_create_recent_album_confirm">"Galerija će izbrisati podatke favorita albuma. Albumi koje ste ručno označili favoritima neće biti pogođeni."</string>
   <string name="auto_create_recent_album_over_ten_times">Album će biti označen kao favorit nakon otvaranja više od 10 puta</string>
   <string name="auto_upload_album_comfirm_to_share">Ovaj album će biti sinkr. automatski.</string>
-  <string name="auto_upload_guide_msssage">"Automatski sinkr. svoje fotografije iz drugih aplikacija na Mi Cloud. Možete uključiti/isključiti ovu značajku u bilo kojem trenutku u Postavke - Sink. s Mi Cloud - Sink. Automatski"</string>
-  <string name="auto_upload_guide_title">Sinkr. fotografija s Mi Cloud</string>
+  <string name="auto_upload_guide_msssage">"Automatski sinkr. svoje fotografije iz drugih aplikacija na MiCloud. Možete uključiti/isključiti ovu značajku u bilo kojem trenutku u Postavke - Sink. s MiCloud - Sink. Automatski"</string>
+  <string name="auto_upload_guide_title">Sinkr. fotografija s MiCloud</string>
   <string name="auto_upload_title">Sinkr. automatski</string>
   <string name="autofix">Auto-fix</string>
   <string name="autohomemain">Autohomemain</string>
@@ -108,17 +108,17 @@
   <string name="click_to_enter_camera">Pokreni kameru</string>
   <string name="click_top_right">Dodirnite ovu ikonu</string>
   <string name="close">Zatvori</string>
-  <string name="cloud_album_more_settings">Sinkronizraj s Mi Cloud</string>
+  <string name="cloud_album_more_settings">Sinkronizraj s MiCloud</string>
   <string name="cloud_album_set_create">Novo</string>
   <string name="cloud_album_set_scan_qr_code">QR kod</string>
-  <string name="cloud_albums">Mi Cloud</string>
+  <string name="cloud_albums">MiCloud</string>
   <string name="cloud_be_shared_guide_message">"Pregledajte fotografije svojih prijatelja, i također dodajte fotografije u album."</string>
   <string name="cloud_be_shared_guide_title">Ovaj album je podijelio prijatelj</string>
   <string name="cloud_camera_display_name">Fotografije kamere</string>
   <string name="cloud_folder_chooser_move">Izbriši slike iz izvornog albuma</string>
   <string name="cloud_gallery_recyclebin_full">Kanta za smeće je puna. Ispraznite koš na www.mi.com/micloud.</string>
   <string name="cloud_gallery_space_full">Nema dovoljno prostora u vašem cloudu</string>
-  <string name="cloud_media_set_set">Cloud</string>
+  <string name="cloud_media_set_set">MiCloud</string>
   <string name="cloud_owner_album_share_guide">"Podijelite ovaj album 
   
   sa prijateljima"</string>
@@ -135,6 +135,7 @@
   <string name="comfirm_delete_current_album">Izbrisati ovaj album?</string>
   <string name="comma">, </string>
   <string name="confirm">U redu</string>
+  <string name="confirm_all_photo_are_this_people_face">Sva podudaranja?</string>
   <string name="confirm_all_photo_not_this_people_face">Nema podudaranja?</string>
   <string name="confirm_delete">Izbrisati fotografije (%s)?</string>
   <string name="confirm_delete_has_cloud_image_video">"Izbrisati fotografije (%s) na ovom uređaju i u Mi Cloudu?"</string>
@@ -269,7 +270,7 @@
   <string name="frame_semicircle">Polukrug</string>
   <string name="frame_white">Bijela</string>
   <string name="free">Slobodno</string>
-  <string name="gallery_cloud_provider_name">Mi Cloud fotografije</string>
+  <string name="gallery_cloud_provider_name">MiCloud fotografije</string>
   <string name="gallery_setting">Galerija</string>
   <string name="get_album_info_in_process">"Dobivanje pojedinosti dijeljenog albuma…"</string>
   <string name="global_setting">Postavke</string>
@@ -287,8 +288,8 @@
   <string name="highlight">Isticanja</string>
   <string name="highlight_abbr">I</string>
   <string name="home_my_captured_items">" snimaka kamere"</string>
-  <string name="home_page_tab_cloud">Mi Cloud</string>
-  <string name="home_page_tab_face">Lice</string>
+  <string name="home_page_tab_cloud">MiCloud</string>
+  <string name="home_page_tab_face">Osobe</string>
   <string name="home_page_tab_local">Lokalno</string>
   <string name="home_page_tab_photo">Fotografije</string>
   <string name="ignore_album">Ignoriraj</string>
@@ -414,7 +415,7 @@ uređaja"</string>
   <string name="open_public_message">Generiraj poveznicu i pošalji je prijateljima</string>
   <string name="open_public_title">Podijeli</string>
   <string name="open_single_image_failure">"Ne mogu učitati sliku"</string>
-  <string name="open_sync_title">Sikr. s Mi Cloud</string>
+  <string name="open_sync_title">Sikr. s MiCloud</string>
   <string name="operation_add_picture">Dodaj fotografije</string>
   <string name="operation_add_secret">Dodaj u sakriveni album</string>
   <string name="operation_delete_confirm_message_folder">"Cjelokupan sadržaj mapa bit će izbrisan.
@@ -595,13 +596,13 @@ uređaja"</string>
   <string name="sync_album_error">"Ne mogu sinkronizirati fotografije u ovom albumu. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
   <string name="sync_album_in_proecess">Sinkronizacija albuma…</string>
   <string name="sync_album_set_error">Ne mogu sinkronizirati fotografije. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
-  <string name="sync_album_summary">Sinkr. s Mi Cloud</string>
+  <string name="sync_album_summary">Sinkr. s MiCloud</string>
   <string name="sync_history_power_on">Sinkroniziraj povijest slika samo tijekom punjenja</string>
   <string name="sync_in_progress_message">Preuzimanje albuma…</string>
   <string name="sync_only_in_wifi">Koristi samo WLAN za sinkr. fotografija</string>
   <string name="sync_only_in_wifi_alert">Isključivanje ove opcije može povećati vašu uporabu podataka.</string>
   <string name="sync_only_in_wifi_summary">Nikada ne koristi mobilnu podatkovnu vezu za sinkr. fotografija</string>
-  <string name="sync_third_party_app_pic_summary">Sinkr. automatski fotografije iz drugih aplikacija na Mi Cloud</string>
+  <string name="sync_third_party_app_pic_summary">Sinkr. automatski fotografije iz drugih aplikacija na MiCloud</string>
   <string name="system_album">Album sustava</string>
   <string name="tab_all_text">Postavi oboje</string>
   <string name="tab_lockscreen_text">Zaključani zaslon</string>
@@ -649,7 +650,7 @@ uređaja"</string>
   <string name="weixin">WeChat</string>
   <string name="where_is_barcode">Gdje je QR kod?</string>
   <string name="white_balance">Balans bijele</string>
-  <string name="who_is_this">Tko je ovo ?</string>
+  <string name="who_is_this">Tko je to?</string>
   <string name="widget_type">Odaberi slike</string>
   <string name="widget_type_album">Odaberi album</string>
   <string name="widget_type_photo">Odaberi sliku</string>

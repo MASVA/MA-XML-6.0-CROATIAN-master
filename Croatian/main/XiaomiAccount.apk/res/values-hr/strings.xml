@@ -13,7 +13,7 @@
   <string name="account_bind_settings">Računi</string>
   <string name="account_binded_phone">Telefon %d</string>
   <string name="account_crop_user_avatar">Obreži sliku</string>
-  <string name="account_dspt_provision">"Prijavite se na Mi Cloud, MIUI Trgovinu Tema, te druge Mi Usluge, s bilo kojeg mjesta."</string>
+  <string name="account_dspt_provision">"Prijavite se na MiCloud, MIUI Trgovinu Tema, te druge Mi Usluge, s bilo kojeg mjesta."</string>
   <string name="account_dspt_provision2">Saznajte više</string>
   <string name="account_empty_user_name">Unesite naziv kor. ime vašeg Mi Računa</string>
   <string name="account_error_longer_user_name">"Ime ne može biti duže od 20 znakova"</string>
@@ -147,7 +147,7 @@
   <string name="checking_account">Provjera zaporke…</string>
   <string name="checking_input">Provjera…</string>
   <string name="checking_phone_num_availible">Provjera telefona…</string>
-  <string name="cloud_service">Mi Cloud</string>
+  <string name="cloud_service">MiCloud</string>
   <string name="cloud_service_dspt">Sinkronizirajte vaše fotografije, kontakte, bilješke, aplikacije i više između svih vaših uređaja.</string>
   <string name="completed">Završeno</string>
   <string name="confirm">U redu</string>
@@ -208,7 +208,7 @@ Unesite kôd za provjeru u e-pošti"</string>
   <string name="login_title">Prijavite se u vaš Mi Račun</string>
   <string name="login_with_email_or_id">Prijavite se s drugim računom</string>
   <string name="logout_failed">"Ne mogu se odjaviti"</string>
-  <string name="mi_account_dspt_provision">"Prijavite se na Mi Cloud, MIUI Trgovinu Tema i druge Mi Usluge, od bilo kuda."</string>
+  <string name="mi_account_dspt_provision">"Prijavite se na MiCloud, MIUI Trgovinu Tema i druge Mi Usluge, od bilo kuda."</string>
   <string name="mi_support_service">Podrška</string>
   <string name="mi_account_identity_title">Potvrdite svoj identitet</string>
   <string name="mibi_balance">Mi Kredita %s</string>
@@ -261,7 +261,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_completed">Završeno</string>
   <string name="passport_confirm">U redu</string>
   <string name="passport_delete_account">Odjava</string>
-  <string name="passport_dspt_provision">"Koristite svoj Mi Račun za prijavu na Mi Cloud, MIUI Trgovinu Tema, te druge Mi Usluge, s bilo kojeg mjesta."</string>
+  <string name="passport_dspt_provision">"Koristite svoj Mi Račun za prijavu na MiCloud, MIUI Trgovinu Tema, te druge Mi Usluge, s bilo kojeg mjesta."</string>
   <string name="passport_dspt_provision2">Saznajte više</string>
   <string name="passport_email">Adresa E-pošte</string>
   <string name="passport_email_or_id_hint_text">Adresa E-pošte ili ID Mi Računa</string>
@@ -366,7 +366,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_wrong_captcha">Uneseni kôd nije ispravan</string>
   <string name="passport_wrong_phone_number_format">Format broja telefona koji ste unijeli nije važeći</string>
   <string name="passport_wrong_vcode">Uneseni kôd nije ispravan</string>
-  <string name="passport_xiaomi_account_dspt">Koristite svoj Mi Račun za prijavu na Mi Cloud, MIUI Trgovinu Tema, te druge Mi Usluge, s bilo kojeg mjesta.</string>
+  <string name="passport_xiaomi_account_dspt">Koristite svoj Mi Račun za prijavu na MiCloud, MIUI Trgovinu Tema, te druge Mi Usluge, s bilo kojeg mjesta.</string>
   <string name="passport_xiaomi_account_sec_dspt"/>
   <string name="passport_xiaomi_account_sec_dspt2"/>
   <string name="password">Unesite vašu zaporku</string>

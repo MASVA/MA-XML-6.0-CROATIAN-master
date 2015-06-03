@@ -3573,7 +3573,7 @@ Postavljanje uređaja može zahtijevati znatnu mrežnu aktivnost."</string>
   <string name="write_tag">Piši</string>
   <string name="wrong_pin_code_pukked">Netočan PIN kôd SIM kartice; sada morate kontaktirati svog operatera da vam otključa vaš uređaj.</string>
   <string name="xiaomi_account">Mi Račun</string>
-  <string name="xiaomi_cloud_service">Mi Cloud</string>
+  <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xiaomi_money_service">Mi Krediti</string>
   <string name="xiaomi_router_available_notif_summary">Dodirnite za prikaz više informacija.</string>
   <string name="xiaomi_router_available_notif_title">Mi Router dostupan</string>
