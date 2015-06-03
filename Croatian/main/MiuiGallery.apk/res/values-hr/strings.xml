@@ -235,6 +235,7 @@
   <string name="external_usb_device">USB pohrana</string>
   <string name="external_usb_device_hm">Vanjska USB pohrana</string>
   <string name="face_album">Osobe</string>
+  <string name="face_album_long_tap_tip">Za odabir više osoba ili promjenu postavki grupe, pritisnite &amp; zadržite sliku profila</string>
   <string name="face_album_not_named">Bez naziva</string>
   <string name="face_album_rename_hint">Unesite naziv</string>
   <string name="face_albumset_detecting_tip">Trenutak…</string>
@@ -291,6 +292,7 @@
   <string name="home_page_tab_local">Lokalno</string>
   <string name="home_page_tab_photo">Fotografije</string>
   <string name="ignore_album">Ignoriraj</string>
+  <string name="ignore_alert_title">"Kad je ignoriran, neće se više prikazivati, nastaviti?"</string>
   <string name="ignore_face">Ignoriraj ovu osobu</string>
   <string name="image_download_item_title">Preuzmimanje datoteke (%s)</string>
   <string name="image_quota_fulfiled">Previše slika. Izbrišite neke slike i pokušajte ponovno.</string>
@@ -358,7 +360,7 @@
   <string name="menu_view_contact">Prikaži kontakt</string>
   <string name="merge_album">Spoji</string>
   <string name="merge_album_positive_button_text">Spoji</string>
-  <string name="merge_album_title">Spoji albume</string>
+  <string name="merge_album_title">Spoji albume za</string>
   <string name="message_no_delete_access">"Nemate dopuštenje za brisanje %s"</string>
   <string name="messagelist_sender_self">Ja</string>
   <string name="miliao">Mi Talk</string>

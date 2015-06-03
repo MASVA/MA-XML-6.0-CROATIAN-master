@@ -739,6 +739,7 @@ Jeste li sigurni da želite otići s ove stranice?"</string>
   <string name="v5_edit_mode_title_empty">0 odabrano</string>
   <string name="v5_select_all">Odaberi sve</string>
   <string name="video_activity_name">Zbirke</string>
+  <string name="video_buffering_percent_string">Buffering</string>
   <string name="video_collect_cancel">Otkaži</string>
   <string name="video_collect_success">Uspješno</string>
   <string name="video_download_downloaded">Preuzeto</string>
