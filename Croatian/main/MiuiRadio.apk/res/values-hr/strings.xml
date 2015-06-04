@@ -39,11 +39,11 @@
   <string name="favorite">Favoriti</string>
   <string name="find_program">Online</string>
   <string name="first_program">Prvi program</string>
-  <string name="get_channel_failed">Dobivanje detalja kanala nije uspjelo</string>
+  <string name="get_channel_failed">"Ne mogu dobiti informacije o kanalu"</string>
   <string name="has_no_program_now">"Ovaj kanal ne emitira sadržaj"</string>
   <string name="high_quality">Više (48 bps)</string>
   <string name="hotlist_name">Xiaomi popularna lista</string>
-  <string name="impunity_declaration">Suglasni ste da ste povezani na mrežu putem online radio usluga.</string>
+  <string name="impunity_declaration">Radio treba povezivanje s internetom i pristup detaljima vaše lokacije za normalan rad.</string>
   <string name="impunity_declaration_ignore">"Ne prikazuj ponovo"</string>
   <string name="impunity_declaration_negative_text">Prekid</string>
   <string name="impunity_declaration_positive_text">U redu i Nastavi</string>
@@ -85,7 +85,7 @@
   <string name="qingting_logo"> | Qingting FM</string>
   <string name="remaining_time">"Preostalo vrijeme: "</string>
   <string name="search_hint">Traži</string>
-  <string name="section">Odabir</string>
+  <string name="section">Istaknuto</string>
   <string name="select_device">Odaberi uređaj</string>
   <string name="share">Podijeli</string>
   <string name="share_button">Podijeli</string>

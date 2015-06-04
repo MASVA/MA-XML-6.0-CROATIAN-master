@@ -396,9 +396,9 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="rename_current_device">"Promjeni naziv uređaja"</string>
   <string name="replace_binded_phone">Zamjeni telefon</string>
   <string name="restart_action">Ponovno pokreni</string>
-  <string name="restart_email_bind_message">Potrebno je neko vrijeme za primanje e-pošte, pobrinite se da promjenite e-poštu za oporavak？</string>
+  <string name="restart_email_bind_message">E-pošta s kodom za potvrdu će biti poslana na ovu adresu</string>
   <string name="restart_email_bind_title">Promjeni e-poštu za oporavak</string>
-  <string name="restart_phone_bind_message">Potrebno je neko vrijeme za primanje SMS-a, pobrinite se da promjenite telefon za oporavak？</string>
+  <string name="restart_phone_bind_message">SMS s kodom za potvrdu će biti poslan na ovj broj</string>
   <string name="restart_phone_bind_title">Promjeni telefon za oporavak</string>
   <string name="scan_barcode_title">Da se prijavite u svoj Mi Račun, skenirajte QR kod</string>
   <string name="service_error">Pogreška usluge</string>

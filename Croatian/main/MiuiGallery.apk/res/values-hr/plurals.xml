@@ -73,7 +73,7 @@
         <item quantity="one">%1$d stavka</item>
     </plurals>
 	<plurals name="more_face">
-        <item quantity="other">%1$s novih lica mogu također pripadati u %2$s >></item>
-        <item quantity="one">%1$s novo lica može također pripadati u %2$s >></item>
+        <item quantity="other">%1$s fotografija od %2$s</item>
+        <item quantity="one">%1$s fotografija od %2$s</item>
     </plurals>
 </resources>

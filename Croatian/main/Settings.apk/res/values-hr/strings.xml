@@ -1801,7 +1801,7 @@ i pokrenite ga."</string>
   <string name="music_headset_mode_settings">Tipke na slušalicama</string>
   <string name="music_headset_mode_volume">Glasnoća - Gore/Dolje</string>
   <string name="music_headset_no_contected">Slušalice nisu priključene</string>
-  <string name="music_headset_settings">Slušalice i zvučni efekti</string>
+  <string name="music_headset_settings">Slušalice &amp; zvučni efekti</string>
   <string name="music_hifi_summary">Smanjite buku i izobličenje i povećajte kvalitetu zvuka.</string>
   <string name="music_hifi_title">Hi-Fi zvuk</string>
   <string name="music_hifi_volume">Hi-Fi glasnoća</string>
