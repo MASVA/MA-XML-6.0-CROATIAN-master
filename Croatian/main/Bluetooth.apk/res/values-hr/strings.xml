@@ -128,7 +128,7 @@ Prihvaćate li datoteku?"</string>
   <string name="permlab_handoverStatus">Primaj prijenose s Bluetooth uređaja.</string>
   <string name="process"/>
   <string name="progress_scanning">Pretraživanje…</string>
-  <string name="reset_function_msg">Ponovno otvaranje funkcije će uzrokovati nevaljanom u %1$s</string>
+  <string name="reset_function_msg">Resetiranje ove značajke može spriječiti %1$s da radi normalno.</string>
   <string name="sharedUserId"/>
   <string name="some_app_taking">(%1$s već koristi tu funkciju…)</string>
   <string name="start_server">Pokreni TCP poslužitelj</string>
