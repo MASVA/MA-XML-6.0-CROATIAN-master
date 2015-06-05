@@ -10,7 +10,7 @@
   <string name="act_set_city_find_side_error">"Ne mogu locirati uređaj"</string>
   <string name="act_weather_cycle_link_china">WeatherChina</string>
   <string name="act_weather_find_city_added">Dodano</string>
-  <string name="act_weather_find_city_china">Kína</string>
+  <string name="act_weather_find_city_china">Kina</string>
   <string name="act_weather_find_city_click_retry">Pokušaj ponovo</string>
   <string name="act_weather_find_city_connect_net">"Ne mogu se povezati na mrežu."</string>
   <string name="act_weather_find_city_net_no_good">"Ne mogu se povezati na mrežu."</string>
