@@ -5,4 +5,5 @@
     <string name="label_shutdown">Isključi</string>
     <string name="label_alert_reboot">Ponovno pokreni</string>
     <string name="label_alert_shutdown">Isključi</string>
+	<string name="label_blank">Natrag</string>
 </resources>
