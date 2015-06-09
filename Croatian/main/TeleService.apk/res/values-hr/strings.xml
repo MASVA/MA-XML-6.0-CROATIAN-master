@@ -88,9 +88,9 @@
   <string name="bf_news_settings">Poslovne i financijske vijesti</string>
   <string name="callFailed_cb_enabled">Ne možete uspostavljati odlazne pozive ako je uključena zabrana poziva.</string>
   <string name="callFailed_congestion">Mreža je zauzeta</string>
-  <string name="callFailed_dialToDial">DIAL request modified to DIAL with different number.</string>
-  <string name="callFailed_dialToSs">DIAL request modified to SS request.</string>
-  <string name="callFailed_dialToUssd">DIAL request modified to USSD request.</string>
+  <string name="callFailed_dialToDial">DIAL zahtjev modificiran za DIAL s različitim brojem.</string>
+  <string name="callFailed_dialToSs">DIAL zahtjev modificiran za SS zahtjev.</string>
+  <string name="callFailed_dialToUssd">DIAL zahtjev modificiran za USSD zahtjev.</string>
   <string name="callFailed_dsac_restricted">Sve je pozive ograničila pristupna kontrola.</string>
   <string name="callFailed_dsac_restricted_emergency">Hitne pozive ograničila je pristupna kontrola.</string>
   <string name="callFailed_dsac_restricted_normal">Uobičajene pozive ograničila je pristupna kontrola.</string>
@@ -154,6 +154,7 @@
   <string name="callind_multi_sim">SUBS postavke</string>
   <string name="calling_via_template">Pozivanje putem %s</string>
   <string name="callwait_open_hint">\"Poziv na čekanju\" je značajka koju pruža vaš operater. Ako dobijete obavijest o pogrešci, obratite se svom davatelju usluga kako bi bili sigurni da je ova značajka podržana.</string>
+  <string name="can_not_use_for_not_data_sim">"(Ne mogu koristiti: Mora biti postavljeno kao zadana SIM kartica za podatke)"</string>
   <string name="cancel">Odustani</string>
   <string name="cancel_call">Odustani</string>
   <string name="card_title_MOcall_forwarding">Odlazni poziv je proslijeđen</string>
@@ -212,9 +213,6 @@
   <string name="cfnrc_title_cta">Proslijedi kad je nedostupno</string>
   <string name="cfnry_title">Proslijedi kad je neodgovoreno</string>
   <string name="cfu_title">Uvijek proslijedi pozive</string>
-  <string name="change_default_data">Promijeni</string>
-  <string name="change_default_data_alert_message">"Nećete biti u mogućnosti koristiti vašu China Telecom SIM karticu."</string>
-  <string name="change_default_data_alert_title">UIM kartica mora biti zadana</string>
   <string name="change">Postavi</string>
   <string name="change_num">Ažuriraj</string>
   <string name="change_password">Promjena zaporke zabrane</string>
@@ -228,8 +226,8 @@
   <string name="close_profile">Zatvori</string>
   <string name="cloud_antispam_title">Identificiraj nepoznate brojeve</string>
   <string name="command_error_fdn_failure">Morate prvo isključiti FDN</string>
+  <string name="config_default_data_sim">Postavke</string>
   <string name="config_dialing_emergency_number_suffix"/>
-  <string name="confirm_change_default_data">Promijeni</string>
   <string name="confirmPin2Label">Potvrdi novi PIN2</string>
   <string name="confirmPinLabel">Potvrdi novi PIN</string>
   <string name="confirm_password_label">Potvrdi novu zaporku</string>
@@ -423,6 +421,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="get_pin2">Upišite PIN2</string>
   <string name="get_smsc_address_error">"Ne mogu se spojiti na mrežu."</string>
   <string name="get_smsc_address_timeout">Isteklo je vrijeme veze</string>
+  <string name="got_it">U redu</string>
   <string name="goPrivate">na privatno</string>
   <string name="gsm_umts_network_preferences_dialogtitle">Postavke mreže</string>
   <string name="gsm_umts_network_preferences_title">Postavke mreže</string>
@@ -668,7 +667,6 @@ Koristiti će se željena mreža umjesto toga."</string>
   <string name="no_wifi_available_title">Nema WLAN veze</string>
   <string name="not_a_valid_port">Broj priključka trebao bi biti između 1000 i 65534.</string>
   <string name="not_allowed">Vaša SIM kartica ne dopušta povezivanje s ovom mrežom.</string>
-  <string name="not_change_default_data">"Ne mijenjaj"</string>
   <string name="not_voice_capable">Glasovni pozivi nisu podržani</string>
   <string name="notification_action_end_call">Prekini vezu</string>
   <string name="notification_dialing">Biranje broja</string>
@@ -910,7 +908,6 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="reject_via_sms_summary">Uredi prethodno napisane poruke</string>
   <string name="reject_via_sms_title">Brzi odgovori</string>
   <string name="remember_my_choice">Uvijek koristi za pozive preko interneta</string>
-  <string name="remind_another_time">"Ne prikazuj ponovo"</string>
   <string name="remove">Ukloni</string>
   <string name="remove_ims_account">Odaberi račun</string>
   <string name="remove_sip_account">Ukloni račun</string>
