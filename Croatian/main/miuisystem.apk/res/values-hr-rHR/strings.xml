@@ -9,6 +9,8 @@
   <string name="app_no_notification">Bez obavijesti</string>
   <string name="app_notificaiton_on_notificationBar">Panel obavijesti</string>
   <string name="app_notificaiton_on_statusBar_and_notificationBar">Lista ili Panel obavijesti</string>
+  <string name="app_name_which_call">Aplikacija:%s</string>
+  <string name="app_version_which_call">Verzija aplikacije:%s</string>
   <string name="arbor_day"/>
   <string name="armed_forces_day"/>
   <string name="auto_start_warning_allow">Dopusti</string>
@@ -63,6 +65,10 @@ Za uključivanje ove značajke, idite na Postavke &gt; Dodatne postavke &gt; Tip
   <string name="labour_day"/>
   <string name="lantern_festival"/>
   <string name="light_snow"/>
+  <string name="license_host_unreachable">"Nije moguće povezivanje s mrežom. 
+Da biste vidjeli ove informacije, 
+idite na: %s."</string>
+  <string name="loading">Učitavanje…</string>
   <string name="lockscreen_access_pattern_cell_added">Dodan je mobitel</string>
   <string name="lockscreen_access_pattern_cleared">Uzorak je obrisan</string>
   <string name="lockscreen_access_pattern_detected">Uzorak je dovršen</string>
@@ -93,6 +99,7 @@ Za uključivanje ove značajke, idite na Postavke &gt; Dodatne postavke &gt; Tip
   <string name="maml_component_customization_title">Postavke</string>
   <string name="memory_clear_nothing_result">Upotreba memorije je već optimizirana.</string>
   <string name="memory_clear_result">"Izbrisano: %1$sB Dostupno: %2$sB"</string>
+  <string name="mibi_license">Mi Krediti Uvjeti pružanja usluge</string>
   <string name="miui_device_name">Android</string>
   <string name="national_day"/>
   <string name="national_father_day"/>
@@ -101,6 +108,7 @@ Za uključivanje ove značajke, idite na Postavke &gt; Dodatne postavke &gt; Tip
   <string name="partys_day"/>
   <string name="paste">Zalijepi</string>
   <string name="peace_day"/>
+  <string name="policy_name">Privatnost: %s</string>
   <string name="presentation_payphone">Telefonska govornica</string>
   <string name="presentation_private">Privatan broj</string>
   <string name="presentation_unknown">Nepoznat broj</string>

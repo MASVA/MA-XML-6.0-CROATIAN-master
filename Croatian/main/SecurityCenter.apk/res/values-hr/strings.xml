@@ -418,7 +418,7 @@
   <string name="power_save_on_time_default_time">00:00</string>
   <string name="power_save_on_time_end_time_summary">Kraj</string>
   <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
-  <string name="power_save_on_time_goout_title">Prebaci na</string>
+  <string name="power_save_on_time_goout_title">Nakon ovog razdoblja prebaci natrag na</string>
   <string name="power_save_on_time_option_recovery_title">Kada to razdoblje završi, prebaci na</string>
   <string name="power_save_on_time_option_summary">Na kraju tog razdoblja uređaj će se prebaciti na često korišteni profil</string>
   <string name="power_save_on_time_option_title">Tijekom tog perioda prebaci na</string>
