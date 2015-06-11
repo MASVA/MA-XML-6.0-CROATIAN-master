@@ -2,6 +2,7 @@
 <resources>
   <string name="Parse_error_dlg_text">Došlo je do problema pri analiziranju paketa.</string>
   <string name="Parse_error_dlg_title">Pogreška analize</string>
+  <string name="activity_package_delete_confirm_title">Važno upozorenje</string>
   <string name="allow_source_dlg_text">"Aplikacija %1$s želi instalirati druge aplikacije.
 
 Dozvoliti sada i ubuduće?"</string>
@@ -10,6 +11,11 @@ Dozvoliti sada i ubuduće?"</string>
   <string name="app_not_found_dlg_text">Aplikacija nije pronađena na popisu instaliranih aplikacija.</string>
   <string name="app_not_found_dlg_title">Aplikacija nije pronađena</string>
   <string name="auto_startup_dialog_msg">Ova se aplikacija ne može pokrenuti bez vašeg dopuštenja.</string>
+  <string name="button_text_cancel">Odustani</string>
+  <string name="button_text_delete">Izbriši</string>
+  <string name="button_text_delete_timer">Izbriši (%d)</string>
+  <string name="button_text_next_step">Dalje</string>
+  <string name="button_text_next_step_timer">Dalje (%d)</string>
   <string name="caller_app">Zahtjev dopuštenja od %1$s</string>
   <string name="cancel">Odustani</string>
   <string name="dlg_app_replacement_statement">"Aplikacija koju instalirate zamijeniti će drugu aplikaciju.
@@ -48,6 +54,9 @@ Svi postojeći podaci aplikacije će biti spremljeni."</string>
   <string name="other_relative">Ostala dopuštenja</string>
   <string name="out_of_space_dlg_text">"Nema dovoljno prostora za pohranu na uređaju za instaliranje %1$s."</string>
   <string name="out_of_space_dlg_title">Nema dovoljno prostora</string>
+  <string name="package_delete_confirm_step_1">Izbrisati %s?</string>
+  <string name="package_delete_confirm_step_2">Brisanje ove aplikacije može dovesti do nestabilnosti sustava vašeg uređaja.</string>
+  <string name="package_delete_confirm_step_3">"Nećete moći otvoriti ovu aplikaciju nakon što je izbrišete."</string>
   <string name="perm_action_accept">Dopusti</string>
   <string name="perm_action_prompt">Pitaj</string>
   <string name="perm_action_reject">Odbij</string>
