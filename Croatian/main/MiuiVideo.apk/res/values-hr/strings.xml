@@ -41,6 +41,8 @@
   <string name="average_score">Prosječan rezultat</string>
   <string name="avg_score">%.1f</string>
   <string name="bestv">Bestv</string>
+  <string name="bmp_quality_mode">Način kvalitete slike</string>
+  <string name="bmp_quality_mode_desc">Označeno, prikaži način visoke kvalitete.</string>
   <string name="buffering">Međupohrana…</string>
   <string name="buffering_video_netplay_label_v5">Međupohrana…</string>
   <string name="cancel">Odustani</string>

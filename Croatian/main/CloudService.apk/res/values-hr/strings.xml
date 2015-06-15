@@ -200,9 +200,13 @@ Dodirnite tipku Postavke za prikaz više opcija"</string>
   <string name="micloud_setting_sms_summary">SMS i MMS Poruke</string>
   <string name="micloud_setting_wifi_summary">WLAN postavke</string>
   <string name="micloud_single_dspt">Koristite MiCloud za sinkronizaciju podataka, da pronađete svoj uređaj, i podijelite stvari sa prijateljima.</string>
-  <string name="micloud_space_duokan_detail">Upravljajte vašim Duokan sadržajem putem Duokan aplikacije.</string>
+  <string name="micloud_space_applist_detail">Upravljajte vašim prostorom početnog zaslona pomoću aplikacije telefona.</string>
+  <string name="micloud_space_applist_title">Sig. kopija prostora poč. zaslona</string>
+  <string name="micloud_space_duokan_detail">Upravljajte vašim Duokan sadržajem pomoću Duokan aplikacije.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
   <string name="micloud_space_full_influence">Što će se dogoditi ako ponestane prostora?</string>
+  <string name="micloud_space_soundrecorder_detail">Upravljajte vašim prostorom snimača pomoću aplikacije telefona.</string>
+  <string name="micloud_space_soundrecorder_title">Prostor za pohranu Snimača</string>
   <string name="micloud_storage">Prostor za pohranu</string>
   <string name="micloud_storage_expires_auto_renewal_sum">Osigurajte dovoljno Mi Kredita za automatsku obnovu.</string>
   <string name="micloud_storage_expires_manually_renewal_sum">"Neke cloud usluge mogu biti obustavljene. Preporuka je da se omogući autom. obnova."</string>

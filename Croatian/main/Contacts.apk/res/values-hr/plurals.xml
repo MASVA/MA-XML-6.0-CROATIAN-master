@@ -114,11 +114,11 @@
         <item quantity="one">Zvoni (%d) puta</item>
     </plurals>
     <plurals name="dlg_add_blacklist">
-        <item quantity="other">Blokirati ove brojeve (%1$d)?</item>
-        <item quantity="one">Blokirati ovaj broj?</item>
+        <item quantity="other">Blokirati ove brojeve telefona (%1$d)?</item>
+        <item quantity="one">Blokirati ovaj broj telefona?</item>
     </plurals>
     <plurals name="dlg_remove_blacklist">
-        <item quantity="other">Odblokirati ove brojeve (%1$d)?</item>
-        <item quantity="one">Odblokirati ovaj broj?</item>
+        <item quantity="other">Odblokirati ove brojeve telefona (%1$d)?</item>
+        <item quantity="one">Odblokirati ovaj broj telefona?</item>
     </plurals>
 </resources> 

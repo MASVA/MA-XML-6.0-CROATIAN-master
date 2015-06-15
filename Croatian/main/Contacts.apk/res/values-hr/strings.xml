@@ -99,9 +99,9 @@
   <string name="callrecordview_item_op_time_short_outgoing">"Odlazno: "</string>
   <string name="callrecordview_menu_add_call_note">Dodaj bilješka poziva</string>
   <string name="callrecordview_menu_batch_delete">Izbriši seriju</string>
-  <string name="callrecordview_menu_delete">"Izbriši povijest poziva"</string>
+  <string name="callrecordview_menu_delete">"Izbriši"</string>
   <string name="callrecordview_menu_delete_accepted">Očisti odgovorene pozive</string>
-  <string name="callrecordview_menu_delete_all">Izbriši povijest poziva</string>
+  <string name="callrecordview_menu_delete_all">Izbriši</string>
   <string name="callrecordview_menu_delete_called">Izbriši odlazne pozive</string>
   <string name="callrecordview_menu_delete_confirm">%s?</string>
   <string name="callrecordview_menu_delete_missed">Izbriši propuštene pozive</string>
@@ -150,6 +150,7 @@
   <string name="close_dial_pad">Zatvori tipkovnicu za biranje</string>
   <string name="cloud_antispam_mark">Prijavi</string>
   <string name="cloud_antispam_title">Prepoznaj nepoznate brojeve</string>
+  <string name="cloud_recommend_msg">Dodirnite za sinkr. kontakata s Mi Cloud.</string>
   <string name="composer_failed_to_get_database_infomation">"Dohvaćanje podataka iz baze podataka nije uspjelo."</string>
   <string name="composer_has_no_exportable_contact">"Nema kontakata koji se mogu izvoziti. Ako na svojem telefonuu imate kontakte, neki davatelji podataka možda ne dopuštaju izvoz kontakata s tog telefona."</string>
   <string name="composer_not_initialized">"Sastavljač za vCard nije se ispravno pokrenuo."</string>
@@ -174,9 +175,9 @@
   <string name="contact_detail_calllog_call_record_tips">Snimi poziv</string>
   <string name="contact_directory_description">Direktorij %1$s</string>
   <string name="contact_edit_title_edit">"Uredi kontakt"</string>
-  <string name="contact_edit_title_insert">"Dodaj %s kontakt"</string>
+  <string name="contact_edit_title_insert">"Spremi u %s"</string>
   <string name="contact_edit_title_readonly">Kontakt samo za čitanje</string>
-  <string name="contact_editor_prompt_multiple_accounts">Odaberi račun za kontakte na koji pohraniti</string>
+  <string name="contact_editor_prompt_multiple_accounts">Spremi kontakt u</string>
   <string name="contact_editor_prompt_one_account">Vaš novi kontakt bit će sinkroniziran s računom %1$s.</string>
   <string name="contact_editor_prompt_zero_accounts">Pohrani na uređaju ili na novom mrežnom računu</string>
   <string name="contact_is_readOnly">Nije moguće uređivanje kontakata samo za čitanje.</string>
@@ -480,9 +481,9 @@ Razlog: \"%s\""</string>
   <string name="list_filter_single">"Kontakt"</string>
   <string name="loading">Učitavanje…</string>
   <string name="loading_accounts">Samo tren…</string>
-  <string name="loading_group_members">Učitavanje članova grupe…</string>
-  <string name="loading_groups">Učitavanje grupa…</string>
-  <string name="loading_recent">Učitavanje nedavnih kontakata…</string>
+  <string name="loading_group_members">Samo tren…</string>
+  <string name="loading_groups">Samo tren…</string>
+  <string name="loading_recent">Samo tren…</string>
   <string name="loading_resource_detail_fail">"Ne mogu učitati"</string>
   <string name="loading_resource_detail_info">Učitavanje…</string>
   <string name="local_invisible_directory">Drugo</string>
