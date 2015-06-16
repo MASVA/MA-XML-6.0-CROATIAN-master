@@ -171,8 +171,9 @@
   <string name="forward_prefix">"Fwd: "</string>
   <string name="found_old_messages">Ukupno: %1$s pronađenih na starim telefonskim računima. Želite li ih učitati na svoj trenutni račun: %2$s?</string>
   <string name="found_old_messages_title">Pošalji poruke</string>
-  <string name="found_wild_messages">Poruke s broja ispod su pohranjene u vaš MiCloud: %s. Preuzeti ih sada?</string>
-  <string name="found_wild_messages_title">Preuzmi poruke</string>
+  <string name="found_wild_messages_guide_cloud_desc">Da sinkronizirate poruke s Mi Clouda, prijavite se na svoj Mi Račun i uključite sinkronizaciju SMS-a.</string>
+  <string name="found_wild_messages_guide_settings_desc">Sinkronizacija SMS poruka s Mi Clouda u postavkama Poruka.</string>
+  <string name="found_wild_messages_title">Sinkronizacija SMS poruka s Mi Clouda</string>
   <string name="from_label">"Šalje: "</string>
   <string name="group_message">Grupne poruke</string>
   <string name="group_message_failed_title">"Ne mogu poslati %d kontaktima"</string>
@@ -326,6 +327,7 @@
   <string name="pref_mms_settings_title">Postavke MMS-a</string>
   <string name="pref_notification_settings_title">Postavke obavijesti</string>
   <string name="pref_other_title">Dodatne postavke</string>
+  <string name="pref_show_blocked_messages_summary">Prikaži blokirane SMS poruke u razgovorima</string>
   <string name="pref_show_sms_template_summary">Automatski kopiraj i ispuni kodove za provjeru</string>
   <string name="pref_sms_theme_title">Postavke teme</string>
   <string name="pref_summary_allow_si_sl_push">Dopusti primanje obavijesti WAP push poruka (SI/SL)</string>
@@ -407,6 +409,7 @@
   <string name="remove_video">Ukloni video zapis</string>
   <string name="replace">Zamijeni</string>
   <string name="replace_image">Zamijeni sliku</string>
+  <string name="reply_button_msg">Odgovori</string>
   <string name="resent_message">Ponovno pošalji</string>
   <string name="resize_image_error_information">Ova slika prevelika je za slanje čak i ako se promijeni njezina veličina.</string>
   <string name="resource_price_free">Besplatno</string>
@@ -524,6 +527,7 @@
   <string name="timed_message_to">prima</string>
   <string name="title_collapse_sp_messages">Kombinirajte  poruke davatelja usluga</string>
   <string name="title_date_type">Oznaka vremena poruke</string>
+  <string name="title_show_blocked_messages">Prikaži blokirane SMS poruke</string>
   <string name="title_show_sms_template">Provjeri SMS za kodove provjere</string>
   <string name="title_timed_message_dialog">Konfiguriraj vremensku poruku</string>
   <string name="to_address_label">"Prima: "</string>

@@ -19,6 +19,7 @@
   <string name="artist_name">Izvođač</string>
   <string name="artist_search_title">"Izvođač"</string>
   <string name="artist_view">"Izvođač"</string>
+  <string name="atmd_music">Ultimativno</string>
   <string name="audio_picker_title">Odaberi pjesmu</string>
   <string name="auto_download_in_wifi">Automatski preuzmi favorite preko WLAN-a</string>
   <string name="available_playlist_name_format">Novi popis pjesama %d</string>
@@ -148,7 +149,7 @@
   <string name="higher_quality_music_summary">Stream i preuzimanje datoteka veće brzine prijenosa</string>
   <string name="i_know">U redu</string>
   <string name="i_know_it">U redu</string>
-  <string name="impunity_declaration">Online sadržaj potječe iz Baidu Online Music Service. Korištenjem ove usluge, pristajete na Baidu "&lt;a href="http://music.baidu.com/doc/agreement"&gt;Uvjeti pružanja usluge&lt;/a&gt;.</string>
+  <string name="impunity_declaration">Ova aplikacija treba povezivanje s internetom za prikaz i stream online glazbe.</string>
   <string name="impunity_declaration_ignore">"Ne prikazuj ponovo"</string>
   <string name="impunity_declaration_negative_text">Zatvori</string>
   <string name="impunity_declaration_positive_text">U redu</string>

@@ -36,11 +36,11 @@ Da dobijete više prostora za pohranu, posjetite mi.com/micloud."</string>
   <string name="cloud_back_up_interval_long">7 dana</string>
   <string name="cloud_back_up_interval_short">1 dan</string>
   <string name="cloud_back_up_network_unavailable">"Ne mogu ukloniti. Povežite se na WLAN i pokušajte ponovno."</string>
-  <string name="cloud_back_up_open_info">"Napravi Sig. kopiju rasporeda aplikacija Početnog zaslona kada je povezano na WLAN svakih %1$s 
+  <string name="cloud_back_up_open_info">"Napravi Sig. kopiju aplikacija kada je povezano na WLAN svakih %1$s 
 Zadnja Sig. kopija: %2$s"</string>
-  <string name="cloud_back_up_open_info_no_backuptime">Napravi Sig. kopiju rasporeda aplikacija Početnog zaslona kada je povezano na WLAN svakih %1$s</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Napravi Sig. kopiju aplikacija kada je povezano na WLAN svakih %1$s</string>
   <string name="cloud_back_up_remove_success">Sig. kopija je izbrisana</string>
-  <string name="cloud_back_up_title">Sig. kopija rasporeda Početnog zaslona</string>
+  <string name="cloud_back_up_title">Sig. kopija aplikacija</string>
   <string name="cloud_backup_dialog_title">Napravi Sig. kopiju s Mi Cloudom</string>
   <string name="cloud_find_device">Pronađi Uređaj</string>
   <string name="cloud_space_upgrade_message">Dodirnite za dodavanje %s GB na vaš cloud.</string>
@@ -112,7 +112,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="master_alert_notif_dspt_add">Za sinkr.: %s</string>
   <string name="master_alert_notif_dspt_no">Sinkronizirano</string>
   <string name="master_alert_notif_title">Zadnja sinkr. prije %s dana</string>
-  <string name="micloud_buy_member">Nadogradnja članstva</string>
+  <string name="micloud_buy_member">Račun</string>
   <string name="micloud_check_sim_notify_text">"Izgleda da ste promijenili SIM kartice. Prijavite se
 na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_check_sim_notify_title">Ponovno aktiviraj MiCloud</string>
@@ -191,22 +191,22 @@ Dodirnite tipku Postavke za prikaz više opcija"</string>
   <string name="micloud_other_product_price">Usporedba cijena</string>
   <string name="micloud_proceed">Nastavi</string>
   <string name="micloud_sec_dspt">i podijelite stvari sa svojim prijateljima.</string>
-  <string name="micloud_setting_antispam_summary">Iznimke za "Ne ometaj me" i blokirani brojevi telefona.</string>
+  <string name="micloud_setting_antispam_summary">Iznimke i blokirani brojevi telefona.</string>
   <string name="micloud_setting_browser_summary">Oznake, povijest i kartice</string>
   <string name="micloud_setting_contact_summary">Podaci o kontaktima i fotografije profila</string>
-  <string name="micloud_setting_deskclock_summary">Postavke Satova</string>
+  <string name="micloud_setting_deskclock_summary">Vremenska zona i postavke alarma</string>
   <string name="micloud_setting_gallery_summary">Fotografije i videozapisi</string>
   <string name="micloud_setting_music_summary">Popisi za reprodukciju i favoriti</string>
   <string name="micloud_setting_sms_summary">SMS i MMS Poruke</string>
   <string name="micloud_setting_wifi_summary">WLAN postavke</string>
   <string name="micloud_single_dspt">Koristite MiCloud za sinkronizaciju podataka, da pronađete svoj uređaj, i podijelite stvari sa prijateljima.</string>
-  <string name="micloud_space_applist_detail">Upravljajte vašim prostorom početnog zaslona pomoću aplikacije telefona.</string>
-  <string name="micloud_space_applist_title">Sig. kopija prostora poč. zaslona</string>
+  <string name="micloud_space_applist_detail">Upravljajte aplikacijama vašeg početnog zaslona</string>
+  <string name="micloud_space_applist_title">Upravljajte aplikacijama</string>
   <string name="micloud_space_duokan_detail">Upravljajte vašim Duokan sadržajem pomoću Duokan aplikacije.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
   <string name="micloud_space_full_influence">Što će se dogoditi ako ponestane prostora?</string>
-  <string name="micloud_space_soundrecorder_detail">Upravljajte vašim prostorom snimača pomoću aplikacije telefona.</string>
-  <string name="micloud_space_soundrecorder_title">Prostor za pohranu Snimača</string>
+  <string name="micloud_space_soundrecorder_detail">Upravljajte snimaka pohranjenim na vašem uređaju</string>
+  <string name="micloud_space_soundrecorder_title">Snimke</string>
   <string name="micloud_storage">Prostor za pohranu</string>
   <string name="micloud_storage_expires_auto_renewal_sum">Osigurajte dovoljno Mi Kredita za automatsku obnovu.</string>
   <string name="micloud_storage_expires_manually_renewal_sum">"Neke cloud usluge mogu biti obustavljene. Preporuka je da se omogući autom. obnova."</string>
@@ -264,7 +264,7 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="pref_title_sync_display_photo_on_wifi_only">Koristi samo WLAN za sink. fotografija.</string>
   <string name="pref_title_sync_my_profile_title">Sinkroniziraj profil</string>
   <string name="privacy_policy">Pravila o privatnosti</string>
-  <string name="remind_later">Kasnije</string>
+  <string name="remind_later">Ne sada</string>
   <string name="restoreSync">Sinkroniziraj sada</string>
   <string name="setting">Postavke</string>
   <string name="settings_backup_title">Postavke Sig. kopije sustava</string>
