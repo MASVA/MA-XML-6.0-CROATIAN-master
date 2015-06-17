@@ -539,7 +539,7 @@ uređaja"</string>
   <string name="select_auto_upload_albums">Odaberite albume za sinkr.</string>
   <string name="select_image">Odaberi fotog.</string>
   <string name="select_item">Odaberi stavku</string>
-  <string name="select_item_face">Fotografija od %s'"</string>
+  <string name="select_item_face">Fotografija od %s</string>
   <string name="select_too_much_to_send_tips">"Maks. %d"</string>
   <string name="select_video">Odaberite videoz.</string>
   <string name="send">Pošalji</string>
