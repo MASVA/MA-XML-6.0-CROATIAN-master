@@ -327,7 +327,7 @@
   <string name="pref_mms_settings_title">Postavke MMS-a</string>
   <string name="pref_notification_settings_title">Postavke obavijesti</string>
   <string name="pref_other_title">Dodatne postavke</string>
-  <string name="pref_show_blocked_messages_summary">Prikaži blokirane SMS poruke u razgovorima</string>
+  <string name="pref_show_blocked_messages_summary">Prikaži blokirane SMS poruke u listi razgovora</string>
   <string name="pref_show_sms_template_summary">Automatski kopiraj i ispuni kodove za provjeru</string>
   <string name="pref_sms_theme_title">Postavke teme</string>
   <string name="pref_summary_allow_si_sl_push">Dopusti primanje obavijesti WAP push poruka (SI/SL)</string>
@@ -560,7 +560,7 @@ Provedeni pokušaj: %s."</string>
   <string name="unsticked_conversation">Trenutan razgovor već odznačen</string>
   <string name="unsupported_media_format">Nepodržani %1$s format</string>
   <string name="user_agreement1">Pročitajte važeće uvjete pažljivo prije nego li instalirate dodatan softver ili koristite ovaj proizvod.</string>
-  <string name="user_agreement2">Korisnički Sporazum</string>
+  <string name="user_agreement2">Uvjeti Pružanja Usluge</string>
   <string name="user_agreement3">" i "</string>
   <string name="user_agreement4">Pravila o Privatnosti</string>
   <string name="user_agreement5">Dodirivanjem "U redu", slažete se s našim Uvjeti Pružanja Usluge i Pravila o Privatnosti.</string>

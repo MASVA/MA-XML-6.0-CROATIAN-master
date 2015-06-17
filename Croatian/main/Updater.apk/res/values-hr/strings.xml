@@ -23,8 +23,8 @@
   <string name="boot_recovery">Ponovno pokrenuti u Recovery mode?</string>
   <string name="button_text_check">Provjeri za ažuriranja</string>
   <string name="button_text_later_reboot">Kasnije</string>
-  <string name="button_text_reboot">Ponovno pokrenite uređaj</string>
-  <string name="button_text_reboot_hm">Ponovno pokrenite uređaj</string>
+  <string name="button_text_reboot">Ponovno pokreni</string>
+  <string name="button_text_reboot_hm">Ponovno pokreni</string>
   <string name="button_text_update">Ažuriraj</string>
   <string name="cancel_download">Zaustaviti preuzimanje ažuriranja?</string>
   <string name="cancel_download_buton_text">Odustani</string>
@@ -175,10 +175,10 @@ Ali možete sudjelovati sljedeći utorak."</string>
   <string name="update_feedback_need_network">Prvo se povežite na mrežu</string>
   <string name="update_feedback_need_update">Morate prvo ažurirati svoj ​​sustav na najnoviju razvojnu verziju.</string>
   <string name="update_feel">Što vi mislite?</string>
-  <string name="update_general">Tako-tako</string>
-  <string name="update_happy">Super!</string>
+  <string name="update_general">Ravnodušan</string>
+  <string name="update_happy">Zadovoljan!</string>
   <string name="update_monthly_build_only">Samo ažuriraj za mjesečne verzije</string>
-  <string name="update_sad">Hmm (nije dobro)</string>
+  <string name="update_sad">Razočaran</string>
   <string name="update_success">Uređaj je ažuriran</string>
   <string name="update_success_body">Verzija: %s</string>
   <string name="update_success_reboot_immediately">Uređaj je ažuriran</string>

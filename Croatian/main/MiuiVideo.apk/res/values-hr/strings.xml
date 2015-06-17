@@ -128,6 +128,7 @@
   <string name="edit_comment">Dodaj komentar</string>
   <string name="elipsis">…</string>
   <string name="empty_keyword_hint">Polje ne može biti prazno</string>
+  <string name="empty_tv_exiting">Izlaz ...</string>
   <string name="episode_name_format">第%1$s集</string>
   <string name="episode_suffix">"Ep. %d "</string>
   <string name="error_empty_filter_title">Nema rezultata</string>

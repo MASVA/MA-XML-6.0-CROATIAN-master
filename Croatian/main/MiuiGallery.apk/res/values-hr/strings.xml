@@ -135,8 +135,8 @@
   <string name="comfirm_delete_current_album">Izbrisati ovaj album?</string>
   <string name="comma">, </string>
   <string name="confirm">U redu</string>
-  <string name="confirm_all_photo_are_this_people_face">Dodati sve fotografije toj osobi?</string>
-  <string name="confirm_all_photo_not_this_people_face">Nema podudaranja?</string>
+  <string name="confirm_all_photo_are_this_people_face">Povezati sve fotografije s %s?</string>
+  <string name="confirm_all_photo_not_this_people_face">Nema podudaranja za %s?</string>
   <string name="confirm_delete">Izbrisati fotografije (%s)?</string>
   <string name="confirm_delete_has_cloud_image_video">"Izbrisati fotografije (%s) na ovom uređaju i u Mi Cloudu?"</string>
   <string name="confirm_delete_has_cloud_local_image_video">"Izbrisati fotografije (%s) na ovom uređaju i u Mi Cloudu?"</string>
@@ -147,7 +147,8 @@
   <string name="confirm_download_video_message">Morate završiti s preuzimanjem ovog videozapisa prije nego što ga možete pogledati. Preuzimanje će se nastaviti kada je WLAN dostupan.</string>
   <string name="confirm_download_video_title">Preuzmi videozapis</string>
   <string name="confirm_face">Podudaranje</string>
-  <string name="confirm_left_photo_will_move_out">"Na fotografiji nema ove osobe?"</string>
+  <string name="confirm_left_photo_will_move_in">%s je na svim ostalim fotografijama?</string>
+  <string name="confirm_left_photo_will_move_out">""%s nije na nijednoj od preostalih fotografija?"</string>
   <string name="confirm_merge_face_albums">" "&lt;Data&gt; Spojiti ovaj album s %s? &lt;/Data&gt;" "</string>
   <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Spojiti ove albume s %s? &lt;/Data&gt;" "</string>  
   <string name="confirm_not_face">Nije ova osoba</string>
@@ -224,6 +225,7 @@
   <string name="error_title">"Ne mogu sinkr."</string>
   <string name="error_unauthorized">Sinkr. onemogućena zbog previše pokušaje prijave</string>
   <string name="error_unknown_host">"Ne mogu se povezati na mrežu. Provjerite vašu podatkovnu vezu i pokušajte ponovno."</string>
+  <string name="event_create_long_photo">Izrada fotografije…</string>
   <string name="event_manage_photos">Upravljanje fotografijama</string>
   <string name="exit">Izlaz</string>
   <string name="exit_share">Napusti album</string>
@@ -249,7 +251,7 @@
   <string name="facetan">Preplanulo lice</string>
   <string name="fail_hint">Radnja nije uspjela</string>
   <string name="fail_init_gallery_db_helper">"Ne mogu učitati bazu podataka Galerije"</string>
-  <string name="fail_to_download_n_items">"Ne mogu preuzeti %s"</string>
+  <string name="fail_to_download_n_items">"Ne mogu preuzeti stavaka (%s)"</string>
   <string name="fail_to_pick_email">Nevažeća E-pošta</string>
   <string name="fail_to_sync_album">"Ne mogu sinkronizirati album. Provjerite vašu podatkovnu vezu i pokušajte ponovno."</string>
   <string name="file_not_exist_message">"Datoteka ne postoji"</string>
@@ -319,10 +321,11 @@
   <string name="internal_sdcard_root">Root direktorij SD kartice</string>
   <string name="invalid_invition_url">Neispravan URL pozivnice.</string>
   <string name="invalid_recipient_message">Imena primatelja koje ste unijeli su nevažeća</string>
+  <string name="is">Je li ovo %s?</string>
   <string name="iso">ISO</string>
-  <string name="item_not_sync_for_origin_image">"Ne mogu preuzeti ovu sliku jer nije sinkronizirana s vašim cloudom."</string>
-  <string name="item_not_sync_for_origin_video">"Ne mogu preuzeti ovaj videozapis jer nije sinkroniziran s vašim cloudom."</string>
-  <string name="item_not_sync_for_refocus_data">"Ne mogu preuzeti preusmjerene podatke za ovu sliku jer nisu sinkronizirani s vašim cloudom."</string>
+  <string name="item_not_sync_for_origin_image">"Ne mogu preuzeti fotografije koje nisu sinkronizirane s Mi Cloudom."</string>
+  <string name="item_not_sync_for_origin_video">"Ne mogu preuzeti videozapise koji nisu sinkronizirani s Mi Cloudom."</string>
+  <string name="item_not_sync_for_refocus_data">"Ne mogu fokusirati podatke za fotografije koje nisu sinkronizirane s Mi Cloudom."</string>
   <string name="kick_owner_user_positive_button_text">Ukloni</string>
   <string name="kick_owner_user_title">Ukloniti ovog člana?</string>
   <string name="kick_sharer">Ukloni dijeljitelja</string>
@@ -390,7 +393,7 @@
   <string name="name_wrong">"Ovo nije %s"</string>
   <string name="negative">Negativan</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
-  <string name="network_connected_rescan">Povežiste se na internet i pokušajte ponovo</string>
+  <string name="network_connected_rescan">"Ne mogu se povezati na mrežu"</string>
   <string name="new_device_tips">"Dodirnite za prikaz 
 uređaja"</string>
   <string name="no">Ne</string>
@@ -401,12 +404,13 @@ uređaja"</string>
   <string name="no_network_connected">Nema dostupnih mrežnih veza</string>
   <string name="no_picture_or_video">Prazno</string>
   <string name="no_secret_photo">Nema sakrivenih fotografija</string>
-  <string name="no_storage_disable_cloud_albums">Cloud je nedostupan.</string>
+  <string name="no_storage_disable_cloud_albums">Mi Cloud je nedostupan.</string>
   <string name="no_such_album">Album nije pronađen</string>
   <string name="no_such_item">"Ne mogu pronaći stavku"</string>
   <string name="no_thumbnail">Nema sličica</string>
   <string name="none_picture">Nema slika</string>
   <string name="not_auto_create_recent_album">Poništi stvaranje favorita</string>
+  <string name="not_is">Ovo nije %s?</string>
   <string name="not_now">Ne sada</string>
   <string name="not_show_hidden_albums">"Ne prikazuj skrivene albume"</string>
   <string name="old">Staro</string>
@@ -496,6 +500,7 @@ uređaja"</string>
   <string name="remove_from_secret_unfinished_message_with_count">"%1$s nije uklonjeno iz sakrivenog albuma"</string>
   <string name="remove_hidden_album">Prikaži</string>
   <string name="remove_recent_album">Ukloni iz albuma favorita</string>
+  <string name="rename_event">Preimenuj događaj</string>
   <string name="rename_face_album">Promjeni naziv</string>
   <string name="rename_fail_msg">"Ne mogu promjeniti naziv"</string>
   <string name="rename_failed">"Ne mogu preimenovati"</string>
@@ -534,7 +539,7 @@ uređaja"</string>
   <string name="select_auto_upload_albums">Odaberite albume za sinkr.</string>
   <string name="select_image">Odaberi fotog.</string>
   <string name="select_item">Odaberi stavku</string>
-  <string name="select_item_face">Fotografija od %1</string>
+  <string name="select_item_face">Fotografija od %s'"</string>
   <string name="select_too_much_to_send_tips">"Maks. %d"</string>
   <string name="select_video">Odaberite videoz.</string>
   <string name="send">Pošalji</string>
@@ -554,7 +559,7 @@ uređaja"</string>
   <string name="set_screensaver_path_title">Dijaprojekcija čuvara zaslona</string>
   <string name="set_wallpaper">Postavljanje slike pozadine…</string>
   <string name="settings">Postavke</string>
-  <string name="settings_i_xiaomi_com">Pregledajte sve svoje slike na www.mi.com/micloud</string>
+  <string name="settings_i_xiaomi_com">"Pregledajte fotografije koje ste sinkronizirali s Mi Cloudom na www.mi.com/micloud"</string>
   <string name="shadow">Sjene</string>
   <string name="share_album">Podijeli album</string>
   <string name="share_album_owner">Vlasnik</string>
@@ -563,6 +568,7 @@ uređaja"</string>
   <string name="share_by_email_successfully">Podijeljeno %1$s</string>
   <string name="share_current_album">Podijelite trenutni album</string>
   <string name="share_public_url_text">Podijelio sam %1$s album s tobom. Pregledaj ga na %2$s</string>
+  <string name="share_title_more">Više</string>
   <string name="sharer_quota_fulfiled">"Već ste podijelili ovaj album sa maksimalnim brojem korisnika."</string>
   <string name="sharpen">Izoštri</string>
   <string name="show_all">Slike i videozapisi</string>
@@ -646,6 +652,7 @@ uređaja"</string>
   <string name="wandoujia">SnapPea</string>
   <string name="warn">Upozorenje</string>
   <string name="wechat">WeChat</string>
+  <string name="wechat_timeline_title">WeChat timeline</string>
   <string name="weibo">Weibo</string>
   <string name="weikan_weikan">Weikan TV</string>
   <string name="weixin">WeChat</string>

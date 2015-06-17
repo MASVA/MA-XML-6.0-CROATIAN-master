@@ -15,10 +15,10 @@
   <string name="corpus_label_global">Sve</string>
   <string name="corpus_label_web">Internet</string>
   <string name="corpus_selection_heading">Pretraži</string>
-  <string name="cta_declaration">Za sve mogućnosti pretraživanja, trebamo se povezati na mrežu, odrediti vaš položaj, pročitati zapise poziva, pročitati imenik, itd. Slažete li se?</string>
+  <string name="cta_declaration">"Ova značajka treba povezivanje s internetom, pristup lokaciji vašeg uređaja, te pregled povijesti poziva i kontakata za normalan rad."</string>
   <string name="cta_declaration_ignore">"Ne prikazuj ponovo"</string>
-  <string name="cta_declaration_negative_text">Prekid</string>
-  <string name="cta_declaration_positive_text">U redu i nastavi</string>
+  <string name="cta_declaration_negative_text">Izlaz</string>
+  <string name="cta_declaration_positive_text">Dopusti</string>
   <string name="cta_declaration_title">Uvjeti Pružanja Usluge</string>
   <string name="default_search_domain">.google.com</string>
   <string name="device_settings_category_title">Izbriši prečace</string>
@@ -50,12 +50,12 @@
   <string name="searchable_lable_music">Glazba</string>
   <string name="searchable_lable_o2o">o2o</string>
   <string name="searchable_lable_video">Video</string>
-  <string name="searchable_sources">Online dostupni resursi</string>
-  <string name="send_secret_code">Pošalji tajni kod</string>
+  <string name="searchable_sources">Online</string>
+  <string name="send_secret_code">Pošalji kod</string>
   <string name="system_search_category_title">Telefon</string>
   <string name="voice_search_hint_quotation_end">”</string>
   <string name="voice_search_hint_quotation_start">“</string>
   <string name="voice_search_hint_title">Pokušajte reći:</string>
-  <string name="xiaomi_search_label">Online rezultati</string>
+  <string name="xiaomi_search_label">Rezultati</string>
   <string name="xiaomi_suggest_base">http://global.search.xiaomi.net/global/v2/sug</string>
 </resources>
