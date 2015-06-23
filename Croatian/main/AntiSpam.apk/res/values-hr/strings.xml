@@ -131,17 +131,13 @@
   <string name="log_count">(%d)</string>
   <string name="mark_agent">Posrednik</string>
   <string name="mark_agent_block">Prijavljen kao posrednik</string>
-  <string name="mark_banking_insurance">Prodaja osiguranja</string>
-  <string name="mark_banking_insurance_block">Ulaganja &amp; osiguranje</string>
-  <string name="mark_express">Dostavljač</string>
-  <string name="mark_express_block">Prijavljen kao dostavljač</string>
   <string name="mark_fraud">Prevarant</string>
   <string name="mark_fraud_block">Prijavljen kao prevarant</string>
-  <string name="mark_meal">Dostava hrane</string>
-  <string name="mark_meal_block">Prijavljen kao dostava hrane</string>
+  <string name="mark_harass">Uznemiravatelj</string>
+  <string name="mark_harass_block">Prijavljen kao uznemiravatelj</string>
   <string name="mark_number_agent">Agent</string>
-  <string name="mark_number_banking">Proadaja osiguranja</string>
   <string name="mark_number_fraud">Prevarant</string>
+  <string name="mark_number_harass">Uznemiravatelj</string>
   <string name="mark_number_info">"
 Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potrazi za stanom). Blokirajte samo one brojeve iz kojih nikada ne želite primati pozive."</string>
   <string name="mark_number_sell">Telemarketer</string>
@@ -150,7 +146,7 @@ Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potraz
   <string name="mark_number_setting_guide_content3">Prijavili ste broj kao %1$s. Želite li blokirati pozive s brojeva prijavljene kao %2$s?</string>
   <string name="mark_number_setting_guide_forward">Postavke liste blokiranja</string>
   <string name="mark_number_setting_guide_title">Blokiraj prijavljene brojeve</string>
-  <string name="mark_sell">Telemarketer</string>
+  <string name="mark_sell">Trgovac</string>
   <string name="mark_sell_block">Prijavljen kao trgovac</string>
   <string name="marked_by_others">"%d ostali korisnici su je označili kao "</string>
   <string name="marked_by_user">" označili ste je kao "</string>

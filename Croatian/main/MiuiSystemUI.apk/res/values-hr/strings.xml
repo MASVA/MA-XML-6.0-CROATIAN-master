@@ -79,12 +79,15 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="description_direction_left">"Kliznite lijevo za %s."</string>
   <string name="description_direction_up">"Kliznite gore za %s."</string>
   <string name="description_target_search">"Pretraži"</string>
+  <string name="disable_notification_summary">Obavijest se neće prikazivati nakon što je onemogućite</string>
+  <string name="disable_notification_title">Onemogući obavijest</string>
   <string name="dismount_storage">"Ne"</string>
   <string name="dlg_confirm_kill_storage_users_text">"Ako uključite USB pohranu, neke aplikacije koje upotrebljavate zaustavit će se i možda neće biti dostupne dok ne isključite USB pohranu."</string>
   <string name="dlg_confirm_kill_storage_users_title">"Uključi USB pohranjivanje"</string>
   <string name="dlg_error_title">"Radnja USB-a nije uspjela"</string>
   <string name="dlg_ok">"U redu"</string>
   <string name="drive_mode_tip">"Vi ste u automobilskom načinu"</string>
+  <string name="expanded_notification_manager">Upravljaj</string>
   <string name="ext_media_badremoval_notification_message">"USB pohranu isključite na siguran način prije uklanjanja kako biste izbjegli gubitak podataka."</string>
   <string name="ext_media_badremoval_notification_title">"USB pohrana je neočekivano uklonjena"</string>
   <string name="ext_media_checking_notification_message">"Traženje pogrešaka."</string>
@@ -138,6 +141,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="notification_otg_trackball_out">Mišji trbuh nije povezan</string>
   <string name="notification_otg_unknow_in">OTG uređaj je povezan</string>
   <string name="notification_otg_unknow_out">OTG uređaj nije povezan</string>
+  <string name="notification_template_text">Obavijest, dodirnite za prikaz</string>
   <string name="oldman_airplane_mode_text">Zrakoplov</string>
   <string name="oldman_incall_text">Poziv</string>
   <string name="oldman_status_bar_time_format_12">h:mm</string>

@@ -646,6 +646,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="check_update">Provjeri ažuriranja</string>
   <string name="checkbox_notification_same_as_incoming_call">Koristi glasnoću dolaznog poziva za obavijesti</string>
   <string name="checking_for_updates">Provjera ažuriranja…</string>
+  <string name="choose_smartcover_type">Odaberite vrstu futrole</string>
   <string name="choose_timezone">Odabir vremenske zone</string>
   <string name="cleaner">Čistač</string>
   <string name="clear_activities">Izbriši zadane postavke</string>
@@ -911,9 +912,9 @@ Ta postavka utječe na sve korisnike telefona."</string>
   <string name="device_admin_title">Administracija uređaja</string>
   <string name="device_admin_warning">Aktiviranjem ovog administratora dopustit ćete aplikaciji %1$s da izvede sljedeće postupke:</string>
   <string name="device_cpu">CPU</string>
-  <string name="device_cpu2_info">2-jezgreni </string>
-  <string name="device_cpu4_info">4-jezgreni </string>
-  <string name="device_cpu8_info">8-jezgreni </string>
+  <string name="device_cpu2_info">"2-jezgreni "</string>
+  <string name="device_cpu4_info">"4-jezgreni "</string>
+  <string name="device_cpu8_info">"8-jezgreni "</string>
   <string name="device_edit_title">Preimenuj uređaj</string>
   <string name="device_feedback">Pošalji povr. informacije o uređaju</string>
   <string name="device_info_default">Nepoznato</string>
@@ -944,9 +945,9 @@ Ta postavka utječe na sve korisnike telefona."</string>
   <string name="dialog_yes">Da</string>
   <string name="dirac_control">Optimiziranje kvalitete zvuka</string>
   <string name="dirac_mode_earbuds">Mi slušalice</string>
-  <string name="dirac_mode_general">Općenite</string>
-  <string name="dirac_mode_general_earbuds">Općenite</string>
-  <string name="dirac_mode_general_inear">Općenite In-Ear</string>
+  <string name="dirac_mode_general">Opće</string>
+  <string name="dirac_mode_general_earbuds">Opće</string>
+  <string name="dirac_mode_general_inear">Opće In-Ear</string>
   <string name="dirac_mode_in_ear">Mi In-Ear lite</string>
   <string name="dirac_mode_off">Dirac isključen</string>
   <string name="dirac_mode_piston_1">Mi piston-1</string>
@@ -1858,6 +1859,7 @@ i pokrenite ga."</string>
   <string name="no_updates_warning2">"Opustite se, obavijestiti ćemo vas ako bude ažuriranja."</string>
   <string name="noise_suppression">Utišavanje okolne buke</string>
   <string name="normal_date_format">Regionalno (%s)</string>
+  <string name="normal_smartcover_title">Neprozirni prednji pokrov</string>
   <string name="not_installed">Nije instalirano</string>
   <string name="notification_app_settings_button">Postavke obavijesti</string>
   <string name="notification_breathing_light_color_title">Boja LED-a kod obavijesti</string>
@@ -2575,6 +2577,7 @@ Preostalo pokušaja:"</string>
   <string name="slot_name">SIM %d</string>
   <string name="slot_status_title">IMEI podaci</string>
   <string name="small_font">Mali</string>
+  <string name="smallwindow_smartcover_title">Prozirni prednji pokrov</string>
   <string name="smartcover_sensitive_title">Smartcover način</string>
   <string name="sms_application_title">Zadana aplikacija za SMS</string>
   <string name="sms_change_default_dialog_text" formatted="false">Koristiti aplikaciju %s umjesto aplikacije %s kao svoju aplikaciju za SMS?</string>
