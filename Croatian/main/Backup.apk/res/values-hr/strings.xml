@@ -90,7 +90,7 @@
   <string name="enable_encrypt_summery2">"Vaše sig. kopije će biti automatski šifrirane. Morate se prijaviti sa svojim Mi Računom da im možete pristupiti."</string>
   <string name="enable_encrypt_title">Šifriraj sig. kopije</string>
   <string name="enable_encrypt_xiaomi_account">Sig. kopija od %1$s, obrišite trenutni račun, i prijavite se kao %2$s da vratite korisničke podatke.</string>
-  <string name="err_authentication_failed">Authentication failed</string>
+  <string name="err_authentication_failed">Provjera autentičnosti nije uspjela</string>
   <string name="err_bakfile_broken">"Ne mogu koristiti ovu Sig. kopiju."</string>
   <string name="err_low_storage">Nedovoljno prostora</string>
   <string name="err_unknown">Nepoznata greška</string>
