@@ -116,6 +116,7 @@
   <string name="account_setup_failed_dlg_certificate_message">Sigurno povezivanje s poslužiteljem nije moguće.</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Sigurno povezivanje s poslužiteljem nije moguće.
 (%s)"</string>
+  <string name="account_setup_failed_dlg_device_locked">Vaša adresa je blokirana zaključavanjem uređaja</string>
   <string name="account_setup_failed_dlg_edit_details_action">Uredi pojedinosti</string>
   <string name="account_setup_failed_dlg_server_message">Povezivanje s poslužiteljem nije moguće.</string>
   <string name="account_setup_failed_dlg_server_message_fmt">"Povezivanje s poslužiteljem nije moguće.
@@ -133,7 +134,7 @@
   <string name="account_setup_incoming_imap_path_prefix_hint">Izborno</string>
   <string name="account_setup_incoming_imap_path_prefix_label">Prefiks IMAP putanje</string>
   <string name="account_setup_incoming_mail_adress_label">Adresa e-pošte</string>
-  <string name="account_setup_incoming_mail_domain_hint">Ovo polje ne može biti prazno</string>
+  <string name="account_setup_incoming_mail_domain_hint">Opcija</string>
   <string name="account_setup_incoming_mail_domain_label">Domena</string>
   <string name="account_setup_incoming_password_label">Zaporka</string>
   <string name="account_setup_incoming_port_label">Port</string>
@@ -250,6 +251,8 @@
   <string name="attachment_mgr_name">Privici</string>
   <string name="attachment_not_exists">Privitak nije dostupan!</string>
   <string name="attachment_not_found">"Ne mogu preuzeti privitak."</string>
+  <string name="attachment_open_SecurityException_hint">Provjera dopuštenja, oštećenja i sl.</string>
+  <string name="attachment_open_SecurityException_title">Neuspjelo otvaranje datoteke</string>
   <string name="attachment_stop_all">Zaustavi</string>
   <string name="attachment_text">Tekst</string>
   <string name="attachment_type_blocked">Nažalost, ne možete spremiti niti otvoriti tu vrstu privitka.</string>
@@ -387,12 +390,13 @@
   <string name="device_admin_label">E-pošta</string>
   <string name="device_not_activiey_lint1">Upravitelj uređaja nije aktiviran</string>
   <string name="device_not_activiey_lint2">Usluga E-pošte ne radi s Exchange</string>
-  <string name="dialog_account_auto_sync_setting_no_open">"Sinkronizacija pošte isključena, ne mogu primati nove poruke."</string>
-  <string name="dialog_auto_download_failed">"Ne mogu završiti autom. preuzimanje, pokušajte ručno preuzimanje."</string>
-  <string name="dialog_auto_sync_setting_no_open">"Sinkronizacija pošte isključena, ne mogu primati nove poruke."</string>
-  <string name="dialog_insufficient_space_for_single_account_on_internal">Nedovoljno prostora za %s.</string>
-  <string name="dialog_insufficient_space_on_external">"Ne mogu završiti autom. preuzimanje. Nema dovoljno prostora na vanjskoj pohrani."</string>
-  <string name="dialog_insufficient_space_on_internal">Pomanjkanje prostora za pohranu za autom. preuzimanje privitaka</string>
+  <string name="dialog_account_auto_sync_setting_no_open">"Ne mogu primati nove poruke. Sinkronizacija je isključena."</string>
+  <string name="dialog_auto_download_failed">"Ne mogu preuzeti automatski."</string>
+  <string name="dialog_auto_sync_setting_no_open">"Ne mogu primati nove poruke. Sinkronizacija je isključena."</string>
+  <string name="dialog_gmail_proxy_server_is_error">Pogreška Gmail proxy poslužitelja.</string>
+  <string name="dialog_insufficient_space_for_single_account_on_internal">Nedovoljno prostora za preuzimanje privitaka za %s.</string>
+  <string name="dialog_insufficient_space_on_external">"Ne mogu preuzeti privitak. Nema dovoljno prostora na vanjskoj pohrani."</string>
+  <string name="dialog_insufficient_space_on_internal">Nema dovoljno prostora na vanjskoj pohrani</string>
   <string name="disable_admin_warning">UPOZORENJE: Deaktivacijom ovlasti aplikacije E-pošta za upravljanje uređajem izbrisat će se svi računi e-pošte koji traže tu ovlast, kao i e-pošta, kontakti, događaji kalendara i drugi podaci.</string>
   <string name="discard">Zanemari</string>
   <string name="discard_drafts">Odbaci skice</string>
@@ -706,7 +710,7 @@ Kopija: %4$s
   <string name="outbox_alert_button_confirm">Uredi</string>
   <string name="outbox_alert_button_no_resend">"Nemoj poslati"</string>
   <string name="outbox_alert_button_resend">Pošalji ponovo</string>
-  <string name="outbox_alert_certificate_error">Odstupanje E-mail certifikata, ažurirajte ga</string>
+  <string name="outbox_alert_certificate_error">"Obratite se administratoru sustava e-pošte i ažurirajte svoj certifikat."</string>
   <string name="outbox_alert_description_auth_error">Pogreška provjere autentičnosti s poslužitelja tijekom izlazne sinkronizacije</string>
   <string name="outbox_alert_description_cannot_authenticate">"Ne mogu provjeriti autentičnost %s."</string>
   <string name="outbox_alert_description_http_error">HTTP Pogreška tijekom izlazne sinkronizacije</string>
@@ -718,7 +722,7 @@ Kopija: %4$s
   <string name="outbox_alert_edit_resend">Uredi i ponovo pošalji</string>
   <string name="outbox_alert_failed_edit_resend">"Ne mogu poslati. Uredi i pokušaj ponovo."</string>
   <string name="outbox_alert_mailbox_not_found">Adresa E-pošte nije pronađena</string>
-  <string name="outbox_alert_rw_io_error">Odstupanje čitanje-pisanje izuzetka pošte, pokušajte napisati i poslati ga opet</string>
+  <string name="outbox_alert_rw_io_error">Dogodila se pogreška. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="outbox_alert_select_operation">Odaberite radnju</string>
   <string name="outbox_alert_title_sent_failed">"Ne mogu poslati e-poštu"</string>
   <string name="outbox_alert_description_time_out">Povezivanje s mrežom je isteklo</string>
@@ -815,8 +819,8 @@ Kopija: %4$s
   <string name="quick_4">Hajdemo dogovoriti sastanak na kojem ćemo raspraviti o tome.</string>
   <string name="quick_reply_dialog_title">Odaberite odgovor</string>
   <string name="quick_reply_hint">Odgovori svim %1$d osobama</string>
-  <string name="quick_reply_hint_bcc">(U BCC)</string>
-  <string name="quick_reply_hint_cc">(U CC)</string>
+  <string name="quick_reply_hint_bcc">"(U BCC)"</string>
+  <string name="quick_reply_hint_cc">"(U CC)"</string>
   <string name="quick_responses_empty_view">Nema brzih odgovora</string>
   <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
   <string name="quote_divider_1">-------- 原始邮件 --------</string>
@@ -922,6 +926,7 @@ Kopija: %4$s
   <string name="ser_resp_err_map_or">ili</string>
   <string name="ser_resp_err_map_pserr">Netočno korisničko ime ili zaporka</string>
   <string name="ser_resp_err_map_serclosed">Poslužitelj je zatvoren</string>
+  <string name="ser_resp_err_map_serclosed_url_tag">Kako to riješiti?</string>
   <string name="ser_resp_err_map_ssl">"Odaberite 'SSL/TLS (Prihvati sve certifikate)' u 'Vrsta sigurnosti'"</string>
   <string name="set_network">Postavljanje mreže</string>
   <string name="settings_activity_title">E-pošta</string>
@@ -1001,6 +1006,8 @@ Kopija: %4$s
   <string name="unread_from_someone">Nepročitana pošta od %s</string>
   <string name="unread_string">Razgovor nije pročitan</string>
   <string name="unsent_messages_in_outbox">Broj neposlanih poruka u mapi %2$s: %1$s</string>
+  <string name="unzip_file_failed">Raspakiravanje nije uspjelo!</string>
+  <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
   <string name="updated_at">Osvježeno u: %1$s</string>
   <string name="updated_just_now">Osvježeno upravo sada</string>
   <string name="upload_log">Pošalji dnevnike</string>
@@ -1010,7 +1017,7 @@ Kopija: %4$s
   <string name="upload_log_title">Potvrdite slanje</string>
   <string name="upload_log_yes">Pošalji</string>
   <string name="uploading_logs">Slanje dnevnika…</string>
-  <string name="validation_failed_prompt">"Ne mogu provjeriti račun. Provjerite postavke poslužitelja %s"</string>
+  <string name="validation_failed_prompt">"Ne mogu provjeriti račun. Provjerite postavke poslužitelja za %s"</string>
   <string name="veiled_address"/>
   <string name="veiled_alternate_text"/>
   <string name="veiled_alternate_text_unknown_person"/>

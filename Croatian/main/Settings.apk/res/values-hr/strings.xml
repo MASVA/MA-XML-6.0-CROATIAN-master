@@ -682,6 +682,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="common_settings">Brze postavke</string>
   <string name="complete_settings">Opće postavke</string>
   <string name="computing_size">Izračunavanje…</string>
+  <string name="config_charging_function_name">Punjenje</string>
   <string name="condition_provider_security_warning_summary">Davatelj uvjeta %1$s moći će dodati uvjete za izlaz načinu Ne ometaj.</string>
   <string name="condition_provider_security_warning_title">Želite li omogućiti uslugu %1$s?</string>
   <string name="config_list_label">Konfigurirane mreže</string>
@@ -1498,7 +1499,7 @@ Ako je tekst vašeg sustava još uvijek premalen, pokušajte koristiti "</string
   <string name="lock_screen_notifications_summary_show">Prikaži sav sadržaj obavijesti</string>
   <string name="lock_screen_notifications_title">Kada je uređaj zaključan</string>
   <string name="lock_screen_unlock_show">Preskoči povlačenje zaslona</string>
-  <string name="lock_screen_unlock_show_summary">Nakon buđenja idi izravno na Početni zaslon ili unos zaporke</string>
+  <string name="lock_screen_unlock_show_summary">Idi izravno na Početni zaslon ili unos zaporke nakon buđenja</string>
   <string name="lock_settings">Sigurnost zaslona</string>
   <string name="lock_settings_common_title">Postavke zaključavanja</string>
   <string name="lock_settings_picker_settings">Postavite zaključavanje zaslona</string>
@@ -2939,6 +2940,8 @@ Googleov pristup sinkronizaciji podataka za mogućnost pristupa kontaktima, sast
   <string name="usage_type_video">"Videozapis"</string>
   <string name="usage_type_wake_lock">Zadrži u aktivnom stanju</string>
   <string name="usage_type_wifi_running">WLAN uključen</string>
+  <string name="usb_charging_summary">Isključi sve ostale značajke USB povezivanja za ubrzanje punjenja.</string>
+  <string name="usb_charging_title">Ubrzaj punjenje</string>
   <string name="usb_audio_disable_routing">Onemogući USB audiousmj.</string>
   <string name="usb_audio_disable_routing_summary">Onemogući aut. usmjeravanje na USB audioperiferiju</string>
   <string name="usb_charging_summary">Omogućuje vam prekid povezivanja i prijenos podataka i datoteka s računalom i stavlanja uređaja samo u način rada punjenja.</string>

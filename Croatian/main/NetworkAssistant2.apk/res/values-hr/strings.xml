@@ -141,7 +141,7 @@ Za više informacija provjerite poruku koju ste dobili od svog operatera"</strin
   <string name="load_fail">"Ne mogu učitati"</string>
   <string name="local_ip_exception_summary">"Nije bilo moguće dobiti lokalnu IP adresu. Da prijavite MIUI-u ovaj problem, idite u aplikaciju Prijava grešaka i pošaljite izvješće sa svog uređaja."</string>
   <string name="lock_screen_setting_summary">Prikaži obavijest kada se iskoristi preko 100kB u manje od 2 dana</string>
-  <string name="lock_screen_traffic_guide_notification_summary">Mob. podaci korišteni tijekom zaklj. zaslona.</string>
+  <string name="lock_screen_traffic_guide_notification_summary">Dodirni za upravljanje uporab. podataka</string>
   <string name="lock_screen_traffic_guide_notification_title">Iskorišteno %s mob. podataka</string>
   <string name="lock_screen_traffic_notify_body">Zaključano za %2$s na %1$s, iskorišteno %3$s podataka</string>
   <string name="lock_screen_traffic_purchase_textview">Nadoplatite bon</string>
@@ -196,7 +196,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="mian_page_primary_txt">Međunarodni roaming</string>
   <string name="miuishare_title_more">Više</string>
   <string name="miuishare_title_share">Podijeli</string>
-  <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
+  <string name="miuishare_wechat_timeline_title">Wechat Moments</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="network_assistant_upgraded_body">Dodirni za prikaz</string>
   <string name="network_assistant_upgraded_title">Ažurirano</string>
@@ -216,7 +216,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
   <string name="network_operator_exception_summary">"Ne mogu aktivirati SIM karticu. Provjerite je li SIM kartica ispravno umetnuta i da je vaša tarifa aktivirana."</string>
   <string name="network_permission_exception_tips">"Ne mogu koristiti mobilne podatke za povezivanje na mrežu"</string>
-  <string name="network_roaming_exception_tips">"Ne mogu koristiti mobilne podatke u roamingu za povezivanje na mrežuk."</string>
+  <string name="network_roaming_exception_tips">"Ne mogu koristiti mobilne podatke u roamingu za povezivanje na mrežu."</string>
   <string name="network_route_exception_detail">"Možda postoji problem s routerom na koji ste povezani:
 
 "&lt;b&gt;"1. Problemi javne WLAN mreže

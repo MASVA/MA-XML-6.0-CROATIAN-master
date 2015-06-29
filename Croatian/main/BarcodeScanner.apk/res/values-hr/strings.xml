@@ -7,9 +7,9 @@
   <string name="app_details">Aplikacija:</string>
   <string name="app_name">Skener</string>
   <string name="back">Natrag</string>
-  <string name="barcode_into_rectangle">Poravnajte kod u okviru ispod</string>
+  <string name="barcode_into_rectangle">Stavite kod ispod unutar okvira</string>
   <string name="birthday">Rođendan:</string>
-  <string name="camera_error">"Nešto nije u redu s fotoaparatom"</string>
+  <string name="camera_error">"Nešto nije u redu s kamerom"</string>
   <string name="cancel">Odustani</string>
   <string name="choose_picture">Odaberite sliku QR koda</string>
   <string name="close_flash_error">"Ne mogu isključiti svjetiljku"</string>
@@ -43,7 +43,7 @@
   <string name="open_flash_error">"Ne mogu uključiti svjetiljku"</string>
   <string name="phone">Telefon:</string>
   <string name="picker_lable">Fotografija</string>
-  <string name="place_barcode_into_rectangle">Poravnajte kod u okviru ispod</string>
+  <string name="place_barcode_into_rectangle">Stavite kod ispod unutar okvira</string>
   <string name="qq_details">QQ detalji:</string>
   <string name="qr_code_details">Detalji QR koda:</string>
   <string name="recognize">Skeniraj</string>

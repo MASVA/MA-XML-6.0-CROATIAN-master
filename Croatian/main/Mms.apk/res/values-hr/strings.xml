@@ -59,6 +59,10 @@
   <string name="chenghu_disable_mms">Nije moguće koristiti nadimke u MMS-u</string>
   <string name="class_0_message_activity">Poruka klase 0</string>
   <string name="close">Zatvori</string>
+  <string name="cloud_recommend_msg">Dodirnite za sinkr. poruka s Mi Cloudom.</string>
+  <string name="cloud_state_disabled">Sinkr. s Mi Cloud je isključena</string>
+  <string name="cloud_state_sync_finished">Sinkr. s Mi Cloudom</string>
+  <string name="cloud_state_syncing">Sinkr. s Mi Cloud…</string>
   <string name="compressing">Slika je prevelika. Sažimanje…</string>
   <string name="confirm">u redu</string>
   <string name="confirm_add_blacklist_dialog_dspt">Dodati broj na listu zabranjenih?</string>

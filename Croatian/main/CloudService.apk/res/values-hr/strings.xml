@@ -57,9 +57,9 @@ Zadnja Sig. kopija: %2$s"</string>
   <string name="enable_cloud_service_notification">Morate aktivirati MiCloud</string>
   <string name="enable_find_device_error">"Ne mogu isključiti "Pronađi uređaj". %1$s"</string>
   <string name="enable_micloud">Koristi MiCloud</string>
-  <string name="enable_sync">Uključi</string>
-  <string name="enable_sync_dspt">Sinkronizacija je isključena</string>
-  <string name="error_data_in_transfer">Vaši podaci se prenose. Pričekajte %s sati.</string>
+  <string name="enable_sync">Sinkr.</string>
+  <string name="enable_sync_dspt">"Nemoj sinkr."</string>
+  <string name="error_data_in_transfer">Sinkronizacija će završiti za %s sati.</string>
   <string name="error_data_in_transfer_title">MiCloud je nedostupan.</string>
   <string name="error_forbidden">Sinkronizacija je onemogućena zbog problema s vašim Mi Računom</string>
   <string name="error_network">"Ne mogu se povezati na mrežu"</string>
@@ -246,6 +246,10 @@ Možete uključiti/isključiti tu značajku bilo kada u Postavkama."</string>
   <string name="mx_dspt_provision_privacy">"Ova značajka može zatražiti vaš broj telefona. Vaš operater može vam naplatiti SMS poruku korištenu za aktiviranje ove značajke.
   
   
+Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string>
+  <string name="mx_dspt_provision_privacy_2_sim">"Ova značajka može zatražiti vaš broj telefona. Vaš operater može vam naplatiti SMS poruku korištenu za aktiviranje ove značajke.
+ 
+ 
 Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string>
   <string name="mx_dspt_provision_with_voip">Nazovite druge MIUI korisnike besplatno koristeći internetsku vezu. Možete uključiti/isključiti ovu značajku u bilo kojem trenutku u postavkama.</string>
   <string name="mx_sub_dspt_provision">Mi Poruka</string>

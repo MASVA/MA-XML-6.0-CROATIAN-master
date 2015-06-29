@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_to_recover">O vraćanju</string>
   <string name="app_name">Sig. kopija Apk​</string>
   <string name="back_up_task_in_process">Izrada u tijeku</string>
   <string name="back_up_task_unfinished">Sig. kopija nije završena</string>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="alwaysUsePrompt">"Zapamti ovaj izbor"</string>
+  <string name="alwaysUsePrompt">"Zapamti moj izbor"</string>
   <string name="auto_start_warning_allow">Dopusti</string>
   <string name="auto_start_warning_deny">Odbij</string>
   <string name="auto_start_warning_title">Dopustiti %s autom. pokretanje?</string>

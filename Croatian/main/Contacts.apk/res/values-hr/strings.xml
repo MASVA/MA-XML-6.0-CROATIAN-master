@@ -178,7 +178,7 @@
   <string name="contact_edit_title_insert">"Spremi u %s"</string>
   <string name="contact_edit_title_readonly">Kontakt samo za čitanje</string>
   <string name="contact_editor_prompt_multiple_accounts">Spremi kontakt u</string>
-  <string name="contact_editor_prompt_one_account">Vaš novi kontakt bit će sinkroniziran s računom %1$s.</string>
+  <string name="contact_editor_prompt_one_account">Novi kontakt bit će sinkroniziran s računom %1$s.</string>
   <string name="contact_editor_prompt_zero_accounts">Pohrani na uređaju ili na novom mrežnom računu</string>
   <string name="contact_is_readOnly">Nije moguće uređivanje kontakata samo za čitanje.</string>
   <string name="contact_list_loading">"Učitavanje…"</string>
@@ -457,7 +457,7 @@ Razlog: \"%s\""</string>
   <string name="insertContactDescription">Izradi kontakt</string>
   <string name="insertGroupDescription">Izradi skupinu</string>
   <string name="invalidContactMessage">Kontakt ne postoji</string>
-  <string name="keep_local">Zadrži lokalno</string>
+  <string name="keep_local">"Nemoj sinkr."</string>
   <string name="keep_local_btn">Upotrijebi lokalnu pohranu telefona.</string>
   <string name="label_custom_type">"Prilagođeno"</string>
   <string name="label_duplicate_count">(%1$d)</string>
@@ -487,7 +487,7 @@ Razlog: \"%s\""</string>
   <string name="loading_resource_detail_fail">"Ne mogu učitati"</string>
   <string name="loading_resource_detail_info">Učitavanje…</string>
   <string name="local_invisible_directory">Drugo</string>
-  <string name="local_profile_title">Moj lokalni profil</string>
+  <string name="local_profile_title">Moj profil</string>
   <string name="local_search_label">Svi kontakti</string>
   <string name="locale_change_in_progress">Popis kontakata ažurira se da bi se pokazala promjena jezika.</string>
   <string name="login_ok">Prijava</string>
@@ -1119,6 +1119,8 @@ Za dodavanje kontakta na listu favorita :
   <string name="type_mx_msg">Mi Poruke</string>
   <string name="type_outgoing">Odlazni poziv</string>
   <string name="type_voicemail">"Govorna pošta"</string>
+  <string name="unknow_phone_number_call_failed">"Ne mogu nazvati nepoznat broj"</string>
+  <string name="unknow_phone_number_mms_failed">"Ne mogu poslati SMS na nepoznat broj"</string>
   <string name="unknown">Nepoznato</string>
   <string name="unknown_contact_name">Nepoznati kontakt</string>
   <string name="upgrade_in_progress">Popis kontakata se ažurira.</string>
