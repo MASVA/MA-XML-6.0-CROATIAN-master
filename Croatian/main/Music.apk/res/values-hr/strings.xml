@@ -19,7 +19,10 @@
   <string name="artist_name">Izvođač</string>
   <string name="artist_search_title">"Izvođač"</string>
   <string name="artist_view">"Izvođač"</string>
+  <string name="atmd_copyright_info">Usluga streaminga pruža Ultimate Inc.</string>
+  <string name="atmd_mail">service1@ultimobi.com</string>
   <string name="atmd_music">Ultimativno</string>
+  <string name="atmd_tel">Podrška: 0755-86699030</string>
   <string name="audio_picker_title">Odaberi pjesmu</string>
   <string name="auto_download_in_wifi">Automatski preuzmi favorite preko WLAN-a</string>
   <string name="available_playlist_name_format">Novi popis pjesama %d</string>

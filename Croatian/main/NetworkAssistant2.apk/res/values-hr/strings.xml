@@ -296,7 +296,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="pref_daily_adjust">Postavi ograničenje uporabe podataka</string>
   <string name="pref_daily_traffic">Ograničenje uporabe podataka</string>
   <string name="pref_data_usage_ignore_settings">Ignoriraj uporabu za odabrane aplik.</string>
-  <string name="pref_data_usage_ignore_settings_summary">"Nemoj pratiti uporabu podataka odabrane skupine aplikacija"</string>
+  <string name="pref_data_usage_ignore_settings_summary">"Nemoj pratiti uporabu podataka odabranih aplikacija"</string>
   <string name="pref_data_usage_not_set">Postavi ograničenje uporabe podataka</string>
   <string name="pref_free_adjust">Postavi ograničenje uporabe podataka</string>
   <string name="pref_free_traffic_exceed_limit">Obavijesti me kada uporaba podataka dostigne ograničenje</string>
