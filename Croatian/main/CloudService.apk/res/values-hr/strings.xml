@@ -247,7 +247,7 @@ Možete uključiti/isključiti tu značajku bilo kada u Postavkama."</string>
   
   
 Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string>
-  <string name="mx_dspt_provision_privacy_2_sim">"Ova značajka može zatražiti vaš broj telefona. Vaš operater može vam naplatiti SMS poruku korištenu za aktiviranje ove značajke.
+  <string name="mx_dspt_provision_privacy_2_sim">"Ova značajka može zatražiti vaš broj telefona. Vaš operater može vam naplatiti 2 SMS poruke korištene za aktiviranje ove značajke.
  
  
 Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string>

@@ -168,9 +168,9 @@ http://zhushou.xiaomi.com"</string>
   <string name="update_downfull_no_info_title">"Ne mogu preuzeti ažuriranje"</string>
   <string name="update_feedback">Ocijenite ovo ažuriranje</string>
   <string name="update_feedback_end">"Propustili ste glasovanje za ovaj tjedan."</string>
-  <string name="update_feedback_end_sum">Možete se pridružiti svakog utorka.</string>
+  <string name="update_feedback_end_sum">Možete se pridružiti svakog ponedjeljak.</string>
   <string name="update_feedback_expired">"Propustili ste glasovanje za ovaj tjedan.
-Ali možete sudjelovati sljedeći utorak."</string>
+Ali možete sudjelovati sljedeći ponedjeljak."</string>
   <string name="update_feedback_need_account">Morate se prvo prijaviti u svoj Mi Račun</string>
   <string name="update_feedback_need_network">Prvo se povežite na mrežu</string>
   <string name="update_feedback_need_update">Morate prvo ažurirati svoj ​​sustav na najnoviju razvojnu verziju.</string>

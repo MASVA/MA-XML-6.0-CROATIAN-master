@@ -24,8 +24,8 @@
     </plurals>
     <plurals name="cloud_sms_count">
         <item quantity="other">Poruka: %d</item>
-        <item quantity="zero">0 Poruka</item>
-        <item quantity="one">1 Poruka</item>
+        <item quantity="zero">0 poruka</item>
+        <item quantity="one">1 poruka</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"Poruka (%d) nije sinkronizirano"</item>

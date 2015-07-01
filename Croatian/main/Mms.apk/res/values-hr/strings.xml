@@ -439,7 +439,7 @@
   <string name="search_show_more_results">Pikaži više</string>
   <string name="secs">sek</string>
   <string name="security_alert_desc">"Pošiljatelj nije u kontaktima. "&lt;u&gt;&lt;font color="red"&gt;Prijavi ovaj broj&lt;/font&gt;&lt;/u&gt;</string>
-  <string name="security_alert_dialog_desc">Prijaviti ovaj broj (%s) i poruke slanjem na Xiaomi-u na pregled.</string>
+  <string name="security_alert_dialog_desc">Poslati ovaj broj (%s) i poruke na Xiaomi-u na pregled.</string>
   <string name="security_alert_dialog_title">Prijavi</string>
   <string name="select_audio">Odaberi zvuk</string>
   <string name="select_bottom_text">Tekst pri dnu</string>

@@ -270,7 +270,7 @@
   <string name="packages_subtitle">Uključeni paketi</string>
   <string name="percentage">%d%%</string>
   <string name="permission_action_accept">Dopusti</string>
-  <string name="permission_action_prompt">Pitaj</string>
+  <string name="permission_action_prompt">Obavijesti</string>
   <string name="permission_action_reject">Odbij</string>
   <string name="permission_close_permission_control_dialog_msg">"Kada je Upravitelj dopuštenja isključen, aplikacije neće pitati za vaše dopuštenje pristupu vašim kontaktima, povijesti poziva, postavkama promjene sustava ili pristupu kameri i ostalim resursima uređaja."</string>
   <string name="permission_close_permission_control_dialog_title">Isključiti Upravitelja dopuštenja?</string>

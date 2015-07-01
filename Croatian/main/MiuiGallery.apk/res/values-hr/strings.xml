@@ -135,8 +135,6 @@
   <string name="comfirm_delete_current_album">Izbrisati ovaj album?</string>
   <string name="comma">, </string>
   <string name="confirm">U redu</string>
-  <string name="confirm_all_photo_are_this_people_face">Povezati sve fotografije s %s?</string>
-  <string name="confirm_all_photo_not_this_people_face">Nema podudaranja za %s?</string>
   <string name="confirm_delete">Izbrisati fotografije (%s)?</string>
   <string name="confirm_delete_has_cloud_image_video">"Izbrisati fotografije (%s) na ovom uređaju i u Mi Cloudu?"</string>
   <string name="confirm_delete_has_cloud_local_image_video">"Izbrisati fotografije (%s) na ovom uređaju i u Mi Cloudu?"</string>
@@ -147,8 +145,6 @@
   <string name="confirm_download_video_message">Morate završiti s preuzimanjem ovog videozapisa prije nego što ga možete pogledati. Preuzimanje će se nastaviti kada je WLAN dostupan.</string>
   <string name="confirm_download_video_title">Preuzmi videozapis</string>
   <string name="confirm_face">Podudaranje</string>
-  <string name="confirm_left_photo_will_move_in">%s je na svim ostalim fotografijama?</string>
-  <string name="confirm_left_photo_will_move_out">""%s nije na nijednoj od preostalih fotografija?"</string>
   <string name="confirm_merge_face_albums">" "&lt;Data&gt; Spojiti ovaj album s %s? &lt;/Data&gt;" "</string>
   <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Spojiti ove albume s %s? &lt;/Data&gt;" "</string>  
   <string name="confirm_not_face">Nije ova osoba</string>
@@ -492,6 +488,8 @@ uređaja"</string>
   <string name="qzone">QZone</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recognizing_image">Prepoznavanje slike…</string>
+  <string name="recommanded_face_abandon_tip">Uklonjeno iz preporuka</string>
+  <string name="recommanded_face_added_tip">Dodano u \"%s\"</string>
   <string name="redeye">Crvene oči</string>
   <string name="redeye_tooltip">Dotaknite za uklanjanje crvenih očiju</string>
   <string name="refocus_data_downloading">Preuzimanje preusmjerenih podataka…</string>

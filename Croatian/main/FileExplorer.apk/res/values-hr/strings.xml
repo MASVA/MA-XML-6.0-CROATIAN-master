@@ -8,6 +8,7 @@
   <string name="adding_upload_tasks">Učitavam zadatke…</string>
   <string name="already_signin_description">"Već ste se prijavili danas."</string>
   <string name="app_name">Datoteke</string>
+  <string name="archive_send_to">Pošalji…</string>
   <string name="background">U pozadini</string>
   <string name="big5_summary">Zadani format za Windowse s tradicionalnim kineskim</string>
   <string name="big5_title">BIG5</string>
@@ -25,7 +26,7 @@
   <string name="category_default_number_text">(0)</string>
   <string name="category_document">Dokumenti</string>
   <string name="category_favorite">Označeno</string>
-  <string name="category_log">Zapisi</string>
+  <string name="category_file">Datoteke</string>
   <string name="category_music">Glazba</string>
   <string name="category_other">Ostalo</string>
   <string name="category_picture">Slike</string>
@@ -59,6 +60,7 @@
   <string name="data_capacity">Podaci %1$s</string>
   <string name="decompress_cancel">Odustani</string>
   <string name="decompress_confirm">Raspakiraj</string>
+  <string name="decompress_destination_error">"Raspakiranje nije uspjelo: ne mogu ovdje raspakirati datoteke."</string>
   <string name="decompress_fail">Raspakiranje nespješno: arhiva oštećena ili datoteka istog naziva već postoji.</string>
   <string name="decompress_success">Raspakiranje završeno</string>
   <string name="decompress_to">Raspakiraj u…</string>
@@ -88,6 +90,7 @@
   <string name="error_filename_too_long">Naziv je predugačak.</string>
   <string name="error_info_cant_send_folder">"Ne mogu slati ovu vrstu datoteke."</string>
   <string name="error_open_file_failed_no_app_found">Nema nađenih aplikacija da izvrše ovu radnju.</string>
+  <string name="expand_all">Sve</string>
   <string name="fail_to_create_folder">Nedovoljno prostora ili mapa već postoji.</string>
   <string name="fail_to_create_folder_unknown">"Ne mogu stvoriti mapu"</string>
   <string name="fail_to_rename">Datoteka s istim nazivom već postoji.</string>
@@ -123,6 +126,7 @@
   <string name="gbk_title">GBK</string>
   <string name="get_cloud_space">Dodaj 500GB</string>
   <string name="gigabyteShort">GB</string>
+  <string name="group_title">%2$s od %1$s</string>
   <string name="instruction">Unesite adresu u FTP klijent:</string>
   <string name="instruction_pre">Dodirnite za pokretanje FTP poslužitelja</string>
   <string name="kilobyteShort">KB</string>
@@ -168,6 +172,7 @@
   <string name="migrate_announcement_title">Premještanje završeno</string>
   <string name="mobile_photo">Fotografije telefona</string>
   <string name="mobile_photo_desc"/>
+  <string name="month_day_format">MMM dd</string>
   <string name="move_failed">"Ne mogu izrezati"</string>
   <string name="multi_select_title">Odabrano: %1$s</string>
   <string name="my_app">Podaci aplik.</string>
@@ -267,6 +272,9 @@
   <string name="sd_card_available">Dostupno: %1$s</string>
   <string name="sd_card_size">SD kartica: %1$s</string>
   <string name="sd_full">Vaša SD kartica je puna.</string>
+  <string name="sdcard">SD kartica</string>
+  <string name="sdcard_available">Dostupno %1$s</string>
+  <string name="sdcard_total">Ukupno %1$s</string>
   <string name="search_hint">Traži</string>
   <string name="search_title">Traži</string>
   <string name="send_to_midrive">KuaiPan</string>
@@ -299,8 +307,13 @@ Dodano  %1$s slobodnog prostora"</string>
   <string name="tab_category">Kategorije</string>
   <string name="tab_expand">Proširi</string>
   <string name="tab_local">Lokalno</string>
+  <string name="tab_more">Više</string>
   <string name="tab_path">MAPE</string>
+  <string name="tab_source">APLIK.</string>
+  <string name="tab_storage">POHRANA</string>
   <string name="terabyteShort">TB</string>
+  <string name="title_more_source">Još aplikacija</string>
+  <string name="title_recent">Nedavno</string>
   <string name="toast_file_not_can_read">Nisu pronađene aplikacije za izvršenje ove radnje.</string>
   <string name="tools">ALATI</string>
   <string name="trans_task">Mrežni prijenos</string>
@@ -340,7 +353,9 @@ oslobodili prostor.</string>
   <string name="wait_wifi">Čekam WLAN…</string>
   <string name="waiting">Čekanje…</string>
   <string name="wangpan_root_path">Moj Drive</string>
+  <string name="wechat_video">Video na %s</string>
   <string name="wifi_state">WLAN mreža</string>
   <string name="xiaomi_account">Mi Račun</string>
+  <string name="year_month_day_format">MMM dd, yyyy</string>
   <string name="yes">Da</string>
 </resources>
