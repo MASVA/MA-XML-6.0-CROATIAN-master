@@ -8,6 +8,14 @@
         <item quantity="other">Prati uporabu podataka za ovoliko (%d) aplikacija</item>
         <item quantity="one">Prati uporabu podataka za %d aplikaciju</item>
     </plurals>
+	<plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">Ovoliko aplikacija (%d) je optimizirano</item>
+        <item quantity="one">%d aplikacija optimizirana</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">Ovoliko aplikacija (%d) može biti optimizirano</item>
+        <item quantity="one">%d aplikacija može biti optimizirana</item>
+    </plurals>
     <plurals name="hints_traffic_saving_enable_title">
         <item quantity="other">Ovoliko aplikacija (%d) koristi Uštedu Podataka</item>
         <item quantity="one">%d aplikacija koristi Uštedu Podataka</item>
