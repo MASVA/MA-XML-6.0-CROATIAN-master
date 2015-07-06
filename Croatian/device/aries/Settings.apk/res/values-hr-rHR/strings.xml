@@ -12,9 +12,9 @@
   <string name="accelerometer_title">Automatski zakreni zaslon</string>
   <string name="access_control_app_entry_multiple">Otvori %s</string>
   <string name="access_control_app_entry_single">Otvori aplikaciju</string>
-  <string name="access_control_need_password">"%s je zaštićen 
+  <string name="access_control_need_password">"%s je zaštićeno 
    "</string>
-  <string name="access_control_need_to_unlock">Potrbna je zaporka</string>
+  <string name="access_control_need_to_unlock">Potrebna je zaporka</string>
   <string name="access_control_no_back_footer">Dodirni [ikonu] za izlaz</string>
   <string name="access_control_password_title">Zaporka</string>
   <string name="access_control_recording_intro_header">Iscrtajte uzorak za otključavanje:</string>
