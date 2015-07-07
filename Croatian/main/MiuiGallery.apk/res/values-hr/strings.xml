@@ -241,7 +241,8 @@
   <string name="face_albumset_empty">Prazno.</string>
   <string name="face_albumset_loading_data">Učitavanje podataka…</string>
   <string name="face_albumset_pending_enable_tip">Poredaj fotografije kada je uređaj spojen na WLAN</string>
-  <string name="face_albumset_use_tip">"Poredaj fotografije po osobama koje su na njima"</string>
+  <string name="face_albumset_use_tip">"Poredaj fotografije po osobama koje su na njima.
+Ovaj napredak automatski dovršava uređaj bez ikakve ljudske intervencije"</string>
   <string name="face_move_dialog_title">Odaberite album</string> 
   <string name="facelift">Sjaj lica</string>
   <string name="facetan">Preplanulo lice</string>
