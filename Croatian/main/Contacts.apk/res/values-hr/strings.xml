@@ -1009,7 +1009,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="set_default">Postavi zadano</string>
   <string name="set_photo_failed_msg">"Ne mogu dodijeliti sliku."</string>
   <string name="share_error">Ovaj kontakt nije moguće dijeliti.</string>
-  <string name="share_over_limit">"Preko ograničenja, ne mogu dijeliti"</string>
+  <string name="share_over_limit">"Više od 1000, ne mogu dijeliti"</string>
   <string name="share_via">Dijeli kontakt putem</string>
   <string name="share_visible_contacts">Dijeli vidljive kontakte</string>
   <string name="shortcutActivityTitle">Odaberite prečac kontakta</string>

@@ -68,7 +68,7 @@
   <string name="confirm_add_blacklist_dialog_dspt">Dodati broj na listu zabranjenih?</string>
   <string name="confirm_delete_SIM_message">Ova poruka na SIM kartici bit će izbrisana.</string>
   <string name="confirm_delete_all_SIM_messages">Sve poruke na SIM kartici bit će izbrisane.</string>
-  <string name="confirm_delete_all_conversations">Sve niti bit će izbrisane.</string>
+  <string name="confirm_delete_all_conversations">Sve poruke bit će izbrisane.</string>
   <string name="confirm_delete_conversation">Cijela će nit biti izbrisana.</string>
   <string name="confirm_delete_group_message">Sve grupne poruke će biti izbrisane.</string>
   <string name="confirm_delete_locked_message">Izbrisati zaključanu poruku?</string>
@@ -124,7 +124,7 @@
   <string name="discard_message_reason">Vaša poruka bit će odbačena jer nema važećih primatelja.</string>
   <string name="discard_slideshow">Odbaciti dijaprojekciju</string>
   <string name="dl_failure_notification">Preuzimanje poruke od %1$s za %2$s nije bilo moguće.</string>
-  <string name="done">Done</string>
+  <string name="done">Gotovo</string>
   <string name="download">Preuzmi</string>
   <string name="download_later">""Preuzimanje u ovom trenutku nije moguće. Pokušajte ponovo kasnije.""</string>
   <string name="downloading">Preuzimanje…</string>
@@ -247,6 +247,7 @@
   <string name="message_too_big_for_video">Poruka je prevelika da bi se priložio videozapis.</string>
   <string name="message_type_label">"Vrsta: "</string>
   <string name="messagelist_sender_self">Ja</string>
+  <string name="mipub_messaging_entry_title">Mi Poruke</string>
   <string name="mms">MMS</string>
   <string name="move_down">Povuci prema dolje</string>
   <string name="move_up">Povuci prema gore</string>
@@ -529,7 +530,7 @@
   <string name="timed_message_expired_title_2">Poslati sada?</string>
   <string name="timed_message_in_total">… (%d ukupno)</string>
   <string name="timed_message_to">prima</string>
-  <string name="title_collapse_sp_messages">Kombinirajte  poruke davatelja usluga</string>
+  <string name="title_collapse_sp_messages">Kombinirajte poruke davatelja usluga</string>
   <string name="title_date_type">Oznaka vremena poruke</string>
   <string name="title_show_blocked_messages">Prikaži blokirane SMS poruke</string>
   <string name="title_show_sms_template">Provjeri SMS za kodove provjere</string>
