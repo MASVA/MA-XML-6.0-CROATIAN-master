@@ -3,7 +3,7 @@
   <string name="app_description">Paket Bluetooth profila</string>
   <string name="app_label">Bluetooth</string>
   <string name="app_name">Bluetooth ispis</string>
-  <string name="auth_cancel">Otkaži</string>
+  <string name="auth_cancel">Odustani</string>
   <string name="auth_ok">U redu</string>
   <string name="auth_passcode">Pristupna šifra</string>
   <string name="bluetooth_device_context_transfer_files">Prijenos datoteka</string>
@@ -109,7 +109,7 @@
   <string name="bt_base_activity_service_disconnected">Usluga je odspojena!</string>
   <string name="bt_base_profile_feature_disabled">Ne može se koristiti deaktivirana značajka Bluetooth.</string>
   <string name="bt_bip_app_name">Prijenos slike putem Bluetootha</string>
-  <string name="bt_bip_auth_cancel">Otkaži</string>
+  <string name="bt_bip_auth_cancel">Odustani</string>
   <string name="bt_bip_auth_ok">U redu</string>
   <string name="bt_bip_auth_password">Lozinka:</string>
   <string name="bt_bip_auth_userid">ID:</string>
@@ -123,7 +123,7 @@
   <string name="bt_bip_toast_sending_object">Slanje slike, %1$s</string>
   <string name="bt_bip_toast_storage_unmounted">Provjerite je li SD kartica spremna</string>
   <string name="bt_bip_transmitting">Slanje slike, %1$s</string>
-  <string name="bt_bip_transmitting_dialog_cancel">Otkaži</string>
+  <string name="bt_bip_transmitting_dialog_cancel">Odustani</string>
   <string name="bt_bip_transmitting_dialog_hide">Sakrij</string>
   <string name="bt_bip_transmitting_dialog_no">Ne</string>
   <string name="bt_bip_transmitting_dialog_ok">U redu</string>
@@ -131,7 +131,7 @@
   <string name="bt_bip_transmitting_fail">Slika %1$s nije uspješno poslana</string>
   <string name="bt_bip_transmitting_successful">Slika %1$s je poslana</string>
   <string name="bt_bipi_push_confirmation">Potvrda za slanje slike</string>
-  <string name="bt_bipi_push_confirmation_cancel">Otkaži</string>
+  <string name="bt_bipi_push_confirmation_cancel">Odustani</string>
   <string name="bt_bipi_push_confirmation_ok">U redu</string>
   <string name="bt_bipi_unsupported_format">"Prijemnik ne podržava kodiranje.
 Nastaviti sa slanjem?"</string>
@@ -142,7 +142,7 @@ Nastaviti sa slanjem?"</string>
   <string name="bt_bipr_accept_yes">Da</string>
   <string name="bt_bipr_incoming_request">Zahtjev za dolaznu sliku</string>
   <string name="bt_bipr_incoming_request_description">Odaberi za primanje %1$s</string>
-  <string name="bt_bpp_copies_cancel">Otkaži</string>
+  <string name="bt_bpp_copies_cancel">Odustani</string>
   <string name="bt_bpp_copies_set">Postavi</string>
   <string name="bt_bpp_copies_title">Broj kopija</string>
   <string name="bt_bpp_reentry_error">Pričekajte da se dovrši trenutni zadatak ispisa.</string>
@@ -208,7 +208,7 @@ Nastaviti sa slanjem?"</string>
   <string name="bt_share_openfile_message_unsupported_type">Nepodržani tip datoteke: %1$s</string>
   <string name="bt_share_openfile_title">Otvori datoteku</string>
   <string name="dialog_bt_not_ready_confirm">Potvrdi</string>
-  <string name="dialog_printing_cancel">Otkaži</string>
+  <string name="dialog_printing_cancel">Odustani</string>
   <string name="dialog_printing_hide">Sakrij</string>
   <string name="dialog_printing_ok">U redu</string>
   <string name="dialog_title_bpp_not_ready">Usluga je nedostupna</string>

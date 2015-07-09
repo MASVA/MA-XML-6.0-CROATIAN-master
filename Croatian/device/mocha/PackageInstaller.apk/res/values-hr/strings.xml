@@ -11,7 +11,7 @@
   <string name="button_install_official">Preuzmite i instalirajte službenu verziju</string>
   <string name="button_next">Dalje</string>
   <string name="button_remove">Ukloni</string>
-  <string name="cancel">Otkaži</string>
+  <string name="cancel">Odustani</string>
   <string name="dlg_app_replacement_statement">"Aplikacija koju instalirate zamijenit će drugu aplikaciju. 
 Bit će spremljeni svi vaši prethodni korisnički podaci"</string>
   <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) će zamijeniti trenutnu verziju (%3$s). Korisnički sadržaj će biti zadržan. 

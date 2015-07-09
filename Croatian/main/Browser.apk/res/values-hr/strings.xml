@@ -276,7 +276,7 @@
   <string name="geolocation_permissions_prompt_share">Dijeli lokaciju</string>
   <string name="geolocation_permissions_prompt_toast_allowed">Ova stranica može pristupiti detaljima vaše lokacije. To možete promijeniti u Postavke &gt; Napredno &gt; Podaci Web stranice.</string>
   <string name="geolocation_permissions_prompt_toast_disallowed">Ova stranica ne može pristupiti vašoj lokaciji</string>
-  <string name="geolocation_settings_page_dialog_cancel_button">Otkaži</string>
+  <string name="geolocation_settings_page_dialog_cancel_button">Odustani</string>
   <string name="geolocation_settings_page_dialog_message">Očistiti pristup lokacij za ovu stranicu?</string>
   <string name="geolocation_settings_page_dialog_ok_button">U redu</string>
   <string name="geolocation_settings_page_summary_allowed">Ova stranica trenutno ima pristup vašoj lokaciji</string>

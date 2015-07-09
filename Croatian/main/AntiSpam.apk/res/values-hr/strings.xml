@@ -180,11 +180,12 @@ Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potraz
   <string name="one_address_choose_hint">%s1</string>
   <string name="open_callwait">Uključeno</string>
   <string name="quiet">Tišina</string>
+  <string name="quiet_group">Tihi način rada</string>
   <string name="quiet_important_interruptions_mode">Dospusti samo iznimkama</string>
   <string name="quiet_mode">Utišaj sva ometanja</string>
   <string name="quiet_off_mode">Dospusti sva ometanja</string>
   <string name="read_all_sms">Označi kao pročitano</string>
-  <string name="report">Prjavi</string>
+  <string name="report">Prijavi</string>
   <string name="report_error">"Ne mogu prijaviti poruku"</string>
   <string name="report_error_not_net">"Ne mogu se povezati na mrežu"</string>
   <string name="report_only">Odaberite poruku za prijaviti</string>
