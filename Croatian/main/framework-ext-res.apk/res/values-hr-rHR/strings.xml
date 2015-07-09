@@ -21,6 +21,8 @@
   <string name="handy_mode_title">Upravljanje jednom rukom</string>
   <string name="key_btn_ok">U redu</string>
   <string name="key_btn_space">Razmak</string>
+  <string name="location_usage_restricted_body">Dodirnite za uklanjanje ograničenja.</string>
+  <string name="location_usage_restricted_title">Pozadinsko lociranje je ograničeno</string>
   <string name="lockscreen_access_pattern_cell_added">Dodan je mobitel</string>
   <string name="lockscreen_access_pattern_cleared">Uzorak je obrisan</string>
   <string name="lockscreen_access_pattern_detected">Uzorak je dovršen</string>
@@ -30,6 +32,8 @@
   <string name="paste">Zalijepi</string>
   <string name="perm_send_push_dspt">Dopusti Mi push poruke</string>
   <string name="perm_send_push_lab">Pošalji push poruku</string>
+  <string name="permdesc_manageLocationPolicy">Omogućuje aplikaciji upravljanje pravila lokacije i određivanje pravila za specifične aplikacije.</string>
+  <string name="permlab_manageLocationPolicy">Upravljaj pravilima lokacije</string>
   <string name="reboot_confirm_title">Vaš uređaj će se ponovno pokrenuti</string>
   <string name="reboot_progress">Ponovno pokretanje…</string>
   <string name="replace">Zamijeni</string>
