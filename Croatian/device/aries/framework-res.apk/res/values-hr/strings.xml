@@ -165,8 +165,8 @@ koristeći %s"</string>
   <string name="data_usage_restricted_title">Pozadinski podaci ograničeni</string>
   <string name="data_usage_warning_body">Dod. za prikaz upotrebe i post.</string>
   <string name="data_usage_warning_title">Upozorenje o upotrebi podataka</string>
-  <string name="data_usage_wifi_limit_snoozed_title">Prekorač. Wi-Fi ogranič. pod.</string>
-  <string name="data_usage_wifi_limit_title">Wi-Fi podaci onemogućeni</string>
+  <string name="data_usage_wifi_limit_snoozed_title">Prekorač. WLAN ogranič. pod.</string>
+  <string name="data_usage_wifi_limit_title">WLAN podaci onemogućeni</string>
   <string name="date_and_time" formatted="false">%-k:%M:%S %-e.%-m.%Y</string>
   <string name="date_picker_decrement_day_button">Smanjenje dana</string>
   <string name="date_picker_decrement_month_button">Smanjenje mjeseca</string>
@@ -709,10 +709,10 @@ Pokušajte ponovo za %d s."</string>
   <string name="password_keyboard_label_symbol_key">\?123</string>
   <string name="paste">Zalijepi</string>
   <string name="perm_costs_money">možda ćete morati platiti</string>
-  <string name="permdesc_accessCoarseLocation">Aplikacija može dobiti vašu približnu lokaciju. Tu lokaciju izvode lokacijske usluge pomoću mrežnih izvora lokacije kao što su bazne stanice i Wi-Fi. Te lokacijske usluge moraju biti uključene i dostupne vašem uređaju da bi ih aplikacija mogla upotrebljavati. Aplikacije mogu upotrebljavati tu mogućnost kako bi utvrdile vašu približnu lokaciju.</string>
+  <string name="permdesc_accessCoarseLocation">Aplikacija može dobiti vašu približnu lokaciju. Tu lokaciju izvode lokacijske usluge pomoću mrežnih izvora lokacije kao što su bazne stanice i WLAN. Te lokacijske usluge moraju biti uključene i dostupne vašem uređaju da bi ih aplikacija mogla upotrebljavati. Aplikacije mogu upotrebljavati tu mogućnost kako bi utvrdile vašu približnu lokaciju.</string>
   <string name="permdesc_accessContentProvidersExternally">Omogućuje vlasniku pristup pružateljima sadržaja iz programske ovojnice. Ne bi trebalo biti potrebno za normalne aplikacije.</string>
   <string name="permdesc_accessDrmCertificates">Aplikaciji omogućuje pružanje i korištenje DRM certifikata. Ne bi trebalo biti potrebno za uobičajene aplikacije.</string>
-  <string name="permdesc_accessFineLocation">Aplikacija može dobiti vašu preciznu lokaciju pomoću globalnog pozicijskog sustava (GPS-a) ili mrežnih izvora lokacije kao što su bazne stanice i Wi-Fi. Te lokacijske usluge moraju biti uključene i dostupne vašem uređaju da bi ih aplikacija mogla upotrebljavati. Aplikacije mogu upotrebljavati tu mogućnost kako bi utvrdile vašu lokaciju i mogu dodatno trošiti bateriju.</string>
+  <string name="permdesc_accessFineLocation">Aplikacija može dobiti vašu preciznu lokaciju pomoću globalnog pozicijskog sustava (GPS-a) ili mrežnih izvora lokacije kao što su bazne stanice i WLAN. Te lokacijske usluge moraju biti uključene i dostupne vašem uređaju da bi ih aplikacija mogla upotrebljavati. Aplikacije mogu upotrebljavati tu mogućnost kako bi utvrdile vašu lokaciju i mogu dodatno trošiti bateriju.</string>
   <string name="permdesc_accessInputFlinger">Dopušta aplikaciji upotrebu značajki niske razine InputFlingera.</string>
   <string name="permdesc_accessLocationExtraCommands">Omogućuje aplikaciji pristup dodatnim naredbama davatelja usluga lokacije. To može omogućiti aplikaciji ometanje rada GPS-a ili drugih izvora lokacije.</string>
   <string name="permdesc_accessMockLocation">Stvaranje lažnih izvora lokacije radi testiranja ili za instaliranje novog pružatelja usluga lokacije. To aplikaciji omogućuje zaobilaženje lokacije i/ili statusa koji vraćaju drugi izvori lokacije, primjerice GPS ili pružatelji usluga lokacije.</string>
@@ -721,7 +721,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="permdesc_accessNetworkState">Aplikaciji omogućuje pregled informacija o mrežnim vezama, primjerice koje mreže postoje i koje su spojene.</string>
   <string name="permdesc_accessNotifications">Omogućuje aplikaciji dohvaćanje, pregledavanje i brisanje obavijesti, uključujući obavijesti drugih aplikacija.</string>
   <string name="permdesc_accessSurfaceFlinger">Aplikaciji omogućuje upotrebu značajki niske razine SurfaceFlinger.</string>
-  <string name="permdesc_accessWifiState">Aplikaciji omogućuje pregled informacija o Wi-Fi mrežama, primjerice, je li Wi-Fi omogućen i naziv spojenih Wi-Fi uređaja.</string>
+  <string name="permdesc_accessWifiState">Aplikaciji omogućuje pregled informacija o WLAN mrežama, primjerice, je li WLAN omogućen i naziv spojenih WLAN uređaja.</string>
   <string name="permdesc_accessWimaxState">Aplikaciji omogućuje utvrđivanje omogućenosti WiMAX mreže te daje informaciju o tome je li spojena neka WiMAX mreža.</string>
   <string name="permdesc_access_keyguard_secure_storage">Omogućuje aplikaciji pristupanje zaključanoj sigurnoj pohrani.</string>
   <string name="permdesc_accountManagerService">Aplikaciji omogućuje pozivanje ovjerovitelja računa AccountAuthenticators.</string>
@@ -782,15 +782,15 @@ Pokušajte ponovo za %d s."</string>
   <string name="permdesc_changeConfiguration">Aplikaciji omogućuje promjenu trenutačne konfiguracije kao što je oznaka zemlje/jezika ili opća veličina fonta.</string>
   <string name="permdesc_changeNetworkState">Aplikaciji omogućuje promjenu stanja mrežnog povezivanja.</string>
   <string name="permdesc_changeTetherState">Aplikaciji omogućuje promjenu stanja modemskog mrežnog povezivanja.</string>
-  <string name="permdesc_changeWifiMulticastState">Aplikaciji omogućuje primanje paketa poslanih na sve uređaje na Wi-Fi mreži putem adresa za višesmjerno slanje, ne samo na vaš telefon. Potrošnja struje veća je nego u načinu bez višesmjernog slanja.</string>
-  <string name="permdesc_changeWifiState">Aplikaciji omogućuje spajanje na Wi-Fi pristupne točke i prekidanje veze s njima te promjenu konfiguracije uređaja za Wi-Fi mreže.</string>
+  <string name="permdesc_changeWifiMulticastState">Aplikaciji omogućuje primanje paketa poslanih na sve uređaje na WLAN mreži putem adresa za višesmjerno slanje, ne samo na vaš telefon. Potrošnja struje veća je nego u načinu bez višesmjernog slanja.</string>
+  <string name="permdesc_changeWifiState">Aplikaciji omogućuje spajanje na WLAN pristupne točke i prekidanje veze s njima te promjenu konfiguracije uređaja za WLAN mreže.</string>
   <string name="permdesc_changeWimaxState">Aplikaciji omogućuje povezivanje telefona s WiMAX mrežama i prekidanje veze telefona s njima.</string>
   <string name="permdesc_checkinProperties">Omogućuje aplikaciji pristup za čitanje/pisanje svojstvima prenesenima uslugom prijave. Nije namijenjena uobičajenim aplikacijama.</string>
   <string name="permdesc_clearAppCache">Aplikacija može osloboditi prostor za pohranu na telefonu brisanjem datoteka u direktorijima predmemorije drugih aplikacija. Time može uzrokovati sporije pokretanje drugih aplikacija jer one moraju ponovo dohvaćati svoje podatke.</string>
   <string name="permdesc_clearAppUserData">Aplikaciji omogućuje brisanje korisničkih podataka.</string>
-  <string name="permdesc_configureWifiDisplay">Omogućuje aplikaciji konfiguriranje i povezivanje s Wi-Fi zaslonima.</string>
+  <string name="permdesc_configureWifiDisplay">Omogućuje aplikaciji konfiguriranje i povezivanje s WLAN zaslonima.</string>
   <string name="permdesc_confirm_full_backup">Omogućuje aplikaciji pokretanje korisničkog sučelja za potvrdu potpune sigurnosne kopije. Aplikacije ne bi trebale upotrebljavati tu opciju.</string>
-  <string name="permdesc_controlWifiDisplay">Omogućuje aplikaciji upravljanje značajkama Wi-Fi zaslona niske razine.</string>
+  <string name="permdesc_controlWifiDisplay">Omogućuje aplikaciji upravljanje značajkama WLAN zaslona niske razine.</string>
   <string name="permdesc_control_incall_experience">Omogućuje aplikaciji pružanje korisničkog iskustva tijekom poziva.</string>
   <string name="permdesc_control_keyguard">Omogućuje aplikaciji upravljanje zaključavanjem tipkovnice.</string>
   <string name="permdesc_copyProtectedData">Omogućuje aplikaciji dozivanje usluge zadanog spremnika radi kopiranja sadržaja. Nije namijenjena uobičajenim aplikacijama.</string>
@@ -1094,8 +1094,8 @@ za račun %s."</string>
   <string name="permlab_changeConfiguration">promjena postavki prikaza sustava</string>
   <string name="permlab_changeNetworkState">promjena mrežne povezivosti</string>
   <string name="permlab_changeTetherState">promjena modemskog povezivanja</string>
-  <string name="permlab_changeWifiMulticastState">omogući višenamjenski Wi-Fi prijem</string>
-  <string name="permlab_changeWifiState">uspostavljanje i prekidanje veze s Wi-Fi mrežom</string>
+  <string name="permlab_changeWifiMulticastState">omogući višenamjenski WLAN prijem</string>
+  <string name="permlab_changeWifiState">uspostavljanje i prekidanje veze s WLAN mrežom</string>
   <string name="permlab_changeWimaxState">Promjena stanja WiMAX mreže</string>
   <string name="permlab_checkinProperties">pristup svojstvima prijave</string>
   <string name="permlab_clearAppCache">brisanje svih podataka predmemorije aplikacije</string>

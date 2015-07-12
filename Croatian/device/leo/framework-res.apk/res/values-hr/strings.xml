@@ -53,8 +53,11 @@
   <string name="activity_resolver_work_profiles_support">%1$s ne podržava radni profil</string>
   <string name="activitychooserview_choose_application">Odabir aplikacije</string>
   <string name="activitychooserview_choose_application_error">Nije moguće pokrenuti aplikaciju %s</string>
+  <string name="adb_active_generic_notification_message">Dodirnite da biste onemogućili rješavanje programske pogreške.</string>
   <string name="adb_active_notification_message">Dodirnite da biste onemogućili rješavanje programske pogreške na USB-u.</string>
   <string name="adb_active_notification_title">Priključen je alat za uklanjanje programske pogreške USB-a</string>
+  <string name="adb_both_active_notification_title">ADB preko USB &amp; mreže omogućen</string>
+  <string name="adb_net_active_notification_title">ADB preko mreže omogućen</string>
   <string name="addToDictionary">Dodaj u rječnik</string>
   <string name="add_account_button_label">Dodaj račun</string>
   <string name="add_account_label">Dodajte račun</string>
@@ -66,6 +69,7 @@
   <string name="android_system_label">Sustav Android</string>
   <string name="android_upgrading_apk">Optimiziranje aplikacije %1$d od %2$d.</string>
   <string name="android_upgrading_complete">Završetak inicijalizacije.</string>
+  <string name="android_upgrading_fstrim">Optimizing storage.</string>
   <string name="android_upgrading_starting_apps">Pokretanje aplikacija.</string>
   <string name="android_upgrading_title">Android se nadograđuje…</string>
   <string name="anr_activity_application">"Aplikacija %2$s ne reagira.
@@ -310,7 +314,7 @@ koristeći %s"</string>
   <string name="hour_cap_ampm" formatted="false">%-l %p</string>
   <string name="hour_picker_description">Kružni klizač sati</string>
   <string name="hours">h</string>
-  <string name="httpError">Došlo je pogreška mreže.</string>
+  <string name="httpError">Došlo je pogreške mreže.</string>
   <string name="httpErrorAuth">Autentifikacija nije moguća.</string>
   <string name="httpErrorBadUrl">Stranicu nije moguće otvoriti zbog nevažećeg URL-a.</string>
   <string name="httpErrorConnect">Povezivanje s poslužiteljem nije moguće.</string>
@@ -898,6 +902,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="permdesc_setDebugApp">Omogućuje aplikaciji uključivanje uklanjanja programskih pogrešaka za drugu aplikaciju. Zlonamjerne aplikacije mogu na taj način ukloniti druge aplikacije.</string>
   <string name="permdesc_setInputCalibration">Omogućuje aplikaciji izmjenu parametara kalibracije dodirnog zaslona. Ne bi trebalo biti potrebno za uobičajene aplikacije.</string>
   <string name="permdesc_setKeyboardLayout">Omogućuje da aplikacija promijeni raspored tipkovnice. Nikada ne bi trebalo biti potrebno za uobičajene aplikacije.</string>
+  <string name="permdesc_setKeyguardWallpaper">Omogućuje aplikaciji promjenu slike pozadine zaključanog zaslona.</string>
   <string name="permdesc_setOrientation">Omogućuje aplikaciji promjenu rotacije zaslona u bilo kojem trenutku. Ne bi smjelo biti potrebno za normalne aplikacije.</string>
   <string name="permdesc_setPointerSpeed">Omogućuje aplikaciji promjenu brzine miša ili dodirne pločice. Ne bi smjelo biti potrebno za normalne aplikacije.</string>
   <string name="permdesc_setPreferredApplications">Omogućuje aplikaciji promjenu vaših željenih aplikacija. Zlonamjerne aplikacije mogu potajno promijeniti aplikacije koje su pokrenute, zavaravajući vaše postojeće aplikacije kako bi prikupljale privatne podatke od vas.</string>
@@ -1210,6 +1215,7 @@ za račun %s."</string>
   <string name="permlab_setDebugApp">omogućavanje rješavanja programskih pogrešaka u aplikaciji</string>
   <string name="permlab_setInputCalibration">promjena kalibracije uređaja za unos</string>
   <string name="permlab_setKeyboardLayout">promjena rasporeda tipkovnice</string>
+  <string name="permlab_setKeyguardWallpaper">postavljanje čuvara zaslona</string>
   <string name="permlab_setOrientation">promjena orijentacije zaslona</string>
   <string name="permlab_setPointerSpeed">promjena brzine pokazivača</string>
   <string name="permlab_setPreferredApplications">postavljanje željenih aplikacija</string>

@@ -34,7 +34,7 @@ Prikaži odabrane tipkovnice "</string>
   <string name="setting_locale">Postavljanje mjesta…</string>
   <string name="shut_down">Isključivanje</string>
   <string name="sim_card_detecting">Provjeravam SIM karticu…</string>
-  <string name="sim_card_detecting_title">Provjeri SIM karticu</string>
+  <string name="sim_card_detecting_title">Provjera SIM kartice</string>
   <string name="sim_card_detection">Umetnite SIM karticu</string>
   <string name="sim_card_detection_info">Za umetanje SIM kartice, pročitajte upute koje ste dobili s uređajem</string>
   <string name="sim_dectection_next">Nastavi</string>
