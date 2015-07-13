@@ -196,6 +196,8 @@
   <string name="download_fail">"Ne mogu preuzeti"</string>
   <string name="download_fail_confirm_continue">"Ne mogu preuzeti %s"</string>
   <string name="download_refocus_data">Preuzmi refokusiranjem podataka</string>
+  <string name="download_without_wifi_msg">"Korištenje mobilne podatkovne veze za preuzimanje fotografija će povećati uporabu podataka. Ako premašite vaše mjesečno ograničenje podataka, vaš operater može vam naplatiti dodatne naknade."</string>
+  <string name="download_without_wifi_title">Upozorenje uporabe podataka</string>
   <string name="duotone">Dvobojno</string>
   <string name="duration">Trajanje</string>
   <string name="early_bird">Earlybird</string>
@@ -241,8 +243,7 @@
   <string name="face_albumset_empty">Prazno.</string>
   <string name="face_albumset_loading_data">Učitavanje podataka…</string>
   <string name="face_albumset_pending_enable_tip">Poredaj fotografije kada je uređaj spojen na WLAN</string>
-  <string name="face_albumset_use_tip">"Poredaj fotografije po osobama koje su na njima.
-Ovaj napredak automatski dovršava uređaj bez ikakve ljudske intervencije"</string>
+  <string name="face_albumset_use_tip">"Automatski poredaj fotografije po osobama koje su na njima."</string>
   <string name="face_move_dialog_title">Odaberite album</string> 
   <string name="facelift">Sjaj lica</string>
   <string name="facetan">Preplanulo lice</string>
@@ -489,10 +490,10 @@ uređaja"</string>
   <string name="qzone">QZone</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recognizing_image">Prepoznavanje slike…</string>
-  <string name="recommanded_face_abandon_tip">Uklonjeno iz preporuka</string>
+  <string name="recommanded_face_abandon_tip">Uklonjeno iz prijedloga</string>
   <string name="recommanded_face_added_tip">Dodano u \"%s\"</string>
   <string name="redeye">Crvene oči</string>
-  <string name="redeye_tooltip">Dotaknite za uklanjanje crvenih očiju</string>
+  <string name="redeye_tooltip">Dodirnite za uklanjanje crvenih očiju</string>
   <string name="refocus_data_downloading">Preuzimanje preusmjerenih podataka…</string>
   <string name="remove_from_secret_failed_message_with_count">"%2$s stavaka ne može biti uklonjeno iz sakrivenog albuma: %1$s."</string>
   <string name="remove_from_secret_successfully_message">Uklonjeno iz tajnog albuma</string>

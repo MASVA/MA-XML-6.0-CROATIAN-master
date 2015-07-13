@@ -1814,7 +1814,7 @@ i pokrenite ga."</string>
   <string name="music_hifi_summary">Smanjite buku i izobličenje i povećajte kvalitetu zvuka.</string>
   <string name="music_hifi_title">Hi-Fi zvuk</string>
   <string name="music_hifi_volume">Hi-Fi glasnoća</string>
-  <string name="music_mi_effect_summary">Uvijek koristi Mi Sound Enhancer prilikom korištenja zvučnika</string>
+  <string name="music_mi_effect_summary">Koristi Mi Sound Enhancer prilikom korištenja slušalica</string>
   <string name="music_mi_effect_title">Koristi Mi Sound Enhancer</string>
   <string name="music_title_dolby_control">Dolby digital plus</string>
   <string name="musicfx_title">Glazbeni efekti</string>

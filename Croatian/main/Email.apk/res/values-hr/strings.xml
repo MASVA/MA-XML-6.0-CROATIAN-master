@@ -87,7 +87,7 @@
   <string name="account_setup_account_type_title">Postavljanje računa</string>
   <string name="account_setup_address_label">E-pošta</string>
   <string name="account_setup_autodiscover_dlg_authfail_message">Potvrdite točnost korisničkog imena, zaporke i postavki računa.</string>
-  <string name="account_setup_autodiscover_dlg_authfail_title">Problem s postavljanjem računa</string>
+  <string name="account_setup_autodiscover_dlg_authfail_title">"Ne mogu postaviti račun"</string>
   <string name="account_setup_basics_email_label">Adresa e-pošte</string>
   <string name="account_setup_basics_headline">Račun e-pošte</string>
   <string name="account_setup_basics_manual_setup_action">Ručno postavljanje</string>
@@ -111,12 +111,12 @@
   <string name="account_setup_failed_certificate_required">Potrebna je klijentska potvrda. Želite li se povezati s poslužiteljem s klijentskom potvrdom?</string>
   <string name="account_setup_failed_check_credentials_message">Poslužitelj je odgovorio s pogreškom. Provjerite korisničko ime i zaporku i pokušajte ponovo.</string>
   <string name="account_setup_failed_dlg_auth_message">Korisničko ime ili zaporka nisu ispravni.</string>
-  <string name="account_setup_failed_dlg_auth_message_fmt">"Prijava nije uspjela.
+  <string name="account_setup_failed_dlg_auth_message_fmt">"Ne mogu se prijaviti.
 (%s)"</string>
   <string name="account_setup_failed_dlg_certificate_message">Sigurno povezivanje s poslužiteljem nije moguće.</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Sigurno povezivanje s poslužiteljem nije moguće.
 (%s)"</string>
-  <string name="account_setup_failed_dlg_device_locked">Vaša adresa je blokirana zaključavanjem uređaja</string>
+  <string name="account_setup_failed_dlg_device_locked">"Ne mogu se prijaviti. Ovaj je račun zaključan."</string>
   <string name="account_setup_failed_dlg_edit_details_action">Uredi pojedinosti</string>
   <string name="account_setup_failed_dlg_server_message">Povezivanje s poslužiteljem nije moguće.</string>
   <string name="account_setup_failed_dlg_server_message_fmt">"Povezivanje s poslužiteljem nije moguće.
@@ -326,6 +326,9 @@
   <string name="confirm_send_message_with_no_subject">"Ova poruka nema predmet."</string>
   <string name="confirm_send_title">Poslati poruku?</string>
   <string name="contact_edit_set_black_list">Podesi listu blokiranih</string>
+  <string name="contact_edit_set_black_list_from">Izbriši sve poruke tog pošiljatelja</string>
+  <string name="contact_edit_set_black_list_receive">Izbriši sve poruke tog primatelja (normalno kao skupinu)</string>
+  <string name="contact_edit_set_black_list_receive_summary">Za/Kopija lista sadržaja samo ovog primatelja</string>
   <string name="contact_edit_set_phone_contact">Uredi kontakte telefona</string>
   <string name="contact_edit_set_pop_up_tips">Savjeti skoč. prozora</string>
   <string name="contact_edit_set_unread_top">Prikaži najprije nepročitanu e-poštu</string>
@@ -813,6 +816,16 @@ Kopija: %4$s
   <string name="provider_note_live">Samo neki računi usluge \"Plus\" uključuju POP pristup koji ovom programu omogućuje povezivanje. Ako se ne možete prijaviti sa svojom ispravnom adresom e-pošte i zaporkom, možda nemate plaćeni račun usluge \"Plus\". Pokrenite web-preglednik kako biste dobili pristup tim računima e-pošte.</string>
   <string name="provider_note_t_online">Prije postavljanja ovog računa e-pošte posjetite web-lokaciju T-Online i stvorite zaporku za POP3 pristup e-pošti.</string>
   <string name="pull_to_refresh">Povucite dolje za osvježiti</string>
+  <string name="push_wps_better_confirm_download">Preuzmi</string>
+  <string name="push_wps_better_confirm_exit">Ostale aplikacije za otvaranje</string>
+  <string name="push_wps_better_confirm_message">WPS Office može pružiti bolju podršku za ovu vrstu privitka, tako da vaš rad bude još učinkovitiji</string>
+  <string name="push_wps_better_confirm_noshow_hint">"Ne prikazuj ponovo"</string>
+  <string name="push_wps_better_confirm_title">Preporučujemo WPS Office</string>
+  <string name="push_wps_confirm_cancel">Odustani</string>
+  <string name="push_wps_confirm_download">Preuzmi</string>
+  <string name="push_wps_confirm_message">Nema aplikacija koja može otvoriti ovaj privitak, preporučujemo vam WPS Office</string>
+  <string name="push_wps_confirm_title">Preporučujemo WPS Office</string>
+  <string name="push_wps_no_response_app">Nema odgovora aplikacije</string>
   <string name="quick_1">Hvala!</string>
   <string name="quick_2">Izvrsno!</string>
   <string name="quick_3">Pročitat ću to kasnije i javiti vam se.</string>
@@ -1006,7 +1019,7 @@ Kopija: %4$s
   <string name="unread_from_someone">Nepročitana pošta od %s</string>
   <string name="unread_string">Razgovor nije pročitan</string>
   <string name="unsent_messages_in_outbox">Broj neposlanih poruka u mapi %2$s: %1$s</string>
-  <string name="unzip_file_failed">Raspakiravanje nije uspjelo!</string>
+  <string name="unzip_file_failed">"Ne mogu raspakirati!"</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
   <string name="updated_at">Osvježeno u: %1$s</string>
   <string name="updated_just_now">Osvježeno upravo sada</string>
