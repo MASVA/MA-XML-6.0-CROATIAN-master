@@ -310,7 +310,7 @@
   <string name="power_center_low_battery_title">Štednja baterije</string>
   <string name="power_center_on_time_summary_default">Prebaci profil baterije u planirano vrijeme</string>
   <string name="power_center_on_time_summary_dynamic">Od %1$s do %2$s prebaci na %3$s</string>
-  <string name="power_center_on_time_title">Birač Planiranog profila</string>
+  <string name="power_center_on_time_title">Odabir Planiranog profila</string>
   <string name="power_center_ontime_boot">Vrijeme uključivanja</string>
   <string name="power_center_ontime_shutdown">Vrijeme isključivanja</string>
   <string name="power_center_repeat">Ponovi</string>
@@ -435,7 +435,7 @@
   <string name="power_save_low_battery_percentage_twenty">20%</string>
   <string name="power_save_low_battery_seekbar_title">Prebaci profil baterije kada je preostala energija manja od %1$d%%</string>
   <string name="power_save_low_battery_title">Štednja baterije</string>
-  <string name="power_save_on_time_auto_save_title">Birač rasporeda profila</string>
+  <string name="power_save_on_time_auto_save_title">Odabir rasporeda profila</string>
   <string name="power_save_on_time_default_time">00:00</string>
   <string name="power_save_on_time_end_time_summary">Kraj</string>
   <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
@@ -445,7 +445,7 @@
   <string name="power_save_on_time_option_title">Tijekom tog perioda prebaci na</string>
   <string name="power_save_on_time_start_time_summary">Početak</string>
   <string name="power_save_on_time_start_time_title">%1$d: %2$d</string>
-  <string name="power_save_on_time_title">Birač rasporeda profila</string>
+  <string name="power_save_on_time_title">Odabir rasporeda profila</string>
   <string name="power_screen">Zaslon</string>
   <string name="power_settings_category_title">Izgled baterije</string>
   <string name="power_settings_number">Postotak</string>

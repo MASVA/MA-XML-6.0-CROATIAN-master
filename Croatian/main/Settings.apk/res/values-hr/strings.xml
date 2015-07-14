@@ -1703,6 +1703,7 @@ Za brisanje glazbe, slika i ostalih korisničkih podataka, "&lt;b&gt;USB pohrana
   <string name="miui_allow_light">dopusti svjetiljku</string>
   <string name="miui_allow_music">dopusti glazbu</string>
   <string name="miui_allow_vibrate">dopusti vibraciju</string>
+  <string name="miui_data_usage_menu_metered">Mobilni hotspot</string>
   <string name="miui_disturb_title">omogući način Ne ometaj</string>
   <string name="miui_screensaver_show_time">"Trajanje"</string>
   <string name="miui_screensaver_show_time_select_title">Postavi trajanje prezentacije</string>
@@ -1769,6 +1770,7 @@ i pokrenite ga."</string>
   <string name="music_dirac_mode_general">Općenite</string>
   <string name="music_dirac_mode_general_earbuds">Općenite</string>
   <string name="music_dirac_mode_general_inear">Općenite In-Ear</string>
+  <string name="music_dirac_mode_headset">Mi Headphones</string>
   <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
   <string name="music_dirac_mode_off">Dirac isključen</string>
   <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
@@ -1776,6 +1778,7 @@ i pokrenite ga."</string>
   <string name="music_dirac_mode_piston_2">Mi Piston-2</string>
   <string name="music_dirac_mode_piston_basic">Basic Edition</string>
   <string name="music_dirac_mode_piston_standard">Standard Edition</string>
+  <string name="music_dirac_mode_piston_youth">Youth Edition</string>
   <string name="music_dirac_mode_piston_youth">Xiaomi Piston-1</string>
   <string name="music_dolby_dialogue_enhancer">Dialogue Enhancer</string>
   <string name="music_dolby_effects">Dolby efekti</string>
@@ -1815,7 +1818,7 @@ i pokrenite ga."</string>
   <string name="music_hifi_title">Hi-Fi zvuk</string>
   <string name="music_hifi_volume">Hi-Fi glasnoća</string>
   <string name="music_mi_effect_summary">Koristi Mi Sound Enhancer prilikom korištenja slušalica</string>
-  <string name="music_mi_effect_title">Koristi Mi Sound Enhancer</string>
+  <string name="music_mi_effect_title">Mi Sound Enhancer</string>
   <string name="music_title_dolby_control">Dolby digital plus</string>
   <string name="musicfx_title">Glazbeni efekti</string>
   <string name="mvno_match_data">Vrijednost MVNO-a</string>

@@ -79,14 +79,14 @@
   <string name="confirm_dlg_title">Upravljanje uređaja</string>
   <string name="confirm_export_dialog_description">Ukloniti odabrani privatni kontakt, razgovor će biti premtvoren u normalan SMS. Želite li nastaviti?</string>
   <string name="confirm_export_dialog_title">Ukloni privatni kontakt</string>
-  <string name="confirm_no_block_positive">"Nemojte blokirati i vratiti"</string>
+  <string name="confirm_no_block_positive">"Ne blokiraj i vrati"</string>
   <string name="confirm_no_block_title">"Ne blokirati broj i vratiti sve poruke?"</string>
   <string name="confirm_rate_limit">Šalje se veliki broj multimedijskih poruka. Je li to u redu?</string>
   <string name="confirm_restore_all_title">Vratiti sve poruke s ovog broja?</string>
   <string name="confirm_restore_checkbox">Vrati odabrane Poruke</string>
   <string name="confirm_restore_message">Vratiti odabrane Poruke?</string>
   <string name="confirm_restore_positive">Vrati</string>
-  <string name="confirm_restore_title">Vratćanje Poruka</string>
+  <string name="confirm_restore_title">Vraćanje Poruka</string>
   <string name="confirm_send_mms">Jedan od vaših primatelja uključuje i e-mail adresu. Ova poruka će biti poslana kao MMS, što može dovesti do dodatnih troškova.</string>
   <string name="context_menu_add_calendar">Prikaži u Kalendaru</string>
   <string name="context_menu_add_contact">Dodaj u Kontakte</string>
