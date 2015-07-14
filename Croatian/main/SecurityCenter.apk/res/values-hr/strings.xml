@@ -57,7 +57,7 @@
   <string name="battery_stats_phone_signal_label">Signal mob. mreže</string>
   <string name="battery_stats_screen_on_label">Uklj. zaslon</string>
   <string name="battery_stats_wake_lock_label">Budan</string>
-  <string name="battery_stats_wifi_running_label">WLANi</string>
+  <string name="battery_stats_wifi_running_label">WLAN</string>
   <string name="boot_reminder">Uključivanje vašeg uređaja u planirano vrijeme</string>
   <string name="boot_reminder_day">Uređaj će se uključiti u %1$dd %2$dh %3$dm</string>
   <string name="boot_reminder_day_hour">Uređaj će se uključiti u %1$dd %2$dh</string>
