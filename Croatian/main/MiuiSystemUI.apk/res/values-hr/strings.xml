@@ -150,6 +150,8 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="oldman_status_bar_time_format_24">HH:mm</string>
   <string name="reject_call">Poziv odbijen</string>
   <string name="return_to_incall_screen">Povratak na poziv</string>
+  <string name="screen_button_notification_text">"Da ih uključite, istovremeno pritisnite tipke \"Početna\" i \"Napajanje\"."</string>
+  <string name="screen_button_notification_title">Navigacijske tipke su isključene</string>
   <string name="screenshot_failed_text">Nije moguće spremiti snimku zaslona. Pohrana je možda u upotrebi.</string>
   <string name="screenshot_saved_text">"Dodirnite za prikaz snimke zaslona."</string>
   <string name="screenshot_saved_title">"Zaslon je snimljen."</string>
