@@ -1635,6 +1635,8 @@ Za brisanje glazbe, slika i ostalih korisničkih podataka, "&lt;b&gt;USB pohrana
   <string name="master_clear_progress_title">Brisanje</string>
   <string name="master_clear_summary">Briše sve podatke na uređaju</string>
   <string name="master_clear_title">Vraćanje na tvorničko stanje</string>
+  <string name="max_cpu6_info">"6 jezgreni "</string>
+  <string name="max_cpu8_info">"8 jezgreni "</string>		   
   <string name="media_button">Medijska tipka</string>
   <string name="media_category">Medija</string>
   <string name="media_feedback_enable_title">Vibriraj uz ritam</string>
