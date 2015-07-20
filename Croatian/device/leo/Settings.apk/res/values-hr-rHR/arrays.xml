@@ -215,4 +215,8 @@
         <item>Pokaži područja slojnih iscrtavanja</item>
         <item>Prikaži područja za deuteranomaliju</item>
     </string-array>
+	<string-array name="screen_resolution_entries">
+        <item>Ultrahigh (2K)</item>
+        <item>Normalno (720P)</item>
+    </string-array>
 </resources>

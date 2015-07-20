@@ -499,7 +499,7 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="traffic_saving_button_sorted_chose_simcard">Poredaj po</string>
   <string name="traffic_saving_button_start">Uključi</string>
   <string name="traffic_saving_button_stop">Isključi</string>
-  <string name="traffic_saving_can_optimized">Optimizraj</string>
+  <string name="traffic_saving_can_optimized">Optimiziraj</string>
   <string name="traffic_saving_history_title">Povijest</string>
   <string name="traffic_saving_history_total_money">Ukupno ušteđeno</string>
   <string name="traffic_saving_history_total_money_unit">RMB</string>
