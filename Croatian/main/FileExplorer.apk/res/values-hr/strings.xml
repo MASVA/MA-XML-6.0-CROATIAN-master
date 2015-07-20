@@ -226,6 +226,7 @@
   <string name="open_file_failed">"Ne mogu otvoriti"</string>
   <string name="operate_confirm_in_3g">Koristiti vašu mobilnu podatkovnu vezu za preuzimanje ove velike datoteke?</string>
   <string name="operating">Obrada…</string>
+  <string name="operation_add_fav">Dodavanje u favorite…</string>
   <string name="operation_agree">Dopusti</string>
   <string name="operation_cancel">Odustani</string>
   <string name="operation_compress">Sažeti</string>
@@ -236,6 +237,7 @@
   <string name="operation_create_folder">Nova mapa</string>
   <string name="operation_create_folder_message">Imenuj mapu</string>
   <string name="operation_decompressing">Raspakiravanje…</string>
+  <string name="operation_del_fav">Uklanjanje iz favorita…</string>
   <string name="operation_delete">Izbriši</string>
   <string name="operation_delete_confirm_message">Izbrisati stavku?</string>
   <string name="operation_delete_confirm_message_folder">"Sav sadržaj mape biti će izbrisan."</string>
@@ -309,7 +311,7 @@ Dodano  %1$s slobodnog prostora"</string>
   <string name="tab_local">Lokalno</string>
   <string name="tab_more">Više</string>
   <string name="tab_path">MAPE</string>
-  <string name="tab_source">APLIK.</string>
+  <string name="tab_source">Aplikacije</string>
   <string name="tab_storage">POHRANA</string>
   <string name="terabyteShort">TB</string>
   <string name="title_more_source">Još aplikacija</string>

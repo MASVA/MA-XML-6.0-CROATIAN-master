@@ -1635,8 +1635,6 @@ Za brisanje glazbe, slika i ostalih korisničkih podataka, "&lt;b&gt;USB pohrana
   <string name="master_clear_progress_title">Brisanje</string>
   <string name="master_clear_summary">Briše sve podatke na uređaju</string>
   <string name="master_clear_title">Vraćanje na tvorničko stanje</string>
-  <string name="max_cpu6_info">"6 jezgreni "</string>
-  <string name="max_cpu8_info">"8 jezgreni "</string>		   
   <string name="media_button">Medijska tipka</string>
   <string name="media_category">Medija</string>
   <string name="media_feedback_enable_title">Vibriraj uz ritam</string>
@@ -1989,8 +1987,8 @@ i pokrenite ga."</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Način čekanja</string>
   <string name="power_center">Performanse</string>
-  <string name="power_hide_mode_summary">Pozadinska kontrola ponašanja aplikacija, te značajna ušteda električne energije</string>
-  <string name="power_hide_mode_title">Sakriveni način</string>
+  <string name="power_hide_mode_summary">"Štedite bateriju ograničavanjem pojedinačnih pozadinskih procesa aplikacija, WLAN-a, mobilne podatkovne veze i GPS-a"</string>
+  <string name="power_hide_mode_title">Upravljanje korištenjem baterije aplikacija</string>
   <string name="power_charge_remaining">%1$s do dovršetka punjenja</string>
   <string name="power_charging">%1$d%% – %2$s</string>
   <string name="power_charging_duration">%1$d%% – %2$s do napunjenosti</string>
@@ -3313,6 +3311,7 @@ WLAN Asistent"</string>
   <string name="wifi_eap_ca_cert">CA certifikat</string>
   <string name="wifi_eap_identity">Identitet</string>
   <string name="wifi_eap_method">EAP metoda</string>
+  <string name="wifi_eap_sim_simcard">Odaberi SIM karticu</string>
   <string name="wifi_eap_user_cert">Korisnički certifikat</string>
   <string name="wifi_empty_list_user_restricted">Nemate dopuštenje za promjenu WLAN mreže.</string>
   <string name="wifi_empty_list_wifi_off">Da biste vidjeli dostupne mreže, uključite WLAN</string>

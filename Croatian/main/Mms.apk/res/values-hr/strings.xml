@@ -247,7 +247,7 @@
   <string name="message_too_big_for_video">Poruka je prevelika da bi se priložio videozapis.</string>
   <string name="message_type_label">"Vrsta: "</string>
   <string name="messagelist_sender_self">Ja</string>
-  <string name="mipub_messaging_entry_title">Mi Poruke</string>
+  <string name="mipub_messaging_entry_title">Mi Poruka</string>
   <string name="mms">MMS</string>
   <string name="move_down">Povuci prema dolje</string>
   <string name="move_up">Povuci prema gore</string>
@@ -439,7 +439,9 @@
   <string name="search_setting_description">Tekst u vašim porukama</string>
   <string name="search_show_more_results">Pikaži više</string>
   <string name="secs">sek</string>
-  <string name="security_alert_desc">"Pošiljatelj nije u kontaktima. Prijaviti ovaj broj?"</string>
+  <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"Pošiljatelj nije u vašim kontaktima.
+ "&lt;/font&gt;</string>
+  <string name="security_alert_desc_highlight">Prijavi ovaj broj</string>
   <string name="security_alert_dialog_desc">Pošalji ovaj broj (%s) i poruke Xiaomi-u na pregled.</string>
   <string name="security_alert_dialog_title">Prijavi</string>
   <string name="select_audio">Odaberi zvuk</string>

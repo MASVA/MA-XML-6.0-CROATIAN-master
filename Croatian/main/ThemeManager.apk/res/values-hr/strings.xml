@@ -20,6 +20,7 @@
   <string name="backup_theme_progress_message">Pohranjujem temu…</string>
   <string name="backup_theme_success_message">Postavke vaše trenutne teme su spremljene</string>
   <string name="change_wallpaper">Slika pozadine</string>
+  <string name="choose_new_themes">Nove Teme</string>
   <string name="close">Zatvori</string>
   <string name="component_category_finest_title">OPĆENITO</string>
   <string name="component_category_more_title">NAPREDNO</string>
@@ -86,6 +87,8 @@
   <string name="online_no_network">"Ne mogu se povezati na mrežu"</string>
   <string name="online_search_hint">Pretraživanje za online resursima</string>
   <string name="payment_info">Mi Krediti</string>
+  <string name="present_local_themes">Preuzete</string>
+  <string name="present_online_themes">Online</string>
   <string name="purchased_list">Kupljene</string>
   <string name="purchased_list_format">Kupljeno %1$s</string>
   <string name="resource_account_abnormal_state">Pogreška računa. Pričekajte minutu ili dvije i pokušajte ponovno.</string>

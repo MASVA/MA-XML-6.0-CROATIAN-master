@@ -50,6 +50,9 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="confirm_location_alert">Zapamti lokacije fotografija</string>
   <string name="confirm_location_message">"Označite svoje fotografije i videozapise na lokacijama gdje su snimljene. Ostale aplikacije mogu pristupiti tim informacijama zajedno s vašim spremljenim slikama."</string>
   <string name="confirm_location_title">Zapamtiti lokacije fotografija?</string>
+  <string name="confirm_recording_fail_calling_alert">Ne mogu pokrenuti snimanje tijekom poziva.</string>
+  <string name="confirm_recording_fail_recorder_busy_alert">Ostale aplikacije možda snimaju zvuk, pokušajte ponovo nakon što ih zaustavite.</string>
+  <string name="confirm_recording_fail_title">Snimanje nije uspjelo</string>
   <string name="confirm_restore_message">"Obnoviti na zadane postavke Kamere?"</string>
   <string name="confirm_restore_title">Obnovi na zadane postavke</string>
   <string name="connect_wifi">Poveži se na ovu WLAN mrežu</string>

@@ -39,6 +39,7 @@
   <string name="cant_remove_folder">"Nije moguće ukloniti mapu"</string>
   <string name="cant_remove_retained_app">Nije moguće ukloniti ovu aplikaciju</string>
   <string name="cant_remove_system_app">"Nije moguće ukloniti aplikaciju sustava"</string>
+  <string name="choose_theme">Tema</string>
   <string name="choose_wallpaper">Odaberi sliku pozadine</string>
   <string name="chooser_wallpaper">Odaberi sliku pozadine</string>
   <string name="cloud_app_restore_title">Na čekanju</string>
@@ -51,6 +52,7 @@
   <string name="default_folder_title_recommend">Razno</string>
   <string name="default_folder_title_security">Sustav</string>
   <string name="default_folder_title_tools">Alati</string>
+  <string name="default_theme_name">Zadano</string>
   <string name="delete">Izbriši</string>
   <string name="delete_wallpaper_message">Izbrisati (%1$d) sliku pozadine ?</string>
   <string name="delete_wallpapers_message">Izbrisati (%1$d) slike pozadine ?</string>
@@ -236,6 +238,7 @@
   <string name="wallpaper">Slika pozadine</string>
   <string name="wallpaper_failed_message">"Ne mogu podesiti sliku pozadine"</string>
   <string name="wallpaper_settings">Slika pozadine</string>
+  <string name="wallpaper_settings_for_pad">Slika pozadine</string>
   <string name="wallpaper_success_message">Slika pozadine podešena</string>
   <string name="widget_favorite_contacts_edit">Urednik</string>
   <string name="widget_favorite_contacts_label">Kontakti</string>

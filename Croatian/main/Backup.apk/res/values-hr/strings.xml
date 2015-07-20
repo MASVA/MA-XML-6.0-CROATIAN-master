@@ -50,6 +50,7 @@
   <string name="button_ok">U redu</string>
   <string name="button_return">Natrag</string>
   <string name="call_title">Povijest poziva</string>
+  <string name="camera_summary">Postavke kamere (ne uključujući fotografije)</string>
   <string name="cancel">Odustani</string>
   <string name="cancel_backup">Odustani</string>
   <string name="cancel_restore">Odustani</string>
@@ -180,7 +181,7 @@
   <string name="select_backup_item">Odaberite stavke</string>
   <string name="select_storage_location">Odaberite lokaciju Sig. kopije</string>
   <string name="service_stoped">Usluga zaustavljena</string>
-  <string name="settings_summary">"Podaci: postavke telefona i poruka</string>
+  <string name="settings_summary">"Postavke telefona i poruka</string>
   <string name="sms_title">SMS</string>
   <string name="software_backup_info">Podaci aplikacije</string>
   <string name="start_backup">Započni stvaranje Sig. kopije</string>
