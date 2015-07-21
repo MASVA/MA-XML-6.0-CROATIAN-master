@@ -6,6 +6,7 @@
   <string name="activate_feature_find_device">Pronađi uređaj</string>
   <string name="activate_feature_mms_sync">Sinkr. SMS poruka</string>
   <string name="activate_feature_mx">Mi Poruke</string>
+  <string name="activate_feature_mx_and_voip">Mi Komunikacija</string>
   <string name="activate_phone_failed_notif_title">"Ne mogu aktivirati SIM karticu"</string>
   <string name="activate_phone_failed_notif_title_msim">"Ne mogu aktivirati SIM karticu %s"</string>
   <string name="activate_popup_confirm_all_gateway_failed_query_info">Pokušavam ponovo</string>
@@ -39,6 +40,8 @@ Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate 
   <string name="activate_popup_desc_register_account_intl">Vaš operater može vam naplatiti međunarodnu SMS poruku korištenu za izradu Mi Računa.</string>
   <string name="activate_popup_desc_sim_card">Vaš operater može vam naplatiti SMS poruku korištenu za aktiviranje %s.</string>
   <string name="activate_popup_desc_sim_card_downlink">Da aktivirate %s, unesite vaš broj telefona</string>
+  <string name="activate_popup_desc_voip_privacy">Pravila o Privatnosti</string>
+  <string name="activate_popup_desc_voip_privacy_prefix">". MIUI VOIP je podržan od strane Weihui, prikaži Weihui "</string>
   <string name="activate_popup_title_all_gateway_failed_query_info">"Ne mogu pronaći broj telefona"</string>
   <string name="activate_popup_title_all_gateway_failed_send_sms">"Ne mogu poslati SMS aktivacije"</string>
   <string name="activate_popup_title_failed_query_info">"Ne mogu pronaći broj"</string>

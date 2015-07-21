@@ -126,6 +126,8 @@
   <string name="event_info_end">Kraj\u0009\u0009\u0009</string>
   <string name="event_info_organizer">Organizator:</string>
   <string name="event_info_reminders_label">Podsjetnik</string>
+  <string name="event_info_reminders_label_1">Podsjetnik</string>
+  <string name="event_info_reminders_label_more">Podsjetnik %d</string>
   <string name="event_info_repeat">Ponovi\u0009</string>
   <string name="event_info_title">Prikaži događaj</string>
   <string name="event_info_title_invite">Pozivnica za sastanak</string>

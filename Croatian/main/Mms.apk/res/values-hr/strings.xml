@@ -262,6 +262,7 @@
   <string name="multimedia_notification">Obavijest o MMS-u</string>
   <string name="mx2_type_description">[%s]</string>
   <string name="mx_activate_dlg_title">Aktiviraj Mi Poruke</string>
+  <string name="mx_activate_dlg_title_ex">Aktiviraj Mi Poruke &amp; Voice</string>
   <string name="mx_activate_error_malformed_info">Morate ponovno aktivirati Mi Poruke</string>
   <string name="mx_activate_error_server">"Ne mogu aktivirati"</string>
   <string name="mx_activate_error_sim_change">SIM kartica je promjenjena. Morate ponovno aktivirati Mi Poruke.</string>
@@ -272,7 +273,6 @@
   <string name="mx_activate_int_hint_malformed_info">Vaš operater vam može naplatiti međunarodni SMS korišten za ponovno aktiviranje Mi Poruka.</string>
   <string name="mx_activate_int_hint_server">Vaš operater vam može naplatiti međunarodni SMS korišten za ponovno aktiviranje Mi Poruka.</string>
   <string name="mx_activate_int_hint_sim_change">Izgleda da ste promijenili SIM kartice. Vaš operater vam može naplatiti SMS korišten za ponovno aktiviranje Mi Poruka."</string>
-  <string name="mx_activate_user_agreement_p1">"Korištenjem ove usluge, slažete se s Mi Poruke "</string>
   <string name="mx_auto_resend_mms">Automatski ponovo pošalji MMS</string>
   <string name="mx_auto_resend_mms_summary">Pošalji multimedijalne poruke kao MMS poruke preko mobilne podatkovne veze kada niste povezani na WLAN. Snosite redovite troškove vašeg davatelja usluga.</string>
   <string name="mx_auto_resend_sms">Pošalji kao SMS poruku</string>
@@ -283,7 +283,10 @@
   <string name="mx_current_status">Postavke uporabe podataka</string>
   <string name="mx_dspt">Pošaljite poruke drugim MIUI korisnicima bez nastanka SMS troškova</string>
   <string name="mx_dspt_provision">Mi Poruke omogućuju vam da šaljete poruke drugim MIUI korisnicima bez nastanka SMS troškova. Vaš operater vam može naplatiti SMS poruku korištenu za aktiviranje ove usluge.</string>
-  <string name="mx_enable">Mi Poruke</string>
+  <string name="mx_dspt_provision_ex">"Šaljite poruke i upućivajte pozive drugim MIUI korisnicima bez nastanka troškova. VoIP je podržan od strane Weihui. Prikaži Weihui Pravila o Privatnosti."</string>
+  <string name="mx_dspt_provision_ex2">Pravila o Privatnosti</string>
+  <string name="mx_enable">Mi Poruka</string>
+  <string name="mx_enable_ex">Mi Poruka &amp; Voice</string>
   <string name="mx_enable_popup_msg">Mi Poruke omogućuju vam da šaljete poruke drugim MIUI korisnicima bez nastanka SMS troškova</string>
   <string name="mx_msg">Mi Poruke</string>
   <string name="mx_offline">Bez mreže</string>

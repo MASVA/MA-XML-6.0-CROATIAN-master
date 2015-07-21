@@ -73,6 +73,7 @@
   <string name="brightness_auto_adjust_on">Optimizirajte razinu osvjetljenja za dostupnim svjetlom</string>
   <string name="btn_text_cleanup_all">Očisti</string>
   <string name="btn_text_done">Gotovo</string>
+  <string name="btn_text_power_cleanup">Super Čistač</string>
   <string name="btn_text_quick_cleanup">Očisti</string>
   <string name="btn_text_quick_optimize">Optimiziraj</string>
   <string name="btn_text_quick_scan">Skeniraj</string>

@@ -118,6 +118,8 @@
   <string name="cloud_folder_chooser_move">Izbriši slike iz izvornog albuma</string>
   <string name="cloud_gallery_recyclebin_full">Kanta za smeće je puna. Ispraznite koš na www.mi.com/micloud.</string>
   <string name="cloud_gallery_space_full">Nema dovoljno prostora u vašem cloudu</string>
+  <string name="cloud_gallery_space_full_buy_more">"Ne mogu sinkronizirati nove fotografije s vašim Mi Cloudom. Da biste sinkronizirali više fotografija, kupite dodatni prostor za pohranu."</string>
+  <string name="cloud_gallery_space_full_title">Mi Cloud je pun</string>
   <string name="cloud_media_set_set">MiCloud</string>
   <string name="cloud_owner_album_share_guide">"Podijelite ovaj album 
   
@@ -238,12 +240,14 @@
   <string name="face_album">Osobe</string>
   <string name="face_album_long_tap_tip">Za odabir više osoba ili promjenu postavki grupe, pritisnite &amp; zadržite sliku profila</string>
   <string name="face_album_not_named">Bez naziva</string>
+  <string name="face_album_new_name_hint">Novi naziv</string>
   <string name="face_album_rename_hint">Unesite naziv</string>
   <string name="face_albumset_detecting_tip">Trenutak…</string>
   <string name="face_albumset_empty">Prazno.</string>
   <string name="face_albumset_loading_data">Učitavanje podataka…</string>
   <string name="face_albumset_pending_enable_tip">Poredaj fotografije kada je uređaj spojen na WLAN</string>
   <string name="face_albumset_use_tip">"Automatski poredaj fotografije po osobama koje su na njima."</string>
+  <string name="face_choose_tip">Odaberite iz postojećeg albuma</string>
   <string name="face_move_dialog_title">Odaberite album</string> 
   <string name="facelift">Sjaj lica</string>
   <string name="facetan">Preplanulo lice</string>
@@ -490,7 +494,7 @@ uređaja"</string>
   <string name="qzone">QZone</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recognizing_image">Prepoznavanje slike…</string>
-  <string name="recommanded_face_abandon_tip">Uklonjeno iz prijedloga</string>
+  <string name="recommanded_face_abandon_tip">Uklonjeno iz preporuka</string>
   <string name="recommanded_face_added_tip">Dodano u \"%s\"</string>
   <string name="redeye">Crvene oči</string>
   <string name="redeye_tooltip">Dodirnite za uklanjanje crvenih očiju</string>
@@ -641,6 +645,7 @@ uređaja"</string>
   <string name="unpublish_succeeded">Album nije objavljen!</string>
   <string name="unpublishing">Otkazivanje…</string>
   <string name="untagged">Neoznačeno</string>
+  <string name="upgrade_micloud_space">Kupite još prostora</string>
   <string name="user_alias_self">Sam</string>
   <string name="video_err">"Ne mogu reproducirati videozapis."</string>
   <string name="video_not_exist">Videozapis ne postoji</string>

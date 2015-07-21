@@ -1635,6 +1635,8 @@ Za brisanje glazbe, slika i ostalih korisničkih podataka, "&lt;b&gt;USB pohrana
   <string name="master_clear_progress_title">Brisanje</string>
   <string name="master_clear_summary">Briše sve podatke na uređaju</string>
   <string name="master_clear_title">Vraćanje na tvorničko stanje</string>
+  <string name="max_cpu6_info">"6 jezgreni "</string>
+  <string name="max_cpu8_info">"8 jezgreni "</string>	
   <string name="media_button">Medijska tipka</string>
   <string name="media_category">Medija</string>
   <string name="media_feedback_enable_title">Vibriraj uz ritam</string>
@@ -2334,6 +2336,10 @@ Da biste upotrebljavali prikvačivanje zaslona:
 
 4. Dodirnite ikonu pribadače."</string>
   <string name="screen_pinning_title">Prikvačivanje zaslona</string>
+  <string name="screen_resolution_confirm">U redu i ponovno pokreni</string>
+  <string name="screen_resolution_summary">Smanjivanje rezolucije će smanjiti fini stupanj zaslona, u određenoj mjeri poboljšati energiju i tečnost, i obrnuto. Promjene trebaju ponovno pokretanje sustava.</string>
+  <string name="screen_resolution_switch">Promjeni rezoluciju zaslona</string>
+  <string name="screen_resolution_title">Rezolucija zaslona</string>
   <string name="screen_saturation">Zasićenje</string>
   <string name="screen_timeout">Mirovanje</string>
   <string name="screen_timeout_summary">Nakon %1$s neaktivnosti</string>
