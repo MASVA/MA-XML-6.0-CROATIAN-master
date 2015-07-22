@@ -345,12 +345,14 @@
   <string name="content_description">%1$s o temi %2$s, %3$s dana %4$s, %5$s</string>
   <string name="content_description_today">%1$s o temi %2$s, %3$s u %4$s, %5$s</string>
   <string name="contextmenu_add_contact">Dodaj kontakt</string>
+  <string name="contextmenu_call">Poziv</string>
   <string name="contextmenu_copy">Kopiraj</string>
   <string name="contextmenu_copylink">Kopiraj URL veze</string>
   <string name="contextmenu_dial_dot">Biranje…</string>
   <string name="contextmenu_feedback">Pošaljite povratne informacije</string>
   <string name="contextmenu_help">Pomoć</string>
   <string name="contextmenu_map">Karta</string>
+  <string name="contextmenu_open">Otvori</string>
   <string name="contextmenu_openlink">Otvori u pregledniku</string>
   <string name="contextmenu_send_mail">Pošalji e-poštu</string>
   <string name="contextmenu_sharelink">Dijeli vezu</string>
@@ -361,6 +363,7 @@
   <string name="conversation_list_net_check">"Nije moguće povezivanje na mrežu"</string>
   <string name="conversation_overload_toast">Ova e-pošta je prevelika za učitavanje, prođite sve ponovo na PC kasnije</string>
   <string name="conversation_photo_welcome_text">Dodirnite sliku pošiljatelja da biste odabrali taj razgovor.</string>
+  <string name="copied">Kopirano</string>
   <string name="copy_email">Kopiranje e-adrese</string>
   <string name="copy_number">Kopiranje telefonskog broja</string>
   <string name="create_action">Izradi novi</string>
@@ -424,6 +427,7 @@
   <string name="download_confirm_message">Preuzeti %1$s privitak?</string>
   <string name="download_confirm_title">Preuzimanje privitka</string>
   <string name="download_failed">"Ne mogu preuzeti. Dodirnite za ponovni pokušaj."</string>
+  <string name="download_message_failed_for_too_large">Poruka je prevelika za preuzimanje.</string>
   <string name="download_show_image">Preuzmi i prikaži sliku</string>
   <string name="downloading_message_body">Preuzimanje…</string>
   <string name="draft_count_format"> (%1$s)</string>
@@ -807,6 +811,7 @@ Kopija: %4$s
   <string name="prefetched_got_it">U redu</string>
   <string name="preview_attachment">Pregled</string>
   <string name="previous_action">Prethodno</string>
+  <string name="print">Ispiši</string>
   <string name="prompt_title">Pitaj</string>
   <string name="protocol">Protokol</string>
   <string name="protocol_eas">eas</string>

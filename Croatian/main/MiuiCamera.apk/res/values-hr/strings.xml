@@ -50,9 +50,9 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="confirm_location_alert">Zapamti lokacije fotografija</string>
   <string name="confirm_location_message">"Označite svoje fotografije i videozapise na lokacijama gdje su snimljene. Ostale aplikacije mogu pristupiti tim informacijama zajedno s vašim spremljenim slikama."</string>
   <string name="confirm_location_title">Zapamtiti lokacije fotografija?</string>
-  <string name="confirm_recording_fail_calling_alert">Ne mogu pokrenuti snimanje tijekom poziva.</string>
-  <string name="confirm_recording_fail_recorder_busy_alert">Ostale aplikacije možda snimaju zvuk, pokušajte ponovo nakon što ih zaustavite.</string>
-  <string name="confirm_recording_fail_title">Snimanje nije uspjelo</string>
+  <string name="confirm_recording_fail_calling_alert">"Ne mogu snimati tijekom poziva."</string>
+  <string name="confirm_recording_fail_recorder_busy_alert">"Druga aplikacija možda već koristi mikrofon uređaja za snimanje."</string>
+  <string name="confirm_recording_fail_title">"Ne mogu snimiti"</string>
   <string name="confirm_restore_message">"Obnoviti na zadane postavke Kamere?"</string>
   <string name="confirm_restore_title">Obnovi na zadane postavke</string>
   <string name="connect_wifi">Poveži se na ovu WLAN mrežu</string>
@@ -210,7 +210,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="pref_camera_antibanding_entry_3">Auto</string>
   <string name="pref_camera_antibanding_title">Smanjenje traka na zaslonu</string>
   <string name="pref_camera_asd_night_title">Auto. poboljšanje kod noćnog slikanja</string>
-  <string name="pref_camera_asd_popup_title">Pitaj ako je potrebna bljeskalica</string>
+  <string name="pref_camera_asd_popup_title">Upozori ako je potrebna bljeskalica</string>
   <string name="pref_camera_asd_title">Autom. prepoznavanje scene</string>
   <string name="pref_camera_audio_capture_title">Zvuk</string>
   <string name="pref_camera_auto_capture_when_stable_title">Auto. snimi kad je stabilno</string>

@@ -20,6 +20,7 @@
   <string name="experience">Isk</string>
   <string name="expired">Isteklo</string>
   <string name="fail_reach_server">"Ne mogu se povezati na poslužitelj"</string>
+  <string name="giveup">Odustani</string>
   <string name="in_progress">Slanje zahtjeva…</string>
   <string name="invalid_json">Odgovor je nevažeći JSON string</string>
   <string name="level">Razina</string>

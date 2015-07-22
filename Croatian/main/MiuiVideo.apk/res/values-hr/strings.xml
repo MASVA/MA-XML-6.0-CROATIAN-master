@@ -35,6 +35,8 @@
   <string name="app_update_background">Ažuriraj aplikaciju u pozadini</string>
   <string name="app_upgrade_version">Nova verzija</string>
   <string name="app_version">Verzija</string>
+  <string name="app_wifi_mode">Autom. ažuriraj preko WLAN-a</string>
+  <string name="app_wifi_mode_summary">Kada je povezano na WLAN, automatski nadogradi na posljednju verziju.</string>
   <string name="authenticated_failed">"Ne mogu se prijaviti"</string>
   <string name="authenticating">&lt;CDATA&gt;Provjera&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="authenticating_manually">Provjera nije uspjela</string>
@@ -298,7 +300,7 @@
   <string name="tencent">Tencent</string>
   <string name="to_be_play_label_v5">"Započinje: "</string>
   <string name="toast_back_key_pressed_notice">Još jednom pritisnite Natrag za izlaz</string>
-  <string name="toast_message_continue_play_from">Nastavi reprodukciju od</string>
+  <string name="toast_message_continue_play_from">Nastavak reprodukcije od</string>
   <string name="toast_message_continue_play_hour">"sati "</string>
   <string name="toast_message_continue_play_minute">"minuta "</string>
   <string name="toast_message_continue_play_second_and_play">s</string>

@@ -494,7 +494,7 @@ uređaja"</string>
   <string name="qzone">QZone</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recognizing_image">Prepoznavanje slike…</string>
-  <string name="recommanded_face_abandon_tip">Uklonjeno iz preporuka</string>
+  <string name="recommanded_face_abandon_tip">Uklonjeno iz prijedloga</string>
   <string name="recommanded_face_added_tip">Dodano u \"%s\"</string>
   <string name="redeye">Crvene oči</string>
   <string name="redeye_tooltip">Dodirnite za uklanjanje crvenih očiju</string>

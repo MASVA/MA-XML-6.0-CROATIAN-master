@@ -21,6 +21,7 @@
   <string name="bookmark_empty">Nema Oznaka</string>
   <string name="bookmark_list_title">Favoriti</string>
   <string name="cannot_send_message">"Ne mogu poslati ovu poruku"</string>
+  <string name="check_network">Postavke mreže</string>
   <string name="compressing">Slika je prevelika. Sažimanje…</string>
   <string name="confirm_delete_all_conversations">Sve poruke bit će izbrisane.</string>
   <string name="confirm_delete_conversation">Cijela će nit biti izbrisana.</string>
@@ -48,6 +49,7 @@
   <string name="copy_to_sdcard">Spremi privitak</string>
   <string name="copy_to_sdcard_fail">"Ne mogu spremiti privitak"</string>
   <string name="copy_to_sdcard_success">Privitak spremljen</string>
+  <string name="current_service_number">Trenutan broj usluge</string>
   <string name="delete">Izbriši</string>
   <string name="delete_message">Izbrisati</string>
   <string name="delete_unlocked">Izbriši zaključane poruke</string>
@@ -56,9 +58,10 @@
   <string name="done">Gotovo</string>
   <string name="edit">Uredi</string>
   <string name="edit_phrase">Uredi izraz</string>
+  <string name="empty_mipub_list">Prazno</string>
   <string name="enable_password_protect">Omogućite zaštitu zaporkom</string>
   <string name="enable_visible_pattern_title">Napravite uzorak vidljivim</string>
-  <string name="english_subject_limit">max 40 znakova</string>
+  <string name="english_subject_limit">40 znakova maks.</string>
   <string name="ex_type_mx">Mi Poruka</string>
   <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">Dosegnuto je ograničenje veličine poruke.</string>
@@ -69,15 +72,15 @@
   <string name="festival_networking_desc">Ova značajka treba povezivanje s internetom da funkcionira normalno.</string>
   <string name="festival_never_remind">"Ne prikazuj ponovo."</string>
   <string name="festival_sms_loading">Učitavanje…</string>
-  <string name="fetion_prefix">[Fetion]</string>
   <string name="file_create_time">Napisano:</string>
   <string name="file_size">Veličina:</string>
   <string name="file_title">Naziv:</string>
   <string name="file_width_height">Veličina:</string>
   <string name="follow_finished">Prateći broj</string>
   <string name="follow_forbidden">"Ne mogu pratiti ovaj broj"</string>
+  <string name="followed_accounts">Prateći računi</string>
   <string name="hms_add_image_progress_message">Obrada…</string>
-  <string name="hms_uri_param_err">"URL ne može biti prazan"</string>
+  <string name="hms_uri_param_err">"Poveznica ne može biti prazna"</string>
   <string name="invalid_conversation">Nevažeći razgovor</string>
   <string name="left_cancel">Pomaknite ulijevo da poništite</string>
   <string name="menu_add_black">Blokiraj ovaj broj</string>
@@ -88,6 +91,7 @@
   <string name="menu_lock">Označi</string>
   <string name="menu_mark">Označi</string>
   <string name="menu_more">Više</string>
+  <string name="menu_more_service">Više</string>
   <string name="menu_new_contact">Novi kontakt</string>
   <string name="menu_unlock">Odznači</string>
   <string name="menu_yellowpage">Prikaži %s</string>
@@ -95,7 +99,10 @@
   <string name="message_pending">Slanje</string>
   <string name="message_readed">Pročitano</string>
   <string name="message_saved_as_draft">Poruka je spremljena kao skica.</string>
-  <string name="migrate_db_loading">Učitavanje...</string>
+  <string name="migrate_db_loading">Učitavanje…</string>
+  <string name="mipub_message_block">Ne primaj poruke od%s</string>
+  <string name="mipub_message_block_already">Već ste podesili neprimanje poruka</string>
+  <string name="mipub_message_receive">Ponovo primaj poruke od %s</string>
   <string name="msglist_continue_to_pull_for_more">Povuci dolje da bi vidjeli više</string>
   <string name="msglist_more_refreshing">Osvježavam…</string>
   <string name="msglist_no_more_to_refresh">Sve je već ažurno</string>
@@ -210,6 +217,7 @@
   <string name="to_label">"Prima "</string>
   <string name="to_send_wrapper">Poslano će biti u %s</string>
   <string name="too_many_unsent_mms">"Ovu poruku trenutačno nije moguće poslati. Postoji previše neposlanih multimedijskih poruka."</string>
+  <string name="try_again">Pokušaj ponovo</string>
   <string name="type_attachment">privitak</string>
   <string name="type_audio">audio</string>
   <string name="type_picture">slika</string>

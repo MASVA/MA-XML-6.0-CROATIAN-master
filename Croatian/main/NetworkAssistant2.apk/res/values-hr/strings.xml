@@ -179,7 +179,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="main_secondary_message_traffic_used_leisure">%s Isklj. maks. podataka iskorišteno</string>
   <string name="main_secondary_message_traffic_used_noleisure">%s maks.podataka iskorišteno | nema isklj. maks. podataka preostalo</string>
   <string name="main_secondary_message_traffic_used_normal">%s maks.podataka iskorišteno</string>
-  <string name="main_toolbar_firewall">Ograniči uporabu podataka aplikacija</string>
+  <string name="main_toolbar_firewall">Ograniči uporabu podataka</string>
   <string name="main_toolbar_internet_by_mobiledata">Mobilna podatkovna veza</string>
   <string name="main_toolbar_internet_by_pc_brige">Internet putem USB-a</string>
   <string name="main_toolbar_internet_by_wifi">Internet putem WLAN-a</string>
@@ -336,15 +336,15 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="pref_specified_adjust">Postavljanje prilagođenog ograničenja podataka</string>
   <string name="pref_specified_traffic_settings">Postavke ograničenja podataka</string>
   <string name="pref_title_declaration">Odricanje odgovornosti</string>
-  <string name="pref_title_diagnostics_dont_show_float_notification">Prikaži obavijesti u panelu obavijesti</string>
+  <string name="pref_title_diagnostics_show_float_notification">Plutajuće obavijesti</string>
   <string name="pref_title_mobile_traffic">Prikaži podatke korištenja dok je uređaj bio zaključan</string>
   <string name="pref_title_network_diagnostics">Test mreže</string>
   <string name="pref_title_over_traffic_limit_warning">Kada je premašeno</string>
   <string name="pref_title_traffic_limit_number">Veličina</string>
   <string name="pref_title_traffic_speed_state">Prikaži brzinu mreže u traci obavijesti</string>
   <string name="pref_title_update_notification">Prikaži obavijesti uporabe podataka</string>
-  <string name="pref_traffic_saving_auto_add_whitelist">Smanji uporabu podataka za nove aplikacije</string>
-  <string name="pref_traffic_saving_auto_add_whitelist_hint">Automatski aktiviraj Uštedu podataka za novo instalirane aplikacije čija uporaba podataka može biti značajno smanjena</string>
+  <string name="pref_traffic_saving_auto_add_whitelist">Dopusti pametne iznimke</string>
+  <string name="pref_traffic_saving_auto_add_whitelist_hint">Automatski dodaj aplikacije s mogućnošću uštede podataka u iznimke</string>
   <string name="pref_traffic_saving_compressed">Smanjeno</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
   <string name="pref_traffic_saving_issue_content">"

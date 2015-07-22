@@ -200,6 +200,7 @@
   <string name="hints_virus_name_title">Virus:</string>
   <string name="hints_virus_scan_result_descx">Ova je aplikacija opasna za sigurnost vašeg uređaja</string>
   <string name="info_and_call">Pozivi i poruke</string>
+  <string name="history_details_title">Detalji povijesti</string>
   <string name="item_app_permission">Dopuštenja aplikacija</string>
   <string name="item_dev_mode">Opcije Raz. programera</string>
   <string name="item_install_monitor">Instaliraj nadzor</string>

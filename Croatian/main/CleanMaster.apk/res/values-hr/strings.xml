@@ -145,7 +145,7 @@
   <string name="pref_summary_cleanup_white_list">Spriječi odabrane aplikacije od čišćenja</string>
   <string name="pref_summary_expand_cache_group">Proširi stavke u popisu predmemorije automatski</string>
   <string name="pref_summary_garbage_auto_clean_content">Odaberite stavke koje se čiste automatski</string>
-  <string name="pref_summary_garbage_cleanup_check_size">Očistiti automatski kada smeće dosegne određenu veličinu</string>
+  <string name="pref_summary_garbage_cleanup_check_size">Očisti automatski kada smeće dosegne određenu veličinu</string>
   <string name="pref_summary_garbage_cleanup_check_time">Zakaži rutinsko čišćenje</string>
   <string name="pref_summary_garbage_process_mode">Postavi obavijest za čistač kada je pokrenut</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Pošaljite i usporedite nepoznate nazive datoteka s online definicijama</string>

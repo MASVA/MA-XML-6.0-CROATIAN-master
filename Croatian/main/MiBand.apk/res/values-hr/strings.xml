@@ -889,7 +889,7 @@ ili oko 12.000 koraka dnevno za aktivan, zdrav stil života. "</string>
   <string name="running_history_date" formatted="false">%d/%d/%d</string>
   <string name="running_history_group_distance">%1$.2fkm</string>
   <string name="running_history_group_distance_br">%1$.2fmile</string>
-  <string name="running_history_group_time_format">yyyy MM</string>
+  <string name="running_history_group_time_format">MM yyyy</string>
   <string name="running_history_no_data">Nema podataka</string>
   <string name="running_history_no_data_refresh">Osvježi</string>
   <string name="running_history_no_data_refreshing">Osvježavanje…</string>
@@ -897,7 +897,7 @@ ili oko 12.000 koraka dnevno za aktivan, zdrav stil života. "</string>
   <string name="running_history_title">Povijest</string>
   <string name="running_history_total_calorie">Potrošeno (kcal)</string>
   <string name="running_history_total_distance">Udaljenost (km)</string>
-  <string name="running_history_total_distance_br">Distance(mile)</string>
+  <string name="running_history_total_distance_br">Udaljenost (milja)</string>
   <string name="running_history_total_times">Ukupno (puta)</string>
   <string name="running_hour">%dh</string>
   <string name="running_hour_1">" "</string>
@@ -911,18 +911,18 @@ ili oko 12.000 koraka dnevno za aktivan, zdrav stil života. "</string>
   <string name="running_label_hint">Unesite ime</string>
   <string name="running_lable_km_slowest">Najsporiji Km</string>
   <string name="running_lable_miles_fastest">Najbrži Km</string>
-  <string name="running_long_press_to_pause">Long Press To Pause</string>
+  <string name="running_long_press_to_pause">Dugi pritisak za pauzu</string>
   <string name="running_main_avoid_use_indoor">Nemojte koristiti unutar zgrade</string>
   <string name="running_main_back_button_in_dialog">Natrag</string>
   <string name="running_main_continue_button_in_dialog">Nastavi</string>
-  <string name="running_main_go_now">Go</string>
+  <string name="running_main_go_now">Kreni</string>
   <string name="running_main_go_outdoor">Idite na otvoreno</string>
   <string name="running_main_gps_cannot_record">Vaše GPS nije dostupan</string>
   <string name="running_main_gps_prefix">GPS:</string>
   <string name="running_main_mileage">%1$d/%2$dkm</string>
   <string name="running_main_mileage_one">%1$skm</string>
   <string name="running_main_startup_subtitle1">Da snimite točne podatke trčanja</string>
-  <string name="running_main_startup_subtitle2">koristite GPS n Miband</string>
+  <string name="running_main_startup_subtitle2">koristite GPS i Miband</string>
   <string name="running_main_startup_title1">Idite van, idite trčati</string>
   <string name="running_main_title">Sport</string>
   <string name="running_map_mode">Mapa</string>
@@ -1000,7 +1000,7 @@ ili oko 12.000 koraka dnevno za aktivan, zdrav stil života. "</string>
   <string name="running_watermark">Vodeni žig</string>
   <string name="running_watermark_btn_confirm">U redu</string>
   <string name="running_watermark_guide_tips">Pojedinačno mijenjanje dugim zadržavanjem</string>
-  <string name="running_watermark_search_location">\#Učitavanje vaše lokaciju#</string>
+  <string name="running_watermark_search_location">\#Učitavanje vaše lokacije#</string>
   <string name="running_year_null"/>
   <string name="s_mili">Mi Band</string>
   <string name="scan_label">Skenirajte QR kod</string>
@@ -1150,44 +1150,44 @@ Potrošeno %3$s cal. Prethodni rekord je bio %5$s koraka, postavljen %4$s."</str
   <string name="shoes_calibrate_instruction">"Rastezanje stopala
 wait for 5s"</string>
   <string name="shoes_calibrate_success">Kalibriranje je uspjelo</string>
-  <string name="shoes_calibrate_suggestion">Suggestion: Please re-calibrate when the smart module is reset.</string>
-  <string name="shoes_calibrating">Calibrating</string>
-  <string name="shoes_cancel">Cancel</string>
+  <string name="shoes_calibrate_suggestion">Sugestija: Ponovno kalibrirajte kada se pametan modul resetira.</string>
+  <string name="shoes_calibrating">Kalibriranje</string>
+  <string name="shoes_cancel">Odustani</string>
   <string name="shoes_count_down_text">%ds</string>
-  <string name="shoes_description">Shoes life span is 400-800km</string>
-  <string name="shoes_distance" formatted="false">%d / %dkilometer(s)</string>
-  <string name="shoes_fetching">Fetching</string>
-  <string name="shoes_fetching_failed">Failed</string>
-  <string name="shoes_firmware_version">Firmware version</string>
+  <string name="shoes_description">Životni vijek tenisica je  400-800km</string>
+  <string name="shoes_distance" formatted="false">%d / %d kilometar(s)</string>
+  <string name="shoes_fetching">Dohvaćanje</string>
+  <string name="shoes_fetching_failed">Nije uspjelo</string>
+  <string name="shoes_firmware_version">Firmware verzija</string>
   <string name="shoes_guangsu">Guang Su</string>
-  <string name="shoes_introduction">Introduction</string>
-  <string name="shoes_invalid_code">bar code wrong</string>
-  <string name="shoes_recalibrate">Re-calibrate</string>
-  <string name="shoes_release_binding">Release Binding</string>
-  <string name="shoes_select_shoes">Select Shoes</string>
-  <string name="shoes_smart_shoes">%sSmart Shoes</string>
-  <string name="shoes_start_calibrate">Start Calibrate</string>
-  <string name="shoes_static_calibrate">Calibrate</string>
-  <string name="shoes_unbind">Release Binding</string>
-  <string name="shoes_unbind_prompt">After release binding, no information will get</string>
-  <string name="shoes_unbind_success">unbind success</string>
-  <string name="shoes_usage">%skilometer(s)</string>
+  <string name="shoes_introduction">Predstavljanje</string>
+  <string name="shoes_invalid_code">Pogrešan bar kod</string>
+  <string name="shoes_recalibrate">Rekalibriranje</string>
+  <string name="shoes_release_binding">Prekidanje povezivanja</string>
+  <string name="shoes_select_shoes">Odaberite tenisice</string>
+  <string name="shoes_smart_shoes">%s pametne tenisice</string>
+  <string name="shoes_start_calibrate">Start kalibriranja</string>
+  <string name="shoes_static_calibrate">Kalibriraj</string>
+  <string name="shoes_unbind">Prekidanje povezivanja</string>
+  <string name="shoes_unbind_prompt">Nakon prekida povezivanja, nove informacije neće biti dostupne</string>
+  <string name="shoes_unbind_success">Veza uspješno prekinuta</string>
+  <string name="shoes_usage">%s kilometar(s)</string>
   <string name="shoes_used_distance">Life Span</string>
-  <string name="signal_strength">"Signal strength: "</string>
-  <string name="smaller_than_normal_with_value">%1$s below average</string>
+  <string name="signal_strength">"Jačina signala: "</string>
+  <string name="smaller_than_normal_with_value">%1$s ispod prosjeka</string>
   <string name="smart_alarm_clock">Alarm</string>
   <string name="smart_alarm_notify">Alarm</string>
   <string name="smart_wake_up">Early bird alarm</string>
-  <string name="smart_wake_up_info">"Wake up at the best time according to your natural sleep cycle. Band will vibrate when it detects you've entered light sleep less than 30 minutes prior to the alarm time."</string>
-  <string name="sms_notify">Vibrate when SMS is received</string>
-  <string name="sms_notify_tips2">Band must be paired with your device using Bluetooth when message is received.</string>
-  <string name="sport_coming_soon">Comming soon!</string>
-  <string name="sport_new_record_ropeskipping">New record</string>
-  <string name="sport_ranking_desc_great">Great work!</string>
-  <string name="sport_ranking_desc_normal" formatted="false">You placed &lt;b&gt;%s&lt;/b&gt; out of %s users.</string>
-  <string name="sport_ranking_desc_poor">%s: Most users placed ahead of you.</string>
-  <string name="sport_running_helper">Route tracker</string>
-  <string name="sport_running_helper_test">跑步助手测试</string>
+  <string name="smart_wake_up_info">"Probudite se u najbolje vrijeme u skladu s vašim prirodnim ciklusom spavanja. Mi Band će zavibrirati kada otkrije da ste lagano usnuli na manje od 30 minuta prije vremena alarma."</string>
+  <string name="sms_notify">Zavibriraj kad je primljena SMS poruka</string>
+  <string name="sms_notify_tips2">Mi Band mora biti uparen s uređajem putem Bluetooth veze kada je primljena poruka.</string>
+  <string name="sport_coming_soon">Dolazi uskoro!</string>
+  <string name="sport_new_record_ropeskipping">Novi rekord</string>
+  <string name="sport_ranking_desc_great">Bravo!</string>
+  <string name="sport_ranking_desc_normal" formatted="false">Pobijedili ste &lt;b&gt;%s&lt;/b&gt; %s korisnika.</string>
+  <string name="sport_ranking_desc_poor">%s: Većina korisnika stavljena ispred vas.</string>
+  <string name="sport_running_helper">Tracker rute</string>
+  <string name="sport_running_helper_test">Test pomoćnika trčanja</string>
   <string name="sport_share">Podijeli sada</string>
   <string name="standard_figure">"Prosječno
 "</string>
@@ -1442,7 +1442,7 @@ Držite Mi Band i telefon udaljenim najmanje 5m."</string>
   <string name="weight_history_dynamic_title">Ažuriranje: %1$s</string>
   <string name="weight_less_than_tips">Prema BMI dobivenim informacijama, vaša težina bi trebala biti %1$s.</string>
   <string name="weight_low_battery">Slaba baterija, promijenite je.</string>
-  <string name="weight_match_no_suitable_user">"Couldn't match weight with an existing user"</string>
+  <string name="weight_match_no_suitable_user">"Ne mogu usporediti težinu s postojećim korisnikom"</string>
   <string name="weight_match_no_user">Odaberi korisnika</string>
   <string name="weight_measure">Vaganje</string>
   <string name="weight_not_found_info">Ostanite u blizini vage</string>

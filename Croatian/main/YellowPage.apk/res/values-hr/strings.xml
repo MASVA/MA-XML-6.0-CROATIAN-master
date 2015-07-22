@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_fraud_num_online_identification">O toj značajki</string>
+  <string name="about_phone_event">O značajki Service Info</string>
   <string name="about_smart_antispam_summary">O toj značajki</string>
   <string name="about_telephone_fraud">O telefonskoj prijevari</string>
   <string name="account_address">Adrese</string>
@@ -82,6 +83,7 @@
   <string name="express_address_info">Detalji adrese</string>
   <string name="express_address_name">Naziv</string>
   <string name="express_address_region">Regija</string>
+  <string name="express_banner_header">%1$s / Broj za praćenje</string>
   <string name="express_address_warning_no_area">Regija je potrebna</string>
   <string name="express_address_warning_no_full_address">Adresa je potrebna</string>
   <string name="express_address_warning_no_name">Ime je potrebno</string>
@@ -139,12 +141,10 @@ Provjerite broj za praćenje."</string>
   <string name="express_no_order">Nema narudžbi</string>
   <string name="express_no_order_info">Nema informacija o narudžbi</string>
   <string name="express_order_confirmation">Potvrda narudžbe</string>
-  <string name="express_order_created_time">Kreirano</string>
   <string name="express_order_failed">Nije uspjelo</string>
-  <string name="express_order_info">Detalji narudžbe</string>
-  <string name="express_order_internal_id">Narudžba #</string>
   <string name="express_order_ongoing">Naručujem…</string>
   <string name="express_order_result">Rezultat</string>
+  <string name="express_order_state">%1$s / %2$s</string>
   <string name="express_order_state_accepted">Prihvaćeno</string>
   <string name="express_order_state_allograph">Potpisano</string>
   <string name="express_order_state_cancelled">Otkazano</string>
@@ -183,8 +183,8 @@ Provjerite broj za praćenje."</string>
   <string name="express_view_status">Prati</string>
   <string name="expresss_inquiry_all_logistics">Sve</string>
   <string name="expresss_inquiry_frequently_used_logistics">Često korišteno</string>
-  <string name="follow_express">Prati %1$s</string>
-  <string name="follow_express_success">Ne pratim %1$s.</string>
+  <string name="follow_label">Prati %1$s</string>
+  <string name="follow_success">Ne pratim %1$s.</string>
   <string name="fail_to_add_account">"Nije moguće dodati račun"</string>
   <string name="fraud_number_online_identification">Blokiraj neželjene pozive</string>
   <string name="gallery">Galerija</string>
@@ -192,10 +192,12 @@ Provjerite broj za praćenje."</string>
   <string name="general_delete_recent_ok">Nedavno izbrisano</string>
   <string name="general_favorite_ok">Favorit dodan</string>
   <string name="general_favorite_title">Favoriti</string>
+  <string name="general_follow_hint">Prati %1$s za primanje relevantnih ažuriranja</string>
   <string name="general_menu_delete_recent">Izbriši nedavne</string>
   <string name="general_menu_unfavorite">Ukloni iz favorita</string>
   <string name="general_no_yellow_page">Popis je prazan</string>
   <string name="general_recent_title">Nedavno</string>
+  <string name="general_unfollow_hint">Prestati pratiti %1$s?</string>
   <string name="general_yellow_page_title">Općenito</string>
   <string name="group_name_banner"/>
   <string name="group_name_basic"/>
@@ -265,16 +267,16 @@ Provjerite broj za praćenje."</string>
   <string name="notify_connect_title">Obavijest povezivanja na internet</string>
   <string name="online_no_network">"Ne mogu se povezati na mrežu"</string>
   <string name="online_search_hint">Pretraživanje za online resursima</string>
-  <string name="order_date_label">Datum narudžbe:</string>
+  <string name="order_date_label">Datum narudžbe: %1$s</string>
   <string name="order_empty_hint">Nema narudžbi</string>
-  <string name="order_id_label">"Narudžba #: "</string>
+  <string name="order_id_label">"Narudžba #: %1$s"</string>
+  <string name="order_info">Detalji narudžbe</string>
   <string name="order_merchant_title">Moje narudžbe</string>
   <string name="order_merchant_title_format">%1$s-%2$s</string>
   <string name="order_not_found">Nema narudžbi</string>
-  <string name="order_price_label">"Cijena narudžbe: "</string>
-  <string name="order_product_name_label">"Naziv proizvoda: "</string>
-  <string name="order_status">%s</string>
-  <string name="order_status_label">"Status narudžbe: "</string>
+  <string name="order_price_label">"Cijena narudžbe: %1$s"</string>
+  <string name="order_product_name_label">"Naziv proizvoda: %1$s"</string>
+  <string name="order_status_label">"Status narudžbe: %1$s"</string>
   <string name="order_type_recharge">Nadoplata</string>
   <string name="packages_no_package">Nema preporučenih paketa</string>
   <string name="packages_pay">Kupi sada</string>
@@ -290,6 +292,7 @@ Provjerite broj za praćenje."</string>
   <string name="payment_failed_common_problems">Došlo je do pogreške prilikom plaćanja.</string>
   <string name="payment_unknown_status_summary">Provjerite svoju mrežnu vezu i pokušajte ponovno.</string>
   <string name="payment_unknown_status_title">"Ne mogu potvrditi status plaćanja"</string>
+  <string name="phone_event_setting_notice_text">"Primiti ćete informaciju nakon dolaznog ili odlaznog poziva servisne usluge. Pomoću toga, možete poslati telefonski status tih poziva."</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="photo_count">%d ukupno</string>
   <string name="quick_yellow_page_tab_call_log">Povijest poziva</string>
@@ -297,6 +300,7 @@ Provjerite broj za praćenje."</string>
   <string name="recharge_actual_price">Cijena:</string>
   <string name="recharge_charge_range">Cijena: ¥%1$s-%2$s</string>
   <string name="recharge_charge_value">Cijena: ¥%s</string>
+  <string name="recharge_follow_name">Usluga nadoplate</string>
   <string name="recharge_history">Povijest nadoplate</string>
   <string name="recharge_history_empty">Nema povijesti</string>
   <string name="recharge_input_phone_title">Unesite telefonski broj (China Mobile, China Unicom, ili China Telecom)</string>
@@ -315,6 +319,7 @@ Provjerite broj za praćenje."</string>
   <string name="recharge_payment_result_ok_title">Dodano RMB %s</string>
   <string name="recharge_payment_result_progress_summary">Provjeravam ishod plaćanja…</string>
   <string name="recharge_phone">Broj za nadoplatu:</string>
+  <string name="recharge_phone_format">%1$s / %2$s</string>
   <string name="recharge_phone_number_empty">Unešeni broj telefona ne bi trebao biti prazan</string>
   <string name="recharge_phone_number_error">Unešeni broj nije valjan</string>
   <string name="recharge_select_money_title">Odaberite iznos nadoplate</string>
@@ -485,6 +490,7 @@ sadržaj koji tražite nije trenutno dostupan u vašoj regiji."</string>
   <string name="resource_update">Ažuriraj</string>
   <string name="resource_user_know">U redu</string>
   <string name="resource_waiting_download">Čekam…</string>
+  <string name="rmb">RMB</string>
   <string name="scan">Skeniraj</string>
   <string name="sdcard_not_mounted_dialog_message">"Umetnite SD karticu.
 "</string>
@@ -509,6 +515,8 @@ sadržaj koji tražite nije trenutno dostupan u vašoj regiji."</string>
   <string name="toast_finish_delete_call_log">Povijest poziva je izbrisana</string>
   <string name="toast_text_copied">Tekst kopiran</string>
   <string name="try_again">Pokušaj ponovno</string>
+  <string name="turn_on_phone_event_summary">Pošaljite telefonski status brojeva usluga</string>
+  <string name="turn_on_phone_event_title">Primanje informacije o usluzi</string>
   <string name="turn_on_smart_antispam_hint">"Identificiraj pozive nepoznatih brojeva pomoću Xiaomi oznake imenika"</string>
   <string name="turn_on_smart_antispam_summary_off">Pretraži samo brojeve spremljene na ovom uređaju</string>
   <string name="turn_on_smart_antispam_summary_on">Pošalji i identificiraj nepoznate brojeve u zapisima poziva i SMS porukama</string>
@@ -532,5 +540,4 @@ sadržaj koji tražite nije trenutno dostupan u vašoj regiji."</string>
   <string name="yellowpage_navigation_network_location_enabled">Pristup lokaciji je uključen. Možetem isključiti ovu značajku u bilo kojem trenutku u Postavkama.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_summary">Poboljšajte rezultate pretraživanja dopuštajući Žutim Stranicama pristup podacima o Vašoj lokaciji.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Pristup lokaciji</string>
-  <string name="yuan">Yuan</string>
 </resources>
