@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.android.fileexplorer.view.CategoryGridView android:gravity="center" android:id="@id/category_grid" android:background="@drawable/category_gridview_bg" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="wrap_content" android:horizontalSpacing="0.5dip" android:verticalSpacing="0.5dip" android:stretchMode="columnWidth" android:numColumns="3" />
+        <View android:background="@color/category_gridview_bg_color" android:layout_width="fill_parent" android:layout_height="0.25dip" />
+        <include layout="@layout/storage_layout" />
+        <include layout="@layout/menu_list_layout" />
+        <include layout="@layout/layout_app_tag" />
+    </LinearLayout>
+</ScrollView>

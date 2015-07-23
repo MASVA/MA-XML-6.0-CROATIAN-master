@@ -181,7 +181,7 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="HIPS_Perm_SendMMS">Slanje MMS poruka</string>
   <string name="HIPS_Perm_SendMMS_Desc">može izravno slati MMS poruke</string>
   <string name="HIPS_Perm_SendMMS_Hint">Ovoliko(%1$s)aplikacija mogu slati MMS poruke</string>
-  <string name="HIPS_Perm_SendSMS">Pošalji SMS</string>
+  <string name="HIPS_Perm_SendSMS">Slanje SMS poruka</string>
   <string name="HIPS_Perm_SendSMS_Content">Sadržaj</string>
   <string name="HIPS_Perm_SendSMS_Data">SMS Sadržaj %1$s:%2$d</string>
   <string name="HIPS_Perm_SendSMS_Desc">može izravno slati SMS poruke</string>
