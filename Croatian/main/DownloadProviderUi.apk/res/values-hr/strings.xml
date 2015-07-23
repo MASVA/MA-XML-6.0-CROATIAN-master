@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="DOWNLOAD_UNIT_BIT">B</string>
+  <string name="DOWNLOAD_UNIT_GB">GB</string>
+  <string name="DOWNLOAD_UNIT_KB">KB</string>
+  <string name="DOWNLOAD_UNIT_MB">MB</string>
+  <string name="DOWNLOAD_UNIT_TB">TB</string>
   <string name="Only_the_wifi">Koristi samo WLAN</string>
   <string name="add_flow_fail_haveget_msg">Probni period je istekao</string>
   <string name="add_flow_fail_vip_msg">Xunlei ubrzanje preuzimanja je uključeno</string>
@@ -7,8 +12,8 @@
   <string name="all_downloads">Sva preuzimanja</string>
   <string name="all_fileter">Sve</string>
   <string name="all_the_internet">Sve mreže</string>
-  <string name="apk_filter">Apk</string>
-  <string name="app_downloads">%s preuzimanja</string>
+  <string name="apk_filter">APK</string>
+  <string name="app_downloads">Preuzimanja %s</string>
   <string name="app_label">Preuzimanja</string>
   <string name="auth_activity_title">Xunlei Račun</string>
   <string name="bind_xunlei_account">Dodaj Xunlei Račun</string>
@@ -40,14 +45,14 @@
   <string name="dialog_title_queued_body">Datoteka nedostupna</string>
   <string name="disable">Isključeno</string>
   <string name="display_expire_netiv1">Ovaj mjesec</string>
-  <string name="doc_filter">Dokumenat</string>
-  <string name="download">Preuzimanja</string>
-  <string name="download_complete">Završeno</string>
+  <string name="doc_filter">Dokumenti</string>
+  <string name="download">Preuzimanje</string>
+  <string name="download_complete">ZAVRŠENO</string>
   <string name="download_error">Neuspješno</string>
   <string name="download_error_insufficient_space">Nedovoljno prostora za pohranu</string>
   <string name="download_filesize_unknown">Nepoznato</string>
-  <string name="download_in_process">Preuzimanje</string>
-  <string name="download_info_count_deleted_tasks">Preuzimanja uklonjeno: %s</string>
+  <string name="download_in_process">PREUZIMANJE U TIJEKU</string>
+  <string name="download_info_count_deleted_tasks">Uklonjeno (%s) preuzimanja</string>
   <string name="download_info_start_deleted_tasks">Obrisati preuzimanje</string>
   <string name="download_list_get_free_vip">Xunlei proba</string>
   <string name="download_list_get_hightspeed_flow_auto_open">Xunlei ubrzanje preuzimanja je uključeno</string>
@@ -73,13 +78,15 @@
   <string name="download_title_sorted_by_size">Preuzimanja - Poredano po veličini</string>
   <string name="download_wait_connect">Čekanje na povezivanje</string>
   <string name="download_when_network_connected">Preuzmi koristeći mobilnu mrežu</string>
-  <string name="downloaded_empty">Nema preuzetih sadržaja</string>
-  <string name="downloading_empty">Nema preuzimanja sadržaja</string>
+  <string name="downloaded_empty">Prazno</string>
+  <string name="downloading_empty">Prazno</string>
   <string name="downloads_operating">Radim…</string>
   <string name="dredge_xunlei_account">Izradite Xunlei Račun</string>
   <string name="editmode_menu_delete">Izbriši</string>
   <string name="editmode_menu_share">Dijeli</string>
   <string name="experience_xunlei_account_speed">Xunlei Članovi mogu uživati ​​u preuzimanju velikom brzinom</string>
+  <string name="expire_notification_msg">Vaše članstvo će uskoro isteči, dodirnite za prikaz detalja</string>
+  <string name="expire_today_notification_msg">Vaše članstvo danas ističe, dodirnite za prikaz detalja</string>
   <string name="free_high_speed_channel">Xunlei ubrzanje preuzimanja (besplatno)</string>
   <string name="free_speedup_exp">Isprobajte Xunlei ubrzanje preuzimanja besplatno</string>
   <string name="get_account_dialog_msg">Dobivanje detalja računa…</string>
@@ -100,6 +107,9 @@
   <string name="mi_money">Mi Kredita</string>
   <string name="mi_money_">Mi Kredita</string>
   <string name="no_downloads">Nema preuzimanja.</string>
+  <string name="no_vip_info">开通迅雷会员即可享受加速特权</string>
+  <string name="no_vip_show_info">"手机与电脑齐加速；
+畅享加速节省时间更给力！"</string>
   <string name="one_month">1 mjesec</string>
   <string name="open_download">Otvori</string>
   <string name="open_xunlei_speed_service">Pokreni Xunlei ubrzanje preuzimanja</string>
@@ -143,16 +153,27 @@
   <string name="select_all">Odaberi sve</string>
   <string name="select_operation_items">Odaberite stavke</string>
   <string name="selected_count">Odabrano %1$d od %2$d</string>
-  <string name="show_more">Više(%s)</string>
+  <string name="show_more">Prikaži (%s) više</string>
+  <string name="start_xunlei_speedup_info">会员登录后下载任务时自动开启高速通道</string>
+  <string name="third_web_cancel">取消</string>
+  <string name="third_web_confirm">确定</string>
+  <string name="third_web_default">设为默认保存路径，以后不再提醒</string>
+  <string name="third_web_filename_hint">文件名称</string>
+  <string name="third_web_filesize">文件大小:</string>
+  <string name="third_web_savepath">目录</string>
+  <string name="third_web_title">保存</string>
   <string name="toast_xunlei_engine_open">"Xunlei ubrzanje preuzimanja uključeno.
 Ova značajka se ne preporučuje izvan Kine"</string>
   <string name="turn_off_xunlei_message">Možete iskusiti sporiju brzinu preuzimanja.</string>
   <string name="turn_off_xunlei_tips">Xunlei ubrzanje preuzimanja je isključeno</string>
-  <string name="turn_off_xunlei_title">Onemogući Xunlei alat preuzimanja</string>
+  <string name="turn_off_xunlei_title">Isključi Xunlei</string>
   <string name="unbind_xunlei_2_success">Xunlei Račun dodan</string>
   <string name="unbind_xunlei_success">Odjavljen iz Xunlei Računa</string>
   <string name="valid_in_this_month">Vrijedi ovaj mjesec</string>
   <string name="vip_auto_speedup">Xunlei ubrzanje preuzimanja uključeno</string>
+  <string name="vip_expire_show_info">您的迅雷会员即将到期\\n立即续费尊享95折优惠</string>
+  <string name="vip_expire_today_show_info">您的迅雷会员今天将到期\\n立即续费尊享95折优惠</string>
+  <string name="vip_show_info">500万迅雷会员的选择\\n专属加速特权，畅享快人一步的放肆</string>
   <string name="xunlei_brand">Powered by Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
   <string name="xunlei_close_tips_button">Ubrzati preuzimanje</string>

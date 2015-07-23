@@ -76,10 +76,10 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="HIPS_Perm_AllowAll">Dopustiti sve</string>
   <string name="HIPS_Perm_AnswerCall">može odgovoriti na trenutan tel. poziv</string>
   <string name="HIPS_Perm_AudioRecorder">Snimanje zvuka</string>
-  <string name="HIPS_Perm_AudioRecorder_Desc">može snimanti zvuka i tel. pozive</string>
+  <string name="HIPS_Perm_AudioRecorder_Desc">može snimati zvuk i tel. pozive</string>
   <string name="HIPS_Perm_AudioRecorder_Hint">Ovoliko(%1$s)aplikacija može snimati zvuk i tel. pozive</string>
   <string name="HIPS_Perm_AutoStart">Pokreni kod pokretanja sustava</string>
-  <string name="HIPS_Perm_AutoStart_Desc">može pokrenuti kod pokretanja sustava</string>
+  <string name="HIPS_Perm_AutoStart_Desc">može se pokrenuti kod pokretanja sustava</string>
   <string name="HIPS_Perm_AutoStart_Hint">Ovoliko(%1$s)aplikacija može se pokrenuti kod pokretanja sustava</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity">Promjena Bluetooth povezivosti</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">može uključiti/isključiti Bluetooth</string>
