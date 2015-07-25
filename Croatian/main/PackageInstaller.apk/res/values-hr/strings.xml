@@ -11,9 +11,9 @@ Dozvoliti sada i ubuduće?"</string>
   <string name="app_not_found_dlg_text">Aplikacija nije pronađena na popisu instaliranih aplikacija.</string>
   <string name="app_not_found_dlg_title">Aplikacija nije pronađena</string>
   <string name="app_store_install_hint">Instaliraj sada</string>
-  <string name="app_store_installing_message">Instaliranje App Store ……</string>
-  <string name="app_store_missing_message">Otkriveno je da Xiaomi App Store nije instalirana na ovom uređaju, predlažemo vam da instalirate App Store odmah.</string>
-  <string name="app_store_missing_title">App Store nije instalirana</string>
+  <string name="app_store_installing_message">Instaliranje…</string>
+  <string name="app_store_missing_message">"Izgleda da niste instalirali našu službenu App Store. Instalirati je sada?"</string>
+  <string name="app_store_missing_title">"App Store nije instalirana"</string>
   <string name="auto_startup_dialog_msg">Ova se aplikacija ne može pokrenuti bez vašeg dopuštenja.</string>
   <string name="button_text_cancel">Odustani</string>
   <string name="button_text_delete">Izbriši</string>
@@ -82,7 +82,7 @@ Svi postojeći podaci aplikacije će biti spremljeni."</string>
   <string name="permission_group_title_settings_related">Postavke</string>
   <string name="permission_send_sms_descx">Aplikacija može slati SMS i MMS</string>
   <string name="privacy_relative">Privatnost</string>
-  <string name="reboot_time">Priprema za ponovno pokretanje……(%1$s)</string>
+  <string name="reboot_time">Priprema za ponovno pokretanje…(%1$s)</string>
   <string name="safe_guard_support">Tehničku podršku vam pruža %1$s</string>
   <string name="safe_relative">Sigurnost</string>
   <string name="security_settings_desc">Dopustiti ovoj aplikaciji da:</string>

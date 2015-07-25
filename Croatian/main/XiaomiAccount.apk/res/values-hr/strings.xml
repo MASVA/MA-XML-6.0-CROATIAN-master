@@ -371,7 +371,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_wrong_vcode">Uneseni kôd nije ispravan</string>
   <string name="passport_xiaomi_account_dspt">Koristite svoj Mi Račun za prijavu na MiCloud, MIUI Trgovinu Tema, te druge Mi Usluge, s bilo kojeg mjesta.</string>
   <string name="passport_xiaomi_account_sec_dspt"/>
-  <string name="passport_xiaomi_account_sec_dspt2">Da se prijavite na svoj Mi Račun, potrebno je povezivanje s internetom, lociranje vašeg uređaja te uključivanje Mi Cloud i Vip sustava.</string>
+  <string name="passport_xiaomi_account_sec_dspt2">Prijava na vaš Mi Račun zahtijeva internetsku vezu. Osim toga, pristup lokaciji, Mi Cloud, i Mi VIP će se uključiti automatski.</string>
   <string name="password">Unesite vašu zaporku</string>
   <string name="phone_activated">%s aktiviran</string>
   <string name="phone_send_verify_code_prompt">Pošalji kod za provjeru %s</string>

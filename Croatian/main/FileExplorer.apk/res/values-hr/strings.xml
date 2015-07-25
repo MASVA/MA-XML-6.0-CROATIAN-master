@@ -106,11 +106,13 @@
   <string name="file_info_modified">Zadnja izmjena:</string>
   <string name="file_info_size">Veličina:</string>
   <string name="file_loading">Učitavanje…</string>
+  <string name="file_name_invalid">"Nazivi datoteka ne mogu sadržavati sljedeće znakove: /\\:*?&lt;&gt;"</string>
   <string name="file_not_exist">"Datoteka ne postoji"</string>
   <string name="file_too_large">Datoteka je prevelika za učitavanje.</string>
   <string name="files">Datoteke</string>
   <string name="finished">Završeno</string>
   <string name="folder_exist">Mapa već postoji</string>
+  <string name="folder_name_empty">Naziv mape ne može biti prazan</string>
   <string name="folder_name_illegal">Nevažeći naziv mape</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Dodirni&lt;/a&gt;za ići u smeće</string>
   <string name="ftp_account_req_notice">4~16 znakova, slova i znamenke , mala i velika slova</string>
@@ -202,12 +204,12 @@
   <string name="my_photo_desc"/>
   <string name="my_video">Videozapisi</string>
   <string name="my_video_desc"/>
-  <string name="name_illegal">Morate unijeti ime.</string>
+  <string name="name_empty">Morate unijeti naziv.</string>
   <string name="net_lose_connected">Veza izgubljena.</string>
   <string name="networkView_notConnected">"Ne mogu se povezati na mrežu"</string>
   <string name="network_connect_confirm_des">Aplikacija Datoteke treba povezivanje s internetom za normalan rad</string>
   <string name="never_notify_network_connect">Zapamti postavke</string>
-  <string name="new_folder_name">Mapa bez imena</string>
+  <string name="new_folder_name">Mapa bez naziva</string>
   <string name="no">Ne</string>
   <string name="no_display_file">"Ne mogu prikazati %1$s"</string>
   <string name="no_enough_storage_indication">"Prostor uređaja za pohranu je pun."</string>
@@ -267,8 +269,10 @@
   <string name="paused">Pauzirano</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Telefon</string>
+  <string name="port_range">Port mora biti između 1024–65535</string>
   <string name="pull_to_signin">Povucite dolje za prijavu.</string>
   <string name="release_to_signin">Otpustite za prijavu</string>
+  <string name="rename_alert">"Ako promijenite ekstenziju ove datoteke, možda nećete biti u mogućnosti je otvoriti."</string>
   <string name="rename_description">Preimenovanje…</string>
   <string name="rename_failed">"Ne mogu preimenovati %1$s"</string>
   <string name="sd_card_available">Dostupno: %1$s</string>

@@ -2,18 +2,18 @@
 <resources>
   <string name="action">Pregled</string>
   <string name="already_used">Korišteno</string>
-  <string name="app_name">XiaomiVip</string>
+  <string name="app_name">Mi VIP</string>
   <string name="award_taken">Prikupljeno bodova</string>
   <string name="award_time">Prikupljeno %s</string>
   <string name="awarded_package_is_expired">Isteklo</string>
   <string name="awarded_package_was_redeemed">Otkupljeno</string>
   <string name="cube_ptr_hours_ago"> sati ranije</string>
   <string name="cube_ptr_last_update">Zadnje ažuriranje: </string>
-  <string name="cube_ptr_minutes_ago"> minutes ago</string>
+  <string name="cube_ptr_minutes_ago"> min. ranije</string>
   <string name="cube_ptr_pull_down">Povuci dolje</string>
   <string name="cube_ptr_pull_down_to_refresh">Povuci dolje za osvježiti</string>
   <string name="cube_ptr_refresh_complete">Ažurirano.</string>
-  <string name="cube_ptr_refreshing">Ažuriram...</string>
+  <string name="cube_ptr_refreshing">Ažuriram…</string>
   <string name="cube_ptr_release_to_refresh">Otpusti za osvježiti</string>
   <string name="cube_ptr_seconds_ago"> sek. ranije</string>
   <string name="exp_buff">+%s%% iskustvo</string>
@@ -22,19 +22,19 @@
   <string name="fail_reach_server">"Ne mogu se povezati na poslužitelj"</string>
   <string name="giveup">Odustani</string>
   <string name="in_progress">Slanje zahtjeva…</string>
-  <string name="invalid_json">Odgovor je nevažeći JSON string</string>
+  <string name="invalid_json">Nešto nije u redu</string>
   <string name="level">Razina</string>
   <string name="level_detail">Ograničenje dnevnog zadatka: %d</string>
   <string name="level_exp_value" formatted="false">%d/%d</string>
   <string name="level_info_format" formatted="false">"Razina %d %d/%d
 %s"</string>
   <string name="my_award">Moje nagrade</string>
-  <string name="no_app">Instalirajte prvo aplikaciju</string>
+  <string name="no_app">Instalirajte prvo Mi VIP aplikaciju</string>
   <string name="no_award">Nema nagrada</string>
   <string name="no_network">"Ne mogu se povezati na mrežu"</string>
   <string name="no_task">Svi zadaci su završeni</string>
-  <string name="passive_task">Pasivan zadatak</string>
-  <string name="privilege">Privilegij</string>
+  <string name="passive_task">Pozadinski zadaci</string>
+  <string name="privilege">Privilegije</string>
   <string name="promote">Razina gore</string>
   <string name="query_level_fail">"Ne mogu dobiti informacije"</string>
   <string name="query_user_tasks_fail">"Ne mogu dobiti detalje zadatka"</string>
@@ -44,7 +44,7 @@
   <string name="task_begin">U tijeku…</string>
   <string name="task_completed">Završeno</string>
   <string name="task_done">Gotovo</string>
-  <string name="task_limit">Nema preostalih zadataka za danas, vidimo se sutra!</string>
+  <string name="task_limit">Nema preostalih zadataka za danas. Vidimo se sutra!</string>
   <string name="task_not_completed">Nije završeno</string>
   <string name="task_ongoing">U tijeku</string>
   <string name="task_score">Bodova %d</string>

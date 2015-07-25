@@ -292,7 +292,7 @@ Provjerite broj za praćenje."</string>
   <string name="payment_failed_common_problems">Došlo je do pogreške prilikom plaćanja.</string>
   <string name="payment_unknown_status_summary">Provjerite svoju mrežnu vezu i pokušajte ponovno.</string>
   <string name="payment_unknown_status_title">"Ne mogu potvrditi status plaćanja"</string>
-  <string name="phone_event_setting_notice_text">"Primiti ćete informaciju nakon dolaznog ili odlaznog poziva servisne usluge. Pomoću toga, možete poslati telefonski status tih poziva."</string>
+  <string name="phone_event_setting_notice_text">"Yellow Pages žele prenijeti verificirane brojeve usluga (kao vaš operatera) na MI poslužitelje, tako da možete primati ažuriranja vezana uz usluge."</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="photo_count">%d ukupno</string>
   <string name="quick_yellow_page_tab_call_log">Povijest poziva</string>
@@ -300,7 +300,7 @@ Provjerite broj za praćenje."</string>
   <string name="recharge_actual_price">Cijena:</string>
   <string name="recharge_charge_range">Cijena: ¥%1$s-%2$s</string>
   <string name="recharge_charge_value">Cijena: ¥%s</string>
-  <string name="recharge_follow_name">Usluga nadoplate</string>
+  <string name="recharge_follow_name">Nadoplata</string>
   <string name="recharge_history">Povijest nadoplate</string>
   <string name="recharge_history_empty">Nema povijesti</string>
   <string name="recharge_input_phone_title">Unesite telefonski broj (China Mobile, China Unicom, ili China Telecom)</string>

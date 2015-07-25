@@ -85,8 +85,8 @@
   <string name="editmode_menu_delete">Izbriši</string>
   <string name="editmode_menu_share">Dijeli</string>
   <string name="experience_xunlei_account_speed">Xunlei Članovi mogu uživati ​​u preuzimanju velikom brzinom</string>
-  <string name="expire_notification_msg">Vaše članstvo će uskoro isteči, dodirnite za prikaz detalja</string>
-  <string name="expire_today_notification_msg">Vaše članstvo danas ističe, dodirnite za prikaz detalja</string>
+  <string name="expire_notification_msg">Članstvo Xunlei uskoro istječe</string>
+  <string name="expire_today_notification_msg">Članstvo Xunlei danas ističe</string>
   <string name="free_high_speed_channel">Xunlei ubrzanje preuzimanja (besplatno)</string>
   <string name="free_speedup_exp">Isprobajte Xunlei ubrzanje preuzimanja besplatno</string>
   <string name="get_account_dialog_msg">Dobivanje detalja računa…</string>
@@ -107,9 +107,8 @@
   <string name="mi_money">Mi Kredita</string>
   <string name="mi_money_">Mi Kredita</string>
   <string name="no_downloads">Nema preuzimanja.</string>
-  <string name="no_vip_info">开通迅雷会员即可享受加速特权</string>
-  <string name="no_vip_show_info">"手机与电脑齐加速；
-畅享加速节省时间更给力！"</string>
+  <string name="no_vip_info">Nabavite Xunlei članstvo za ubrzanje preuzimanja</string>
+  <string name="no_vip_show_info">"Ubrzajte preuzimanja na svim vašim uređajima sa Xunlei"</string>
   <string name="one_month">1 mjesec</string>
   <string name="open_download">Otvori</string>
   <string name="open_xunlei_speed_service">Pokreni Xunlei ubrzanje preuzimanja</string>
@@ -154,14 +153,14 @@
   <string name="select_operation_items">Odaberite stavke</string>
   <string name="selected_count">Odabrano %1$d od %2$d</string>
   <string name="show_more">Prikaži (%s) više</string>
-  <string name="start_xunlei_speedup_info">会员登录后下载任务时自动开启高速通道</string>
-  <string name="third_web_cancel">取消</string>
-  <string name="third_web_confirm">确定</string>
-  <string name="third_web_default">设为默认保存路径，以后不再提醒</string>
-  <string name="third_web_filename_hint">文件名称</string>
-  <string name="third_web_filesize">文件大小:</string>
-  <string name="third_web_savepath">目录</string>
-  <string name="third_web_title">保存</string>
+  <string name="start_xunlei_speedup_info">Prijavite se da ubrzate vaša preuzimanja.</string>
+  <string name="third_web_cancel">Odustani</string>
+  <string name="third_web_confirm">U redu</string>
+  <string name="third_web_default">Zapamti ovu lokaciju</string>
+  <string name="third_web_filename_hint">Naziv</string>
+  <string name="third_web_filesize">Veličina:</string>
+  <string name="third_web_savepath">Lokacija</string>
+  <string name="third_web_title">Spremi</string>
   <string name="toast_xunlei_engine_open">"Xunlei ubrzanje preuzimanja uključeno.
 Ova značajka se ne preporučuje izvan Kine"</string>
   <string name="turn_off_xunlei_message">Možete iskusiti sporiju brzinu preuzimanja.</string>
@@ -171,12 +170,12 @@ Ova značajka se ne preporučuje izvan Kine"</string>
   <string name="unbind_xunlei_success">Odjavljen iz Xunlei Računa</string>
   <string name="valid_in_this_month">Vrijedi ovaj mjesec</string>
   <string name="vip_auto_speedup">Xunlei ubrzanje preuzimanja uključeno</string>
-  <string name="vip_expire_show_info">您的迅雷会员即将到期\\n立即续费尊享95折优惠</string>
-  <string name="vip_expire_today_show_info">您的迅雷会员今天将到期\\n立即续费尊享95折优惠</string>
-  <string name="vip_show_info">500万迅雷会员的选择\\n专属加速特权，畅享快人一步的放肆</string>
+  <string name="vip_expire_show_info">Isteklo je Xunlei članstvo\\nObnovite ga sada i dobijte 5% popusta."</string>
+  <string name="vip_expire_today_show_info">Isteklo je Xunlei članstvo\\nObnovite ga sada i dobijte 5% popusta."</string>
+  <string name="vip_show_info">5 milijuna članova.\\nUbrzajte preuzimanja na svim vašim uređajima</string>
   <string name="xunlei_brand">Powered by Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
-  <string name="xunlei_close_tips_button">Ubrzati preuzimanje</string>
+  <string name="xunlei_close_tips_button">Ubrzaj preuzimanje</string>
   <string name="xunlei_close_tips_content">Samo za Kinu</string>
   <string name="xunlei_close_tips_title">Ova značajka se ne preporučuje za korisnike izvan Kine</string>
   <string name="xunlei_gaosu">Xunlei ubrzanje preuzimanja</string>
