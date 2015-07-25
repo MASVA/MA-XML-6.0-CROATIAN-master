@@ -16,7 +16,7 @@
   <string name="auto_dialog_msg">"Ažurirali smo naša Pravila o privatnosti. Molimo, pročitajte ih pažljivo prije ažuriranja sustava. "</string>
   <string name="auto_dialog_msg_check_again">"Morate se složiti s našim ažuriranim Pravila o privatnosti prije nego što možete ažurirati svoj sustav. "</string>
   <string name="auto_dialog_title_check_again">Otkazati ažuriranje?</string>
-  <string name="auto_update">Preuzimanje ažuriranja automatski</string>
+  <string name="auto_update">Preuzmi ažuriranja automatski</string>
   <string name="auto_update_sum">Automatski preuzmi ažuriranja kada je povezano na WLAN</string>
   <string name="autosetmode">Postavke</string>
   <string name="best_update">Najbolje ažuriranje do sada</string>
@@ -128,13 +128,13 @@ http://zhushou.xiaomi.com"</string>
   <string name="repeat">Pokušaj ponovo</string>
   <string name="set_auto">Provjeri ima li ažuriranja automatski</string>
   <string name="set_auto_msg">Automatski preuzmi ažuriranja kada je povezano na WLAN.</string>
-  <string name="set_auto_update_title">Preuzimanje ažuriranja automatski</string>
+  <string name="set_auto_update_title">Preuzmi ažuriranja automatski</string>
   <string name="set_installfail_full_msg">"Ne mogu ažurirati u ovom trenutku. Dodirnite U redu kako bi prijavili ovu pogrešku."</string>
   <string name="set_installfail_msg">Niste povezani na WLAN mrežu. Korištenje vaše mobilne podatkovne veze za preuzimanje ažuriranja će povećati vašu uporabu podataka.
   Ako premašite svoje ograničenje podataka, vaš operater vam može naplatiti dodatne troškove</string>
   <string name="set_installfail_title">Pokušati ponovno preuzeti ažuriranja?</string>
   <string name="set_installfail_title_full">"Ne mogu ažurirati"</string>
-  <string name="set_network_msg">Za preuzimanje ovog ažuriranja, poveži se s WLAN mrežom </string>
+  <string name="set_network_msg">Za preuzimanje ovog ažuriranja, poveži se na WLAN mrežu</string>
   <string name="set_network_title">Poveži se na WLAN mrežu</string>
   <string name="set_only_wifi">Koristi samo WLAN</string>
   <string name="share">Podijeli</string>
@@ -149,6 +149,10 @@ http://zhushou.xiaomi.com"</string>
   <string name="sina_share_success">Poslano</string>
   <string name="sina_token_expired_warning">Weibo račun je istekao. Morate se ponovno prijaviti</string>
   <string name="sina_token_invalid_warning">Weibo račun je istekao. Morate se ponovno prijaviti</string>
+  <string name="sogou_uninstall_msg">Sogou tipkovnica (Mi Edition) više nije kompatibilna sa MIUI 6. Promjenite tipkovnicu ili ažurirajte na noviju Sogou verziju.</string>
+  <string name="sogou_uninstall_negative_button">Ažuriraj Sogou</string>
+  <string name="sogou_uninstall_positive_button">Promjeni tipkovnicu</string>
+  <string name="sogou_uninstall_title">Kompatibilnost tipkovnice</string>
   <string name="space_not_enough_msg">"Vaš uređaj je previše pun za preuzimanje ovog ažuriranja. Očistite prostor za pohranu na uređaju i pokušajte ponovno."</string>
   <string name="space_not_enough_title">Nema dovoljno prostora za pohranu</string>
   <string name="stable_build">Stabilno</string>
@@ -168,7 +172,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="update_downfull_no_info_title">"Ne mogu preuzeti ažuriranje"</string>
   <string name="update_feedback">Ocijenite ovo ažuriranje</string>
   <string name="update_feedback_end">"Propustili ste glasovanje za ovaj tjedan."</string>
-  <string name="update_feedback_end_sum">Možete se pridružiti svakog ponedjeljak.</string>
+  <string name="update_feedback_end_sum">Možete se pridružiti svakog ponedjeljka.</string>
   <string name="update_feedback_expired">"Propustili ste glasovanje za ovaj tjedan.
 Ali možete sudjelovati sljedeći ponedjeljak."</string>
   <string name="update_feedback_need_account">Morate se prvo prijaviti u svoj Mi Račun</string>
@@ -177,7 +181,7 @@ Ali možete sudjelovati sljedeći ponedjeljak."</string>
   <string name="update_feel">Što vi mislite?</string>
   <string name="update_general">Ravnodušan</string>
   <string name="update_happy">Zadovoljan!</string>
-  <string name="update_monthly_build_only">Samo ažuriraj za mjesečne verzije</string>
+  <string name="update_monthly_build_only">Samo ažuriraj mjesečne verzije</string>
   <string name="update_sad">Razočaran</string>
   <string name="update_success">Uređaj je ažuriran</string>
   <string name="update_success_body">Verzija: %s</string>
