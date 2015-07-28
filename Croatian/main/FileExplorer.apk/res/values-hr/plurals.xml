@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="delete_files_confirm">
          <item quantity="other">Izbrisati datoteke (%1$d)</item>
@@ -63,5 +63,69 @@
         <item quantity="two"> (%1$d slike)</item>
         <item quantity="few"> (%1$d slika)</item>
         <item quantity="many"> (%1$d slika)</item>
+    </plurals>
+	<plurals name="search_head_hint_app">
+        <item quantity="other">Aplikacija %1$s srodnih datoteka (%2$d stavaka)</item>
+        <item quantity="zero">Aplikacija %1$s srodnih datoteka (%2$d stavaka)</item>
+        <item quantity="one">Aplikacija %1$s srodna datoteka (%2$d stavka)</item>
+        <item quantity="two">Aplikacija %1$s srodne datoteke (%2$d stavke)</item>
+        <item quantity="few">Aplikacija %1$s srodnih datoteka (%2$d stavaka)</item>
+        <item quantity="many">Aplikacija %1$s srodnih datoteka (%2$d stavaka)</item>
+    </plurals>
+    <plurals name="search_head_hint_file">
+        <item quantity="other">%1$s srodnih datoteka (%2$d stavaka)</item>
+        <item quantity="zero">%1$s srodnih datoteka (%2$d stavaka)</item>
+        <item quantity="one">%1$s srodna datoteka (%2$d stavka)</item>
+        <item quantity="two">%1$s srodne datoteke (%2$d stavke)</item>
+        <item quantity="few">%1$s srodnih datoteka (%2$d stavaka)</item>
+        <item quantity="many">%1$s srodnih datoteka (%2$d stavaka)</item>
+    </plurals>
+    <plurals name="search_head_hint_tag">
+        <item quantity="other">Oznaka %1$s srodnih datoteka (%2$d stavaka)</item>
+        <item quantity="zero">Oznaka %1$s srodnih datoteka (%2$d stavaka)</item>
+        <item quantity="one">Oznaka %1$s srodna datoteka (%2$d stavka)</item>
+        <item quantity="two">Oznaka %1$s srodne datoteke (%2$d stavke)</item>
+        <item quantity="few">Oznaka %1$s srodnih datoteka (%2$d stavaka)</item>
+        <item quantity="many">Oznaka %1$s srodnih datoteka (%2$d stavaka)</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d min. ranije</item>
+        <item quantity="zero">%1$d min. ranije</item>
+        <item quantity="one">%1$d min. ranije</item>
+        <item quantity="two">%1$d min. ranije</item>
+        <item quantity="few">%1$d min. ranije</item>
+        <item quantity="many">%1$d min. ranije</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d sati ranije</item>
+        <item quantity="zero">%1$d sati ranije</item>
+        <item quantity="one">%1$d sat ranije</item>
+        <item quantity="two">%1$d sata ranije</item>
+        <item quantity="few">%1$d sati ranije</item>
+        <item quantity="many">%1$d sati ranije</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d dana ranije</item>
+        <item quantity="zero">%1$d dana ranije</item>
+        <item quantity="one">%1$d dan ranije</item>
+        <item quantity="two">%1$d dana ranije</item>
+        <item quantity="few">%1$d dana ranije</item>
+        <item quantity="many">%1$d dana ranije</item>
+    </plurals>
+    <plurals name="found_new_files">
+        <item quantity="other">pronađeno %1$d novih datoteka</item>
+        <item quantity="zero">pronađeno %1$d novih datoteka</item>
+        <item quantity="one">pronađena %1$d nova datoteka</item>
+        <item quantity="two">pronađene %1$d nove datoteke</item>
+        <item quantity="few">pronađeno %1$d novih datoteka</item>
+        <item quantity="many">pronađeno %1$d novih datoteka</item>
+    </plurals>
+    <plurals name="file_notify_title">
+        <item quantity="other">Primljeno %1$d datoteka od Aplikacije %2$s</item>
+        <item quantity="zero">Primljeno %1$d datoteka od Aplikacije %2$s</item>
+        <item quantity="one">Primljena %1$d datoteka od Aplikacije %2$s</item>
+        <item quantity="two">Primljene %1$d datoteke od Aplikacije %2$s</item>
+        <item quantity="few">Primljeno %1$d datoteka od Aplikacije %2$s</item>
+        <item quantity="many">Primljeno %1$d datoteka od Aplikacije %2$s</item>
     </plurals>
 </resources> 
