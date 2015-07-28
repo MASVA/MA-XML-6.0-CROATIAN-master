@@ -16,6 +16,7 @@
   <string name="adjust_position_prev_media_notice">Posljednje</string>
   <string name="ads_control">Kontrola Oglašavanja</string>
   <string name="ads_control_desc">Označeno, prikaži oglašavanje kada se pokrene aplikacija</string>
+  <string name="ads_ignore">Ignoriraj</string>
   <string name="airkan_control_device_des">Upravljanje vršite pomoću tipki u donjem dijelu ekrana</string>
   <string name="airkan_device_xiaomi_phone">Mi Telefon</string>
   <string name="airkan_playing">Uloge</string>
