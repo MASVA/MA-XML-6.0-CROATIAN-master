@@ -18,9 +18,9 @@
   <string name="account_prifix">Račun:</string>
   <string name="action">Prijava</string>
   <string name="action_menu_text_add_bookmark">Dodaj oznaku</string>
-  <string name="action_menu_text_bandwidth">Propusnost</string>
-  <string name="action_menu_text_bandwidth_off">Propusnost/Isklj.</string>
-  <string name="action_menu_text_bandwidth_on">Propusnost/Uklj.</string>
+  <string name="action_menu_text_bandwidth">Ušteda podataka</string>
+  <string name="action_menu_text_bandwidth_off">Ušteda podataka/Isklj.</string>
+  <string name="action_menu_text_bandwidth_on">Ušteda podataka/Uklj.</string>
   <string name="action_menu_text_bookmark">Dodaj oznaku</string>
   <string name="action_menu_text_copy_url">Kopiraj poveznicu</string>
   <string name="action_menu_text_create_qr_code">QR kod</string>
@@ -93,7 +93,7 @@
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Kliznite gore da zatvorite</string>
   <string name="browserFrameFileErrorLabel">Problem datoteke</string>
   <string name="browserFrameFormResubmitLabel"/>
-  <string name="browserFrameFormResubmitMessage">"Stranica koju pokušavate vidjeti sadrži podatke koji su već podneseni (\"POSTDATA\"). Ako ponovo pošaljete podatke, radnja koju je obrazac na stranici izvršio (poput pretrage ili mrežne kupovine) biti će ponovljena."</string>
+  <string name="browserFrameFormResubmitMessage">"Stranica koju pokušavate vidjeti sadrži podatke koji su već podneseni. Ako ponovo pošaljete podatke, prethodne radnje (poput pretrage ili mrežne kupovine) biti će ponovljene."</string>
   <string name="browserFrameNetworkErrorLabel">Problem s vezom</string>
   <string name="cancel">Odustani</string>
   <string name="cannot_download">Mogu se preuzeti samo \"http\" ili \"https\" poveznice.</string>
@@ -176,7 +176,7 @@
   <string name="dont_remind_again">Zapamti moj izbor</string>
   <string name="download_complete">Preuzimanje datoteke dovršeno</string>
   <string name="download_default_path_txt">Zapamti ovaj odabir</string>
-  <string name="download_dialog_default_path_invalid">Nevaljana putanja preuzimanja, koristiti će se zadanja putanja</string>
+  <string name="download_dialog_default_path_invalid">"Lokacija preuzimanja koju ste odabrali nije valjana. Spremanje na zadanu lokaciju…"</string>
   <string name="download_dialog_file_length_hint_txt">"Veličina datoteke: "</string>
   <string name="download_dialog_file_length_lessthan1kb">Manje od 1K</string>
   <string name="download_dialog_file_length_nolength_error_txt">"Ne mogu preuzeti"</string>
@@ -214,7 +214,7 @@
   <string name="find_new_version">Dostupna su ažuriranja</string>
   <string name="find_next">Pronađi sljedeće</string>
   <string name="find_on_page_cancel">Odustani</string>
-  <string name="find_on_page_hint">Unesite vaš upit</string>
+  <string name="find_on_page_hint">Pronađi na stranici</string>
   <string name="find_on_page_next">Dalje</string>
   <string name="find_on_page_prev">Natrag</string>
   <string name="find_previous">Pronađi prethodno</string>
@@ -243,9 +243,9 @@
   <string name="is_page_top">"Došli ste do vrha stranice"</string>
    <string name="js_dialog_before_unload">"%s 
 
-Jeste li sigurni da želite otići s ove stranice?"</string>
-  <string name="js_dialog_before_unload_negative_button">Ostani na ovoj stranici</string>
-  <string name="js_dialog_before_unload_positive_button">Napusti ovu stranicu</string>
+Napustiti ovu stranicu?"</string>
+  <string name="js_dialog_before_unload_negative_button">Ostani</string>
+  <string name="js_dialog_before_unload_positive_button">Napusti</string>
   <string name="js_dialog_before_unload_title">Potvrdi</string>
   <string name="js_dialog_title">Stranica na \" %s \" navodi:</string>
   <string name="js_dialog_title_default">JavaScript</string>
@@ -257,7 +257,7 @@ Jeste li sigurni da želite otići s ove stranice?"</string>
   <string name="local_bookmarks">Mi</string>
   <string name="low_memory_error">Nema dovoljno memorije za dovršenje tog zadatka</string>
   <string name="max_tabs_warning">"Ne mogu otvoriti više kartica"</string>
-  <string name="maximum_input_alert">Maksimalni unos 2048 znakova</string>
+  <string name="maximum_input_alert">"Ne mogu unijeti više od 2048 znakova"</string>
   <string name="media_error_action_refresh">Osvježi</string>
   <string name="media_error_action_replace_video_source">"Ne mogu promijeniti izvor"</string>
   <string name="media_error_failure">"Ne mogu reproducirati videozapis"</string>
@@ -297,10 +297,10 @@ Jeste li sigurni da želite otići s ove stranice?"</string>
   <string name="miuichromium_error_page_diagnostic">Dijagnostika mreže</string>
   <string name="miuichromium_error_page_mobile">Mobilna mreža</string>
   <string name="miuichromium_error_page_reason_network">"Ne mogu se povezati na mrežu"</string>
-  <string name="miuichromium_error_page_reason_server">Nije moguće učitati ovu stranicu</string>
+  <string name="miuichromium_error_page_reason_server">"Ne mogu učitati ovu stranicu"</string>
   <string name="miuichromium_error_page_reload">Učitaj ponovo</string>
   <string name="miuichromium_error_page_title">"Ne mogu pronaći tu stranicu"</string>
-  <string name="miuichromium_error_page_url">Prikaži Poveznicu</string>
+  <string name="miuichromium_error_page_url">"Ne mogu se povezati na mrežu"</string>
   <string name="miuichromium_error_page_wlan">Postavke WLAN-a</string>
   <string name="miuishare_account_activate_confirmation">Potrebna je aktivacija</string>
   <string name="miuishare_account_activate_ok">Aktiviraj</string>
@@ -471,7 +471,7 @@ Jeste li sigurni da želite otići s ove stranice?"</string>
   <string name="save_image_success">Slika spremljena</string>
   <string name="save_page_capture_tip">Otvori panel obavijesti za prikaz snimke zaslona.</string>
   <string name="save_page_capture_to_camera">Snimka zaslona spremljena</string>
-  <string name="save_password_message">Želite li da Preglednik zapamti ovu zaporku?</string>
+  <string name="save_password_message">Zapamtiti ovu zaporku?</string>
   <string name="save_password_never">Nikad</string>
   <string name="save_password_notnow">Ne sada</string>
   <string name="save_password_remember">Zapamti</string>

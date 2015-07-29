@@ -2290,11 +2290,12 @@ Ova postavka utječe na sve korisnike na ovom uređaju."</string>
   <string name="runningservices_settings_title">Pokrenute usluge</string>
   <string name="scan_list_label">Rezultati skeniranja:</string>
   <string name="screen">Zaslon</string>
+  <string name="screen_color_and_optimize">Boje &amp; Kontrast</string>
   <string name="screen_color_temperature">Boje</string>
   <string name="screen_color_temperature_and_saturation">Boje &amp; zasićenje</string>
   <string name="screen_compatibility_label">Kompatibilnost zaslona</string>
   <string name="screen_compatibility_text">Ta aplikacija možda nije dizajnirana za vaš zaslon. Ovdje možete provjeriti kako se prilagođava vašem zaslonu.</string>
-  <string name="screen_effect">Kontrast &amp; boje</string>
+  <string name="screen_effect">Kontrast &amp; Boje</string>
   <string name="screen_key_long_press">Dugi pritisak na navigacijske tipke</string>
   <string name="screen_key_long_press_action">Pokreni funkciju</string>
   <string name="screen_key_long_press_timeout">Definiraj vrijeme dugog pritiska</string>

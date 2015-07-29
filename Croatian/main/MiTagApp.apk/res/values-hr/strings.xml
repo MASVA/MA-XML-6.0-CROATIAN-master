@@ -209,12 +209,12 @@ dotaknite stražnjom stranom vašeg telefona drugu oznaku."</string>
   <string name="write_tag">Napiši oznaku</string>
   <string name="writing">Zapisivanje</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
-  <string name="xiaomi_external_storage_unavailable">Umetnite vašu SD karticu.</string>
+  <string name="xiaomi_external_storage_unavailable">Pohrana nije dostupna, molimo provjerite SD karticu.</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
-  <string name="xiaomi_update_dialog_message">"Verzija %1$s
+  <string name="xiaomi_update_dialog_message">"Predstavljamo verziju %1$s
 Veličina: %2$s"</string>
-  <string name="xiaomi_update_dialog_message_diff">"Verzija %1$s
-Veličina ažuriranja: %2$s"</string>
-  <string name="xiaomi_update_dialog_title">Dostupno ažuriranje za %1$s</string>
+  <string name="xiaomi_update_dialog_message_diff">"Predstavljamo verziju %1$s
+Veličina delta ažuriranja: %2$s"</string>
+  <string name="xiaomi_update_dialog_title">Ažuriranje %1$s!</string>
 </resources>
