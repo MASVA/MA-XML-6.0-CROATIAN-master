@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="delete_files_confirm">
-         <item quantity="other">Izbrisati datoteke (%1$d)</item>
-         <item quantity="zero">Izbrisati datoteke (%1$d)</item>
-         <item quantity="one">Izbrisati datoteku (%1$d)</item>
-         <item quantity="two">Izbrisati datoteke (%1$d)</item>
-         <item quantity="few">Izbrisati datoteke (%1$d)</item>
-         <item quantity="many">Izbrisati datoteke (%1$d)</item>
+         <item quantity="other">Izbrisati %1$d) datoteke</item>
+         <item quantity="zero">Izbrisati(%1$d) datoteke</item>
+         <item quantity="one">Izbrisati(%1$d) datoteku</item>
+         <item quantity="two">Izbrisati(%1$d) datoteke</item>
+         <item quantity="few">Izbrisati(%1$d) datoteke</item>
+         <item quantity="many">Izbrisati(%1$d) datoteke</item>
     </plurals>
     <plurals name="delete_folders_confirm">
-         <item quantity="other">" i mape (%1$d)?"</item>
-         <item quantity="zero">" i mape (%1$d)?"</item>
-         <item quantity="one">" i mape (%1$d)?"</item>
-         <item quantity="two">" i mape (%1$d)?"</item>
-         <item quantity="few">" i mape (%1$d)?"</item>
-         <item quantity="many">" i mape (%1$d)?"</item>
+         <item quantity="other">" i (%1$d) mapa ?"</item>
+         <item quantity="zero">" i (%1$d) mapa ?"</item>
+         <item quantity="one">" i (%1$d) mapu ?"</item>
+         <item quantity="two">" i (%1$d) mape ?"</item>
+         <item quantity="few">" i (%1$d) mapa ?"</item>
+         <item quantity="many">" i (%1$d) mapa ?"</item>
     </plurals>
     <plurals name="directory_item_count">
          <item quantity="other">Stavaka: %d</item>
@@ -25,20 +25,20 @@
          <item quantity="many">Stavaka: %d</item>
     </plurals>
     <plurals name="ui_bar_txt_download_progress">
-         <item quantity="other">Preostalo datoteka za preuzimanje (%1$d)</item>
-         <item quantity="zero">Preostalo datoteka za preuzimanje (%1$d)</item>
-         <item quantity="one">Preostalo datoteka za preuzimanje (%1$d)</item>
-         <item quantity="two">Preostalo datotekae za preuzimanje (%1$d)</item>
-         <item quantity="few">Preostalo datoteka za preuzimanje (%1$d)</item>
-         <item quantity="many">Preostalo datoteka za preuzimanje (%1$d)</item>
+         <item quantity="other">Preostalo (%1$d) datoteka za preuzimanje</item>
+         <item quantity="zero">Preostalo (%1$d) datoteka za preuzimanje</item>
+         <item quantity="one">Preostala (%1$d) datoteka za preuzimanje</item>
+         <item quantity="two">Preostale (%1$d) datoteke za preuzimanje</item>
+         <item quantity="few">Preostalo (%1$d) datoteka za preuzimanje</item>
+         <item quantity="many">Preostalo (%1$d) datoteka za preuzimanje</item>
     </plurals>
     <plurals name="ui_bar_txt_upload_progress">
-         <item quantity="other">Preostalo datoteka za učitavanje (%1$d)</item>
-         <item quantity="zero">Preostalo datoteka za učitavanje (%1$d)</item>
-         <item quantity="one">Preostalo datoteka za učitavanje (%1$d)</item>
-         <item quantity="two">Preostalo datoteka za učitavanje (%1$d)</item>
-         <item quantity="few">Preostalo datoteka za učitavanje (%1$d)</item>
-         <item quantity="many">Preostalo datoteka za učitavanje (%1$d)</item>
+         <item quantity="other">Preostalo (%1$d) datoteka za učitavanje</item>
+         <item quantity="zero">Preostalo (%1$d) datoteka za učitavanje</item>
+         <item quantity="one">Preostala (%1$d) datoteka za učitavanje</item>
+         <item quantity="two">Preostale (%1$d) datoteke za učitavanje</item>
+         <item quantity="few">Preostalo (%1$d) datoteka za učitavanje</item>
+         <item quantity="many">Preostalo (%1$d) datoteka za učitavanje</item>
     </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">Odabrano (%1$d)</item>
@@ -65,28 +65,28 @@
         <item quantity="many"> (%1$d slika)</item>
     </plurals>
 	<plurals name="search_head_hint_app">
-        <item quantity="other">Aplikacija %1$s srodnih datoteka (%2$d stavaka)</item>
-        <item quantity="zero">Aplikacija %1$s srodnih datoteka (%2$d stavaka)</item>
-        <item quantity="one">Aplikacija %1$s srodna datoteka (%2$d stavka)</item>
-        <item quantity="two">Aplikacija %1$s srodne datoteke (%2$d stavke)</item>
-        <item quantity="few">Aplikacija %1$s srodnih datoteka (%2$d stavaka)</item>
-        <item quantity="many">Aplikacija %1$s srodnih datoteka (%2$d stavaka)</item>
+        <item quantity="other">Datoteka (%2$d) apl. %1$s</item>
+        <item quantity="zero">Datoteka (%2$d) apl. %1$s</item>
+        <item quantity="one">Datoteka (%2$d) apl. %1$s</item>
+        <item quantity="two">Datoteke (%2$d) apl. %1$s</item>
+        <item quantity="few">Datoteka (%2$d) apl. %1$s</item>
+        <item quantity="many">Datoteka(%2$d) apl. %1$s</item>
     </plurals>
     <plurals name="search_head_hint_file">
-        <item quantity="other">%1$s srodnih datoteka (%2$d stavaka)</item>
-        <item quantity="zero">%1$s srodnih datoteka (%2$d stavaka)</item>
-        <item quantity="one">%1$s srodna datoteka (%2$d stavka)</item>
-        <item quantity="two">%1$s srodne datoteke (%2$d stavke)</item>
-        <item quantity="few">%1$s srodnih datoteka (%2$d stavaka)</item>
-        <item quantity="many">%1$s srodnih datoteka (%2$d stavaka)</item>
+        <item quantity="other">Datoteka %1$s (%2$d)</item>
+        <item quantity="zero">Datoteka %1$s (%2$d)</item>
+        <item quantity="one">Datoteka %1$s (%2$d)</item>
+        <item quantity="two">Datoteke %1$s (%2$d)</item>
+        <item quantity="few">Datoteka %1$s (%2$d)</item>
+        <item quantity="many">Datoteka %1$s (%2$d)</item>
     </plurals>
     <plurals name="search_head_hint_tag">
-        <item quantity="other">Oznaka %1$s srodnih datoteka (%2$d stavaka)</item>
-        <item quantity="zero">Oznaka %1$s srodnih datoteka (%2$d stavaka)</item>
-        <item quantity="one">Oznaka %1$s srodna datoteka (%2$d stavka)</item>
-        <item quantity="two">Oznaka %1$s srodne datoteke (%2$d stavke)</item>
-        <item quantity="few">Oznaka %1$s srodnih datoteka (%2$d stavaka)</item>
-        <item quantity="many">Oznaka %1$s srodnih datoteka (%2$d stavaka)</item>
+        <item quantity="other">Datoteka %1$s (%2$d)</item>
+        <item quantity="zero">Datoteka %1$s (%2$d)</item>
+        <item quantity="one">Datoteka %1$s (%2$d)</item>
+        <item quantity="two">Datoteke %1$s (%2$d)</item>
+        <item quantity="few">Datoteka %1$s (%2$d)</item>
+        <item quantity="many">Datoteka %1$s (%2$d)</item>
     </plurals>
     <plurals name="mins_ago">
         <item quantity="other">%1$d min. ranije</item>
@@ -113,19 +113,19 @@
         <item quantity="many">%1$d dana ranije</item>
     </plurals>
     <plurals name="found_new_files">
-        <item quantity="other">pronađeno %1$d novih datoteka</item>
-        <item quantity="zero">pronađeno %1$d novih datoteka</item>
-        <item quantity="one">pronađena %1$d nova datoteka</item>
-        <item quantity="two">pronađene %1$d nove datoteke</item>
-        <item quantity="few">pronađeno %1$d novih datoteka</item>
-        <item quantity="many">pronađeno %1$d novih datoteka</item>
+        <item quantity="other">Pronađeno (%1$d) novih datoteka</item>
+        <item quantity="zero">Pronađeno(%1$d) novih datoteka</item>
+        <item quantity="one">Pronađena (%1$d) nova datoteka</item>
+        <item quantity="two">Pronađene (%1$d) nove datoteke</item>
+        <item quantity="few">Pronađeno (%1$d)novih datoteka</item>
+        <item quantity="many">Pronađeno (%1$d) novih datoteka</item>
     </plurals>
     <plurals name="file_notify_title">
-        <item quantity="other">Primljeno %1$d datoteka od Aplikacije %2$s</item>
-        <item quantity="zero">Primljeno %1$d datoteka od Aplikacije %2$s</item>
-        <item quantity="one">Primljena %1$d datoteka od Aplikacije %2$s</item>
-        <item quantity="two">Primljene %1$d datoteke od Aplikacije %2$s</item>
-        <item quantity="few">Primljeno %1$d datoteka od Aplikacije %2$s</item>
-        <item quantity="many">Primljeno %1$d datoteka od Aplikacije %2$s</item>
+        <item quantity="other">Primljeno datoteka (%1$d) apl. %2$s</item>
+        <item quantity="zero">Primljeno datoteka (%1$d) apl.%2$s</item>
+        <item quantity="one">Primljena datoteka (%1$d) apl. %2$s</item>
+        <item quantity="two">Primljene datoteke (%1$d) apl. %2$s</item>
+        <item quantity="few">Primljeno datoteka (%1$d) apl. %2$s</item>
+        <item quantity="many">Primljeno datoteka (%1$d) apl. %2$s</item>
     </plurals>
 </resources> 

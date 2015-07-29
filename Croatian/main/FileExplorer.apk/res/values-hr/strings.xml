@@ -73,7 +73,7 @@
   <string name="delete_folder">Izbrisati ovu datoteku?</string>
   <string name="delete_folders">Izbrisati (%1$d) mapa?</string>
   <string name="delete_selected_tasks">Izbrisati odabrano?</string>
-  <string name="des_running_trans">Datoteke koje nisu premještene %1$d</string>
+  <string name="des_running_trans">Datoteka (%1$d) koje nisu premještene</string>
   <string name="dialog_select_type">Odaberite tip</string>
   <string name="dialog_confirm">U redu</string>
   <string name="dialog_type_audio">Zvuk</string>
@@ -179,7 +179,7 @@
   <string name="migrate_announcement_title">Premještanje završeno</string>
   <string name="mobile_photo">Fotografije telefona</string>
   <string name="mobile_photo_desc"/>
-  <string name="month_day_format">MMM dd</string>
+  <string name="month_day_format">dd MMM</string>
   <string name="move_failed">"Ne mogu izrezati"</string>
   <string name="multi_select_title">Odabrano: %1$s</string>
   <string name="my_app">Podaci aplik.</string>
@@ -286,7 +286,7 @@
   <string name="pull_to_signin">Povucite dolje za prijavu.</string>
   <string name="release_to_signin">Otpustite za prijavu</string>
   <string name="rename_alert">"Ako promijenite ekstenziju ove datoteke, možda nećete biti u mogućnosti je otvoriti."</string>
-  <string name="rename_description">Preimenovanje…</string>
+  <string name="rename_description">Promjena naziva…</string>
   <string name="rename_failed">"Ne mogu preimenovati %1$s"</string>
   <string name="rlv_last_refreshing_time">Zadnje skeniranje %1$s</string>
   <string name="rlv_loading_more">Samo tren…</string>
@@ -328,7 +328,7 @@
   <string name="search_result_hint7">(%d)</string>
   <string name="search_result_more">Više</string>
   <string name="search_statistic_appname">Izvor</string>
-  <string name="search_statistic_keyword">keyin</string>
+  <string name="search_statistic_keyword">Ključna riječ</string>
   <string name="search_statistic_match_invalid">0</string>
   <string name="search_statistic_match_valid">1</string>
   <string name="search_statistic_tag">Oznaka</string>
@@ -343,17 +343,17 @@
   <string name="share_box_receive">Primljeno</string>
   <string name="share_box_send">Poslano</string>
   <string name="share_link_failed">Nije uspjelo stvaranje veze.</string>
-  <string name="show_message">Potrebno preuzeti datoteku prije otvaranja.</string>
+  <string name="show_message">Potrebno je preuzeti datoteku prije otvaranja.</string>
   <string name="sign_description">Prijava…</string>
   <string name="signin_error">"Ne mogu se povezati na poslužitelj. Provjerite svoju mrežnu vezu."</string>
   <string name="signin_success">"Prijavljeni ste!
-Dodano  %1$s slobodnog prostora"</string>
+Dodano %1$s slobodnog prostora"</string>
   <string name="space_info">KuaiPan: %1$s dostupno, %2$s ukupno</string>
   <string name="space_usage">Iskorišten prostor</string>
   <string name="start_server">Pokreni FTP poslužitelj</string>
   <string name="start_use_xiaomi_account">Počnite koristiti KuaiPan</string>
   <string name="stay_awake_summary">Zaslon se neće ugasiti tijekom FTP prijenosa</string>
-  <string name="stay_awake_title">Držati budnim</string>
+  <string name="stay_awake_title">Zaslon se neće ugasiti</string>
   <string name="stop_server">Zaustavi FTP poslužitelj</string>
   <string name="storage_info">%1$s dostupno</string>
   <string name="storage_internal">Unutarnja pohrana</string>
@@ -414,7 +414,7 @@ oslobodili prostor.</string>
   <string name="wechat_video">Video na %s</string>
   <string name="wifi_state">WLAN mreža</string>
   <string name="xiaomi_account">Mi Račun</string>
-  <string name="year_month_day_format">MMM dd, yyyy</string>
+  <string name="year_month_day_format">dd MMM, yyyy</string>
   <string name="yes">Da</string>
   <string name="yesterday">Jučer</string>
 </resources>
