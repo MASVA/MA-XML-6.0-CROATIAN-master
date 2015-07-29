@@ -49,20 +49,20 @@
         <item quantity="many">Odabrano (%1$d)</item>
     </plurals>
     <plurals name="items_file">
-        <item quantity="other"> (%1$d datoteka)</item>
-        <item quantity="zero"> (%1$d datoteka)</item>
-        <item quantity="one"> (%1$d datoteka)</item>
-        <item quantity="two"> (%1$d datoteke)</item>
-        <item quantity="few"> (%1$d datoteka)</item>
-        <item quantity="many"> (%1$d datoteka)</item>
+        <item quantity="other">" (%1$d)"</item>
+        <item quantity="zero">" (%1$d)"</item>
+        <item quantity="one">" (%1$d)"</item>
+        <item quantity="two">" (%1$d)"</item>
+        <item quantity="few">" (%1$d)"</item>
+        <item quantity="many">" (%1$d)"</item>
     </plurals>
     <plurals name="items_picture">
-        <item quantity="other"> (%1$d slika)</item>
-        <item quantity="zero"> (%1$d slika)</item>
-        <item quantity="one"> (%1$d slika)</item>
-        <item quantity="two"> (%1$d slike)</item>
-        <item quantity="few"> (%1$d slika)</item>
-        <item quantity="many"> (%1$d slika)</item>
+        <item quantity="other">" (%1$d)"</item>
+        <item quantity="zero">" (%1$d)"</item>
+        <item quantity="one">" (%1$d)"</item>
+        <item quantity="two">" (%1$d)"</item>
+        <item quantity="few">" (%1$d)"</item>
+        <item quantity="many">" (%1$d)"</item>
     </plurals>
 	<plurals name="search_head_hint_app">
         <item quantity="other">Datoteka (%2$d) apl. %1$s</item>
@@ -89,28 +89,28 @@
         <item quantity="many">Datoteka %1$s (%2$d)</item>
     </plurals>
     <plurals name="mins_ago">
-        <item quantity="other">%1$d min. ranije</item>
-        <item quantity="zero">%1$d min. ranije</item>
-        <item quantity="one">%1$d min. ranije</item>
-        <item quantity="two">%1$d min. ranije</item>
-        <item quantity="few">%1$d min. ranije</item>
-        <item quantity="many">%1$d min. ranije</item>
+        <item quantity="other">Prije %1$d min.</item>
+        <item quantity="zero">Prije %1$d min.</item>
+        <item quantity="one">Prije %1$d min.</item>
+        <item quantity="two">Prije %1$d min.</item>
+        <item quantity="few">Prije %1$d min.</item>
+        <item quantity="many">Prije %1$d min.</item>
     </plurals>
     <plurals name="hours_ago">
-        <item quantity="other">%1$d sati ranije</item>
-        <item quantity="zero">%1$d sati ranije</item>
-        <item quantity="one">%1$d sat ranije</item>
-        <item quantity="two">%1$d sata ranije</item>
-        <item quantity="few">%1$d sati ranije</item>
-        <item quantity="many">%1$d sati ranije</item>
+        <item quantity="other">Prije %1$d sati</item>
+        <item quantity="zero">Prije %1$d sati</item>
+        <item quantity="one">Prije %1$d sat</item>
+        <item quantity="two">Prije %1$d sata</item>
+        <item quantity="few">Prije %1$d sati</item>
+        <item quantity="many">Prije %1$d sati</item>
     </plurals>
     <plurals name="days_ago">
-        <item quantity="other">%1$d dana ranije</item>
-        <item quantity="zero">%1$d dana ranije</item>
-        <item quantity="one">%1$d dan ranije</item>
-        <item quantity="two">%1$d dana ranije</item>
-        <item quantity="few">%1$d dana ranije</item>
-        <item quantity="many">%1$d dana ranije</item>
+        <item quantity="other">Prije %1$d dana</item>
+        <item quantity="zero">Prije %1$d dana</item>
+        <item quantity="one">Prije %1$d dan</item>
+        <item quantity="two">Prije %1$d dana</item>
+        <item quantity="few">Prije %1$d dana</item>
+        <item quantity="many">Prije %1$d dana</item>
     </plurals>
     <plurals name="found_new_files">
         <item quantity="other">Pronađeno (%1$d) novih datoteka</item>
