@@ -60,8 +60,8 @@
   <string name="bl_no_block_call">Nema blokiranih poziva.</string>
   <string name="bl_no_block_sms">Nema blokiranih SMS-a.</string>
   <string name="blacklist_prefix_add_hint">Dodati sve brojeve s predbrojem na listu zabranjenih</string>
-  <string name="block_message_number">SMS-a: %d</string>
-  <string name="block_phone_number">Poziva: %d</string>
+  <string name="block_message_number">SMS-a: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+  <string name="block_phone_number">Poziva: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="button_text_delete">Izbriši</string>
   <string name="button_to_setting">Postavke</string>
   <string name="call_delete_hint">Ukloniti sve blokirane pozive s ovog broja?</string>
@@ -186,7 +186,7 @@ Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potraz
   <string name="one_address_choose_hint">%s1</string>
   <string name="open_callwait">Uključeno</string>
   <string name="quiet">Tišina</string>
-  <string name="quiet_group">Tihi način rada</string>
+  <string name="quiet_group">Ne ometaj me</string>
   <string name="quiet_important_interruptions_mode">Dospusti samo iznimkama</string>
   <string name="quiet_mode">Utišaj sva ometanja</string>
   <string name="quiet_off_mode">Dospusti sva ometanja</string>
@@ -202,6 +202,7 @@ Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potraz
   <string name="report_warning">"Prijaviti %1$s SMS-a na Mi? Te poruke i telefonski brojevi sa kojih su bili poslani biti će učitani na Mi poslužitelje za pregled. Svaki osobni podaci povezani s tim porukama uvijek ostaju anonimni."</string>
   <string name="report_warning_title">Prijavi SMS</string>
   <string name="sim_not_ready">SIM kartica nije spremna</string>
+  <string name="sim_not_ready_toast">SIM kartica nije spremna, postavljanje nije uspjelo</string>
   <string name="sms_delete_hint">Izbrisati sve blokirane poruke s ovog broja?</string>
   <string name="sms_delete_title">Ukloni SMS</string>
   <string name="sms_smart_engine_update">Automatski ažuriraj filter SMS-a</string>

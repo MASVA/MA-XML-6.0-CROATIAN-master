@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="delete_files_confirm">
-         <item quantity="other">Izbrisati %1$d) datoteke</item>
-         <item quantity="zero">Izbrisati(%1$d) datoteke</item>
+         <item quantity="other">Izbrisati(%1$d) datoteka</item>
+         <item quantity="zero">Izbrisati(%1$d) datoteka</item>
          <item quantity="one">Izbrisati(%1$d) datoteku</item>
          <item quantity="two">Izbrisati(%1$d) datoteke</item>
-         <item quantity="few">Izbrisati(%1$d) datoteke</item>
-         <item quantity="many">Izbrisati(%1$d) datoteke</item>
+         <item quantity="few">Izbrisati(%1$d) datoteka</item>
+         <item quantity="many">Izbrisati(%1$d) datoteka</item>
     </plurals>
     <plurals name="delete_folders_confirm">
          <item quantity="other">" i (%1$d) mapa ?"</item>
