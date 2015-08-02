@@ -291,7 +291,7 @@
   <string name="rlv_last_refreshing_time">Zadnje skeniranje %1$s</string>
   <string name="rlv_loading_more">Samo tren…</string>
   <string name="rlv_pull_to_refresh">Povuci za osvježiti</string>
-  <string name="rlv_refreshing">Skeniranje dstoteka…</string>
+  <string name="rlv_refreshing">Skeniranje datoteka…</string>
   <string name="rlv_release_to_refresh">Pusti za osvježiti</string>
   <string name="sd_card_available">Dostupno: %1$s</string>
   <string name="sd_card_size">SD kartica: %1$s</string>
