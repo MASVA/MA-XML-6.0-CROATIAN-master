@@ -18,6 +18,7 @@
   <string name="app_name">Štednja baterije</string>
   <string name="background">Aplikacija se izvodi u pozadini</string>
   <string name="disabled">Isklj.</string>
+  <string name="empty_title_apps_container_list">Nema apliakcija</string>
   <string name="error_filename_too_long">Naziv datoteke koji ste unijeli je predug.</string>
   <string name="foreground_change">Aplikacija se izvodi u pozadini</string>
   <string name="full_screen_enter">Cijeli zaslon</string>
