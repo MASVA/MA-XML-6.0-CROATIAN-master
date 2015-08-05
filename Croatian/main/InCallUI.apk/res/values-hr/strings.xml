@@ -144,8 +144,8 @@
   <string name="contacts_icon_label">Kontakti</string>
   <string name="custom_message_cancel">Odustani</string>
   <string name="custom_message_send">Pošalji</string>
-  <string name="data_enable_summary">Omogućiti pristup podacima putem mobilne mreže</string>
-  <string name="data_enabled">Podaci omogućeni</string>
+  <string name="data_enable_summary">Pristup podacima putem mobilne mreže</string>
+  <string name="data_enabled">Mobilni podaci</string>
   <string name="default_notification_description">Zadani zvuk zvona (%1$s)</string>
   <string name="default_port">5060</string>
   <string name="default_preference_summary">Nije podešeno</string>

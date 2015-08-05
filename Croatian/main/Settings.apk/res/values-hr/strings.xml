@@ -934,7 +934,7 @@ Ta postavka utječe na sve korisnike telefona."</string>
   <string name="device_name">Naziv uređaja</string>
   <string name="device_name_input_error">"Ne mogu spremiti naziv uređaja"</string>
   <string name="device_name_input_hint">Unesi naziv</string>
-  <string name="device_name_usage_point">Ovaj će naziv biti vidljiv drugim uređajima u blizini</string>
+  <string name="device_name_usage_point">Ostali uređaji u blizini mogu vidjeti ovaj naziv.</string>
   <string name="device_picker">Odabir Bluetooth uređaja</string>
   <string name="device_reset_title">Reset uređaja</string>
   <string name="device_sd_memory">SD kartica</string>

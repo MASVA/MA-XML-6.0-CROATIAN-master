@@ -97,7 +97,7 @@
   <string name="submit_dialog_confirm">Pošalji</string>
   <string name="submit_dialog_content">"Vaše povratne informacije, zajedno s izvješćima pogrešaka i priloženim slikama, biti će poslani na MI poslužitelje."</string>
   <string name="submit_dialog_title">Pošalji izvješće o pogrešci</string>
-  <string name="suggestion_description">Napišite ovdje svoj prijedlog</string>
+  <string name="suggestion_description">Ovdje dodajte opis</string>
   <string name="suggestion_problem1">"Recite nam koje značajke bi željeli vidjeti u budućnosti"</string>
   <string name="system_app_select">MIUI aplikacije</string>
   <string name="systemui">Panel obavijesti</string>
