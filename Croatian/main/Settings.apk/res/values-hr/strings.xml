@@ -897,7 +897,7 @@ Ta postavka utječe na sve korisnike telefona."</string>
   <string name="debug_monitoring_category">Nadzor</string>
   <string name="debug_view_attributes">Omogući pregled atributa prikaza</string>
   <string name="default_date_format">dd/MM/yyyy</string>
-  <string name="default_input_method">Odaberi zadanu metodu unosa</string>
+  <string name="default_input_method">Odaberi zadanu tipkovnicu</string>
   <string name="default_sound">Zadani zvuk</string>
   <string name="default_usb_mode">USB veza</string>
   <string name="delete">"Izbriši"</string>
@@ -1187,16 +1187,17 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="fluency_mode">Optimiziranje performansi sustava</string>
   <string name="fluency_mode_confirm_and_reboot">Ponovno pokreni</string>
   <string name="font_size_huge">Ogroman</string>
-  <string name="font_size_large">Velik</string>
-  <string name="font_size_medium">Srednji</string>
-  <string name="font_size_normal">Standardan</string>
+  <string name="font_size_large">Veliki</string>
+  <string name="font_size_medium">Veći</string>
+  <string name="font_size_normal">Mali</string>
   <string name="font_size_preview">MIUI</string>
   <string name="font_size_preview_text">Ovo je za sve one koji vole MIUI. by "MASVA"</string>
   <string name="font_size_save">"U redu"</string>
   <string name="font_size_small">Mali</string>
-  <string name="font_size_summary">"Promjena veličine fonta teksta početnog zaslona, panela obavijesti, tipkovnice i posvuda drugdje"</string>
-  <string name="font_size_summary1">"
-Ako je tekst vašeg sustava još uvijek premalen, pokušajte koristiti "</string>
+  <string name="font_size_summary">"Promjenite veličinu fonta teksta početnog zaslona, panela obavijesti, tipkovnice i izbornicima sustava.
+  
+  "</string>
+  <string name="font_size_summary1">"Ako je tekst vašeg sustava još uvijek premalen, pokušajte koristiti "</string>
   <string name="font_size_summary2">Lite mode</string>
   <string name="force_hw_ui">Prisilno GPU renderiranje</string>
   <string name="force_hw_ui_summary">Prisilna upotreba GPU-a za 2D iscrtavanje</string>
@@ -1313,7 +1314,7 @@ Ako je tekst vašeg sustava još uvijek premalen, pokušajte koristiti "</string
   <string name="incoming_call_breathing_light_color_title">Boja LED-a kod poziva</string>
   <string name="incoming_call_breathing_light_freq_title">Frekvencija treperenja LED-a kod poziva</string>
   <string name="incoming_call_volume_title">Zvuk zvona</string>
-  <string name="input_method">Način unosa</string>
+  <string name="input_method">Tipkovnica</string>
   <string name="input_method_selector">Odaberi načina unosa</string>
   <string name="input_method_selector_always_hide_title">Uvijek sakrij</string>
   <string name="input_method_selector_always_hide_value">2</string>
@@ -2160,8 +2161,8 @@ i pokrenite ga."</string>
   <string name="radioInfo_phone_idle">U mirovanju</string>
   <string name="radioInfo_phone_offhook">Poziv u tijeku</string>
   <string name="radioInfo_phone_ringing">Zvono</string>
-  <string name="radioInfo_roaming_in">Roaming</string>
-  <string name="radioInfo_roaming_not">Bez roaminga</string>
+  <string name="radioInfo_roaming_in">Aktivan</string>
+  <string name="radioInfo_roaming_not">Neaktivan</string>
   <string name="radioInfo_service_emergency">Samo hitni pozivi</string>
   <string name="radioInfo_service_in">Koristi se</string>
   <string name="radioInfo_service_off">Radio je isključen</string>
@@ -2797,12 +2798,12 @@ Googleov pristup sinkronizaciji podataka za mogućnost pristupa kontaktima, sast
   <string name="title_dolby_control">Dolby digital plus</string>
   <string name="title_font">Font</string>
   <string name="title_font2">Font</string>
-  <string name="title_font_current">Odaberite font sustava</string>
-  <string name="title_font_current2">Odaberite font sustava</string>
+  <string name="title_font_current">Font sustava</string>
+  <string name="title_font_current2">Font sustava</string>
   <string name="title_font_size">Veličina fonta</string>
   <string name="title_hdmi_color_calibration">Pohranjene postavke korekcije boje</string>
-  <string name="title_layout_current">Odabeite veličinu fonta</string>
-  <string name="title_layout_current2">Odabeite veličinu fonta</string>
+  <string name="title_layout_current">Veličina teksta</string>
+  <string name="title_layout_current2">Veličina teksta</string>
   <string name="title_local_resource">Lokalni resursi</string>
   <string name="title_system_resource">Resursi sistema</string>
   <string name="toast_lockscreen_glogin_empty_password">Unesite zaporku</string>
