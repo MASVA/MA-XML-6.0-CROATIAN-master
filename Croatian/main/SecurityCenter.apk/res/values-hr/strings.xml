@@ -115,7 +115,7 @@
   <string name="cta_button_text_agree">U redu</string>
   <string name="cta_button_text_cancel">Odustani</string>
   <string name="cta_checkbox_title">"Ne prikazuj ponovo"</string>
-  <string name="cta_dialog_msg">Centar za sigurnost možda treba za povezivanje s internetom kako bi dobio ažuriranja.</string>
+  <string name="cta_dialog_msg">Centar za sigurnost možda treba za povezivanje s internetom za preuzimanje ažuriranja.</string>
   <string name="cta_dialog_title">Uvjeti i odredbe</string>
   <string name="cta_settings">Dopusti povezivanje</string>
   <string name="delete">Izbriši</string>

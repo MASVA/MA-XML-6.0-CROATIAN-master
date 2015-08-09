@@ -92,7 +92,7 @@
 2.Pomozite nam poboljšati ovaj proizvod, automatskim slanjem dijagnostičkih i podataka korištenja Xiaomi-u.
 3.Naš HD video dodatak će biti automatski instaliran.
 4.Ova usluga treba povezivanje s internetom da funkcionira ispravno."</string>
-  <string name="declaration_content_td_custom">Ova značajka treba povezivanje s internetom da funkcionira ispravno</string>
+  <string name="declaration_content_td_custom">Ova značajka treba povezivanje s internetom za normalan rad</string>
   <string name="defaults">Zadano</string>
   <string name="delete">Izbriši</string>
   <string name="delete_action_text">Izbriši (%d)</string>

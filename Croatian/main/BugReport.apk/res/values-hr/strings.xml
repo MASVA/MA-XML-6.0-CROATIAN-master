@@ -28,7 +28,7 @@
   <string name="common_problem_empty">Prazno</string>
   <string name="cta_cancel">Odustani</string>
   <string name="cta_confirm">U redu</string>
-  <string name="cta_dialog_content">Ovoj je aplikaciji potrebno povezivanje s internetom da radi normalno.</string>
+  <string name="cta_dialog_content">Ovoj je aplikaciji potrebno povezivanje s internetom za normalan rad.</string>
   <string name="cta_dialog_title">Internet povezivanje</string>
   <string name="cta_not_show_again">Zapamti odabrano</string>
   <string name="description">"Opišite problem"</string>

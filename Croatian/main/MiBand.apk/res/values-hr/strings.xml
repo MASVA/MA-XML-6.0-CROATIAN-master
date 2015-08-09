@@ -50,6 +50,7 @@ teže od cilja %1$s"</string>
   <string name="alarm">Alarm</string>
   <string name="alarm_cycle">Ponovi</string>
   <string name="alarm_device_not_connect">Još uvijek trebate upariti svoj ​​Mi Band s ovim uređajem</string>
+  <string name="alarm_edit_complete">Uredi</string>
   <string name="alarm_notify">Obavijesti Alarma</string>
   <string name="alarm_notify_tips2">Mi Band mora biti povezan na uređaj putem Bluetootha tijekom alarma</string>
   <string name="alarm_once">Jednom</string>
@@ -346,6 +347,7 @@ ustajanje</string>
   <string name="dynamic_title_weight">Težina</string>
   <string name="dynamic_title_weight_not_nearby">Nema vaga u blizini</string>
   <string name="dynamic_title_weight_unbind">Raspari vagu</string>
+  <string name="edit">Uredi</string>
   <string name="enable_debug_log">Zapis ispr. greš. uključen</string>
   <string name="equal_last_time">"Težina se nije promijenila</string>
   <string name="equals_fat">"%1$s grama masti."</string>
@@ -1004,6 +1006,7 @@ ili oko 12.000 koraka dnevno za aktivan, zdrav stil života. "</string>
   <string name="running_year_null"/>
   <string name="s_mili">Mi Band</string>
   <string name="scan_label">Skenirajte QR kod</string>
+  <string name="sdcarderror">Pogreška SD kartice</string>
   <string name="search_again">Pokušaj ponovo</string>
   <string name="search_bracelet">Traženje…</string>
   <string name="search_bracelet_ok">Mi Band pronađen!</string>

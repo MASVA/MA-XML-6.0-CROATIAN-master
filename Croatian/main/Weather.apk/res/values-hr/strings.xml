@@ -62,7 +62,7 @@
   <string name="download_preview_failed">"Ne mogu učitati prikaz"</string>
   <string name="edit_city">Uredi</string>
   <string name="fail_to_add_account">"Ne mogu dodati račun"</string>
-  <string name="first_start_network_msg">Ova aplikacija treba povezivanje s internetom i pristup lokaciji da radi normalno.</string>
+  <string name="first_start_network_msg">Ova aplikacija treba povezivanje s internetom i pristup lokaciji za normalan rad.</string>
   <string name="first_start_network_title">Povezivanje s internetom i pristup lokaciji</string>
   <string name="gps_hint">Trenutna lokacija</string>
   <string name="international_detail_menu_title">Detalji</string>

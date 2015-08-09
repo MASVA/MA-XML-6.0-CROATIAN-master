@@ -34,7 +34,7 @@
   <string name="connect_internet_by_usbshare">Internet putem USB-a</string>
   <string name="connect_internet_by_wifi">Internet putem WLAN-a</string>
   <string name="current_network_state_not_need_diagnose">Internet povezivanje je u redu</string>
-  <string name="daily_limit_and_lock_screen">Dnevna uporaba podataka&amp; obavijesti</string>
+  <string name="daily_limit_and_lock_screen">Dnevna uporaba podataka &amp; obavijesti</string>
   <string name="daily_limit_network_available_body">Dodirni za pregled statistike uporabe podataka.</string>
   <string name="daily_limit_network_available_body_open_traffic_saving">Dodirnite za uključivanje mobilnih podataka.</string>
   <string name="daily_limit_over_message">"Premašili ste svoje dnevno ograničenja uporabe podataka."</string>
