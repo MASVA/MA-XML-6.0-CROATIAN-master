@@ -126,7 +126,7 @@
   <string name="resource_comment_upload_data_invalid">Komentar koji ste unijeli nije valjan</string>
   <string name="resource_comment_upload_failed">"Ne mogu poslati komentar"</string>
   <string name="resource_comment_upload_hint">Komentar će se objaviti nakon što bude pregledan.</string>
-  <string name="resource_comment_upload_not_bought">Morate podesiti temu prije pisanja komentara.</string>
+  <string name="resource_comment_upload_not_bought">Morate postaviti temu prije pisanja komentara.</string>
   <string name="resource_comment_upload_not_logined">Niste prijavljeni!</string>
   <string name="resource_comment_upload_success">Komentar će se objaviti nakon što bude pregledan</string>
   <string name="resource_default">Zadana melodija zvona</string>

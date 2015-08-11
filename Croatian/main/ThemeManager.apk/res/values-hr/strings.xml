@@ -289,9 +289,9 @@
   <string name="theme_batch_update_dlg_content_single">Ažurirati %1$s sada?</string>
   <string name="theme_batch_update_dlg_title">Ažuriranje teme…</string>
   <string name="theme_batch_updating_text">Ažuriram (%1$d)</string>
-  <string name="theme_changed_failed_message">"Ne mogu podesiti temu"</string>
-  <string name="theme_changed_message">Tema podešena</string>
-  <string name="theme_changing_dialog_title">Podešavanje teme…</string>
+  <string name="theme_changed_failed_message">"Ne mogu postaviti temu"</string>
+  <string name="theme_changed_message">Tema postavljena</string>
+  <string name="theme_changing_dialog_title">Postavljanje teme…</string>
   <string name="theme_component_title_alarm">Alarm</string>
   <string name="theme_component_title_alarmstyle">Stil Alarma</string>
   <string name="theme_component_title_all">Teme</string>
