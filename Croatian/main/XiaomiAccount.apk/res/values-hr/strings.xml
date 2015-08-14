@@ -246,7 +246,7 @@ Unesite kôd za provjeru u e-pošti"</string>
   <string name="passport_active_email_visit">Provjerite svoju poštu na %s</string>
   <string name="passport_activing_account">Aktivacija…</string>
   <string name="passport_app_name">Mi Račun</string>
-  <string name="passport_area_code_hot">Često korišteno</string>
+  <string name="passport_area_code_hot">ČESTO KORIŠTENO</string>
   <string name="passport_area_code_title">Kod zemlje</string>
   <string name="passport_bad_authentication">Pogrešno korisničko ime ili zaporka</string>
   <string name="passport_btn_return">Natrag</string>
@@ -305,7 +305,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_input_verify_code_hint">Unesite kod za provjeru</string>
   <string name="passport_license_host_unreachable">"Ne mogu se povezati na mrežu. Možete vidjeti ovu stranicu na %s."</string>
   <string name="passport_loading">Učitavanje…</string>
-  <string name="passport_login">Prijava</string>
+  <string name="passport_login">Prijavite se na postojeći račun</string>
   <string name="passport_login_failed">"Ne mogu se prijaviti"</string>
   <string name="passport_login_instead_reg">Koristi ovaj broj</string>
   <string name="passport_login_instead_reg_with_email">Koristi ovu E-poštu</string>
@@ -319,7 +319,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_phone_num_hint_text">Broj telefona</string>
   <string name="passport_prev">Natrag</string>
   <string name="passport_privacy_policy">Pravila o Privatnosti</string>
-  <string name="passport_provision_skip_login">Preskoči</string>
+  <string name="passport_provision_skip_login">&lt;u&gt;Preskoči ovaj korak&lt;/u&gt;</string>
   <string name="passport_quick_login_dialog_step2_title">Provjera u 2 koraka</string>
   <string name="passport_quick_login_dialog_title">Provjera zaporke</string>
   <string name="passport_quick_login_step2_title">Provjera u 2 koraka</string>

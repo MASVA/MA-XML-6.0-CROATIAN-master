@@ -113,6 +113,14 @@
         <item quantity="other">Zvoni (%d) puta</item>
         <item quantity="one">Zvoni (%d) puta</item>
     </plurals>
+	<plurals name="contacts_count">
+        <item quantity="other">Kontakata %1$d</item>
+        <item quantity="one">%1$d kontakt</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">"Ovoliko kontakata (%d) nije sinkr."</item>
+        <item quantity="one">"1 kontakt nije sinkroniziran"</item>
+    </plurals>
     <plurals name="dlg_add_blacklist">
         <item quantity="other">Blokirati ove brojeve telefona (%1$d)?</item>
         <item quantity="one">Blokirati ovaj broj telefona?</item>

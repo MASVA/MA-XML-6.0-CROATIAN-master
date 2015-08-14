@@ -40,10 +40,11 @@
         <item>30 minuta</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>Malen</item>
         <item>Normalan</item>
-        <item>Velik</item>
-        <item>Ogroman</item>
+        <item>Srednji</item>
+        <item>Veći</item>
+        <item>Veliki</item>
+		<item>Ogroman</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Jako sporo</item>
@@ -118,7 +119,7 @@
     <string-array name="wifi_sleep_policy_entries">
         <item>Uvijek</item>
         <item>Samo kad je uključeno</item>
-        <item>Nikada</item>
+        <item>Nikada (koristi više mobilnih podataka)</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Uvijek</item>
@@ -765,6 +766,16 @@
     <string-array name="fluency_mode_confirms">
         <item>Ponovno pokrenuti uređaj za primjenu ove postavke?</item>
         <item>Ponovno pokrenuti uređaj za primjenu ove postavke?</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Svaki dan</item>
+        <item>Radnim danom</item>
+        <item>Vlastito</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Svaki dan</item>
+        <item>Radnim danom</item>
+        <item>Vlastito</item>
     </string-array>
 	<string-array name="install_non_market_app_contents">
         <item>Traži dopuštenje</item>

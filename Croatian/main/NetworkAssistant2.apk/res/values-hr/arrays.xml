@@ -47,8 +47,8 @@
         <item>"Ušteda podataka "</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
-        <item>Nabavite predložak poruke automatski</item>
-        <item>Postavite predložak poruke ručno</item>
+        <item>Nabavite automatski</item>
+        <item>Postavite ručno</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Pokaži upozorenje</item>

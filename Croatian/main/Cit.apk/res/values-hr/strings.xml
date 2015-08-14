@@ -252,6 +252,7 @@ Nakon što stavite \"music.mp3\" u direktorij SD kartice, dodirnite zaslon za re
   <string name="cit_tool_modem">MODEM Test</string>
   <string name="cit_tool_modem_bugreport">MODEM Coredump</string>
   <string name="cit_tool_modem_exit_ftm">Zatvori FTM</string>
+  <string name="cit_tool_modem_mbn">Promjena kofig. Modema</string>
   <string name="cit_tool_modem_offline_log">Otvori/Zatvori Offline Log</string>
   <string name="cit_tool_nfc">NFC Test</string>
   <string name="cit_tool_nfc_st">NFC ST:</string>

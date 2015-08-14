@@ -50,12 +50,12 @@
     </string-array>
     <string-array name="power_dialog_vibration_items">
         <item>Nikad ne vibriraj</item>
-        <item>Vibracija kad je zvuk utišan</item>
+        <item>Vibracija kad je bešumno</item>
         <item>Uvijek vibriraj</item>
     </string-array>
     <string-array name="power_dialog_wifi_internet_state_items">
         <item>Isključi</item>
         <item>Uključi</item>
-        <item>"Ne mijenjaj"</item>
+        <item>Zadano</item>
     </string-array>
 </resources>

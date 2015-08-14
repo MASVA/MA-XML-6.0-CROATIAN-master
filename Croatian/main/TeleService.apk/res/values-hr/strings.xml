@@ -466,6 +466,8 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="incall_error_supp_service_unknown">Nepodržana usluga.</string>
   <string name="incall_error_turn_off_airplane_mode">Isključite Zrakoplovni način</string>
   <string name="incall_status_dialed_mmi">Pokretanje MMI sekvence…</string>
+  <string name="incoming_video_show_pref_summary">Prikaži Video pozivatelja. Za korištenje ove značajke, uključite posjetnicu kontakata.</string>
+  <string name="incoming_video_show_pref_title">"Prikaži Video pozivatelja"</string>
   <string name="international_disable">Međunarodne vijesti su isključene</string>
   <string name="international_enable">Međunarodne vijesti su uključene</string>
   <string name="international_roaming_setting">Međunarodni roaming</string>
@@ -722,7 +724,7 @@ To može potrajati do 5 minuta."</string>
   <string name="ota_listen">Slijedite govorne upute sve dok ne čujete da je aktivacija dovršena.</string>
   <string name="ota_next">Dalje</string>
   <string name="ota_progress">Pričekajte dok ne završi programiranje vašeg telefona.</string>
-  <string name="ota_skip_activation_dialog_message">Ako preskočite aktivaciju, ne možete pozivati niti se povezivati na mobilne podatkovne mreže (premda se možete prijaviti na Wi-Fi mreže).Sve dok ne aktivirate telefon prikazivat će se upit za aktiviranje kod svakog prijavljivanja.</string>
+  <string name="ota_skip_activation_dialog_message">Ako preskočite aktivaciju, ne možete upućivati pozive niti se povezivati na mobilne podatkovne mreže (premda se možete prijaviti na Wi-Fi mreže).Sve dok ne aktivirate telefon prikazivat će se upit za aktiviranje kod svakog prijavljivanja.</string>
   <string name="ota_skip_activation_dialog_skip_label">Preskoči</string>
   <string name="ota_skip_activation_dialog_title">Preskočiti aktivaciju?</string>
   <string name="ota_spc_failure">KVAR PRETJERANOG SPC-a</string>
@@ -741,6 +743,7 @@ Možda biste trebali potražiti područje s boljom pokrivenošću (pored prozora
 Pokušajte ponovo ili nazovite korisničku službu za više opcija."</string>
   <string name="other_settings">Ostale postavke poziva</string>
   <string name="other_settings_category">Ostalo</string>
+  <string name="overseas_roaming_setting">Međunarodni roaming</string>
   <string name="password_changed">Zaporka promjenjena</string>
   <string name="password_title">Zaporka</string>
   <string name="pause_prompt_no">Ne</string>

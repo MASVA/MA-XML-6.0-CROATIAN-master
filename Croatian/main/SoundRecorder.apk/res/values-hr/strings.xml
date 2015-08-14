@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="alert_message_delete_record">Obrisati odabrane snimke?</string>
+  <string name="alert_message_delete_record">Izbrisati odabrane snimke?</string>
+  <string name="alert_message_delete_record_title">Izbriši snimku</string>
   <string name="app_name">Snimač</string>
   <string name="back">Natrag</string>
   <string name="button_queue_for_wifi">Čekaj</string>
@@ -10,8 +11,8 @@
   <string name="data_connection_body">Korištenje vaše mobilne podatkovne veze za preuzimanje ove datoteke će povećati vašu uporabu podataka. Ako prekoračite vašu mjesečno ograničenje, vaš mobilni operater vam može naplatiti dodatne naknade.</string>
   <string name="data_connection_button_text">U redu</string>
   <string name="data_connection_title">Upozorenje uporabe podataka</string>
-  <string name="delete">Obriši</string>
-  <string name="delete_dialog_message">Želite obrisati trenutnu snimku?</string>
+  <string name="delete">Izbriši</string>
+  <string name="delete_dialog_message">Želite izbrisati trenutnu snimku?</string>
   <string name="deleting_message">Brisanje…</string>
   <string name="dialog_content_storage_full">"Snimanje je zaustavljeno jer nema dovoljno slobodnog prostora na unutarnjoj memoriji vašeg uređaja."</string>
   <string name="dialog_title_storage_full">Nema dovoljno prostora</string>
@@ -26,7 +27,8 @@
   <string name="error_sdcard_access">"Ne mogu pristupiti prostoru za pohranu"</string>
   <string name="error_sdcard_unmounted">Umetnite SD karticu</string>
   <string name="fm_record">Snimke FM-a (%d)</string>
-  <string name="low_battery_error">Manje od 5% baterije preostalo, da snimanje ne bude izgubljeno, snimanje je bilo zaustavljeno i spremljeno.</string>
+  <string name="loading_recording">Učitavanje</string>
+  <string name="low_battery_error">Preostalo manje od 5% baterije, da snimanje ne bude izgubljeno, snimanje je bilo zaustavljeno i spremljeno.</string>
   <string name="message_file_size_error">Snimanje je dostiglo maksimalnu duljinu snimanja podržanu za %s</string>
   <string name="no_downloading_file">Nema preuzetih datoteka</string>
   <string name="no_file">Prazno</string>
@@ -67,7 +69,6 @@
   <string name="record_list_cloud_call">Sinkr. Snimljeni pozivi</string>
   <string name="record_list_cloud_fm">Sinkr. snimke FM-a</string>
   <string name="record_list_fm">FM Snimke</string>
-  <string name="record_mark_point">Oznaka: %s</string>
   <string name="record_name_hour">.</string>
   <string name="record_picker_title">Odaberi snimku</string>
   <string name="recording">Snimanje…</string>

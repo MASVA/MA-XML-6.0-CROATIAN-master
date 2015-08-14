@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Import">Uvezi</string>
-  <string name="abandon">Odbaci</string>
+  <string name="abandon">Odustani</string>
   <string name="accept">Prihvati</string>
   <string name="accept_or_deny">%1$s je podijelio album %2$s s tobom.</string>
   <string name="activity_not_found">Nema pronađenih aplikacija za izvršenje ove radnje.</string>
   <string name="add_account">Dodaj račun</string>
+  <string name="add_automatically_alert_msg">Dodati fotografije od \"%1$s\" u ovaj album automatski?</string>
+  <string name="add_automatically_alert_title">Dodaj fotografije automatski</string>
   <string name="add_event">Dodaj događaj</string>
   <string name="add_event_hint">Unesite naziv</string>
   <string name="add_sharer">Dodaj člana</string>
@@ -52,6 +54,7 @@
   <string name="alert_secret_album_title">Dodano u sakriveni album</string>
   <string name="all_video_album_display_name">Svi videozapisi</string>
   <string name="already_apply_album">Otvoriti %1$s?</string>
+  <string name="already_create_baby_album">Dječji album već postoji u Mi Cloudu.</string>
   <string name="always_rotate_alert_msg">Možete uključiti/isključiti ovu značajku u bilo kojem trenutku u postavkama Galerije</string>
   <string name="always_rotate_alert_positive_button_text">Uključi</string>
   <string name="always_rotate_alert_title">Auto. rotiranje slika</string>
@@ -59,6 +62,8 @@
   <string name="androidesk_wallpapers">Android slike pozadine</string>
   <string name="aperture">Otvor blende</string>
   <string name="app_name">Galerija</string>
+  <string name="app_name_view_picture">Prikaži sliku</string>
+  <string name="apply">Primjeni</string>
   <string name="appwidget_empty_text">Nema fotografija.</string>
   <string name="appwidget_title">Galerija</string>
   <string name="auto">Autom.</string>
@@ -66,11 +71,34 @@
   <string name="auto_create_recent_album_confirm">"Galerija će izbrisati podatke favorita albuma. Albumi koje ste ručno označili favoritima neće biti pogođeni."</string>
   <string name="auto_create_recent_album_over_ten_times">Album će biti označen kao favorit nakon otvaranja više od 10 puta</string>
   <string name="auto_upload_album_comfirm_to_share">Ovaj album će biti sinkr. automatski.</string>
+  <string name="auto_upload_face">Dodaj fotografije automatski</string>
+  <string name="auto_upload_face_summary">Automatski svrstaj i dodaj fotografije u dječji album</string>
+  <string name="auto_upload_face_summary_with_people_name_when_off">Dodaj fotografije od \"%1$s\" u ovaj album automatski</string>
+  <string name="auto_upload_face_summary_with_people_name_when_on">Dodaj fotografije od \"%1$s\" u ovaj album automatski</string>
   <string name="auto_upload_guide_msssage">"Automatski sinkr. svoje fotografije iz drugih aplikacija na MiCloud. Možete uključiti/isključiti ovu značajku u bilo kojem trenutku u Postavke - Sink. s MiCloud - Sink. Automatski"</string>
   <string name="auto_upload_guide_title">Sinkr. fotografija s MiCloud</string>
   <string name="auto_upload_title">Sinkr. automatski</string>
   <string name="autofix">Auto-fix</string>
   <string name="autohomemain">Autohomemain</string>
+  <string name="baby_album">Dječji album</string>
+  <string name="baby_album_new_photo_page_title">"%1$s album"</string>
+  <string name="baby_album_picker_default_title">"Odaberi lice %1$s"</string>
+  <string name="baby_album_setting_title">Informacije o djetetu</string>
+  <string name="baby_album_sharer_accept_dialog_msg">"%1$s %2$s,
+%3$s %4$s je podijelio %5$s album s tobom"</string>
+  <string name="baby_album_sharer_recommand_face">Dodati postojeću fotografiju od %1$s?</string>
+  <string name="baby_birthday">Rođendan</string>
+  <string name="baby_lock_wallpaper">Slika zaklj. zaslona</string>
+  <string name="baby_lock_wallpaper_at_least_one_selected">Odaberite album</string>
+  <string name="baby_lock_wallpaper_save_settings_msg">Primijeniti trenutne postavke?</string>
+  <string name="baby_lock_wallpaper_title">"Upotrijebi fotografiju djeteta kao pozadinu zaklj. zaslona"</string>
+  <string name="baby_name_cannot_empty">Unesite ime</string>
+  <string name="baby_name_cannot_start_with">"Ime ne može počinjati s '%s'"</string>
+  <string name="baby_name_contain_invalidate_char">"Ime ne može sadržavati '%s'"</string>
+  <string name="baby_name_reserved">Ovo ime je rezervirano za drugi album</string>
+  <string name="baby_nick_name">Nadimak</string>
+  <string name="baby_sexy">Spol</string>
+  <string name="baby_suffix">Dijete</string>
   <string name="baidu_bdmobile_downloads">Baidu Mobile</string>
   <string name="baidu_flyflow_downloads">Baidu Preglednik</string>
   <string name="beautyphone">Beauty Telefon</string>
@@ -99,7 +127,9 @@
   <string name="cannot_send_message">"Ne mogu poslati poruku"</string>
   <string name="cannot_send_message_reason">Poruka nema valjanog primatelja.</string>
   <string name="cant_delete_system_album">Ne mogu izbrisati %s jer je to album sustava."</string>
+  <string name="choose_baby_sexy">Spol</string>
   <string name="choose_cloud_album">Odaberi album</string>
+  <string name="choose_owner_relation">Odnos</string>
   <string name="cleaning_cache">Čišćenje memorije…</string>
   <string name="clear_thumbnail_cache">Očisti memoriju minijatura</string>
   <string name="clear_thumbnail_cache_confirm">Sva memorija minijatura u Galeriji će biti izbrisana.</string>
@@ -147,8 +177,8 @@
   <string name="confirm_download_video_message">Morate završiti s preuzimanjem ovog videozapisa prije nego što ga možete pogledati. Preuzimanje će se nastaviti kada je WLAN dostupan.</string>
   <string name="confirm_download_video_title">Preuzmi videozapis</string>
   <string name="confirm_face">Podudaranje</string>
-  <string name="confirm_merge_face_albums">" "&lt;Data&gt; Spojiti ovaj album s %s? &lt;/Data&gt;" "</string>
-  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Spojiti ove albume s %s? &lt;/Data&gt;" "</string>  
+  <string name="confirm_merge_face_albums">" "&lt;Data&gt;Spojiti ovaj album s %s?&lt;/Data&gt;" "</string>
+  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt;Spojiti ove albume s %s?&lt;/Data&gt;" "</string>  
   <string name="confirm_not_face">Nije ova osoba</string>
   <string name="contact_photo">Postavi za sliku kontakta</string>
   <string name="context_menu_add_contact">Dodaj u kontakte</string>
@@ -158,8 +188,12 @@
   <string name="contrast_abbr">K</string>
   <string name="cool">Cool</string>
   <string name="cool_portrait">Portret</string>
+  <string name="create_baby_album">Napravi dječji album</string>
+  <string name="create_baby_album_dialog_msg">Napraviti album za \"%s\"?</string>
   <string name="create_new_cloud_folder">Napravi novi Album</string>
   <string name="create_new_face">Nova osoba</string>
+  <string name="create_quick_icon_on_desk">Napravi prečace</string>
+  <string name="creating_baby_album">Pravljenje albuma…</string>
   <string name="crop">Obreži</string>
   <string name="crop_fail_to_load_image">"Ne mogu učitati sliku"</string>
   <string name="crop_label">Obrezivanje</string>
@@ -225,7 +259,7 @@
   <string name="error_title">"Ne mogu sinkr."</string>
   <string name="error_unauthorized">Sinkr. onemogućena zbog previše pokušaje prijave</string>
   <string name="error_unknown_host">"Ne mogu se povezati na mrežu. Provjerite vašu podatkovnu vezu i pokušajte ponovno."</string>
-  <string name="event_create_long_photo">Izrada fotografije…</string>
+  <string name="event_create_long_photo">Pravljenje fotografije…</string>
   <string name="event_manage_photos">Upravljanje fotografijama</string>
   <string name="exit">Izlaz</string>
   <string name="exit_share">Napusti album</string>
@@ -256,9 +290,12 @@
   <string name="fail_to_download_n_items">"Ne mogu preuzeti stavaka (%s)"</string>
   <string name="fail_to_pick_email">Nevažeća E-pošta</string>
   <string name="fail_to_sync_album">"Ne mogu sinkronizirati album. Provjerite vašu podatkovnu vezu i pokušajte ponovno."</string>
+  <string name="family_member_invitation_text">Ostali članovi obitelji</string>
   <string name="file_not_exist_message">"Datoteka ne postoji"</string>
   <string name="file_size">Vel. datoteke</string>
   <string name="filllight">Ispuna svjetlom</string>
+  <string name="finish_create_baby_album_toast">Napravljen je album za \"%s\" u Mi Cloudu</string>
+  <string name="finish_fill_baby">Napravi</string>
   <string name="fisheye">Riblje oko</string>
   <string name="flash">Bljeskalica</string>
   <string name="flash_off">Bez bljesk.</string>
@@ -325,7 +362,10 @@
   <string name="initial_cloud_button_text">Prijavite se</string>
   <string name="initial_cloud_text">Pohranite i pregledajte vaše slike s bilo kojeg mjesta.</string>
   <string name="initializing_cloud">Pokretanje…</string>
+  <string name="input_baby_name">Unesite ime</string>
+  <string name="input_baby_nick_name">Unesite nadimak</string>
   <string name="input_cloudfolder_name">Naziv Albuma</string>
+  <string name="input_nickname_toast">"Unesite ime djeteta"</string>
   <string name="internal_camera_folder_display_name">Unutarnje fotografije</string>
   <string name="internal_miui_capture_screen_folder_display_name">Unutarnje snimke zaslona</string>
   <string name="internal_sd_card">Unutarnja pohrana</string>
@@ -333,7 +373,15 @@
   <string name="internal_sdcard_root">Root direktorij SD kartice</string>
   <string name="invalid_invition_url">Neispravan URL pozivnice.</string>
   <string name="invalid_recipient_message">Imena primatelja koje ste unijeli su nevažeća</string>
-  <string name="is">Je li ovo %s?</string>
+  <string name="invite_send_sms_tip">Vaš operater može vam naplatiti SMS poruku korištenu za slanje ove pozivnice.</string>
+  <string name="invite_sharer_again_confirm_button_text">Pozovite ponovo</string>
+  <string name="invite_sharer_confirm_button_text">Pozovite</string>
+  <string name="invite_sharer_phone_number_tip">Unesite broj telefona</string>
+  <string name="invite_sharer_relation_tip">Odnos prema %1$s</string>
+  <string name="invite_sharer_title">"Pozovite %1$s %2$s"</string>
+  <string name="invite_tip">"Podijelite fotografije vašeg djeteta"</string>
+  <string name="invited_tip">Pozvan</string>
+  <string name="is">Ovo</string>
   <string name="iso">ISO</string>
   <string name="item_not_sync_for_origin_image">"Ne mogu preuzeti fotografije koje nisu sinkronizirane s Mi Cloudom."</string>
   <string name="item_not_sync_for_origin_video">"Ne mogu preuzeti videozapise koji nisu sinkronizirani s Mi Cloudom."</string>
@@ -395,6 +443,7 @@
   <string name="moman_camera_icon">Moman Camera emotikon</string>
   <string name="moman_camera_picture">Moman Camera slike</string>
   <string name="more">Više</string>
+  <string name="more_face_album_name">Više lica</string>
   <string name="mosaic">Mozaik</string>
   <string name="move">Premjesti</string>
   <string name="move_to_cloud_album">Premjesti u</string>
@@ -402,7 +451,6 @@
   <string name="mtxx">MTXX</string>
   <string name="multiface_crop_help">Dodirnite lice za početak</string>
   <string name="must_pick_file">Odaberi sliku</string>
-  <string name="name_wrong">"Ovo nije %s"</string>
   <string name="negative">Negativan</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
   <string name="network_connected_rescan">"Ne mogu se povezati na mrežu"</string>
@@ -421,8 +469,8 @@ uređaja"</string>
   <string name="no_such_item">"Ne mogu pronaći stavku"</string>
   <string name="no_thumbnail">Nema sličica</string>
   <string name="none_picture">Nema slika</string>
-  <string name="not_auto_create_recent_album">Poništi stvaranje favorita</string>
-  <string name="not_is">Ovo nije %s?</string>
+  <string name="not_auto_create_recent_album">Poništi pravljenje favorita</string>
+  <string name="not_is">Nije</string>
   <string name="not_now">Ne sada</string>
   <string name="not_show_hidden_albums">"Ne prikazuj skrivene albume"</string>
   <string name="old">Staro</string>
@@ -433,11 +481,12 @@ uređaja"</string>
   <string name="open_public_title">Podijeli</string>
   <string name="open_single_image_failure">"Ne mogu učitati sliku"</string>
   <string name="open_sync_title">Sikr. s MiCloud</string>
-  <string name="operation_add_picture">Dodaj fotografije</string>
+  <string name="operation_add_picture">Dodaj stavke</string>
   <string name="operation_add_secret">Dodaj u sakriveni album</string>
   <string name="operation_delete_confirm_message_folder">"Cjelokupan sadržaj mapa bit će izbrisan.
 "</string>
   <string name="operation_failed">Radnja nije uspjela</string>
+  <string name="operation_give_name">Ime</string>
   <string name="operation_in_process">Obrada…</string>
   <string name="operation_refresh">Osvježi</string>
   <string name="operation_remove_from_face_album">Ukloni iz albuma</string>
@@ -464,6 +513,8 @@ uređaja"</string>
   <string name="paint_highlight_cancel_title">Odbaci promjene</string>
   <string name="path">Putanja</string>
   <string name="people">Osobe</string>
+  <string name="pet_album_display_name">Fotografije ljubimaca</string>
+  <string name="phone_number_empty_alert">Dodaj broj telefona</string>
   <string name="photo_page_always_rotate">Autom. zakretanje slika</string>
   <string name="photo_page_detail_show_in_the_map">Pokaži lokaciju na mapi</string>
   <string name="photo_page_save_image">Spremi</string>
@@ -509,6 +560,14 @@ uređaja"</string>
   <string name="redeye">Crvene oči</string>
   <string name="redeye_tooltip">Dodirnite za uklanjanje crvenih očiju</string>
   <string name="refocus_data_downloading">Preuzimanje preusmjerenih podataka…</string>
+  <string name="relation_text_empty_alert">Dodaj pojedinosti odnosa</string>
+  <string name="relation_text_family">Član obitelji</string>
+  <string name="relation_text_father">Tata</string>
+  <string name="relation_text_grandfather">Djed s tatine strane</string>
+  <string name="relation_text_grandmother">Baka s tatine strane</string>
+  <string name="relation_text_maternal_grandfather">Djed s majčine strane</string>
+  <string name="relation_text_maternal_grandmother">Baka s majčine strane</string>
+  <string name="relation_text_mother">Mama</string>
   <string name="remove_from_secret_failed_message_with_count">"%2$s stavaka ne može biti uklonjeno iz sakrivenog albuma: %1$s."</string>
   <string name="remove_from_secret_successfully_message">Uklonjeno iz tajnog albuma</string>
   <string name="remove_from_secret_unfinished_message_with_count">"%1$s nije uklonjeno iz sakrivenog albuma"</string>
@@ -530,6 +589,7 @@ uređaja"</string>
   <string name="rise">Toplo</string>
   <string name="rotate">Rotiraj</string>
   <string name="rotate_tooltip">Povucite fotografiju da je rotirate</string>
+  <string name="same_name_album_exist_and_toast">"Album sa istim imenom već postoji. Umjesto njega je napravljen '%s."</string>
   <string name="same_name_album_exists_alert">Fotografije će biti dodane na postojeći album s istim nazivom</string>
   <string name="saturation">Saturacija</string>
   <string name="saturation_abbr">S</string>
@@ -547,7 +607,6 @@ uređaja"</string>
   <string name="script">Skripta</string>
   <string name="sd_not_available">"Ne mogu pristupiti SD kartici."</string>
   <string name="sdcard_root">Root direktorij SD kartice</string>
-  <string name="seconds">" sekundi"</string>
   <string name="secret_album_display_name">Sakriveni album</string>
   <string name="select_all">Odaberi sve</string>
   <string name="select_auto_upload_albums">Odaberite albume za sinkr.</string>
@@ -557,10 +616,12 @@ uređaja"</string>
   <string name="select_too_much_to_send_tips">"Maks. %d"</string>
   <string name="select_video">Odaberite videoz.</string>
   <string name="send">Pošalji</string>
+  <string name="send_invitation_fail">"Ne mogu poslati pozivnicu"</string>
   <string name="send_multiple_files_hint_format">Pošalji (%s)</string>
   <string name="send_public_url">Pošalji poveznicu albuma</string>
   <string name="sepia">Sepija</string>
-  <string name="set_hidden_album">Skrij</string>
+  <string name="set_as_baby_lock_wallpaper">Postavljeno za pozadinu zaklj. zaslona</string>
+  <string name="set_hidden_album">Sakrij</string>
   <string name="set_label_all_albums">Sve</string>
   <string name="set_label_local_albums">Izvanmrežno</string>
   <string name="set_label_mtp_devices">MTP uređaji</string>
@@ -613,6 +674,7 @@ uređaja"</string>
   <string name="storage_no_space">"Nema dovoljno prostora za pohranu."</string>
   <string name="straighten">Prilagodi</string>
   <string name="straighten_tooltip">Povucite fotografiju da je izravnate</string>
+  <string name="success_create_quick_icon_on_desk">Uspješno napravljeno</string>
   <string name="sync_album">Sinkr. albume</string>
   <string name="sync_album_error">"Ne mogu sinkronizirati fotografije u ovom albumu. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
   <string name="sync_album_in_proecess">Sinkronizacija albuma…</string>
@@ -640,6 +702,7 @@ uređaja"</string>
   <string name="times">Vremena</string>
   <string name="tint">Svjetlija nijansa</string>
   <string name="title">Naslov</string>
+  <string name="title_set_name">Odaberite ime</string>
   <string name="to_count">%d ukupno</string>
   <string name="too_many_recipients">"Ne možete dodati više od %2$s primatelja (Trenutno ste dodali %1$s)."</string>
   <string name="try_to_send">Poslano</string>
@@ -673,7 +736,7 @@ uređaja"</string>
   <string name="weixin">WeChat</string>
   <string name="where_is_barcode">"Gdje je QR kod?"</string>
   <string name="white_balance">Balans bijele</string>
-  <string name="who_is_this">"Tko je na ovoj fotografiji?"</string>
+  <string name="who_is_this">Tko?</string>
   <string name="widget_type">Odaberi slike</string>
   <string name="widget_type_album">Odaberi album</string>
   <string name="widget_type_photo">Odaberi sliku</string>
@@ -682,5 +745,6 @@ uređaja"</string>
   <string name="wps">WPS</string>
   <string name="yellow_page">Direktorij</string>
   <string name="yes">Da</string>
+  <string name="you_are"/>
   <string name="yunyi_pocket_camera">Sportska Kamera</string>
 </resources>

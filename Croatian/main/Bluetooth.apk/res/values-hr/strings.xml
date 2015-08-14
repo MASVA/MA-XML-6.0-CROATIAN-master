@@ -92,9 +92,9 @@ Prihvaćate li datoteku?"</string>
   <string name="mi_key_find_mikey">Pronađi Mi Key</string>
   <string name="mi_key_find_phone">Pronađi uređaj</string>
   <string name="mi_key_open_camera">Otvori Kameru</string>
-  <string name="mi_key_summary_find_phone">Pritisni &amp; drži Mi-Key za zvuk zvona</string>
-  <string name="mi_key_summary_open_camera">2x klik Mi-Key za pokretanje Kamere</string>
-  <string name="mi_key_summary_take_photo">1x klik Mi-Key za snimanje fotografije</string>
+  <string name="mi_key_summary_find_phone">Pritisni &amp; drži Mi Key za zvuk zvona</string>
+  <string name="mi_key_summary_open_camera">2x klik Mi Key za pokretanje Kamere</string>
+  <string name="mi_key_summary_take_photo">1x klik Mi Key za snimanje fotografije</string>
   <string name="mi_key_take_photo">Snimi fotografiju</string>
   <string name="miui_transfer_history_title">Bluetooth prijenosi</string>
   <string name="miui_transfer_inbound_title">Dolazno</string>
@@ -111,8 +111,8 @@ Prihvaćate li datoteku?"</string>
   <string name="notification_sent">Dijeljenje Bluetoothom: Datoteka %1$s poslana</string>
   <string name="notification_sent_complete">100% dovršeno</string>
   <string name="notification_sent_fail">Dijeljenje Bluetoothom: Datoteka %1$s nije poslana</string>
-  <string name="notify_device_lose_connection_text">%1$s je izgubio vezu za dugo vremena, kliknite za prekid veze.</string>
-  <string name="notify_device_lose_connection_title">Uređaj %1$s je izgubio vezu</string>
+  <string name="notify_device_lose_connection_text">Dodirnite za prekid veze s %1$s.</string>
+  <string name="notify_device_lose_connection_title">Izgubljena je veza s %1$s</string>
   <string name="notify_server">Obavijesti TCP poslužitelj</string>
   <string name="ok_button">"U redu"</string>
   <string name="outbound_history_title">Odlazni prijenosi</string>
@@ -151,8 +151,8 @@ Prihvaćate li datoteku?"</string>
   <string name="transfer_menu_clear_all">Izbriši popis</string>
   <string name="transfer_menu_open">"Otvori"</string>
   <string name="unbind_device_alert_cancel">Odustani</string>
-  <string name="unbind_device_alert_content">Uređaj %1$s izgubio vezu za dugo vremena, prekid veze će poboljšati performanse. Želite li prekinuti vezu?</string>
-  <string name="unbind_device_alert_ok">U redu</string>
+  <string name="unbind_device_alert_content">Izgubljena je veza s %1$s. Da sačuvate bateriju, prekinite vezu s tim uređajem.</string>
+  <string name="unbind_device_alert_ok">Prekini vezu</string>
   <string name="unbind_device_alert_title">Prekini vezu s uređajem</string>
   <string name="unknownName">Nepoznati naziv</string>
   <string name="unknownNumber">Nepoznato</string>

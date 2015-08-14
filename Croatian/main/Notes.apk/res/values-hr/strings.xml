@@ -5,12 +5,15 @@
   <string name="alert_action_edit_anyway">Nastavi uređivati</string>
   <string name="alert_edit_action_delete">Ukloni</string>
   <string name="alert_edit_action_update">Izmijeni</string>
-  <string name="alert_message_delete_folders">Izbrisati: %1$s?</string>
+  <string name="alert_message_delete">Izbrisati %1$s?</string>
+  <string name="alert_message_delete_folders">Izbrisati %1$s?</string>
   <string name="alert_message_delete_folders_notes">Izbrisati %1$s i %2$s?</string>
   <string name="alert_message_delete_note">Izbrisati ovu bilješku?</string>
   <string name="alert_message_delete_notes">Izbrisati %1$s?</string>
   <string name="alert_message_edit_anyway">Ako uredite ovu bilješku, nešto od sadržaja može biti izgubljeno.</string>
   <string name="alert_title_edit_anyway">Ova bilješka sadrži nepodržani sadržaj</string>
+  <string name="alert_title_delete">Izbriši bilješku</string>
+  <string name="all_terms">%1$s i %2$s</string>
   <string name="app_name">Bilješke</string>
   <string name="app_widget">Bilješke</string>
   <string name="attachment_camera">"Kamera"</string>
@@ -48,6 +51,7 @@
   <string name="menu_stick">Pričvrsti</string>
   <string name="menu_title_select_folder">Odaberi mapu</string>
   <string name="menu_unstick">Oslobodi</string>
+  <string name="micloud_state_total_count">%1$s</string>
   <string name="not_now">Ne sada</string>
   <string name="note_alert_expired">Isteklo</string>
   <string name="note_link_email">"Pošalji e-poštu"</string>

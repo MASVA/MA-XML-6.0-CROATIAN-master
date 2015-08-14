@@ -9,6 +9,8 @@
   <string name="caller_info_name_delimiter">" ili "</string>
   <string name="copy">Kopiraj</string>
   <string name="cut">Izreži</string>
+  <string name="fc_dialog_body">Poslati izvještaj o pogrešcina Mi za analizu? Ovo izvješće može sadržavati osobne podatke. Vaše će se izvješće koristiti za pomoć riješavanja ove pogreške i nikada neće se dijeliti u komercijalnom kontekstu.</string>
+  <string name="fc_dialog_jump_to_preview">Pregled sažetka</string>
   <string name="first_back_long_press_message">"Dugi pritisak na tipku "Natrag" će zaustaviti trenutni proces i njegove pozadinske usluge. Za omogućavanje ove funkcije, idite na Postavke &gt; Sustav &gt; Tipke</string>
   <string name="fm_record_smaple_prefix_miui">FM Snimanje</string>
   <string name="force_exit_message">Uspješno zatvorena aplikacija: \"%1$s\"</string>
@@ -16,7 +18,9 @@
   <string name="global_actions_airplane_mode">"Zrakoplovni način"</string>
   <string name="global_actions_reboot">"Ponovno pokreni"</string>
   <string name="global_actions_shutdown">"Isključi"</string>
-  <string name="global_actions_silent_mode">"Bešumni način"</string>
+  <string name="global_actions_silent_mode">"Bešumno"</string>
+  <string name="handy_mode_enter_dlg_msg">Ući u Upravljanje jednom rukom?</string>
+  <string name="handy_mode_enter_dlg_title">Uđi u Upravljanje jednom rukom</string>
   <string name="handy_mode_summary">Da zatvorite, dodirnite tamno područje zaslona</string>
   <string name="handy_mode_title">Upravljanje jednom rukom</string>
   <string name="key_btn_ok">U redu</string>

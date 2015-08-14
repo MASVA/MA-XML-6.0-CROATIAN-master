@@ -229,6 +229,13 @@
         <item>mjesec</item>
         <item>godina</item>
     </string-array>
+	<string-array name="travel_reminder_minutes_labels">
+        <item>3 sata</item>
+        <item>4 sata</item>
+        <item>5 sati</item>
+        <item>6 sati</item>
+        <item>1 dan</item>
+    </string-array>
     <string-array name="repeat_choose_day">
         <item>1.</item>
         <item>2.</item>

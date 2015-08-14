@@ -24,8 +24,25 @@
         <item>1GB</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>Pitaj uz obavijest</item>
-        <item>Očisti u pozadini</item>
-        <item>Prikaži obavijest nakon čišćenja</item>
+        <item>Prikaži</item>
+        <item>Ne prikazuj</item>
+        <item>Prikaži kasnije</item>
+    </string-array>
+	<string-array name="cache_clean_menu">
+        <item>Očisti</item>
+        <item>Datoteka</item>
+        <item>Iznimka</item>
+    </string-array>
+    <string-array name="apk_clean_menu">
+        <item>Očisti</item>
+        <item>Datoteka</item>
+        <item>Iznimka</item>
+        <item>Instaliraj</item>
+    </string-array>
+    <string-array name="app_clean_menu">
+        <item>Detalji</item>
+        <item>Datoteka</item>
+        <item>Napravi Sig. kopiju i deinstaliraj</item>
+        <item>Deinstaliraj</item>
     </string-array>
 </resources>

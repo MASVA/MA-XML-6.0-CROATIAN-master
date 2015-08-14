@@ -13,8 +13,9 @@
   <string name="calibrate_tip">Naginjite uređaj da kotrljate loptom oko kruga</string>
   <string name="calibrate_title">Kalibriranje kompasa</string>
   <string name="cannot_get_location">--</string>
+  <string name="dialog_body_no_network">"Ne mogu se povezati na mrežu"</string>
   <string name="dialog_calibrat_altitude">Kalibriranje…</string>
-  <string name="dialog_title_no_network">"Ne mogu se povezati na mrežu"</string>
+  <string name="dialog_title_no_network">Uključite podatke</string>
   <string name="direction_east">I</string>
   <string name="direction_north">S</string>
   <string name="direction_north_east">SI</string>
@@ -24,6 +25,8 @@
   <string name="direction_south_west">JZ</string>
   <string name="direction_west">Z</string>
   <string name="do_not_show_next_time">"Ne pokazuj ponovo"</string>
+  <string name="error_camera_unavailable">Provjerite da li druga aplikacija trenutno koristi Kameru.</string>
+  <string name="error_camera_unavailable_title">Kamera nije dostupna</string>
   <string name="first_using_dialog_message">"Kompas treba koristiti mrežnu vezu, kameru i usluge lokacije vašeg uređaja za ispravan rad."</string>
   <string name="first_using_dialog_title">Dopuštenje pristupa</string>
   <string name="getting_location">Kalibriranje…</string>

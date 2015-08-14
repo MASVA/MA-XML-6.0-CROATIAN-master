@@ -25,6 +25,9 @@
   <string name="chinese_youth_day"/>
   <string name="christmas_day"/>
   <string name="clear_and_bright"/>
+  <string name="cloud_state_disabled">Sinkronizacija s Mi Cloud je isključena</string>
+  <string name="cloud_state_finished">Sinkronizirano s Mi Cloud</string>
+  <string name="cloud_state_syncing">Sinkronizirano s Mi Cloud</string>
   <string name="cold_dews"/>
   <string name="copy">Kopiraj</string>
   <string name="cut">Izreži</string>
@@ -44,7 +47,7 @@ Za uključivanje ove značajke, idite na Postavke &gt; Dodatne postavke &gt; Tip
   <string name="global_actions_airplane_mode">"Zrakoplovni način"</string>
   <string name="global_actions_reboot">"Ponovno pokreni"</string>
   <string name="global_actions_shutdown">"Isključi"</string>
-  <string name="global_actions_silent_mode">"Bešumni način"</string>
+  <string name="global_actions_silent_mode">"Bešumno"</string>
   <string name="good_friday"/>
   <string name="grain_buds"/>
   <string name="grain_in_ear"/>
@@ -145,7 +148,7 @@ idite na: %s."</string>
   <string name="status_bar_toggle_data">Podaci</string>
   <string name="status_bar_toggle_divider">Više</string>
   <string name="status_bar_toggle_drive_mode">AUTO</string>
-  <string name="status_bar_toggle_flight_mode">Zrakoplov mod</string>
+  <string name="status_bar_toggle_flight_mode">Zrakoplov</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Zaklj.</string>
   <string name="status_bar_toggle_mute">Bešumno</string>
@@ -156,7 +159,7 @@ idite na: %s."</string>
   <string name="status_bar_toggle_quiet_mode">Ne ometaj</string>
   <string name="status_bar_toggle_reboot">Ponovno pokretanje</string>
   <string name="status_bar_toggle_rotate">Rotacija</string>
-  <string name="status_bar_toggle_screen_button">Gumbi</string>
+  <string name="status_bar_toggle_screen_button">Tipke</string>
   <string name="status_bar_toggle_screenshot">Snimka zaslona</string>
   <string name="status_bar_toggle_shutdown">Isključivanje</string>
   <string name="status_bar_toggle_sync">Sinkr.</string>
@@ -189,7 +192,7 @@ idite na: %s."</string>
   <string name="winter_begins"/>
   <string name="winter_solstice"/>
   <string name="yellow_page_module_sms_sent">SMS poruka poslana.</string>
-  <string name="yellow_page_sms_disabled_in_privacy_mode">"Ne mogu slati poruke u "Gost" načinu rada."</string>
+  <string name="yellow_page_sms_disabled_in_privacy_mode">"Ne mogu slati poruke u načinu rada "Gost"."</string>
   <string name="yellow_page_sms_send_failed">"Ne mogu poslati SMS poruku"</string>
   <string name="yellow_page_sms_sending">Šaljem…</string>
   <string name="yellow_page_unable_send_sms">Ne mogu poslati SMS poruku.</string>

@@ -149,7 +149,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="sina_share_success">Poslano</string>
   <string name="sina_token_expired_warning">Weibo račun je istekao. Morate se ponovno prijaviti</string>
   <string name="sina_token_invalid_warning">Weibo račun je istekao. Morate se ponovno prijaviti</string>
-  <string name="sogou_uninstall_msg">Sogou tipkovnica (Mi Edition) više nije kompatibilna sa MIUI 6. Promjenite tipkovnicu ili ažurirajte na noviju Sogou verziju.</string>
+  <string name="sogou_uninstall_msg">Sogou tipkovnica (Mi Edition) više nije kompatibilna sa MIUI 7. Promjenite tipkovnicu ili ažurirajte na noviju Sogou verziju.</string>
   <string name="sogou_uninstall_negative_button">Ažuriraj Sogou</string>
   <string name="sogou_uninstall_positive_button">Promjeni tipkovnicu</string>
   <string name="sogou_uninstall_title">Kompatibilnost tipkovnice</string>
@@ -221,6 +221,6 @@ Ne mogu poslati Povratnu informaciju"</string>
   <string name="weekly_build">Tjedno izdanje</string>
   <string name="welcom_button">U redu</string>
   <string name="welcom_message">"Spremni ste da rasturite"</string>
-  <string name="welcom_title">Dobrodošli u MIUI 6</string>
+  <string name="welcom_title">Dobrodošli u MIUI 7</string>
   <string name="worst_update">Najgore ažuriranje do sad</string>
 </resources>

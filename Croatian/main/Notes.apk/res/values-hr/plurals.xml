@@ -16,4 +16,8 @@
         <item quantity="other">Mapa: %1$s</item>
         <item quantity="one">%1$s mapa</item>
     </plurals>
+	<plurals name="cloud_state_unsynced_count">
+        <item quantity="other">"%1$s još nije sinkronizirano"</item>
+        <item quantity="one">"%1$s još nije sinkroniziran"</item>
+    </plurals>
 </resources> 

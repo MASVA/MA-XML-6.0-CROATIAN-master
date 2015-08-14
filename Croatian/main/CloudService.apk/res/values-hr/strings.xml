@@ -67,8 +67,8 @@ Zadnja Sig. kopija: %2$s"</string>
   <string name="error_unauthorized">Previše pokušaja prijavljivanja: Sinkronizacija je onemogućena.</string>
   <string name="error_unknown">"Ne mogu se prijaviti"</string>
   <string name="find_device">"Pronađi uređaj" uključeno</string>
-  <string name="find_device_disabled_notice">Možete uključiti/isključiti značajku "Pronađi Uređaj" bilo kada u MiCloud &gt; Postavke.</string>
-  <string name="find_device_disabled_title">"Pronađi Uređaj" isključeno</string>
+  <string name="find_device_disabled_notice">"Možete uključiti/isključiti značajku "Pronađi Uređaj" bilo kada u postavkama MiClouda."</string>
+  <string name="find_device_disabled_title">"Pronađi Uređaj" je isključen</string>
   <string name="find_device_disabling">Isključivanje…</string>
   <string name="find_device_dspt">Locirajte, zaključajte, ili resetiratjte vaš uređaj na daljinu</string>
   <string name="find_device_dspt_provision">"Ako izgubite svoj uređaj, možete ići na %s za pronalaženje, zaključavanje, ili ga poništiti. 
@@ -116,6 +116,7 @@ na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_check_sim_notify_title">Ponovno aktiviraj MiCloud</string>
   <string name="micloud_check_sim_title">"Izgleda da ste promijenili SIM kartice. Prijavite se
 na vaš Mi Račun za aktiviranje Mi Clouda."</string>
+  <string name="micloud_detail_download_syncing">Preuzimanje %s</string>
   <string name="micloud_detail_fail">"Ne mogu sinkr."</string>
   <string name="micloud_detail_lastest">Sinkronizirano</string>
   <string name="micloud_detail_pending">Na čekanju</string>
@@ -123,6 +124,7 @@ na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_detail_preference_wlan">Sink. na WLAN-u</string>
   <string name="micloud_detail_success">Sinkronizirano</string>
   <string name="micloud_detail_syncing">Sinkroniziram</string>
+  <string name="micloud_detail_upload_syncing">Učitavanje %s</string>
   <string name="micloud_detail_wlan">%d čeka na sinkr.</string>
   <string name="micloud_detail_wlan_contact">%d slika konatakata čeka na sinkr.</string>
   <string name="micloud_detail_wlan_mms">%d MMS-a čeka na sinkr.</string>
@@ -253,7 +255,7 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="mx_dspt_provision_with_voip2">Pravila o Privatnosti</string>
   <string name="mx_sub_dspt_provision">Mi Poruka</string>
   <string name="mx_sub_dspt_provision_with_voip">Internetski pozivi</string>
-  <string name="mx_voip_dspt">Mi Komunikacija</string>
+  <string name="mx_voip_dspt">Mi Voice</string>
   <string name="next">Dalje</string>
   <string name="noRemind">"Ne podsjećaj me"</string>
   <string name="no_sim">"Nema SIM kartice"</string>
@@ -264,8 +266,8 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="photo">Fotografije</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">"Sinkronizacija slike kontakata samo kada ste povezani na WLAN mreže"</string>
   <string name="pref_title_sync_contacts_title">Sinkroniziraj kontakte</string>
-  <string name="pref_title_sync_display_photo_on_wifi_only">Koristi samo WLAN za sink. fotografija.</string>
-  <string name="pref_title_sync_my_profile_title">Sinkroniziraj profil</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only">Koristi samo WLAN za sinkr. fotografija.</string>
+  <string name="pref_title_sync_video_on_wifi_only">Koristiti samo WLAN za sinkr. videozapisa.</string>
   <string name="privacy_policy">Pravila o privatnosti</string>
   <string name="remind_later">Ne sada</string>
   <string name="restoreSync">Sinkroniziraj sada</string>

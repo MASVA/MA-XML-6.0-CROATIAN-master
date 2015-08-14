@@ -16,6 +16,8 @@
   <string name="download_running">U tijeku</string>
   <string name="download_running_percent">U tijeku, %d%%</string>
   <string name="download_unknown_title">&lt;Bez naslova&gt;</string>
+  <string name="enter_garbage_clean">Očistite unutarnju memoriju.</string>
+  <string name="insufficient_space">"Nema dovoljno prostora na unutarnjoj pohrani vašeg uređaja"</string>
   <string name="notif_text_engine_off">Xunlei accelerator je isključen.</string>
   <string name="notif_text_engine_on">Ubrzavanje preuzimanja…(samo za Kinu)</string>
   <string name="notif_title_file_size">Veličina: %%1$d</string>
